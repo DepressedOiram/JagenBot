@@ -47,7 +47,7 @@ inventory:item_calc("as", inventory_as)
 inventory:item_calc("hit", inventory_hit)
 inventory:item_calc("crit", inventory_crit)
 
-inventory.eff_might = 3
+inventory.eff_multiplier = 3
 
 ---------------------------------------------------
 -- Character --

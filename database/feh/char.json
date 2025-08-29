@@ -175319,7 +175319,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "diamant2"
+      "diamant2",
+      "diamant3"
     ],
     "prf": {
       "": "fairfightblade",
@@ -208531,7 +208532,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "diamant"
+      "diamant",
+      "diamant3"
     ],
     "prf": {
       "": "boldkusarigama",
@@ -229491,6 +229493,183 @@
       "spd": "crypticvalaskjalf",
       "def": "crypticvalaskjalf",
       "res": "crypticvalaskjalf"
+    }
+  },
+  "diamant3": {
+    "name": "Diamant",
+    "title": "Fortified King",
+    "description": "Young king of Brodia. Possesses a tenacious heart that stands against adversity without fail. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Dd",
+    "move": "Infantry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": "215",
+    "id": "1282",
+    "type": "legendary",
+    "version": "9.8",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 7,
+      "def": 16,
+      "res": 6
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 70,
+      "def": 75,
+      "res": 50
+    },
+    "superboon": [
+      "atk",
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Fortified Axe": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Distant Counter": "4",
+        "D Bonus Amp": "5"
+      },
+      "B": {
+        "Fair Fight": "5"
+      },
+      "C": {
+        "Even Tempest 1": "2",
+        "Even Tempest 2": "3",
+        "Even Tempest 3": "4",
+        "Brutal Tempest": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Diamant_Fortified_King_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Diamant_Fortified_King_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Diamant_Fortified_King_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/50/Diamant_Fortified_King_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
+    ],
+    "HARD_ALT_NAME": [
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u4f1d\u627f\u30c7\u30a3\u30a2\u30de\u30f3\u30c9",
+    "voice": "Stephen Fu",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I have fond memories of Roy as the Emblem entrusted to my country.\nWhen I encounter other Roys, I feel I may unintentionally speak to them as though they were him.",
+        "In Elyos, the thirteen rings exist along with a single Emblem now. A great person who brought us all together.",
+        "I saw many a general and king perish on the battlefield in the last war. I ask that you not push beyond your limits.",
+        "I shall rule as the new king of Brodia, with my father's strength...and amiability toward Elusia he never had.",
+        "Ore and crystals mined in Brodia are exported to Elusia. Proof one can work amicably with a former enemy."
+      ],
+      "Visit": [
+        "Am I to understand you are a friend of [F]?\nDo not hesitate to visit our castle and nurture a friendship that will last for a long time to come."
+      ],
+      "Level": [
+        "As king of Brodia, I want to present an image that the people can be proud of.",
+        "These are satisfying results. You have my gratitude.",
+        "This does not mean our forces have been weakened. Let us fight on with the strength we have."
+      ],
+      "Summon": [
+        "I am Diamant, king of Brodia. With all my might, I will help bring peace and prosperity to every land."
+      ],
+      "Learn Skill": [
+        "As an inexperienced king, I am pleased to know I have your confidence."
+      ],
+      "Confession": [
+        "Ah, it's you, [S]. I was deep in thought, thinking about the kind of king I will be for Brodia.\nI never believed I was as strong as my father. Now, as king, I realize he must have felt the same way I do.\nThough he may have been fearful and uncertain at times, he maintained the image of a strong king for all of us.\nI had opinions about his policies, but I should follow his example, and give people a sturdy shoulder to lean on.\nIt would be difficult to accomplish alone. I will count on you. I hope you can listen as a friend whom I trust."
+      ],
+      "Special": [
+        "This will hurt.",
+        "Rise up!",
+        "With a king's pride!",
+        "For Brodia!"
+      ],
+      "Status": [
+        "Ah.",
+        "Shortly after the war ended, I was crowned the king of Brodia.",
+        "*chuckle* That tickles. Laughter really does release tension.",
+        "Alcryst and my retainers have continued to support me since my ascension to the throne.",
+        "Though many oppose the idea, I would like to work toward friendly relations with Elusia during my reign.",
+        "\"Rise up, Emblem of Binding...\" *sigh* I realize the invocation serves no purpose for me, and yet...",
+        "Father, I will honor your last words to me, and continue to live...strong of body...strong of heart.",
+        "We continue protecting Elyos alongside the Divine Dragon. That is, the Divine Dragon Monarch. Being under different skies does not change that."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Always ready.",
+        "Going now."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Legendary Diamant",
+    "SEARCH_NAME": "Legendary Diamant",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Legendary Diamant",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "diamant",
+      "diamant2"
+    ],
+    "prf": {
+      "": "fortifiedaxe",
+      "eff": "fortifiedaxe",
+      "atk": "fortifiedaxe",
+      "spd": "fortifiedaxe",
+      "def": "fortifiedaxe",
+      "res": "fortifiedaxe"
+    },
+    "blessing": "Earth",
+    "boost": {
+      "hp": 3,
+      "def": 4
     }
   }
 }

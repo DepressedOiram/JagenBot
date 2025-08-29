@@ -266,6 +266,7 @@
                 "Binding Reginleif",
                 "Blue Yule Axe",
                 "Ebon B\u00f6lverk",
+                "Fortified Axe",
                 "Garm",
                 "Huge Fan+",
                 "Legacy Axe",
@@ -349,6 +350,7 @@
                 "Sly Swift Sparrow",
                 "Sly Sturdy Blow",
                 "Sly Mirror",
+                "D Bonus Amp",
                 "Atk/Spd Hexblade",
                 "Spd/Res Hexblade",
                 "Bonus Doubler 4",
@@ -370,6 +372,7 @@
                 "Lull Spd/Def 4",
                 "Lull Spd/Res 4",
                 "S/R Lull Finish",
+                "Fair Fight",
                 "Fallen Star II",
                 "Pure Atrocity"
             ],
@@ -471,7 +474,9 @@
                 "Sublime Creator"
             ],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Fortified Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -2864,7 +2869,9 @@
             "Lance": [
                 "Swirling Lance"
             ],
-            "Axe": [],
+            "Axe": [
+                "Fortified Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -2879,7 +2886,9 @@
         },
         "reference_skill": false,
         "reference_hero": {},
-        "HARD_ALT_NAME": []
+        "HARD_ALT_NAME": [
+            "Spd Increase"
+        ]
     },
     "foresightsnare": {
         "name": "Foresight Snare",
@@ -4161,7 +4170,8 @@
                 "Wing-Lifted Spear"
             ],
             "Axe": [
-                "Desert-Tiger Axe"
+                "Desert-Tiger Axe",
+                "Fortified Axe"
             ],
             "Staff": [
                 "Martyr's Staff"

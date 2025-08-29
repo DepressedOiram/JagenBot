@@ -7296,7 +7296,8 @@
         "lapis3": "3",
         "ingrid4": "3",
         "baldr2": "3",
-        "bruno": "3"
+        "bruno": "3",
+        "diamant3": "3"
       }
     },
     "refine": {},
@@ -7490,7 +7491,8 @@
         "mcorrin8": "4",
         "fafnir": "4",
         "baldr2": "4",
-        "bruno": "4"
+        "bruno": "4",
+        "diamant3": "4"
       }
     },
     "refine": {},
@@ -11064,7 +11066,8 @@
         "ike8": "4",
         "ytiki7": "4",
         "blackknight3": "4",
-        "machyua": "4,"
+        "machyua": "4",
+        "diamant3": "4"
       }
     },
     "refine": {},
@@ -81214,7 +81217,8 @@
         "marth6": "5",
         "mareeta3": "5",
         "diamant2": "4",
-        "lapis3": "4"
+        "lapis3": "4",
+        "diamant3": "4"
       },
       "Even Tempest 2": {},
       "Even Tempest 1": {}
@@ -136394,7 +136398,8 @@
     "reference": {
       "Brutal Tempest": {
         "ayra3": "5",
-        "larcei3": "5"
+        "larcei3": "5",
+        "diamant3": "5"
       }
     },
     "icon": 2341,
@@ -142559,6 +142564,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "S/R Far Trace 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -142648,6 +142656,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Solo 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -142761,6 +142772,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Form 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -142869,6 +142883,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Solo 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -143081,6 +143098,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sturdy Blow 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -143120,6 +143140,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Def 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -143259,6 +143282,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Oath 3"
+        ],
         "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Atk/Spd+6 and\u3010Bulwark\u3011to unit for 1 turn.\nIf\u3010Bulwark\u3011is active on unit, grants Atk/Spd+4 to unit, reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown count-1 to unit before foe's first attack during combat.\n\u3010Bulwark\u3011\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills).\nFoes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).",
         "slot": "Passive C",
         "exclusive": false,
@@ -143387,6 +143413,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "A/D Near Save 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -143491,6 +143520,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Astra"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -143568,6 +143600,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Rein 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -143616,6 +143651,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Res Catch 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -143649,6 +143687,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sabotage Atk 3",
+          "Sabotage Def 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -143857,6 +143899,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Hone Atk 3",
+          "Hone Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -143971,6 +144017,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Odd Tempest 3",
+          "Even Tempest 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": [
@@ -144130,6 +144180,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Res Snag 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -144247,6 +144300,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Bond 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -144270,7 +144326,7 @@
     },
     "icon": 2493,
     "HARD_ALT_NAME": [
-      "Atk/Res Mastery"
+      "Atk/Spd Aria"
     ],
     "ALT_NAME": [],
     "slot": "Passive A",
@@ -144284,6 +144340,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Chill Spd/Res 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -144391,6 +144450,9 @@
           "cooldown": "5",
           "sp": "500"
         },
+        "required": [
+          "Dragon Fang"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -144415,7 +144477,8 @@
     ],
     "reference": {
       "Archrival": {
-        "baldr2": "5"
+        "baldr2": "5",
+        "diamant3": "5"
       }
     },
     "icon": false,
@@ -144508,6 +144571,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Swap"
+        ],
         "slot": "Assist",
         "exclusive": false,
         "restriction_weapon": [
@@ -144577,6 +144643,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "A/D Near Save 3",
+          "A/D Far Save 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -144684,6 +144754,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Velocity 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -144754,5 +144827,122 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_mg505"
+  },
+  "fortifiedaxe": {
+    "name": "Fortified Axe",
+    "skill": [
+      {
+        "name": "Fortified Axe",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, if unit's HP \u2265 25%, grants\u3010Bulwark\u3011, \"neutralizes unit's penalties during combat,\" and \"increases Spd difference necessary for foe to make a follow-up attack by 10 during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nIf foe initiates combat or if unit's HP \u2265 25% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), unit deals +X \u00d7 5 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X \u00d7 3 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional X \u00d7 3 (excluding area-of-effect Specials; X = number of \u3010Bonus\u3011effects active on unit and foe, excluding stat bonuses; max 5), and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack), and also, when unit deals damage to foe during combat, restoes 7 HP to unit.\n\u3010Bulwark\u3011\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills).\nFoes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Fortified Axe": {
+        "diamant3": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Fortified Axe",
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax175"
+  },
+  "dbonusamp": {
+    "name": "D Bonus Amp",
+    "skill": [
+      {
+        "name": "D Bonus Amp",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Distant Counter"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Unit can counterattack regardless of foe's range.\nGrants bonus to unit's Atk/Spd/Def/Res during combat = number of \u3010Bonus\u3011effects active on unit, excluding stat bonuses, \u00d7 2 (max 8).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+      }
+    ],
+    "reference": {
+      "D Bonus Amp": {
+        "diamant3": "5"
+      }
+    },
+    "icon": 2500,
+    "HARD_ALT_NAME": [
+      "D Bonus Amp"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "fairfight": {
+    "name": "Fair Fight",
+    "skill": [
+      {
+        "name": "Fair Fight",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive B",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "If\u3010Bonus\u3011is active on foe, or if unit's Def > foe's Def, unit attacks twice during combat.\nInflicts Atk/Spd/Def-5 on foe, deals damage = 25% of unit's Def (excluding area-of-effect Specials), reduces damage from foe's attacks by 25% of unit's Def (inlcuding area-of-effect Specials; excluding Røkkr area-of-effect Specials), reduces damage from the second strike of foe's first attack by an additional 25% of unit's Def, and for both unit and foe, neutralizes \"reduces damage by X%\" effects from non-Special skills (excluding area-of-effect Specials), neutralizes effects that guarantee follow-up attacks, and increases Spd necessary to make a follow-up attack by 20 during combat.\nIf unit initiates combat, grants Special cooldown count-2 to unit before unit's first attack during combat.\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+      }
+    ],
+    "reference": {
+      "Fair Fight": {
+        "diamant3": "5"
+      }
+    },
+    "icon": 2501,
+    "HARD_ALT_NAME": [
+      "Fair Fight"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
   }
 }

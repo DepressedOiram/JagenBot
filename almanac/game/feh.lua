@@ -1171,6 +1171,23 @@ function Skill:show_tier(index, minimal)
         
         return result
     end
+
+    if tier.required then
+        local requirecount = 0
+        text = text .. "\n\n**Required:** "
+        for key, value in pairs(tier.required) do
+            if (#tier.required > 1) then
+                if (requirecount == 0) then
+                    text = text .. value .. " or\n"
+                else
+                    text = text .. value
+                end
+                requirecount = requirecount + 1
+            else
+                text = text .. value
+            end
+        end
+    end
     
     if not minimal then
         text = text .. "\n\n" .. restriction(tier.restriction_weapon)

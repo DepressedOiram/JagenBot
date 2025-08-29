@@ -11,7 +11,7 @@ local Item = {}
 ---------------------------------------------------
 local inventory = fe8.Character.inventory:use_as_base()
 
-inventory.eff_might = 2
+inventory.eff_multiplier = 2
 
 ---------------------------------------------------
 -- Character --

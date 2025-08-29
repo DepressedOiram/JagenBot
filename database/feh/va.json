@@ -26363,18 +26363,31 @@
       "Diamant: Gallant Ninja",
       "Ninja Diamant",
       "N Diamant",
-      "diamant2"
+      "diamant2",
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
     ],
     "HARD_ALT_NAME": [
       "Gallant Ninja",
       "Diamant: Gallant Ninja",
       "Ninja Diamant",
       "N Diamant",
-      "diamant2"
+      "diamant2",
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
     ],
     "heroes": {
       "diamant": "<:Red_Sword:1317239717707911188>Diamant",
-      "diamant2": "<:Green_Axe:1317239517136031897>Ninja Diamant"
+      "diamant2": "<:Green_Axe:1317239517136031897>Ninja Diamant",
+      "diamant3": "<:Green_Axe:1317239517136031897>Legendary Diamant"
     },
     "name": "Stephen Fu"
   },

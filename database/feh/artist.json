@@ -28447,6 +28447,7 @@
   "dd": {
     "heroes": {
       "malear4": "<:Red_Sword:1317239717707911188>Fallen Male Alear",
+      "diamant3": "<:Green_Axe:1317239517136031897>Legendary Diamant",
       "innes4": "<:Colorless_Bow:1317239404204654703>New Year Innes",
       "leo5": "<:Colorless_Tome:1317239438602145842>Festival Leo",
       "yukimura": "<:Colorless_Dagger:1317239418943438869>Yukimura"
@@ -28492,7 +28493,13 @@
       "Male Fallen Alear",
       "malear4",
       "Fallen M Alear",
-      "Male Alear 4"
+      "Male Alear 4",
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
     ],
     "HARD_ALT_NAME": [
       "Puppet Master",
@@ -28534,7 +28541,13 @@
       "Male Fallen Alear",
       "malear4",
       "Fallen M Alear",
-      "Male Alear 4"
+      "Male Alear 4",
+      "Fortified King",
+      "Diamant: Fortified King",
+      "Legendary Diamant",
+      "L Diamant",
+      "Leg Diamant",
+      "diamant3"
     ]
   },
   "takubon": {

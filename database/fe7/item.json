@@ -2512,7 +2512,10 @@
             "price per use": 75,
             "sell": 600
         },
-        "weapon": true
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
     },
     "shortspear": {
         "name": "Short Spear",

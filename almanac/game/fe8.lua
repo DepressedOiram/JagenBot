@@ -26,7 +26,7 @@ local gba_pack = util.emoji.get("database/emoji_gba.json")
 ---------------------------------------------------
 local inventory = util.math.Inventory:new()
 
-inventory.eff_might = 3
+inventory.eff_multiplier = 3
 
 local function inventory_atk(data, unit, item)
     return unit.stats.atk + item.stats.mt
