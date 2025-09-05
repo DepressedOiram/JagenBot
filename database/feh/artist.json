@@ -1301,7 +1301,14 @@
       "Summer Fogado",
       "S Fogado",
       "Beach Fogado",
-      "fogado2"
+      "fogado2",
+      "Pivotal Blow",
+      "Chrom: Pivotal Blow",
+      "Gladiator Chrom",
+      "G Chrom",
+      "Ferox Chrom",
+      "F Chrom 2",
+      "chrom9"
     ],
     "HARD_ALT_NAME": [
       "gaiusR",
@@ -1524,11 +1531,19 @@
       "Summer Fogado",
       "S Fogado",
       "Beach Fogado",
-      "fogado2"
+      "fogado2",
+      "Pivotal Blow",
+      "Chrom: Pivotal Blow",
+      "Gladiator Chrom",
+      "G Chrom",
+      "Ferox Chrom",
+      "F Chrom 2",
+      "chrom9"
     ],
     "heroes": {
       "alfonse3": "<:Blue_Tome:1317239386491977749>Duo Alfonse",
       "alfonse4": "<:Green_Tome:1317239575352971396>Valentines Alfonse",
+      "chrom9": "<:Colorless_Bow:1317239404204654703>Ferox Chrom",
       "conrad2": "<:Red_Sword:1317239717707911188>Valentines Conrad",
       "fogado2": "<:Colorless_Dagger:1317239418943438869>Summer Fogado",
       "mcorrin4": "<:Blue_Breath:1317239355835813939>Fallen Male Corrin",
@@ -6465,7 +6480,17 @@
       "CYL Bernie",
       "B Bernie",
       "Choose Your Legends Bernie",
-      "bernie4"
+      "bernie4",
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
     ],
     "HARD_ALT_NAME": [
       "Bridal Reflections",
@@ -6533,13 +6558,24 @@
       "CYL Bernie",
       "B Bernie",
       "Choose Your Legends Bernie",
-      "bernie4"
+      "bernie4",
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
     ],
     "heroes": {
       "bernadetta4": "<:Blue_Bow:1317239347577356328>Brave Bernadetta",
+      "fir4": "<:Red_Sword:1317239717707911188>Ferox Fir",
       "lucina7": "<:Green_Axe:1317239517136031897>Rearmed Lucina",
       "opheliaR": "<:Blue_Tome:1317239386491977749>Ophelia (Resplendent)",
-      "atiki4": "<:Colorless_Breath:1317239411980767363>Harmonic Adult Tiki"
+      "atiki4": "<:Colorless_Breath:1317239411980767363>Bridal Adult Tiki"
     },
     "name": "Gesoking (\u30b2\u30bd\u304d\u3093\u3050)"
   },
@@ -19667,7 +19703,20 @@
       "robin17",
       "mgrima",
       "grima",
-      "grima1"
+      "grima1",
+      "Leading Gladiator",
+      "Chulainn: Leading Gladiator",
+      "Gladiator Chulainn",
+      "G Chulainn",
+      "Ferox Chulainn",
+      "F Chulainn",
+      "chulainn2",
+      "Holyn: Leading Gladiator",
+      "Gladiator Holyn",
+      "G Holyn",
+      "Ferox Holyn",
+      "F Holyn",
+      "holyn2"
     ],
     "HARD_ALT_NAME": [
       "ryouma4",
@@ -20062,7 +20111,20 @@
       "robin17",
       "mgrima",
       "grima",
-      "grima1"
+      "grima1",
+      "Leading Gladiator",
+      "Chulainn: Leading Gladiator",
+      "Gladiator Chulainn",
+      "G Chulainn",
+      "Ferox Chulainn",
+      "F Chulainn",
+      "chulainn2",
+      "Holyn: Leading Gladiator",
+      "Gladiator Holyn",
+      "G Holyn",
+      "Ferox Holyn",
+      "F Holyn",
+      "holyn2"
     ],
     "heroes": {
       "ares": "<:Red_Sword:1317239717707911188>Ares",
@@ -20070,6 +20132,7 @@
       "bruno2": "<:Colorless_Staff:1317239426866483261>Spring Bruno",
       "catherine": "<:Red_Sword:1317239717707911188>Catherine",
       "chromR": "<:Red_Sword:1317239717707911188>Chrom (Resplendent)",
+      "chulainn2": "<:Green_Axe:1317239517136031897>Ferox Chulainn",
       "cornelia": "<:Colorless_Staff:1317239426866483261>Cornelia",
       "mcorrin7": "<:Green_Breath:1317239551693164595>Legendary Male Corrin",
       "cyril": "<:Red_Bow:1317239680571543592>Cyril",
@@ -22720,7 +22783,14 @@
       "Resplendent Narcian",
       "Resp Narcian",
       "R Narcian",
-      "Narcian (Resplendent)"
+      "Narcian (Resplendent)",
+      "Former Gladiator",
+      "Ogma: Former Gladiator",
+      "Gladiator Ogma",
+      "G Ogma",
+      "Ferox Ogma",
+      "F Ogma",
+      "ogma3"
     ],
     "HARD_ALT_NAME": [
       "Normal Sirius",
@@ -22904,7 +22974,14 @@
       "Resplendent Narcian",
       "Resp Narcian",
       "R Narcian",
-      "Narcian (Resplendent)"
+      "Narcian (Resplendent)",
+      "Former Gladiator",
+      "Ogma: Former Gladiator",
+      "Gladiator Ogma",
+      "G Ogma",
+      "Ferox Ogma",
+      "F Ogma",
+      "ogma3"
     ],
     "heroes": {
       "camus": "<:Blue_Lance:1317239378208096338>Camus",
@@ -22926,6 +23003,7 @@
       "narcianR": "<:Green_Axe:1317239517136031897>Narcian (Resplendent)",
       "nilesR": "<:Colorless_Bow:1317239404204654703>Niles (Resplendent)",
       "odin": "<:Blue_Tome:1317239386491977749>Odin",
+      "ogma3": "<:Red_Sword:1317239717707911188>Ferox Ogma",
       "owain": "<:Red_Sword:1317239717707911188>Owain",
       "sirius": "<:Blue_Lance:1317239378208096338>Sirius",
       "sylvain3": "<:Blue_Lance:1317239378208096338>Spring Sylvain",
@@ -29455,6 +29533,7 @@
   },
   "hanada": {
     "heroes": {
+      "lucina9": "<:Blue_Lance:1317239378208096338>Ferox Marth",
       "xane3": "<:Blue_Tome:1317239386491977749>Ancient Xane"
     },
     "name": "hanada (\u306F\u306A\u3060)",
@@ -29469,7 +29548,19 @@
       "Chainy: Fickle Dragon",
       "Ancient Chainy",
       "cheney3",
-      "chainy3"
+      "chainy3",
+      "Masked Gladiator",
+      "Marth: Masked Gladiator",
+      "Gladiator Marth",
+      "G Marth",
+      "Ferox Marth",
+      "F Marth",
+      "Lucina: Masked Gladiator",
+      "Gladiator Lucina",
+      "G Lucina",
+      "Ferox Lucina",
+      "F Lucina",
+      "lucina9"
     ]
   },
   "fujimitsuya": {
@@ -29634,6 +29725,18 @@
       "Teatime Celine",
       "c\u00e9line3",
       "celine3"
+    ]
+  },
+  "genkienjin": {
+    "heroes": {
+      "nagaR": "<:Blue_Breath:1317239355835813939>Naga (Resplendent)"
+    },
+    "name": "GENKIENJIN",
+    "ALT_NAME": [
+      "Resplendent Naga",
+      "Resp Naga",
+      "R Naga",
+      "Naga (Resplendent)"
     ]
   }
 }

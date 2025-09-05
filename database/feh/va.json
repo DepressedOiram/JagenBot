@@ -770,7 +770,19 @@
       "Summer Palla",
       "S Palla",
       "Beach Palla",
-      "palla5"
+      "palla5",
+      "Masked Gladiator",
+      "Marth: Masked Gladiator",
+      "Gladiator Marth",
+      "G Marth",
+      "Ferox Marth",
+      "F Marth",
+      "Lucina: Masked Gladiator",
+      "Gladiator Lucina",
+      "G Lucina",
+      "Ferox Lucina",
+      "F Lucina",
+      "lucina9"
     ],
     "HARD_ALT_NAME": [
       "lucy3",
@@ -977,7 +989,19 @@
       "Summer Palla",
       "S Palla",
       "Beach Palla",
-      "palla5"
+      "palla5",
+      "Masked Gladiator",
+      "Marth: Masked Gladiator",
+      "Gladiator Marth",
+      "G Marth",
+      "Ferox Marth",
+      "F Marth",
+      "Lucina: Masked Gladiator",
+      "Gladiator Lucina",
+      "G Lucina",
+      "Ferox Lucina",
+      "F Lucina",
+      "lucina9"
     ],
     "heroes": {
       "clair": "<:Blue_Lance:1317239378208096338>Clair",
@@ -991,6 +1015,7 @@
       "lucina6": "<:Green_Axe:1317239517136031897>Valentines Lucina",
       "lucina7": "<:Green_Axe:1317239517136031897>Rearmed Lucina",
       "lucina8": "<:Colorless_Bow:1317239404204654703>Ninja Lucina",
+      "lucina9": "<:Blue_Lance:1317239378208096338>Ferox Marth",
       "mia3": "<:Colorless_Dagger:1317239418943438869>Harmonic Mia",
       "pallaR": "<:Red_Sword:1317239717707911188>Palla (Resplendent)",
       "palla2": "<:Red_Dagger:1317239717707911188>Spring Palla",
@@ -1148,7 +1173,17 @@
       "Base Dorothea",
       "Normal Dorothea",
       "Regular Dorothea",
-      "dorothea"
+      "dorothea",
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
     ],
     "HARD_ALT_NAME": [
       "karla",
@@ -1244,7 +1279,17 @@
       "Base Dorothea",
       "Normal Dorothea",
       "Regular Dorothea",
-      "dorothea"
+      "dorothea",
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
     ],
     "heroes": {
       "dorothea": "<:Blue_Tome:1317239386491977749>Dorothea",
@@ -1253,6 +1298,7 @@
       "dorothea4": "<:Red_Tome:1317239730714316800>Winter Dorothea",
       "ethlyn": "<:Colorless_Staff:1317239426866483261>Ethlyn",
       "ethlyn2": "<:Colorless_Dagger:1317239418943438869>Dancer Ethlyn",
+      "fir4": "<:Red_Sword:1317239717707911188>Ferox Fir",
       "karla": "<:Red_Sword:1317239717707911188>Karla",
       "karlaR": "<:Red_Sword:1317239717707911188>Karla (Resplendent)",
       "karla2": "<:Blue_Lance:1317239378208096338>Hatarian Karla",
@@ -17937,7 +17983,17 @@
       "Y Elise",
       "Baby Elise",
       "Child Elise",
-      "elise5"
+      "elise5",
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
     ],
     "HARD_ALT_NAME": [
       "fir",
@@ -18138,7 +18194,17 @@
       "Y Elise",
       "Baby Elise",
       "Child Elise",
-      "elise5"
+      "elise5",
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
     ],
     "heroes": {
       "amelia": "<:Green_Axe:1317239517136031897>Amelia",
@@ -18155,6 +18221,7 @@
       "firR": "<:Red_Sword:1317239717707911188>Fir (Resplendent)",
       "fir2": "<:Green_Axe:1317239517136031897>Spring Fir",
       "fir3": "<:Red_Sword:1317239717707911188>Ascended Fir",
+      "fir4": "<:Red_Sword:1317239717707911188>Ferox Fir",
       "nina": "<:Colorless_Bow:1317239404204654703>Nina",
       "ninaR": "<:Colorless_Bow:1317239404204654703>Nina (Resplendent)",
       "nina2": "<:Colorless_Dagger:1317239418943438869>Duo Nina"
@@ -19724,7 +19791,14 @@
       "N Lucina",
       "Duo Lucina",
       "D Lucina",
-      "lucina8"
+      "lucina8",
+      "Pivotal Blow",
+      "Chrom: Pivotal Blow",
+      "Gladiator Chrom",
+      "G Chrom",
+      "Ferox Chrom",
+      "F Chrom 2",
+      "chrom9"
     ],
     "HARD_ALT_NAME": [
       "chrom",
@@ -19907,7 +19981,14 @@
       "N Lucina",
       "Duo Lucina",
       "D Lucina",
-      "lucina8"
+      "lucina8",
+      "Pivotal Blow",
+      "Chrom: Pivotal Blow",
+      "Gladiator Chrom",
+      "G Chrom",
+      "Ferox Chrom",
+      "F Chrom 2",
+      "chrom9"
     ],
     "heroes": {
       "azama": "<:Colorless_Staff:1317239426866483261>Azama",
@@ -19921,6 +20002,7 @@
       "chrom6": "<:Red_Bow:1317239680571543592>Duo Chrom",
       "chrom7": "<:Blue_Lance:1317239378208096338>Brave Chrom",
       "chrom8": "<:Red_Sword:1317239717707911188>Rearmed Chrom",
+      "chrom9": "<:Colorless_Bow:1317239404204654703>Ferox Chrom",
       "frobin7": "<:Blue_Tome:1317239386491977749>Young Female Robin",
       "itsuki": "<:Red_Sword:1317239717707911188>Itsuki",
       "lucina8": "<:Colorless_Bow:1317239404204654703>Ninja Lucina",
@@ -20759,7 +20841,11 @@
       "Ruler of Dragons",
       "Naga: Ruler of Dragons",
       "Ancient Naga",
-      "naga3"
+      "naga3",
+      "Resplendent Naga",
+      "Resp Naga",
+      "R Naga",
+      "Naga (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "tiki",
@@ -20995,10 +21081,15 @@
       "Ruler of Dragons",
       "Naga: Ruler of Dragons",
       "Ancient Naga",
-      "naga3"
+      "naga3",
+      "Resplendent Naga",
+      "Resp Naga",
+      "R Naga",
+      "Naga (Resplendent)"
     ],
     "heroes": {
       "naga": "<:Blue_Breath:1317239355835813939>Naga",
+      "nagaR": "<:Blue_Breath:1317239355835813939>Naga (Resplendent)",
       "naga2": "<:Colorless_Breath:1317239411980767363>Halloween Naga",
       "naga3": "<:Colorless_Breath:1317239411980767363>Ancient Naga",
       "ytiki": "<:Red_Breath:1317239692189630504>Young Tiki",
@@ -30849,7 +30940,8 @@
   },
   "jonathandavidbullock": {
     "heroes": {
-      "chulainn": "<:Red_Sword:1317239717707911188>Chulainn"
+      "chulainn": "<:Red_Sword:1317239717707911188>Chulainn",
+      "chulainn2": "<:Green_Axe:1317239517136031897>Ferox Chulainn"
     },
     "name": "Jonathan David Bullock",
     "ALT_NAME": [
@@ -30863,7 +30955,20 @@
       "Normal Holyn",
       "Base Holyn",
       "holyn",
-      "holyn1"
+      "holyn1",
+      "Leading Gladiator",
+      "Chulainn: Leading Gladiator",
+      "Gladiator Chulainn",
+      "G Chulainn",
+      "Ferox Chulainn",
+      "F Chulainn",
+      "chulainn2",
+      "Holyn: Leading Gladiator",
+      "Gladiator Holyn",
+      "G Holyn",
+      "Ferox Holyn",
+      "F Holyn",
+      "holyn2"
     ],
     "HARD_ALT_NAME": [
       "Unbeaten Warrior",
@@ -30876,7 +30981,20 @@
       "Normal Holyn",
       "Base Holyn",
       "holyn",
-      "holyn1"
+      "holyn1",
+      "Leading Gladiator",
+      "Chulainn: Leading Gladiator",
+      "Gladiator Chulainn",
+      "G Chulainn",
+      "Ferox Chulainn",
+      "F Chulainn",
+      "chulainn2",
+      "Holyn: Leading Gladiator",
+      "Gladiator Holyn",
+      "G Holyn",
+      "Ferox Holyn",
+      "F Holyn",
+      "holyn2"
     ]
   },
   "ychang": {
@@ -31092,6 +31210,30 @@
       "Normal Hoor",
       "Mythic Hoor",
       "hoor"
+    ]
+  },
+  "jessejamesgrelle": {
+    "heroes": {
+      "ogma3": "<:Red_Sword:1317239717707911188>Ferox Ogma"
+    },
+    "name": "Jesse James Grelle",
+    "ALT_NAME": [
+      "Former Gladiator",
+      "Ogma: Former Gladiator",
+      "Gladiator Ogma",
+      "G Ogma",
+      "Ferox Ogma",
+      "F Ogma",
+      "ogma3"
+    ],
+    "HARD_ALT_NAME": [
+      "Former Gladiator",
+      "Ogma: Former Gladiator",
+      "Gladiator Ogma",
+      "G Ogma",
+      "Ferox Ogma",
+      "F Ogma",
+      "ogma3"
     ]
   }
 }

@@ -372,6 +372,8 @@
                 "Lull Spd/Def 4",
                 "Lull Spd/Res 4",
                 "S/R Lull Finish",
+                "Atk/Spd Favor",
+                "Atk/Def Favor",
                 "Fair Fight",
                 "Fallen Star II",
                 "Pure Atrocity"
@@ -709,7 +711,9 @@
         },
         "reference_skill": {
             "assist": [
-                "Future Focus"
+                "Conquering Fate",
+                "Future Focus",
+                "Future Gaze"
             ],
             "special": [
                 "Requiem Prayer"
@@ -1010,6 +1014,7 @@
         "icon": "canto",
         "reference_weapon": {
             "Sword": [
+                "Clouding Blade",
                 "Lion's Heart",
                 "Sword of Dusk"
             ],
@@ -1339,6 +1344,27 @@
         "HARD_ALT_NAME": [
             "Canto X"
         ]
+    },
+    "changeoffate": {
+        "name": "Change of Fate",
+        "description": "Enables\u3010Canto (\uff12)\u3011.\nGrants Atk/Spd/Def/Res+5 to unit and unit deals damage = 3 \u00d7 the total of the number of Bonus and Penalty effects active on unit, excluding stat bonuses and stat penalties, during combat (max 15; including area-of-effect Specials).",
+        "color": "Blue",
+        "icon": "changeoffate",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [
+                "Conquering Fate"
+            ],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
     },
     "charge": {
         "name": "Charge",
@@ -1731,6 +1757,36 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "defshackle": {
+        "name": "Def Shackle",
+        "description": "Inflicts penalty on unit's Def during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
+        "color": "Colorless",
+        "icon": "defshackle",
+        "reference_weapon": {
+            "Sword": [
+                "Arena Sword+",
+                "Princesses' Edge"
+            ],
+            "Lance": [],
+            "Axe": [
+                "Arena Axe+"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "desperation": {
         "name": "Desperation (Status Effect)",
         "description": "Grants the following effect for 1 turn: \"If unit initiates combat, unit can make a follow-up attack before foe can counterattack.\"",
@@ -1791,6 +1847,7 @@
         "icon": "discord",
         "reference_weapon": {
             "Sword": [
+                "Princesses' Edge",
                 "Venin Edge"
             ],
             "Lance": [
@@ -1820,7 +1877,9 @@
                 "Blue_Tome": [
                     "Devoted Cup+"
                 ],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Arch-Sage Tome"
+                ],
                 "Colorless_Tome": []
             },
             "Breath": [],
@@ -2236,7 +2295,9 @@
             "Beast": []
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Future Gaze"
+            ],
             "special": [],
             "A": [],
             "B": [
@@ -2335,7 +2396,8 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Duskstone"
+                "Duskstone",
+                "Vallastone"
             ],
             "Beast": []
         },
@@ -2462,7 +2524,10 @@
             "assist": [],
             "special": [],
             "A": [],
-            "B": [],
+            "B": [
+                "Atk/Spd Favor",
+                "Atk/Def Favor"
+            ],
             "C": [
                 "Divine God Fang",
                 "Just like Mother"
@@ -2564,7 +2629,9 @@
                     "Icy Fimbulvetr",
                     "Tome of Storms"
                 ],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Arch-Sage Tome"
+                ],
                 "Colorless_Tome": [
                     "Light of Etruria",
                     "Maiden's Tome"
@@ -2714,6 +2781,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Enclosure II",
                 "Immurement"
             ],
             "A": [],
@@ -2844,7 +2912,8 @@
         },
         "reference_skill": {
             "assist": [
-                "Cloying Dreams"
+                "Cloying Dreams",
+                "Future Gaze"
             ],
             "special": [],
             "A": [],
@@ -2993,7 +3062,9 @@
         "color": "Blue",
         "icon": "frozen",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "Deliverer's Brand"
+            ],
             "Lance": [],
             "Axe": [],
             "Staff": [],
@@ -3037,7 +3108,8 @@
         "reference_weapon": false,
         "reference_skill": {
             "assist": [
-                "Future Focus"
+                "Future Focus",
+                "Future Gaze"
             ],
             "special": [],
             "A": [],
@@ -3483,6 +3555,8 @@
             "special": [],
             "A": [],
             "B": [
+                "Atk/Spd Favor",
+                "Atk/Def Favor",
                 "Spoil Rotten"
             ],
             "C": [
@@ -4195,7 +4269,8 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Ancient Voice"
+                "Ancient Voice",
+                "Vallastone"
             ],
             "Beast": []
         },
@@ -4404,6 +4479,7 @@
             "Sword": [],
             "Lance": [
                 "Breaker Lance",
+                "Disguise Lance",
                 "Vengeful Lance"
             ],
             "Axe": [
@@ -4842,6 +4918,7 @@
             "assist": [],
             "special": [
                 "Astra Storm",
+                "Enclosure II",
                 "Lodestar Rush"
             ],
             "A": [
@@ -4930,7 +5007,9 @@
             ],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Enclosing Dark"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": []
@@ -5176,6 +5255,7 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
+                    "Enclosing Dark",
                     "Gentle Fell Egg"
                 ],
                 "Blue_Tome": [
@@ -5198,7 +5278,8 @@
             "B": [],
             "C": [
                 "Connected World",
-                "Opened Domain"
+                "Opened Domain",
+                "Opened Domain+"
             ],
             "X": [],
             "S": [],
@@ -5214,6 +5295,7 @@
             "celica7": "<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Summer Celica",
             "chloe2":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Chlo\u00e9",
             "cordelia4": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Winter Cordelia",
+            "fir4": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Ferox Fir",
             "igrene3":"<:feh_harmonized:1317239586929377371><:Blue_Bow:1317239347577356328>Nabata Igrene",
             "ingrid4": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Maid Ingrid",
             "karla3": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Spring Karla",
@@ -5270,7 +5352,8 @@
             "C": [
                 "Connected World",
                 "Dream Deliverer",
-                "Opened Domain"
+                "Opened Domain",
+                "Opened Domain+"
             ],
             "X": [],
             "S": [],
@@ -5317,8 +5400,11 @@
         "color": "Red",
         "icon": "sabotage",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "Deliverer's Brand"
+            ],
             "Lance": [
+                "Disguise Lance",
                 "Teatime Lance"
             ],
             "Axe": [
@@ -5368,7 +5454,9 @@
                 "Dreamlike Night",
                 "Harrowing Dream"
             ],
-            "special": [],
+            "special": [
+                "Enclosure II"
+            ],
             "A": [],
             "B": [
                 "Atk/Res Havoc",
@@ -5656,7 +5744,27 @@
         "description": "Inflicts penalty on unit's Spd during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
         "color": "Green",
         "icon": "spdshackle",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [
+                "Arena Sword+",
+                "Princesses' Edge"
+            ],
+            "Lance": [],
+            "Axe": [
+                "Arena Axe+"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],

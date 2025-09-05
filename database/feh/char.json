@@ -1055,7 +1055,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "ogma2"
+      "ogma2",
+      "ogma3"
     ],
     "prf": {
       "": "gladiatorsbladeeff",
@@ -1615,7 +1616,8 @@
     "alt": false,
     "reference": [
       "fir2",
-      "fir3"
+      "fir3",
+      "fir4"
     ],
     "prf": {
       "": "namelessbladeeff",
@@ -2161,7 +2163,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -2256,7 +2258,8 @@
       "lucina5",
       "lucina6",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "sealedfalchioneff",
@@ -6219,7 +6222,8 @@
     "alt": false,
     "reference": [
       "sharena2",
-      "sharena3"
+      "sharena3",
+      "sharena4"
     ],
     "prf": {
       "": "fensalireff",
@@ -22280,7 +22284,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -22345,7 +22349,8 @@
       "lucina5",
       "lucina6",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "blueeggspd",
@@ -25799,7 +25804,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -25864,7 +25869,8 @@
       "lucina5",
       "lucina6",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "sealedfalchioneff",
@@ -31613,7 +31619,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -31708,7 +31714,8 @@
       "lucina5",
       "lucina6",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "geirskoguleff",
@@ -43092,7 +43099,8 @@
     "alt": true,
     "reference": [
       "sharena",
-      "sharena3"
+      "sharena3",
+      "sharena4"
     ],
     "prf": {
       "": "muninnseggeff",
@@ -50874,7 +50882,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -50939,7 +50947,8 @@
       "lucina4",
       "lucina6",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "thogneff",
@@ -69932,15 +69941,20 @@
     "pool": "legend",
     "internal_id": "\u795e\u968e\u30ca\u30fc\u30ac",
     "voice": "Mela Lee",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "GENKIENJIN / Trys Inc.",
+    "resplendent_voice": "Mela Lee",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Naga_Dragon_Divinity_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Naga_Dragon_Divinity_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Naga_Dragon_Divinity_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Naga_Dragon_Divinity_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Naga_Dragon_Divinity_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Naga_Dragon_Divinity_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Naga_Dragon_Divinity_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Naga_Dragon_Divinity_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "archanea",
       "ylisse"
@@ -69997,7 +70011,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "You shall sleep.",
+          "Shall we play?",
+          "Sweet dreams.",
+          "Sleep well."
+        ],
+        "Status": [
+          "Huh...",
+          "Clothing? Is this an offering?",
+          "Hmph! You mortals and your pranks...",
+          "My slumber was so long, and my dreams were so many, that it felt like an eternity...",
+          "If I am to give dreams, then it is my wish that they be happy ones.",
+          "Such a playful outfit... \u00c1lfar must look lovely.",
+          "So she has awoken...",
+          "May you always know peaceful slumber..."
+        ],
+        "Map Select": [
+          "So shall it be.",
+          "Where to?",
+          "The gift of slumber."
+        ]
+      }
     },
     "short_name": "Naga",
     "SEARCH_NAME": "Naga",
@@ -90517,7 +90559,8 @@
     "alt": true,
     "reference": [
       "fir",
-      "fir3"
+      "fir3",
+      "fir4"
     ],
     "prf": {
       "": "bunbunbaton",
@@ -123006,7 +123049,8 @@
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
-      "ogma"
+      "ogma",
+      "ogma3"
     ],
     "prf": {
       "": "tridentspd",
@@ -132367,7 +132411,8 @@
       "Iron Sword": "1",
       "Steel Sword": "2",
       "Instant Sword": "3",
-      "Instant Sword+": "5"
+      "Instant Sword+": "5",
+      "Clouded Blade": "5"
     },
     "assist": {},
     "special": {
@@ -132489,12 +132534,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "instantsworddef",
-      "eff": "instantsworddef",
-      "atk": "instantswordatk",
-      "spd": "instantswordspd",
-      "def": "instantsworddef",
-      "res": "instantswordres"
+      "": "cloudedblade",
+      "eff": "cloudedblade",
+      "atk": "cloudedblade",
+      "spd": "cloudedblade",
+      "def": "cloudedblade",
+      "res": "cloudedblade"
     }
   },
   "eitri": {
@@ -138031,7 +138076,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -138096,7 +138141,8 @@
       "lucina4",
       "lucina5",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "gerberaaxe",
@@ -149593,10 +149639,12 @@
       "B": {
         "Atk/Def Bulwark 1": "1",
         "Atk/Def Bulwark 2": "2",
-        "Atk/Def Bulwark 3": "4"
+        "Atk/Def Bulwark 3": "4",
+        "A/D Spiked Wall": "5"
       },
       "C": {
-        "Opened Domain": "5"
+        "Opened Domain": "5",
+        "Opened Domain+": "5"
       },
       "X": {}
     },
@@ -158272,7 +158320,8 @@
     "special": {
       "Retribution": "3",
       "Reprisal": "4",
-      "Enclosure": "5"
+      "Enclosure": "5",
+      "Enclosure II": "5"
     },
     "passive": {
       "A": {
@@ -158284,7 +158333,8 @@
       "B": {
         "S/R Far Trace 1": "1",
         "S/R Far Trace 2": "2",
-        "S/R Far Trace 3": "4"
+        "S/R Far Trace 3": "4",
+        "S/R Far Resound": "5"
       },
       "C": {
         "Panic Smoke 1": "2",
@@ -172233,7 +172283,8 @@
     "alt": true,
     "reference": [
       "fir",
-      "fir2"
+      "fir2",
+      "fir4"
     ],
     "prf": {
       "": "vassalsaintsteel",
@@ -184766,7 +184817,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -184832,7 +184883,8 @@
       "lucina4",
       "lucina5",
       "lucina6",
-      "lucina8"
+      "lucina8",
+      "lucina9"
     ],
     "prf": {
       "": "arcaneprimaspd",
@@ -196455,7 +196507,8 @@
     "alt": false,
     "reference": [
       "sharena",
-      "sharena2"
+      "sharena2",
+      "sharena4"
     ],
     "prf": {
       "": "unitedbouquet",
@@ -207927,7 +207980,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -208011,7 +208064,8 @@
       "lucina4",
       "lucina5",
       "lucina6",
-      "lucina7"
+      "lucina7",
+      "lucina9"
     ],
     "prf": {
       "": "ylisseninjabow",
@@ -214124,7 +214178,9 @@
     "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Chulainn",
     "RANDOM_IGNORE": true,
     "alt": false,
-    "reference": [],
+    "reference": [
+      "chulainn2"
+    ],
     "prf": {
       "": "campaignblade",
       "eff": "campaignblade",
@@ -214939,10 +214995,10 @@
       "X": {}
     },
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Chulainn_Unbeaten_Warrior_Face.webp/revision/latest/",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Chulainn_Unbeaten_Warrior_BtlFace_D.webp/revision/latest/",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Chulainn_Unbeaten_Warrior_BtlFace_C.webp/revision/latest/",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2a/Chulainn_Unbeaten_Warrior_BtlFace.webp/revision/latest/"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Saber_Dune_Walker_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8e/Saber_Dune_Walker_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Saber_Dune_Walker_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Saber_Dune_Walker_BtlFace.webp/revision/latest/"
     },
     "resplendent_images": false,
     "ALT_NAME": [
@@ -229670,6 +229726,929 @@
     "boost": {
       "hp": 3,
       "def": 4
+    }
+  },
+  "fir4": {
+    "name": "Fir",
+    "title": "Dual Warriors",
+    "description": "Fir, a girl who earnestly follows the path of the sword, with her mother, Karla, a sword master. Side by side, they battle with stunning grace at the tournament. They appear in Fire Emblem: The Binding Blade / The Blazing Blade.",
+    "origin": "The Binding Blade + The Blazing Blade",
+    "artist": "Gesoking (\u30b2\u30bd\u304d\u3093\u3050)",
+    "move": "Cavalry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1283",
+    "type": "duo",
+    "version": "9.9",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit for 1 turn and grants Special cooldown count-2 to unit and allies from the same titles as unit.\nAny effect that can be triggered only once per turn by unit's equipped Special skill can be triggered again if that effect has already been triggered (excludes boosted Special effects from engaging).\n\u3010Resonance: Blades\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 9,
+      "res": 6
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 60,
+      "res": 45
+    },
+    "superboon": [
+      "spd",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Princesses' Edge": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Galeforce Mist": "5"
+    },
+    "passive": {
+      "A": {
+        "Blue Skies 1": "2",
+        "Blue Skies 2": "3",
+        "Blue Skies 3": "4",
+        "Blue Skies 4": "5"
+      },
+      "B": {
+        "Flow Refresh 1": "2",
+        "Flow Refresh 2": "3",
+        "Flow Refresh 3": "4",
+        "Potent Assault": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Outcry Dull": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Fir_Dual_Warriors_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Fir_Dual_Warriors_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Fir_Dual_Warriors_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Fir_Dual_Warriors_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
+    ],
+    "HARD_ALT_NAME": [
+      "Dual Warriors",
+      "Fir: Dual Warriors",
+      "Gladiator Fir",
+      "G Fir",
+      "Ferox Fir",
+      "F Fir",
+      "Harmonic Fir",
+      "Harmonized Fir",
+      "Duo Fir",
+      "fir4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u53cc\u754c\u30d5\u30a3\u30eb",
+    "voice": "Liv Strander + Allegra Clark",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe6",
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Karla:** I consider myself a blade, not a person... I am sure there are others here with this same attitude.",
+        "**Fir:** I'll showcase the strength I got from my mother and my uncle at this tournament. No matter what!",
+        "**Karla:** I'm shocked to see that my daughter grew to be so skilled. I suppose it's in her blood.",
+        "**Fir:** This is like a dream, seeing my mother's swordsmanship up close like this. I've always looked up to her.",
+        "**Karla:** Don't rely on your shoulders, Fir. First, observe your opponent, then let your sword guide you"
+      ],
+      "Visit": [
+        "**Nanna:** I'm Fir and I'm here with my mother. Hm... People are strong here too, just like at [F]'s."
+      ],
+      "Level": [
+        "**Karla:** Fir, don't forget how you wielded your blade just now. You struck with your entire soul.",
+        "**Karla:** I won't allow you to see through the flash of my blade so easily.",
+        "**Fir:** I'm so sorry for holding you back, Mother. It's all my fault for being so inexperienced..."
+      ],
+      "Summon": [
+        "I'm Fir, a traveling swordswoman. A tournament is the best training. I'll be champion with my mother beside me!"
+      ],
+      "Learn Skill": [
+        "**Fir:** Someday, I'll cut my own path into the future, just like Mother and Uncle!"
+      ],
+      "Confession": [
+        "**Karla:** When the tournament is over, I will depart. The path of the sword has no end.\n**Fir:** I-I will go with you, then! There's so much I want to learn from you!\n**Karla:** With all these swordsmen from different worlds, I'm sure there's a lot you can learn here.\nAnd even still, there should be more you can learn from your father, Bartre, too.\nYou should stay here and keep growing in the Order of Heroes, Fir.\nAnd promise me, next we meet, your skill will surpass mine and my brother's.\n**Fir:** I...understand, Mother. I will fulfill this promise, no matter what. And when I do, I will come see you!"
+      ],
+      "Special": [
+        "**Duo:** One strike, one kill!",
+        "**Duo:** I inherited... This technique!",
+        "**Fir:** You won't get away!",
+        "**Karla:** This is it."
+      ],
+      "Status": [
+        "Haa...",
+        "\"I can't believe I get to show you the results of all my training! It's like a dream!\" \"Just don't hurt yourself. I think you're making too big a deal out of this.\""
+      ],
+      "Map Select": [
+        "Ah...",
+        "I won't lose!",
+        "I request a match."
+      ],
+      "Conversation": [
+        "**Fir:** Hah! Hyah!",
+        "**Karla:** Hyaaah!",
+        "**Fir:** Ah, curses, there goes my sword... Well fought. You really are strong!",
+        "This is like a dream, facing off against a young version of you, Mother.",
+        "**Karla:** Mother? Oh, yes. Well, you have the right principles. And I'm sure you'll keep growing.",
+        "**Fir:** Really? Thank you.",
+        "I'll aim for the skies and train extra hard to get even stronger! Just like you and my uncle.",
+        "**Karla:** Uncle? Oh, you mean Karel. He is a harsh man. I doubt he would teach you.",
+        "**Fir:** Huh? Actually, he's really nice. He's guided me with open arms.",
+        "**Karla:** So then...people can change.",
+        "Tell me, is everyone in your world healthy? Your father? Karel?",
+        "**Fir:** Yeah, they are.",
+        "**Karla:** I see. And you too, it seems, judging by the looks of you.",
+        "Then...there's nothing more I could wish for. This makes me truly happy.",
+        "**Fir:** Aw...",
+        "**Karla:** Now then. Enough warming up. Let's get to the tournament.",
+        "**Fir:** Let's! And I'll be the champion, as long as I have you by my side!"
+      ],
+      "Duo Skill": [
+        "\"Mother!\" \"Leave it to me.\"",
+        "\"Are you sure you-\" \"Of course!\""
+      ],
+      "Back Unit Supporting": [
+        "Keep your guard up.",
+        "Show me what you can do."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Ferox Fir",
+    "SEARCH_NAME": "Ferox Fir",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Ferox Fir",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "fir",
+      "fir2",
+      "fir3"
+    ],
+    "prf": {
+      "": "princessesedge",
+      "eff": "princessesedge",
+      "atk": "princessesedge",
+      "spd": "princessesedge",
+      "def": "princessesedge",
+      "res": "princessesedge"
+    }
+  },
+  "lucina9": {
+    "name": "Marth",
+    "title": "Masked Gladiator",
+    "description": "A masked swordsman, referring to themself with the same name as the legendary Hero-King of old. Splendid technique is on display here at the tournament. Appears in Fire Emblem Awakening.",
+    "origin": "Awakening",
+    "artist": "hanada (\u306F\u306A\u3060)",
+    "move": "Infantry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1284",
+    "type": false,
+    "version": "9.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 10,
+      "res": 9
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Disguise Lance": "5"
+    },
+    "assist": {
+      "Swap": "3",
+      "Future Gaze": "5"
+    },
+    "special": {
+      "Night Sky": "3",
+      "Glimmer": "4",
+      "Gust": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Perfect Atk/Spd": "5"
+      },
+      "B": {
+        "Atk/Spd Link 1": "2",
+        "Atk/Spd Link 2": "3",
+        "Atk/Spd Link 3": "4",
+        "Atk/Spd Favor": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Marth_Masked_Gladiator_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Marth_Masked_Gladiator_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Marth_Masked_Gladiator_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b5/Marth_Masked_Gladiator_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Masked Gladiator",
+      "Marth: Masked Gladiator",
+      "Gladiator Marth",
+      "G Marth",
+      "Ferox Marth",
+      "F Marth",
+      "Lucina: Masked Gladiator",
+      "Gladiator Lucina",
+      "G Lucina",
+      "Ferox Lucina",
+      "F Lucina",
+      "lucina9"
+    ],
+    "HARD_ALT_NAME": [
+      "Masked Gladiator",
+      "Marth: Masked Gladiator",
+      "Gladiator Marth",
+      "G Marth",
+      "Lucina: Masked Gladiator",
+      "Gladiator Lucina",
+      "G Lucina",
+      "lucina9"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30ae\u30e0\u30ec\u30fc\u5973",
+    "voice": "Alexis Tipton",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "ylisse"
+    ],
+    "chibi": [
+      "fe13"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I must fight in a way that doesn't bring shame to the Hero-King, since I am borrowing his name!",
+        "A tournament... This reminds me of when I crossed swords with Father after traveling through time.",
+        "Hm? Prince Marth has come to the tournament to cheer on the gladiator Ogma? That's a bit problematic...",
+        "I can't believe Father is participating in the tournament this time too! This is... Oh. Never mind.",
+        "I need to keep the mask on, even if I change my attire. I must not reveal who I really am...yet."
+      ],
+      "Visit": [
+        "I am Marth. Here's an invite for you to the Regna Ferox tournament from [F]."
+      ],
+      "Level": [
+        "I will cut a path to the future using this skill!",
+        "I've practiced this technique in order to survive. No one will best me!",
+        "I thought I still had more growth ahead of me, but..."
+      ],
+      "Summon": [
+        "My name is Marth. I was hoping to join the tournament. This is not my first time competing in one."
+      ],
+      "Learn Skill": [
+        "I'll grow even stronger and resist the future of despair!"
+      ],
+      "Confession": [
+        "I appreciate you inviting me to the tournament, [S].\nI feel as though participating in it and experiencing the fighting spirit of the gladiators has improved my skills.\nI would like to reveal my true identity, only to you, since you are looking out for me. However...\nWhat? You don't expect me to reveal it? So you understand the position I am in? You are insightful, indeed.\nI promise you, I shall use any strength I gained in the tournament here for Askr's benefit.\nFor I believe that doing so will help us to avoid the future of despair."
+      ],
+      "Special": [
+        "Prepare to fall!",
+        "Move aside!",
+        "Have at you!",
+        "With a single strike!"
+      ],
+      "Status": [
+        "Mm, yes.",
+        "I am Marth. For the duration of this tournament, I will not be holding back.",
+        "*startle* To think, I would let myself be caught off guard... And this close to the tournament, too.",
+        "So I fight with a lance this time... I will make good use of any weapon I am given.",
+        "Basilio once pressed me to represent the western army of Regna Ferox.",
+        "*sneeze* Uh...er. It's nothing. Regna Ferox is just a cold place.",
+        "Father was quite the hot-blooded young man back then... U-uh, what?! I didn't say anything.",
+        "I promise I will bring you victory. Watch and see."
+      ],
+      "Map Select": [
+        "As expected.",
+        "A difficult choice...",
+        "I'll not lose."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ferox Marth",
+    "SEARCH_NAME": "Ferox Marth",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Ferox Marth",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "lucina",
+      "lucina2",
+      "lucina3",
+      "lucina4",
+      "lucina5",
+      "lucina6",
+      "lucina7",
+      "lucina8"
+    ],
+    "prf": {
+      "": "disguiselance",
+      "eff": "disguiselance",
+      "atk": "disguiselance",
+      "spd": "disguiselance",
+      "def": "disguiselance",
+      "res": "disguiselance"
+    }
+  },
+  "chrom9": {
+    "name": "Chrom",
+    "title": "Pivotal Blow",
+    "description": "Prince of the Halidom of Ylisse. He participates in the tournament, not as royalty, but as a lone gladiator. Appears in Fire Emblem Awakening.",
+    "origin": "Awakening",
+    "artist": "argon / Exys Inc.",
+    "move": "Infantry",
+    "weapon": "Bow",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1285",
+    "type": false,
+    "version": "9.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 12,
+      "res": 5
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 75,
+      "def": 85,
+      "res": 30
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "res"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Gladiator's Bow": "5"
+    },
+    "assist": {
+      "Reposition": "3",
+      "Conquering Fate": "5"
+    },
+    "special": {
+      "Rising Wind": "3",
+      "Blazing Wind": "4"
+    },
+    "passive": {
+      "A": {
+        "Armored Blow 1": "2",
+        "Sturdy Blow 1": "3",
+        "Sturdy Blow 2": "4",
+        "Sly Sturdy Blow": "5"
+      },
+      "B": {
+        "Atk/Def Link 1": "2",
+        "Atk/Def Link 2": "3",
+        "Atk/Def Link 3": "4",
+        "Atk/Def Favor": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Time Pulse Arms": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Chrom_Pivotal_Blow_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/20/Chrom_Pivotal_Blow_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Chrom_Pivotal_Blow_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Chrom_Pivotal_Blow_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Pivotal Blow",
+      "Chrom: Pivotal Blow",
+      "Gladiator Chrom",
+      "G Chrom",
+      "Ferox Chrom",
+      "F Chrom 2",
+      "chrom9"
+    ],
+    "HARD_ALT_NAME": [
+      "Pivotal Blow",
+      "Chrom: Pivotal Blow",
+      "Gladiator Chrom",
+      "G Chrom",
+      "Ferox Chrom",
+      "F Chrom 2",
+      "chrom9"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30d5\u30a7\u30ea\u30a2\u30af\u30ed\u30e0",
+    "voice": "Matt Mercer",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "ylisse"
+    ],
+    "chibi": [
+      "fe13"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I'm enjoying the festival, but I'm preparing for the tournament. I don't intend to lose.",
+        "Your birthplace and upbringing don't matter in a tournament. Your skill in combat is what counts!",
+        "Regna Ferox greatly values strength. In the past, we fought in a tournament to forge an alliance with them.",
+        "I once fought with the one who goes by Marth's name. It seems the warrior is wearing the same mask.",
+        "Arena attire isn't especially refined, but it is easy move around in. It's meant to be worn by a warrior."
+      ],
+      "Visit": [
+        "I'm Chrom of the Halidom of Ylisse. I am participating in a tournament at [F]'s castle."
+      ],
+      "Level": [
+        "I've nurtured this power alongside my allies. The bonds I share with them strengthen my weapon.",
+        "My experience in the Shepherds has made a difference.",
+        "I clearly haven't trained enough..."
+      ],
+      "Summon": [
+        "I'm Chrom. I'm not acting as royalty of Ylisse right now. I am just another fighter in the arena."
+      ],
+      "Learn Skill": [
+        "Good technique. I'll put it to use to change the future!"
+      ],
+      "Confession": [
+        "Were you watching me while I was fighting, [S]?\nIn a tournament one's abilities do the talking. No one here will take it easy on me because I'm royalty.\nAnd I have no intention of relying on that status to gain advantage. I will fight as an individual gladiator.\nThere are so many capable fighters outside of Ylisse. If you count other worlds, the number seems infinite.\nI wish to become more capable by crossing blades with them, so I can better protect my family and friends.\nOh, I hear Basilio now. I wonder who my next opponent is! Watch me cut a path to the future by my own hands!"
+      ],
+      "Special": [
+        "I will win!",
+        "No matter the foe...",
+        "I won't stay my hand!",
+        "Enough talk!"
+      ],
+      "Status": [
+        "-",
+        "A fighting tournament, huh... I hadn't expected to ever participate in another one.",
+        "*surprise react* Hey? Are you trying to sabotage me before the tournament?",
+        "The last time I went to Regna Ferox... Well, it was certainly chilly.",
+        "I've heard it is tradition in Regna Ferox for the ruling khan to be decided by a tournament.",
+        "Ah! The bow string snapped again. I'll fetch another.",
+        "That masked warrior... Hm. I suppose the mask is how he makes an impression.",
+        "No matter how hard the fight, I don't intend to lose. Watch me in action."
+      ],
+      "Map Select": [
+        "I see.",
+        "Mm-hmm...",
+        "I can test my skills."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ferox Chrom",
+    "SEARCH_NAME": "Ferox Chrom",
+    "DISPLAY_NAME": "<:Colorless_Bow:1317239404204654703>Ferox Chrom",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "chrom",
+      "chrom2",
+      "chrom3",
+      "chrom4",
+      "chrom5",
+      "chrom6",
+      "chrom7",
+      "chrom8"
+    ],
+    "prf": {
+      "": "gladiatorsbow",
+      "eff": "gladiatorsbow",
+      "atk": "gladiatorsbow",
+      "spd": "gladiatorsbow",
+      "def": "gladiatorsbow",
+      "res": "gladiatorsbow"
+    }
+  },
+  "chulainn2": {
+    "name": "Chulainn",
+    "title": "Leading Gladiator",
+    "description": "A gladiator who knows nothing of defeat and who has inherited the blood of the crusader Od. He proves he is still no less capable of winning here at the tournament. Appears in Fire Emblem: Genealogy of the Holy War.",
+    "origin": "Genealogy of the Holy War",
+    "artist": "PenekoR (\u043f\u732b\uff32)",
+    "move": "Infantry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1286",
+    "type": false,
+    "version": "9.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 11,
+      "spd": 9,
+      "def": 11,
+      "res": 8
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 45
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Arena Axe": "3",
+      "Arena Axe+": "5"
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Atk/Spd Bulwark 1": "2",
+        "Atk/Spd Bulwark 2": "3",
+        "Atk/Spd Bulwark 3": "4",
+        "A/S Spiked Wall": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "1",
+        "Time's Pulse 2": "2",
+        "Time's Pulse 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Chulainn_Leading_Gladiator_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Chulainn_Leading_Gladiator_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/Chulainn_Leading_Gladiator_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Chulainn_Leading_Gladiator_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Leading Gladiator",
+      "Chulainn: Leading Gladiator",
+      "Gladiator Chulainn",
+      "G Chulainn",
+      "Ferox Chulainn",
+      "F Chulainn",
+      "chulainn2",
+      "Holyn: Leading Gladiator",
+      "Gladiator Holyn",
+      "G Holyn",
+      "Ferox Holyn",
+      "F Holyn",
+      "holyn2"
+    ],
+    "HARD_ALT_NAME": [
+      "Leading Gladiator",
+      "Chulainn: Leading Gladiator",
+      "Gladiator Chulainn",
+      "G Chulainn",
+      "Ferox Chulainn",
+      "F Chulainn",
+      "chulainn2",
+      "Holyn: Leading Gladiator",
+      "Gladiator Holyn",
+      "G Holyn",
+      "Ferox Holyn",
+      "F Holyn",
+      "holyn2"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30d5\u30a7\u30ea\u30a2\u30db\u30ea\u30f3",
+    "voice": "Jonathan David Bullock",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I take each battle one at a time. That devotion is what's gotten me this far.",
+        "True justice comes in the form of fighting for an ideal... For the sake of others, not for money.",
+        "A battlefield is similar to an arena, but each requires something different. One must know this in order to win.",
+        "I shall see how the techniques I have developed fare against warriors from other worlds.",
+        "I'm not used to this outfit, but I think I'll be able to make good use of my skills while wearing it."
+      ],
+      "Visit": [
+        "Excuse me. I'm Chulainn. I have here for you an invitation to a tournament from [F]."
+      ],
+      "Level": [
+        "Skill does not decide the victor. Rather, it is the fighting spirit to not lose no matter what.",
+        "No matter the battle I face, I have no intention of losing.",
+        "I have no excuses. The result speaks for itself."
+      ],
+      "Summon": [
+        "I'm Chulainn, a gladiator. A tournament of warriors, hm? I sense this will be quite the festival."
+      ],
+      "Learn Skill": [
+        "I expect no less from a festival of a warrior nation. There is much to be gained here."
+      ],
+      "Confession": [
+        "I once had nowhere to go after all my victories at the arena...\nBut I learned of a new pathway to victory\u2014fighting for my ideals, rather than for money.\nThis revealed to me the true meaning of my life, when I had nothing left.\nThe others who fight in this tournament are all gladiators who fight for their ideals, not for riches.\nThrough my battles with them, I have a renewed strength in fighting for my convictions.\nI am determined to save as many lives as possible with these hands. That'll never change, even after this is over."
+      ],
+      "Special": [
+        "A fair match.",
+        "I fight for my convictions.",
+        "Itching to go!",
+        "I'll finish it!"
+      ],
+      "Status": [
+        "-",
+        "The tournament of another world, is it? This brings back memories of my time in the arena.",
+        "Hmph. It's not wise to approach someone who has a weapon in hand.",
+        "What do I get if I win this tournament? If it's money, I no longer need it...",
+        "I am not used to this weapon, but neither am I used to losing.",
+        "Everyone has their own reason to fight. So... What's yours?",
+        "The beautiful girl who stole my heart... I hope she's watching me from somewhere...",
+        "It is interesting traveling to another world. I have a feeling I'll never get bored being with you."
+      ],
+      "Map Select": [
+        "As you say.",
+        "Tell me where.",
+        "I'm off to win now."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ferox Chulainn",
+    "SEARCH_NAME": "Ferox Chulainn",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Ferox Chulainn",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "chulainn"
+    ],
+    "prf": {
+      "": "arenaaxe",
+      "eff": "arenaaxe",
+      "atk": "arenaaxe",
+      "spd": "arenaaxe",
+      "def": "arenaaxe",
+      "res": "arenaaxe"
+    }
+  },
+  "ogma3": {
+    "name": "Ogma",
+    "title": "Former Gladiator",
+    "description": "Captain of a group of mercenaries who swore his loyalty to Princess Caeda of Talys. His capabilities are on full display here at the tournament. Appears in Fire Emblem: Mystery of the Emblem.",
+    "origin": "Mystery of the Emblem",
+    "artist": "Suekane Kumiko (\u30b9\u30a8\u30ab\u30cd\u30af\u30df\u30b3)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1287",
+    "type": false,
+    "version": "9.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 9,
+      "spd": 12,
+      "def": 12,
+      "res": 6
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 80,
+      "def": 75,
+      "res": 40
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Arena Sword": "3",
+      "Arena Sword+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Special Spiral 1": "3",
+        "Special Spiral 2": "4",
+        "Special Spiral 3": "5"
+      },
+      "C": {
+        "Atk/Spd Oath 1": "1",
+        "Atk/Spd Oath 2": "2",
+        "Atk/Spd Oath 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Ogma_Former_Gladiator_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Ogma_Former_Gladiator_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Ogma_Former_Gladiator_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Ogma_Former_Gladiator_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Former Gladiator",
+      "Ogma: Former Gladiator",
+      "Gladiator Ogma",
+      "G Ogma",
+      "Ferox Ogma",
+      "F Ogma",
+      "ogma3"
+    ],
+    "HARD_ALT_NAME": [
+      "Former Gladiator",
+      "Ogma: Former Gladiator",
+      "Gladiator Ogma",
+      "G Ogma",
+      "Ferox Ogma",
+      "F Ogma",
+      "ogma3"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "grail",
+    "internal_id": "PID_\u30d5\u30a7\u30ea\u30a2\u30aa\u30b0\u30de",
+    "voice": "Jesse James Grelle",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "archanea"
+    ],
+    "chibi": [
+      "archanea"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I represent Talys, and I won't betray Princess Caeda's trust in me. She's here in the crowd.",
+        "When I fought in arenas in the past, I was forced to show off my skills. But here, I'll put my pride on the line.",
+        "All of the tournament participants have exceptional fighting spirits. Each one worth a thousand men.",
+        "I hear that many in Regna Ferox have a ferocious temperament. Bord, Cord, and Barst'll fit right in.",
+        "I know what I need to do, and that is to defeat any foe that stands before me. No matter the equipment I use."
+      ],
+      "Visit": [
+        "You've been invited to participate in a tournament from Regna Ferox at [F]'s castle."
+      ],
+      "Level": [
+        "Thanks to you, I've fought some mighty powerful foes. As such, I've gained more power with the sword.",
+        "Princess Caeda is watching. I can't make a fool of myself.",
+        "I wasn't reckless, I was simply not up to the task."
+      ],
+      "Summon": [
+        "I'm Ogma, a mercenary. Since I've been entrusted with representing Talys, I plan to achieve victory here."
+      ],
+      "Learn Skill": [
+        "Another technique I can use to survive..."
+      ],
+      "Confession": [
+        "Did you know I used to live as a hardened gladiator who spent day in and day out covered in blood?\nThe only way I could survive was to achieve victory with the sword.\nBut I knew there had to exist a way to compete in the pursuit of strength, rather than killing.\nIt would be a battle of techniques, fought with respect...\nAnd that's what I've found here at this festival... It's not what I'm used to. It's like a dream.\nYou have my gratitude for providing such a proud stage we get to fight on, [S]."
+      ],
+      "Special": [
+        "I'm ready!",
+        "I'll settle this!",
+        "Don't hold back.",
+        "A skilled opponent."
+      ],
+      "Status": [
+        "-",
+        "I'm Ogma. For now, I'm an arena fighter.",
+        "Hm? You want to test who's stronger ahead of the tournament? All right then.",
+        "A tournament held in an arena sounds like a fitting event for someone like me.",
+        "The cheering here is...lively and joyful. Not what I'm used to.",
+        "I hear there are lands where the ruler is chosen by combat... It's actually quite noble.",
+        "I hope Princess Caeda enjoys this tournament as well.",
+        "You'll have my victory. Watch and see."
+      ],
+      "Map Select": [
+        "Yes.",
+        "What's the order?",
+        "Might as well enjoy it."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ferox Ogma",
+    "SEARCH_NAME": "Ferox Ogma",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Ferox Ogma",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "ogma",
+      "ogma2"
+    ],
+    "prf": {
+      "": "arenasword",
+      "eff": "arenasword",
+      "atk": "arenasword",
+      "spd": "arenasword",
+      "def": "arenasword",
+      "res": "arenasword"
     }
   }
 }
