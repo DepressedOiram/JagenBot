@@ -912,6 +912,52 @@
         },
         "IGNORE": true
     },
+    "herof": {
+        "name": "Hero (F)",
+        "dismount": false,
+        "exp": 4,
+        "skill": [],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 1,
+            "skl": 7,
+            "spd": 9,
+            "def": 5,
+            "con": 7,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 100,
+            "axe": 50
+        },
+        "ALT_NAME": [
+            "mercenaryf"
+        ]
+    },
+    "herom": {
+        "name": "Hero (M)",
+        "dismount": false,
+        "exp": 4,
+        "skill": [],
+        "base": {
+            "hp": 24,
+            "str": 6,
+            "mag": 1,
+            "skl": 7,
+            "spd": 8,
+            "def": 5,
+            "con": 8,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 100,
+            "axe": 50
+        },
+        "ALT_NAME": [
+            "mercenarym"
+        ]
+    },
     "highpriestf": {
         "name": "High Priest (F)",
         "dismount": false,
@@ -1484,52 +1530,6 @@
             "sword": 100
         },
         "IGNORE": true
-    },
-    "mercenaryf": {
-        "name": "Mercenary (F)",
-        "dismount": false,
-        "exp": 4,
-        "skill": [],
-        "base": {
-            "hp": 20,
-            "str": 5,
-            "mag": 1,
-            "skl": 7,
-            "spd": 9,
-            "def": 5,
-            "con": 7,
-            "mov": 6
-        },
-        "rank": {
-            "sword": 100,
-            "axe": 50
-        },
-        "ALT_NAME": [
-            "herof"
-        ]
-    },
-    "mercenarym": {
-        "name": "Mercenary (M)",
-        "dismount": false,
-        "exp": 4,
-        "skill": [],
-        "base": {
-            "hp": 24,
-            "str": 6,
-            "mag": 1,
-            "skl": 7,
-            "spd": 8,
-            "def": 5,
-            "con": 8,
-            "mov": 6
-        },
-        "rank": {
-            "sword": 100,
-            "axe": 50
-        },
-        "ALT_NAME": [
-            "herom"
-        ]
     },
     "paladinf": {
         "name": "Paladin (F)",
