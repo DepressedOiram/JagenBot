@@ -1151,7 +1151,9 @@
                 "Forever Yours",
                 "The Heir to Light"
             ],
-            "X": [],
+            "X": [
+                "Tumultuous Echo"
+            ],
             "S": [],
             "captain": []
         },
@@ -1863,6 +1865,7 @@
             "Bow": [
                 "Arcane Hex Bow",
                 "Carrot Bow+",
+                "Discord Bow+",
                 "Howling Bow",
                 "Partnership Bow"
             ],
@@ -2262,6 +2265,7 @@
         "icon": "dodge",
         "reference_weapon": {
             "Sword": [
+                "Hoshido Raijinto",
                 "Sharp War Sword",
                 "Swirling Scimitar"
             ],
@@ -3052,7 +3056,18 @@
                 "Tempered Antler"
             ]
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [
+                "Bushido Tenet"
+            ],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -3586,6 +3601,7 @@
                 "Lands Sword"
             ],
             "Lance": [
+                "Hexblade Lance+",
                 "Nabata Lance+",
                 "Penitent Lance"
             ],
@@ -3704,7 +3720,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Entwined Horn"
+            ]
         },
         "reference_skill": false,
         "reference_hero": {},
@@ -3757,6 +3775,7 @@
                 "Incite Atk/Spd",
                 "Incite Atk/Res",
                 "Incite Spd/Def",
+                "Encouragement",
                 "The Heir to Light"
             ],
             "X": [],
@@ -3965,7 +3984,9 @@
                 "The Heir to Light",
                 "The True Dromi"
             ],
-            "X": [],
+            "X": [
+                "Tumultuous Echo"
+            ],
             "S": [
                 "Armored Boots"
             ],
@@ -4034,6 +4055,7 @@
                 "Brutal Breath"
             ],
             "Beast": [
+                "Entwined Horn",
                 "Ocean-Fit Antler",
                 "Tempered Antler",
                 "Wolfpup Fang"
@@ -4235,6 +4257,7 @@
         "reference_weapon": {
             "Sword": [
                 "Aerial Longsword",
+                "Hoshido Raijinto",
                 "Ladyblade",
                 "Lion's Heart",
                 "Swirling Scimitar"
@@ -4353,7 +4376,9 @@
             "A": [
                 "Prof's Guidance"
             ],
-            "B": [],
+            "B": [
+                "Bushido Tenet"
+            ],
             "C": [
                 "Inf. Spd Tactic",
                 "Inf. Null Follow 4",
@@ -4922,6 +4947,7 @@
                 "Lodestar Rush"
             ],
             "A": [
+                "Air Superiority",
                 "Lady Knight",
                 "Obsession"
             ],
@@ -5341,6 +5367,7 @@
             },
             "Breath": [],
             "Beast": [
+                "Entwined Horn",
                 "Wandering Horn"
             ]
         },
@@ -5939,6 +5966,7 @@
         "reference_weapon": {
             "Sword": [
                 "Azure Twin Edge",
+                "Hoshido Raijinto",
                 "Sublime Creator"
             ],
             "Lance": [],
@@ -6032,6 +6060,7 @@
                 "Hexblade Sword+"
             ],
             "Lance": [
+                "Hexblade Lance+",
                 "Nabata Lance+"
             ],
             "Axe": [
@@ -6116,7 +6145,8 @@
                 "Atk/Res Ploy 3",
                 "Spd/Res Ploy 3",
                 "Def/Res Ploy 3",
-                "Pulse Up: Ploy"
+                "Pulse Up: Ploy",
+                "Encouragement"
             ],
             "X": [],
             "S": [],

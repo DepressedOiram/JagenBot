@@ -37,6 +37,7 @@
                 },
                 "choice": {
                     "support": {
+                        "Summoner Support S+": "splus",
                         "Summoner Support S": "s",
                         "Summoner Support A": "a",
                         "Summoner Support B": "b",

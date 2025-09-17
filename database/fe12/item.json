@@ -12,7 +12,11 @@
             "sell": 1260,
             "wexp": 2
         },
-        "weapon": false
+        "weapon": false,
+        "ALT_NAME": [
+            "anew",
+            "Anew"
+        ]
     },
     "aquarius": {
         "name": "Aquarius",

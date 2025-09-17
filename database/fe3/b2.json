@@ -541,7 +541,7 @@
     },
     "linde": {
         "name": "Linde",
-        "portrait": "linde.png",
+        "portrait": "linde_b2.png",
         "lvl": 4,
         "job": "magef",
         "promo": "bishopf",

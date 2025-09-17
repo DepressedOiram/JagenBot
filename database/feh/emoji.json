@@ -503,5 +503,40 @@
     "name": "tms",
     "id": 1355577314758365245,
     "animated": false
+  },
+  "Bouquet_AS": {
+    "name": "Bouquet_AS",
+    "id": 1417685259767648256,
+    "animated": false
+  },
+  "Bouquet_AD": {
+    "name": "Bouquet_AD",
+    "id": 1417685276653785209,
+    "animated": false
+  },
+  "Bouquet_AR": {
+    "name": "Bouquet_AR",
+    "id": 1417685291178922035,
+    "animated": false
+  },
+  "Bouquet_SD": {
+    "name": "Bouquet_SD",
+    "id": 1417685300511248577,
+    "animated": false
+  },
+  "Bouquet_SR": {
+    "name": "Bouquet_SR",
+    "id": 1417685308807577742,
+    "animated": false
+  },
+  "Bouquet_DR": {
+    "name": "Bouquet_DR",
+    "id": 1417685333541257246,
+    "animated": false
+  },
+  "feh_Splus": {
+    "name": "feh_Splus",
+    "id": 1417685346467975278,
+    "animated": false
   }
 }

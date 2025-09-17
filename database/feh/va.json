@@ -13148,7 +13148,11 @@
       "Hatarian Deen",
       "Hatari Deen",
       "Hatarian Dean",
-      "Hatari Dean"
+      "Hatari Dean", 
+      "Resplendent Tibarn",
+      "Resp Tibarn",
+      "R Tibarn",
+      "Tibarn (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "tibarn",
@@ -13188,12 +13192,17 @@
       "Heen",
       "Hatari Deen",
       "Hatarian Dean",
-      "Hatari Dean"
+      "Hatari Dean",
+      "Resplendent Tibarn",
+      "Resp Tibarn",
+      "R Tibarn",
+      "Tibarn (Resplendent)"
     ],
     "heroes": {
       "bantu": "<:Red_Breath:1317239692189630504>Bantu",
       "deen": "<:Colorless_Dagger:1317239418943438869>Hatarian Deen",
       "tibarn": "<:Red_Beast:1317239666944114688>Tibarn",
+      "tibarnR": "<:Red_Beast:1317239666944114688>Tibarn (Resplendent)",
       "tibarn2": "<:Colorless_Beast:1317239395534901248>Pirate Tibarn"
     },
     "name": "Joe J. Thomas"
@@ -17741,7 +17750,11 @@
       "Base Meliai",
       "Normal Meliai",
       "Regular Meliai",
-      "meliai"
+      "meliai",
+      "Borrowed Power",
+      "Ash: Borrowed Power",
+      "Entwined Ash",
+      "ash3"
     ],
     "HARD_ALT_NAME": [
       "ash",
@@ -17781,11 +17794,16 @@
       "Base Meliai",
       "Normal Meliai",
       "Regular Meliai",
-      "meliai"
+      "meliai",
+      "Borrowed Power",
+      "Ash: Borrowed Power",
+      "Entwined Ash",
+      "ash3"
     ],
     "heroes": {
       "ash": "<:Colorless_Beast:1317239395534901248>Ash",
       "ash2": "<:Blue_Beast:1317239339452731402>New Year Ash",
+      "ash3": "<:Colorless_Beast:1317239395534901248>Entwined Ash",
       "meliai": "<:Green_Beast:1317239527953141870>Mel\u00edai"
     },
     "name": "Lily Emil Lammers"
@@ -18873,7 +18891,13 @@
       "Baby Corn",
       "Child Corn",
       "corrin16",
-      "mcorrin8"
+      "mcorrin8",
+      "Rebellious Streak",
+      "Scarlet: Rebellious Streak",
+      "Normal Scarlet",
+      "Base Scarlet",
+      "Regular Scarlet",
+      "scarlet"
     ],
     "HARD_ALT_NAME": [
       "corrin2",
@@ -19199,7 +19223,13 @@
       "Baby Corn",
       "Child Corn",
       "corrin16",
-      "mcorrin8"
+      "mcorrin8",
+      "Rebellious Streak",
+      "Scarlet: Rebellious Streak",
+      "Normal Scarlet",
+      "Base Scarlet",
+      "Regular Scarlet",
+      "scarlet"
     ],
     "heroes": {
       "fcorrin": "<:Blue_Breath:1317239355835813939>Female Corrin",
@@ -19212,7 +19242,8 @@
       "fcorrin7": "<:Blue_Breath:1317239355835813939>Halloween Female Corrin",
       "fcorrin8": "<:Colorless_Breath:1317239411980767363>Brave Corrin",
       "mcorrin8": "<:Blue_Breath:1317239355835813939>Young Corrin",
-      "priscilla": "<:Colorless_Staff:1317239426866483261>Priscilla"
+      "priscilla": "<:Colorless_Staff:1317239426866483261>Priscilla",
+      "scarlet": "<:Green_Axe:1317239517136031897>Scarlet"
     },
     "name": "Marcella Lentz-Pope"
   },
@@ -19798,7 +19829,14 @@
       "G Chrom",
       "Ferox Chrom",
       "F Chrom 2",
-      "chrom9"
+      "chrom9",
+      "Warrior of Bonds",
+      "Ryoma: Warrior of Bonds",
+      "Attuned Ryoma",
+      "ryoma5",
+      "Lobster: Warrior of Bonds",
+      "Attuned Lobster",
+      "White Lobster"
     ],
     "HARD_ALT_NAME": [
       "chrom",
@@ -19988,7 +20026,14 @@
       "G Chrom",
       "Ferox Chrom",
       "F Chrom 2",
-      "chrom9"
+      "chrom9",
+      "Warrior of Bonds",
+      "Ryoma: Warrior of Bonds",
+      "Attuned Ryoma",
+      "ryoma5",
+      "Lobster: Warrior of Bonds",
+      "Attuned Lobster",
+      "White Lobster"
     ],
     "heroes": {
       "azama": "<:Colorless_Staff:1317239426866483261>Azama",
@@ -20011,6 +20056,7 @@
       "ryoma2": "<:Red_Sword:1317239717707911188>Legendary Ryoma",
       "ryoma3": "<:Blue_Dagger:1317239367529529445>Dancer Ryoma",
       "ryoma4": "<:Blue_Lance:1317239378208096338>Bath Ryoma",
+      "ryoma5": "<:Red_Sword:1317239717707911188>Attuned Ryoma",
       "shigure": "<:Blue_Lance:1317239378208096338>Shigure",
       "shigureR": "<:Blue_Lance:1317239378208096338>Shigure (Resplendent)",
       "shigure2": "<:Blue_Tome:1317239386491977749>Dancer Shigure"
@@ -21836,7 +21882,13 @@
       "Jesse: Blithe Mercenary",
       "Base Jesse",
       "Normal Jesse",
-      "jesse"
+      "jesse",
+      "Righteous Rebel",
+      "Shura: Righteous Rebel",
+      "Normal Shura",
+      "Base Shura",
+      "Regular Shura",
+      "shura"
     ],
     "HARD_ALT_NAME": [
       "abel",
@@ -21905,7 +21957,13 @@
       "Jesse: Blithe Mercenary",
       "Base Jesse",
       "Normal Jesse",
-      "jesse"
+      "jesse",
+      "Righteous Rebel",
+      "Shura: Righteous Rebel",
+      "Normal Shura",
+      "Base Shura",
+      "Regular Shura",
+      "shura"
     ],
     "heroes": {
       "abel": "<:Blue_Lance:1317239378208096338>Abel",
@@ -21916,7 +21974,8 @@
       "jeorge": "<:Colorless_Bow:1317239404204654703>Jeorge",
       "jeorgeR": "<:Colorless_Bow:1317239404204654703>Jeorge (Resplendent)",
       "jesse": "<:Red_Sword:1317239717707911188>Jesse",
-      "laslow": "<:Red_Sword:1317239717707911188>Laslow"
+      "laslow": "<:Red_Sword:1317239717707911188>Laslow",
+      "shura": "<:Green_Bow:1317239539936268340>Shura"
     },
     "name": "Mick Wingert"
   },
@@ -31234,6 +31293,28 @@
       "Ferox Ogma",
       "F Ogma",
       "ogma3"
+    ]
+  },
+  "ernestojasonliebrecht": {
+    "heroes": {
+      "haitaka": "<:Blue_Lance:1317239378208096338>Haitaka"
+    },
+    "name": "Ernesto Jason Liebrecht",
+    "ALT_NAME": [
+      "Persistent General",
+      "Haitaka: Persistent General",
+      "Normal Haitaka",
+      "Base Haitaka",
+      "Regular Haitaka",
+      "haitaka"
+    ],
+    "HARD_ALT_NAME": [
+      "Persistent General",
+      "Haitaka: Persistent General",
+      "Normal Haitaka",
+      "Base Haitaka",
+      "Regular Haitaka",
+      "haitaka"
     ]
   }
 }

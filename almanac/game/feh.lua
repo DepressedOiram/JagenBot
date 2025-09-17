@@ -328,6 +328,12 @@ function Character:get_info()
         
         text = text .. string.format("%sEmblem Hero - Check *Skills* page for Engage Effect.\n", heroes_pack:get("feh_emblem"))
     end
+
+     -- Check for Entwined and show the bonuses
+    if self:is_entwined() then
+        text = text .. string.format("%sEntwined Hero: %s\n", self:bouquet_icon(), 
+        util.table_stats(self.data.boost, {value_start = "+"}))
+    end
     
     -- Check for Duel
     if self.data.duel then
@@ -454,7 +460,8 @@ local summoner_bonus = {
     c = {hp = 3, res = 2},
     b = {hp = 4, def = 2, res = 2},
     a = {hp = 4, spd = 2, def = 2, res = 2},
-    s = {hp = 5, atk = 2, spd = 2, def = 2, res = 2}
+    s = {hp = 5, atk = 2, spd = 2, def = 2, res = 2},
+    splus = {hp = 7, atk = 2, spd = 2, def = 2, res = 2}
 }
 
 function Character:final_base()
@@ -712,7 +719,11 @@ function Character:fancy_short()
     if self:is_emblem() then
         text = self:emblem_icon() .. text
     end
-    
+
+    if self:is_entwined() then
+        text = self:bouquet_icon() .. text
+    end
+
     return text
 end
 
@@ -783,6 +794,9 @@ function Character:emblem_icon()
     return heroes_pack:get("feh_emblem")
 end
 
+function Character:bouquet_icon()
+    return heroes_pack:get( string.format("Bouquet_%s", self.data.bouquet) )
+end
 
 ---------------------
 
@@ -804,6 +818,10 @@ end
 
 function Character:is_emblem()
     return (self.data.type == "emblem")
+end
+
+function Character:is_entwined()
+    return (self.data.type ==  "entwined")
 end
 
 function Character:has_resplendent()

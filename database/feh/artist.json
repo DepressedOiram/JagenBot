@@ -5466,7 +5466,13 @@
       "Emblem Lyn",
       "Engage Lyn",
       "E Lyn",
-      "lyn9"
+      "lyn9",
+      "Warrior of Gusto",
+      "Hinoka: Warrior of Gusto",
+      "Rearmed Hinoka",
+      "Rearm Hinoka",
+      "Arm Hinoka",
+      "hinoka6"
     ],
     "HARD_ALT_NAME": [
       "Leg Myrrh",
@@ -5532,12 +5538,19 @@
       "Emblem Lyn",
       "Engage Lyn",
       "E Lyn",
-      "lyn9"
+      "lyn9",
+      "Warrior of Gusto",
+      "Hinoka: Warrior of Gusto",
+      "Rearmed Hinoka",
+      "Rearm Hinoka",
+      "Arm Hinoka",
+      "hinoka6"
     ],
     "heroes": {
       "fcorrin8": "<:Colorless_Breath:1317239411980767363>Brave Corrin",
       "effie2": "<:Green_Axe:1317239517136031897>Valentines Effie",
       "hilda5": "<:Green_Axe:1317239517136031897>Ascended Fodlan Hilda",
+      "hinoka6": "<:Blue_Lance:1317239378208096338>Rearmed Hinoka",
       "lumera2": "<:Blue_Breath:1317239355835813939>Lumera",
       "lyn9": "<:Green_Bow:1317239539936268340>Emblem Lyn",
       "myrrh4": "<:Blue_Breath:1317239355835813939>Legendary Myrrh",
@@ -11980,7 +11993,14 @@
       "Legendary Black Knight",
       "L Black Knight",
       "Leg Black Knight",
-      "blackknight3"
+      "blackknight3",
+      "Warrior of Bonds",
+      "Ryoma: Warrior of Bonds",
+      "Attuned Ryoma",
+      "ryoma5",
+      "Lobster: Warrior of Bonds",
+      "Attuned Lobster",
+      "White Lobster"
     ],
     "HARD_ALT_NAME": [
       "ryoma",
@@ -12336,7 +12356,14 @@
       "Legendary BK",
       "L BK",
       "Leg BK",
-      "bk3"
+      "bk3",
+      "Warrior of Bonds",
+      "Ryoma: Warrior of Bonds",
+      "Attuned Ryoma",
+      "ryoma5",
+      "Lobster: Warrior of Bonds",
+      "Attuned Lobster",
+      "White Lobster"
     ],
     "heroes": {
       "aelfric": "<:Red_Tome:1317239730714316800>Aelfric",
@@ -12368,6 +12395,7 @@
       "ryoma": "<:Red_Sword:1317239717707911188>Ryoma",
       "ryoma2": "<:Red_Sword:1317239717707911188>Legendary Ryoma",
       "ryoma3": "<:Blue_Dagger:1317239367529529445>Dancer Ryoma",
+      "ryoma5": "<:Red_Sword:1317239717707911188>Attuned Ryoma",
       "sanaki3": "<:Red_Tome:1317239730714316800>Ninja Sanaki",
       "soren5": "<:Green_Tome:1317239575352971396>Brave Soren",
       "sothe2": "<:Green_Dagger:1317239563697127456>Thief Sothe",
@@ -15037,7 +15065,11 @@
       "New Year Kysha",
       "New years Kysha",
       "New Year Kisa",
-      "New years Kisa"
+      "New years Kisa",
+      "Resplendent Tibarn",
+      "Resp Tibarn",
+      "R Tibarn",
+      "Tibarn (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "solon",
@@ -15069,12 +15101,17 @@
       "New Year Kysha",
       "New years Kysha",
       "New Year Kisa",
-      "New years Kisa"
+      "New years Kisa",
+      "Resplendent Tibarn",
+      "Resp Tibarn",
+      "R Tibarn",
+      "Tibarn (Resplendent)"
     ],
     "heroes": {
       "balthus": "<:Green_Axe:1317239517136031897>Balthus",
       "kyza": "<:Red_Beast:1317239666944114688>New Year Kyza",
-      "solon": "<:Red_Tome:1317239730714316800>Solon"
+      "solon": "<:Red_Tome:1317239730714316800>Solon",
+      "tibarnR": "<:Red_Beast:1317239666944114688>Tibarn (Resplendent)"
     },
     "name": "Maji (\u307e\u3058)"
   },
@@ -15902,7 +15939,13 @@
       "saber2",
       "sabre2",
       "savr2",
-      "savor2"
+      "savor2",
+      "Righteous Rebel",
+      "Shura: Righteous Rebel",
+      "Normal Shura",
+      "Base Shura",
+      "Regular Shura",
+      "shura"
     ],
     "HARD_ALT_NAME": [
       "Child Minerva",
@@ -16088,7 +16131,13 @@
       "saber2",
       "sabre2",
       "savr2",
-      "savor2"
+      "savor2",
+      "Righteous Rebel",
+      "Shura: Righteous Rebel",
+      "Normal Shura",
+      "Base Shura",
+      "Regular Shura",
+      "shura"
     ],
     "heroes": {
       "cain": "<:Red_Sword:1317239717707911188>Cain",
@@ -16108,6 +16157,7 @@
       "ross": "<:Green_Axe:1317239517136031897>Ross",
       "roy4": "<:Red_Sword:1317239717707911188>Legendary Roy",
       "saber2": "<:Blue_Lance:1317239378208096338>Jehanna Saber",
+      "shura": "<:Green_Bow:1317239539936268340>Shura",
       "silas": "<:Blue_Lance:1317239378208096338>Silas",
       "tormod": "<:Red_Tome:1317239730714316800>Nabata Tormod"
     },
@@ -28426,7 +28476,13 @@
       "Dew: Benevolent Thief",
       "Benevolent Thief",
       "Normal Dew",
-      "Base Dew"
+      "Base Dew",
+      "Rebellious Streak",
+      "Scarlet: Rebellious Streak",
+      "Normal Scarlet",
+      "Base Scarlet",
+      "Regular Scarlet",
+      "scarlet"
     ],
     "HARD_ALT_NAME": [
       "Aspiring Knight",
@@ -28448,13 +28504,20 @@
       "Dew: Benevolent Thief",
       "Benevolent Thief",
       "Normal Dew",
-      "Base Dew"
+      "Base Dew",
+      "Rebellious Streak",
+      "Scarlet: Rebellious Streak",
+      "Normal Scarlet",
+      "Base Scarlet",
+      "Regular Scarlet",
+      "scarlet"
     ],
     "heroes": {
       "dew": "<:Red_Dagger:1317239717707911188>Dew",
       "fee": "<:Red_Sword:1317239717707911188>Fee",
       "hanaR": "<:Red_Sword:1317239717707911188>Hana (Resplendent)",
-      "hinokaR": "<:Blue_Lance:1317239378208096338>Hinoka (Resplendent)"
+      "hinokaR": "<:Blue_Lance:1317239378208096338>Hinoka (Resplendent)",
+      "scarlet": "<:Green_Axe:1317239517136031897>Scarlet"
     },
     "name": "Yuko (\u5915\u5b50)"
   },
@@ -29465,6 +29528,7 @@
   },
   "meisai": {
     "heroes": {
+      "haitaka": "<:Blue_Lance:1317239378208096338>Haitaka",
       "nomah": "<:Green_Tome:1317239575352971396>Nomah"
     },
     "name": "Meisai (\u3081\u3044\u3055\u3044)",
@@ -29474,7 +29538,13 @@
       "Nomah: Priest of Mila",
       "Base Nomah",
       "Normal Nomah",
-      "nomah"
+      "nomah",
+      "Persistent General",
+      "Haitaka: Persistent General",
+      "Normal Haitaka",
+      "Base Haitaka",
+      "Regular Haitaka",
+      "haitaka"
     ]
   },
   "nima": {
@@ -29737,6 +29807,19 @@
       "Resp Naga",
       "R Naga",
       "Naga (Resplendent)"
+    ]
+  },
+  "usuke": {
+    "heroes": {
+      "ash3": "<:Colorless_Beast:1317239395534901248>Entwined Ash"
+    },
+    "name": "u_suke (u\u4Ecb)",
+    "ALT_NAME": [
+      "u\u4Ecb",
+      "Borrowed Power",
+      "Ash: Borrowed Power",
+      "Entwined Ash",
+      "ash3"
     ]
   }
 }
