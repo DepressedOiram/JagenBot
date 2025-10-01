@@ -1254,14 +1254,14 @@
     },
     "geosphere": {
         "name": "Geosphere",
-        "desc": "Allies within 3 tiles of wielder get +10 to Hit and Crit, and when used as an item, 5-15 damage is dealt to all units.",
+        "desc": "Allies within 3 tiles of wielder get +10 to Hit, Avoid, Crit, and Dodge, and when used as an item, 5-15 damage is dealt to all units.",
         "stats": {},
         "type": "item",
         "weapon": false
     },
     "brokengeosphere": {
         "name": "Broken Geosphere",
-        "desc": "Allies within 3 tiles of wielder get +10 to Hit and Crit.",
+        "desc": "Allies within 3 tiles of wielder get +10 to Hit, Avoid, Crit, and Dodge.",
         "stats": {},
         "type": "item",
         "weapon": false
@@ -1275,7 +1275,7 @@
     },
     "lightsphere": {
         "name": "Lightsphere",
-        "desc": "Bypasses enemy's terrain bonuses, effective bonuses, crits, and Darksphere effect.",
+        "desc": "Bypasses enemy's terrain bonuses, effective bonuses, Crits, and Darksphere effect.",
         "stats": {},
         "type": "item",
         "weapon": false

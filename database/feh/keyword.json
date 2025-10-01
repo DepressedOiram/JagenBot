@@ -809,7 +809,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Torrential Roar"
+            ],
             "A": [],
             "B": [],
             "C": [
@@ -821,7 +823,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "fcorrin9": "<:feh_emblem:1317239481874780181><:Red_Sword:1317239717707911188>Emblem Corrin"
+        },
         "HARD_ALT_NAME": [
             "Canto Control"
         ]
@@ -1783,7 +1787,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Winds of Duality"
+            ]
         },
         "reference_skill": false,
         "reference_hero": {},
@@ -2180,6 +2186,33 @@
             "Ice Tiles"
         ]
     },
+    "divineveinicicle": {
+        "name": "Divine Vein (Icicle)",
+        "description": "Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to \u3010Divine Vein (Vert)\u3011. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).",
+        "color": "Blue",
+        "icon": "divineveinicicle",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Torrential Roar"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {
+            "fcorrin9": "<:feh_emblem:1317239481874780181><:Red_Sword:1317239717707911188>Emblem Corrin"
+        },
+        "HARD_ALT_NAME": [
+            "Divine Vein Icicle",
+            "Icicle Tile",
+            "Icicle Tiles"
+        ]
+    },
     "divineveinstone": {
         "name": "Divine Vein (Stone)",
         "description": "Applies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding Røkkr area-of-effect Specials). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain.)",
@@ -2230,6 +2263,33 @@
             "Stone Tile",
             "Stone Tiles",
             "Stealth Rocks"
+        ]
+    },
+    "divineveinvert": {
+        "name": "Divine Vein (Vert)",
+        "description": "Applies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts \u3010Canto Control\u3011on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
+        "color": "Green",
+        "icon": "divineveinvert",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Torrential Roar"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {
+            "fcorrin9": "<:feh_emblem:1317239481874780181><:Red_Sword:1317239717707911188>Emblem Corrin"
+        },
+        "HARD_ALT_NAME": [
+            "Divine Vein Vert",
+            "Vert Tile",
+            "Vert Tiles"
         ]
     },
     "divineveinwater": {
@@ -2387,7 +2447,9 @@
         "color": "Red",
         "icon": "draconichex",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "Sword of Fate"
+            ],
             "Lance": [],
             "Axe": [],
             "Staff": [],
@@ -2646,7 +2708,8 @@
                 "New Year Talon",
                 "Quieting Claw",
                 "Sky-Pirate Claw",
-                "Twin-Crest Power"
+                "Twin-Crest Power",
+                "Winds of Duality"
             ]
         },
         "reference_skill": {
@@ -4994,7 +5057,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Winds of Duality"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -5133,6 +5198,33 @@
             "robin14": "<:feh_duo:1317239462874578975><:Blue_Tome:1317239386491977749>Young Female Robin"
         },
         "HARD_ALT_NAME": []
+    },
+    "range2style": {
+        "name": "Range: 2 Style",
+        "description": "Unit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Range: 2 Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe. After-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can only be used if unit has Range = 1.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nThis Style is disabled when unit has another \u3010Style\u3011.\nAfter combat where this\u3010Style\u3011 is used, removes this status.",
+        "color": "Colorless",
+        "icon": "range2style",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Reject Tyranny"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Range 2 Style",
+            "2 Range Style",
+            "Range: Two Style",
+            "Range Two Style",
+            "Two Range Style"
+        ]
     },
     "reduceareaofeffectspecialdamagetaken": {
         "name": "Reduce Area-of-Effect Special Damage Taken",
@@ -5596,6 +5688,7 @@
                 "A/R Twin F Save",
                 "A/D Briar F Save",
                 "A/D Briar P Save",
+                "S/R Briar M Save",
                 "Darkling Dragon",
                 "For the True King",
                 "With Everyone!",
@@ -5790,7 +5883,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Winds of Duality"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -5992,7 +6087,9 @@
             "special": [
                 "Astra Storm"
             ],
-            "A": [],
+            "A": [
+                "Reject Tyranny"
+            ],
             "B": [],
             "C": [],
             "X": [],

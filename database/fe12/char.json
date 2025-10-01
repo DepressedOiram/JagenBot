@@ -322,8 +322,8 @@
         },
         "emote": false,
         "support": {
-            "Supported by": "**Leiden:** C-5|B-10\n**Roberto:** C-5|B-10\n**Sirius:** C-5|B-10\n**Kris:** C-4|B-8",
-            "Supports": "**Leiden:** C-5|B-10\n**Roberto:** C-5|B-10"
+            "Supported by": "**Reiden:** C-5|B-10\n**Roberto:** C-5|B-10\n**Sirius:** C-5|B-10\n**Kris:** C-4|B-8",
+            "Supports": "**Reiden:** C-5|B-10\n**Roberto:** C-5|B-10"
         }
     },
     "boah": {
@@ -1442,43 +1442,6 @@
         "emote": false,
         "support": false
     },
-    "leiden": {
-        "name": "Leiden",
-        "type": "playable",
-        "portrait": "leiden.png",
-        "job": "cavalier",
-        "lvl": 15,
-        "note": false,
-        "base": {
-            "hp": 16,
-            "str": 7,
-            "mag": 0,
-            "skl": 12,
-            "spd": 9,
-            "lck": 10,
-            "def": 4,
-            "res": 1
-        },
-        "growth": {
-            "hp": 30,
-            "str": 35,
-            "mag": 0,
-            "skl": 40,
-            "spd": 40,
-            "lck": 40,
-            "def": 5,
-            "res": 10
-        },
-        "rank": {
-            "sword": 30,
-            "lance": 75
-        },
-        "emote": false,
-        "support": {
-            "Supported by": "**Belf:** C-5|B-10\n**Roberto:** C-5|B-10\n**Sirius:** C-5|B-10\n**Kris:** C-4|B-8",
-            "Supports": "**Belf:** C-5|B-10\n**Roberto:** C-5|B-10"
-        }
-    },
     "lena": {
         "name": "Lena",
         "type": "playable",
@@ -2237,6 +2200,43 @@
             "Supports": "**Caesar:** C-5|B-10|A-16"
         }
     },
+    "reiden": {
+        "name": "Reiden",
+        "type": "playable",
+        "portrait": "leiden.png",
+        "job": "cavalier",
+        "lvl": 15,
+        "note": false,
+        "base": {
+            "hp": 16,
+            "str": 7,
+            "mag": 0,
+            "skl": 12,
+            "spd": 9,
+            "lck": 10,
+            "def": 4,
+            "res": 1
+        },
+        "growth": {
+            "hp": 30,
+            "str": 35,
+            "mag": 0,
+            "skl": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 5,
+            "res": 10
+        },
+        "rank": {
+            "sword": 30,
+            "lance": 75
+        },
+        "emote": false,
+        "support": {
+            "Supported by": "**Belf:** C-5|B-10\n**Roberto:** C-5|B-10\n**Sirius:** C-5|B-10\n**Kris:** C-4|B-8",
+            "Supports": "**Belf:** C-5|B-10\n**Roberto:** C-5|B-10"
+        }
+    },
     "rickard": {
         "name": "Rickard",
         "type": "playable",
@@ -2304,8 +2304,8 @@
         },
         "emote": false,
         "support": {
-            "Supported by": "**Leiden:** C-5|B-10\n**Belf:** C-5|B-10\n**Sirius:** C-5|B-10\n**Kris:** C-4|B-8",
-            "Supports": "**Leiden:** C-5|B-10\n**Belf:** C-5|B-10"
+            "Supported by": "**Reiden:** C-5|B-10\n**Belf:** C-5|B-10\n**Sirius:** C-5|B-10\n**Kris:** C-4|B-8",
+            "Supports": "**Reiden:** C-5|B-10\n**Belf:** C-5|B-10"
         }
     },
     "roderick": {
@@ -2633,7 +2633,7 @@
         "emote": false,
         "support": {
             "Supported by": "**Nyna:** C-0|B-0|A-0\n**Yubello:** C-5|B-11|A-18\n**Yumina:** C-5|B-11|A-18\n**Kris:** C-5|B-11|A-18",
-            "Supports": "**Nyna:** C-0|B-0|A-0\n**Leiden:** C-5|B-10\n**Belf:** C-5|B-10\n**Roberto:** C-5|B-10"
+            "Supports": "**Nyna:** C-0|B-0|A-0\n**Reiden:** C-5|B-10\n**Belf:** C-5|B-10\n**Roberto:** C-5|B-10"
         }
     },
     "tiki": {

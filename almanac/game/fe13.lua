@@ -86,7 +86,8 @@ function Character:default_options()
         mt = false,
         hit = false,
         crit = false,
-        rank = false
+        rank = false,
+        aptitude = false
     }
 end
 

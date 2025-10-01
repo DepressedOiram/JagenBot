@@ -1848,7 +1848,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "solkattieff",
@@ -18516,7 +18517,8 @@
       "fcorrin5",
       "fcorrin6",
       "fcorrin7",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "gloombreatheff",
@@ -25379,7 +25381,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "candlelighteff",
@@ -29768,7 +29771,8 @@
       "fcorrin5",
       "fcorrin6",
       "fcorrin7",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "sealifetomespd",
@@ -31512,7 +31516,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "mulagireff",
@@ -40718,7 +40723,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "bluegiftspd",
@@ -45937,7 +45943,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "swiftmulagireff",
@@ -57620,7 +57627,8 @@
       "fcorrin5",
       "fcorrin6",
       "fcorrin7",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "draconicrageeff",
@@ -68833,7 +68841,8 @@
       "fcorrin5",
       "fcorrin6",
       "fcorrin7",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "savagebreatheff",
@@ -72478,7 +72487,8 @@
       "lyn5",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "deepblueboweff",
@@ -101199,7 +101209,8 @@
       "fcorrin4",
       "fcorrin6",
       "fcorrin7",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "primordialbreatheff",
@@ -105385,7 +105396,8 @@
       "lyn5",
       "lyn6",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "tailwindshuriken",
@@ -129472,12 +129484,14 @@
       "Fjorm: Ice Ascendant",
       "Ice Ascendant",
       "Ascended Fjorm",
+      "A Fjorm",
       "Bloom Fjorm"
     ],
     "HARD_ALT_NAME": [
       "Ice Ascendant",
       "A Fjorm",
       "Ascended Fjorm",
+      "A Fjorm",
       "Bloom Fjorm"
     ],
     "gender": "F",
@@ -130864,7 +130878,8 @@
       "fcorrin4",
       "fcorrin5",
       "fcorrin7",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "ninjutsuscrolls",
@@ -131633,8 +131648,10 @@
       "Laegjarn: Flame Ascendant",
       "Flame Ascendant",
       "Ascended Laegjarn",
+      "A Laegjarn",
       "Bloom Laegjarn",
       "Ascended Laeg",
+      "A Laeg",
       "Bloom Laeg"
     ],
     "HARD_ALT_NAME": [
@@ -152242,7 +152259,8 @@
       "lyn5",
       "lyn6",
       "lyn7",
-      "lyn9"
+      "lyn9",
+      "lyn10"
     ],
     "prf": {
       "": "firelightlance",
@@ -153055,7 +153073,8 @@
       "Arcane Blade",
       "Rearmed L\u00edf",
       "Rearm L\u00edf",
-      "Arm L\u00edf"
+      "Arm L\u00edf",
+      "R L\u00edf"
     ],
     "HARD_ALT_NAME": [
       "Arcane Blade",
@@ -154428,7 +154447,8 @@
       "fcorrin4",
       "fcorrin5",
       "fcorrin6",
-      "fcorrin8"
+      "fcorrin8",
+      "fcorrin9"
     ],
     "prf": {
       "": "moonlightstone",
@@ -169921,6 +169941,7 @@
       "Fell Exalt",
       "Rearmed Chrom",
       "Rearm Chrom",
+      "R Chrom",
       "Arm Chrom",
       "Fallen Chrom"
     ],
@@ -169931,7 +169952,8 @@
       "Rearmed Chrom",
       "Rearm Chrom",
       "Arm Chrom",
-      "Fallen Chrom"
+      "Fallen Chrom",
+      "R Chrom"
     ],
     "gender": "M",
     "rarity": 5,
@@ -174998,6 +175020,7 @@
       "eitr1",
       "Rearmed Eitr",
       "Rearm Eitr",
+      "R Eitr",
       "Arm Eitr",
       "Hand of Nothing",
       "Eitr: Hand of Nothing"
@@ -175007,6 +175030,7 @@
       "eitr1",
       "Rearmed Eitr",
       "Rearm Eitr",
+      "R Eitr",
       "Arm Eitr",
       "Hand of Nothing",
       "Eitr: Hand of Nothing"
@@ -177867,7 +177891,8 @@
       "fcorrin4",
       "fcorrin5",
       "fcorrin6",
-      "fcorrin7"
+      "fcorrin7",
+      "fcorrin9"
     ],
     "prf": {
       "": "vallastone",
@@ -179165,6 +179190,7 @@
       "Plumeria: Rapturous Dream",
       "Rearmed Plumeria",
       "Rearm Plumeria",
+      "R Plumeria",
       "Arm Plumeria",
       "plumeria3"
     ],
@@ -179173,6 +179199,7 @@
       "Plumeria: Rapturous Dream",
       "Rearmed Plumeria",
       "Rearm Plumeria",
+      "R Plumeria",
       "Arm Plumeria",
       "plumeria3"
     ],
@@ -179338,6 +179365,7 @@
     "ALT_NAME": [
       "Sage of the Wind",
       "Ced: Sage of the Wind",
+      "A Ced",
       "Ascended Ced",
       "Ascendant Ced",
       "Ascendent Ced",
@@ -179346,6 +179374,7 @@
     "HARD_ALT_NAME": [
       "Sage of the Wind",
       "Ced: Sage of the Wind",
+      "A Ced",
       "Ascended Ced",
       "Ascendant Ced",
       "Ascendent Ced",
@@ -181228,12 +181257,14 @@
     "ALT_NAME": [
       "Cherished Dream",
       "Peony: Cherished Dream",
+      "A Peony",
       "Attuned Peony",
       "peony3"
     ],
     "HARD_ALT_NAME": [
       "Cherished Dream",
       "Peony: Cherished Dream",
+      "A Peony",
       "Attuned Peony",
       "peony3"
     ],
@@ -181402,12 +181433,14 @@
     "ALT_NAME": [
       "Reverent Dream",
       "Triandra: Reverent Dream",
+      "A Triandra",
       "Attuned Triandra",
       "triandra3"
     ],
     "HARD_ALT_NAME": [
       "Reverent Dream",
       "Triandra: Reverent Dream",
+      "A Triandra",
       "Attuned Triandra",
       "triandra3"
     ],
@@ -181571,12 +181604,14 @@
       "Beautiful Mage",
       "Sonya: Beautiful Mage",
       "Rearmed Sonya",
+      "R Sonya",
       "sonya3"
     ],
     "HARD_ALT_NAME": [
       "Beautiful Mage",
       "Sonya: Beautiful Mage",
       "Rearmed Sonya",
+      "R Sonya",
       "sonya3"
     ],
     "gender": "F",
@@ -183293,6 +183328,7 @@
     "ALT_NAME": [
       "Fang's Heart",
       "Nino: Fang's Heart",
+      "A Nino",
       "Attuned Nino",
       "Attune Nino",
       "nino5"
@@ -183300,6 +183336,7 @@
     "HARD_ALT_NAME": [
       "Fang's Heart",
       "Nino: Fang's Heart",
+      "A Nino",
       "Attuned Nino",
       "Attune Nino",
       "nino5"
@@ -183472,6 +183509,7 @@
       "Base Ginnungagap",
       "Rearmed Ginnungagap",
       "Rearm Ginnungagap",
+      "R Ginnungagap",
       "Arm Ginnungagap",
       "ginnungagap"
     ],
@@ -183483,6 +183521,7 @@
       "Base Ginnungagap",
       "Rearmed Ginnungagap",
       "Rearm Ginnungagap",
+      "R Ginnungagap",
       "Arm Ginnungagap",
       "ginnungagap"
     ],
@@ -184843,6 +184882,7 @@
       "Lucina: Fate's Resolve",
       "Rearmed Lucina",
       "Rearm Lucina",
+      "R Lucina",
       "Arm Lucina",
       "lucina7"
     ],
@@ -184851,6 +184891,7 @@
       "Lucina: Fate's Resolve",
       "Rearmed Lucina",
       "Rearm Lucina",
+      "R Lucina",
       "Arm Lucina",
       "lucina7"
     ],
@@ -187683,6 +187724,7 @@
       "Reinhardt: Thrud Reborn",
       "Rearmed Reinhardt",
       "Rearm Reinhardt",
+      "R Reinhardt",
       "Arm Reinhardt",
       "reinhardt4"
     ],
@@ -187691,6 +187733,7 @@
       "Reinhardt: Thrud Reborn",
       "Rearmed Reinhardt",
       "Rearm Reinhardt",
+      "R Reinhardt",
       "Arm Reinhardt",
       "reinhardt4"
     ],
@@ -190649,6 +190692,7 @@
       "Base Ivy",
       "Regular Ivy",
       "Normal Ivy",
+      "A Ivy",
       "Attuned Ivy",
       "ivy"
     ],
@@ -190658,6 +190702,7 @@
       "Base Ivy",
       "Normal Ivy",
       "Regular Ivy",
+      "A Ivy",
       "Attuned Ivy",
       "ivy"
     ],
@@ -190828,6 +190873,7 @@
       "Regular Hortensia",
       "Rearmed Hortensia",
       "Rearm Hortensia",
+      "R Hortensia",
       "Arm Hortensia",
       "hortensia"
     ],
@@ -190839,6 +190885,7 @@
       "Regular Hortensia",
       "Rearmed Hortensia",
       "Rearm Hortensia",
+      "R Hortensia",
       "Arm Hortensia",
       "hortensia"
     ],
@@ -192571,6 +192618,7 @@
     "ALT_NAME": [
       "Wind Pontifex",
       "Merric: Wind Pontifex",
+      "A Merric",
       "Ascended Merric",
       "Ascendant Merric",
       "Ascendent Merric",
@@ -192579,6 +192627,7 @@
     "HARD_ALT_NAME": [
       "Wind Pontifex",
       "Merric: Wind Pontifex",
+      "A Merric",
       "Ascended Merric",
       "Ascendant Merric",
       "Ascendent Merric",
@@ -192743,6 +192792,7 @@
     "ALT_NAME": [
       "Marth's Faithful",
       "Caeda: Marth's Faithful",
+      "A Caeda",
       "Attune Caeda",
       "Attuned Caeda",
       "caeda6"
@@ -192750,6 +192800,7 @@
     "HARD_ALT_NAME": [
       "Marth's Faithful",
       "Caeda: Marth's Faithful",
+      "A Caeda",
       "Attune Caeda",
       "Attuned Caeda",
       "caeda6"
@@ -194551,7 +194602,9 @@
     "ALT_NAME": [
       "Song's Reflection",
       "Azura: Song's Reflection",
+      "A Azura",
       "Attuned Azura",
+      "A Aqua",
       "Attuned Aqua",
       "aqua7",
       "azura7"
@@ -194559,7 +194612,9 @@
     "HARD_ALT_NAME": [
       "Song's Reflection",
       "Azura: Song's Reflection",
+      "A Azura",
       "Attuned Azura",
+      "A Aqua",
       "Attuned Aqua",
       "aqua7",
       "azura7"
@@ -195586,6 +195641,7 @@
       "Corrupted Lumera",
       "Rearmed Lumera",
       "Rearm Lumera",
+      "R Lumera",
       "Arm Lumera",
       "lumera3"
     ],
@@ -195597,6 +195653,7 @@
       "Corrupted Lumera",
       "Rearmed Lumera",
       "Rearm Lumera",
+      "R Lumera",
       "Arm Lumera",
       "lumera3"
     ],
@@ -206776,6 +206833,7 @@
       "Marianne: Cursed Blessing",
       "Rearmed Marianne",
       "Rearm Marianne",
+      "R Marianne",
       "Arm Marianne",
       "marianne3"
     ],
@@ -206784,6 +206842,7 @@
       "Marianne: Cursed Blessing",
       "Rearmed Marianne",
       "Rearm Marianne",
+      "R Marianne",
       "Arm Marianne",
       "marianne3"
     ],
@@ -206951,6 +207010,7 @@
       "Regular Dagr",
       "Aided Dagr",
       "Aid Dagr",
+      "A Dagr",
       "dagr4"
     ],
     "HARD_ALT_NAME": [
@@ -206961,6 +207021,7 @@
       "Regular Dagr",
       "Aided Dagr",
       "Aid Dagr",
+      "A Dagr",
       "dagr4"
     ],
     "gender": "F",
@@ -208893,6 +208954,7 @@
       "Lilina: Brilliant Flame",
       "Rearmed Lilina",
       "Rearm Lilina",
+      "R Lilina",
       "Arm Lilina",
       "lilina6"
     ],
@@ -208901,6 +208963,7 @@
       "Lilina: Brilliant Flame",
       "Rearmed Lilina",
       "Rearm Lilina",
+      "R Lilina",
       "Arm Lilina",
       "lilina6"
     ],
@@ -209562,6 +209625,7 @@
       "Regular \u00dejazi",
       "Rearmed \u00dejazi",
       "Rearm \u00dejazi",
+      "R \u00dejazi",
       "Arm \u00dejazi",
       "Ruthless Jotun",
       "Base thjazi",
@@ -209569,6 +209633,7 @@
       "Regular thjazi",
       "Rearmed thjazi",
       "Rearm thjazi",
+      "R thjazi",
       "Arm thjazi",
       "thjazi",
       "Base pjazi",
@@ -209576,6 +209641,7 @@
       "Regular pjazi",
       "Rearmed pjazi",
       "Rearm pjazi",
+      "R pjazi",
       "Arm pjazi",
       "pjazi"
     ],
@@ -209587,6 +209653,7 @@
       "Regular \u00dejazi",
       "Rearmed \u00dejazi",
       "Rearm \u00dejazi",
+      "R \u00dejazi",
       "Arm \u00dejazi",
       "Ruthless Jotun",
       "Base thjazi",
@@ -209594,6 +209661,7 @@
       "Regular thjazi",
       "Rearmed thjazi",
       "Rearm thjazi",
+      "R thjazi",
       "Arm thjazi",
       "thjazi",
       "Base pjazi",
@@ -209601,6 +209669,7 @@
       "Regular pjazi",
       "Rearmed pjazi",
       "Rearm pjazi",
+      "R pjazi",
       "Arm pjazi",
       "pjazi"
     ],
@@ -210462,12 +210531,14 @@
     "ALT_NAME": [
       "Steel Warrior",
       "Hector: Steel Warrior",
+      "A Hector",
       "Attuned Hector",
       "hector7"
     ],
     "HARD_ALT_NAME": [
       "Steel Warrior",
       "Hector: Steel Warrior",
+      "A Hector",
       "Attuned Hector",
       "hector7"
     ],
@@ -210637,6 +210708,7 @@
       "Leila: Superb Shadow",
       "Rearmed Leila",
       "Rearm Leila",
+      "R Leila",
       "Arm Leila",
       "leila3"
     ],
@@ -210645,6 +210717,7 @@
       "Leila: Superb Shadow",
       "Rearmed Leila",
       "Rearm Leila",
+      "R Leila",
       "Arm Leila",
       "leila3"
     ],
@@ -212369,7 +212442,8 @@
       "lyn5",
       "lyn6",
       "lyn7",
-      "lyn8"
+      "lyn8",
+      "lyn10"
     ],
     "prf": {
       "": "ladysbow",
@@ -213426,8 +213500,11 @@
     "ALT_NAME": [
       "Brigid: Awakened Bow",
       "Awakened Bow",
+      "A Brigid",
       "Attuned Brigid",
+      "A Briggid",
       "Attuned Briggid",
+      "A Bridget",
       "Attuned Bridget",
       "Brigid",
       "Briggid",
@@ -213439,8 +213516,11 @@
     "HARD_ALT_NAME": [
       "Brigid: Awakened Bow",
       "Awakened Bow",
+      "A Brigid",
       "Attuned Brigid",
+      "A Briggid",
       "Attuned Briggid",
+      "A Bridget",
       "Attuned Bridget",
       "Brigid",
       "Briggid",
@@ -216666,6 +216746,7 @@
       "Nel: Stoic Dragon",
       "Rearmed Nel",
       "Rearm Nel",
+      "R Nel",
       "Arm Nel",
       "Base Nel",
       "Normal Nel",
@@ -216676,6 +216757,7 @@
       "Nel: Stoic Dragon",
       "Rearmed Nel",
       "Rearm Nel",
+      "R Nel",
       "Arm Nel",
       "Base Nel",
       "Normal Nel",
@@ -217446,7 +217528,7 @@
     "color": "Blue",
     "duel": false,
     "id": "1214",
-    "type": "rearmed",
+    "type": "duo",
     "version": "9.3",
     "duo": false,
     "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit for 1 turn.\nIf unit has not entered combat on the current turn, grants another action to unit, and if Canto has already been triggered, re-enables Canto.\n\u3010Resonance: Blades\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
@@ -218410,6 +218492,7 @@
     "ALT_NAME": [
       "Alm: Powerful Resolve",
       "Powerful Resolve",
+      "A Alm",
       "Attuned Alm",
       "Attuned Arum",
       "alm5"
@@ -218417,6 +218500,7 @@
     "HARD_ALT_NAME": [
       "Alm: Powerful Resolve",
       "Powerful Resolve",
+      "A Alm",
       "Attuned Alm",
       "Attuned Arum",
       "alm5"
@@ -218587,6 +218671,7 @@
       "Normal Nuibaba",
       "Rearmed Nuibaba",
       "Rearm Nuibaba",
+      "R Nuibaba",
       "Arm Nuibaba",
       "nuibaba"
     ],
@@ -218597,6 +218682,7 @@
       "Normal Nuibaba",
       "Rearmed Nuibaba",
       "Rearm Nuibaba",
+      "R Nuibaba",
       "Arm Nuibaba",
       "nuibaba"
     ],
@@ -219441,7 +219527,20 @@
       "Baby Corn",
       "Child Corn",
       "corrin16",
-      "mcorrin8"
+      "mcorrin8",
+      "Duo Male Corrin",
+      "Duo M Corrin",
+      "Harmonic Male Corrin",
+      "Harmonic M Corrin",
+      "Harmonized Male Corrin",
+      "Harmonized M Corrin",
+      "Male Duo Corrin",
+      "M Duo Corrin",
+      "Male Harmonic Corrin",
+      "M Harmonic Corrin",
+      "Male Harmonized Corrin",
+      "M Harmonized Corrin",
+      "Duo Young Male Corrin"
     ],
     "HARD_ALT_NAME": [
       "Young Kinship",
@@ -219455,7 +219554,20 @@
       "Baby Corn",
       "Child Corn",
       "corrin16",
-      "mcorrin8"
+      "mcorrin8",
+      "Duo Male Corrin",
+      "Duo M Corrin",
+      "Harmonic Male Corrin",
+      "Harmonic M Corrin",
+      "Harmonized Male Corrin",
+      "Harmonized M Corrin",
+      "Male Duo Corrin",
+      "M Duo Corrin",
+      "Male Harmonic Corrin",
+      "M Harmonic Corrin",
+      "Male Harmonized Corrin",
+      "M Harmonized Corrin",
+      "Duo Young Male Corrin"
     ],
     "gender": "M",
     "rarity": 5,
@@ -220353,6 +220465,7 @@
       "Dragon's Progeny",
       "Tiki: Dragon's Progeny",
       "Attuned Tiki",
+      "Att Tiki",
       "tiki11",
       "ytiki7"
     ],
@@ -220360,6 +220473,7 @@
       "Dragon's Progeny",
       "Tiki: Dragon's Progeny",
       "Attuned Tiki",
+      "Att Tiki",
       "tiki11",
       "ytiki7"
     ],
@@ -221582,6 +221696,7 @@
       "Dedue: Dauntless Beast",
       "Rearmed Dedue",
       "Rearm Dedue",
+      "R Dedue",
       "Arm Dedue",
       "Fallen Dedue",
       "F Dedue",
@@ -221592,6 +221707,7 @@
       "Dedue: Dauntless Beast",
       "Rearmed Dedue",
       "Rearm Dedue",
+      "R Dedue",
       "Arm Dedue",
       "Fallen Dedue",
       "F Dedue",
@@ -223615,12 +223731,14 @@
     "ALT_NAME": [
       "Gloomy Mage",
       "Tharja: Gloomy Mage",
+      "A Tharja",
       "Attuned Tharja",
       "tharja7"
     ],
     "HARD_ALT_NAME": [
       "Gloomy Mage",
       "Tharja: Gloomy Mage",
+      "A Tharja",
       "Attuned Tharja",
       "tharja7"
     ],
@@ -223798,6 +223916,7 @@
       "Normal Noire",
       "Rearmed Noire",
       "Rearm Noire",
+      "R Noire",
       "Arm Noire",
       "noire"
     ],
@@ -223808,6 +223927,7 @@
       "Normal Noire",
       "Rearmed Noire",
       "Rearm Noire",
+      "R Noire",
       "Arm Noire",
       "noire"
     ],
@@ -226498,12 +226618,14 @@
     "ALT_NAME": [
       "Sworn to Country",
       "Leif: Sworn to Country",
+      "A Leif",
       "Attuned Leif",
       "leif4"
     ],
     "HARD_ALT_NAME": [
       "Sworn to Country",
       "Leif: Sworn to Country",
+      "A Leif",
       "Attuned Leif",
       "leif4"
     ],
@@ -226669,6 +226791,7 @@
       "Machyua: Blade of Gales",
       "Rearmed Machyua",
       "Rearm Machyua",
+      "R Machyua",
       "Arm Machyua",
       "Base Machyua",
       "Normal Machyua",
@@ -226679,6 +226802,7 @@
       "Machyua: Blade of Gales",
       "Rearmed Machyua",
       "Rearm Machyua",
+      "R Machyua",
       "Arm Machyua",
       "Base Machyua",
       "Normal Machyua",
@@ -230777,12 +230901,16 @@
       "Borrowed Power",
       "Ash: Borrowed Power",
       "Entwined Ash",
+      "E Ash",
+      "En Ash",
       "ash3"
     ],
     "HARD_ALT_NAME": [
       "Borrowed Power",
       "Ash: Borrowed Power",
       "Entwined Ash",
+      "E Ash",
+      "En Ash",
       "ash3"
     ],
     "gender": "F",
@@ -230952,18 +231080,22 @@
       "Warrior of Bonds",
       "Ryoma: Warrior of Bonds",
       "Attuned Ryoma",
+      "A Ryoma",
       "ryoma5",
       "Lobster: Warrior of Bonds",
       "Attuned Lobster",
+      "A Ryoma",
       "White Lobster"
     ],
     "HARD_ALT_NAME": [
       "Warrior of Bonds",
       "Ryoma: Warrior of Bonds",
       "Attuned Ryoma",
+      "A Ryoma",
       "ryoma5",
       "Lobster: Warrior of Bonds",
       "Attuned Lobster",
+      "A Ryoma",
       "White Lobster"
     ],
     "gender": "M",
@@ -231130,6 +231262,7 @@
       "Hinoka: Warrior of Gusto",
       "Rearmed Hinoka",
       "Rearm Hinoka",
+      "R Hinoka",
       "Arm Hinoka",
       "hinoka6"
     ],
@@ -231138,6 +231271,7 @@
       "Hinoka: Warrior of Gusto",
       "Rearmed Hinoka",
       "Rearm Hinoka",
+      "R Hinoka",
       "Arm Hinoka",
       "hinoka6"
     ],
@@ -231714,6 +231848,395 @@
       "spd": "hexbladelance",
       "def": "hexbladelance",
       "res": "hexbladelance"
+    }
+  },
+  "fcorrin9": {
+    "name": "Corrin",
+    "title": "Of Fates",
+    "description": "One of the Emblems who were summoned to Elyos. Resides in the Ring of the Crux of Fate. Appears in Fire Emblem Fates / Fire Emblem Engage.",
+    "origin": "Fates + Engage",
+    "artist": "Kousei Horiguchi (\u6052\u661f\u30db\u30ea\u30b0\u30c1)",
+    "move": "Armored",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1294",
+    "type": false,
+    "version": "9.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 21,
+      "atk": 11,
+      "spd": 16,
+      "def": 4,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 75,
+      "def": 50,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "def"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Sword of Fate": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Torrential Roar": "5"
+    },
+    "passive": {
+      "A": {
+        "Wind Boost 1": "2",
+        "Wind Boost 2": "3",
+        "Wind Boost 3": "4",
+        "Torrential Boost": "5"
+      },
+      "B": {
+        "Pair Up 1": "2",
+        "Pair Up 2": "3",
+        "Pair Up 3": "4",
+        "Pair Up 4": "5"
+      },
+      "C": {
+        "A/R Far Save 1": "2",
+        "A/R Far Save 2": "3",
+        "A/R Far Save 3": "4",
+        "S/R Briar M Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Corrin_Of_Fates_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Corrin_Of_Fates_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/15/Corrin_Of_Fates_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Corrin_Of_Fates_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of Fates",
+      "Corrin: Of Fates",
+      "Emblem Corrin",
+      "Engage Corrin",
+      "E Corrin",
+      "Emblem Female Corrin",
+      "Engage Female Corrin",
+      "E Female Corrin",
+      "Emblem F Corrin",
+      "Engage F Corrin",
+      "E F Corrin",
+      "fcorrin9",
+      "corrin17"
+    ],
+    "HARD_ALT_NAME": [
+      "Of Fates",
+      "Corrin: Of Fates",
+      "Emblem Corrin",
+      "Engage Corrin",
+      "E Corrin",
+      "Emblem Female Corrin",
+      "Engage Female Corrin",
+      "E Female Corrin",
+      "Emblem F Corrin",
+      "Engage F Corrin",
+      "E F Corrin",
+      "fcorrin9",
+      "corrin17"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30ab\u30e0\u30a4\u5973",
+    "voice": "Marcella Lentz-Pope",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fates"
+    ],
+    "chibi": [
+      "fe14",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I am an Emblem who has reached the ends of the paths before me.\nBut when I'm with my siblings, it's as if I have gone back to who I was before.",
+        "In Elyos, I was entrusted to Solm. I was kept in a fortress that was not dissimilar to one in Nohr or Hoshido.",
+        "In Elyos, my power manifested in the form of fog, flames, and ice pillars with Dragon Veins.\nI wonder how it would manifest if you used it.",
+        "I still do not grow hungry here, but it is a wonderful feeling being able to enjoy food. Shall I gather ingredients?",
+        "I often had my ring polished at the Somniel. It sure tickled! I wonder, are you ticklish too?"
+      ],
+      "Visit": [
+        "I am Emblem Corrin. I see you, too, are in the midst of your journey, just like [F]."
+      ],
+      "Level": [
+        "This is the result of both your and my decisions. I always had faith we would make the right ones.",
+        "As an Emblem, I wish to grant you many fruitful outcomes for your journey.",
+        "There is meaning behind every experience. I shall have faith this is true and continue my journey."
+      ],
+      "Summon": [
+        "I am Corrin, an Emblem. I shall fight with all my might so the path you choose leads to hope."
+      ],
+      "Learn Skill": [
+        "This is a power you chose for me? Nothing could bring me more joy."
+      ],
+      "Confession": [
+        "Askr's nights are truly beautiful. The sky full of stars rivals even the world I came from, as well as Solm.\nIsn't it wonderful to think about how we are just one of many possibilities shining in the night sky?\nDo you suppose there are other Emblem versions of me who exist on a different path?\nI am sure there is another me protecting someone with a katana, or roaring as a dragon!\nBut I am here with you, no matter the path you choose to take. For I believe it will lead us to where we seek.\nThis must be how my siblings felt, to watch over me so diligently. Thanks to you I share their sentiments."
+      ],
+      "Special": [
+        "Torrential Roar!",
+        "I'll be your guide.",
+        "Roar!",
+        "Emblem, engage!"
+      ],
+      "Status": [
+        "Oh.",
+        "I can imagine the look on my siblings' faces if they saw me like this.",
+        "*gasp* Oh. *giggle* For a second, I didn't see you there.",
+        "My memories of Elyos and of the three paths are what shaped me into who I am.",
+        "The Northern Fortress of Solm is where my ring was... I also spent much time in the Northern Fortress of Nohr.",
+        "\"Bare your fangs, Emblem of Fates\" is the invocation to summon me. I hope you try it someday.",
+        "Seadall is a wonderful dancer. His long, flowing hair reminds me of Azura...",
+        "It is not up to Emblems to decide the world's fate. In Elyos, Alear decides, and here, it is up to you to forge a path into the future."
+      ],
+      "Map Select": [
+        "Yes.",
+        "With faith.",
+        "I'll follow you."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Corrin",
+    "SEARCH_NAME": "Emblem Corrin",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Red_Sword:1317239717707911188>Emblem Corrin",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "fcorrin",
+      "fcorrin2",
+      "fcorrin3",
+      "fcorrin4",
+      "fcorrin5",
+      "fcorrin6",
+      "fcorrin7",
+      "fcorrin8"
+    ],
+    "prf": {
+      "": "swordoffate",
+      "eff": "swordoffate",
+      "atk": "swordoffate",
+      "spd": "swordoffate",
+      "def": "swordoffate",
+      "res": "swordoffate"
+    }
+  },
+  "lyn10": {
+    "name": "Lyn",
+    "title": "Plains Wind",
+    "description": "Disciple of the light goddess Naga. Though she cannot remember her past, she remains firm in her convictions. Appears in Fire Emblem: The Blazing Blade / Shadows.",
+    "origin": "The Blazing Blade + Shadows",
+    "artist": "\uff2b\uff45\uff27",
+    "move": "Cavalry",
+    "weapon": "Beast",
+    "color": "Green",
+    "duel": false,
+    "id": "1295",
+    "type": "legendary",
+    "version": "9.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 10,
+      "res": 5
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 60,
+      "res": 45
+    },
+    "superboon": [
+      "spd",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Whelp (Cavalry)": "1",
+      "Yearling (Cavalry)": "2",
+      "Adult (Cavalry)": "3",
+      "Winds of Duality": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Nimble Beast": "5"
+    },
+    "passive": {
+      "A": {
+        "Reject Tyranny": "5"
+      },
+      "B": {
+        "Beast Agility 1": "2",
+        "Beast Agility 2": "3",
+        "Beast Agility 3": "4",
+        "Bestial Agility": "5"
+      },
+      "C": {
+        "C Feud 1": "2",
+        "C Feud 2": "3",
+        "C Feud 3": "4",
+        "Dark Beast Force": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Lyn_Plains_Wind_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Lyn_Plains_Wind_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Lyn_Plains_Wind_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/59/Lyn_Plains_Wind_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Plains Wind",
+      "Lyn: Plains Wind",
+      "Mythic Lyn",
+      "Shadows Lyn",
+      "M Lyn",
+      "S Lyn2",
+      "Beast Lyn",
+      "Uma Lyn",
+      "Horse Lyn",
+      "lyn10"
+    ],
+    "HARD_ALT_NAME": [
+      "Plains Wind",
+      "Lyn: Plains Wind",
+      "Mythic Lyn",
+      "Shadows Lyn",
+      "M Lyn",
+      "S Lyn2",
+      "Beast Lyn",
+      "Uma Lyn",
+      "Horse Lyn",
+      "lyn10"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7363\u4eba\u30ea\u30f3",
+    "voice": "Wendee Lee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "The wind feels...welcoming. This is a nice place, isn't it?",
+        "Is...something wrong? The way you're staring at me... Is there something on my face?",
+        "Leave any bandits to me. I can't tolerate those who would harm people just trying to live their lives.",
+        "My hearing is top-notch, and I'm fast too. When someone calls for help, I'm usually the first to arrive.",
+        "You and I appear quite different at a glance, but...we share a desire to look out for the well-being of others."
+      ],
+      "Visit": [
+        "Um... My appearance? Is something off? Well, I brought you this greeting from [F]."
+      ],
+      "Level": [
+        "There's a gentle wind blowing... I feel as if it's trying to guide me.",
+        "I want to save everyone. I believe that's what my power is meant for.",
+        "I'm sorry. I guess I'm not at my best right now."
+      ],
+      "Summon": [
+        "I am Lyn. I'm told I am a disciple of light, guiding others toward Naga's ideals, but... Um. What is this place?"
+      ],
+      "Learn Skill": [
+        "Thank you. I hope you can see how grateful I am."
+      ],
+      "Confession": [
+        "I... The first thing I recall is being in a field, not knowing where I came from or who I was. I remembered nothing.\nA disciple of light... That's what they called me. Meant to guide the world toward Naga's ideals or something...\nThen, I felt like someone was calling me, and suddenly I was here. It's all quite...confusing.\nBut, wherever this is, and whoever I am...what I must do stays the same.\nI will protect the oppressed. That is the cause I will champion."
+      ],
+      "Special": [
+        "I will avenge them!",
+        "In one shot!",
+        "You will fall.",
+        "Begone!"
+      ],
+      "Status": [
+        "-",
+        "My name is Lyn. I remember nothing more...",
+        "*startle* Is this how you normally greet each other in this world?",
+        "You arrived from another world too? Then we have that much in common.",
+        "It's peculiar, but I get the feeling this isn't the first time we've met.",
+        "Regardless of the world we're in, the most important thing is that everyone can be happy, wouldn't you agree?",
+        "I will never forgive those who destroy the happiness of others.",
+        "My mind is at ease when I'm with you. This wind...it carries whispers of the past."
+      ],
+      "Map Select": [
+        "Got it.",
+        "Are there bandits here?",
+        "You have orders?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Mythic Lyn",
+    "SEARCH_NAME": "Mythic Lyn",
+    "DISPLAY_NAME": "<:Green_Beast:1317239527953141870>Mythic Lyn",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "lyn",
+      "lyn2",
+      "lyn3",
+      "lyn4",
+      "lyn5",
+      "lyn6",
+      "lyn7",
+      "lyn8",
+      "lyn9"
+    ],
+    "prf": {
+      "": "windsofduality",
+      "eff": "windsofduality",
+      "atk": "windsofduality",
+      "spd": "windsofduality",
+      "def": "windsofduality",
+      "res": "windsofduality"
+    },
+    "blessing": "Light",
+    "boost": {
+      "hp": 5,
+      "res": 5
     }
   }
 }

@@ -195,7 +195,7 @@
   },
   "darknesssword": {
     "name": "Darkness Sword",
-    "desc": "Skill% chance to trigger on user's or foe's strike.\n**User:** Multiplies damage by 1, 2 or 3.\n**Foe:** Decreases damage by 20.",
+    "desc": "Skill% chance to trigger on user's or foe's strike.\n**User:** Increases damage by 20.\n**Foe:** Decreases damage by 20.",
     "emoji": "",
     "reference": {
       "Notes": "Unused."

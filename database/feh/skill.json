@@ -6128,7 +6128,8 @@
         "mbyleth5": "3",
         "fir4": "3",
         "lucina9": "3",
-        "ryoma5": "3"
+        "ryoma5": "3",
+        "lyn10": "3"
       }
     },
     "refine": {},
@@ -6314,7 +6315,8 @@
         "larcei3": "4",
         "leif4": "4",
         "baldr": "4",
-        "fir4": "4"
+        "fir4": "4",
+        "lyn10": "4"
       }
     },
     "refine": {},
@@ -7309,7 +7311,8 @@
         "bruno": "3",
         "diamant3": "3",
         "hinoka6": "3",
-        "haitaka": "3"
+        "haitaka": "3",
+        "fcorrin9": "3"
       }
     },
     "refine": {},
@@ -7506,7 +7509,8 @@
         "baldr2": "4",
         "bruno": "4",
         "diamant3": "4",
-        "haitaka": "4"
+        "haitaka": "4",
+        "fcorrin9": "4"
       }
     },
     "refine": {},
@@ -17972,7 +17976,8 @@
         "framme": "4",
         "azura7": "4",
         "jarod": "4",
-        "chulainn": "4"
+        "chulainn": "4",
+        "fcorrin9": "4"
       },
       "Wind Boost 2": {},
       "Wind Boost 1": {}
@@ -79844,7 +79849,8 @@
         "fjorm4": "5",
         "atiki4": "5",
         "mbyleth4": "4",
-        "nagi2": "4"
+        "nagi2": "4",
+        "fcorrin9": "4"
       },
       "A/R Far Save 2": {},
       "A/R Far Save 1": {}
@@ -93269,7 +93275,8 @@
         "elm2": "4",
         "anna4": "5",
         "kagero4": "5",
-        "elm": "4"
+        "elm": "4",
+        "lyn10": "4"
       },
       "C Feud 2": {},
       "C Feud 1": {}
@@ -106856,7 +106863,8 @@
         "embla": "5",
         "hraesvelgr2": "4",
         "eitr2": "4",
-        "elm": "4"
+        "elm": "4",
+        "lyn10": "4"
       },
       "Beast Agility 2": {},
       "Beast Agility 1": {}
@@ -113077,6 +113085,7 @@
       "Fell Exalt",
       "Rearmed Chrom",
       "Rearm Chrom",
+      "R Chrom",
       "Arm Chrom",
       "Fallen Chrom",
       "F Chrom",
@@ -115473,6 +115482,10 @@
       "eitr",
       "Eitr: Hand of Nothing",
       "Eitr",
+      "Rearmed Eitr",
+      "Rearm Eitr",
+      "R Eitr",
+      "Arm Eitr",
       "Hand of Nothing"
     ],
     "ALT_NAME": [],
@@ -117718,6 +117731,7 @@
     "HARD_ALT_NAME": [
       "Sage of the Wind",
       "Ced: Sage of the Wind",
+      "A Ced",
       "Ascended Ced",
       "Ascendant Ced",
       "Ascendent Ced",
@@ -117925,6 +117939,7 @@
       "Plumeria: Rapturous Dream",
       "Rearmed Plumeria",
       "Rearm Plumeria",
+      "R Plumeria",
       "Arm Plumeria",
       "plumeria3"
     ],
@@ -118580,6 +118595,7 @@
       "Beautiful Mage",
       "Sonya: Beautiful Mage",
       "Rearmed Sonya",
+      "R Sonya",
       "sonya3",
       "Arcane Caliburnus"
     ],
@@ -118727,6 +118743,7 @@
       "Cherished Dream",
       "Peony: Cherished Dream",
       "Attuned Peony",
+      "A Peony",
       "peony3"
     ],
     "ALT_NAME": [],
@@ -118762,6 +118779,7 @@
       "Reverent Dream",
       "Triandra: Reverent Dream",
       "Attuned Triandra",
+      "A Triandra",
       "triandra3"
     ],
     "ALT_NAME": [],
@@ -119385,6 +119403,7 @@
     "HARD_ALT_NAME": [
       "Fang's Heart",
       "Nino: Fang's Heart",
+      "A Nino",
       "Attuned Nino",
       "Attune Nino",
       "nino5"
@@ -119498,6 +119517,7 @@
       "Base Ginnungagap",
       "Rearmed Ginnungagap",
       "Rearm Ginnungagap",
+      "R Ginnungagap",
       "Arm Ginnungagap",
       "ginnungagap"
     ],
@@ -120205,6 +120225,7 @@
       "Rearmed Lucina",
       "Rearm Lucina",
       "Arm Lucina",
+      "R Lucina",
       "lucina7",
       "Fate's Resolve",
       "Lucina: Fate's Resolve",
@@ -121518,7 +121539,8 @@
       "reinhardt4",
       "Reinhardt: Thrud Reborn",
       "Rearm Reinhardt",
-      "Rearmed Reinhardt"
+      "Rearmed Reinhardt",
+      "R Reinhardt"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -122807,6 +122829,7 @@
     "HARD_ALT_NAME": [
       "Ivy: Snow Queen",
       "Attuned Ivy",
+      "A Ivy",
       "Base Ivy",
       "ivy",
       "Regular Ivy",
@@ -122909,6 +122932,7 @@
       "Hortensia: Little Charmer",
       "hortensia",
       "Rearmed Hortensia",
+      "R Hortensia",
       "Normal Hortensia",
       "Arm Hortensia",
       "Base Hortensia",
@@ -123790,6 +123814,7 @@
       "Marth's Faithful",
       "Caeda: Marth's Faithful",
       "Attuned Caeda",
+      "A Caeda",
       "caeda6",
       "Attune Caeda"
     ],
@@ -123967,6 +123992,7 @@
     "HARD_ALT_NAME": [
       "Wind Pontifex",
       "Ascendent Merric",
+      "A Merric",
       "Ascendant Merric",
       "Ascended Merric",
       "merric3",
@@ -124747,7 +124773,9 @@
       "azura7",
       "aqua7",
       "Attuned Azura",
+      "A Azura",
       "Attuned Aqua",
+      "A Aqua",
       "Azura: Song's Reflection"
     ],
     "ALT_NAME": [],
@@ -125371,6 +125399,7 @@
       "Rearm Lumera",
       "Lumera: Corrupted Dragon",
       "Rearmed Lumera",
+      "R Lumera",
       "Fallen Lumera",
       "lumera3",
       "Corrupted Dragon",
@@ -129458,6 +129487,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Prime 1"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -129482,6 +129514,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Prime 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -129506,6 +129541,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Prime 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -129553,6 +129591,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Pegasus Flight 3",
+          "Flow Feather 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -129637,6 +129679,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Catch 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -129791,6 +129836,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Canto Control 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -129957,6 +130005,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Odd Tempest 3",
+          "Even Tempest 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": [
@@ -130051,6 +130103,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Moonbow"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -130163,6 +130218,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Bonfire"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -130191,6 +130249,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fort. Def/Res 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -130234,6 +130295,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Guard 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -130353,6 +130417,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Time's Pulse 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -130525,6 +130592,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Pulse Smoke 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": [
@@ -130606,6 +130676,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Sacred Cowl"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -130634,6 +130707,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wind Boost 3",
+          "Water Boost 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -130662,6 +130739,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Hardy Fighter 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -130989,6 +131069,9 @@
           "cooldown": "4",
           "sp": "500"
         },
+        "required": [
+          "Ignis"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -131033,6 +131116,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Finish 1"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131049,6 +131135,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Finish 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131065,6 +131154,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Finish 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131183,6 +131275,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Ignis"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -131231,6 +131326,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Shadow Shift 1"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131248,6 +131346,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Shadow Shift 2"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131265,6 +131366,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Shadow Shift 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131383,6 +131487,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Blazing Light"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -131442,6 +131549,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Momentum 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -131473,6 +131583,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Momentum 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -131504,6 +131617,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Momentum 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -131598,6 +131714,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Dragon's Ire 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -131637,6 +131756,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "A/R Far Save 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131785,6 +131907,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Ignis"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -131891,6 +132016,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "D/R Near Save 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -131948,6 +132076,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Beast Sense 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -131972,6 +132103,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Beast Sense 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -131996,6 +132130,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Beast Sense 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -132170,6 +132307,7 @@
       "Rearm Marianne",
       "Cursed Blessing",
       "Rearmed Marianne",
+      "R Marianne",
       "Arm Marianne"
     ],
     "ALT_NAME": [],
@@ -132185,6 +132323,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Glacies"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -132213,6 +132354,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sabotage Spd 3",
+          "Sabotage Res 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -132419,6 +132564,7 @@
       "Aid Dagr",
       "Regular Dagr",
       "Aided Dagr",
+      "A Dagr",
       "Dagr: Sunny Bloom",
       "Sunny Bloom",
       "dagr4",
@@ -132437,6 +132583,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Reposition"
+        ],
         "slot": "Assist",
         "exclusive": false,
         "restriction_weapon": [
@@ -132555,6 +132704,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Astra"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -132575,7 +132727,8 @@
         "hraesvelgr": "5",
         "hraesvelgr2": "5",
         "eitr2": "5",
-        "elm": "5"
+        "elm": "5",
+        "lyn10": "5"
       }
     },
     "icon": false,
@@ -132594,6 +132747,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Form 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -132699,6 +132855,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Swap"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -132727,6 +132886,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Snag 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -132803,6 +132965,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Bonfire"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -132843,6 +133008,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Bulwark 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -132933,6 +133101,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd Ploy 3",
+          "Res Ploy 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -132997,6 +133169,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Swift Sparrow 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -133141,6 +133316,7 @@
       "Brilliant Flame",
       "Rearm Lilina",
       "Rearmed Lilina",
+      "R Lilina",
       "Lilina: Brilliant Flame"
     ],
     "ALT_NAME": [],
@@ -133156,6 +133332,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Blazing Flame"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -133184,6 +133363,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Mirror Strike 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -133331,6 +133513,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk Cantrip 3",
+          "Res Cantrip 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -133388,12 +133574,15 @@
       "Normal pjazi",
       "Base thjazi",
       "Rearmed thjazi",
+      "R pjazi",
+      "R thjazi",
       "Normal \u00dejazi",
       "Arm \u00dejazi",
       "pjazi",
       "Base \u00dejazi",
       "Regular \u00dejazi",
       "Rearmed \u00dejazi",
+      "R \u00dejazi",
       "Rearm thjazi",
       "Base pjazi",
       "Rearm \u00dejazi",
@@ -133446,6 +133635,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "A/D Near Save 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -133555,6 +133747,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Res Form 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -133619,6 +133814,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Close Guard 3",
+          "Distant Guard 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": [
@@ -133733,6 +133932,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "A/D Far Save 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -133943,6 +134145,7 @@
       "Steel Warrior",
       "Hector: Steel Warrior",
       "Attuned Hector",
+      "A Hector",
       "hector7"
     ],
     "ALT_NAME": [],
@@ -134050,6 +134253,7 @@
       "Leila: Superb Shadow",
       "Rearmed Leila",
       "Rearm Leila",
+      "R Leila",
       "Arm Leila",
       "leila3"
     ],
@@ -135690,8 +135894,11 @@
       "Brigid: Awakened Bow",
       "Awakened Bow",
       "Attuned Brigid",
+      "A Brigid",
       "Attuned Briggid",
+      "A Briggid",
       "Attuned Bridget",
+      "A Bridget", 
       "Brigid",
       "Briggid",
       "Bridget",
@@ -137498,6 +137705,7 @@
       "Nel: Stoic Dragon",
       "Rearmed Nel",
       "Rearm Nel",
+      "R Nel",
       "Arm Nel",
       "Base Nel",
       "Normal Nel",
@@ -138307,7 +138515,8 @@
     "reference": {
       "Bestial Agility": {
         "eitr2": "5",
-        "elm": "5"
+        "elm": "5",
+        "lyn10": "5"
       }
     },
     "icon": 2381,
@@ -138553,6 +138762,7 @@
       "Alm: Powerful Resolve",
       "Powerful Resolve",
       "Attuned Alm",
+      "A Alm",
       "Attuned Arum",
       "alm5"
     ],
@@ -138694,6 +138904,7 @@
       "Normal Nuibaba",
       "Rearmed Nuibaba",
       "Rearm Nuibaba",
+      "R Nuibaba",
       "Arm Nuibaba",
       "nuibaba"
     ],
@@ -139250,7 +139461,20 @@
       "Baby Corn",
       "Child Corn",
       "corrin16",
-      "mcorrin8"
+      "mcorrin8",
+      "Duo Male Corrin",
+      "Duo M Corrin",
+      "Harmonic Male Corrin",
+      "Harmonic M Corrin",
+      "Harmonized Male Corrin",
+      "Harmonized M Corrin",
+      "Male Duo Corrin",
+      "M Duo Corrin",
+      "Male Harmonic Corrin",
+      "M Harmonic Corrin",
+      "Male Harmonized Corrin",
+      "M Harmonized Corrin",
+      "Duo Young Male Corrin"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -139713,6 +139937,7 @@
       "Dragon's Progeny",
       "Tiki: Dragon's Progeny",
       "Attuned Tiki",
+      "Att Tiki",
       "tiki11"
     ],
     "ALT_NAME": [],
@@ -140484,6 +140709,7 @@
       "Dedue: Dauntless Beast",
       "Rearmed Dedue",
       "Rearm Dedue",
+      "R Dedue",
       "Arm Dedue",
       "dedue3"
     ],
@@ -141759,6 +141985,7 @@
       "Gloomy Mage",
       "Tharja: Gloomy Mage",
       "Attuned Tharja",
+      "A Tharja",
       "tharja7"
     ],
     "ALT_NAME": [],
@@ -141908,6 +142135,7 @@
       "Normal Noire",
       "Rearmed Noire",
       "Rearm Noire",
+      "R Noire",
       "Arm Noire",
       "noire"
     ],
@@ -143470,6 +143698,7 @@
       "Sworn to Country",
       "Leif: Sworn to Country",
       "Attuned Leif",
+      "A Leif",
       "leif4"
     ],
     "ALT_NAME": [],
@@ -143657,6 +143886,7 @@
       "Machyua: Blade of Gales",
       "Rearmed Machyua",
       "Rearm Machyua",
+      "R Machyua",
       "Arm Machyua",
       "Base Machyua",
       "Normal Machyua",
@@ -145923,6 +146153,8 @@
       "Borrowed Power",
       "Ash: Borrowed Power",
       "Entwined Ash",
+      "E Ash",
+      "En Ash",
       "ash3"
     ],
     "ALT_NAME": [],
@@ -146027,6 +146259,7 @@
       "Warrior of Bonds",
       "Ryoma: Warrior of Bonds",
       "Attuned Ryoma",
+      "A Ryoma",
       "ryoma5",
       "Lobster: Warrior of Bonds",
       "Attuned Lobster",
@@ -146197,6 +146430,7 @@
       "Hinoka: Warrior of Gusto",
       "Rearmed Hinoka",
       "Rearm Hinoka",
+      "R Hinoka",
       "Arm Hinoka",
       "hinoka6"
     ],
@@ -146390,5 +146624,369 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_lc198"
+  },
+  "swordoffate": {
+    "name": "Sword of Fate",
+    "skill": [
+      {
+        "name": "Sword of Fate",
+        "description": "Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range.\nAt start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants \u3010Draconic Hex\u3011and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nIf unit is within 3 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 spaces of unit \u00d7 3, + 5 (max 14; if unit triggers Savior, value is treated as 14), deals damage = 20% of unit's Res (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Res (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 20% of unit's Res (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow- up attacks and effects that prevent unit's follow-up attacks during combat.\n\u3010Draconic Hex\u3011\nInflicts Atk/Spd/Def/Res-5 on foe during combat and inflicts penalty on each of those stats = 5 - current penalty on each of those stats during combat for 1 turn (min 0; calculates each stat penalty independently).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sword of Fate": {
+        "fcorrin9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sword of Fate",
+      "Of Fates",
+      "Corrin: Of Fates",
+      "Emblem Corrin",
+      "Engage Corrin",
+      "E Corrin",
+      "Emblem Female Corrin",
+      "Engage Female Corrin",
+      "E Female Corrin",
+      "Emblem F Corrin",
+      "Engage F Corrin",
+      "E F Corrin",
+      "fcorrin9",
+      "corrin17"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw207"
+  },
+  "torrentialroar": {
+    "name": "Torrential Roar",
+    "skill": [
+      {
+        "name": "Torrential Roar",
+        "description": "Boosts damage by 60% of unit's Res when Special triggers.\nNeutralizes effects that inflict \"Special cooldown charge -X\" on unit and reduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials). If unit's Res > foe's Res, decreases Spd difference necessary for unit to make a follow-up attack by X and increases Spd difference necessary for foe to make a follow-up attack by X during combat (X = difference between Res stats; max 10).\nAt start of enemy phase (except for in Pawns of Loki), if there is no\u3010Divine Vein (Icicle)\u3011 currently applied by unit or allies, applies \u3010Divine Vein (Icicle)\u3011to spaces 2 spaces away from both unit and certain target ally within 2 spaces of unit for 1 turn (excluding spaces adjacent to or occupied by unit or target ally, spaces occupied by a foe, destructible terrain other than Divine Vein, or warp spaces in Rival Domains) and\u3010Divine Vein (Vert)\u3011 to unit's space and spaces within 4 spaces of unit for 1 turn (excluding spaces with \u3010Divine Vein (Icicle)\u3011applied). (If support partner is on player team, targets any support partner; otherwise, targets ally with the highest Def at start of battle, excluding unit; \"at start of battle\" excludes increases to Def granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.; if number of allies that qualify \u2265 2, it's treated as though there is no target ally.)\n\u3010Divine Vein (Icicle)\u3011\nApplies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to \u3010Divine Vein (Vert)\u3011. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).\n\u3010Divine Vein (Vert\u3011\nApplies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts \u3010Canto Control\u3011on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\n\u3010Canto Control\u3011\nIf unit's Range = 1, unit can move 1 space when Canto triggers. If unit's Range = 2, their action ends when Canto triggers.",
+        "stats": {
+          "cooldown": "3",
+          "sp": "500"
+        },
+        "required": [
+          "Dragon Fang"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Torrential Roar": {
+        "fcorrin9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Torrential Roar"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "torrentialboost": {
+    "name": "Torrential Boost",
+    "skill": [
+      {
+        "name": "Torrential Boost",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Fire Boost 3",
+          "Wind Boost 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "Grants HP+5.\nIf foe initiates combat or if unit's HP \u2265 50% at start of combat, grants Atk/Spd/Res+9 to unit during combat and restores 7 HP to unit after combat."
+      }
+    ],
+    "reference": {
+      "Torrential Boost": {
+        "fcorrin9": "5"
+      }
+    },
+    "icon": 2519,
+    "HARD_ALT_NAME": [
+      "Torrential Boost"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "pairup": {
+    "name": "Pair Up",
+    "skill": [
+      {
+        "name": "Pair Up 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "If unit is within 3 spaces of an ally, unit deals +5 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 3 during combat (excluding area-of-effect Specials), and also, if foe triggers the \"attack twice\" effect during combat, reduces damage by an additional 3 (excluding area-of-effect Specials).\nIf unit is within 3 spaces of an ally and foe initiates combat, reduces damage by an additional X (X = distance from unit to foe; excluding area-of-effect Specials)."
+      },
+      {
+        "name": "Pair Up 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Pair Up 1"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "If unit is within 3 spaces of an ally, unit deals +7 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 5 during combat (excluding area-of-effect Specials), and also, if foe triggers the \"attack twice\" effect during combat, reduces damage by an additional 4 (excluding area-of-effect Specials).\nIf unit is within 3 spaces of an ally and foe initiates combat, reduces damage by an additional X (X = distance from unit to foe; excluding area-of-effect Specials)."
+      },
+      {
+        "name": "Pair Up 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Pair Up 2"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "If unit is within 3 spaces of an ally, unit deals +10 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and also, if foe triggers the \"attack twice\" effect during combat, reduces damage by an additional 5 (excluding area-of-effect Specials).\nIf unit is within 3 spaces of an ally and foe initiates combat, reduces damage by an additional X \u00d7 2 (X = distance from unit to foe; excluding area-of-effect Specials)."
+      },
+      {
+        "name": "Pair Up 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Pair Up 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "If unit is within 3 spaces of an ally, inflicts Atk/Spd-4 on foe, increases Spd difference necessary for foe to make a follow-up attack by 10, neutralize penalties on unit, unit deals +15 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials), and also, if foe triggers the \"attack twice\" effect during combat, reduces damage by an additional 7 (excluding area-of-effect Specials).\nIf unit is within 3 spaces of an ally and foe initiates combat, reduces damage by an additional X \u00d7 2 (X = distance from unit to foe; excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "Pair Up 1": {},
+      "Pair Up 2": {},
+      "Pair Up 3": {},
+      "Pair Up 4": {
+        "fcorrin9": "5"
+      }
+    },
+    "icon": 2520,
+    "HARD_ALT_NAME": [
+      "Pair Up 1",
+      "Pair Up 2",
+      "Pair Up 3",
+      "Pair Up 4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "srbriarmsave": {
+    "name": "S R Briar M Save",
+    "skill": [
+      {
+        "name": "S/R Briar M Save",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "A/R Near Save 3",
+          "A/R Far Save 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "If magic, staff, or dragon foe initiates combat against an ally within 2 spaces of unit, triggers \u3010Savior\u3011on unit.\nIf foe uses magic, staff, or dragonstone, grants Spd/Res+4 to unit during combat, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and unit's next attack deals damage = 40% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack).\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects.\nSavior will not trigger if ally is on terrain that unit cannot move to or if multiple units are able to use Savior during the same combat. If Savior triggers, after-combat movement effects do not occur."
+      }
+    ],
+    "reference": {
+      "S/R Briar M Save": {
+        "fcorrin9": "5"
+      }
+    },
+    "icon": 2521,
+    "HARD_ALT_NAME": [
+      "S/R Briar M Save"
+    ],
+    "ALT_NAME": [
+      "Speed/Resistance Briar M Save"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "windsofduality": {
+    "name": "Winds of Duality",
+    "skill": [
+      {
+        "name": "Winds of Duality",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes.\nAt start of turn, if unit's HP \u2265 25%, inflicts \u3010Exposure\u3011,\u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011 on closest foes and any foe within 2 spaces of those foes through their next actions.\nIf unit is transformed or unit's HP \u2265 25% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), unit deals +X \u00d7 5 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X \u00d7 3 during combat (excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, inflicts Atk/Def-Y on foe during combat (Y = number of spaces from start position to end position of whoever initiated combat + 3; max 6), and also, if Y \u2265 5, reduces damage from foe's first attack during combat by 30%.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Spd Shackle\u3011\nInflicts penalty on unit's Spd during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).\n\u3010Def Shackle\u3011\nInflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).\n\u3010Potent Follow 100%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Beast",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Winds of Duality": {
+        "lyn10": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Winds of Duality",
+      "Plains Wind",
+      "Lyn: Plains Wind",
+      "Mythic Lyn",
+      "Shadows Lyn",
+      "M Lyn",
+      "S Lyn2",
+      "Beast Lyn",
+      "Uma Lyn",
+      "Horse Lyn",
+      "lyn10"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "rejecttyranny": {
+    "name": "Reject Tyranny",
+    "skill": [
+      {
+        "name": "Reject Tyranny",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive A",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "If unit can transform, transformation effects gain \"if any foe is within 3 columns or 3 rows centered on unit\" as a trigger condition (in addition to existing conditions).\nIf defending in Aether Raids, at the start of enemy turn 1, if conditions for transforming are met, unit transforms.\nAt start of turn, if unit's HP \u2265 25%, grants \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn, and grants\u3010Range: 2 Style\u3011to unit and sword, lance, axe, dragon, or beast allies within 2 spaces of unit for 1 turn.\nIf unit is transformed or unit's HP \u2265 25% at start of combat, grants Atk/Spd/Def/Res+X+8 to unit, unit deals +X \u00d7 4 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X \u00d7 4 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional X \u00d7 4 (excluding area-of-effect Specials; X = number of spaces from start position to end position of whoever initiated combat; max 3), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and grants Special cooldown count-Y to unit before unit's first attack during combat (Y = number of Penalty effects active on foe, excluding stat penalties; max 2).\n\u3010Range: 2 Style\u3011\nUnit can use the following\u3010Style\u3011:\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Range: 2 Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe. After-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can only be used if unit has Range = 1.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nThis Style is disabled when unit has another \u3010Style\u3011.\nAfter combat where this\u3010Style\u3011 is used, removes this status.\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. When unit has a status or a skill that enables use of a Style, Duo Skills and Harmonized Skills cannot be used while unit can take an action (those skills can be used after unit has acted).\nStyle use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style."
+      }
+    ],
+    "reference": {
+      "Reject Tyranny": {
+        "lyn10": "5"
+      }
+    },
+    "icon": 2523, 
+    "HARD_ALT_NAME": [
+      "Reject Tyranny"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "darkbeastforce": {
+    "name": "Dark Beast Force",
+    "skill": [
+      {
+        "name": "Dark Beast Force",
+        "description": "Inflicts Spd/Def-4 on foe, disables skills of all foes excluding foe in combat, neutralizes penalties on unit, and unit deals +5 damage during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "C Feud 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Beast",
+            "Blue_Beast",
+            "Green_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": false
+      }   
+    ],
+    "reference": {
+      "Dark Beast Force": {
+        "lyn10": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2524,
+    "HARD_ALT_NAME": [
+      "Dark Beast Force"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
   }
 }
