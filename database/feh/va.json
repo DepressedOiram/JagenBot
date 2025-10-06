@@ -1852,7 +1852,14 @@
       "Base Ranulf",
       "Normal Ranulf",
       "Base Lay",
-      "Normal Lay"
+      "Normal Lay",
+      "Considerate Gaze",
+      "Ranulf: Considerate Gaze",
+      "Halloween Ranulf",
+      "H Ranulf",
+      "Harvest Ranulf",
+      "Spooky Ranulf",
+      "ranulf2"
     ],
     "HARD_ALT_NAME": [
       "ranulf",
@@ -1864,10 +1871,18 @@
       "Base Ranulf",
       "Normal Ranulf",
       "Base Lay",
-      "Normal Lay"
+      "Normal Lay",
+      "Considerate Gaze",
+      "Ranulf: Considerate Gaze",
+      "Halloween Ranulf",
+      "H Ranulf",
+      "Harvest Ranulf",
+      "Spooky Ranulf",
+      "ranulf2"
     ],
     "heroes": {
-      "ranulf": "<:Green_Beast:1317239527953141870>Ranulf"
+      "ranulf": "<:Green_Beast:1317239527953141870>Ranulf",
+      "ranulf2": "<:Blue_Beast:1317239339452731402>Halloween Ranulf"
     },
     "name": "Armen Taylor"
   },
@@ -3607,7 +3622,16 @@
       "Spring Eitr",
       "S Eitr",
       "Easter Eitr",
-      "eitr2"
+      "eitr2",
+      "Parallel Hearts",
+      "Freyja: Parallel Hearts",
+      "Halloween Freyja",
+      "Harvest Freyja",
+      "H Freyja",
+      "Spooky Freyja",
+      "Duo Freyja",
+      "D Freyja",
+      "freyja3"
     ],
     "HARD_ALT_NAME": [
       "eyvel",
@@ -3647,14 +3671,24 @@
       "Spring Eitr",
       "S Eitr",
       "Easter Eitr",
-      "eitr2"
+      "eitr2",
+      "Parallel Hearts",
+      "Freyja: Parallel Hearts",
+      "Halloween Freyja",
+      "Harvest Freyja",
+      "H Freyja",
+      "Spooky Freyja",
+      "Duo Freyja",
+      "D Freyja",
+      "freyja3"
     ],
     "heroes": {
       "brigid": "<:Green_Bow:1317239539936268340>Attuned Brigid",
       "brigid2": "<:Red_Bow:1317239680571543592>Pirate Brigid",
       "eitr": "<:Blue_Beast:1317239339452731402>Eitr",
       "eitr2": "<:Colorless_Beast:1317239395534901248>Spring Eitr",
-      "eyvel": "<:Red_Sword:1317239717707911188>Eyvel"
+      "eyvel": "<:Red_Sword:1317239717707911188>Eyvel",
+      "freyja3": "<:Colorless_Tome:1317239438602145842>Halloween Freyja"
     },
     "name": "Caitlyn Elizabeth"
   },
@@ -7194,7 +7228,26 @@
       "Resplendent Athena",
       "Resp Athena",
       "R Athena",
-      "Athena (Resplendent)"
+      "Athena (Resplendent)",
+      "Divine Abundance",
+      "Ner\u00feuz: Divine Abundance",
+      "Halloween Ner\u00feuz",
+      "H Ner\u00feuz",
+      "Harvest Ner\u00feuz",
+      "Spooky Ner\u00feuz",
+      "ner\u00feuz4",
+      "Nerpuz: Divine Abundance",
+      "Halloween Nerpuz",
+      "H Nerpuz",
+      "Harvest Nerpuz",
+      "Spooky Nerpuz",
+      "nerpuz4",
+      "Nerthuz: Divine Abundance",
+      "Halloween Nerthuz",
+      "H Nerthuz",
+      "Harvest Nerthuz",
+      "Spooky Nerthuz",
+      "nerthuz4"
     ],
     "HARD_ALT_NAME": [
       "Suave Knight",
@@ -7315,7 +7368,26 @@
       "Resplendent Athena",
       "Resp Athena",
       "R Athena",
-      "Athena (Resplendent)"
+      "Athena (Resplendent)",
+      "Divine Abundance",
+      "Ner\u00feuz: Divine Abundance",
+      "Halloween Ner\u00feuz",
+      "H Ner\u00feuz",
+      "Harvest Ner\u00feuz",
+      "Spooky Ner\u00feuz",
+      "ner\u00feuz4",
+      "Nerpuz: Divine Abundance",
+      "Halloween Nerpuz",
+      "H Nerpuz",
+      "Harvest Nerpuz",
+      "Spooky Nerpuz",
+      "nerpuz4",
+      "Nerthuz: Divine Abundance",
+      "Halloween Nerthuz",
+      "H Nerthuz",
+      "Harvest Nerthuz",
+      "Spooky Nerthuz",
+      "nerthuz4"
     ],
     "heroes": {
       "athena": "<:Red_Sword:1317239717707911188>Athena",
@@ -7327,6 +7399,7 @@
       "nerpuz": "<:Blue_Beast:1317239339452731402>Ner\u00feuz",
       "nerpuz2": "<:Colorless_Beast:1317239395534901248>New Year Ner\u00feuz",
       "nerpuz3": "<:Green_Beast:1317239527953141870>Summer Ner\u00feuz",
+      "nerpuz4": "<:Red_Beast:1317239666944114688>Halloween Ner\u00feuz",
       "tatiana": "<:Blue_Tome:1317239386491977749>Tatiana"
     },
     "name": "Cristina Vee"
@@ -20970,7 +21043,19 @@
       "Resplendent Naga",
       "Resp Naga",
       "R Naga",
-      "Naga (Resplendent)"
+      "Naga (Resplendent)",
+      "Resplendent Legendary Tiki",
+      "Resp Legendary Tiki",
+      "R Legendary Tiki",
+      "Legendary Tiki (Resplendent)",
+      "Resplendent Legendary Young Tiki",
+      "Resp Legendary Young Tiki",
+      "R Legendary Young Tiki",
+      "Legendary Young Tiki (Resplendent)",
+      "Resplendent Legendary Chiki",
+      "Resp Legendary Chiki",
+      "R Legendary Chiki",
+      "Legendary Chiki (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "tiki",
@@ -21210,7 +21295,19 @@
       "Resplendent Naga",
       "Resp Naga",
       "R Naga",
-      "Naga (Resplendent)"
+      "Naga (Resplendent)",
+       "Resplendent Legendary Tiki",
+      "Resp Legendary Tiki",
+      "R Legendary Tiki",
+      "Legendary Tiki (Resplendent)",
+      "Resplendent Legendary Young Tiki",
+      "Resp Legendary Young Tiki",
+      "R Legendary Young Tiki",
+      "Legendary Young Tiki (Resplendent)",
+      "Resplendent Legendary Chiki",
+      "Resp Legendary Chiki",
+      "R Legendary Chiki",
+      "Legendary Chiki (Resplendent)"
     ],
     "heroes": {
       "naga": "<:Blue_Breath:1317239355835813939>Naga",
@@ -21221,6 +21318,7 @@
       "ytikiR": "<:Red_Breath:1317239692189630504>Young Tiki (Resplendent)",
       "ytiki2": "<:Red_Breath:1317239692189630504>Summer Young Tiki",
       "ytiki3": "<:Blue_Breath:1317239355835813939>Legendary Young Tiki",
+      "ytiki3R": "<:Blue_Breath:1317239355835813939>Legendary Young Tiki",
       "ytiki4": "<:Colorless_Breath:1317239411980767363>Fallen Young Tiki",
       "ytiki5": "<:Blue_Breath:1317239355835813939>Harmonic Young Tiki",
       "ytiki6": "<:Red_Breath:1317239692189630504>Ascended Young Tiki",
@@ -25211,7 +25309,14 @@
       "Young Erase",
       "Ilyana: Treat Harvester",
       "Duo Turner",
-      "Harmonized Peony"
+      "Harmonized Peony",
+      "Fruitful Dream",
+      "Peony: Fruitful Dream",
+      "Halloween Peony",
+      "H Peony",
+      "Harvest Peony",
+      "Spooky Peony",
+      "peony4"
     ],
     "HARD_ALT_NAME": [
       "Flame Tribe Dana",
@@ -25319,7 +25424,14 @@
       "New years Peony",
       "Y Ilyana",
       "Resplendent Ilyana",
-      "dana4"
+      "dana4",
+      "Fruitful Dream",
+      "Peony: Fruitful Dream",
+      "Halloween Peony",
+      "H Peony",
+      "Harvest Peony",
+      "Spooky Peony",
+      "peony4"
     ],
     "heroes": {
       "ilyana": "<:Blue_Tome:1317239386491977749>Ilyana",
@@ -25329,6 +25441,7 @@
       "peony": "<:Blue_Tome:1317239386491977749>Peony",
       "peony2": "<:Green_Tome:1317239575352971396>Duo Peony",
       "peony3": "<:Green_Axe:1317239517136031897>Attuned Peony",
+      "peony4": "<:Blue_Tome:1317239386491977749>Halloween Peony",
       "tana4": "<:Green_Dagger:1317239563697127456>Harmonic Tana"
     },
     "name": "Ryan Bartley"
@@ -26527,7 +26640,16 @@
       "Harmonic Karla",
       "Harmonized Karla",
       "Spring Karla",
-      "Bunny Karla"
+      "Bunny Karla",
+      "Parallel Hearts",
+      "Freyja: Parallel Hearts",
+      "Halloween Freyja",
+      "Harvest Freyja",
+      "H Freyja",
+      "Spooky Freyja",
+      "Duo Freyja",
+      "D Freyja",
+      "freyja3"
     ],
     "HARD_ALT_NAME": [
       "freyja",
@@ -26572,11 +26694,21 @@
       "Duo Karla",
       "Harmonized Karla",
       "Spring Karla",
-      "Bunny Karla"
+      "Bunny Karla",
+      "Parallel Hearts",
+      "Freyja: Parallel Hearts",
+      "Halloween Freyja",
+      "Harvest Freyja",
+      "H Freyja",
+      "Spooky Freyja",
+      "Duo Freyja",
+      "D Freyja",
+      "freyja3"
     ],
     "heroes": {
       "freyja": "<:Green_Beast:1317239527953141870>Freyja",
       "freyja2": "<:Colorless_Beast:1317239395534901248>Summer Freyja",
+      "freyja3": "<:Colorless_Tome:1317239438602145842>Halloween Freyja",
       "karla3": "<:Green_Axe:1317239517136031897>Harmonic Karla"
     },
     "name": "Stephanie Southerland"
@@ -30503,9 +30635,35 @@
       "forde",
       "Quieting Strength",
       "Eik\u00feyrnir: Quieting Strength",
+      "Mythic Eik\u00feyrnir",
+      "M Eik\u00feyrnir",
+      "Base Eik\u00feyrnir",
+      "Normal Eik\u00feyrnir",
+      "eik\u00feyrnir",
+      "Eikthyrnir: Quieting Strength",
+      "Mythic Eikthyrnir",
+      "M Eikthyrnir",
+      "Base Eikthyrnir",
+      "Normal Eikthyrnir",
       "eikthyrnir",
-      "eiki",
-      "eikpyrnir"
+      "Eikpyrnir: Quieting Strength",
+      "Mythic Eikpyrnir",
+      "M Eikpyrnir",
+      "Base Eikpyrnir",
+      "Normal Eikpyrnir",
+      "eikpyrnir",
+      "Eik: Quieting Strength",
+      "Mythic Eik",
+      "M Eik",
+      "Base Eik",
+      "Normal Eik",
+      "eik",
+      "Eiki: Quieting Strength",
+      "Mythic Eiki",
+      "M Eiki",
+      "Base Eiki",
+      "Normal Eiki",
+      "eiki"
     ],
     "HARD_ALT_NAME": [
       "Freedom's Arrow",
@@ -30522,9 +30680,35 @@
       "forde",
       "Quieting Strength",
       "Eik\u00feyrnir: Quieting Strength",
+      "Mythic Eik\u00feyrnir",
+      "M Eik\u00feyrnir",
+      "Base Eik\u00feyrnir",
+      "Normal Eik\u00feyrnir",
+      "eik\u00feyrnir",
+      "Eikthyrnir: Quieting Strength",
+      "Mythic Eikthyrnir",
+      "M Eikthyrnir",
+      "Base Eikthyrnir",
+      "Normal Eikthyrnir",
       "eikthyrnir",
-      "eiki",
-      "eikpyrnir"
+      "Eikpyrnir: Quieting Strength",
+      "Mythic Eikpyrnir",
+      "M Eikpyrnir",
+      "Base Eikpyrnir",
+      "Normal Eikpyrnir",
+      "eikpyrnir",
+      "Eik: Quieting Strength",
+      "Mythic Eik",
+      "M Eik",
+      "Base Eik",
+      "Normal Eik",
+      "eik",
+      "Eiki: Quieting Strength",
+      "Mythic Eiki",
+      "M Eiki",
+      "Base Eiki",
+      "Normal Eiki",
+      "eiki"
     ]
   },
   "bobcarter": {
@@ -30692,7 +30876,21 @@
     "ALT_NAME": [
       "Healing Nectar",
       "Hei\u00f0r\u00fan: Healing Nectar",
+      "Mythic Hei\u00f0r\u00fan",
+      "M Hei\u00f0r\u00fan",
+      "Base Hei\u00f0r\u00fan",
+      "Normal Hei\u00f0r\u00fan",
+      "Heidrun: Healing Nectar",
+      "Mythic Heidrun",
+      "M Heidrun",
+      "Base Heidrun",
+      "Normal Heidrun",
       "heidrun",
+      "Heithrun: Healing Nectar",
+      "Mythic Heithrun",
+      "M Heithrun",
+      "Base Heithrun",
+      "Normal Heithrun",
       "heithrun",
       "Sisters of Healing",
       "Hei\u00f0r\u00fan: Sisters of Healing",
@@ -30724,7 +30922,21 @@
     "HARD_ALT_NAME": [
       "Healing Nectar",
       "Hei\u00f0r\u00fan: Healing Nectar",
+      "Mythic Hei\u00f0r\u00fan",
+      "M Hei\u00f0r\u00fan",
+      "Base Hei\u00f0r\u00fan",
+      "Normal Hei\u00f0r\u00fan",
+      "Heidrun: Healing Nectar",
+      "Mythic Heidrun",
+      "M Heidrun",
+      "Base Heidrun",
+      "Normal Heidrun",
       "heidrun",
+      "Heithrun: Healing Nectar",
+      "Mythic Heithrun",
+      "M Heithrun",
+      "Base Heithrun",
+      "Normal Heithrun",
       "heithrun",
       "Sisters of Healing",
       "Hei\u00f0r\u00fan: Sisters of Healing",
@@ -31415,6 +31627,30 @@
       "Base Haitaka",
       "Regular Haitaka",
       "haitaka"
+    ]
+  },
+  "jamesaparker": {
+    "heroes": {
+      "skrimir": "<:Green_Beast:1317239527953141870>Halloween Skrimir"
+    },
+    "name": "James A. Parker",
+    "ALT_NAME": [
+      "Echoing Howl",
+      "Skrimir: Echoing Howl",
+      "Halloween Skrimir",
+      "H Skrimir",
+      "Harvest Skrimir",
+      "Spooky Skrimir",
+      "skrimir"
+    ],
+    "HARD_ALT_NAME": [
+      "Echoing Howl",
+      "Skrimir: Echoing Howl",
+      "Halloween Skrimir",
+      "H Skrimir",
+      "Harvest Skrimir",
+      "Spooky Skrimir",
+      "skrimir"
     ]
   }
 }

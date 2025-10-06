@@ -343,7 +343,8 @@
         },
         "reference_skill": {
             "assist": [
-                "A Fate Changed!"
+                "A Fate Changed!",
+                "Pleasant Night"
             ],
             "special": [],
             "A": [
@@ -376,6 +377,7 @@
                 "Atk/Def Favor",
                 "Fair Fight",
                 "Fallen Star II",
+                "Haunting Choker",
                 "Pure Atrocity"
             ],
             "C": [],
@@ -387,6 +389,7 @@
             "captain": []
         },
         "reference_hero": {
+            "freyja3": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Halloween Freyja",
             "thorr2": "<:feh_duo:1317239462874578975><:Blue_Tome:1317239386491977749>Summer Th\u00f3rr"
         },
         "HARD_ALT_NAME": []
@@ -582,6 +585,7 @@
                 "Blue_Tome": [
                     "Eagle's Egg",
                     "Goddess Temari",
+                    "Spooky Lantern",
                     "Summer Chilling",
                     "The Cycle's Turn",
                     "Tome of Storms"
@@ -971,10 +975,12 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
+                    "\u00dej\u00e1lfi",
                     "Tome of Dusk"
                 ],
                 "Blue_Tome": [
-                    "Fell Flambeau"
+                    "Fell Flambeau",
+                    "Spooky Lantern"
                 ],
                 "Green_Tome": [
                     "Hrist"
@@ -1037,8 +1043,12 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
-            "Beast": []
+            "Breath": [
+                "Faithful Breath"
+            ],
+            "Beast": [
+                "Nocturnal Fang"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -1050,7 +1060,8 @@
                 "S/R Near Trace 4",
                 "Bestial Agility",
                 "Bestial Assault",
-                "Chivalry II"
+                "Chivalry II",
+                "Moonlit Slumber"
             ],
             "C": [],
             "X": [],
@@ -1791,7 +1802,18 @@
                 "Winds of Duality"
             ]
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [
+                "Moonlit Slumber"
+            ],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -1803,7 +1825,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Fair-Fury Axe"
+            ],
             "Staff": [],
             "Bow": [
                 "Lady's Bow"
@@ -1889,7 +1913,9 @@
                 "Green_Tome": [
                     "Arch-Sage Tome"
                 ],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Rite of Souls"
+                ]
             },
             "Breath": [],
             "Beast": [
@@ -1926,7 +1952,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "freyja3": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Halloween Freyja"
+        },
         "HARD_ALT_NAME": []
     },
     "distantswap": {
@@ -2044,6 +2072,7 @@
         "icon": "divineveinflame",
         "reference_weapon": {
             "Sword": [
+                "Carnage Amatsu",
                 "Sun Sword"
             ],
             "Lance": [
@@ -2350,7 +2379,9 @@
                     "Guide's Hourglass"
                 ],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Nightmare Staff"
+                ]
             },
             "Breath": [
                 "Astral Breath",
@@ -2587,7 +2618,9 @@
             "Beast": []
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Pleasant Night"
+            ],
             "special": [],
             "A": [],
             "B": [
@@ -2687,6 +2720,7 @@
             ],
             "Tome": {
                 "Red_Tome": [
+                    "\u00dej\u00e1lfi",
                     "Retainer's Report"
                 ],
                 "Blue_Tome": [
@@ -2703,7 +2737,9 @@
                     "Maiden's Tome"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Faithful Breath"
+            ],
             "Beast": [
                 "New Year Talon",
                 "Quieting Claw",
@@ -2721,6 +2757,7 @@
                 "Heaven's Stead"
             ],
             "B": [
+                "D/R Cantrip 3",
                 "Atk/Res Detect",
                 "Spd/Def Detect",
                 "Spd/Res Detect",
@@ -3149,7 +3186,9 @@
             "Bow": [],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "\u00dej\u00e1lfi"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": []
@@ -3175,7 +3214,9 @@
                 "Piercing Cold"
             ]
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "freyja3": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Halloween Freyja"
+        },
         "HARD_ALT_NAME": []
     },
     "futurewitness": {
@@ -3635,6 +3676,7 @@
             "B": [
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
+                "Moonlit Slumber",
                 "Spoil Rotten"
             ],
             "C": [
@@ -3784,7 +3826,8 @@
             },
             "Breath": [],
             "Beast": [
-                "Entwining Horn"
+                "Entwining Horn",
+                "Preying Fang"
             ]
         },
         "reference_skill": false,
@@ -3903,6 +3946,7 @@
             "assist": [
                 "A Fate Changed!",
                 "Dragon's Dance",
+                "Dragon's Dance II",
                 "Fate Unchanged...",
                 "To Change Fate!",
                 "To Change Fate! II"
@@ -4285,7 +4329,9 @@
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Nightmare Staff"
+                ]
             },
             "Breath": [],
             "Beast": [
@@ -4320,6 +4366,7 @@
         "reference_weapon": {
             "Sword": [
                 "Aerial Longsword",
+                "Carnage Amatsu",
                 "Hoshido Raijinto",
                 "Ladyblade",
                 "Lion's Heart",
@@ -4391,6 +4438,7 @@
         "reference_weapon": {
             "Sword": [
                 "Aerial Longsword",
+                "Carnage Amatsu",
                 "Sharp War Sword",
                 "Ve\u00f0rf\u00f6lnir's Edge"
             ],
@@ -4603,7 +4651,9 @@
                     "Nightmare's Egg"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Faithful Breath"
+            ],
             "Beast": [
                 "Quieting Branch",
                 "Twin-Crest Power"
@@ -4816,8 +4866,9 @@
                     "Silver of Dawn"
                 ],
                 "Colorless_Tome": [
-                    "Joyful Vows",
                     "\u00D3\u00F0r of Creation",
+                    "Joyful Vows",
+                    "Rite of Souls",
                     "Void Tome"
                 ]
             },
@@ -4829,7 +4880,8 @@
         },
         "reference_skill": {
             "assist": [
-                "Maiden's Solace"
+                "Maiden's Solace",
+                "Pleasant Night"
             ],
             "special": [
                 "Great Sacrifice"
@@ -4854,8 +4906,10 @@
                 "Divine Brawn",
                 "Divine Strength",
                 "Fallen Star II",
+                "Haunting Choker",
                 "Killing Intent",
                 "Killing Intent+",
+                "Moonlit Slumber",
                 "Ruler of Nihility"
             ],
             "C": [
@@ -5000,10 +5054,15 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Glee of the Land",
+                "Nocturnal Fang"
+            ]
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Dragon's Dance II"
+            ],
             "special": [
                 "Astra Storm",
                 "Enclosure II",
@@ -5334,7 +5393,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [
+                "Pleasant Night"
+            ],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -5497,7 +5567,24 @@
         "description": "Inflicts penalty on unit's Res during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
         "color": "Blue",
         "icon": "resshackle",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": [
+                    "Rite of Souls"
+                ]
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -5557,7 +5644,8 @@
                 ],
                 "Colorless_Tome": [
                     "Baked Treats",
-                    "Joyful Vows"
+                    "Joyful Vows",
+                    "Nightmare Staff"
                 ]
             },
             "Breath": [],
@@ -5802,6 +5890,26 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "shove": {
+        "name": "Shove",
+        "description": "Range = 1. Pushes target ally 1 spaces away.",
+        "color": "Colorless",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Shadow Shove 4"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "sing/dance": {
         "name": "Sing/Dance",
         "description": "Range = 1. Grants another action to target ally.",
@@ -5892,7 +6000,8 @@
             "special": [],
             "A": [],
             "B": [
-                "Spd/Res Shackle"
+                "Spd/Res Shackle",
+                "Moonlit Slumber"
             ],
             "C": [],
             "X": [],
@@ -5945,7 +6054,8 @@
             ],
             "Axe": [
                 "Dragoon Axe",
-                "Ebon B\u00f6lverk"
+                "Ebon B\u00f6lverk",
+                "Fair-Fury Axe"
             ],
             "Staff": [
                 "Caduceus Staff",
@@ -5979,7 +6089,9 @@
             "Breath": [
                 "Oracle's Breath"
             ],
-            "Beast": []
+            "Beast": [
+                "Preying Fang"
+            ]
         },
         "reference_skill": {
             "assist": [
@@ -5989,6 +6101,7 @@
             "A": [],
             "B": [],
             "C": [
+                "A/S Bellow",
                 "Atk/Spd Pledge",
                 "Def/Res Pledge",
                 "Rallying Cry"
@@ -6231,6 +6344,7 @@
         },
         "reference_skill": {
             "assist": [
+                "Dragon's Dance II",
                 "Future Sight",
                 "Gold Serpent"
             ],

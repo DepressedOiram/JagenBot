@@ -192,7 +192,7 @@ function Character:show_mod()
     local infobox = workspaces.Character.show_mod(self)
 
     if self.options.ring then
-        local path = 'https://raw.githubusercontent.com/FELibrary/Assets/main/emblem%20symbols/' .. self:get_icon() .. '.png'
+        local path = 'https://raw.githubusercontent.com/FELibrary/Assets/main/Engage/emblem%20symbols/' .. self:get_icon() .. '.png'
         infobox:image("icon", path)
     end
     
@@ -460,7 +460,11 @@ function Character:get_icon()
         if self.ring.data.emblem then            
             thumbnail = self.ring.id
         else
-            thumbnail = self.ring.data.parent
+            if self.ring.data.parent then
+                thumbnail = self.ring.data.parent
+            else
+                thumbnail = ''
+            end
         end
     
     return thumbnail
