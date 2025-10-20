@@ -67,7 +67,7 @@
   "thundersword": {
     "name": "Thunder Sword",
     "type": "sword",
-    "desc": "Always does 15 damage.",
+    "desc": "Deals damage: (15 - foe's Res). Ignores user's Strength. Targets foe's Resistance.",
     "stats": {
       "hit": 80,
       "wt": 3,

@@ -13442,7 +13442,13 @@
       "Normal Bruno",
       "Base Bruno",
       "Regular Bruno",
-      "bruno"
+      "bruno",
+      "Borrowed Divinity",
+      "Sharena: Borrowed Divinity",
+      "Entwined Sharena",
+      "E Sharena",
+      "En Sharena",
+      "sharena5"
     ],
     "HARD_ALT_NAME": [
       "lucy3",
@@ -13762,7 +13768,13 @@
       "Normal Bruno",
       "Base Bruno",
       "Regular Bruno",
-      "bruno"
+      "bruno",
+      "Borrowed Divinity",
+      "Sharena: Borrowed Divinity",
+      "Entwined Sharena",
+      "E Sharena",
+      "En Sharena",
+      "sharena5"
     ],
     "heroes": {
       "alfonse": "<:Red_Sword:1317239717707911188>Alfonse",
@@ -13797,6 +13809,7 @@
       "reginn": "<:Red_Sword:1317239717707911188>Reginn",
       "sharena": "<:Blue_Lance:1317239378208096338>Sharena",
       "sharena2": "<:Green_Tome:1317239575352971396>Spring Sharena",
+      "sharena5": "<:Blue_Lance:1317239378208096338>Entwined Sharena",
       "thrasir": "<:Green_Tome:1317239575352971396>Thrasir",
       "veronica": "<:Colorless_Staff:1317239426866483261>Brave Veronica",
       "veronica5": "<:Red_Tome:1317239730714316800>Legendary Veronica"
@@ -14322,7 +14335,13 @@
       "Powerful Resolve",
       "Attuned Alm",
       "Attuned Arum",
-      "alm5"
+      "alm5",
+      "Bolt Axe General",
+      "Gromell: Bolt Axe General",
+      "Normal Gromell",
+      "Base Gromell",
+      "Regular Gromell",
+      "gromell"
     ],
     "HARD_ALT_NAME": [
       "luthier",
@@ -14359,11 +14378,18 @@
       "Powerful Resolve",
       "Attuned Alm",
       "Attuned Arum",
-      "alm5"
+      "alm5",
+      "Bolt Axe General",
+      "Gromell: Bolt Axe General",
+      "Normal Gromell",
+      "Base Gromell",
+      "Regular Gromell",
+      "gromell"
     ],
     "heroes": {
       "alm5": "<:Colorless_Bow:1317239404204654703>Attuned Alm",
       "chrom4R": "<:Red_Sword:1317239717707911188>Horse Chrom (Resplendent)",
+      "gromell": "<:Green_Axe:1317239517136031897>Gromell",
       "luthier": "<:Green_Tome:1317239575352971396>Luthier",
       "priam": "<:Red_Sword:1317239717707911188>Priam",
       "sain": "<:Blue_Lance:1317239378208096338>Sain"
@@ -18607,13 +18633,13 @@
       "Mythic Arval",
       "Base Arval",
       "Normal Arval",
-      "boyd",
+      "boyd2",
       "Young Boyd",
-      "boyd1",
-      "bole1",
+      "boyd2",
+      "bole2",
       "Future Great",
-      "Boyd",
-      "Bole",
+      "Boyd2",
+      "Bole2",
       "Y Boyd",
       "Y Bole",
       "Yoyd",
@@ -18627,7 +18653,7 @@
     ],
     "heroes": {
       "arval": "<:Colorless_Tome:1317239438602145842>Arval",
-      "boyd": "<:Green_Axe:1317239517136031897>Young Boyd"
+      "boyd2": "<:Green_Axe:1317239517136031897>Young Boyd"
     },
     "name": "nijimaarc (\u306b\u3058\u307e\u3042\u308b\u304f)"
   },
@@ -23061,7 +23087,13 @@
       "G Ogma",
       "Ferox Ogma",
       "F Ogma",
-      "ogma3"
+      "ogma3",
+      "Intrepid Warrior",
+      "Boyd: Intrepid Warrior",
+      "Normal Boyd",
+      "Base Boyd",
+      "Regular Boyd",
+      "boyd"
     ],
     "HARD_ALT_NAME": [
       "Normal Sirius",
@@ -23252,9 +23284,16 @@
       "G Ogma",
       "Ferox Ogma",
       "F Ogma",
-      "ogma3"
+      "ogma3",
+      "Intrepid Warrior",
+      "Boyd: Intrepid Warrior",
+      "Normal Boyd",
+      "Base Boyd",
+      "Regular Boyd",
+      "boyd"
     ],
     "heroes": {
+      "boyd": "<:Green_Axe:1317239517136031897>Boyd",
       "camus": "<:Blue_Lance:1317239378208096338>Camus",
       "diamant": "<:Red_Sword:1317239717707911188>Diamant",
       "diamant2": "<:Green_Axe:1317239517136031897>Ninja Diamant",
@@ -23458,7 +23497,13 @@
       "Emblem Micaiah",
       "Engage Micaiah",
       "E Micaiah",
-      "micaiah8"
+      "micaiah8",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6"
     ],
     "HARD_ALT_NAME": [
       "Beautiful Mage",
@@ -23613,13 +23658,20 @@
       "Emblem Micaiah",
       "Engage Micaiah",
       "E Micaiah",
-      "micaiah8"
+      "micaiah8",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6"
     ],
     "heroes": {
       "august": "<:Colorless_Staff:1317239426866483261>August",
       "ayraR": "<:Red_Sword:1317239717707911188>Ayra (Resplendent)",
       "brigid": "<:Green_Bow:1317239539936268340>Attuned Brigid",
       "eldiganR": "<:Red_Sword:1317239717707911188>Eldigan (Resplendent)",
+      "elincia6": "<:Red_Sword:1317239717707911188>Duo Elincia",
       "flavia2": "<:Red_Sword:1317239717707911188>Bridal Flavia",
       "ishtarR": "<:Blue_Tome:1317239386491977749>Ishtar (Resplendent)",
       "kamui": "<:Red_Sword:1317239717707911188>Kamui",
@@ -29226,7 +29278,8 @@
   "kou": {
     "heroes": {
       "dimitri7": "<:Red_Sword:1317239717707911188>Valentines Dimitri",
-      "haarR": "<:Green_Axe:1317239517136031897>Haar (Resplendent)"
+      "haarR": "<:Green_Axe:1317239517136031897>Haar (Resplendent)",
+      "stefan": "<:Red_Sword:1317239717707911188>Stefan"
     },
     "name": "kou (\u30b3\u30a6)",
     "ALT_NAME": [
@@ -29238,7 +29291,13 @@
       "Dimitri: Stargazing Lion",
       "Valentines Dimitri",
       "V Dimitri",
-      "dimitri7"
+      "dimitri7",
+      "No-Man's-Blade",
+      "Stefan: No-Man's-Blade",
+      "Normal Stefan",
+      "Base Stefan",
+      "Regular Stefan",
+      "stefan"
     ],
     "HARD_ALT_NAME": [
       "Resplendent Haar",
@@ -29249,7 +29308,13 @@
       "Dimitri: Stargazing Lion",
       "Valentines Dimitri",
       "V Dimitri",
-      "dimitri7"
+      "dimitri7",
+      "No-Man's-Blade",
+      "Stefan: No-Man's-Blade",
+      "Normal Stefan",
+      "Base Stefan",
+      "Regular Stefan",
+      "stefan"
     ]
   },
   "kawachirin": {
@@ -29701,7 +29766,8 @@
   },
   "michimasaki": {
     "heroes": {
-      "rafal": "<:Red_Breath:1317239692189630504>Rafal"
+      "rafal": "<:Red_Breath:1317239692189630504>Rafal",
+      "soren6": "<:Blue_Tome:1317239386491977749>Rearmed Soren"
     },
     "name": "Michi Masaki (\u9EBB\u5148\u307F\u3061)",
     "ALT_NAME": [
@@ -29710,7 +29776,14 @@
       "Rafal: Atoning Dragon",
       "Base Rafal",
       "Normal Rafal",
-      "rafal"
+      "rafal",
+      "Isolated Strategist",
+      "Soren: Isolated Strategist",
+      "Rearmed Soren",
+      "Rearm Soren",
+      "R Soren",
+      "Arm Soren",
+      "soren6"
     ]
   },
   "susumukuroi": {
@@ -30125,6 +30198,19 @@
       "Ash: Borrowed Power",
       "Entwined Ash",
       "ash3"
+    ]
+  },
+  "nemusuke": {
+    "heroes": {
+      "lloydR": "<:Red_Sword:1317239717707911188>Lloyd (Resplendent)"
+    },
+    "name": "nemusuke (\u7720\u4ecb)",
+    "ALT_NAME": [
+      "\u7720\u4ecb",
+      "Resplendent Lloyd",
+      "Resp Lloyd",
+      "R Lloyd",
+      "Lloyd (Resplendent)"
     ]
   }
 }

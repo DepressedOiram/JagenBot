@@ -1468,7 +1468,7 @@
         "linus": "3",
         "walhart": "3",
         "minerva2": "3",
-        "boyd": "3",
+        "boyd2": "3",
         "fshez": "3",
         "hans": "3",
         "linus2": "3",
@@ -1477,7 +1477,8 @@
         "lissa4": "3",
         "frederick3": "3",
         "panette": "3",
-        "marni": "3"
+        "marni": "3",
+        "gromell": "3"
       }
     },
     "refine": {
@@ -5189,11 +5190,12 @@
         "eir2": "4",
         "darros": "4",
         "hilda2": "4",
-        "boyd": "4",
+        "boyd2": "4",
         "rickard": "4",
         "chrom2": "5",
         "joshua2": "5",
-        "takumi6": "3"
+        "takumi6": "3",
+        "boyd": "3"
       }
     },
     "refine": {},
@@ -5297,7 +5299,8 @@
         "selena3": "5",
         "cath2": "5",
         "alcryst2": "3",
-        "homer": "3"
+        "homer": "3",
+        "elincia6": "3"
       }
     },
     "refine": {},
@@ -6133,7 +6136,8 @@
         "lyn10": "3",
         "freyja3": "3",
         "nerpuz4": "3",
-        "ranulf2": "3"
+        "ranulf2": "3",
+        "stefan": "3"
       }
     },
     "refine": {},
@@ -6249,7 +6253,8 @@
         "felix4": "4",
         "mbyleth5": "4",
         "lucina9": "4",
-        "ryoma5": "4"
+        "ryoma5": "4",
+        "stefan": "4"
       }
     },
     "refine": {},
@@ -7319,7 +7324,8 @@
         "diamant3": "3",
         "hinoka6": "3",
         "haitaka": "3",
-        "fcorrin9": "3"
+        "fcorrin9": "3",
+        "sharena5": "3"
       }
     },
     "refine": {},
@@ -7517,7 +7523,8 @@
         "bruno": "4",
         "diamant3": "4",
         "haitaka": "4",
-        "fcorrin9": "4"
+        "fcorrin9": "4",
+        "sharena5": "4"
       }
     },
     "refine": {},
@@ -7672,7 +7679,8 @@
         "ogma3": "3",
         "ash3": "3",
         "scarlet": "3",
-        "skrimir": "3"
+        "skrimir": "3",
+        "gromell": "3"
       }
     },
     "refine": {},
@@ -7866,7 +7874,8 @@
         "ogma3": "4",
         "ash3": "4",
         "scarlet": "4",
-        "skrimir": "4"
+        "skrimir": "4",
+        "gromell": "4"
       }
     },
     "refine": {},
@@ -8020,7 +8029,8 @@
         "excellus": "3",
         "heidrun3": "3",
         "hodr": "3",
-        "shura": "3"
+        "shura": "3",
+        "soren6": "3"
       }
     },
     "refine": {},
@@ -8210,7 +8220,8 @@
         "excellus": "4",
         "heidrun3": "4",
         "hodr": "4",
-        "shura": "4"
+        "shura": "4",
+        "soren6": "4"
       }
     },
     "refine": {},
@@ -11110,7 +11121,8 @@
         "blackknight3": "4",
         "machyua": "4",
         "diamant3": "4",
-        "ash3": "4"
+        "ash3": "4",
+        "elincia6": "4"
       }
     },
     "refine": {},
@@ -18519,7 +18531,7 @@
     "reference": {
       "Fire Boost 3": {
         "ross": "4",
-        "boyd": "4",
+        "boyd2": "4",
         "eliwood2": "5",
         "lorenz": "5",
         "geese": "5",
@@ -21305,7 +21317,7 @@
       "Infantry Pulse 3": {
         "geese": "4",
         "marisa": "5",
-        "boyd": "5",
+        "boyd2": "5",
         "dorcas": "5",
         "helbindi": "5",
         "gerik": "5",
@@ -27415,7 +27427,8 @@
         "balthus": "4",
         "galle": "5",
         "henry3": "5",
-        "chrom3": "5"
+        "chrom3": "5",
+        "gromell": "4"
       },
       "Brazen Atk/Def 2": {},
       "Brazen Atk/Def 1": {}
@@ -40612,7 +40625,8 @@
         "hinoka3": "5",
         "lyn6": "5",
         "joshua2": "5",
-        "lucina9": "4"
+        "lucina9": "4",
+        "boyd": "5"
       },
       "Atk/Spd Link 2": {},
       "Atk/Spd Link 1": {}
@@ -40692,7 +40706,8 @@
         "kagero3": "5",
         "goldmary": "4",
         "merrin": "4",
-        "nanna3": "4"
+        "nanna3": "4",
+        "boyd": "4"
       },
       "Even Atk Wave 2": {},
       "Even Atk Wave 1": {}
@@ -45112,7 +45127,11 @@
       "Null C-Disrupt 1",
       "Null C-Disrupt 2",
       "Null C-Disrupt 3",
-      "Null C-Disrupt 4"
+      "Null C-Disrupt 4",
+      "Null C Disrupt 1",
+      "Null C Disrupt 2",
+      "Null C Disrupt 3",
+      "Null C Disrupt 4"
     ],
     "ALT_NAME": [],
     "slot": "Passive B",
@@ -49085,7 +49104,8 @@
         "gotoh2": "4",
         "deirdre2": "4",
         "micaiah8": "4",
-        "arval": "4"
+        "arval": "4",
+        "soren6": "4"
       },
       "Sabotage Res 2": {},
       "Sabotage Res 1": {}
@@ -55032,7 +55052,8 @@
         "julia5": "4",
         "chrom9": "4",
         "chulainn2": "4",
-        "freyja3": "4"
+        "freyja3": "4",
+        "soren6": "4"
       },
       "Time's Pulse 2": {},
       "Time's Pulse 1": {}
@@ -60860,7 +60881,8 @@
       "Close Call 3": {
         "mareeta": "5",
         "sayri": "5",
-        "ogier": "5"
+        "ogier": "5",
+        "stefan": "4"
       },
       "Close Call 2": {},
       "Close Call 1": {}
@@ -81305,7 +81327,8 @@
         "mareeta3": "5",
         "diamant2": "4",
         "lapis3": "4",
-        "diamant3": "4"
+        "diamant3": "4",
+        "stefan": "4"
       },
       "Even Tempest 2": {},
       "Even Tempest 1": {}
@@ -86404,7 +86427,8 @@
         "caeda4": "5",
         "seliph4": "4",
         "ingrid4": "4",
-        "fir4": "4"
+        "fir4": "4",
+        "sharena5": "4"
       },
       "Flow Refresh 2": {},
       "Flow Refresh 1": {}
@@ -97100,13 +97124,13 @@
     ],
     "reference": {
       "Large War Axe": {
-        "boyd": "5"
+        "boyd2": "5"
       }
     },
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "boyd",
+      "boyd2",
       "Boyd: Future Great",
       "Future Great",
       "Young Boyd",
@@ -97117,10 +97141,10 @@
       "Child Bole",
       "Mini Bole",
       "Baby Bole",
-      "boyd1",
-      "bole1",
-      "Boyd",
-      "Bole",
+      "boyd2",
+      "bole2",
+      "Boyd2",
+      "Bole2",
       "Y Boyd",
       "Y Bole",
       "Yoyd"
@@ -98818,7 +98842,8 @@
         "roy5": "5",
         "geoffrey": "5",
         "marisa3": "4",
-        "eirika9": "4"
+        "eirika9": "4",
+        "gromell": "5"
       },
       "Flow Force 2": {},
       "Flow Force 1": {}
@@ -102597,7 +102622,8 @@
         "dimitri7": "4",
         "seliph4": "4",
         "lapis3": "4",
-        "nerpuz4": "4"
+        "nerpuz4": "4",
+        "sharena5": "4"
       },
       "Atk/Spd Clash 2": {},
       "Atk/Spd Clash 1": {}
@@ -104180,7 +104206,8 @@
     "reference": {
       "Velocity 3": {
         "hilda5": "5",
-        "mbyleth5": "4"
+        "mbyleth5": "4",
+        "elincia6": "4"
       },
       "Velocity 2": {},
       "Velocity 1": {}
@@ -106483,6 +106510,160 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_ac066"
+  },
+  "spdresbulwark": {
+    "name": "Spd/Res Bulwark",
+    "skill": [
+      {
+        "name": "Spd/Res Bulwark 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit. (Does not affect foes with Pass skills.) Inflicts Spd/Res-2 on foe during combat. Restores 3 HP to unit after combat."
+      },
+      {
+        "name": "Spd/Res Bulwark 2",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit. (Does not affect foes with Pass skills.) Inflicts Spd/Res-3 on foe during combat. Restores 5 HP to unit after combat."
+      },
+      {
+        "name": "Spd/Res Bulwark 3",
+        "stats": {
+          "sp": "240"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit. (Does not affect foes with Pass skills.) Inflicts Spd/Res-4 on foe during combat. Restores 7 HP to unit after combat."
+      },
+      {
+        "name": "S/R Bulwark 4",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills). Inflicts Spd/Res-4 on foe and reduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes). Restores 7 HP to unit after combat."
+      }
+    ],
+    "reference": {
+      "Spd/Res Bulwark 1": {},
+      "Spd/Res Bulwark 2": {},
+      "Spd/Res Bulwark 3": {
+        "ytiki6": "5",
+        "malear3": "5"
+      },
+      "S/R Bulwark 4": {
+        "malear2": "5"
+      }
+    },
+    "icon": 2093,
+    "HARD_ALT_NAME": [
+      "Spd/Res Bulwark 1",
+      "Spd/Res Bulwark 2",
+      "Spd/Res Bulwark 3",
+      "Spd/Res Bulwark 4",
+      "S/R Bulwark 1",
+      "S/R Bulwark 2",
+      "S/R Bulwark 3",
+      "S/R Bulwark 4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
   },
   "enclosingclaw": {
     "name": "Enclosing Claw",
@@ -115449,6 +115630,46 @@
     "slot": "Weapon",
     "wpn": "wep_mg181"
   },
+  "woodentackle": {
+    "name": "Wooden Tackle+",
+    "skill": [
+      {
+        "name": "Wooden Tackle+",
+        "description": "At start of combat, if unit's HP \u2265 25%, grants Atk/Def+5 to unit during combat, inflicts Atk/Def-X on foe during combat (X = 25% of unit's HP at start of combat; max 10), and restores 10 HP to unit after combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Wooden Tackle+": {
+        "donnel2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "donnel2",
+      "Summer Donnel",
+      "S Donnel",
+      "Beach Donnel",
+      "Sunny Villager",
+      "donny2",
+      "Summer Donny",
+      "S Donny",
+      "donnel2"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax135"
+  },
   "firefloodboost": {
     "name": "Fireflood Boost",
     "skill": [
@@ -116048,6 +116269,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Draconic Aura"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": false,
@@ -116059,12 +116283,7 @@
         "sigurd4": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [],
     "ALT_NAME": [],
@@ -116080,6 +116299,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sturdy Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -116107,12 +116329,7 @@
         "sigurd4": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": "1958",
     "HARD_ALT_NAME": [],
     "ALT_NAME": [],
@@ -116139,12 +116356,7 @@
         "lysithea4": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": "1959",
     "HARD_ALT_NAME": [],
     "ALT_NAME": [],
@@ -116161,6 +116373,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Astra"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": [
@@ -116177,12 +116392,7 @@
         "ayra2": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [],
     "ALT_NAME": [],
@@ -116198,6 +116408,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Desperation 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -116222,12 +116435,7 @@
         "ayra2": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": "1961",
     "HARD_ALT_NAME": [],
     "ALT_NAME": [],
@@ -116257,12 +116465,7 @@
         "sigurd4": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
       "Butler Sigurd",
@@ -116358,12 +116561,7 @@
         "tailtiu2": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
       "Maid Tailtiu",
@@ -116400,12 +116598,7 @@
         "lysithea4": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
       "Maid Lysithea",
@@ -116447,12 +116640,7 @@
         "ferdinand2": "5"
       }
     },
-    "refine": {
-      "special": [
-        ""
-      ],
-      "description": false
-    },
+    "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
       "Ferdinand: Highborn Sipper",
@@ -116497,7 +116685,7 @@
       "special": [
         "At start of combat, if unit's HP \u2265 25%, grants Atk/Spd/Def/Res+4 to unit, unit makes a guaranteed follow-up attack, and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack)."
       ],
-      "description": false
+      "description": "Neutralizes \"effective against flying\" bonuses. If foe initiates combat or foe's HP \u2265 75% at start of combat, grants Atk/Spd/Def/Res+4 to unit, inflicts Atk-X on foe (X = 15% of unit's Def at start of combat), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack)."
     },
     "icon": "1968",
     "HARD_ALT_NAME": [
@@ -116619,6 +116807,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Counter Roar 1"
+        ],
         "description": "Reduces damage from foe's first attack during combat by 20% and unit's next attack deals damage = 20% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack).",
         "slot": "Passive B",
         "exclusive": false,
@@ -116642,6 +116833,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Counter Roar 2"
+        ],
         "description": "Reduces damage from foe's first attack during combat by 30% and unit's next attack deals damage = 30% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack).",
         "slot": "Passive B",
         "exclusive": false,
@@ -116665,6 +116859,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Counter Roar 3"
+        ],
         "description": "Inflicts Atk/Spd-4 on foe, reduces damage from foe's first attack during combat by 30% (for standard attacks, \"first attack\" means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and unit's next attack deals damage = 30% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack). Restores 7 HP to unit after combat.",
         "slot": "Passive B",
         "exclusive": false,
@@ -116770,6 +116967,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Swift Sparrow 2"
+        ],
         "description": "If unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), grants Atk/Spd+7 to unit during combat, and applies\u3010Divine Vein (Flame)\u3011 on 5 spaces in a line centered on foe's space (oriented left to right based on the direction unit is facing) for 1 turn after combat.",
         "slot": "Passive A",
         "exclusive": false,
@@ -116827,6 +117027,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Gambit 1"
+        ],
         "description": "If unit's or foe's attack can trigger unit's Special, reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by percentage = unit's max Special cooldown count value \u00d7 7 (max 35%).",
         "slot": "Passive B",
         "exclusive": false,
@@ -116838,6 +117041,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Gambit 2"
+        ],
         "description": "If unit's or foe's attack can trigger unit's Special, reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by percentage = unit's max Special cooldown count value \u00d7 10 (max 50%).",
         "slot": "Passive B",
         "exclusive": false,
@@ -116849,6 +117055,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Gambit 3"
+        ],
         "description": "Inflicts Spd/Def-4 on foe during combat, and also, if unit's or foe's attack can trigger unit's Special, deals damage during combat = unit's max Special cooldown count value - 2, \u00d7 5 (min 0; max 15; excluding area-of-effect Specials) and reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by percentage = unit's max Special cooldown count value \u00d7 10 (max 50%).",
         "slot": "Passive B",
         "exclusive": false,
@@ -116921,6 +117130,9 @@
           "sp": "500",
           "cooldown": "3"
         },
+        "required": [
+          "Noontime"
+        ],
         "description": "If unit's HP \u2265 70% when Special triggers, boosts damage by 60% of foe's Res. If unit's HP < 70% when Special triggers, boosts damage by 40% of foe's Res and restores 30% of unit's maximum HP.",
         "slot": "Special",
         "exclusive": false,
@@ -117180,6 +117392,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Oath 3"
+        ],
         "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Spd+6 and \"Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack)\" to unit for 1 turn. If unit is within 2 spaces of an ally, grants Atk/Spd+3 to unit during combat.",
         "slot": "Passive C",
         "exclusive": false,
@@ -117260,6 +117475,9 @@
           "sp": "500",
           "cooldown": "3"
         },
+        "required": [
+          "Glimmer"
+        ],
         "description": "Boosts Special damage by 50% of unit's Spd. If unit is on a team with their support partner, when unit's or unit's support partner's Special triggers (excluding area-of-effect Specials), neutralizes \"reduces damage by X%\" effects from foe's non-Special skills. If unit is within 3 spaces of their support partner and unit or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials).",
         "slot": "Special",
         "exclusive": true,
@@ -117520,6 +117738,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Spd Prime 1"
+        ],
         "description": "If\u3010Bonus\u3011is active on unit, grants Atk/Spd+X to unit during combat (X = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, \u00d7 2, + 1; max 5).",
         "slot": "Passive A",
         "exclusive": false,
@@ -117544,6 +117765,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Spd Prime 2"
+        ],
         "description": "If\u3010Bonus\u3011is active on unit, grants Atk/Spd+X to unit during combat (X = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, \u00d7 2, + 3; max 7).",
         "slot": "Passive A",
         "exclusive": false,
@@ -117568,6 +117792,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Prime 3"
+        ],
         "description": "If\u3010Bonus\u3011is active on unit, grants Atk/Spd+X to unit during combat (X = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, \u00d7 2, + 3; max 9), and also, if number of\u3010Bonus\u3011effects active on unit (excluding stat bonuses) \u2265 4, unit can counterattack regardless of foe's range during combat.",
         "slot": "Passive A",
         "exclusive": false,
@@ -117678,6 +117905,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sorcery Blade 3"
+        ],
         "description": "At start of turn, if unit is within 2 spaces of a magic ally, grants\u3010Hexblade\u3011to unit. If\u3010Bonus\u3011is active on unit, grants Spd/Res+7 to unit during combat.\u3010Hexblade\u3011\nCalculates damage using the lower of foe's Def or Res during combat for 1 turn (including damage dealt by Specials before combat).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
         "slot": "Passive A",
         "exclusive": false,
@@ -117726,6 +117956,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def Ploy 3",
+          "Res Ploy 3"
+        ],
         "description": "At start of player phase or enemy phase, if any foes within 3 rows or 3 columns centered on unit have Res < unit's Res+5, inflicts Def/Res-7,\u3010Ploy\u3011, and\u3010Exposure\u3011 on those foes through their next actions.\n\u3010Ploy\u3011\nNeutralizes\u3010Bonus Doubler\u3011,\u3010Treachery\u3011, and\u3010Grand Strategy\u3011effects active on unit during combat through unit's next action.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Bonus Doubler\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.\n\u3010Treachery\u3011\nUnit deals additional damage = total bonuses on unit for 1 turn.\n\u3010Grand Strategy\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = current penalty on each of unit's stats \u00d7 2 for 1 turn. (Example: if unit has -7 penalty to Atk, grants Atk+14, for a net bonus of Atk+7.) Calculates each stat bonus independently.\nUnit's negative effects that last \"through unit's next action\" will remain in effect until this status (Grand Strategy) is neutralized.",
         "slot": "Passive C",
         "exclusive": false,
@@ -117758,6 +117992,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "exclusive": true,
         "slot": "Assist",
         "restriction_weapon": [
@@ -118031,6 +118268,42 @@
     "slot": "Weapon",
     "wpn": "wep_mg184"
   },
+  "absoluteamiti": {
+    "name": "Absolute Amiti",
+    "skill": [
+      {
+        "name": "Absolute Amiti",
+        "description": "Enables\u3010Canto (\uff12)\u3011.\nAccelerates Special trigger (cooldown count-1). Unit attacks twice (even if foe initiates combat, unit attacks twice). If unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, grants Atk/Spd+X to unit (X = 11 - foe's max Special cooldown count value \u00d7 2; min 3; if foe does not have a Special skill, X = 3), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\n\u3010Canto (\uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff12 space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than \uff12 space(s).)",
+        "stats": {
+          "mt": "11",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Absolute Amiti": {
+        "elincia5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Undaunted Queen",
+      "Elincia: Undaunted Queen",
+      "Legendary Elincia",
+      "L Elincia",
+      "elincia5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw164"
+  },
   "heartofcrimea": {
     "name": "Heart of Crimea",
     "skill": [
@@ -118067,6 +118340,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Dive-Bomb 3"
+        ],
         "description": "Unit can move to a space within 2 spaces of any ally within 2 spaces. At start of combat, if both unit's and foe's HP \u2265 50%, inflicts Spd/Def-4 on foe during combat, and also, if unit initiates combat, unit can make a follow-up attack before foe can counterattack during combat.",
         "slot": "Passive B",
         "exclusive": false,
@@ -118111,6 +118387,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Rein 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": [
@@ -118161,6 +118440,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Dazzling Staff 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -118185,42 +118467,6 @@
     "ALT_NAME": [],
     "slot": "Passive B",
     "wpn": false
-  },
-  "absoluteamiti": {
-    "name": "Absolute Amiti",
-    "skill": [
-      {
-        "name": "Absolute Amiti",
-        "description": "Enables\u3010Canto (\uff12)\u3011.\nAccelerates Special trigger (cooldown count-1). Unit attacks twice (even if foe initiates combat, unit attacks twice). If unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, grants Atk/Spd+X to unit (X = 11 - foe's max Special cooldown count value \u00d7 2; min 3; if foe does not have a Special skill, X = 3), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\n\u3010Canto (\uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff12 space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than \uff12 space(s).)",
-        "stats": {
-          "mt": "11",
-          "rng": "1",
-          "sp": "400"
-        },
-        "exclusive": true,
-        "slot": "Weapon",
-        "weapon_type": "Red_Sword",
-        "restriction_weapon": false,
-        "restriction_movement": false
-      }
-    ],
-    "reference": {
-      "Absolute Amiti": {
-        "elincia5": "5"
-      }
-    },
-    "refine": {},
-    "icon": false,
-    "HARD_ALT_NAME": [
-      "Undaunted Queen",
-      "Elincia: Undaunted Queen",
-      "Legendary Elincia",
-      "L Elincia",
-      "elincia5"
-    ],
-    "ALT_NAME": [],
-    "slot": "Weapon",
-    "wpn": "wep_sw164"
   },
   "paydaypouch": {
     "name": "Payday Pouch",
@@ -118486,6 +118732,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spur Spd 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -118514,6 +118763,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Close Guard 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -118542,6 +118794,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk Ploy 3",
+          "Res Ploy 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -118601,6 +118857,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -118630,6 +118889,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -119218,6 +119480,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Mirror Strike 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -119258,6 +119523,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Luna"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -119286,6 +119554,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Distant Counter"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -119418,46 +119689,6 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_sw167"
-  },
-  "woodentackle": {
-    "name": "Wooden Tackle+",
-    "skill": [
-      {
-        "name": "Wooden Tackle+",
-        "description": "At start of combat, if unit's HP \u2265 25%, grants Atk/Def+5 to unit during combat, inflicts Atk/Def-X on foe during combat (X = 25% of unit's HP at start of combat; max 10), and restores 10 HP to unit after combat.",
-        "stats": {
-          "mt": "14",
-          "rng": "1",
-          "sp": "300"
-        },
-        "exclusive": false,
-        "slot": "Weapon",
-        "weapon_type": "Green_Axe",
-        "restriction_weapon": false,
-        "restriction_movement": false
-      }
-    ],
-    "reference": {
-      "Wooden Tackle+": {
-        "donnel2": "5"
-      }
-    },
-    "refine": {},
-    "icon": false,
-    "HARD_ALT_NAME": [
-      "donnel2",
-      "Summer Donnel",
-      "S Donnel",
-      "Beach Donnel",
-      "Sunny Villager",
-      "donny2",
-      "Summer Donny",
-      "S Donny",
-      "donnel2"
-    ],
-    "ALT_NAME": [],
-    "slot": "Weapon",
-    "wpn": "wep_ax135"
   },
   "gondul": {
     "name": "G\u00f6ndul",
@@ -119830,6 +120061,9 @@
           "cooldown": "5",
           "sp": "500"
         },
+        "required": [
+          "Reprisal"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -119859,6 +120093,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Atk/Spd 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -119931,6 +120168,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Vengeance"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -119959,6 +120199,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Poison Strike 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -120088,6 +120331,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Shield Pulse 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -120331,6 +120577,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Swap"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -120359,6 +120608,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Def/Res 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": [
@@ -120490,6 +120742,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Bonfire"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -120557,6 +120812,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Prime 1"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -120581,6 +120839,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Prime 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -120605,6 +120866,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Prime 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -120720,6 +120984,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Draconic Aura"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -120865,6 +121132,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Poison Strike 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -120945,6 +121215,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Draconic Aura"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -120973,6 +121246,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wary Fighter 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -120995,7 +121271,7 @@
             "Armored"
           ]
         ],
-        "description": "At start of combat, if unit's HP \u2265 25%, inflicts Atk/Def-4 on foe, unit and foe cannot make a follow-up attack, reduces damage from foe's first attack by X% (if foe can make a follow-up attack, X = 80; otherwise, X = 40), and reduces damage from foe's follow-up attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; likewise, \"follow-up attack\" normally means the second strike; for effects that grant \"unit attacks twice,\" it means the third and fourth strikes), and restores 7 HP to unit after combat"
+        "description": "At start of combat, if unit's HP \u2265 25%, inflicts Atk/Def-4 on foe, unit and foe cannot make a follow-up attack, reduces damage from foe's first attack by X% (if foe can make a follow-up attack, X = 80; otherwise, X = 40), and reduces damage from foe's follow-up attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; likewise, \"follow-up attack\" normally means the second strike; for effects that grant \"unit attacks twice,\" it means the third and fourth strikes), and restores 7 HP to unit after combat."
       }
     ],
     "reference": {
@@ -121061,7 +121337,7 @@
         "exclusive": true,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "At start of turn, if unit's HP \u2265 25%, inflicts Spd/Res-7 and\u3010Sabotage\u3011on closest foes and any foe within 2 spaces of those foes through their next actions and grants \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50%\" to unit and allies within 2 spaces of unit for 1 turn. At start of combat, if unit's HP \u2265 25%, inflicts Spd/Res-5 on foe, neutralizes effects that prevent unit's follow-up attacks, and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently"
+        "description": "At start of turn, if unit's HP \u2265 25%, inflicts Spd/Res-7 and\u3010Sabotage\u3011on closest foes and any foe within 2 spaces of those foes through their next actions and grants \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50%\" to unit and allies within 2 spaces of unit for 1 turn. At start of combat, if unit's HP \u2265 25%, inflicts Spd/Res-5 on foe, neutralizes effects that prevent unit's follow-up attacks, and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently."
       }
     ],
     "reference": {
@@ -121085,6 +121361,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Savage Blow 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -121165,6 +121444,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sabotage Spd 3",
+          "Sabotage Res 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -121267,6 +121550,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Solo 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -121462,11 +121748,16 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wrathful Staff 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
           "**Can only** be used by: ",
-          "Colorless_Staff"
+          [
+            "Colorless_Staff"
+          ]
         ],
         "restriction_movement": [
           "**Can only** be used by: ",
@@ -121535,6 +121826,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk Ploy 3",
+          "Spd Ploy 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -121722,7 +122017,7 @@
       "special": [
         "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+4 to unit, reduces damage from foe's first attack by 40%, and foe cannot make a follow-up attack during combat, and also, restores 7 HP to unit after combat."
       ],
-      "description": "At start of combat, if unit's HP \u2265 25%, grants Atk/Spd/Def/Res+X to unit during combat (X = current penalty on each of those stats \u00d7 2, + 4; example: if unit has -7 penalty to Atk, grants Atk+18, for a net bonus of Atk+11 during combat; calculates each stat bonus independently), and the following effects will occur based on unit's HP at start of combat: if unit's HP \u2265 50%, unit makes a guaranteed follow-up attack; if unit's HP \u2265 75%, deals +7 damage during combat as well (except when dealing damage with area-of-effect Specials)"
+      "description": "At start of combat, if unit's HP \u2265 25%, grants Atk/Spd/Def/Res+X to unit during combat (X = current penalty on each of those stats \u00d7 2, + 4; example: if unit has -7 penalty to Atk, grants Atk+18, for a net bonus of Atk+11 during combat; calculates each stat bonus independently), and the following effects will occur based on unit's HP at start of combat: if unit's HP \u2265 50%, unit makes a guaranteed follow-up attack; if unit's HP \u2265 75%, deals +7 damage during combat as well (except when dealing damage with area-of-effect Specials)."
     },
     "icon": 2063,
     "HARD_ALT_NAME": [
@@ -121786,6 +122081,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Time's Pulse 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -121795,7 +122093,7 @@
             "Infantry"
           ]
         ],
-        "description": "At start of turn, grants Atk/Spd+X to unit for 1 turn (X = turn number \u00d7 2; max 6) and grants Special cooldown count-1 to unit"
+        "description": "At start of turn, grants Atk/Spd+X to unit for 1 turn (X = turn number \u00d7 2; max 6) and grants Special cooldown count-1 to unit."
       }
     ],
     "reference": {
@@ -121805,7 +122103,8 @@
     },
     "icon": 2066,
     "HARD_ALT_NAME": [
-      "Pulse Up: Blades"
+      "Pulse Up: Blades",
+      "Pulse Up Blades"
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
@@ -121858,6 +122157,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Iceberg"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -122056,6 +122358,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Spd Scowl 1"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -122075,6 +122380,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Spd Scowl 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -122094,6 +122402,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Scowl 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -122204,6 +122515,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Glimmer"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -122259,6 +122573,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Potent 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -122286,6 +122603,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Potent 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -122313,6 +122633,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Potent 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -122474,6 +122797,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Atk/Res 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -122544,6 +122870,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fire Boost 3",
+          "Earth Boost 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -122657,6 +122987,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def/Res Scowl 1"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -122676,6 +123009,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def/Res Scowl 2"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -122695,6 +123031,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Scowl 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -122741,6 +123080,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wary Fighter 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -123035,11 +123377,16 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Miracle"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
           "**Can only** be used by: ",
-          "Staff"
+          [
+            "Colorless_Staff"
+          ]
         ],
         "restriction_movement": false,
         "description": "If an Assist skill is used, unit's Special cooldown count does not go down. When Special triggers, boosts damage by 45% of foe's Res (calculates damage from staff after combat damage is added). If this Special is triggered during combat, after combat, inflicts status on target and foes within 2 spaces of target preventing counterattacks through their next actions."
@@ -123133,6 +123480,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wind Boost 3",
+          "Earth Boost 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -123161,6 +123512,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wyvern Flight 3",
+          "Flow Flight 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -123316,6 +123671,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Iceberg"
+        ],
         "slot": "Special",
         "exclusive": false,
         "restriction_weapon": [
@@ -123379,160 +123737,6 @@
     "slot": "Passive A",
     "wpn": false
   },
-  "srbulwark": {
-    "name": "S/R Bulwark 4",
-    "skill": [
-      {
-        "name": "Spd/Res Bulwark 1",
-        "stats": {
-          "sp": "60"
-        },
-        "slot": "Passive B",
-        "exclusive": false,
-        "restriction_weapon": [
-          "**Can only** be used by: ",
-          [
-            "Red_Sword",
-            "Red_Breath",
-            "Red_Beast",
-            "Blue_Lance",
-            "Blue_Breath",
-            "Blue_Beast",
-            "Green_Axe",
-            "Green_Breath",
-            "Green_Beast",
-            "Colorless_Breath",
-            "Colorless_Beast"
-          ]
-        ],
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ],
-        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit. (Does not affect foes with Pass skills.) Inflicts Spd/Res-2 on foe during combat. Restores 3 HP to unit after combat"
-      },
-      {
-        "name": "Spd/Res Bulwark 2",
-        "stats": {
-          "sp": "120"
-        },
-        "slot": "Passive B",
-        "exclusive": false,
-        "restriction_weapon": [
-          "**Can only** be used by: ",
-          [
-            "Red_Sword",
-            "Red_Breath",
-            "Red_Beast",
-            "Blue_Lance",
-            "Blue_Breath",
-            "Blue_Beast",
-            "Green_Axe",
-            "Green_Breath",
-            "Green_Beast",
-            "Colorless_Breath",
-            "Colorless_Beast"
-          ]
-        ],
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ],
-        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit. (Does not affect foes with Pass skills.) Inflicts Spd/Res-3 on foe during combat. Restores 5 HP to unit after combat"
-      },
-      {
-        "name": "Spd/Res Bulwark 3",
-        "stats": {
-          "sp": "240"
-        },
-        "slot": "Passive B",
-        "exclusive": false,
-        "restriction_weapon": [
-          "**Can only** be used by: ",
-          [
-            "Red_Sword",
-            "Red_Breath",
-            "Red_Beast",
-            "Blue_Lance",
-            "Blue_Breath",
-            "Blue_Beast",
-            "Green_Axe",
-            "Green_Breath",
-            "Green_Beast",
-            "Colorless_Breath",
-            "Colorless_Beast"
-          ]
-        ],
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ],
-        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit. (Does not affect foes with Pass skills.) Inflicts Spd/Res-4 on foe during combat. Restores 7 HP to unit after combat"
-      },
-      {
-        "name": "S/R Bulwark 4",
-        "stats": {
-          "sp": "300"
-        },
-        "slot": "Passive B",
-        "exclusive": false,
-        "restriction_weapon": [
-          "**Can only** be used by: ",
-          [
-            "Red_Sword",
-            "Red_Breath",
-            "Red_Beast",
-            "Blue_Lance",
-            "Blue_Breath",
-            "Blue_Beast",
-            "Green_Axe",
-            "Green_Breath",
-            "Green_Beast",
-            "Colorless_Breath",
-            "Colorless_Beast"
-          ]
-        ],
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ],
-        "description": "Foes with Range = 1 cannot move through spaces adjacent to unit, and foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills). Inflicts Spd/Res-4 on foe and reduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes). Restores 7 HP to unit after combat"
-      }
-    ],
-    "reference": {
-      "Spd/Res Bulwark 1": {},
-      "Spd/Res Bulwark 2": {},
-      "Spd/Res Bulwark 3": {
-        "ytiki6": "5",
-        "malear3": "5"
-      },
-      "S/R Bulwark 4": {
-        "malear2": "5"
-      }
-    },
-    "icon": 2093,
-    "HARD_ALT_NAME": [
-      "Spd/Res Bulwark 1",
-      "Spd/Res Bulwark 2",
-      "Spd/Res Bulwark 3",
-      "Spd/Res Bulwark 4",
-      "S/R Bulwark 1",
-      "S/R Bulwark 2",
-      "S/R Bulwark 3",
-      "S/R Bulwark 4"
-    ],
-    "ALT_NAME": [],
-    "slot": "Passive B",
-    "wpn": false
-  },
   "skyhopperegg": {
     "name": "Sky-Hopper Egg",
     "skill": [
@@ -123589,6 +123793,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Res Rein 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -123662,6 +123869,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fire Boost 3",
+          "Wind Boost 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -123767,6 +123978,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -123914,6 +124128,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Distant Counter"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -123995,6 +124212,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Oath 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -124095,6 +124315,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Glimmer"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -124197,6 +124420,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Close Counter"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": [
@@ -124321,6 +124547,10 @@
           "cooldown": "4",
           "sp": "500"
         },
+        "required": [
+          "Sol",
+          "Luna"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -124365,6 +124595,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Laguz Friend 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -124381,6 +124614,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Laguz Friend 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -124397,6 +124633,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Laguz Friend 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -124591,6 +124830,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Magic Gambit 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -124610,6 +124852,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Magic Gambit 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -124629,6 +124874,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Magic Gambit 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -124751,8 +124999,10 @@
         "slot": "Assist",
         "exclusive": false,
         "restriction_weapon": [
-          "**Can only** be used by: ",
-          "Colorless_Staff"
+          "**Can only** be used by: ", 
+          [
+            "Colorless_Staff"
+          ]
         ],
         "restriction_movement": false,
         "description": "Restores 8 HP to target ally and grants the following effects to target ally for 1 turn: grants Atk/Res+4 and \"neutralizes penalties on unit during combat.\" (Using this skill has no effect on Special cooldown charge and unit does not gain EXP or SP. This skill is treated as a Rally Assist skill.)"
@@ -124763,11 +125013,16 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Magic Shield"
+        ],
         "slot": "Assist",
         "exclusive": false,
         "restriction_weapon": [
-          "**Can only** be used by: ",
-          "Colorless_Staff"
+          "**Can only** be used by: ", 
+          [
+            "Colorless_Staff"
+          ]
         ],
         "restriction_movement": false,
         "description": "Restores HP = 50% of unit's Atk (min: 8 HP) to target ally and grants the following effects to target ally for 1 turn: Atk/Res+6 and \"neutralizes penalties on unit during combat.\" If used on turn 2 onward, also grants another action to unit and inflicts \"restricts movement to 1 space\" on unit and Pair Up cohort through their next action. (Effects that can trigger on turn 2 will not trigger again for 2 turns after triggering. Using this skill has no effect on Special cooldown charge and unit does not gain EXP or SP. This skill is treated as a Rally Assist skill.)"
@@ -124875,6 +125130,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Sing"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -124903,6 +125161,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk Cantrip 3",
+          "Def Cantrip 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -125075,6 +125337,10 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sabotage Atk 3",
+          "Sabotage Def 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -125182,11 +125448,16 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Dazzling Staff 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
           "**Can only** be used by: ",
-          "Staff"
+          [
+            "Colorless_Staff"
+          ]
         ],
         "restriction_movement": false,
         "description": "At start of turn, for the closest foes within 5 spaces of unit and foes within 2 spaces of those foes, if any foe's Res < unit's Res, inflicts \u3010Discord\u3011on that foe. Inflicts Atk/Res-4 on foe during combat and foe cannot counterattack.\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5) through its next action"
@@ -125765,7 +126036,8 @@
         "dimitri7": "5",
         "seliph4": "5",
         "lapis3": "5",
-        "nerpuz4": "5"
+        "nerpuz4": "5",
+        "sharena5": "5"
       }
     },
     "icon": 2141,
@@ -127781,7 +128053,8 @@
         "felix4": "5",
         "mbyleth5": "5",
         "lucina9": "5",
-        "ryoma5": "5"
+        "ryoma5": "5",
+        "stefan": "5"
       }
     },
     "icon": false,
@@ -127847,7 +128120,8 @@
     },
     "icon": 2179,
     "HARD_ALT_NAME": [
-      "Null C-Disrupt E"
+      "Null C-Disrupt E",
+      "Null C Disrupt E"
     ],
     "ALT_NAME": [],
     "slot": "Passive X",
@@ -134326,7 +134600,8 @@
     },
     "icon": 2304,
     "HARD_ALT_NAME": [
-      "Pulse Up: Ploy"
+      "Pulse Up: Ploy",
+      "Pulse Up Ploy"
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
@@ -137047,7 +137322,8 @@
       "Brutal Tempest": {
         "ayra3": "5",
         "larcei3": "5",
-        "diamant3": "5"
+        "diamant3": "5",
+        "stefan": "5"
       }
     },
     "icon": 2341,
@@ -139064,7 +139340,8 @@
     },
     "icon": 2384,
     "HARD_ALT_NAME": [
-      "Pulse On: Blades"
+      "Pulse On: Blades",
+      "Pulse On Blades"
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
@@ -140454,7 +140731,8 @@
       "Atk/Res Havoc": {
         "gotoh2": "5",
         "micaiah8": "5",
-        "arval": "5"
+        "arval": "5",
+        "soren6": "5"
       }
     },
     "refine": {},
@@ -141531,7 +141809,8 @@
         "julia5": "5",
         "tharja7": "5",
         "heidrun3": "5",
-        "hodr": "5"
+        "hodr": "5",
+        "soren6": "5"
       }
     },
     "icon": false,
@@ -145382,7 +145661,8 @@
     "reference": {
       "Archrival": {
         "baldr2": "5",
-        "diamant3": "5"
+        "diamant3": "5",
+        "sharena5": "5"
       }
     },
     "icon": false,
@@ -145698,12 +145978,14 @@
     ],
     "reference": {
       "Null C-Avoid": {
-        "mbyleth5": "5"
+        "mbyleth5": "5",
+        "elincia6": "5"
       }
     },
     "icon": 2499,
     "HARD_ALT_NAME": [
-      "Null C-Avoid"
+      "Null C-Avoid",
+      "Null C Avoid"
     ],
     "ALT_NAME": [],
     "slot": "Passive B",
@@ -145826,7 +146108,8 @@
     ],
     "reference": {
       "D Bonus Amp": {
-        "diamant3": "5"
+        "diamant3": "5",
+        "elincia6": "5"
       }
     },
     "icon": 2500,
@@ -147837,5 +148120,493 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": false
+  },
+  "asjaofaskr": {
+    "name": "\u00c1sj\u00e1 of Askr",
+    "skill": [
+      {
+        "name": "\u00c1sj\u00e1 of Askr",
+        "description": "Accelerates Special trigger (cooldown count-1).\nIf unit initiates combat or is within 3 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), neutralizes foe's bonuses to Spd/Def, unit deals +X \u00d7 5 damage (X = number of Bonus effects active on unit and foe, excluding stat bonuses, max 5; excluding area-of-effect Specials), and reduces damage from foe's attacks by X \u00d7 3 during combat (excluding area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nIf unit's support partner or ally within 3 spaces of unit initiates combat, grants another action to that ally after combat (if a skill belonging to that ally triggers an effect that grants them another action, such as Galeforce, this effect is treated as not having triggered; if a skill not belonging to that ally triggers an effect that grants that ally another action at the same time as this effect, this effect is also considered to have been triggered; once per turn; \"within 3 spaces\" is calculated based on the position after triggering post-combat skill effects that change positioning).\n\u3010Potent Follow 100%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "\u00c1sj\u00e1 of Askr": {
+        "sharena5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "\u00c1sj\u00e1 of Askr",
+      "Asja of Askr",
+      "Borrowed Divinity",
+      "Sharena: Borrowed Divinity",
+      "Entwined Sharena",
+      "E Sharena",
+      "En Sharena",
+      "sharena5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc199"
+  },
+  "assaultimpetus": {
+    "name": "Assault Impetus",
+    "skill": [
+      {
+        "name": "Assault Impetus",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Flow Refresh 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Blue_Lance",
+            "Green_Axe"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "If unit initiates combat or is within 2 spaces of an ally, inflicts Spd/Def-4 on foe, deals damage = 20% of the greater of unit's Spd or Def (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nIf unit initiates combat after moving to a different space, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat (excluding Røkkr area-of-effect Specials); if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (if number of spaces from start position to end position \u2265 3, X = 2; otherwise, X = 1)."
+      }
+    ],
+    "reference": {
+      "Assault Impetus": {
+        "sharena5": "5"
+      }
+    },
+    "icon": 2538,
+    "HARD_ALT_NAME": [
+      "Assault Impetus"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "entwinedonrush": {
+    "name": "Entwined Onrush",
+    "skill": [
+      {
+        "name": "Entwined Onrush",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAt start of turn, if unit is within 3 spaces of an ally, grants \"unit can move 1 extra space\" to unit (that turn only; does not stack).\nAt start of player phase or enemy phase, if unit is within 3 spaces of an ally, grants\u3010Incited\u3011, \u3010Resonance: Blades\u3011, and\u3010Null Follow-Up\u3011 to unit and allies within 3 spaces of unit.\nIf unit initiates combat or is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nAfter unit acts, if support partner or an ally within 3 spaces of unit initiates combat, grants another action to unit after ally's combat, and if Canto has already been triggered, re-enables Canto (once per turn; if another effect that grants action to unit has been activated at the same time, this effect is also considered to have been triggered; \"within 3 spaces\" is calculated based on the position after triggering post-combat skill effects that change positioning).\n\u3010Canto (Dist. +1; Max \uff14\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Incited\u3011\nIf unit initiates combat, grants bonus to unit's Atk/Spd/Def/Res = number of spaces from start position to end position of unit during combat (max 3; that turn only).\n\u3010Resonance: Blades\u3011\nGrants Atk/Spd+4 during combat for 1 turn.\n\u3010Null Follow-Up\u3011\nIf unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Entwined Onrush": {
+        "sharena5": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2539,
+    "HARD_ALT_NAME": [
+      "Entwined Onrush"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "arcanerexbolt": {
+    "name": "Arcane Rexbolt",
+    "skill": [
+      {
+        "name": "Arcane Rexbolt",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Res+6, \"grants Special cooldown charge +1 per attack (only highest value applied; does not stack),\" and \"neutralizes penalties on unit during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Arcane Rexbolt": {
+        "soren6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Arcane Rexbolt",
+      "Isolated Strategist",
+      "Soren: Isolated Strategist",
+      "Rearmed Soren",
+      "Rearm Soren",
+      "R Soren",
+      "Arm Soren",
+      "soren6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg509"
+  },
+  "refinedmagic": {
+    "name": "Refined Magic",
+    "skill": [
+      {
+        "name": "Refined Magic",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive A",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Disables foe's skills that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials).\nAt start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Spd/Def+6, \u3010Fringe Bonus\u3011, and \"foe cannot make a follow-up attack\" to unit and allies within 2 spaces of unit and grants\u3010Assign Decoy Twin\u3011 to target allies within 2 spaces of unit for 1 turn. (If support partner is on player team, targets any support partner; otherwise, targets ally with the highest Def at start of battle, excluding unit; \"at start of battle\" excludes increases to Def granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.)\nIf unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+8 to unit, deals damage = 20% of unit's Res (excluding area- of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat, and also, if unit's Res > foe's Res, unit attacks twice during combat.\n\u3010Fringe Bonus\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = highest bonus on each stat between unit and allies within 2 spaces of unit for 1 turn. Calculates each stat bonus independently.\n\u3010Assign Decoy Twin\u3011\nIf foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers\u3010Savior\u3011on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable\u3010Savior\u3011effects to trigger,\u3010Savior\u3011will not trigger).\nIf foe's Range = unit's Range and foe initiates combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects."
+      }
+    ],
+    "reference": {
+      "Refined Magic": {
+        "soren6": "5"
+      }
+    },
+    "icon": 2540, 
+    "HARD_ALT_NAME": [
+      "Refined Magic"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "preemptploy": {
+    "name": "Preempt: Ploy",
+    "skill": [
+      {
+        "name": "Preempt: Ploy",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Time's Pulse 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "At start of player phase or enemy phase, if any foes within 3 rows or 3 columns centered on unit have Res < unit's Res+5, inflicts\u3010Ploy\u3011, and\u3010Exposure\u3011 on those foes through their next actions\nGrants bonus to unit's Atk/Res = unit's max Special cooldown count value + 2 and grants Special cooldown count-1 to unit before unit's first attack during combat.\n\u3010Ploy\u3011\nNeutralizes\u3010Bonus Doubler\u3011,\u3010Treachery\u3011, and\u3010Grand Strategy\u3011effects active on unit during combat through unit's next action.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Bonus Doubler\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.\n\u3010Treachery\u3011\nUnit deals additional damage = total bonuses on unit for 1 turn.\n\u3010Grand Strategy\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = current penalty on each of unit's stats \u00d7 2 for 1 turn. (Example: if unit has -7 penalty to Atk, grants Atk+14, for a net bonus of Atk+7.) Calculates each stat bonus independently.\nUnit's negative effects that last \"through unit's next action\" will remain in effect until this status (Grand Strategy) is neutralized."
+      }
+    ],
+    "reference": {
+      "Preempt: Ploy": {
+        "soren6": "5"
+      }
+    },
+    "icon": 2541,
+    "HARD_ALT_NAME": [
+      "Preempt: Ploy",
+      "Preempt Ploy"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "bondedblades": {
+    "name": "Bonded Blades",
+    "skill": [
+      {
+        "name": "Bonded Blades",
+        "description": "Grants Atk+3. Unit attacks twice (even if foe initiates combat).\nUnit and target cannot trigger Specials during combat or area-of-effect Specials (excluding Røkkr area-of-effect Specials).\nAt start of player phase or enemy phase, if unit is within 3 spaces of an ally, grants Atk/Spd+6,\u3010Empathy\u3011, and\u3010Dodge\u3011to unit and allies within 3 spaces of unit for 1 turn.\nIf unit is within 3 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), unit deals +X \u00d7 5 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X \u00d7 3 during combat (excluding area-of-effect Specials; X = number of Bonus effects active on unit and foe, excluding stat bonuses; max 5).\n\u3010Empathy\u3011\nGrants bonus to unit's Atk/Spd/Def/Res = number of types of Bonus effects, excluding stat bonuses, and Penalty effects, excluding stat penalties, active on player team and enemy team during combat (max 7).\n\u3010Dodge\u3011\nIf unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats \u00d7 4 (max 40%).",
+        "stats": {
+          "mt": "11",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Bonded Blades": {
+        "elincia6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Bonded Blades",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw208"
+  },
+  "drawbackgait": {
+    "name": "Draw Back Gait",
+    "skill": [
+      {
+        "name": "Draw Back Gait",
+        "stats": {
+          "rng": "1",
+          "sp": "400"
+        },
+        "required": [
+          "Draw Back"
+        ],
+        "slot": "Assist",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Cannot** be used by: ",
+          [
+            "Colorless_Staff"
+          ]
+        ],
+        "restriction_movement": [
+          "**Cannot** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Unit moves 1 space away from target ally. Ally moves to unit's previous space.\nIf unit uses an Assist skill on the current turn, Enables\u3010Canto (\uff11)\u3011. \u3010Canto (\uff11)\u3011 After an attack, Assist skill, or structure destruction, unit can move \uff11 space(s). (Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
+      }
+    ],
+    "reference": {
+      "Draw Back Gait": {
+        "elincia6": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Draw Back Gait"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "tiesofcrimea": {
+    "name": "Ties of Crimea",
+    "skill": [
+      {
+        "name": "Ties of Crimea",
+        "description": "Allies within 2 spaces of unit can move to any space within 2 spaces of unit.\nAfter foes' start-of-turn skills trigger, if unit is within 3 spaces of an ally, for unit and allies within 3 spaces of unit, neutralizes stat penalties and two\u3010Penalty\u3011effects (does not apply to Penalty effects that are applied at the same time; neutralizes the first applicable Penalty effects on unit's list of active effects).\nIf unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials), and also, when unit deals damage to foe during combat, restores 7 HP to unit.\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Ties of Crimea": {
+        "elincia6": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2542,
+    "HARD_ALT_NAME": [
+      "Ties of Crimea"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "campaignaxe": {
+    "name": "Campaign Axe+",
+    "skill": [
+      {
+        "name": "Campaign Axe+",
+        "description": "At start of combat, if unit's HP \u2265 25%, grants Atk/Def+5 to unit during combat, inflicts Atk/Def-X on foe during combat (X = 25% of unit's HP at start of combat; max 10), and restores 10 HP to unit after combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Campaign Axe+": {
+        "boyd": "5"
+      }
+    },
+    "refine": {
+      "special": [],
+      "description": false
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Campaign Axe",
+      "Intrepid Warrior",
+      "Boyd: Intrepid Warrior",
+      "Normal Boyd",
+      "Base Boyd",
+      "Regular Boyd",
+      "boyd"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax179"
+  },
+  "vaguekatti": {
+    "name": "Vague Katti",
+    "skill": [
+      {
+        "name": "Vague Katti",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase (except for in Summoner Duels), for unit and allies within 2 spaces of unit, grants \"neutralizes foe's bonuses during combat\" for 1 turn, and also, if Special cooldown count is at its maximum value, grants Special cooldown count-2; if Special cooldown count is at its maximum value - 1, grants Special cooldown count-1.\nIf foe initiates combat or if unit's HP \u2265 25% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), unit deals +X damage (excluding area-of-effect Specials; if unit's Special is ready or unit's Special triggered before or during this combat, X = 25; otherwise, X = 15), and reduces damage from foe's attacks by 20% of unit's Spd and reduces damage from foe's Specials by an additional 20% of unit's Spd during combat (in either case, including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nIf foe initiates combat or if unit's HP \u2265 25% at start of combat, after combat, if unit's Special cooldown count is at its maximum value, grants Special cooldown count-2 to unit; if unit's Special cooldown count is at its maximum value - 1, grants Special cooldown count-1 to unit.\n\u3010Potent Follow 100%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Vague Katti": {
+        "stefan": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Vague Katti",
+      "No-Man's-Blade",
+      "Stefan: No-Man's-Blade",
+      "Normal Stefan",
+      "Base Stefan",
+      "Regular Stefan",
+      "stefan"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw209"
+  },
+  "harrowingcall": {
+    "name": "Harrowing Call",
+    "skill": [
+      {
+        "name": "Harrowing Call",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Close Call 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Blue_Lance",
+            "Green_Axe"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +7.\nReduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials).\nInflicts Atk/Spd-4 on foe, deals damage = difference between Spd stats + 5 (max 15; excluding area-of-effect Specials; if unit's Spd < foe's Spd, treats Spd difference as 0), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials).\nIf unit initiates combat, unit moves 1 space away after combat."
+      }
+    ],
+    "reference": {
+      "Harrowing Call": {
+        "stefan": "5"
+      }
+    },
+    "icon": 2543,
+    "HARD_ALT_NAME": [
+      "Harrowing Call"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "boltaxe": {
+    "name": "Bolt Axe",
+    "skill": [
+      {
+        "name": "Bolt Axe",
+        "description": "Grants Def+3. Calculates damage using the lower of foe's Def or Res. Unit can counterattack regardless of foe's range.\nAt the start of turns 1-3, deals 10 damage to foes and allies within 3 columns centered on unit, excluding unit.\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Def-5 on foe, foe suffers +X damage (X = the greater of total damage dealt to foe or total damage dealt to foe's target as of start of combat; excluding area-of-effect Specials; excluding damage dealt to Røkkr), and foe suffers guaranteed follow-up attacks during combat.\nAt start of combat, if unit's HP \u2265 25%, inflicts penalty on foe's Atk/Def = 20% of unit's Def at start of combat, deals damage = 20% of unit's Def (including area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Def during combat (excluding area- of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Range: 2 Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Bolt Axe": {
+        "gromell": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Bolt Axe",
+      "Bolt Axe General",
+      "Gromell: Bolt Axe General",
+      "Normal Gromell",
+      "Base Gromell",
+      "Regular Gromell",
+      "gromell"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax178"
   }
 }

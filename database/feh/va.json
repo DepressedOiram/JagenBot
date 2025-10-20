@@ -463,7 +463,13 @@
       "Winter Artur",
       "Christmas Artur",
       "Winter Asseray",
-      "Christmas Asseray"
+      "Christmas Asseray",
+      "Bolt Axe General",
+      "Gromell: Bolt Axe General",
+      "Normal Gromell",
+      "Base Gromell",
+      "Regular Gromell",
+      "gromell"
     ],
     "HARD_ALT_NAME": [
       "artur",
@@ -477,10 +483,17 @@
       "W Asseray",
       "Christmas Artur",
       "Winter Asseray",
-      "Christmas Asseray"
+      "Christmas Asseray",
+      "Bolt Axe General",
+      "Gromell: Bolt Axe General",
+      "Normal Gromell",
+      "Base Gromell",
+      "Regular Gromell",
+      "gromell"
     ],
     "heroes": {
-      "artur": "<:Green_Tome:1317239575352971396>Winter Artur"
+      "artur": "<:Green_Tome:1317239575352971396>Winter Artur",
+      "gromell": "<:Green_Axe:1317239517136031897>Gromell"
     },
     "name": "Adin Rudd"
   },
@@ -1330,7 +1343,13 @@
       "Yukata Lucia",
       "HS Lucia",
       "Fes Lucia",
-      "lucia2"
+      "lucia2",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6"
     ],
     "HARD_ALT_NAME": [
       "elimine",
@@ -1359,10 +1378,17 @@
       "Yukata Lucia",
       "HS Lucia",
       "Fes Lucia",
-      "lucia2"
+      "lucia2",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6"
     ],
     "heroes": {
       "elimine": "<:Colorless_Staff:1317239426866483261>Elimine",
+      "elincia6": "<:Red_Sword:1317239717707911188>Duo Elincia",
       "lucia": "<:Red_Sword:1317239717707911188>Lucia",
       "lucia2": "<:Blue_Lance:1317239378208096338>Festival Lucia"
     },
@@ -11383,28 +11409,7 @@
       "Base Elincia",
       "Normal Elincia",
       "Base Erincia",
-      "Normal Erincia"
-    ],
-    "HARD_ALT_NAME": [
-      "elinciaR",
-      "Elincia (Resplendent)",
-      "elincia1",
-      "erincia1",
-      "Lost Princess",
-      "Elincia",
-      "Erincia",
-      "Base Elincia",
-      "Normal Elincia",
-      "Base Erincia",
-      "Normal Erincia"
-    ],
-    "heroes": {
-      "elinciaR": "<:Red_Sword:1317239717707911188>Elincia (Resplendent)"
-    },
-    "name": "Heather Gonzales"
-  },
-  "heathergonzalez": {
-    "ALT_NAME": [
+      "Normal Erincia",
       "Elincia: Seaside Queen",
       "Seaside Queen",
       "Summer Elincia",
@@ -11424,9 +11429,28 @@
       "Elincia: Undaunted Queen",
       "Legendary Elincia",
       "L Elincia",
-      "elincia5"
+      "elincia5",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6",
+      "Heather Gonzalez",
+      "heather gonzalez"
     ],
     "HARD_ALT_NAME": [
+      "elinciaR",
+      "Elincia (Resplendent)",
+      "elincia1",
+      "erincia1",
+      "Lost Princess",
+      "Elincia",
+      "Erincia",
+      "Base Elincia",
+      "Normal Elincia",
+      "Base Erincia",
+      "Normal Erincia",
       "elincia3",
       "Summer Elincia",
       "erincia3",
@@ -11459,15 +11483,25 @@
       "Legendary Elincia",
       "L Elincia",
       "elincia5",
-      "elincia5"
+      "elincia5",
+      "Hearts of Purity",
+      "Elincia: Hearts of Purity",
+      "Duo Elincia",
+      "D Elincia 2",
+      "20 Elincia",
+      "elincia6",
+      "Heather Gonzalez",
+      "heather gonzalez"
     ],
     "heroes": {
       "cherche2": "<:Green_Axe:1317239517136031897>Ninja Cherche",
+      "elinciaR": "<:Red_Sword:1317239717707911188>Elincia (Resplendent)",
       "elincia3": "<:Blue_Bow:1317239347577356328>Summer Elincia",
       "elincia4": "<:Colorless_Staff:1317239426866483261>Ascended Elincia",
-      "elincia5": "<:Red_Sword:1317239717707911188>Legendary Elincia"
+      "elincia5": "<:Red_Sword:1317239717707911188>Legendary Elincia",
+      "elincia6": "<:Red_Sword:1317239717707911188>Duo Elincia"
     },
-    "name": "Heather Gonzalez"
+    "name": "Heather Gonzales / Heather Gonzalez"
   },
   "heatherhalley": {
     "ALT_NAME": [
@@ -14279,7 +14313,13 @@
       "Choose Your Legends Sharena",
       "sharena4",
       "juliekliewer",
-      "Julie Kliewer"
+      "Julie Kliewer",
+      "Borrowed Divinity",
+      "Sharena: Borrowed Divinity",
+      "Entwined Sharena",
+      "E Sharena",
+      "En Sharena",
+      "sharena5"
     ],
     "HARD_ALT_NAME": [
       "sharena",
@@ -14446,7 +14486,13 @@
       "Choose Your Legends Sharena",
       "sharena4",
       "juliekliewer",
-      "Julie Kliewer"
+      "Julie Kliewer",
+      "Borrowed Divinity",
+      "Sharena: Borrowed Divinity",
+      "Entwined Sharena",
+      "E Sharena",
+      "En Sharena",
+      "sharena5"
     ],
     "heroes": {
       "alfonse3": "<:Blue_Tome:1317239386491977749>Duo Alfonse",
@@ -14465,7 +14511,8 @@
       "sharena": "<:Blue_Lance:1317239378208096338>Sharena",
       "sharena2": "<:Green_Tome:1317239575352971396>Spring Sharena",
       "sharena3": "<:Blue_Lance:1317239378208096338>Bridal Sharena",
-      "sharena4": "<:Green_Tome:1317239575352971396>Brave Sharena"
+      "sharena4": "<:Green_Tome:1317239575352971396>Brave Sharena",
+      "sharena5": "<:Blue_Lance:1317239378208096338>Entwined Sharena"
     },
     "name": "Julia Maddalena / Julie Kliewer"
   },
@@ -14522,7 +14569,11 @@
       "Resplendent Narcian",
       "Resp Narcian",
       "R Narcian",
-      "Narcian (Resplendent)"
+      "Narcian (Resplendent)",
+      "Resplendent Lloyd",
+      "Resp Lloyd",
+      "R Lloyd",
+      "Lloyd (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "narcian",
@@ -14605,10 +14656,15 @@
       "Resplendent Narcian",
       "Resp Narcian",
       "R Narcian",
-      "Narcian (Resplendent)"
+      "Narcian (Resplendent)",
+      "Resplendent Lloyd",
+      "Resp Lloyd",
+      "R Lloyd",
+      "Lloyd (Resplendent)"
     ],
     "heroes": {
       "lloyd": "<:Red_Sword:1317239717707911188>Lloyd",
+      "lloydR": "<:Red_Sword:1317239717707911188>Lloyd (Resplendent)",
       "lloyd2": "<:Red_Sword:1317239717707911188>Fallen Lloyd",
       "narcian": "<:Green_Axe:1317239517136031897>Narcian",
       "narcianR": "<:Green_Axe:1317239517136031897>Narcian (Resplendent)",
@@ -24883,7 +24939,13 @@
       "Young Bole",
       "Child Bole",
       "Mini Bole",
-      "Baby Bole"
+      "Baby Bole",
+      "Intrepid Warrior",
+      "Boyd: Intrepid Warrior",
+      "Normal Boyd",
+      "Base Boyd",
+      "Regular Boyd",
+      "boyd"
     ],
     "HARD_ALT_NAME": [
       "ogma2",
@@ -24893,13 +24955,13 @@
       "S Ogma",
       "S Oguma",
       "Summer Oguma",
-      "boyd",
+      "boyd2",
       "Young Boyd",
-      "boyd1",
-      "bole1",
+      "boyd2",
+      "bole2",
       "Future Great",
-      "Boyd",
-      "Bole",
+      "Boyd2",
+      "Bole2",
       "Y Boyd",
       "Y Bole",
       "Yoyd",
@@ -24909,10 +24971,17 @@
       "Young Bole",
       "Child Bole",
       "Mini Bole",
-      "Baby Bole"
+      "Baby Bole",
+      "Intrepid Warrior",
+      "Boyd: Intrepid Warrior",
+      "Normal Boyd",
+      "Base Boyd",
+      "Regular Boyd",
+      "boyd"
     ],
     "heroes": {
-      "boyd": "<:Green_Axe:1317239517136031897>Young Boyd",
+      "boyd": "<:Green_Axe:1317239517136031897>Boyd",
+      "boyd2": "<:Green_Axe:1317239517136031897>Young Boyd",
       "ogma2": "<:Blue_Lance:1317239378208096338>Summer Ogma"
     },
     "name": "River Kanoff"
@@ -31651,6 +31720,28 @@
       "Harvest Skrimir",
       "Spooky Skrimir",
       "skrimir"
+    ]
+  },
+  "benbalmeceda": {
+    "heroes": {
+      "stefan": "<:Red_Sword:1317239717707911188>Stefan"
+    },
+    "name": "Ben Balmeceda",
+    "ALT_NAME": [
+      "No-Man's-Blade",
+      "Stefan: No-Man's-Blade",
+      "Normal Stefan",
+      "Base Stefan",
+      "Regular Stefan",
+      "stefan"
+    ],
+    "HARD_ALT_NAME": [
+      "No-Man's-Blade",
+      "Stefan: No-Man's-Blade",
+      "Normal Stefan",
+      "Base Stefan",
+      "Regular Stefan",
+      "stefan"
     ]
   }
 }

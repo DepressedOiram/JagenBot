@@ -146,7 +146,7 @@
     },
     "levinsword": {
         "name": "Levin Sword",
-        "desc": "Ignores user's strength.",
+        "desc": "Ignores user's strength. Targets foe's Resistance",
         "stats": {
             "wlv": 8,
             "mt": 10,
@@ -165,7 +165,7 @@
     },
     "devilsword": {
         "name": "Devil Sword",
-        "desc": "(21-Lck)% chance to injure wielder.",
+        "desc": "",
         "stats": {
             "wlv": 1,
             "mt": 18,
@@ -1147,49 +1147,63 @@
     "firestone": {
         "name": "Firestone",
         "desc": "Transforms Manakete into a Fire Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false
     },
     "icestone": {
         "name": "Icestone",
         "desc": "Transforms Manakete into an Ice Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false
     },
     "wyvernstone": {
         "name": "Wyvernstone",
         "desc": "Transforms Manakete into a Flying Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false
     },
     "magestone": {
         "name": "Magestone",
         "desc": "Transforms Manakete into a Mage Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false
     },
     "earthstone": {
         "name": "Earthstone",
         "desc": "Transforms Manakete into an Earth Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false
     },
     "divinestone": {
         "name": "Divinestone",
         "desc": "Transforms Manakete into a Divine Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false
     },
     "darkstone": {
         "name": "Darkstone",
         "desc": "Transforms Manakete into a Shadow Dragon.",
-        "stats": {},
+        "stats": {
+            "uses": 18
+        },
         "type": "item",
         "weapon": false,
         "reference": {
@@ -1470,7 +1484,11 @@
             "exp": 56
         },
         "type": "item",
-        "weapon": false
+        "weapon": false,
+        "ALT_NAME": [
+            "anew",
+            "anew staff"
+        ]
     },
     "hammernestaff": {
         "name": "Hammerne Staff",

@@ -189,6 +189,27 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "assigndecoytwin": {
+        "name": "Assign Decoy Twin",
+        "description": "If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers\u3010Savior\u3011on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable\u3010Savior\u3011effects to trigger,\u3010Savior\u3011will not trigger).\nIf foe's Range = unit's Range and foe initiates combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
+        "color": "Colorless",
+        "icon": "assigndecoytwin",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Refined Magic"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "beastcavalry": {
         "name": "Beast (Cavalry)",
         "description": "At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.",
@@ -245,6 +266,7 @@
             "Sword": [
                 "Ancient Ragnell",
                 "Blade of Renais",
+                "Bonded Blades",
                 "Exalted Falchion",
                 "Fiery War Sword",
                 "Laevatein",
@@ -451,6 +473,7 @@
                 "Atk/Res Ploy 3",
                 "Spd/Res Ploy 3",
                 "Def/Res Ploy 3",
+                "Preempt: Ploy",
                 "Pulse Up: Ploy",
                 "Inborn Idealism"
             ],
@@ -512,6 +535,7 @@
             ]
         },
         "reference_hero": {
+            "elincia6": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Duo Eirika",
             "goldmary": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary"
         },
         "HARD_ALT_NAME": []
@@ -604,6 +628,8 @@
         },
         "reference_skill": {
             "assist": [
+                "Swap Gait",
+                "Draw Back Gait",
                 "Reposition Gait",
                 "Gold Serpent",
                 "Tender Dream"
@@ -1163,6 +1189,7 @@
             ],
             "C": [
                 "Brutal Tempest",
+                "Entwined Onrush",
                 "Forever Yours",
                 "The Heir to Light"
             ],
@@ -2284,6 +2311,7 @@
             "captain": []
         },
         "reference_hero": {
+            "elincia6": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Duo Elincia",
             "rhea4": "<:feh_duo:1317239462874578975><:Colorless_Breath:1317239411980767363>Valentines Rhea"
         },
         "HARD_ALT_NAME": [
@@ -2354,6 +2382,7 @@
         "icon": "dodge",
         "reference_weapon": {
             "Sword": [
+                "Bonded Blades",
                 "Hoshido Raijinto",
                 "Sharp War Sword",
                 "Swirling Scimitar"
@@ -2597,7 +2626,8 @@
         "icon": "empathy",
         "reference_weapon": {
             "Sword": [
-                "Azure Twin Edge"
+                "Azure Twin Edge",
+                "Bonded Blades"
             ],
             "Lance": [],
             "Axe": [],
@@ -2773,6 +2803,7 @@
                 "Atk/Res Ploy 3",
                 "Spd/Res Ploy 3",
                 "Def/Res Ploy 3",
+                "Preempt: Ploy",
                 "Pulse Up: Ploy",
                 "Black Fang Bond",
                 "Divine Deceit"
@@ -3301,6 +3332,7 @@
                 "Atk/Res Ploy 3",
                 "Spd/Res Ploy 3",
                 "Def/Res Ploy 3",
+                "Preempt: Ploy",
                 "Pulse Up: Ploy",
                 "Divine Deceit"
             ],
@@ -3882,6 +3914,7 @@
                 "Incite Atk/Res",
                 "Incite Spd/Def",
                 "Encouragement",
+                "Entwined Onrush",
                 "The Heir to Light"
             ],
             "X": [],
@@ -4084,6 +4117,7 @@
                 "Assault Rush",
                 "Black Fang Bond",
                 "Divine Talon",
+                "Entwined Onrush",
                 "Fanged Ties",
                 "Fetters of Dromi",
                 "Heir to Light",
@@ -4394,6 +4428,7 @@
                     "Bouncin' Ball"
                 ],
                 "Blue_Tome": [
+                    "Arcane Rexbolt",
                     "Aureola"
                 ],
                 "Green_Tome": [
@@ -4493,6 +4528,7 @@
             "C": [
                 "Inf. Spd Tactic",
                 "Inf. Null Follow 4",
+                "Entwined Onrush",
                 "Goddess Bearer",
                 "Goddess Bearer II",
                 "Heart of Crimea",
@@ -4792,6 +4828,7 @@
         "reference_weapon": {
             "Sword": [
                 "Blade of Renais",
+                "Bonded Blades",
                 "Flower of Ease",
                 "Gj\u00f6ll",
                 "Petal Parasol+"
@@ -4921,7 +4958,8 @@
                 "Divine Talon",
                 "Dream Deliverer",
                 "Paranoia",
-                "Severance"
+                "Severance",
+                "Ties of Crimea"
             ],
             "X": [
                 "Sly Echo"
@@ -5014,6 +5052,7 @@
                 "Atk/Res Ploy 3",
                 "Spd/Res Ploy 3",
                 "Def/Res Ploy 3",
+                "Preempt: Ploy",
                 "Pulse Up: Ploy",
                 "Divine Deceit"
             ],
@@ -5101,8 +5140,12 @@
         "color": "Green",
         "icon": "potentfollow",
         "reference_weapon": {
-            "Sword": [],
-            "Lance": [],
+            "Sword": [
+                "Vague Katti"
+            ],
+            "Lance": [
+                "\u00c1sj\u00e1 of Askr"
+            ],
             "Axe": [],
             "Staff": [],
             "Bow": [],
@@ -5466,6 +5509,7 @@
             "B": [],
             "C": [
                 "Connected World",
+                "Entwined Onrush",
                 "Opened Domain",
                 "Opened Domain+"
             ],
@@ -5754,7 +5798,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Refined Magic"
+            ],
             "B": [],
             "C": [
                 "Lower Ground",
@@ -6075,6 +6121,7 @@
                     "Vision of Daein"
                 ],
                 "Blue_Tome": [
+                    "Arcane Rexbolt",
                     "Magical Lantern+"
                 ],
                 "Green_Tome": [
@@ -6178,7 +6225,9 @@
                 "Sublime Creator"
             ],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Bolt Axe"
+            ],
             "Staff": [],
             "Bow": [
                 "Truth Seeker"
@@ -6356,6 +6405,7 @@
                 "Atk/Res Ploy 3",
                 "Spd/Res Ploy 3",
                 "Def/Res Ploy 3",
+                "Preempt: Ploy",
                 "Pulse Up: Ploy",
                 "Encouragement"
             ],

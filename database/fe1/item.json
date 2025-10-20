@@ -70,7 +70,7 @@
     "levinsword": {
         "name": "Levin Sword",
         "type": "sword",
-        "desc": "Cannot be used by Generals.",
+        "desc": "Cannot be used by Generals. Ignores user's strength. Targets foe's Resistance",
         "stats": {
             "wlv": 8,
             "mt": 7,
