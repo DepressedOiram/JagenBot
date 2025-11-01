@@ -31743,5 +31743,27 @@
       "Regular Stefan",
       "stefan"
     ]
+  },
+  "elsielovelock": {
+    "heroes": {
+      "heimdallr": "<:Blue_Tome:1317239386491977749>Heimdallr"
+    },
+    "name": "Elsie Lovelock",
+    "ALT_NAME": [
+      "God of Foresight",
+      "Heimdallr: God of Foresight",
+      "Base Heimdallr",
+      "Normal Heimdallr",
+      "Mythic Heimdallr",
+      "heimdallr"
+    ],
+    "HARD_ALT_NAME": [
+      "God of Foresight",
+      "Heimdallr: God of Foresight",
+      "Base Heimdallr",
+      "Normal Heimdallr",
+      "Mythic Heimdallr",
+      "heimdallr"
+    ]
   }
 }

@@ -234413,5 +234413,178 @@
       "def": "boltaxe",
       "res": "boltaxe"
     }
+  },
+  "heimdallr": {
+    "name": "Heimdallr",
+    "title": "God of Foresight",
+    "description": "A god of \u00c1sgar\u00f0r, the celestial realm. Has an intellectual nature and can foresee the actions of others.",
+    "origin": "Heroes",
+    "artist": "Maeshima Shigeki (\u524d\u5d8b\u91cd\u6a5f)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Blue",
+    "duel": false,
+    "id": "1307",
+    "type": "legendary",
+    "version": "9.10",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 14,
+      "spd": 3,
+      "def": 5,
+      "res": 10
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 30,
+      "def": 55,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Light": "1",
+      "Ellight": "2",
+      "Shine": "3",
+      "Mystic Gjallarhorn": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Ice Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Res Bond 1": "2",
+        "Atk/Res Bond 2": "3",
+        "Atk/Res Bond 3": "4",
+        "Atk/Res Aria": "5"
+      },
+      "B": {
+        "An Open Book": "5"
+      },
+      "C": {
+        "Fortify Res 1": "2",
+        "Fortify Res 2": "3",
+        "Fortify Res 3": "4",
+        "A/R Hone Assault": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Heimdallr_God_of_Foresight_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Heimdallr_God_of_Foresight_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Heimdallr_God_of_Foresight_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/96/Heimdallr_God_of_Foresight_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "God of Foresight",
+      "Heimdallr: God of Foresight",
+      "Base Heimdallr",
+      "Normal Heimdallr",
+      "Mythic Heimdallr",
+      "heimdallr"
+    ],
+    "HARD_ALT_NAME": [
+      "God of Foresight",
+      "Heimdallr: God of Foresight",
+      "Base Heimdallr",
+      "Normal Heimdallr",
+      "Mythic Heimdallr",
+      "heimdallr"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u30d8\u30a4\u30e0\u30c0\u30eb\u5473\u65b9",
+    "voice": "Elsie Lovelock",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "So there are renowned strategists in the Order of Heroes, hm? Best be aware that my foresight is infallible.",
+        "My king offered up his eye and his life to receive great knowledge... Yet, he desires even more...",
+        "\u00c1sgar\u00f0r is the pinnacle of the nine realms. I will acknowledge us celestial gods come with a sort of arrogance.",
+        "Loki\u2014so chaotic\u2014is the only being whom I cannot predict... I cannot stand her!",
+        "I...was wrong... And now, I cannot shake this sense that the course of the world has changed drastically."
+      ],
+      "Visit": [
+        "You are right on schedule. It appears [F] predicts well."
+      ],
+      "Level": [
+        "I dislike the unexpected. Oh, however... If unplanned events like these are likely occur...",
+        "Satisfactorily on schedule.",
+        "I anticipated this, though it means nothing if I fail to avoid it."
+      ],
+      "Summon": [
+        "I am Heimdallr, god of foresight, servant of the king of heaven. I know your next move."
+      ],
+      "Learn Skill": [
+        "This power is proof of your accurate predictions. Very good, indeed."
+      ],
+      "Confession": [
+        "The king of heaven, who respects knowledge above all else, trusts but one servant more than any other...\nIt is me, the god of foresight. And there is more to me than foreseeing the future.\nOne is able to proceed precisely on schedule when prepared to avoid anything that obstructs the plan.\nTherefore, I dislike people engaging in actions that are not a part of that plan. It disrupts my peace...\nI do hope, as my new master, that you are not such a disorderly person as this, [S]."
+      ],
+      "Special": [
+        "I predicted this.",
+        "As foreseen.",
+        "It is time.",
+        "Right on schedule."
+      ],
+      "Status": [
+        "Humph.",
+        "I am Heimdallr, god of foresight. Be aware that I predict the future.",
+        "Humph. I knew that would be your next move.",
+        "Why could I not predict your actions? Who are you?",
+        "If one predicts accurately based on the facts, the future becomes an open book.",
+        "As long as things go according to plan, one can be at peace.",
+        "Loki... Why must you always meddle with the plan?",
+        "Ponder, predict, then fight. It seems we agree on these fundamentals, so I see no reason we cannot be friends."
+      ],
+      "Map Select": [
+        "I saw that coming.",
+        "What shall I do?",
+        "As I anticipated."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Heimdallr",
+    "SEARCH_NAME": "Heimdallr",
+    "DISPLAY_NAME": "<:Blue_Tome:1317239386491977749>Heimdallr",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "mysticgjallarhorn",
+      "eff": "mysticgjallarhorn",
+      "atk": "mysticgjallarhorn",
+      "spd": "mysticgjallarhorn",
+      "def": "mysticgjallarhorn",
+      "res": "mysticgjallarhorn"
+    },
+    "blessing": "Anima",
+    "boost": {
+      "hp": 5,
+      "atk": 3
+    }
   }
 }

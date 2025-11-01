@@ -1029,7 +1029,8 @@
                 "S/D Far Trace 4",
                 "S/R Far Trace 4",
                 "A/R Far Resound",
-                "S/R Far Resound"
+                "S/R Far Resound",
+                "An Open Book"
             ],
             "C": [],
             "X": [
@@ -1966,6 +1967,7 @@
                 "Def/Res Discord",
                 "Atk/Spd Ruse 4",
                 "Spd/Def Ruse 4",
+                "An Open Book",
                 "Holy Soul of Zofia",
                 "Ruler of Nihility",
                 "Yggdrasill's Alter",
@@ -2791,6 +2793,7 @@
                 "Atk/Res Detect",
                 "Spd/Def Detect",
                 "Spd/Res Detect",
+                "An Open Book",
                 "Ho\u00f0r's Zeal II",
                 "Justice Enforcer",
                 "Killing Intent+",
@@ -3109,7 +3112,8 @@
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [
-                    "Gjallarhorn"
+                    "Gjallarhorn",
+                    "Mystic Gjallarhorn"
                 ],
                 "Green_Tome": [],
                 "Colorless_Tome": []
@@ -3712,6 +3716,7 @@
                 "Spoil Rotten"
             ],
             "C": [
+                "A/R Hone Assault",
                 "Connected World",
                 "Order's Restraint+"
             ],
@@ -3967,7 +3972,8 @@
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [
-                    "Gjallarhorn"
+                    "Gjallarhorn",
+                    "Mystic Gjallarhorn"
                 ],
                 "Green_Tome": [],
                 "Colorless_Tome": []
@@ -6201,7 +6207,9 @@
             "assist": [],
             "special": [],
             "A": [],
-            "B": [],
+            "B": [
+                "An Open Book"
+            ],
             "C": [
                 "Stall Ploy 3",
                 "Fetters of Dromi",
