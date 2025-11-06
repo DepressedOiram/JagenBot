@@ -5155,7 +5155,14 @@
       "Base Meliai",
       "Normal Meliai",
       "Regular Meliai",
-      "meliai"
+      "meliai",
+      "Hidden in Time",
+      "Gullveig: Hidden in Time",
+      "Ninja Gullveig",
+      "N Gullveig",
+      "Duo Gullveig",
+      "D Gullveig",
+      "gullveig4"
     ],
     "HARD_ALT_NAME": [
       "Normal F Corrin",
@@ -5266,12 +5273,20 @@
       "Base Meliai",
       "Normal Meliai",
       "Regular Meliai",
-      "meliai"
+      "meliai",
+      "Hidden in Time",
+      "Gullveig: Hidden in Time",
+      "Ninja Gullveig",
+      "N Gullveig",
+      "Duo Gullveig",
+      "D Gullveig",
+      "gullveig4"
     ],
     "heroes": {
       "fcorrinR": "<:Blue_Breath:1317239355835813939>Female Corrin (Resplendent)",
       "dorothea": "<:Blue_Tome:1317239386491977749>Dorothea",
       "dorothea3": "<:Red_Tome:1317239730714316800>Harmonic Dorothea",
+      "gullveig4": "<:Colorless_Tome:1317239438602145842>Ninja Gullveig",
       "igrene3": "<:Blue_Bow:1317239347577356328>Nabata Igrene",
       "kagero4": "<:Colorless_Dagger:1317239418943438869>Wind Kagero",
       "manuela": "<:Red_Sword:1317239717707911188>Winter Manuela",
@@ -19374,7 +19389,19 @@
       "Summer Yuri",
       "S Yuri",
       "Beach Yuri",
-      "yuri3"
+      "yuri3",
+      "Shez: Ninja Mercenary",
+      "Ninja Mercenary",
+      "Ninja Male Shez",
+      "N Male Shez",
+      "Ninja Shez Male",
+      "N Shez Male",
+      "Ninja M Shez",
+      "N M Shez",
+      "Ninja Shez M",
+      "N Shez M",
+      "shez9",
+      "mshez4"
     ],
     "HARD_ALT_NAME": [
       "Leg M Daraen",
@@ -19584,7 +19611,19 @@
       "Summer Yuri",
       "S Yuri",
       "Beach Yuri",
-      "yuri3"
+      "yuri3",
+      "Shez: Ninja Mercenary",
+      "Ninja Mercenary",
+      "Ninja Male Shez",
+      "N Male Shez",
+      "Ninja Shez Male",
+      "N Shez Male",
+      "Ninja M Shez",
+      "N M Shez",
+      "Ninja Shez M",
+      "N Shez M",
+      "shez9",
+      "mshez4"
     ],
     "heroes": {
       "ike7": "<:Red_Sword:1317239717707911188>Emblem Ike",
@@ -19595,6 +19634,7 @@
       "mrobin5": "<:Green_Tome:1317239575352971396>Legendary Robin",
       "seteth": "<:Blue_Lance:1317239378208096338>Seteth",
       "shannan": "<:Red_Sword:1317239717707911188>Shannan",
+      "mshez4": "<:Green_Axe:1317239517136031897>Ninja Male Shez",
       "yuri3": "<:Green_Dagger:1317239563697127456>Summer Yuri"
     },
     "name": "Okuma Yugo (\u5927\u718a\u3086\u3046\u3054)"
@@ -29196,7 +29236,8 @@
   "yoshio": {
     "heroes": {
       "nidhoggr2": "<:Blue_Beast:1317239339452731402>New Year N\u00ED\u00F0h\u00F6ggr",
-      "petra2": "<:Red_Bow:1317239680571543592>Summer Petra"
+      "petra2": "<:Red_Bow:1317239680571543592>Summer Petra",
+      "fshez5": "<:Blue_Dagger:1317239367529529445>Ninja Female Shez"
     },
     "name": "YOSHIO",
     "ALT_NAME": [
@@ -29222,7 +29263,19 @@
       "NY N\u00ED\u00F0h\u00F6ggr",
       "New Years N\u00ED\u00F0h\u00F6ggr",
       "Kimono N\u00ED\u00F0h\u00F6ggr",
-      "N\u00ED\u00F0h\u00F6ggr: Daze of Healing"
+      "N\u00ED\u00F0h\u00F6ggr: Daze of Healing",
+      "Shez: Covert Mercenary",
+      "Covert Mercenary",
+      "Ninja Female Shez",
+      "N Female Shez",
+      "Ninja Shez Female",
+      "N Shez Female",
+      "Ninja F Shez",
+      "N F Shez",
+      "Ninja Shez F",
+      "N Shez F",
+      "shez8",
+      "fshez5"
     ],
     "HARD_ALT_NAME": [
       "Faraway Sun",
@@ -29246,7 +29299,19 @@
       "NY N\u00ED\u00F0h\u00F6ggr",
       "New Years N\u00ED\u00F0h\u00F6ggr",
       "Kimono N\u00ED\u00F0h\u00F6ggr",
-      "N\u00ED\u00F0h\u00F6ggr: Daze of Healing"
+      "N\u00ED\u00F0h\u00F6ggr: Daze of Healing",
+      "Shez: Covert Mercenary",
+      "Covert Mercenary",
+      "Ninja Female Shez",
+      "N Female Shez",
+      "Ninja Shez Female",
+      "N Shez Female",
+      "Ninja F Shez",
+      "N F Shez",
+      "Ninja Shez F",
+      "N Shez F",
+      "shez8",
+      "fshez5"
     ]
   },
   "keg": {
@@ -29719,6 +29784,7 @@
   "makimurashunsuke": {
     "heroes": {
       "ayra3": "<:Red_Sword:1317239717707911188>Legendary Ayra",
+      "edelgard3R": "<:Green_Axe:1317239517136031897>Brave Edelgard (Resplendent)", 
       "finn2": "<:Red_Sword:1317239717707911188>Butler Finn"
     },
     "name": "Makimura Shunsuke (\u30DE\u30AD\u30E0\u30E9\u30B7\u30E5\u30F3\u30B9\u30B1)",
@@ -29736,7 +29802,11 @@
       "Butler Finn",
       "Tea Finn",
       "Teatime Finn",
-      "finn2"
+      "finn2",
+      "Resplendent Brave Edelgard",
+      "Resp Brave Edelgard",
+      "R Brave Edelgard",
+      "Brave Edelgard (Resplendent)"
     ]
   },
   "nanafuji": {
@@ -30079,7 +30149,8 @@
   },
   "otton": {
     "heroes": {
-      "excellus": "<:Red_Tome:1317239730714316800>Excellus"
+      "excellus": "<:Red_Tome:1317239730714316800>Excellus",
+      "hrid4": "<:Green_Axe:1317239517136031897>Ninja Hr\u00edd"
     },
     "name": "otton (\u30aa\u30c3\u30c8\u30f3)",
     "ALT_NAME": [
@@ -30088,7 +30159,16 @@
       "Excellus: Conqueror's Wile",
       "Base Excellus",
       "Normal Excellus",
-      "excellus"
+      "excellus",
+      "Frigid Ninja",
+      "Hr\u00edd: Frigid Ninja",
+      "Ninja Hr\u00edd",
+      "N Hr\u00edd",
+      "hr\u00edd4",
+      "Hrid: Frigid Ninja",
+      "Ninja Hrid",
+      "N Hrid",
+      "hrid4"
     ]
   },
   "fuwaomu": {
@@ -30126,7 +30206,8 @@
   },
   "idenshihina": {
     "heroes": {
-      "lapis3": "<:Blue_Lance:1317239378208096338>Summer Lapis"
+      "lapis3": "<:Blue_Lance:1317239378208096338>Summer Lapis",
+      "yunaka3": "<:Red_Bow:1317239680571543592>Ninja Yunaka"
     },
     "name": "Idenshi Hina (\u907a\u4F1d\u5b50\u3072\u306a)",
     "ALT_NAME": [
@@ -30136,7 +30217,12 @@
       "Summer Lapis",
       "S Lapis",
       "Beach Lapis",
-      "lapis3"
+      "lapis3",
+      "Steathly Imitator",
+      "Yunaka: Stealthy Imitator",
+      "Ninja Yunaka",
+      "N Yunaka",
+      "yunaka3"
     ]
   },
   "sogawa": {

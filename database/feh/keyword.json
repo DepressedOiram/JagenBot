@@ -126,7 +126,9 @@
                 "Green_Tome": [
                     "Kindred Tome"
                 ],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Scrolls of Time"
+                ]
             },
             "Breath": [],
             "Beast": []
@@ -333,6 +335,7 @@
                 ],
                 "Blue_Tome": [
                     "Bright-Shell Egg",
+                    "Celestial Gungnir",
                     "Devoted Cup+",
                     "Fimbulvetr Morn",
                     "The Cycle's Turn"
@@ -394,6 +397,7 @@
                 "Lull Atk/Def 4",
                 "Lull Spd/Def 4",
                 "Lull Spd/Res 4",
+                "S/D Lull Finish",
                 "S/R Lull Finish",
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
@@ -515,7 +519,8 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Ancient Voice"
+                "Ancient Voice",
+                "Shadow Breath"
             ],
             "Beast": []
         },
@@ -763,6 +768,7 @@
             "C": [
                 "Lookout Force",
                 "Active Lookout",
+                "Lookout Smog",
                 "Black Fang Bond",
                 "Fetters of Dromi",
                 "Darkling Guard II",
@@ -1002,6 +1008,7 @@
             "Tome": {
                 "Red_Tome": [
                     "\u00dej\u00e1lfi",
+                    "Agnea's Arrow",
                     "Tome of Dusk"
                 ],
                 "Blue_Tome": [
@@ -1056,6 +1063,7 @@
                 "Sword of Dusk"
             ],
             "Lance": [
+                "Holy Gradivus",
                 "Springing Spear"
             ],
             "Axe": [
@@ -1657,6 +1665,7 @@
                 "Convoy Dagger",
                 "Courtly Fan+",
                 "Courtly Mask+",
+                "Covert Duality",
                 "Dreamflake",
                 "Dual Sword",
                 "Fireman's Hook",
@@ -1817,8 +1826,12 @@
                 "Arena Axe+"
             ],
             "Staff": [],
-            "Bow": [],
-            "Dagger": [],
+            "Bow": [
+                "Bow of Stealth"
+            ],
+            "Dagger": [
+                "Asura Blades"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [],
@@ -1835,6 +1848,7 @@
             "special": [],
             "A": [],
             "B": [
+                "Glacial Seal",
                 "Moonlit Slumber"
             ],
             "C": [],
@@ -1922,6 +1936,7 @@
             "Staff": [],
             "Bow": [
                 "Arcane Hex Bow",
+                "Bow of Stealth",
                 "Carrot Bow+",
                 "Discord Bow+",
                 "Howling Bow",
@@ -1933,6 +1948,7 @@
             ],
             "Tome": {
                 "Red_Tome": [
+                    "Agnea's Arrow",
                     "Grimleal Text"
                 ],
                 "Blue_Tome": [
@@ -2016,6 +2032,7 @@
             "C": [
                 "Lookout Force",
                 "Active Lookout",
+                "Lookout Smog",
                 "Black Fang Bond"
             ],
             "X": [],
@@ -2229,7 +2246,9 @@
             ],
             "special": [],
             "A": [],
-            "B": [],
+            "B": [
+                "Glacial Seal"
+            ],
             "C": [],
             "X": [],
             "S": [],
@@ -2280,6 +2299,7 @@
             "Sword": [],
             "Lance": [],
             "Axe": [
+                "Loyalist Axe",
                 "Taciturn Axe"
             ],
             "Staff": [],
@@ -2425,7 +2445,10 @@
                 "Future Gaze"
             ],
             "special": [],
-            "A": [],
+            "A": [
+                "Ninja-Zap",
+                "Swift Slice II"
+            ],
             "B": [
                 "Rockslide Dance 3",
                 "Barbarity",
@@ -2747,7 +2770,9 @@
                 "Rampart Bow"
             ],
             "Dagger": [
+                "Asura Blades",
                 "Athame",
+                "Covert Duality",
                 "Spy's Shuriken"
             ],
             "Tome": {
@@ -3186,7 +3211,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Shadow Breath"
+            ],
             "Beast": [
                 "Tempered Antler"
             ]
@@ -3240,6 +3267,8 @@
             "special": [],
             "A": [],
             "B": [
+                "Assured Rebirth+",
+                "Glacial Seal",
                 "Ice Prince's Seal"
             ],
             "C": [],
@@ -3382,6 +3411,7 @@
                 "Green_Tome": [],
                 "Colorless_Tome": [
                     "Gullveig",
+                    "Scrolls of Time",
                     "Quietus Gullveig"
                 ]
             },
@@ -3399,6 +3429,7 @@
                 "Nj\u00f6run's Zeal",
                 "Nj\u00f6run's Zeal II",
                 "Requiem Dance",
+                "Future and Past",
                 "Time and Light",
                 "Time Is Light"
             ],
@@ -3708,7 +3739,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Rapid Slice"
+            ],
             "B": [
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
@@ -3716,6 +3749,7 @@
                 "Spoil Rotten"
             ],
             "C": [
+                "A/S Hone Assault",
                 "A/R Hone Assault",
                 "Connected World",
                 "Order's Restraint+"
@@ -3786,7 +3820,8 @@
             "special": [],
             "A": [
                 "Atk/Spd Hexblade",
-                "Spd/Res Hexblade"
+                "Spd/Res Hexblade",
+                "Rapid Slice"
             ],
             "B": [],
             "C": [
@@ -4213,7 +4248,9 @@
                 "Whimsical Dream+"
             ],
             "special": [],
-            "A": [],
+            "A": [
+                "Swift Slice II"
+            ],
             "B": [
                 "Called to Serve"
             ],
@@ -4413,6 +4450,7 @@
                 "Swirling Scimitar"
             ],
             "Lance": [
+                "Holy Gradivus",
                 "Jehanna Lance+",
                 "Wing-Lifted Spear"
             ],
@@ -4708,7 +4746,11 @@
             "special": [
                 "Holy Panic"
             ],
-            "A": [],
+            "A": [
+                "Verge of Death",
+                "Crystalline Water",
+                "Shatterproof"
+            ],
             "B": [
                 "Sudden Panic 3",
                 "According to Plan",
@@ -5211,7 +5253,9 @@
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Scrolls of Time"
+                ]
             },
             "Breath": [],
             "Beast": [],
@@ -5503,7 +5547,9 @@
                     "Princess Teapot"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Arcane Outburst"
+            ],
             "Beast": [
                 "Wandering Horn"
             ]
@@ -5577,7 +5623,9 @@
                     "Princess Teapot"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Arcane Outburst"
+            ],
             "Beast": [
                 "Entwining Horn",
                 "Wandering Horn"
@@ -5672,11 +5720,13 @@
                 "Survivalist Bow"
             ],
             "Dagger": [
+                "Covert Duality",
                 "Hidden Blade",
                 "Tangy Sundae"
             ],
             "Tome": {
                 "Red_Tome": [
+                    "Agnea's Arrow",
                     "Banshee \u0398",
                     "Dark Scripture",
                     "Mirage Rod",
@@ -5721,6 +5771,7 @@
                 "A/R Cantrip 3",
                 "Atk/Def Snag 4",
                 "Spd/Def Snag 4",
+                "Assured Rebirth+",
                 "Full Light & Dark",
                 "Holy Soul of Zofia",
                 "I Remember...",
@@ -6034,8 +6085,12 @@
                 "Arena Axe+"
             ],
             "Staff": [],
-            "Bow": [],
-            "Dagger": [],
+            "Bow": [
+                "Bow of Stealth"
+            ],
+            "Dagger": [
+                "Asura Blades"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [],
@@ -6151,7 +6206,9 @@
                 "Call to Flame"
             ],
             "special": [],
-            "A": [],
+            "A": [
+                "Ninja-Zap"
+            ],
             "B": [],
             "C": [
                 "A/S Bellow",
@@ -6232,7 +6289,9 @@
                 "Hoshido Raijinto",
                 "Sublime Creator"
             ],
-            "Lance": [],
+            "Lance": [
+                "Holy Gradivus"
+            ],
             "Axe": [
                 "Bolt Axe"
             ],
@@ -6276,10 +6335,28 @@
         "description": "Allies within 4 spaces of unit can move to a space adjacent to unit (that turn only).",
         "color": "Blue",
         "icon": "timesgate",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": [
+                    "Scrolls of Time"
+                ]
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
+                "Future and Past",
                 "Light Is Time"
             ],
             "A": [],
@@ -6379,7 +6456,9 @@
             "Sword": [
                 "Thunderbrand"
             ],
-            "Lance": [],
+            "Lance": [
+                "Holy Gradivus"
+            ],
             "Axe": [],
             "Staff": [
                 "Baton of Dusk"

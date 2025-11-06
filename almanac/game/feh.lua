@@ -1208,9 +1208,12 @@ function Skill:show_tier(index, minimal)
     end
     
     if not minimal then
-        text = text .. "\n\n" .. restriction(tier.restriction_weapon)
-        
-        text = text .. "\n" .. restriction(tier.restriction_movement, "feh_")
+        if tier.restriction_weapon then
+            text = text .. "\n" .. restriction(tier.restriction_weapon)
+        end
+        if tier.restriction_movement then
+            text = text .. "\n" .. restriction(tier.restriction_movement, "feh_")
+        end
     end
     
     return tier.name, text
