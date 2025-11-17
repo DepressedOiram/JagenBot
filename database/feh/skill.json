@@ -5479,7 +5479,8 @@
         "palla4": "5",
         "selena4": "3",
         "sylvain3": "3",
-        "excellus": "3"
+        "excellus": "3",
+        "alfador": "3"
       }
     },
     "refine": {},
@@ -8042,7 +8043,8 @@
         "hodr": "3",
         "shura": "3",
         "soren6": "3",
-        "heimdallr": "3"
+        "heimdallr": "3",
+        "alfador": "3"
       }
     },
     "refine": {},
@@ -8234,7 +8236,8 @@
         "hodr": "4",
         "shura": "4",
         "soren6": "4",
-        "heimdallr": "4"
+        "heimdallr": "4",
+        "alfador": "4"
       }
     },
     "refine": {},
@@ -9124,7 +9127,8 @@
         "edain": "3",
         "sakura4": "3",
         "elise5": "3",
-        "lena2": "3"
+        "lena2": "3",
+        "vali": "3"
       }
     },
     "refine": {},
@@ -13788,7 +13792,8 @@
         "eirika5": "5",
         "florina2": "5",
         "hilda5": "5",
-        "perne": "1"
+        "perne": "1",
+        "vali": "2"
       }
     },
     "refine": {},
@@ -25281,7 +25286,8 @@
         "soren2": "5",
         "altina2": "5",
         "rhea2": "5",
-        "heimdallr": "4"
+        "heimdallr": "4",
+        "alfador": "4"
       },
       "Atk/Res Bond 2": {},
       "Atk/Res Bond 1": {}
@@ -28646,7 +28652,8 @@
     "reference": {
       "Spur Atk/Spd 2": {
         "ricken": "4",
-        "sothe": "5"
+        "sothe": "5",
+        "vali": "4"
       },
       "Spur Atk/Spd 1": {}
     },
@@ -30144,7 +30151,8 @@
         "tana5": "5",
         "maria3": "5",
         "sharena4": "4",
-        "freyja3": "4"
+        "freyja3": "4",
+        "vali": "4"
       },
       "Atk/Spd Bond 2": {},
       "Atk/Spd Bond 1": {}
@@ -32078,7 +32086,9 @@
         "fbyleth2": "5",
         "katarina2": "5",
         "sonya2": "5",
-        "ursula3": "5"
+        "ursula3": "5",
+        "alfador": "2",
+        "vali": "2"
       }
     },
     "refine": {},
@@ -39274,7 +39284,8 @@
         "ymir": "5",
         "elise3": "5",
         "pent2": "5",
-        "selena4": "5"
+        "selena4": "5",
+        "alfador": "5"
       },
       "Rally Up Atk": {
         "excellus": "4"
@@ -70648,7 +70659,8 @@
       "Chill Spd/Res 2": {
         "fbyleth2": "5",
         "homer": "4",
-        "sharena4": "4"
+        "sharena4": "4",
+        "vali": "4"
       },
       "Chill Spd/Res 1": {}
     },
@@ -79000,7 +79012,8 @@
       "Chill Def/Res 2": {
         "katarina2": "5",
         "sonya2": "5",
-        "donnel2": "4"
+        "donnel2": "4",
+        "alfador": "4"
       },
       "Chill Def/Res 1": {}
     },
@@ -80079,13 +80092,13 @@
     },
     "icon": 2098,
     "HARD_ALT_NAME": [
-      "dagr",
-      "Dagr: Sun's Radiance",
       "Sun's Radiance",
+      "Dagr: Sun's Radiance",
       "Base Dagr",
       "Normal Dagr",
-      "dagr1",
-      "Dagr"
+      "Mythic Dagr",
+      "dagr",
+      "dagr1"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -92733,7 +92746,18 @@
       },
       {
         "name": "Open Retainer+",
-        "description": "Allies within 2 spaces can move to any space within 2 spaces of unit.\nFor allies within 3 spaces of unit, grants Atk/Spd/Def/Res+5 and neutralizes foe's bonuses during combat, and also, when ally deals damage to foe during their combat, restores 7 HP to that ally.\nIf unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, neutralizes foe's bonuses, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials), and also, when unit deals damage to foe during combat, restores 7 HP to unit."
+        "description": "Allies within 2 spaces can move to any space within 2 spaces of unit.\nFor allies within 3 spaces of unit, grants Atk/Spd/Def/Res+5 and neutralizes foe's bonuses during combat, and also, when ally deals damage to foe during their combat, restores 7 HP to that ally.\nIf unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, neutralizes foe's bonuses, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials), and also, when unit deals damage to foe during combat, restores 7 HP to unit.",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Opening Retainer"
+        ],
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
       }
     ],
     "reference": {
@@ -92790,6 +92814,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Red Feud 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -92812,6 +92839,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Red Feud 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -93156,6 +93186,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd Cantrip 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -93173,6 +93206,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd Cantrip 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -93239,6 +93275,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "D/R Far Save 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -93256,6 +93295,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "D/R Far Save 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -93318,6 +93360,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "C Feud 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -93330,6 +93375,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "C Feud 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -93468,6 +93516,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Goddess Bearer"
+        ],
         "slot": "Passive C",
         "exclusive": true,
         "restriction_weapon": false,
@@ -93518,17 +93569,15 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "dagr2",
-      "Dagr: New Year J\u00f6tnar",
       "New Year J\u00f6tnar",
-      "Duo Dagr",
-      "Harmonic Dagr",
-      "Harmonized Dagr",
+      "Dagr: New Year J\u00f6tnar",
+      "New Year Jotnar",
+      "Dagr: New Year Jotnar",
       "New Year Dagr",
-      "New years Dagr",
-      "N Dagr",
+      "New Years Dagr",
+      "Duo Dagr",
       "D Dagr",
-      "Nagr"
+      "dagr2"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -93724,6 +93773,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spur Atk 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -94153,6 +94205,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Green Feud 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -94175,6 +94230,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Green Feud 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -94486,6 +94544,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sturdy Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -94530,6 +94591,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spur Res 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -94620,6 +94684,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Holy Ground"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -95145,6 +95212,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Close Counter"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -95206,6 +95276,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Savvy Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -95223,6 +95296,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Savvy Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -95240,6 +95316,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Savvy Fighter 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -95303,6 +95382,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "A/D Far Save 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -95320,6 +95402,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "A/D Far Save 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -95697,6 +95782,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Ideal 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -95715,6 +95803,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Ideal 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -95733,6 +95824,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Ideal 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -95807,6 +95901,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Wily Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -95824,6 +95921,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Wily Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -95841,6 +95941,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wily Fighter 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -95940,6 +96043,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Distant Counter"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -95995,6 +96101,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Faithful Loyalty"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -96496,6 +96605,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Flow Flight 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -96520,6 +96632,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Flow Flight 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -96567,6 +96682,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Res Rein 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -96870,6 +96988,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Astra"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -96966,6 +97087,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Ho\u00f0r's Zeal"
+        ],
         "slot": "Passive B",
         "exclusive": true,
         "restriction_weapon": false,
@@ -97283,6 +97407,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Distant Counter"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -97345,6 +97472,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Tempo 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -97362,6 +97492,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Tempo 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -97378,6 +97511,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Tempo 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -97734,6 +97870,10 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Spd 1",
+          "Threaten Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -97746,6 +97886,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threat. Spd/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -97793,6 +97936,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Threat. Spd/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -97847,6 +97993,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Blue Feud 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -97869,6 +98018,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Blue Feud 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -97973,6 +98125,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Assured Rebirth"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -98025,6 +98180,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Canto Control 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -98042,6 +98200,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Canto Control 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -98382,6 +98543,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "exclusive": true,
         "slot": "Assist",
         "restriction_weapon": [
@@ -98727,6 +98891,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Still Water 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -98743,6 +98910,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Still Water 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -98759,6 +98929,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Still Water 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -98840,6 +99013,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Flow Force 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -98865,6 +99041,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Flow Force 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -98944,6 +99123,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Res Rein 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -99027,6 +99209,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -99059,6 +99244,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Darkling Guardian"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -102433,32 +102621,41 @@
     },
     "icon": 2249,
     "HARD_ALT_NAME": [
-      "belethf4",
-      "fbeleth4",
-      "belethfemale4",
-      "femalebeleth4",
-      "bylethf4",
-      "fbyleth4",
-      "bylethfemale4",
-      "femalebyleth4",
-      "beleth6",
       "Sublime Light",
-      "B Female Byleth",
-      "B Byleth Female",
-      "B F Byleth",
-      "B Byleth F",
-      "B Female Beleth",
-      "B Beleth Female",
-      "B F Beleth",
-      "B Beleth F",
+      "Byleth: Sublime Light",
       "Brave Female Byleth",
-      "Brave Byleth Female",
+      "Brave Robin Byleth",
       "Brave F Byleth",
       "Brave Byleth F",
+      "CYL Female Byleth",
+      "CYL Byleth Female",
+      "CYL F Byleth",
+      "CYL Byleth F",
+      "Choose Your Legends Female Byleth",
+      "Choose Your Legends Byleth Female",
+      "Female Choose Your Legends Byleth",
+      "Choose Your Legends F Byleth",
+      "Choose Your Legends Byleth F",
+      "F Choose Your Legends Byleth",
+      "byleth6",
+      "fbyleth4",
+      "Beleth: Sublime Light",
       "Brave Female Beleth",
       "Brave Beleth Female",
       "Brave F Beleth",
-      "Brave Beleth F"
+      "Brave Beleth F",
+      "CYL Female Beleth",
+      "CYL Beleth Female",
+      "CYL F Beleth",
+      "CYL Beleth F",
+      "Choose Your Legends Female Beleth",
+      "Choose Your Legends Beleth Female",
+      "Female Choose Your Legends Beleth",
+      "Choose Your Legends F Beleth",
+      "Choose Your Legends Beleth M",
+      "F Choose Your Legends Beleth",
+      "beleth6",
+      "fbeleth4"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -117695,16 +117892,43 @@
     "HARD_ALT_NAME": [
       "Silent Bloodline",
       "Corrin: Silent Bloodline",
-      "Brave Corrin",
-      "CYL Corrin",
-      "Brave F Corrin",
-      "Brave Corn",
-      "Brave F Corn",
       "Brave Female Corrin",
-      "CYL F Corrin",
-      "B Corrin",
+      "Brave Corrin Female",
+      "Brave F Corrin",
+      "Brave Corrin F",
       "B F Corrin",
-      "fcorrin8"
+      "B Corrin F",
+      "CYL Female Corrin",
+      "CYL Corrin Female",
+      "CYL F Corrin",
+      "CYL Corrin F", 
+      "Choose Your Legends Female Corrin",
+      "Choose Your Legends Corrin Female",
+      "Female Choose Your Legends Corrin",
+      "Choose Your Legends F Corrin",
+      "Choose Your Legends Corrin F",
+      "F Choose Your Legends Corrin",
+      "corrin14",
+      "fcorrin8",
+      "Corn: Silent Bloodline",
+      "Brave Female Corn",
+      "Brave Corn Female",
+      "Brave F Corn",
+      "Brave Corn F",
+      "B F Corn",
+      "B Corn F",
+      "CYL Female Corn",
+      "CYL Corn Female",
+      "CYL F Corn",
+      "CYL Corn F",
+      "Choose Your Legends Female Corn",
+      "Choose Your Legends Corn Female",
+      "Female Choose Your Legends Corn",
+      "Choose Your Legends F Corn",
+      "Choose Your Legends Corn M",
+      "F Choose Your Legends Corn",
+      "corn14",
+      "fcorn14"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -117825,14 +118049,39 @@
     "HARD_ALT_NAME": [
       "Exalt's Deliverer",
       "Robin: Exalt's Deliverer",
-      "Brave Robin",
-      "CYL Robin",
-      "Brave M Robin",
-      "CYL M Robin",
       "Brave Male Robin",
+      "Brave Robin Male",
+      "Brave M Robin",
+      "Brave Robin M",
       "CYL Male Robin",
+      "CYL Robin Male",
+      "CYL M Robin",
+      "CYL Robin M",
+      "Choose Your Legends Male Robin",
+      "Choose Your Legends Robin Male",
+      "Male Choose Your Legends Robin",
+      "Choose Your Legends M Robin",
+      "Choose Your Legends Robin M",
+      "M Choose Your Legends Robin",
       "robin13",
-      "mrobin7"
+      "mrobin7",
+      "Reflet: Exalt's Deliverer",
+      "Brave Male Reflet",
+      "Brave Reflet Male",
+      "Brave M Reflet",
+      "Brave Reflet M",
+      "CYL Male Reflet",
+      "CYL Reflet Male",
+      "CYL M Reflet",
+      "CYL Reflet M",
+      "Choose Your Legends Male Reflet",
+      "Choose Your Legends Reflet Male",
+      "Male Choose Your Legends Reflet",
+      "Choose Your Legends M Reflet",
+      "Choose Your Legends Reflet M",
+      "M Choose Your Legends Reflet",
+      "reflet13",
+      "mreflet7"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -131343,22 +131592,41 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "B Female Robin",
+      "Exalt's Right Hand",
       "Robin: Exalt's Right Hand",
       "Brave Female Robin",
-      "F B Robin",
-      "Choose Your Legends F Robin",
-      "B F Robin",
-      "Female Brave Robin",
-      "Choose Your Legends Female Robin",
-      "robin16",
-      "Female Choose Your Legends Robin",
-      "frobin8",
-      "Female CYL Robin",
+      "Brave Robin Female",
       "Brave F Robin",
-      "CYL F Robin",
+      "Brave Robin F",
       "CYL Female Robin",
-      "Exalt's Right Hand"
+      "CYL Robin Female",
+      "CYL F Robin",
+      "CYL Robin F",
+      "Choose Your Legends Female Robin",
+      "Choose Your Legends Robin Female",
+      "Female Choose Your Legends Robin",
+      "Choose Your Legends F Robin",
+      "Choose Your Legends Robin F",
+      "F Choose Your Legends Robin",
+      "robin16",
+      "frobin8",
+      "Reflet: Exalt's Right Hand",
+      "Brave Female Reflet",
+      "Brave Reflet Female",
+      "Brave F Reflet",
+      "Brave Reflet F",
+      "CYL Female Reflet",
+      "CYL Reflet Female",
+      "CYL F Reflet",
+      "CYL Reflet F",
+      "Choose Your Legends Female Reflet",
+      "Choose Your Legends Reflet Female",
+      "Female Choose Your Legends Reflet",
+      "Choose Your Legends F Reflet",
+      "Choose Your Legends Reflet M",
+      "F Choose Your Legends Reflet",
+      "reflet16",
+      "feflet8"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -132234,16 +132502,12 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Ice Reginn",
-      "reginn3",
-      "Regular Reginn",
+      "Dvergr Heir",
+      "Reginn: Dvergr Heir",
       "Aided Reginn",
       "A Reginn",
-      "Normal Reginn",
       "Aide Reginn",
-      "Dvergr Heir",
-      "Base Reginn",
-      "Reginn: Dvergr Heir"
+      "reginn3"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -142307,7 +142571,8 @@
         "heidrun3": "5",
         "hodr": "5",
         "soren6": "5",
-        "heimdallr": "5"
+        "heimdallr": "5",
+        "alfador": "5"
       }
     },
     "icon": false,
@@ -146001,7 +146266,8 @@
     "reference": {
       "Atk/Spd Aria": {
         "sharena4": "5",
-        "freyja3": "5"
+        "freyja3": "5",
+        "vali": "5"
       }
     },
     "icon": 2493,
@@ -146043,7 +146309,8 @@
     ],
     "reference": {
       "Spd/Res Shackle": {
-        "sharena4": "5"
+        "sharena4": "5",
+        "vali": "5"
       }
     },
     "icon": 2494,
@@ -146398,19 +146665,41 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Sublime Creator",
       "Anchor of Hope",
-      "Byleth: Anchor Of Hope",
+      "Byleth: Anchor of Hope",
       "Brave Male Byleth",
+      "Brave Byleth Male",
+      "Brave M Byleth",
+      "Brave Byleth M",
       "CYL Male Byleth",
-      "B Male Byleth",
+      "CYL Byleth Male",
+      "CYL M Byleth",
+      "CYL Byleth M",
       "Choose Your Legends Male Byleth",
-      "mbyleth5",
-      "Male Brave Byleth",
-      "Male CYL Byleth",
-      "Male B Byleth",
+      "Choose Your Legends Byleth Male",
       "Male Choose Your Legends Byleth",
-      "byleth10"
+      "Choose Your Legends M Byleth",
+      "Choose Your Legends Byleth M",
+      "M Choose Your Legends Byleth",
+      "byleth10",
+      "mbyleth5",
+      "Beleth: Anchor of Hope",
+      "Brave Male Beleth",
+      "Brave Beleth Male",
+      "Brave M Beleth",
+      "Brave Beleth M",
+      "CYL Male Beleth",
+      "CYL Beleth Male",
+      "CYL M Beleth",
+      "CYL Beleth M",
+      "Choose Your Legends Male Beleth",
+      "Choose Your Legends Beleth Male",
+      "Male Choose Your Legends Beleth",
+      "Choose Your Legends M Beleth",
+      "Choose Your Legends Beleth M",
+      "M Choose Your Legends Beleth",
+      "beleth10",
+      "mbeleth5"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -149207,7 +149496,8 @@
     ],
     "reference": {
       "Atk/Res Aria": {
-        "heimdallr": "5"
+        "heimdallr": "5",
+        "alfador": "5"
       }
     },
     "icon": 2544,
@@ -149411,7 +149701,7 @@
       {
         "name": "Conjuring Breath",
         "stats": {
-          "sp": "300"
+          "sp": "400"
         },
         "required": [
           "Poison Strike 3"
@@ -149886,6 +150176,241 @@
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
+    "wpn": false
+  },
+  "etherealgungnir": {
+    "name": "Ethereal Gungnir",
+    "skill": [
+      {
+        "name": "Ethereal Gungnir",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAfter start-of-turn effects trigger on player phase or enemy phase, grants any\u3010Bonus\u3011 effects active on foes and allies on the map, excluding stat bonuses, to unit for 1 turn.\nFor foes within 3 rows or 3 columns centered on unit, deals X damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), inflicts Atk/Spd/Def/Res-X on foe and foe cannot make a follow-up attack during combat, and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count + X \u00f7 3 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\nAt start of combat, if unit's HP \u2265 25%, grants Atk/Spd/Def/Res+X \u00d7 2 to unit, deals damage = 20% of unit's Res (excluding area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Res during combat (excluding area-of-effect Specials), and also, if unit's attack can trigger unit's Special, grants Special cooldown count - X \u00f7 3 to unit before unit's first attack during combat.\n(X = turn number + number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses; max 9).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ethereal Gungnir": {
+        "alfador": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Ethereal Gungnir",
+      "Celestial King",
+      "Alfa\u00f0\u00f6r: Celestial King",
+      "Base Alfa\u00f0\u00f6r",
+      "Normal Alfa\u00f0\u00f6r",
+      "Mythic Alfa\u00f0\u00f6r",
+      "alfa\u00f0\u00f6r",
+      "Alfador: Celestial King",
+      "Base Alfador",
+      "Normal Alfador",
+      "Mythic Alfador",
+      "alfador",
+      "Alfaoor: Celestial King",
+      "Base Alfaoor",
+      "Normal Alfaoor",
+      "Mythic Alfaoor",
+      "alfaoor"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "defresshackle": {
+    "name": "Def Res Shackle",
+    "skill": [
+      {
+        "name": "Def/Res Shackle",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Chill Def/Res 2"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Cannot** be used by: ",
+          [
+            "Colorless_Staff"
+          ]
+        ],
+        "restriction_movement": [
+          "**Cannot** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "At start of turn, and after unit acts (if Canto triggers, after Canto), inflicts\u3010Def Shackle\u3011 and\u3010Res Shackle\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nInflicts Def/Res-4 on foe and deals damage = number of\u3010Penalty\u3011effects active on foe, excluding stat penalties, \u00d7 2, + 7 during combat (max 15; excluding area-of-effect Specials).\n\u3010Def Shackle\u3011\nInflicts penalty on unit's Def during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).\n\u3010Res Shackle\u3011\nInflicts penalty on unit's Res during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
+      }
+    ],
+    "reference": {
+      "Def/Res Shackle": {
+        "alfador": "5"
+      }
+    },
+    "icon": 2564,
+    "HARD_ALT_NAME": [
+      "Def/Res Shackle"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "covetousone": {
+    "name": "Covetous One",
+    "skill": [
+      {
+        "name": "Covetous One",
+        "description": "Enables\u3010Canto (Rem.; Min \uff11)\u3011.\nWhen Canto triggers, enables unit to use \u3010Smite\u3011on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).\nAt start of turn and after unit acts (if Canto triggers, after Canto), if any foes within 3 rows or 3 columns centered on unit have Res < unit's Res+5, inflicts Atk/Res-7, \u3010Exposure\u3011, and\u3010Discord\u3011on those foes through their next actions.\nIf a Rally or movement Assist skill is used by unit, deals 1 damage to target ally and grants any Bonus effects active on unit to target ally for 1 turn (excluding stat bonuses; once per turn).\nAt start of combat, if unit's HP \u2265 25%, grants Atk/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials).\n\u3010Canto (Rem.; Min \uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. \uff11; if unit used a movement skill that warped them, unit can move \uff11 space(s)). (Once per turn. Only highest value applied. Does not stack.)\n\u3010Smite\u3011\nRange = 1. Pushes target ally 2 spaces away.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Covetous One": {
+        "alfador": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2565,
+    "HARD_ALT_NAME": [
+      "Covetous One"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "enrapturedgod": {
+    "name": "Enraptured God",
+    "skill": [
+      {
+        "name": "Enraptured God",
+        "description": "Neutralizes \"effective against flying\" bonuses. Grants Spd+3. Unit can counterattack regardless of foe's range.\nGrants Atk/Spd+5 to allies within 3 spaces of unit during combat and those allies can counterattack regardless of foe's range.\nFor allies within 3 spaces of unit, if ally's HP > 1 and foe would reduce ally's HP to 0 during combat, ally survives with 1 HP, and after combat, restores 40 HP and grants Atk/Spd\u3010Great Talent\u3011+10 to ally (effect only triggers for player's team once per map and does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce unit's HP to 0; when any other such effect triggers on an ally granted this effect, this effect will trigger too).\nIf unit's HP \u2265 25% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), neutralizes foe's bonuses, unit deals +X damage (excluding area of-effect Specials; X = 20% of unit's Spd + total value of Atk and Spd\u3010Great Talent\u3011), reduces damage from foe's first attack by 20% of unit's Spd (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n(This skill grants max of\u3010Great Talent\u3011+10.)\n\u3010Great Talent\u3011\nAdds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Enraptured God": {
+        "vali": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Enraptured God",
+      "God of Vengeance",
+      "V\u00e1li: God of Vengeance",
+      "Base V\u00e1li",
+      "Normal V\u00e1li",
+      "Mythic V\u00e1li",
+      "v\u00e1li",
+      "Vali: God of Vengeance",
+      "Base Vali",
+      "Normal Vali",
+      "Mythic Vali",
+      "vali"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg299"
+  },
+  "invinciblesister": {
+    "name": "Invincible Sister",
+    "skill": [
+      {
+        "name": "Invincible Sister",
+        "description": "When Special triggers, if unit's HP > 1 and foe would reduce unit's HP to 0, unit survives with 1 HP, and afterward, once per turn on player phase and enemy phase, damage dealt by unit's attacks and damage from foe's attacks during that combat are reduced to 0 (Røkkr take at least 1 damage), and after combat, grants Special cooldown count-5 to unit, restores 40 HP to unit, and grants Atk/Spd\u3010Great Talent\u3011+10 to unit, and also, if unit initiated combat, grants another action to unit.\nAt start of player phase or enemy phase (except for in Summoner Duels), grants Special cooldown count-5 and restores 40 HP to unit.\nUnit's first follow-up attack deals +X damage (X = 50% of foe's Atk + total value of unit's Atk and Spd\u3010Great Talent\u3011), reduces damage from foe's first attack by 40% (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown count-2 to unit before foe's first attack during combat.\n(This skill grants max of\u3010Great Talent\u3011+20.)\n\u3010Great Talent\u3011\nAdds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Miracle"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Invincible Sister": {
+        "vali": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Invincible Sister"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "nullupliftas": {
+    "name": "Null Uplift A S",
+    "skill": [
+      {
+        "name": "Null Uplift A/S",
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+5 and unit and ally deal +5 damage during their combat (excluding area-of-effect Specials), and also, if their Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit or ally's follow-up attacks during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Spur Atk/Spd 2"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Flying"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "Null Uplift A/S": {
+        "vali": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2566,
+    "HARD_ALT_NAME": [
+      "Null Uplift A/S"
+    ],
+    "ALT_NAME": [
+      "Null Uplift Atk/Spd"
+    ],
+    "slot": "Passive C",
     "wpn": false
   }
 }

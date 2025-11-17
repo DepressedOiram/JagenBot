@@ -850,8 +850,8 @@
             "Other Effects": "For women only."
         }
     },
-    "Dulam": {
-        "name": "Dulam",
+    "Doulam": {
+        "name": "Doulam",
         "desc": "Drops enemy's HP to 1.",
         "stats": {
             "wlv": 1,
@@ -861,7 +861,10 @@
             "uses": 44
         },
         "type": "weapon",
-        "weapon": true
+        "weapon": true,
+        "ALT_NAME": [
+            "Dulam"
+        ]
     },
     "worm": {
         "name": "Worm",

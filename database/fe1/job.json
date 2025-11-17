@@ -73,6 +73,27 @@
             "mov": 9
         }
     },
+    "curate": {
+        "name": "Curate",
+        "exp": 30,
+        "promo": "bishop",
+        "weapon": [
+            "staff"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 1,
+            "wlv": 7,
+            "spd": 1,
+            "lck": 0,
+            "def": 3,
+            "mov": 5
+        },
+        "ALT_NAME": [
+            "Priest"
+        ]
+    },
     "dracoknight": {
         "name": "Dracoknight",
         "exp": 44,
@@ -346,24 +367,6 @@
             "mov": 6
         },
         "promo": false
-    },
-    "priest": {
-        "name": "Priest",
-        "exp": 30,
-        "promo": "bishop",
-        "weapon": [
-            "staff"
-        ],
-        "base": {
-            "hp": 16,
-            "str": 1,
-            "skl": 1,
-            "wlv": 7,
-            "spd": 1,
-            "lck": 0,
-            "def": 3,
-            "mov": 5
-        }
     },
     "sniper": {
         "name": "Sniper",

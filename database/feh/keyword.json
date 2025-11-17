@@ -337,6 +337,7 @@
                     "Bright-Shell Egg",
                     "Celestial Gungnir",
                     "Devoted Cup+",
+                    "Ethereal Gungnir",
                     "Fimbulvetr Morn",
                     "The Cycle's Turn"
                 ],
@@ -406,7 +407,9 @@
                 "Haunting Choker",
                 "Pure Atrocity"
             ],
-            "C": [],
+            "C": [
+                "Covetous One"
+            ],
             "X": [
                 "Lull Echo",
                 "Sly Echo"
@@ -1039,7 +1042,9 @@
                 "S/R Far Resound",
                 "An Open Book"
             ],
-            "C": [],
+            "C": [
+                "Covetous One"
+            ],
             "X": [
                 "Far Trace Echo"
             ],
@@ -1848,6 +1853,7 @@
             "special": [],
             "A": [],
             "B": [
+                "Def/Res Shackle",
                 "Glacial Seal",
                 "Moonlit Slumber"
             ],
@@ -1990,6 +1996,7 @@
                 "Yune's Protection"
             ],
             "C": [
+                "Covetous One",
                 "Glittering Anima",
                 "Twinkling Anima"
             ],
@@ -2834,6 +2841,7 @@
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
                 "Black Fang Bond",
+                "Covetous One",
                 "Divine Deceit"
             ],
             "X": [],
@@ -3479,6 +3487,7 @@
                 "Red_Tome": [],
                 "Blue_Tome": [],
                 "Green_Tome": [
+                    "Enraptured God",
                     "Vengeful God"
                 ],
                 "Colorless_Tome": []
@@ -3489,6 +3498,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Invincible Sister",
                 "Makings of a King"
             ],
             "A": [],
@@ -4985,6 +4995,7 @@
             ],
             "B": [
                 "Spd/Res Shackle",
+                "Def/Res Shackle",
                 "Full Disarm",
                 "Deadly Balance",
                 "Deadly Balance+",
@@ -5688,7 +5699,8 @@
             "special": [],
             "A": [],
             "B": [
-                "Spd/Res Shackle"
+                "Spd/Res Shackle",
+                "Def/Res Shackle"
             ],
             "C": [],
             "X": [],
@@ -6061,7 +6073,8 @@
             "A": [],
             "B": [],
             "C": [
-                "Shadow Smite 4"
+                "Shadow Smite 4",
+                "Covetous One"
             ],
             "X": [],
             "S": [],
