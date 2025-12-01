@@ -6409,7 +6409,8 @@
         "dew": "3",
         "ike8": "3",
         "nino6": "3",
-        "micaiah8": "3"
+        "micaiah8": "3",
+        "ike9": "3"
       }
     },
     "refine": {},
@@ -6519,7 +6520,8 @@
         "ike7": "4",
         "dew": "4",
         "ike8": "4",
-        "micaiah8": "4"
+        "micaiah8": "4",
+        "ike9": "4"
       }
     },
     "refine": {},
@@ -7332,7 +7334,8 @@
         "haitaka": "3",
         "fcorrin9": "3",
         "sharena5": "3",
-        "yunaka3": "3"
+        "yunaka3": "3",
+        "lyn11": "3"
       }
     },
     "refine": {},
@@ -7532,7 +7535,8 @@
         "haitaka": "4",
         "fcorrin9": "4",
         "sharena5": "4",
-        "yunaka3": "4"
+        "yunaka3": "4",
+        "lyn11": "4"
       }
     },
     "refine": {},
@@ -8044,7 +8048,8 @@
         "shura": "3",
         "soren6": "3",
         "heimdallr": "3",
-        "alfador": "3"
+        "alfador": "3",
+        "vanitas": "3"
       }
     },
     "refine": {},
@@ -8237,7 +8242,8 @@
         "shura": "4",
         "soren6": "4",
         "heimdallr": "4",
-        "alfador": "4"
+        "alfador": "4",
+        "vanitas": "4"
       }
     },
     "refine": {},
@@ -10515,7 +10521,8 @@
         "xander": "5",
         "gunter": "5",
         "ytiki": "5",
-        "frederick2": "5"
+        "frederick2": "5",
+        "ike9": "4"
       },
       "Armored Blow 2": {},
       "Armored Blow 1": {
@@ -11983,7 +11990,8 @@
         "nah": "5",
         "xander4": "5",
         "hrid2": "5",
-        "plumeria2": "5"
+        "plumeria2": "5",
+        "ike9": "4"
       },
       "Quick Riposte 2": {},
       "Quick Riposte 1": {}
@@ -12158,7 +12166,8 @@
         "lilina6": "4",
         "jedah": "4",
         "bruno": "4",
-        "gullveig4": "4"
+        "gullveig4": "4",
+        "lyn11": "4"
       },
       "Poison Strike 2": {},
       "Poison Strike 1": {}
@@ -14401,7 +14410,8 @@
         "veronica6": "4",
         "fir4": "4",
         "nerpuz4": "4",
-        "gullveig4": "4"
+        "gullveig4": "4",
+        "lyn11": "4"
       },
       "Hone Spd 2": {
         "sigrun": "4",
@@ -38104,7 +38114,8 @@
         "ytiki4": "5",
         "sothis2": "5",
         "rudolf": "5",
-        "falear4": "4"
+        "falear4": "4",
+        "vanitas": "4"
       },
       "Special Fighter 2": {},
       "Special Fighter 1": {}
@@ -75737,20 +75748,12 @@
       "Lyn: Ninja-Friend Duo",
       "Ninja-Friend Duo",
       "Duo Lyn",
-      "Harmonic Lyn",
-      "Harmonized Lyn",
       "Ninja Lyn",
       "Duo Lyndis",
-      "Harmonic Lyndis",
-      "Harmonized Lyndis",
       "Ninja Lyndis",
       "Duo Lindis",
-      "Harmonic Lindis",
-      "Harmonized Lindis",
       "Ninja Lindis",
       "Duo Lin",
-      "Harmonic Lin",
-      "Harmonized Lin",
       "Ninja Lin",
       "lin7",
       "lindis7",
@@ -81371,7 +81374,8 @@
         "diamant2": "4",
         "lapis3": "4",
         "diamant3": "4",
-        "stefan": "4"
+        "stefan": "4",
+        "ike9": "4"
       },
       "Even Tempest 2": {},
       "Even Tempest 1": {}
@@ -90238,7 +90242,8 @@
       "A/R Near Save 3": {
         "mrobin4": "5",
         "rafal": "4",
-        "fgrima": "4"
+        "fgrima": "4",
+        "vanitas": "4"
       },
       "A/R Near Save 2": {},
       "A/R Near Save 1": {}
@@ -97193,8 +97198,6 @@
       "Ike: Close-Knit Siblings",
       "Close-Knit Siblings",
       "Duo Ike",
-      "Harmonic Ike",
-      "Harmonized Ike",
       "Young Ike",
       "Child Ike",
       "Mini Ike",
@@ -138083,7 +138086,8 @@
         "ayra3": "5",
         "larcei3": "5",
         "diamant3": "5",
-        "stefan": "5"
+        "stefan": "5",
+        "ike9": "5"
       }
     },
     "icon": 2341,
@@ -142245,7 +142249,8 @@
     ],
     "reference": {
       "Scowling Fighter": {
-        "falear4": "5"
+        "falear4": "5",
+        "vanitas": "5"
       }
     },
     "icon": 2424,
@@ -146427,7 +146432,8 @@
         "baldr2": "5",
         "diamant3": "5",
         "sharena5": "5",
-        "yunaka3": "5"
+        "yunaka3": "5",
+        "lyn11": "5"
       }
     },
     "icon": false,
@@ -149722,7 +149728,7 @@
           ]
         ],
         "restriction_movement": false,
-        "description": "If unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and foe cannot recover HP during or after combat.\nIf unit initiates combat, inflicts Spd/Res-4 on foe, deals damage = 20% of the greater of foe's Spd or Res (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack)."
+        "description": "If unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and foe cannot recover HP during or after combat.\nIf unit initiates combat, inflicts Spd/Res-4 on foe, deals damage = 20% of the greater of foe's Spd or Res (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack), and foe cannot recover HP during or after combat."
       }
     ],
     "reference": {
@@ -149738,11 +149744,11 @@
     "slot": "Passive B",
     "wpn": false
   },
-  "asassaulthone": {
-    "name": "A S Assault Hone",
+  "ashoneassault": {
+    "name": "A S Hone Assault",
     "skill": [
       {
-        "name": "A/S Assault Hone",
+        "name": "A/S Hone Assault",
         "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Spd+6 and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk/Spd = number of allies on the map with the \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" status effect active + 2 during combat (excluding unit; max 5).",
         "stats": {
           "sp": "300"
@@ -149763,8 +149769,9 @@
       }   
     ],
     "reference": {
-      "A/S Assault Hone": {
-        "gullveig4": "5"
+      "A/S Hone Assault": {
+        "gullveig4": "5",
+        "lyn11": "5"
       }
     },
     "refine": {},
@@ -150167,7 +150174,9 @@
       }
     ],
     "reference": {
-      "Arcane Outburst": {}
+      "Arcane Outburst": {
+        "vanitas": "5"
+      }
     },
     "refine": {},
     "icon": false,
@@ -150409,6 +150418,425 @@
     ],
     "ALT_NAME": [
       "Null Uplift Atk/Spd"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "urvanbrilliance": {
+    "name": "Urvan Brilliance",
+    "skill": [
+      {
+        "name": "Urvan Brilliance",
+        "description": "Accelerates Special trigger (cooldown count-1).\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).\nAt start of turn, grants\u3010Radiant Hero\u3011and \"neutralizes foe's bonuses during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.\n\u3010Radiant Hero\u3011\nUnit can counterattack regardless of foe's range.\nGrants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 10 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, when Special triggers, deals damage = unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Glacial Greataxe": {
+        "ike9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Urvan Brilliance",
+      "Zealous Inheritors",
+      "Ike: Zealous Inheritors",
+      "Harmonic Ike",
+      "Harmonized Ike",
+      "Harmonic CYL Ike",
+      "Harmonized CYL Ike",
+      "CYL Harmonic Ike",
+      "CYL Harmonized Ike",
+      "Harmonic Choose Your Legends Ike",
+      "Harmonized Choose Your Legends Ike",
+      "Choose Your Legends Harmonic Ike",
+      "Choose Your Legends Harmonized Ike",
+      "Harmonic Brave Ike",
+      "Harmonized Brave Ike",
+      "Brave Harmonic Ike",
+      "Harmonized Brave Ike",
+      "ike9"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax183"
+  },
+  "aetherscourse": {
+    "name": "Aether s Course",
+    "skill": [
+      {
+        "name": "Aether's Course",
+        "description": "When Special triggers, boosts damage by the greater of unit's or foe's Def, restores 50% of unit's maximum HP, and neutralizes foe's \"reduces damage by X%\" effects from foe's non-Special skills.\nFoe can make a follow-up attack before unit's next attack during combat.\nReduces the effect of\u3010Deep Wounds\u3011by 50%, neutralizes effects that prevent unit's counterattacks, and reduces damage from foe's attacks by 40%, but if unit receives consecutive attacks, reduces damage from foe's second attack onward by 70% during combat (excluding area-of-effect Specials).\n\u3010Deep Wounds\u3011\nUnit's HP cannot be healed through its next action.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Sol",
+          "Luna"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Aether's Course": {
+        "ike9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Aether's Course"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "warriorsblow": {
+    "name": "Warrior s Blow",
+    "skill": [
+      {
+        "name": "Warrior's Blow",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Armored Blow 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "If unit initiates combat or is within 3 spaces of an ally, grants Atk/Def+9 to unit, reduces damage from foe's first attack by X (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; if unit initiates combat, X = 15; otherwise, X = 7), and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit during combat."
+      }
+    ],
+    "reference": {
+      "Warrior's Blow": {
+        "ike9": "5"
+      }
+    },
+    "icon": 2567,
+    "HARD_ALT_NAME": [
+      "Warrior's Blow"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "patience": {
+    "name": "Patience",
+    "skill": [
+      {
+        "name": "Patience",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Quick Riposte 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If unit initiates combat, foe can counterattack before unit's first attack.\nInflicts Atk/Def/Res-4 on foe, foe cannot make a follow-up attack, deals damage = 20% of unit's Def (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Def (excluding area-of-effect Specials), and restores 7 HP to unit when unit deals damage to foe during combat. If unit's Spd at start of battle \u2265 30, triggers\u3010Potent Follow X%\u3011 during combat (if unit cannot perform follow-up and attack twice, X = 100; otherwise, X = 50; \"at start of battle\" excludes increases to Spd granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.).\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)."
+      }
+    ],
+    "reference": {
+      "Patience": {
+        "ike9": "5"
+      }
+    },
+    "icon": 2568,
+    "HARD_ALT_NAME": [
+      "Patience"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "intrinsicmulagir": {
+    "name": "Intrinsic Mulagir",
+    "skill": [
+      {
+        "name": "Intrinsic Mulagir",
+        "description": "Accelerates Special trigger (cooldown count-1).\nEffective against flying foes.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+5, ally deals +7 damage (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on ally during combat, and also, if ally's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent ally's follow-up attacks during combat.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and restores 7 HP to unit after combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Intrinsic Mulagir Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 3 spaces away (unit cannot attack foes 2 spaces away).\nGrants weapon-triangle advantage against and inflicts weapon-triangle disadvantage on armored and cavalry foes during combat (excluding when foe triggers \"Savior\").\nCannot move through spaces within 3 spaces of foe that has triggered the【Bulwark】effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 2 or foe can counterattack regardless of unit's range. After-combat movement effects do not occur. Skill effect's Range is treated as 2. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. When unit is equipped with a skill that has a Style, unit will not be able to use skills like Duo Skills or Harmonized Skills. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Intrinsic Mulagir": {
+        "lyn11": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Intrinsic Mulagir",
+      "Glitters of Hope",
+      "Lyn: Glitters of Hope",
+      "Harmonic Lyn",
+      "Harmonized Lyn",
+      "Harmonic CYL Lyn",
+      "Harmonized CYL Lyn",
+      "CYL Harmonic Lyn",
+      "CYL Harmonized Lyn",
+      "Harmonic Choose Your Legends Lyn",
+      "Harmonized Choose Your Legends Lyn",
+      "Choose Your Legends Harmonic Lyn",
+      "Choose Your Legends Harmonized Lyn",
+      "Harmonic Brave Lyn",
+      "Harmonized Brave Lyn",
+      "Brave Harmonic Lyn",
+      "Harmonized Brave Lyn",
+      "lyn11"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg143"
+  },
+  "sacaesdecree": {
+    "name": "Sacae s Decree",
+    "skill": [
+      {
+        "name": "Sacae's Decree",
+        "description": "Enables\u3010Canto (Rem.; Min \uff11)\u3011.\nAt start of player phase or enemy phase, grants\u3010Empathy\u3011and \"if unit initiates combat, reduces damage from foe's first attack during combat by 40%\" to unit and allies within 2 spaces of unit for 1 turn.\nDisables skills of all foes excluding foe in combat, grants Atk/Spd/Def/Res+9 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\n\u3010Canto (Rem.; Min \uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. \uff11; if unit used a movement skill that warped them, unit can move \uff11 space(s)). (Once per turn. Only highest value applied. Does not stack.)\n\u3010Empathy\u3011\nGrants bonus to unit's Atk/Spd/Def/Res = number of types of Bonus effects, excluding stat bonuses, and Penalty effects, excluding stat penalties, active on player team and enemy team during combat (max 7).\n\u3010Potent Follow 100%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Sacae's Decree": {
+        "lyn11": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2569,
+    "HARD_ALT_NAME": [
+      "Sacae's Decree"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "executionbreath": {
+    "name": "Execution Breath",
+    "skill": [
+      {
+        "name": "Execution Breath",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Poison Strike 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Bow",
+            "Red_Dagger",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Bow",
+            "Green_Dagger",
+            "Colorless_Beast",
+            "Colorless_Bow",
+            "Colorless_Dagger"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and foe cannot recover HP during or after combat.\nIf unit initiates combat, inflicts Spd/Def-4 on foe, deals damage = 20% of the greater of foe's Spd or Def (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack), and foe cannot recover HP during or after combat."
+      }
+    ],
+    "reference": {
+      "Execution Breath": {
+        "lyn11": "5"
+      }
+    },
+    "icon": 2570,
+    "HARD_ALT_NAME": [
+      "Execution Breath"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "dragonice": {
+    "name": "Dragon Ice",
+    "skill": [
+      {
+        "name": "Dragon Ice",
+        "stats": {
+          "cooldown": "4",
+          "sp": "500"
+        },
+        "required": [
+          "Glacies"
+        ],
+        "slot": "Special",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Breath",
+            "Blue_Breath",
+            "Green_Breath",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "Boosts damage by 80% of unit's Res and restores 30% of unit's maximum HP when Special triggers.\nIf both of the following conditions are met, reduces damage from foe's next attack by 40% during combat:\n - Unit's or foe's Special is ready, or unit's or foe's Special triggered before or during this combat.\n - Foe initiates combat or unit's Res \u2265 foe's Res-10.\n(Once per combat; excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "Dragon Ice": {
+        "vanitas": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Dragon Ice",
+      "dice"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "unfledgedgod": {
+    "name": "Unfledged God",
+    "skill": [
+      {
+        "name": "Unfledged God",
+        "description": "Unit can counterattack regardless of foe's range.\nAfter unit acts (if Canto triggers, after Canto) or, if defending in Aether Raids, at the start of enemy phase, applies\u3010Divine Vein (Stone)\u3011to unit's space and spaces within 2 spaces of unit for 1 turn.\nGrants Atk/Def/Res+10 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), unit makes a guaranteed follow-up attack, and grants Special cooldown count-1 to unit before unit's first attack during combat.\nIf foe initiates combat, after combat, neutralizes five\u3010Bonus\u3011effects active on foes within 3 rows or 3 columns centered on unit, excluding stat bonuses (does not neutralize\u3010Bonus\u3011 effects applied at the same time; neutralizes the first applicable Bonus effects on foe's list of active effects).\n\u3010Divine Vein (Stone)\u3011\nApplies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding Røkkr area-of-effect Specials). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain.)\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Unfledged God": {
+        "vanitas": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2571,
+    "HARD_ALT_NAME": [
+      "Unfledged God"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "artwinmsave": {
+    "name": "A R Twin M Save",
+    "skill": [
+      {
+        "name": "A/R Twin M Save",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "A/R Near Save 3",
+          "A/R Far Save 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "If magic, staff, or dragon foe initiates combat against an ally within 2 spaces of unit, triggers \u3010Savior\u3011on unit.\nIf foe uses magic, staff, or dragonstone, grants Atk/Res+4 to unit, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack), and restores 7 HP to unit when unit deals damage to foe during combat.\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects.\nSavior will not trigger if ally is on terrain that unit cannot move to or if multiple units are able to use Savior during the same combat. If Savior triggers, after-combat movement effects do not occur."
+      }
+    ],
+    "reference": {
+      "A/R Twin M Save": {
+        "vanitas": "5"
+      }
+    },
+    "icon": 2572,
+    "HARD_ALT_NAME": [
+      "A/R Twin M Save"
+    ],
+    "ALT_NAME": [
+      "Attack/Resistance Twin M Save"
     ],
     "slot": "Passive C",
     "wpn": false

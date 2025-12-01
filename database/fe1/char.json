@@ -461,7 +461,7 @@
     "elice": {
         "name": "Elice",
         "lvl": 4,
-        "job": "priest",
+        "job": "curate",
         "portrait": "elice.png",
         "base": {
             "hp": 16,
@@ -704,7 +704,7 @@
     "lena": {
         "name": "Lena",
         "lvl": 3,
-        "job": "priest",
+        "job": "curate",
         "portrait": "lena.png",
         "base": {
             "hp": 16,
@@ -812,7 +812,7 @@
     "maria": {
         "name": "Maria",
         "lvl": 3,
-        "job": "priest",
+        "job": "curate",
         "portrait": "maria.png",
         "base": {
             "hp": 19,
@@ -1352,7 +1352,7 @@
     "wrys": {
         "name": "Wrys",
         "lvl": 1,
-        "job": "priest",
+        "job": "curate",
         "portrait": "wrys.png",
         "base": {
             "hp": 16,

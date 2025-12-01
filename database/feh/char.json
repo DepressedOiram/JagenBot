@@ -1849,7 +1849,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "solkattieff",
@@ -23579,7 +23580,8 @@
       "ike5",
       "ike6",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "ragnelleff",
@@ -25425,7 +25427,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "candlelighteff",
@@ -31145,7 +31148,8 @@
       "ike5",
       "ike6",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "urvaneff",
@@ -31560,7 +31564,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "mulagireff",
@@ -40088,7 +40093,8 @@
       "ike5",
       "ike6",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "ragnelleff",
@@ -40767,7 +40773,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "bluegiftspd",
@@ -45988,7 +45995,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "swiftmulagireff",
@@ -62764,7 +62772,8 @@
       "ike5",
       "ike6",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "heartsbladespd",
@@ -72570,7 +72579,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "deepblueboweff",
@@ -93415,7 +93425,8 @@
       "ike4",
       "ike6",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "chaosragnelleff",
@@ -105342,20 +105353,12 @@
       "Lyn: Ninja-Friend Duo",
       "Ninja-Friend Duo",
       "Duo Lyn",
-      "Harmonic Lyn",
-      "Harmonized Lyn",
       "Ninja Lyn",
       "Duo Lyndis",
-      "Harmonic Lyndis",
-      "Harmonized Lyndis",
       "Ninja Lyndis",
       "Duo Lindis",
-      "Harmonic Lindis",
-      "Harmonized Lindis",
       "Ninja Lindis",
       "Duo Lin",
-      "Harmonic Lin",
-      "Harmonized Lin",
       "Ninja Lin"
     ],
     "HARD_ALT_NAME": [
@@ -105374,20 +105377,12 @@
       "Nyn",
       "Dyn",
       "Duo Lyn",
-      "Harmonic Lyn",
-      "Harmonized Lyn",
       "Ninja Lyn",
       "Duo Lyndis",
-      "Harmonic Lyndis",
-      "Harmonized Lyndis",
       "Ninja Lyndis",
       "Duo Lindis",
-      "Harmonic Lindis",
-      "Harmonized Lindis",
       "Ninja Lindis",
       "Duo Lin",
-      "Harmonic Lin",
-      "Harmonized Lin",
       "Ninja Lin",
       "Lyninja"
     ],
@@ -105494,7 +105489,8 @@
       "lyn6",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "tailwindshuriken",
@@ -141935,8 +141931,6 @@
       "Ike: Close-Knit Siblings",
       "Close-Knit Siblings",
       "Duo Ike",
-      "Harmonic Ike",
-      "Harmonized Ike",
       "Young Ike",
       "Child Ike",
       "Mini Ike",
@@ -141947,8 +141941,6 @@
       "Y Ike",
       "D Ike",
       "Duo Ike",
-      "Harmonic Ike",
-      "Harmonized Ike",
       "Young Ike",
       "Child Ike",
       "Mini Ike",
@@ -142055,7 +142047,8 @@
       "ike4",
       "ike5",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "sturdywarsword",
@@ -152407,7 +152400,8 @@
       "lyn6",
       "lyn7",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "firelightlance",
@@ -193845,7 +193839,8 @@
       "ike4",
       "ike5",
       "ike6",
-      "ike8"
+      "ike8",
+      "ike9"
     ],
     "prf": {
       "": "emblemragnell",
@@ -212866,7 +212861,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn10"
+      "lyn10",
+      "lyn11"
     ],
     "prf": {
       "": "ladysbow",
@@ -215291,7 +215287,8 @@
       "ike4",
       "ike5",
       "ike6",
-      "ike7"
+      "ike7",
+      "ike9"
     ],
     "prf": {
       "": "swirlinglance",
@@ -232386,11 +232383,11 @@
     "color": "Red",
     "duel": false,
     "id": "1294",
-    "type": false,
+    "type": "emblem",
     "version": "9.9",
     "duo": false,
     "harmonized": false,
-    "emblem": false,
+    "emblem": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nAt start of enemy phase (except for in Pawns of Loki), if there is no\u3010Divine Vein (Icicle)\u3011 currently applied by unit or allies, applies \u3010Divine Vein (Icicle)\u3011to spaces 2 spaces away from unit for 1 turn (excluding spaces occupied by a foe, destructible terrain other than Divine Vein, or warp spaces in Rival Domains), and \u3010Divine Vein (Vert)\u3011to unit's space and spaces within 3 spaces of unit for 1 turn (excluding spaces with\u3010Divine Vein (Icicle)\u3011applied).\n\u3010Divine Vein (Icicle)\u3011\nApplies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to \u3010Divine Vein (Vert)\u3011. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).\n\u3010Divine Vein (Vert)\u3011\nApplies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts \u3010Canto Control\u3011on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\n\u3010Canto Control\u3011\nIf unit's Range = 1, unit can move 1 space when Canto triggers. If unit's Range = 2, their action ends when Canto triggers.",
     "base": {
       "hp": 21,
       "atk": 11,
@@ -232748,7 +232745,8 @@
       "lyn6",
       "lyn7",
       "lyn8",
-      "lyn9"
+      "lyn9",
+      "lyn11"
     ],
     "prf": {
       "": "windsofduality",
@@ -236170,6 +236168,625 @@
     "boost": {
       "hp": 5,
       "def": 5
+    }
+  },
+  "ike9": {
+    "name": "Ike",
+    "title": "Zealous Inheritors",
+    "description": "Ike and Roy are youths who look up to their fathers and overcome many hardships with courage in their hearts. They appear in Fire Emblem: Path of Radiance / The Binding Blade.",
+    "origin": "Path of Radiance + The Binding Blade",
+    "artist": "Hiiragi Akio (\u67ca\u6681\u751f)",
+    "move": "Infantry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1315",
+    "type": "duo",
+    "version": "9.11",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Shields\u3011to unit and allies from the same titles as unit.\nGrants another action to certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit on the map who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Shields\u3011\nGrants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\"",
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 10,
+      "spd": 8,
+      "def": 10,
+      "res": 11
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 50,
+      "def": 90,
+      "res": 55
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Urvan Brilliance": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Daylight": "3",
+      "Sol": "4",
+      "Aether's Course": "5"
+    },
+    "passive": {
+      "A": {
+        "Armored Blow 1": "2",
+        "Armored Blow 2": "3",
+        "Armored Blow 3": "4",
+        "Warrior's Blow": "5"
+      },
+      "B": {
+        "Quick Riposte 1": "2",
+        "Quick Riposte 2": "3",
+        "Quick Riposte 3": "4",
+        "Patience": "5"
+      },
+      "C": {
+        "Even Tempest 1": "2",
+        "Even Tempest 2": "3",
+        "Even Tempest 3": "4",
+        "Brutal Tempest": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Ike_Zealous_Inheritors_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Ike_Zealous_Inheritors_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Ike_Zealous_Inheritors_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/80/Ike_Zealous_Inheritors_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Zealous Inheritors",
+      "Ike: Zealous Inheritors",
+      "Harmonic Ike",
+      "Harmonized Ike",
+      "Harmonic CYL Ike",
+      "Harmonized CYL Ike",
+      "CYL Harmonic Ike",
+      "CYL Harmonized Ike",
+      "Harmonic Choose Your Legends Ike",
+      "Harmonized Choose Your Legends Ike",
+      "Choose Your Legends Harmonic Ike",
+      "Choose Your Legends Harmonized Ike",
+      "Harmonic Brave Ike",
+      "Harmonized Brave Ike",
+      "Brave Harmonic Ike",
+      "Harmonized Brave Ike",
+      "ike9"
+    ],
+    "HARD_ALT_NAME": [
+      "Zealous Inheritors",
+      "Ike: Zealous Inheritors",
+      "Harmonic Ike",
+      "Harmonized Ike",
+      "Harmonic CYL Ike",
+      "Harmonized CYL Ike",
+      "CYL Harmonic Ike",
+      "CYL Harmonized Ike",
+      "Harmonic Choose Your Legends Ike",
+      "Harmonized Choose Your Legends Ike",
+      "Choose Your Legends Harmonic Ike",
+      "Choose Your Legends Harmonized Ike",
+      "Harmonic Brave Ike",
+      "Harmonized Brave Ike",
+      "Brave Harmonic Ike",
+      "Harmonized Brave Ike",
+      "ike9"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u53cc\u754c\u7dcf\u9078\u6319\u30a2\u30a4\u30af",
+    "voice": "Greg Chun + Ray Chase",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "tellius"
+    ],
+    "chibi": [
+      "fe9",
+      "fe6"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Ike:** Battle is risky business, but there's always something to learn. Every conflict is unique.",
+        "**Roy:** We've fought together and talked about many things. We're close enough now to call each other friend.",
+        "**Ike:** Roy and I may have been raised differently, but now that we've fought together, I trust him with my life.",
+        "**Roy:** Humans and dragons\u2014no, even just humans have unending conflict. But we can have empathy. This, I believe.",
+        "**Ike:** Whenever there's a battle, our strength is needed. I hope a time comes when that's not true."
+      ],
+      "Visit": [
+        "**Ike:** I'm Ike, of the Greil Mercenaries. Roy and I are here to deliver a greeting from [F]."
+      ],
+      "Level": [
+        "**Ike:** Our foes fought well. Our goal is not to defeat them, but to come to an understanding afterwards.",
+        "**Ike:** Master your own strength, and you won't be defeated. Right, Roy?",
+        "**Roy:** All sorts of people have supported me until now, but in the end it will be my heart that is tested."
+      ],
+      "Summon": [
+        "I'm Ike, from the Greil Mercenaries. This here is Roy, a comrade you can trust with your life. You called for us?"
+      ],
+      "Learn Skill": [
+        "**Ike:** Leave it to us then. You're good, right, Roy?"
+      ],
+      "Confession": [
+        "**Ike:** Many voices called out to us. We're here now...\n**Roy:** We've seen this before\u2014people led astray by desire, their mistakes leading to conflict...\nBut we've also seen people overcome such adversities.\n**Ike:** Right and wrong is a matter of perspective.\nWhat's important is if you can accept something as just. And staying true to your convictions.\n**Roy:** The person who taught me once said, \"A general lacking confidence cannot gain the trust of their subordinates.\"\n**Ike:** It seems you were blessed with a good teacher, Roy.\nLet us forge ahead together, and act with confidence in our convictions."
+      ],
+      "Special": [
+        "****Duo:**** With one strike!",
+        "****Duo:**** \"We'll end this!\" \"Right!\"",
+        "**Ike:** You won't escape!",
+        "**Roy:** We will win!"
+      ],
+      "Status": [
+        "-",
+        "\"I'm counting on you, Roy.\" \"And I, you. Together, we'll win this.\""
+      ],
+      "Map Select": [
+        "Hmm...",
+        "Let's do this!",
+        "On our way."
+      ],
+      "Conversation": [
+        "**Roy:** I see you're wearing the same clothes your father wears. My attire matches my father's as well.",
+        "**Ike:** Ah. No wonder.",
+        "**Roy:** Oh? Does something look off about me?",
+        "**Ike:** Just that your clothes look like they belong on someone more mature.",
+        "**Roy:** Are you saying I am childish?",
+        "**Ike:** I-I'm saying you normally dress your age.",
+        "**Roy:** But...my father was my age when he wore these clothes.",
+        "**Ike:** Then I guess you don't look like him.",
+        "**Roy:** Yes, I do! People say we share the exact same hair color, and our eyes are the same too!",
+        "**Ike:** Hm.",
+        "**Roy:** What about you, Ike? Do you resemble your father?",
+        "**Ike:** I got my hair and eyes from my mother. The rest is anyone's guess.",
+        "But, even if I don't look like him, I still aim to be like him.",
+        "**Roy:** I, too, have a goal to be like my father.",
+        "He is strong and kind and fair to everyone. I hope to rule as he did someday.",
+        "**Ike:** I'm sure you will then.",
+        "**Roy:** Thank you. Let's both do our best to be like our fathers."
+      ],
+      "Duo Skill": [
+        "\"Turn conviction\" \"into strength!\"",
+        "\"We will achieve\" \"victory!\""
+      ],
+      "Back Unit Supporting": [
+        "I believe in you.",
+        "I have your back."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Harmonic Brave Ike",
+    "SEARCH_NAME": "Harmonic Brave Ike",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Harmonic Brave Ike",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "ike",
+      "ike2",
+      "ike3",
+      "ike4",
+      "ike5",
+      "ike6",
+      "ike7",
+      "ike8"
+    ],
+    "prf": {
+      "": "urvanbrilliance",
+      "eff": "urvanbrilliance",
+      "atk": "urvanbrilliance",
+      "spd": "urvanbrilliance",
+      "def": "urvanbrilliance",
+      "res": "urvanbrilliance"
+    }
+  },
+  "lyn11": {
+    "name": "Lyn",
+    "title": "Glitters of Hope",
+    "description": "Lyn and Lucina continue to fight on, never giving up hope, even when forced to deal with harsh conditions. They appear in Fire Emblem: The Blazing Blade / Awakening.",
+    "origin": "The Blazing Blade + Awakening",
+    "artist": "cuboon",
+    "move": "Cavalry",
+    "weapon": "Bow",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1316",
+    "type": "duo",
+    "version": "9.11",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit.\nGrants another action to a certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit on the map who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Blade\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 8,
+      "res": 5
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 50,
+      "res": 45
+    },
+    "superboon": [
+      "spd",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Intrinsic Mulagir": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Sacae's Decree": "5"
+      },
+      "B": {
+        "Poison Strike 1": "2",
+        "Poison Strike 2": "3",
+        "Poison Strike 3": "4",
+        "Execution Breath": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Hone Assault": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Lyn_Glitters_of_Hope_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Lyn_Glitters_of_Hope_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Lyn_Glitters_of_Hope_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Lyn_Glitters_of_Hope_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Glitters of Hope",
+      "Lyn: Glitters of Hope",
+      "Harmonic Lyn",
+      "Harmonized Lyn",
+      "Harmonic CYL Lyn",
+      "Harmonized CYL Lyn",
+      "CYL Harmonic Lyn",
+      "CYL Harmonized Lyn",
+      "Harmonic Choose Your Legends Lyn",
+      "Harmonized Choose Your Legends Lyn",
+      "Choose Your Legends Harmonic Lyn",
+      "Choose Your Legends Harmonized Lyn",
+      "Harmonic Brave Lyn",
+      "Harmonized Brave Lyn",
+      "Brave Harmonic Lyn",
+      "Harmonized Brave Lyn",
+      "lyn11"
+    ],
+    "HARD_ALT_NAME": [
+      "Glitters of Hope",
+      "Lyn: Glitters of Hope",
+      "Harmonic Lyn",
+      "Harmonized Lyn",
+      "Harmonic CYL Lyn",
+      "Harmonized CYL Lyn",
+      "CYL Harmonic Lyn",
+      "CYL Harmonized Lyn",
+      "Harmonic Choose Your Legends Lyn",
+      "Harmonized Choose Your Legends Lyn",
+      "Choose Your Legends Harmonic Lyn",
+      "Choose Your Legends Harmonized Lyn",
+      "Harmonic Brave Lyn",
+      "Harmonized Brave Lyn",
+      "Brave Harmonic Lyn",
+      "Harmonized Brave Lyn",
+      "lyn11"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u53cc\u754c\u7dcf\u9078\u6319\u30ea\u30f3",
+    "voice": "Wendee Lee + Alexis Tipton",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7",
+      "fe13"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Lyn:** Endless skies above an ocean of windswept grass... I shall forever protect the land my mother loved.",
+        "**Lucina:** Rage and hatred can, at times, help one survive the day. But it takes more than that to preserve one's humanity.",
+        "**Lyn:** Lucina, don't try to do it all on your own. I'm with you. The same goes for you, [S].",
+        "**Lyn:** The people of the plains among whom I was born and raised were attacked and broken by bandits.\nYou had some difficult experiences too, didn't you, Lucina?",
+        "**Lucina:** People lived on, even in the future full of despair. So I will fight alongside them and never abandon hope."
+      ],
+      "Visit": [
+        "**Lyn:** I bring greetings to you from [F].\nStay friends, all right?"
+      ],
+      "Level": [
+        "**Lyn:** Honor the bravery of warriors! By the blood that flows in these veins, I shall grasp victory with integrity!",
+        "**Lyn:** Father... Mother... Watch over me.",
+        "**Lucina:** We should demonstrate to the people of this world that if you keep fighting, the light of hope will not fade."
+      ],
+      "Summon": [
+        "I am Lyndis. If a great battle is about to begin, know that I came here with Lucina to aid you!"
+      ],
+      "Learn Skill": [
+        "**Lyn:** Thank you! The voices of the people will not go unheard."
+      ],
+      "Confession": [
+        "**Lyn:** ...\n**Lucina:** Lyn? Is something wrong?\n**Lyn:** Not really... I was just thinking about my parents...\nMy mother, born to an aristocratic family, eloped with my father, a man of the plains. Then, I was born...\nIt's strange. Even now, I can feel them watching over me...always.\n**Lucina:** I think...I understand what you feel. No matter what world I'm in, my parents are with me in my heart.\nBonds connect the past and future... We may be able to fight together with them thanks to those bonds."
+      ],
+      "Special": [
+        "****Duo:**** Using our strength!",
+        "****Duo:**** \"Aim!\" \"Shoot!\"",
+        "**Lyn:** I never miss!",
+        "**Lucina:** We will strike true!"
+      ],
+      "Status": [
+        "-",
+        "\"I'm delighted to partner up with you.\" \"Likewise! I look forward to seeing what we can accomplish!\""
+      ],
+      "Map Select": [
+        "Which target?",
+        "Leave it to me.",
+        "We'll give it a shot."
+      ],
+      "Conversation": [
+        "**Lucina:** Lady Lyn, you work with that horse like it is an extension of you. That's truly amazing!",
+        "**Lyn:** *giggle* Thank you. The plains of Sacae are so vast, I rode horses all the time there.",
+        "I still have room for improvement. My father was far better at it than me.",
+        "**Lucina:** Your father... Was he also the one who taught you archery?",
+        "**Lyn:** He was. Horse riding... Archery... My father taught me everything I know.",
+        "**Lucina:** We have that in common, then. I learned much of what I know from my father as well.",
+        "I'm skilled with a lance now, but he also taught me the way of the sword and martial arts. *laugh* One time he-",
+        "**Lyn:** What?",
+        "**Lucina:** He smashed a practice dummy through a wall of our castle. Then I could come and go as I pleased.",
+        "**Lyn:** *laugh* It sounds as though you had quite an interesting father.",
+        "**Lucina:** He's strong, kind, and entertaining. I really love him.",
+        "I work to be more like him and to protect the world he loved.",
+        "**Lyn:** I want to become a strong warrior like my father and protect Sacae.",
+        "**Lucina:** We really are a lot alike! I can see us becoming close friends.",
+        "**Lyn:** I feel the same. I hope it's not too forward of me, but I'd like to ask something of you.",
+        "**Lucina:** Of course. What is it?",
+        "**Lyn:** I would like it if you just called me Lyn. I hope we can have a long and happy friendship, Lucina!"
+      ],
+      "Duo Skill": [
+        "\"Our target...\" \"There!\"",
+        "\"Taking...\" \"...aim!\""
+      ],
+      "Back Unit Supporting": [
+        "I'm watching over you.",
+        "My strength is yours."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Harmonic Brave Lyn",
+    "SEARCH_NAME": "Harmonic Brave Lyn",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Harmonic Brave Lyn",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "lyn",
+      "lyn2",
+      "lyn3",
+      "lyn4",
+      "lyn5",
+      "lyn6",
+      "lyn7",
+      "lyn8",
+      "lyn9",
+      "lyn10"
+    ],
+    "prf": {
+      "": "intrinsicmulagir",
+      "eff": "intrinsicmulagir",
+      "atk": "intrinsicmulagir",
+      "spd": "intrinsicmulagir",
+      "def": "intrinsicmulagir",
+      "res": "intrinsicmulagir"
+    }
+  },
+  "vanitas": {
+    "name": "Vanitas",
+    "title": "Hollow God",
+    "description": "A young god who rules an alternate Askran Kingdom. She is hostile toward Askr and any who associate with him.",
+    "origin": "Heroes",
+    "artist": "so-taro (\u5275-taro)",
+    "move": "Armored",
+    "weapon": "Breath",
+    "color": "Green",
+    "duel": false,
+    "id": "1317",
+    "type": "rearmed",
+    "version": "9.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 23,
+      "atk": 13,
+      "spd": 3,
+      "def": 13,
+      "res": 10
+    },
+    "growth": {
+      "hp": 65,
+      "atk": 80,
+      "spd": 35,
+      "def": 75,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "def"
+    ],
+    "weapons": {
+      "Fire Breath": "1",
+      "Fire Breath+": "2",
+      "Flametongue": "3",
+      "Arcane Outburst": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Dragon Ice": "5"
+    },
+    "passive": {
+      "A": {
+        "Unfledged God": "5"
+      },
+      "B": {
+        "Special Fighter 1": "2",
+        "Special Fighter 2": "3",
+        "Special Fighter 3": "4",
+        "Scowling Fighter": "5"
+      },
+      "C": {
+        "A/R Near Save 1": "2",
+        "A/R Near Save 2": "3",
+        "A/R Near Save 3": "4",
+        "A/R Twin M Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Vanitas_Hollow_God_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Vanitas_Hollow_God_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Vanitas_Hollow_God_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Vanitas_Hollow_God_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Hollow God",
+      "Vanitas: Hollow God",
+      "Rearmed Vanitas",
+      "Rearm Vanitas",
+      "R Vanitas",
+      "Arm Vanitas",
+      "Base Vanitas",
+      "Normal Vanitas",
+      "vanitas"
+    ],
+    "HARD_ALT_NAME": [
+      "Hollow God",
+      "Vanitas: Hollow God",
+      "Rearmed Vanitas",
+      "Rearm Vanitas",
+      "R Vanitas",
+      "Arm Vanitas",
+      "Base Vanitas",
+      "Normal Vanitas",
+      "vanitas"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u30f4\u30a1\u30cb\u30bf\u30b9\u5473\u65b9",
+    "voice": "Kelsey Jaffer",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "This is...Askr? It is so different than my Askr...",
+        "This world is mine...",
+        "I have learned your name, [S]...",
+        "You have nothing to do? Then...you may play with me...",
+        "Stairs... Books... There are many things to learn here."
+      ],
+      "Visit": [
+        "You...are a friend of [F]'s.\nAm I...correct?"
+      ],
+      "Level": [
+        "I think...I did well.",
+        "This was to be expected.",
+        "If I do not do something, Askr will be taken from me."
+      ],
+      "Summon": [
+        "I am Vanitas... My name and the land of Askr are all I have."
+      ],
+      "Learn Skill": [
+        "For me? You are...certain? This makes me happy."
+      ],
+      "Confession": [
+        "Grass... Stone... I am learning. Oh? What is it, [S]?\nI have seen all these things before, but there was no one to tell me what they were called.\nThe people in this castle have been kind to me... They have taught me so much.\nI...would like to repay you. If only there was something I could do...\nOh, there is no need to rush? Then... will you wait for me?\nI will learn as much as I can so that I can be useful to you..."
+      ],
+      "Special": [
+        "Who needs Askr?",
+        "It is my world.",
+        "I shall destroy them!",
+        "Come no closer."
+      ],
+      "Status": [
+        "Oh.",
+        "I am Vanitas. All I have is my name and the land of Askr.",
+        "What are you doing?",
+        "Askr takes what is mine. He is...unnecessary.",
+        "Is this a country? It is filled with so many people...",
+        "I do not understand. I was told my being here was enough...",
+        "I...am alone. I always will be...",
+        "It is permissible for me to be here? You are certain?"
+      ],
+      "Map Select": [
+        "Ah...",
+        "But...",
+        "Here."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed Vanitas",
+    "SEARCH_NAME": "Rearmed Vanitas",
+    "DISPLAY_NAME": "<:Green_Breath:1317239551693164595>Rearmed Vanitas",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "arcaneoutburst",
+      "eff": "arcaneoutburst",
+      "atk": "arcaneoutburst",
+      "spd": "arcaneoutburst",
+      "def": "arcaneoutburst",
+      "res": "arcaneoutburst"
     }
   }
 }

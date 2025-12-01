@@ -391,7 +391,8 @@
                 "Atk/Def Prime 4",
                 "Spd/Def Prime 4",
                 "Divine Toxin",
-                "Obsidian Tactics"
+                "Obsidian Tactics",
+                "Unfledged God"
             ],
             "B": [
                 "Full Disarm",
@@ -1032,7 +1033,8 @@
             "assist": [],
             "special": [],
             "A": [
-                "Heaven's Stead"
+                "Heaven's Stead",
+                "Sacae's Decree"
             ],
             "B": [
                 "A/R Far Trace 4",
@@ -1795,6 +1797,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Aether's Course",
                 "Aether's Path",
                 "Life Unending II"
             ],
@@ -2328,7 +2331,8 @@
             "special": [],
             "A": [
                 "Fortifications",
-                "Oath of Ostia"
+                "Oath of Ostia",
+                "Unfledged God"
             ],
             "B": [],
             "C": [
@@ -2684,7 +2688,9 @@
                 "Pleasant Night"
             ],
             "special": [],
-            "A": [],
+            "A": [
+                "Sacae's Decree"
+            ],
             "B": [
                 "Atk/Spd Favor",
                 "Atk/Def Favor"
@@ -4223,7 +4229,8 @@
             "Axe": [
                 "Gerbera Axe",
                 "Praise-Piner Axe",
-                "Twin Star Axe"
+                "Twin Star Axe",
+                "Urvan Brilliance"
             ],
             "Staff": [],
             "Bow": [
@@ -5176,6 +5183,7 @@
                 "Potent Assault",
                 "Potent 4",
                 "Potent Finish",
+                "Patience",
                 "Justice Enforcer"
             ],
             "C": [],
@@ -5226,7 +5234,8 @@
             "assist": [],
             "special": [],
             "A": [
-                "Prof's Guidance"
+                "Prof's Guidance",
+                "Sacae's Decree"
             ],
             "B": [
                 "Shield of Hope",
@@ -5317,6 +5326,35 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": []
+    },
+    "radianthero": {
+        "name": "Radiant Hero",
+        "description": "Unit can counterattack regardless of foe's range.\nGrants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 10 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, when Special triggers, deals damage = unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).",
+        "color": "Blue",
+        "icon": "radianthero",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [
+                "Urvan Brilliance"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Radiant Hero"
+        ]
     },
     "rallyspectrum": {
         "name": "Rally Spectrum",
@@ -5456,7 +5494,9 @@
             "special": [
                 "Holy-Knight II"
             ],
-            "A": [],
+            "A": [
+                "Sacae's Decree"
+            ],
             "B": [],
             "C": [],
             "X": [],
@@ -5596,6 +5636,7 @@
             "karla3": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Spring Karla",
             "leif3":"<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Scion Leif",
             "linde3":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Khadein Linde",
+            "lyn11": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Harmonic Brave Lyn",
             "lysithea3":"<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Winter Lysithea",
             "marisa3":"<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Jehanna Marisa",
             "mia3": "<:feh_harmonized:1317239586929377371><:Colorless_Dagger:1317239418943438869>Summer Mia",
@@ -5662,6 +5703,7 @@
             "dorothea3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Plegian Dorothea",
             "edelgard5": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Summer Edelgard",
             "goldmary": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary",
+            "ike9": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Harmonic Brave Ike",
             "nagi2": "<:feh_harmonized:1317239586929377371><:Red_Breath:1317239692189630504>Halloween Nagi",
             "roy5": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Groom Roy",
             "tiki10": "<:feh_harmonized:1317239586929377371><:Colorless_Breath:1317239411980767363>Bridal Adult Tiki",
@@ -5892,6 +5934,7 @@
                 "A/D Briar F Save",
                 "A/D Briar P Save",
                 "S/R Briar M Save",
+                "A/R Twin M Save",
                 "Darkling Dragon",
                 "For the True King",
                 "With Everyone!",
@@ -6310,6 +6353,7 @@
             ],
             "Staff": [],
             "Bow": [
+                "Intrinsic Mulagir",
                 "Truth Seeker"
             ],
             "Dagger": [],

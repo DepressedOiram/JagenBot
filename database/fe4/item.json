@@ -714,7 +714,7 @@
             "price per use": 1000,
             "sell": 25000
         },
-        "desc": "Grants +10 Strength, +10 Skill, +10 Defense.",
+        "desc": "Grants +10 Strength, +10 Speed, +10 Defense.",
         "reference": {
             "Other Effects": "Major <:dainn:1317239984473772104><a:major:1317240102463868958>D\u00e1inn blood units only."
         },
