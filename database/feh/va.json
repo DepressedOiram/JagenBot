@@ -2096,7 +2096,12 @@
       "Base Caspar",
       "Normal Caspar",
       "Regular Caspar",
-      "caspar"
+      "caspar",
+      "Lorenz: Red-Rose Noble",
+      "Base Lorenz",
+      "Normal Lorenz",
+      "Regular Lorenz",
+      "lorenz"
     ],
     "HARD_ALT_NAME": [
       "matthew",
@@ -2137,17 +2142,12 @@
       "Harvest Jakob",
       "Halloween Joker",
       "Harvest Joker",
-      "lorenz",
       "Summer Lorenz",
-      "lorenz1",
-      "king1",
-      "rolence1",
-      "lawrence1",
+      "lorenz2",
+      "king2",
+      "rolence2",
+      "lawrence2",
       "Highborn Heat",
-      "Lorenz",
-      "Lawrence",
-      "Rolence",
-      "King",
       "S Lorenz",
       "S Lawrence",
       "S Rolence",
@@ -2184,7 +2184,12 @@
       "Base Caspar",
       "Normal Caspar",
       "Regular Caspar",
-      "caspar"
+      "caspar",
+      "Lorenz: Red-Rose Noble",
+      "Base Lorenz",
+      "Normal Lorenz",
+      "Regular Lorenz",
+      "lorenz"
     ],
     "heroes": {
       "caspar": "<:Green_Axe:1317239517136031897>Caspar",
@@ -2192,7 +2197,8 @@
       "hayato": "<:Red_Tome:1317239730714316800>Hayato",
       "jakob": "<:Colorless_Dagger:1317239418943438869>Jakob",
       "jakob2": "<:Colorless_Bow:1317239404204654703>Halloween Jakob",
-      "lorenz": "<:Red_Tome:1317239730714316800>Summer Lorenz",
+      "lorenz": "<:Blue_Tome:1317239386491977749>Lorenz",
+      "lorenz2": "<:Red_Tome:1317239730714316800>Summer Lorenz",
       "matthew": "<:Colorless_Dagger:1317239418943438869>Matthew",
       "matthewR": "<:Colorless_Dagger:1317239418943438869>Matthew (Resplendent)",
       "saizo": "<:Colorless_Dagger:1317239418943438869>Saizo",
@@ -5459,7 +5465,11 @@
       "Resplendent Quan",
       "Resp Quan",
       "R Quan",
-      "Quan (Resplendent)"
+      "Quan (Resplendent)",
+      "Resplendent Brave Dimitri",
+      "Resp Brave Dimitri",
+      "R Brave Dimitri",
+      "Brave Dimitri (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Christmas Dimitri",
@@ -5572,13 +5582,18 @@
       "Resplendent Quan",
       "Resp Quan",
       "R Quan",
-      "Quan (Resplendent)"
+      "Quan (Resplendent)",
+      "Resplendent Brave Dimitri",
+      "Resp Brave Dimitri",
+      "R Brave Dimitri",
+      "Brave Dimitri (Resplendent)"
     ],
     "heroes": {
       "boey": "<:Green_Tome:1317239575352971396>Boey",
       "dimitri": "<:Blue_Lance:1317239378208096338>Dimitri",
       "dimitriR": "<:Blue_Lance:1317239378208096338>Dimitri (Resplendent)",
       "dimitri2": "<:Blue_Lance:1317239378208096338>Brave Dimitri",
+      "dimitri2R": "<:Blue_Lance:1317239378208096338>Brave Dimitri (Resplendent)",
       "dimitri3": "<:Blue_Lance:1317239378208096338>Legendary Dimitri",
       "dimitri4": "<:Blue_Lance:1317239378208096338>Fallen Dimitri",
       "dimitri5": "<:Green_Axe:1317239517136031897>Summer Dimitri",
@@ -5911,7 +5926,13 @@
       "Bride Seliph",
       "Bridal Seliph",
       "Groom Seliph",
-      "seliph4"
+      "seliph4",
+      "Worldly Artist",
+      "Ignatz: Worldly Artist",
+      "Base Ignatz",
+      "Normal Ignatz",
+      "Regular Ignatz",
+      "ignatz"
     ],
     "HARD_ALT_NAME": [
       "seliph",
@@ -5992,11 +6013,9 @@
       "Twelve Leaf",
       "Festival Leaf",
       "Holy Leaf",
-      "ignatz",
+      "ignatz2",
       "Winter Ignatz",
-      "ignatz1",
       "Snowscape Artist",
-      "Ignatz",
       "W Ignatz",
       "Christmas Ignatz",
       "seliph3",
@@ -6021,10 +6040,17 @@
       "Bride Seliph",
       "Bridal Seliph",
       "Groom Seliph",
-      "seliph4"
+      "seliph4",
+      "Worldly Artist",
+      "Ignatz: Worldly Artist",
+      "Base Ignatz",
+      "Normal Ignatz",
+      "Regular Ignatz",
+      "ignatz"
     ],
     "heroes": {
-      "ignatz": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
+      "ignatz": "<:Colorless_Bow:1317239404204654703>Ignatz",
+      "ignatz2": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
       "leif3": "<:Colorless_Bow:1317239404204654703>Harmonic Leif",
       "roderick": "<:Blue_Lance:1317239378208096338>Roderick",
       "seliph": "<:Red_Sword:1317239717707911188>Seliph",
@@ -12501,7 +12527,14 @@
       "Harmonic Lysithea",
       "Harmonized Lysithea",
       "Winter Lysithea",
-      "Christmas Lysithea"
+      "Christmas Lysithea",
+      "Duality Prodigy",
+      "Lysithea: Duality Prodigy",
+      "Rearmed Lysithea",
+      "Rearm Lysithea",
+      "R Lysithea",
+      "Arm Lysithea",
+      "lysithea5"
     ],
     "HARD_ALT_NAME": [
       "Janice Kawaye",
@@ -12539,13 +12572,21 @@
       "Duo Lysithea",
       "Harmonized Lysithea",
       "Winter Lysithea",
-      "Christmas Lysithea"
+      "Christmas Lysithea",
+      "Duality Prodigy",
+      "Lysithea: Duality Prodigy",
+      "Rearmed Lysithea",
+      "Rearm Lysithea",
+      "R Lysithea",
+      "Arm Lysithea",
+      "lysithea5"
     ],
     "heroes": {
       "lysithea": "<:Red_Tome:1317239730714316800>Lysithea",
       "lysithea2": "<:Red_Tome:1317239730714316800>Brave Lysithea",
       "lysithea3": "<:Colorless_Tome:1317239438602145842>Harmonic Lysithea",
-      "lysithea4": "<:Colorless_Tome:1317239438602145842>Maid Lysithea"
+      "lysithea4": "<:Colorless_Tome:1317239438602145842>Maid Lysithea",
+      "lysithea5": "<:Green_Tome:1317239575352971396>Rearmed Lysithea"
     },
     "name": "Janice Roman Roku"
   },
@@ -24594,7 +24635,12 @@
       "Harmonized Brave Ike",
       "Brave Harmonic Ike",
       "Harmonized Brave Ike",
-      "ike9"
+      "ike9",
+      "Opening Miracle",
+      "Alfonse: Opening Miracle",
+      "Chosen Alfonse",
+      "C Alfonse",
+      "alfonse6"
     ],
     "HARD_ALT_NAME": [
       "roy",
@@ -24797,7 +24843,12 @@
       "Harmonized Brave Ike",
       "Brave Harmonic Ike",
       "Harmonized Brave Ike",
-      "ike9"
+      "ike9",
+      "Opening Miracle",
+      "Alfonse: Opening Miracle",
+      "Chosen Alfonse",
+      "C Alfonse",
+      "alfonse6"
     ],
     "heroes": {
       "alfonse": "<:Red_Sword:1317239717707911188>Alfonse",
@@ -24805,6 +24856,7 @@
       "alfonse3": "<:Blue_Tome:1317239386491977749>Duo Alfonse",
       "alfonse4": "<:Green_Tome:1317239575352971396>Valentines Alfonse",
       "alfonse5": "<:Green_Axe:1317239517136031897>Brave Alfonse",
+      "alfonse6": "<:Red_Sword:1317239717707911188>Chosen Alfonse",
       "bramimond": "<:Colorless_Tome:1317239438602145842>Bramimond",
       "fernand": "<:Blue_Lance:1317239378208096338>Fernand",
       "gaius": "<:Colorless_Dagger:1317239418943438869>Gaius",
@@ -30839,25 +30891,35 @@
       "Plegian Raphael",
       "Plegia Raphael",
       "Plegian Rafael",
-      "Plegia Rafael"
+      "Plegia Rafael",
+      "Beast of Leicester",
+      "Raphael: Beast of Leicester",
+      "Base Raphael",
+      "Normal Raphael",
+      "Regular Raphael",
+      "raphael"
     ],
     "HARD_ALT_NAME": [
-      "raphael",
+      "raphael2",
       "Plegian Raphael",
-      "raphael1",
-      "rafael1",
+      "rafael2",
       "Muscle-Monger",
-      "Raphael",
-      "Rafael",
       "P Raphael",
       "P Rafael",
       "Paphael",
       "Plegia Raphael",
       "Plegian Rafael",
-      "Plegia Rafael"
+      "Plegia Rafael",
+      "Beast of Leicester",
+      "Raphael: Beast of Leicester",
+      "Base Raphael",
+      "Normal Raphael",
+      "Regular Raphael",
+      "raphael"
     ],
     "heroes": {
-      "raphael": "<:Colorless_Bow:1317239404204654703>Plegian Raphael"
+      "raphael": "<:Green_Axe:1317239517136031897>Raphael",
+      "raphael2": "<:Colorless_Bow:1317239404204654703>Plegian Raphael"
     },
     "name": "Zachery T. Rice"
   },

@@ -4762,7 +4762,13 @@
       "Dagdar: Reformed Bandit",
       "Base Dagdar",
       "Normal Dagdar",
-      "dagdar"
+      "dagdar",
+      "Beast of Leicester",
+      "Raphael: Beast of Leicester",
+      "Base Raphael",
+      "Normal Raphael",
+      "Regular Raphael",
+      "raphael"
     ],
     "HARD_ALT_NAME": [
       "osian",
@@ -4835,13 +4841,10 @@
       "Bunny Bartre",
       "Spring Bartr",
       "Bunny Bartr",
-      "raphael",
+      "raphael2",
       "Plegian Raphael",
-      "raphael1",
-      "rafael1",
+      "rafael2",
       "Muscle-Monger",
-      "Raphael",
-      "Rafael",
       "P Raphael",
       "P Rafael",
       "Paphael",
@@ -4885,7 +4888,13 @@
       "Dagdar: Reformed Bandit",
       "Base Dagdar",
       "Normal Dagdar",
-      "dagdar"
+      "dagdar",
+      "Beast of Leicester",
+      "Raphael: Beast of Leicester",
+      "Base Raphael",
+      "Normal Raphael",
+      "Regular Raphael",
+      "raphael"
     ],
     "heroes": {
       "bartre2": "<:Red_Sword:1317239717707911188>Spring Bartre",
@@ -4900,7 +4909,8 @@
       "mauvier": "<:Blue_Lance:1317239378208096338>Mauvier",
       "merlinus": "<:Colorless_Dagger:1317239418943438869>Merlinus",
       "osian": "<:Green_Axe:1317239517136031897>Osian",
-      "raphael": "<:Colorless_Bow:1317239404204654703>Plegian Raphael",
+      "raphael": "<:Green_Axe:1317239517136031897>Raphael",
+      "raphael2": "<:Colorless_Bow:1317239404204654703>Plegian Raphael",
       "sheenaR": "<:Green_Axe:1317239517136031897>Sheena (Resplendent)"
     },
     "name": "DAI-XT."
@@ -13613,7 +13623,12 @@
       "Entwined Sharena",
       "E Sharena",
       "En Sharena",
-      "sharena5"
+      "sharena5",
+      "Opening Miracle",
+      "Alfonse: Opening Miracle",
+      "Chosen Alfonse",
+      "C Alfonse",
+      "alfonse6"
     ],
     "HARD_ALT_NAME": [
       "lucy3",
@@ -13940,11 +13955,17 @@
       "Entwined Sharena",
       "E Sharena",
       "En Sharena",
-      "sharena5"
+      "sharena5",
+      "Opening Miracle",
+      "Alfonse: Opening Miracle",
+      "Chosen Alfonse",
+      "C Alfonse",
+      "alfonse6"
     ],
     "heroes": {
       "alfonse": "<:Red_Sword:1317239717707911188>Alfonse",
       "alfonse2": "<:Green_Axe:1317239517136031897>Spring Alfonse",
+      "alfonse6": "<:Red_Sword:1317239717707911188>Chosen Alfonse",
       "anna": "<:Green_Axe:1317239517136031897>Anna",
       "ash": "<:Colorless_Beast:1317239395534901248>Ash",
       "askr": "<:Colorless_Beast:1317239395534901248>Askr",
@@ -18340,7 +18361,13 @@
       "Base Yunaka",
       "A Yunaka",
       "Aide Yunaka",
-      "yunaka"
+      "yunaka",
+      "Worldly Artist",
+      "Ignatz: Worldly Artist",
+      "Base Ignatz",
+      "Normal Ignatz",
+      "Regular Ignatz",
+      "ignatz"
     ],
     "HARD_ALT_NAME": [
       "merricR",
@@ -18413,11 +18440,8 @@
       "Harvest Chainy",
       "Halloween Cheney",
       "Harvest Cheney",
-      "ignatz",
       "Winter Ignatz",
-      "ignatz1",
       "Snowscape Artist",
-      "Ignatz",
       "W Ignatz",
       "Christmas Ignatz",
       "Mercenary Waif",
@@ -18467,13 +18491,20 @@
       "Base Yunaka",
       "A Yunaka",
       "Aide Yunaka",
-      "yunaka"
+      "yunaka",
+      "Worldly Artist",
+      "Ignatz: Worldly Artist",
+      "Base Ignatz",
+      "Normal Ignatz",
+      "Regular Ignatz",
+      "ignatz"
     ],
     "heroes": {
       "bernadetta": "<:Colorless_Bow:1317239404204654703>Bernadetta",
       "farina": "<:Blue_Lance:1317239378208096338>Farina",
       "febail": "<:Blue_Bow:1317239347577356328>Febail",
-      "ignatz": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
+      "ignatz": "<:Colorless_Bow:1317239404204654703>Ignatz",
+      "ignatz2": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
       "matthis": "<:Blue_Lance:1317239378208096338>Matthis",
       "merricR": "<:Green_Tome:1317239575352971396>Merric (Resplendent)",
       "noah": "<:Blue_Lance:1317239378208096338>Noah",
@@ -18503,7 +18534,14 @@
       "Ruler of Dragons",
       "Naga: Ruler of Dragons",
       "Ancient Naga",
-      "naga3"
+      "naga3",
+      "Duality Prodigy",
+      "Lysithea: Duality Prodigy",
+      "Rearmed Lysithea",
+      "Rearm Lysithea",
+      "R Lysithea",
+      "Arm Lysithea",
+      "lysithea5"
     ],
     "HARD_ALT_NAME": [
       "Caring Noble",
@@ -18525,11 +18563,19 @@
       "Ruler of Dragons",
       "Naga: Ruler of Dragons",
       "Ancient Naga",
-      "naga3"
+      "naga3",
+      "Duality Prodigy",
+      "Lysithea: Duality Prodigy",
+      "Rearmed Lysithea",
+      "Rearm Lysithea",
+      "R Lysithea",
+      "Arm Lysithea",
+      "lysithea5"
     ],
     "heroes": {
       "citrinne": "<:Green_Tome:1317239575352971396>Citrinne",
       "kvasir2": "<:Green_Tome:1317239575352971396>New Year Kvasir",
+      "lysithea5": "<:Green_Tome:1317239575352971396>Rearmed Lysithea",
       "micaiah7": "<:Green_Tome:1317239575352971396>Attuned Micaiah",
       "naga3": "<:Colorless_Breath:1317239411980767363>Ancient Naga"
     },
@@ -20273,7 +20319,13 @@
       "G Holyn",
       "Ferox Holyn",
       "F Holyn",
-      "holyn2"
+      "holyn2",
+      "Red-Rose Noble",
+      "Lorenz: Red-Rose Noble",
+      "Base Lorenz",
+      "Normal Lorenz",
+      "Regular Lorenz",
+      "lorenz"
     ],
     "HARD_ALT_NAME": [
       "ryouma4",
@@ -20330,7 +20382,7 @@
       "Groom Nike",
       "walter1",
       "Macbeth",
-      "Rolence",
+      "Rolence2",
       "Normal Savor",
       "Brave Adult Tiki",
       "Hatarian Dean",
@@ -20387,7 +20439,7 @@
       "Base Hubert",
       "The Hurricane",
       "Base Macbeth",
-      "lorenz",
+      "lorenz2",
       "Base Ares",
       "Lionheart",
       "legault",
@@ -20407,7 +20459,7 @@
       "deen",
       "Normal Eldigan",
       "S Inigo",
-      "Lawrence",
+      "Lawrence2",
       "Laila",
       "Hatari Deen",
       "Nohr's Tactician",
@@ -20440,7 +20492,7 @@
       "hubert1",
       "B Nailah",
       "atiki3",
-      "lorenz1",
+      "lorenz2",
       "Normal Lagarto",
       "xander4",
       "Groom Nailah",
@@ -20460,7 +20512,7 @@
       "Brave Awakening Tiki",
       "Iago",
       "Bride Nike",
-      "lawrence1",
+      "lawrence2",
       "H Veronica",
       "echidna1",
       "NY Chambray",
@@ -20484,7 +20536,7 @@
       "Driven Mercenary",
       "Samurai at Ease",
       "Lander",
-      "king1",
+      "king2",
       "Legendary Marks",
       "Base Leila",
       "Ascended Laeg",
@@ -20500,7 +20552,7 @@
       "B Ryouma",
       "New years Chanbray",
       "yarne1",
-      "rolence1",
+      "rolence2",
       "xander5",
       "Hot Springs Ryoma",
       "Hatarian Deen",
@@ -20555,7 +20607,6 @@
       "aversa",
       "Ares",
       "Spa Ryoma",
-      "Lorenz",
       "Base Kagetsu",
       "Makubex",
       "Savor",
@@ -20563,7 +20614,7 @@
       "Bridal Nailah",
       "chromR",
       "S King",
-      "King",
+      "King2",
       "lobster4",
       "H Dean",
       "nailah",
@@ -20681,7 +20732,13 @@
       "G Holyn",
       "Ferox Holyn",
       "F Holyn",
-      "holyn2"
+      "holyn2",
+      "Red-Rose Noble",
+      "Lorenz: Red-Rose Noble",
+      "Base Lorenz",
+      "Normal Lorenz",
+      "Regular Lorenz",
+      "lorenz"
     ],
     "heroes": {
       "ares": "<:Red_Sword:1317239717707911188>Ares",
@@ -20706,7 +20763,8 @@
       "laegjarn4": "<:Colorless_Bow:1317239404204654703>Ascended Laegjarn",
       "legault": "<:Colorless_Dagger:1317239418943438869>Legault",
       "leila": "<:Colorless_Dagger:1317239418943438869>Leila",
-      "lorenz": "<:Red_Tome:1317239730714316800>Summer Lorenz",
+      "lorenz": "<:Blue_Tome:1317239386491977749>Lorenz",
+      "lorenz2": "<:Red_Tome:1317239730714316800>Summer Lorenz",
       "lucina8": "<:Colorless_Bow:1317239404204654703>Ninja Lucina",
       "nailah": "<:Blue_Beast:1317239339452731402>Nailah",
       "nailah2": "<:Green_Beast:1317239527953141870>Bridal Nailah",
@@ -25489,7 +25547,7 @@
       "marich1",
       "Winter Annette",
       "Resp Hector",
-      "ignatz",
+      "ignatz2",
       "Resplendent Larchel",
       "gaia1",
       "hilda4",
@@ -25594,7 +25652,7 @@
       "heath2": "<:Colorless_Bow:1317239404204654703>Ninja Heath",
       "hector4R": "<:Blue_Lance:1317239378208096338>Brave Hector (Resplendent)",
       "hilda4": "<:Red_Tome:1317239730714316800>Jugdral Hilda",
-      "ignatz": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
+      "ignatz2": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
       "kaden2": "<:Red_Beast:1317239666944114688>New Year Kaden",
       "laegjarnR": "<:Red_Sword:1317239717707911188>Laegjarn (Resplendent)",
       "larachelR": "<:Blue_Tome:1317239386491977749>L'Arachel (Resplendent)",
@@ -30569,6 +30627,18 @@
       "Resp Lloyd",
       "R Lloyd",
       "Lloyd (Resplendent)"
+    ]
+  },
+  "bikku": {
+    "heroes": {
+      "dimitri2R": "<:Blue_Lance:1317239378208096338>Brave Dimitri (Resplendent)"
+    },
+    "name": "bikku",
+    "ALT_NAME": [
+      "Resplendent Brave Dimitri",
+      "Resp Brave Dimitri",
+      "R Brave Dimitri",
+      "Brave Dimitri (Resplendent)"
     ]
   }
 }

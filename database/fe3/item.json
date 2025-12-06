@@ -757,13 +757,14 @@
             "effective": true
         }
     },
-    "shaver": {
-        "name": "Shaver",
+    "cuttinggale": {
+        "name": "Cutting Gale",
         "desc": "Effective against flying units.",
         "stats": {
             "wlv": 4,
             "mt": 5,
             "hit": 100,
+            "wt": 0,
             "crit": 20,
             "rng": "1-2",
             "uses": 30,
@@ -774,7 +775,10 @@
         "weapon": true,
         "equip": {
             "effective": true
-        }
+        },
+        "ALT_NAME": [
+            "Shaver"
+        ]
     },
     "elfire": {
         "name": "Elfire",

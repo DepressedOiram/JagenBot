@@ -361,6 +361,7 @@
                 "Eternal Breath",
                 "Frostfire Breath",
                 "Godly Breath",
+                "Lilac-Jade Breath",
                 "Oracle's Breath",
                 "Razing Breath",
                 "Zephyr Breath"
@@ -506,6 +507,7 @@
         "icon": "bulwark",
         "reference_weapon": {
             "Sword": [
+                "Chosen Sword",
                 "Fellowship Blade",
                 "Sublime Creator"
             ],
@@ -651,6 +653,8 @@
             "B": [
                 "Escape Route 4",
                 "Atk/Res Havoc",
+                "Spd/Def Havoc",
+                "Spd/Res Havoc",
                 "Firestorm Dance 3",
                 "Rockslide Dance 3",
                 "Atk/Spd Link 4",
@@ -680,7 +684,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto 1"
+            "Canto 1",
+            "Canto (1)"
         ]
     },
     "canto\uff12": {
@@ -740,7 +745,8 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Frostfire Breath"
+                "Frostfire Breath",
+                "Lilac-Jade Breath"
             ],
             "Beast": [
                 "Cute Paper Crane",
@@ -785,7 +791,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto 2"
+            "Canto 2",
+            "Canto (2)"
         ]
     },
     "canto\uff13": {
@@ -820,7 +827,8 @@
         "reference_skill": false,
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto 3"
+            "Canto 3",
+            "Canto (3)"
         ]
     },
     "cantocontrol": {
@@ -916,7 +924,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Rem"
+            "Canto Rem",
+            "Canto (Rem)"
         ]
     },
     "cantorem1": {
@@ -990,7 +999,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Rem +1"
+            "Canto Rem +1",
+            "Canto (Rem +1)"
         ]
     },
     "cantoremmin1": {
@@ -1016,6 +1026,7 @@
                     "Tome of Dusk"
                 ],
                 "Blue_Tome": [
+                    "Demonic Tome",
                     "Fell Flambeau",
                     "Spooky Lantern"
                 ],
@@ -1055,7 +1066,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Rem; Min 1"
+            "Canto Rem; Min 1",
+            "Canto (Rem; Min 1)"
         ]
     },
     "cantorem1min2": {
@@ -1112,7 +1124,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Rem +1; Min 2"
+            "Canto Rem +1; Min 2",
+            "Canto (Rem +1; Min 2)"
         ]
     },
     "cantodistmax3": {
@@ -1159,7 +1172,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Dist; Max 3"
+            "Canto Dist; Max 3",
+            "Canto (Dist; Max 3)"
         ]
     },
     "cantodist1max4": {
@@ -1196,7 +1210,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Ascendant King"
+            ],
             "A": [
                 "Lady Knight"
             ],
@@ -1217,7 +1233,8 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Dist +1; Max 4"
+            "Canto Dist +1; Max 4",
+            "Canto (Dist +1; Max 4)"
         ]
     },
     "cantodist2max5": {
@@ -1247,7 +1264,8 @@
         "reference_skill": false,
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Dist +2; Max 5"
+            "Canto Dist +2; Max 5",
+            "Canto (Dist +2; Max 5)"
         ]
     },
     "cantoally2": {
@@ -1359,7 +1377,8 @@
         "reference_skill": false,
         "reference_hero": {},
         "HARD_ALT_NAME": [
-            "Canto Unit 3x3"
+            "Canto Unit 3x3",
+            "Canto (Unit 3x3)"
         ]
     },
     "cantorecall": {
@@ -1961,10 +1980,12 @@
                     "Grimleal Text"
                 ],
                 "Blue_Tome": [
+                    "Argent Aura",
                     "Devoted Cup+"
                 ],
                 "Green_Tome": [
-                    "Arch-Sage Tome"
+                    "Arch-Sage Tome",
+                    "Suttungr's Mys."
                 ],
                 "Colorless_Tome": [
                     "Rite of Souls"
@@ -2244,6 +2265,7 @@
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": [
+                    "Bitter Winter",
                     "Exalt's Tactics"
                 ]
             },
@@ -2328,7 +2350,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Ascendant King"
+            ],
             "A": [
                 "Fortifications",
                 "Oath of Ostia",
@@ -2418,6 +2442,7 @@
                 "Bonded Blades",
                 "Hoshido Raijinto",
                 "Sharp War Sword",
+                "Spendy Scimitar",
                 "Swirling Scimitar"
             ],
             "Lance": [
@@ -2680,7 +2705,9 @@
                     "\u00D3\u00F0r of Creation"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Lilac-Jade Breath"
+            ],
             "Beast": []
         },
         "reference_skill": {
@@ -3342,7 +3369,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Ascendant King"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -3504,6 +3542,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Ascendant King",
                 "Invincible Sister",
                 "Makings of a King"
             ],
@@ -4217,6 +4256,7 @@
         "reference_weapon": {
             "Sword": [
                 "Lands Sword",
+                "Spendy Scimitar",
                 "Sword of Isaach"
             ],
             "Lance": [
@@ -4288,6 +4328,7 @@
         },
         "HARD_ALT_NAME": [
             "Dull All",
+            "Dull Bonuses",
             "Null Bonuses"
         ]
     },
@@ -4377,7 +4418,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Lilac-Jade Breath"
+            ],
             "Beast": []
         },
         "reference_skill": {
@@ -4742,6 +4785,7 @@
                     "Fell Flambeau"
                 ],
                 "Green_Tome": [
+                    "Suttungr's Mys.",
                     "Tiger Spirit"
                 ],
                 "Colorless_Tome": [
@@ -4976,7 +5020,8 @@
             },
             "Breath": [
                 "Everliving Breath",
-                "Faithful Breath"
+                "Faithful Breath",
+                "Lilac-Jade Breath"
             ],
             "Beast": []
         },
@@ -4986,7 +5031,8 @@
                 "Pleasant Night"
             ],
             "special": [
-                "Great Sacrifice"
+                "Great Sacrifice",
+                "Logic"
             ],
             "A": [
                 "Sly Swift Sparrow",
@@ -5223,7 +5269,9 @@
                 "Green_Tome": [
                     "Gla\u00f0sb\u00f3k"
                 ],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Bitter Winter"
+                ]
             },
             "Breath": [],
             "Beast": [
@@ -5235,7 +5283,8 @@
             "special": [],
             "A": [
                 "Prof's Guidance",
-                "Sacae's Decree"
+                "Sacae's Decree",
+                "True Genius"
             ],
             "B": [
                 "Shield of Hope",
@@ -5281,7 +5330,18 @@
             "Beast": [],
             "captain": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "True Genius"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -5495,7 +5555,8 @@
                 "Holy-Knight II"
             ],
             "A": [
-                "Sacae's Decree"
+                "Sacae's Decree",
+                "True Genius"
             ],
             "B": [],
             "C": [],
@@ -5789,6 +5850,7 @@
                 ],
                 "Blue_Tome": [
                     "Ancient Trickery",
+                    "Argent Aura",
                     "Total War Tome"
                 ],
                 "Green_Tome": [
@@ -5821,6 +5883,8 @@
             "A": [],
             "B": [
                 "Atk/Res Havoc",
+                "Spd/Def Havoc",
+                "Spd/Res Havoc",
                 "A/D Cantrip 3",
                 "A/R Cantrip 3",
                 "Atk/Def Snag 4",
@@ -5980,6 +6044,8 @@
             ],
             "B": [
                 "Atk/Res Havoc",
+                "Spd/Def Havoc",
+                "Spd/Res Havoc",
                 "Atk/Spd Ruse 4",
                 "Spd/Def Ruse 4",
                 "Full Light & Dark"
@@ -6204,6 +6270,7 @@
         "icon": "specialcooldowncharge",
         "reference_weapon": {
             "Sword": [
+                "Chosen Sword",
                 "Lion's Heart",
                 "Serving Knife+"
             ],
@@ -6736,7 +6803,24 @@
         "description": "Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)",
         "color": "Blue",
         "icon": "warpbubble",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [
+                "Lilac-Jade Breath"
+            ],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],

@@ -334,6 +334,10 @@ function Character:get_info()
         text = text .. string.format("%sEntwined Hero: %s\n", self:bouquet_icon(), 
         util.table_stats(self.data.boost, {value_start = "+"}))
     end
+
+    if self:is_chosen() then
+        text = text .. string.format("%s**%s Clash**", self:blessing_icon(), self.data.blessing)
+    end
     
     -- Check for Duel
     if self.data.duel then
@@ -724,6 +728,10 @@ function Character:fancy_short()
         text = self:bouquet_icon() .. text
     end
 
+    if self:is_chosen() then
+        text = self:blessing_icon() .. text
+    end
+
     return text
 end
 
@@ -822,6 +830,10 @@ end
 
 function Character:is_entwined()
     return (self.data.type ==  "entwined")
+end
+
+function Character:is_chosen()
+    return (self.data.type ==  "chosen")
 end
 
 function Character:has_resplendent()
@@ -1351,7 +1363,7 @@ function Quotes:show()
         end
     end
     
-    quote_page("Castle", pack:get("bond"), {"Summon", "Castle Hall", "Learn Skill", "Visit"})
+    quote_page("Castle", pack:get("bond"), {"Summon", "Introduction", "Castle Hall", "Learn Skill", "Visit"})
     quote_page("Status", pack:get("bubble"), {"Status"})
     quote_page("Conversation", pack:get("pairup"), {"Conversation"})
     quote_page("Battle", pack:get("manual"), {"Special", "Level", "Map Select", "Back Unit Supporting", "Duo Skill"})
