@@ -138,7 +138,8 @@
             "special": [],
             "A": [
                 "Atk/Spd Hexedge",
-                "Already Dead"
+                "Already Dead",
+                "Tunnel Vision"
             ],
             "B": [],
             "C": [
@@ -404,6 +405,7 @@
                 "S/R Lull Finish",
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
+                "Atk/Res Favor",
                 "Fair Fight",
                 "Fallen Star II",
                 "Haunting Choker",
@@ -484,6 +486,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/R Crux: Ploy",
                 "Inborn Idealism"
             ],
             "X": [],
@@ -1174,6 +1177,30 @@
         "HARD_ALT_NAME": [
             "Canto Dist; Max 3",
             "Canto (Dist; Max 3)"
+        ]
+    },
+    "cantodistmax3min1": {
+        "name": "Canto (Dist.; Max \uff13, Min \uff11)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position unit moved prior to taking action (max \uff13 min \uff11; if unit used a movement skill that warped them, unit can move \uff11 space(s).)",
+        "color": "Colorless",
+        "icon": "canto",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Future-Guided"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Canto Dist; Max 3; Min 1",
+            "Canto (Dist; Max 3, Min 1)"
         ]
     },
     "cantodist1max4": {
@@ -2241,7 +2268,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "ivy3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Winter Ivy"
+        },
         "HARD_ALT_NAME": [
             "Divine Vein Haze",
             "Haze Tile",
@@ -2720,7 +2749,8 @@
             ],
             "B": [
                 "Atk/Spd Favor",
-                "Atk/Def Favor"
+                "Atk/Def Favor",
+                "Atk/Res Favor"
             ],
             "C": [
                 "Divine God Fang",
@@ -2827,7 +2857,8 @@
                     "Tome of Storms"
                 ],
                 "Green_Tome": [
-                    "Arch-Sage Tome"
+                    "Arch-Sage Tome",
+                    "Winter Star"
                 ],
                 "Colorless_Tome": [
                     "Light of Etruria",
@@ -2873,6 +2904,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/R Crux: Ploy",
                 "Black Fang Bond",
                 "Covetous One",
                 "Divine Deceit"
@@ -3419,6 +3451,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/R Crux: Ploy",
                 "Divine Deceit"
             ],
             "X": [],
@@ -3497,6 +3530,7 @@
             ],
             "C": [
                 "Divine Deceit",
+                "Future-Guided",
                 "Glare"
             ],
             "X": [],
@@ -3546,7 +3580,9 @@
                 "Invincible Sister",
                 "Makings of a King"
             ],
-            "A": [],
+            "A": [
+                "Self-Mastery"
+            ],
             "B": [
                 "Speedtaker 4"
             ],
@@ -3800,6 +3836,7 @@
             "B": [
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
+                "Atk/Res Favor",
                 "Moonlit Slumber",
                 "Spoil Rotten"
             ],
@@ -4196,7 +4233,9 @@
                 "Holy-Knight Aura",
                 "Holy-Knight II"
             ],
-            "A": [],
+            "A": [
+                "Tunnel Vision"
+            ],
             "B": [
                 "Raging Tempest"
             ],
@@ -4786,7 +4825,8 @@
                 ],
                 "Green_Tome": [
                     "Suttungr's Mys.",
-                    "Tiger Spirit"
+                    "Tiger Spirit",
+                    "Winter Star"
                 ],
                 "Colorless_Tome": [
                     "Nightmare's Egg"
@@ -5166,6 +5206,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/R Crux: Ploy",
                 "Divine Deceit"
             ],
             "X": [],
@@ -5222,7 +5263,8 @@
             "A": [
                 "Air Superiority",
                 "Lady Knight",
-                "Obsession"
+                "Obsession",
+                "Tunnel Vision"
             ],
             "B": [
                 "Potent Disarm",
@@ -5694,6 +5736,7 @@
             "fir4": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Ferox Fir",
             "igrene3":"<:feh_harmonized:1317239586929377371><:Blue_Bow:1317239347577356328>Nabata Igrene",
             "ingrid4": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Maid Ingrid",
+            "ivy3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Winter Ivy",
             "karla3": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Spring Karla",
             "leif3":"<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Scion Leif",
             "linde3":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Khadein Linde",
@@ -5765,6 +5808,7 @@
             "edelgard5": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Summer Edelgard",
             "goldmary": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary",
             "ike9": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Harmonic Brave Ike",
+            "ivy3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Winter Ivy",
             "nagi2": "<:feh_harmonized:1317239586929377371><:Red_Breath:1317239692189630504>Halloween Nagi",
             "roy5": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Groom Roy",
             "tiki10": "<:feh_harmonized:1317239586929377371><:Colorless_Breath:1317239411980767363>Bridal Adult Tiki",
@@ -5999,6 +6043,8 @@
                 "A/D Briar P Save",
                 "S/R Briar M Save",
                 "A/R Twin M Save",
+                "D/R Twin F Save",
+                "S/D Twin P Save",
                 "Darkling Dragon",
                 "For the True King",
                 "With Everyone!",
@@ -6110,7 +6156,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [
+                "Festive Report"
+            ],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -6509,6 +6566,7 @@
             "A": [],
             "B": [],
             "C": [
+                "Future-Guided",
                 "Future-Sighted"
             ],
             "X": [],
@@ -6618,6 +6676,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/R Crux: Ploy",
                 "Encouragement"
             ],
             "X": [],

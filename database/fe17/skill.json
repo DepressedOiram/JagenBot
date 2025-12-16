@@ -4209,7 +4209,7 @@
   "rallyspectrum": {
     "name": "Rally Spectrum",
     "desc": "Use to grant adjacent allies +3 to all seven basic stats for 1 turn.",
-    "cost": 0,
+    "cost": 1500,
     "icon": "468",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 4 Sync)\nChrom (Lv. 4 Inheritance)"
@@ -4218,7 +4218,7 @@
   "rallyspectrum+": {
     "name": "Rally Spectrum+",
     "desc": "Use to grant allies within 2 spaces +3 to all seven basic stats for 1 turn.",
-    "cost": 1500,
+    "cost": 2000,
     "icon": "469",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 18 Sync)\nChrom (Lv. 18 Inheritance)"

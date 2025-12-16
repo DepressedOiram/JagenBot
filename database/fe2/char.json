@@ -524,7 +524,7 @@
         "fatigue": "none",
         "portrait": "kamui.png",
         "base": {
-            "hp": 34,
+            "hp": 24,
             "atk": 10,
             "skl": 5,
             "spd": 8,

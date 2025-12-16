@@ -67,31 +67,19 @@ function Character:final_base()
     
     local base = self:calc_base()
 
-    -- For reclass games
-    if not self.average_classic then
-        if self.helper_job_base and not self:is_personal() then         
-            base = util.math.add_stats(base, self.job:get_base())
+    base = util.math.add_stats(base, self.job:get_base())
+    base.hp = base.hp - self.job.data.base.hp
 
-            base.hp = base.hp - self.job.data.base.hp
-            base.wlv = base.wlv - self.job.data.base.wlv 
-            
-            if self.job.id ~= self.data.job then
-                local promo = self.job:promo_bonus(base)
-        
-                base = util.math.rise_stats(base, promo)
-            end
-          --[[
-            print(self.job.data.name)
-            if self.promo_remove_hp then
-                base.hp = base.hp - self.job:get_base().hp
-            end
-            print('reclass')
-            print(base.hp)
-            ]]
+    base.wlv = base.wlv - self.job.data.base.wlv 
+    
+    if self.job.id ~= self.data.job then
+        if (base.hp < self.job.data.base.hp) then
+            base.hp = math.max(self.job.data.base.hp, self.data.base.hp)
+        end
+        if (base.wlv < self.job.data.base.wlv) then
+            base.wlv = math.max(self.job.data.base.wlv, self.data.base.wlv)
         end
     end
-    
-    base = self:common_base(base)
     
     return base
 end

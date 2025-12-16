@@ -54928,7 +54928,7 @@
     "internal_id": "\u30ec\u30fc\u30f4\u30a1\u30c6\u30a4\u30f3\u5473\u65b9",
     "voice": "Sarah Williams",
     "resplendent": "Chiko (\u30c1\u30fc\u30b3)",
-    "resplendent_voice": "",
+    "resplendent_voice": "Sarah Williams",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Laevatein_Searing_Steel_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Laevatein_Searing_Steel_BtlFace.webp/revision/latest/",
@@ -66110,7 +66110,6 @@
     "HARD_ALT_NAME": [
       "bruno2",
       "Masked Hare",
-      "Bruno",
       "S Bruno",
       "Sruno",
       "Spring Bruno",
@@ -75672,7 +75671,7 @@
     "internal_id": "\u7dcf\u9078\u6319\u30a2\u30eb\u30e0",
     "voice": "Kyle McCarley",
     "resplendent": "Asatani Tomoyo (\u9ebb\u8c37\u77e5\u4e16)",
-    "resplendent_voice": "",
+    "resplendent_voice": "Kylen Deporter",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d6/Alm_Imperial_Ascent_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Alm_Imperial_Ascent_BtlFace.webp/revision/latest/",
@@ -75878,7 +75877,7 @@
     "internal_id": "\u7dcf\u9078\u6319\u30a8\u30ea\u30a6\u30c3\u30c9",
     "voice": "Yuri Lowenthal",
     "resplendent": "ayuko (\u5728\u7531\u5b50)",
-    "resplendent_voice": false,
+    "resplendent_voice": "Yuri Lowenthal",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Eliwood_Marquess_Pherae_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Eliwood_Marquess_Pherae_BtlFace.webp/revision/latest/",
@@ -159759,7 +159758,8 @@
     "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Sei\u00f0r",
     "alt": false,
     "reference": [
-      "seidr2"
+      "seidr2",
+      "seidr3"
     ],
     "prf": {
       "": "seidr",
@@ -163704,7 +163704,9 @@
     "SEARCH_NAME": "Rearmed Alfred",
     "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Rearmed Alfred",
     "alt": true,
-    "reference": [],
+    "reference": [
+      "alfred2"
+    ],
     "prf": {
       "": "arcaneqiangdef",
       "eff": "arcaneqiangdef",
@@ -175785,7 +175787,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "ivy"
+      "ivy",
+      "ivy3"
     ],
     "prf": {
       "": "divinedraught",
@@ -188288,7 +188291,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "seidr"
+      "seidr",
+      "seidr3"
     ],
     "prf": {
       "": "goddesstemari",
@@ -192171,7 +192175,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "ivy2"
+      "ivy2",
+      "ivy3"
     ],
     "prf": {
       "": "iceboundtome",
@@ -212342,7 +212347,7 @@
     "rarity": 5,
     "pool": "focus",
     "internal_id": "PID_\u9B54\u5668\u30EC\u30A4\u30E9",
-    "voice": "",
+    "voice": "Rebeka Thomas",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -213045,7 +213050,7 @@
     "rarity": 5,
     "pool": "seasonal",
     "internal_id": "PID_\u6BD4\u7FFC\u30EA\u30E5\u30FC\u30EB\u7537",
-    "voice": "",
+    "voice": "Brandon McInnis + Laura Stahl",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -213638,7 +213643,7 @@
     "rarity": 5,
     "pool": "seasonal",
     "internal_id": "PID_\u51AC\u796D\u30D5\u30A9\u30C7\u30B9",
-    "voice": "",
+    "voice": "Mark Whitten",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -213844,7 +213849,7 @@
     "rarity": 4,
     "pool": "grail",
     "internal_id": "PID_\u51AC\u796D\u30A8\u30A4\u30AF\u30B9\u30EB\u30CB\u30EB",
-    "voice": "",
+    "voice": "Howard Wang",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -214440,7 +214445,7 @@
     "rarity": 5,
     "pool": "seasonal",
     "internal_id": "PID_\u5e74\u660e\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0",
-    "voice": "",
+    "voice": "Anjali Kunapaneni",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -215734,7 +215739,7 @@
     "rarity": 3,
     "pool": "global",
     "internal_id": "PID_\u30c7\u30e5\u30fc",
-    "voice": "Kiba Walker",
+    "voice": "Casey Mongillo",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -217377,7 +217382,7 @@
     "rarity": 5,
     "pool": "seasonal",
     "internal_id": "PID_\u6BD4\u7FFC\u30EC\u30A2",
-    "voice": "",
+    "voice": "Cherami Leigh + Cassandra Lee Morris",
     "resplendent": false,
     "resplendent_voice": false,
     "images": {
@@ -220201,7 +220206,7 @@
     "rarity": 5,
     "pool": "focus",
     "internal_id": "PID_\u97FF\u5FC3\u30A2\u30EB\u30E0",
-    "voice": "",
+    "voice": "Kylen Deporter",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -223610,7 +223615,7 @@
     "rarity": 5,
     "pool": "global",
     "internal_id": "PID_\u95C7\u30EA\u30E5\u30FC\u30EB\u5973",
-    "voice": "",
+    "voice": "Laura Stahl",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -225467,7 +225472,7 @@
     "rarity": 5,
     "pool": "focus",
     "internal_id": "PID_\u97ff\u5fc3\u30b5\u30fc\u30ea\u30e3",
-    "voice": "",
+    "voice": "Stephanie Sheh",
     "resplendent": false,
     "resplendent_voice": false,
     "images": {
@@ -226934,7 +226939,7 @@
     "rarity": 5,
     "pool": "seasonal",
     "internal_id": "PID_\u6c34\u7740\u30e9\u30d4\u30b9",
-    "voice": "",
+    "voice": "Kimberly Woods",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -227466,7 +227471,7 @@
     "rarity": 5,
     "pool": "seasonal",
     "internal_id": "PID_\u6bd4\u7ffc\u30cf\u30d4",
-    "voice": "",
+    "voice": "Christine Marie Cabanos + Kirsten Day",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -228055,7 +228060,7 @@
     "rarity": 4,
     "pool": "seasonal",
     "internal_id": "PID_\u6c34\u7740\u30d8\u30a4\u30ba\u30eb\u30fc\u30f3",
-    "voice": "",
+    "voice": "Howard Wang",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -231097,7 +231102,7 @@
     "rarity": 5,
     "pool": "global",
     "internal_id": "PID_\u7dcf\u9078\u6319\u30a8\u30a4\u30af\u30b9",
-    "voice": "",
+    "voice": "Howard Wang",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -233143,7 +233148,7 @@
     "rarity": 5,
     "pool": "focus",
     "internal_id": "PID_\u9b54\u5668\u30d2\u30ce\u30ab",
-    "voice": "",
+    "voice": "Cindy Robinson",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -235295,7 +235300,7 @@
     "rarity": 5,
     "pool": "focus",
     "internal_id": "PID_\u9b54\u5668\u30bb\u30cd\u30ea\u30aa",
-    "voice": "",
+    "voice": "Kylen Deporter",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -239019,6 +239024,903 @@
       "spd": "meleeaxe",
       "def": "meleeaxe",
       "res": "meleeaxe"
+    }
+  },
+  "ivy3": {
+    "name": "Ivy",
+    "title": "Flurry Embrace",
+    "description": "The first princesses of Elusia and Nohr. They get along splendidly and are here to enjoy the winter festival to its fullest. They appear in Fire Emblem Engage / Fates.",
+    "origin": "Engage + Fates",
+    "artist": "Kakage (\u304b\u304b\u3052)",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Red",
+    "duel": false,
+    "id": "1323",
+    "type": "duo",
+    "version": "10.0",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011and \u3010Resonance: Shields\u3011to unit and allies from the same titles as unit.\nApplies\u3010Divine Vein (Haze)\u3011on closest foes' spaces and on each space within 2 spaces of those spaces for 2 turns.\n\u3010Resonance: Blades\u3011\nGrants Atk/Spd+4 during combat for 1 turn.\n\u3010Resonance: Shields\u3011\nGrants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\"\n\u3010Divine Vein (Haze)\u3011\nApplies the following effects on space: Inflicts Atk/Spd/Def/Res-5 on foe and neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat. (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)",
+    "emblem": false,
+    "base": {
+      "hp": 17,
+      "atk": 10,
+      "spd": 8,
+      "def": 4,
+      "res": 13
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 60,
+      "def": 35,
+      "res": 80
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Flux": "1",
+      "Ruin": "2",
+      "Fenrir": "3",
+      "Cozy Candles": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Ice Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Tunnel Vision": "5"
+      },
+      "B": {
+        "Sabotage Res 1": "2",
+        "Sabotage Res 2": "3",
+        "Sabotage Res 3": "4",
+        "Spd/Res Havoc": "5"
+      },
+      "C": {
+        "Spd/Res Rein 1": "2",
+        "Spd/Res Rein 2": "3",
+        "Spd/Res Rein 3": "4",
+        "S/R Crux: Ploy": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Ivy_Flurry_Embrace_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Ivy_Flurry_Embrace_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Ivy_Flurry_Embrace_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Ivy_Flurry_Embrace_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Flurry Embrace",
+      "Ivy: Flurry Embrace",
+      "Winter Ivy",
+      "W Ivy",
+      "Christmas Ivy",
+      "C Ivy",
+      "Harmonic Ivy",
+      "Harmonized Ivy",
+      "H Ivy",
+      "Duo Ivy",
+      "ivy3"
+    ],
+    "HARD_ALT_NAME": [
+      "Flurry Embrace",
+      "Ivy: Flurry Embrace",
+      "Winter Ivy",
+      "W Ivy",
+      "Christmas Ivy",
+      "C Ivy",
+      "Harmonic Ivy",
+      "Harmonized Ivy",
+      "H Ivy",
+      "Duo Ivy",
+      "ivy3"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u53cc\u754c\u30a2\u30a4\u30d3\u30fc",
+    "voice": "Reba Buhr + Misty Lee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17",
+      "fe14"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Ivy:** Choosing gifts is fun. This is for the Divine Dragon. That's for Hortensia. And this...is for my late father.",
+        "**Camilla:** It seems traditional to deliver winter- festival gifts on a sleigh... In our case, wyverns might be more appropriate.",
+        "**Ivy:** Camilla's outfit reminds me of the Vervain deer near my hometown, though they never got this close...",
+        "**Camilla:** The kingdoms of Nohr and Elusia are frigid lands. Those of us familiar with that cold know how to keep warm.",
+        "**Ivy:** Oh. A winter-festival feast has been prepared. Camilla, what do you like? Hmm? Lightly roasted beef?"
+      ],
+      "Visit": [
+        "**Ivy:** Did I wake you? I was trying not to disturb your sleep while I delivered gifts from [F]."
+      ],
+      "Level": [
+        "**Ivy:** What a nice winter festival this has been. I almost felt like a child again.",
+        "**Camilla:** How lovely. This is thanks to you, Ivy. Would you show me that strong pose of yours again?",
+        "**Ivy:** I should be used to dealing with the cold, but...I may have just gotten a bit too excited."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Ivy, crown princess of Elusia. I am here enjoying the winter festival with Camilla, the eldest princess of Nohr."
+      ],
+      "Learn Skill": [
+        "**Ivy:** Is this a winter-festival gift? It's so delightful to be given something in person like this."
+      ],
+      "Confession": [
+        "**Ivy:** That's it for handing out gifts tonight. The snow has picked up, but you seem to be handling it fine, Camilla.\n**Camilla:** So far. If this were enemy territory, we could set it on fire to warm things up... Sorry, was that too aggressive?\n**Ivy:** No, it made me nostalgic. I recall you had a technique called Dark Inferno as an Emblem. It was quite useful.\n**Camilla:** Haha! You have a ruthless streak too. I can't use that technique, but I might have other ways to keep you warm.\n**Ivy:** You're getting pretty close, Camilla. Are you going to give me another of your hugs? Wait. Is this...a scarf?\n**Camilla:** It's a winter-festival gift. I knitted it with you in mind. I'd be delighted if you accepted it.\n**Ivy:** Thank you! I will treasure it always. Now that our deliveries are done, I have a gift I set aside for you too."
+      ],
+      "Special": [
+        "**Duo:** Be good!",
+        "**Duo:** \"Celebrating-\" \"together!\"",
+        "**Ivy:** Merry Engage!",
+        "**Camilla:** I will freeze you."
+      ],
+      "Status": [
+        "-",
+        "\"Let us celebrate together, Camilla. Um... You are very close.\" \"It's chilly out! We should share our warmth, Princess Ivy.\""
+      ],
+      "Map Select": [
+        "Such beautiful snow.",
+        "I don't mind the cold.",
+        "Are there good children?"
+      ],
+      "Conversation": [
+        "**Ivy:** Camilla. I am pleased I can celebrate the winter festival with you. Seeing you again... It's like a dream.",
+        "**Camilla:** I understand I was an Emblem in Elyos. Knowing Corrin was there too makes me very happy.",
+        "**Ivy:** Yes, though you resided in a bracelet, while Corrin resided in a ring. You were so much help to me there.",
+        "**Camilla:** Knowing another me was so close to you but it wasn't me makes me just a little jealous.",
+        "But right now, I'm closest to you. So, why don't we take this time to learn more about each other?",
+        "**Ivy:** Yes. Tell me then. That child, Elise, who was handing out gifts before\u2014 she is your younger sister, correct?",
+        "I have noticed Hortensia looks up to and adores her. Our younger sisters appear to have grown quite close.",
+        "**Camilla:** Hortensia... Ah! That adorable girl! She really does resemble you.",
+        "**Ivy:** She resembles me? I've never been told that before. Hortensia and I have different mothers, so...",
+        "**Camilla:** As it is for me and Elise. Being alike and forming strong bonds is more than shared blood and appearances.",
+        "**Ivy:** Thank you, Camilla. We seem to have a lot in common, like both of us being the eldest princess.",
+        "**Camilla:** We should spend more time together at this winter festival. Oh, look, it's started snowing.",
+        "**Ivy:** It's getting quite cold... Perhaps we could find a hot spring in which to relax and continue our conversation?",
+        "**Camilla:** Huh? Oh. Y-yes, let's! I'm grateful for your offer, but I'm surprised you were the first to suggest it.",
+        "**Ivy:** I once made a promise...to Emblem Camilla. Ultimately, we could never enjoy a hot spring together.",
+        "It was not possible at the time, but I thought perhaps it would happen one day. And now, it can.",
+        "**Camilla:** Yes, it can. I will help you fulfill your promise. Let us get to know each other better someplace warm, then."
+      ],
+      "Duo Skill": [
+        "\"Uh oh.\" \"Naughty child.\"",
+        "\"Such a cutie.\" \"I am?\""
+      ],
+      "Back Unit Supporting": [
+        "I'll warm you up.",
+        "You're lovely, Princess Ivy."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Winter Ivy",
+    "SEARCH_NAME": "Winter Ivy",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Winter Ivy",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ivy",
+      "ivy2"
+    ],
+    "prf": {
+      "": "cozycandles",
+      "eff": "cozycandles",
+      "atk": "cozycandles",
+      "spd": "cozycandles",
+      "def": "cozycandles",
+      "res": "cozycandles"
+    }
+  },
+  "seidr3": {
+    "name": "Sei\u00f0r",
+    "title": "Candlelit Hope",
+    "description": "Goddess of Vanaheimr, the realm of light. She descends from the heavens to light people's hearts with hope as a winter-festival envoy.",
+    "origin": "Heroes",
+    "artist": "Tetsubuta (\u3066\u3064\u3076\u305f)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": false,
+    "id": "1324",
+    "type": false,
+    "version": "10.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 16,
+      "atk": 11,
+      "spd": 8,
+      "def": 5,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 50,
+      "def": 35,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Winter Star": "5"
+    },
+    "assist": {
+      "Reposition": "3"
+    },
+    "special": {
+      "Rising Light": "3",
+      "Blazing Light": "4"
+    },
+    "passive": {
+      "A": {
+        "Still Water 1": "2",
+        "Still Water 2": "3",
+        "Still Water 3": "4",
+        "Crystalline Water": "5"
+      },
+      "B": {
+        "Atk/Res Link 1": "2",
+        "Atk/Res Link 2": "3",
+        "Atk/Res Link 3": "4",
+        "Atk/Res Favor": "5"
+      },
+      "C": {
+        "Future-Guided": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Seidr_Candlelit_Hope_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Seidr_Candlelit_Hope_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Seidr_Candlelit_Hope_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/Seidr_Candlelit_Hope_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Candlelit Hope",
+      "Sei\u00f0r: Candlelit Hope",
+      "Winter Sei\u00f0r",
+      "Christmas Sei\u00f0r",
+      "W Sei\u00f0r",
+      "sei\u00f0r3",
+      "Seior: Candlelit Hope",
+      "Winter Seior",
+      "Christmas Seior",
+      "W Seior",
+      "seior3",
+      "Seidr: Candlelit Hope",
+      "Winter Seidr",
+      "Christmas Seidr",
+      "W Seidr",
+      "seidr3"
+    ],
+    "HARD_ALT_NAME": [
+      "Candlelit Hope",
+      "Sei\u00f0r: Candlelit Hope",
+      "Winter Sei\u00f0r",
+      "Christmas Sei\u00f0r",
+      "W Sei\u00f0r",
+      "sei\u00f0r3",
+      "Seior: Candlelit Hope",
+      "Winter Seior",
+      "Christmas Seior",
+      "W Seior",
+      "seior3",
+      "Seidr: Candlelit Hope",
+      "Winter Seidr",
+      "Christmas Seidr",
+      "W Seidr",
+      "seidr3"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u51ac\u796d\u30bb\u30a4\u30ba",
+    "voice": "Valeria Rodriguez",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "The joy of mortals is a heartfelt gift... I will put all my heart into my duty as an envoy of the winter festival.",
+        "Vanaheimr is the realm of light. The gorgeous light illuminating the winter festival feels similarly warm to me.",
+        "Do you want a gift too? You needn't worry, I have something prepared for you, [S].",
+        "If I were to give a gift to Hei\u00f0r... Yes, a cozy mantle might be just right.",
+        "This is official winter-festival-envoy attire? It feels unseasonably light, but I'm sure it holds great significance."
+      ],
+      "Visit": [
+        "I have delivered the gifts. Um...would you happen to know the way back to [F]'s?"
+      ],
+      "Level": [
+        "Light and hope to mortals. That is the wish of the goddess of Vanaheimr.",
+        "The gifts are all delivered. I have fulfilled my duty as an envoy.",
+        "Oh... N-no, of course I didn't lose my way. I'm just taking some extra time."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Sei\u00f0r, goddess of Vanaheimr, the realm of light. Let us give hope for the future at Askr's winter festival."
+      ],
+      "Learn Skill": [
+        "Your sincerity is clear. This will truly be a wonderful winter's night."
+      ],
+      "Confession": [
+        "Bringing light into the lives of mortals is a goddess of Vanaheimr's mission. Light means hope.\nTherefore, a winter-festival envoy is fulfilling a similar role by bringing hope and joy to people.\nGiven that, it is only natural that I would serve as an envoy. I consider it a role well-suited to me.\nI want to deliver as many gifts as possible so that people can have a morning of hope. That is my wish.\nOh, and I'd like to go visit that big decorated tree before the new day begins too.\nWould you consider accompanying me on this holy night? Not that I am lost or anything..."
+      ],
+      "Special": [
+        "On this merciful night...",
+        "A gift for you.",
+        "I bless you.",
+        "For the winter festival."
+      ],
+      "Status": [
+        "-",
+        "As I am a goddess, I shall bestow gifts upon the children of Midgard.",
+        "*startle* You are up to this again, I see...",
+        "The decorations in town are so pretty. I imagine Hei\u00f0r would be delighted to see them.",
+        "*sigh* This festival is like a shining light in the cold, dark winter.",
+        "I am here to deliver presents. Oh, but... Where am I?",
+        "What do I want? Well, I...",
+        "Tell me what it is you want and if I can grant it, I will."
+      ],
+      "Map Select": [
+        "Whatever you need.",
+        "Which way?",
+        "I shall deliver."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Winter Sei\u00f0r",
+    "SEARCH_NAME": "Winter Sei\u00f0r",
+    "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Winter Sei\u00f0r",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "seidr",
+      "seidr2"
+    ],
+    "prf": {
+      "": "winterstar",
+      "eff": "winterstar",
+      "atk": "winterstar",
+      "spd": "winterstar",
+      "def": "winterstar",
+      "res": "winterstar"
+    }
+  },
+  "gatekeeper2": {
+    "name": "Gatekeeper",
+    "title": "Midwinter Toil",
+    "description": "The guard who watches over the gates of Garreg Mach Monastery. He gives it his all after being chosen as a winter-festival envoy. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Daisuke Izuka",
+    "move": "Armored",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1325",
+    "type": false,
+    "version": "10.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 22,
+      "atk": 7,
+      "spd": 4,
+      "def": 15,
+      "res": 10
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 65,
+      "spd": 40,
+      "def": 75,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "def"
+    ],
+    "weapons": {
+      "Stone": "1",
+      "Elstone": "2",
+      "Atlas": "3",
+      "Oliphant Calling": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Ice Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Def/Res Bond 1": "2",
+        "Def/Res Bond 2": "3",
+        "Def/Res Bond 3": "4",
+        "Def/Res Aria": "5"
+      },
+      "B": {
+        "Festive Report": "5"
+      },
+      "C": {
+        "D/R Far Save 1": "2",
+        "D/R Far Save 2": "3",
+        "D/R Far Save 3": "4",
+        "D/R Twin F Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Gatekeeper_Midwinter_Toil_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/76/Gatekeeper_Midwinter_Toil_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Gatekeeper_Midwinter_Toil_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Gatekeeper_Midwinter_Toil_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Gatekeeper: Midwinter Toil",
+      "Winter Gatekeeper",
+      "Christmas Gatekeeper",
+      "W Gatekeeper",
+      "gatekeeper2"
+    ],
+    "HARD_ALT_NAME": [
+      "Gatekeeper: Midwinter Toil",
+      "Winter Gatekeeper",
+      "Christmas Gatekeeper",
+      "W Gatekeeper",
+      "gatekeeper2"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u51ac\u796d\u9580\u756a",
+    "voice": "Kylen Deporter",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I made a promise to deliver gifts to all the good little Heroes!",
+        "My parents are from the Adrestian Empire. I sure hope they can enjoy the winter festivities this year.",
+        "Don't worry, I'll conceal my horn today. Besides, all this work would be for nothing if I woke everyone up.",
+        "I wonder if the Hresvelgion whisker, Riegan tabby, or Blaiddyd rex will pitch in with this year's festival.",
+        "What do you think of my attire? It's not my usual, but I guess it's more suitable for the winter festival."
+      ],
+      "Visit": [
+        "Please, accept this winter gift. I've come to you as gatekeeper of [F]'s castle."
+      ],
+      "Level": [
+        "At ease, Summoner! Nothing to report at the winter festival!",
+        "I am living up to my duty as winter envoy!",
+        "Huh? I haven't grown at all! What a shame, to be bested by the cold..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "The winter festival season is here, and I've been given the role of winter envoy. I'll do my best to live up to it!"
+      ],
+      "Learn Skill": [
+        "You also have a gift for me?! You know just how to motivate me! Thank you."
+      ],
+      "Confession": [
+        "I'm fully devoted to my job of preventing intruders. No one suspicious gets past me!\nYet, for this winter festival, I'm the one sneaking into people's houses...\nWell, not so much sneaking. More like delivering dreams!\nThat's actually something I've wanted to do for a long time\u2014deliver dreams to someone, like Heroes do...\nHah... Thank you for allowing me to take on the role of winter envoy this season, [S].\nAnd tomorrow, when this is all over, I'll be gatekeeper again.\nI will continue to fulfill my duties with these memories tucked away in my heart forever!"
+      ],
+      "Special": [
+        "The winter festival!",
+        "A present for you!",
+        "I'll deliver the gifts!",
+        "It's pretty, huh?"
+      ],
+      "Status": [
+        "-",
+        "I'll carry out my duties as winter envoy to the best of my ability!",
+        "Hey, now! You might make me drop the presents!",
+        "Of course, I'd be happy to receive a box of fishing supplies.",
+        "Nothing to report! Even at the winter festival, I won't let my guard down.",
+        "Hmm... It is a challenge telling suspicious people apart from those in winter costumes...",
+        "Funny. I'm used to keeping people out, and now here I am sneaking into strangers' houses...",
+        "I'll accept the responsibility of delivering your gift!"
+      ],
+      "Map Select": [
+        "Duly noted!",
+        "Which house next?",
+        "I will deliver!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Winter Gatekeeper",
+    "SEARCH_NAME": "Winter Gatekeeper",
+    "DISPLAY_NAME": "<:Colorless_Tome:1317239438602145842>Winter Gatekeeper",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "gatekeeper"
+    ],
+    "prf": {
+      "": "oliphantcalling",
+      "eff": "oliphantcalling",
+      "atk": "oliphantcalling",
+      "spd": "oliphantcalling",
+      "def": "oliphantcalling",
+      "res": "oliphantcalling"
+    }
+  },
+  "alfred2": {
+    "name": "Alfred",
+    "title": "Joyous Snowdrop",
+    "description": "First prince of Firene. He works hard at training in the snow. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "hanada (\u306F\u306A\u3060)",
+    "move": "Armored",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1326",
+    "type": false,
+    "version": "10.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 22,
+      "atk": 10,
+      "spd": 14,
+      "def": 13,
+      "res": 3
+    },
+    "growth": {
+      "hp": 65,
+      "atk": 90,
+      "spd": 75,
+      "def": 80,
+      "res": 35
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Snow-Fit Lance": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Flame Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Self-Mastery": "5"
+      },
+      "B": {
+        "Pair Up 1": "2",
+        "Pair Up 2": "3",
+        "Pair Up 3": "4",
+        "Pair Up 4": "5"
+      },
+      "C": {
+        "A/D Near Save 1": "2",
+        "A/D Near Save 2": "3",
+        "A/D Near Save 3": "4",
+        "S/D Twin P Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Alfred_Joyous_Snowdrop_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2a/Alfred_Joyous_Snowdrop_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/96/Alfred_Joyous_Snowdrop_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Alfred_Joyous_Snowdrop_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Alfred: Joyous Snowdrop",
+      "Winter Alfred",
+      "Christmas Alfred",
+      "W Alfred",
+      "alfred2"
+    ],
+    "HARD_ALT_NAME": [
+      "Alfred: Joyous Snowdrop",
+      "Winter Alfred",
+      "Christmas Alfred",
+      "W Alfred",
+      "alfred2"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u51ac\u796d\u30a2\u30eb\u30d5\u30ec\u30c3\u30c9",
+    "voice": "Nick Wolfhard",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I was often sick when I was young, especially during this season. But now, I'm the epitome of health!",
+        "This festival is a beautiful sight. Back in Firene, we mainly celebrate the springtime. But why not winter, too?!",
+        "Huh... I heard you sneeze. Are you feeling OK? Be sure to dress warmly so you can stay healthy.",
+        "I'm just basking in the joys of winter. Beautiful flames lighting up the night sky, warm drinks amidst the snow...",
+        "I've got muscle balms, brawny cookies\u2014No, no... These aren't for training. They're gifts for the kids!"
+      ],
+      "Visit": [
+        "Hey there! Won't you accept this gift? I ran all the way through the snow from [F]'s castle."
+      ],
+      "Level": [
+        "Hahaha! This is nice. Was it all my training in the snow that did it?",
+        "To me, this achievement is the greatest gift of the winter festival.",
+        "Does anyone else feel chilly? I need to warm up somehow."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Hoo! Is this the festival venue?! I'm Alfred, crown prince of Firene... I ran through the snowy fields to get here!"
+      ],
+      "Learn Skill": [
+        "I'm delighted to receive a winter festival gift from you. Thank you."
+      ],
+      "Confession": [
+        "Are you patrolling here? I was just thinking of delivering a gift to the Divine Dragon.\nYou know, this isn't the first time I've brought a gift to the Divine Dragon's bedside.\nWhen I visited Lythos as a child, I made an offering of wildflowers while the Divine Dragon slept.\nWhen I think back on it though, it may have been a bit disrespectful to approach such a divine entity.\nBut now I feel blessed that we've become friends.\nThe Divine Dragon doesn't sleep as deeply now, so... I must be light on my feet.\nYou should sleep, too. When you wake up, you might find a gift for your muscles beside your pillow!"
+      ],
+      "Special": [
+        "Disperse with the snow!",
+        "Getting warm!",
+        "A joyous gift.",
+        "Winter engage!"
+      ],
+      "Status": [
+        "-",
+        "Hoo! Nothing beats going for a run in the snow. It's good training!",
+        "Oh! Do I have some snow on me? *chuckle* I was just running outside.",
+        "It's great to exercise your muscles in the cold. Not only does it make you healthy, but it warms you up too!",
+        "Leave the heavy gifts to me! I'll make carrying them a part of my training.",
+        "Snowflakes are much like flowers. Ah, they're so beautiful, it's such a shame when they melt...",
+        "You receive presents if you're good, huh? Well, I've only ever wanted one thing since I was a child...",
+        "You'll never guess the gifts I've gathered... They're good for your muscles... Oh, I'm sure you can't wait any longer. For you, I've got a special turkey-flavored supplement!"
+      ],
+      "Map Select": [
+        "Yes?",
+        "A snow flower, huh?",
+        "Delivering joy."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Winter Alfred",
+    "SEARCH_NAME": "Winter Alfred",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Winter Alfred",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "alfred"
+    ],
+    "prf": {
+      "": "snowfitlance",
+      "eff": "snowfitlance",
+      "atk": "snowfitlance",
+      "spd": "snowfitlance",
+      "def": "snowfitlance",
+      "res": "snowfitlance"
+    }
+  },
+  "zelkov": {
+    "name": "Zelkov",
+    "title": "Winter Shadow",
+    "description": "A royal knight from Elusia and Ivy's retainer. He \ufe61looks forward\ufe61 to delivering presents to the \ufe61children.\ufe61 Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Akira Egawa (\u6c5f\u5ddd\u3042\u304d\u3089)",
+    "move": "Infantry",
+    "weapon": "Dagger",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1327",
+    "type": false,
+    "version": "10.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 7,
+      "res": 9
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 75,
+      "spd": 90,
+      "def": 75,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "atk",
+      "def"
+    ],
+    "weapons": {
+      "Iron Dagger": "1",
+      "Steel Dagger": "2",
+      "Winter Trinket": "3",
+      "Winter Trinket+": "5" 
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Finish 1": "3",
+        "Atk/Spd Finish 2": "4",
+        "Atk/Spd Finish 3": "5"
+      },
+      "B": {
+        "Spd/Def Tempo 1": "1",
+        "Spd/Def Tempo 2": "2",
+        "Spd/Def Tempo 3": "4"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Zelkov_Winter_Shadow_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Zelkov_Winter_Shadow_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Zelkov_Winter_Shadow_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Zelkov_Winter_Shadow_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Zelkov: Joyous Snowdrop",
+      "Winter Zelkov",
+      "Christmas Zelkov",
+      "W Zelkov",
+      "zelkov"
+    ],
+    "HARD_ALT_NAME": [
+      "Zelkov: Joyous Snowdrop",
+      "Winter Zelkov",
+      "Christmas Zelkov",
+      "W Zelkov",
+      "zelkov"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "grail",
+    "internal_id": "PID_\u51ac\u796d\u30bc\u30eb\u30b3\u30d0",
+    "voice": "David Matranga",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I'll admit I am more *\ufe61*merry*\ufe61* than usual. It's not every day one has the opportunity to give gifts to *\ufe61*children.*\ufe61*",
+        "When I was young, I spent a winter festival with my family... It was so long ago, it's but a *\ufe61*dim memory.*\ufe61*",
+        "Leaving a gift for someone who's sleeping requires stealth... Why would one wear such *\ufe61*conspicuous*\ufe61* attire?",
+        "Dolls, stuffed animals, and ornaments aren't *\ufe61*cute.*\ufe61* What's cute are the smiles of children who receive them.",
+        "I am making *\ufe61*candles*\ufe61* for the winter festival. It is quite fun to *\ufe61*experiment*\ufe61* in making them even more gorgeous..."
+      ],
+      "Visit": [
+        "I have brought *\ufe61*winter-festival*\ufe61* gifts for the children of the castle. They are from [F]."
+      ],
+      "Level": [
+        "I believe I have achieved a *\ufe61*result*\ufe61* worthy of a winter envoy.",
+        "I will deliver more gifts, and in a *\ufe61*reliable*\ufe61* fashion as well.",
+        "I cannot let the children see my *\ufe61*disappointed face...*\ufe61*"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Zelkov, a soldier from the royal castle of Elusia. I am working at the winter festival this year.\nCan you point me toward the *\ufe61*good*\ufe61* children?"
+      ],
+      "Learn Skill": [
+        "I did not believe I would be on the *\ufe61*receiving*\ufe61* end of a gift. I am grateful."
+      ],
+      "Confession": [
+        "Tonight's delivery is complete. I am happy to take on *\ufe61*extra work.*\ufe61* It is not as though I sleep much anyway.\nI would rather stay awake to work a *\ufe61*dream*\ufe61* job than fall asleep to have a nightmare.\nOne of my reasons, of course, is for the children. But another is my own feeling of *\ufe61*mourning...*\ufe61*\nMy twin brother died when we were young, so to me he will always be a *\ufe61*child.*\ufe61*\nBut if I keep handing out gifts, a bit of the children's happiness, and my own, might somehow reach my brother.\nI feel I have overshared. The point is, I have my *\ufe61*reasons.*\ufe61* Now, if I may ask you for some *\ufe61*extra*\ufe61* gifts..."
+      ],
+      "Special": [
+        "For the children!",
+        "*\ufe61*Ensevelissement.*\ufe61*",
+        "*\ufe61*Chandelles*\ufe61* dans la nuit.",
+        "Merry Engage!"
+      ],
+      "Status": [
+        "-",
+        "I believe my candle-making *\ufe61*hobby*\ufe61* will be useful here.",
+        "Ahh! Oh...it is you. I thought it might be one of the *\ufe61*children.*\ufe61*",
+        "I do not intend to deliver presents to *\ufe61*adult*\ufe61* Heroes. I expect you can retrieve them yourselves.",
+        "There is no need to be *\ufe61*suspicious*\ufe61* of me. If a child is frightened of me, I will reassure them of this.",
+        "I am fond of snow, particularly at night. It makes for *\ufe61*convenient*\ufe61* covert operations.",
+        "I have a *\ufe61*gift*\ufe61* for Princess Ivy...and I suppose for Kagetsu as well...",
+        "There, there, children. Come, let me give you *\ufe61*presents.*\ufe61* What would you like? Some *\ufe61*candy*\ufe61* perhaps?"
+      ],
+      "Map Select": [
+        "Heheh...",
+        "Where are the *\ufe61*nice*\ufe61* children?",
+        "I have *\ufe61*sweets.*\ufe61*"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Winter Zelkov",
+    "SEARCH_NAME": "Winter Zelkov",
+    "DISPLAY_NAME": "<:Colorless_Dagger:1317239418943438869>Winter Zelkov",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [],
+    "prf": {
+      "": "wintertrinket",
+      "eff": "wintertrinket",
+      "atk": "wintertrinket",
+      "spd": "wintertrinket",
+      "def": "wintertrinket",
+      "res": "wintertrinket"
     }
   }
 }

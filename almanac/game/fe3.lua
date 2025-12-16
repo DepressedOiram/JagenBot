@@ -51,20 +51,15 @@ setmetatable(Character, workspaces.Character)
 Character.section = almanac.get("database/fe3/b2.json")
 Character.helper_portrait = "database/fe3/images"
 
-
 Character.allow_show_promo = true
 Character.promo_minHP = true
-Character.helper_job_base = true
-Character.compare_cap = true
+Character.compare_cap = false
 Character.helper_job_growth = false
 
 Character.inventory = inventory
 
 Character.Job = Job
 Character.Item = Item
-
-Character.item_warning = true
-
 
 function Character:setup()
     self.job = self.Job:new(self.options.class)
@@ -96,7 +91,7 @@ function Character:show_cap()
 end
 
 function Character:get_cap()
-    return {hp = 52, atk = 20, skl = 20, spd = 20, lck = 20, def = 20, res = 20, wlv = 20}
+    return {hp = 52, atk = 20, skl = 20, spd = 20, lck = 20, wlv = 20, def = 20, res = 20}
 end
 
 function Character:get_mod()
@@ -121,31 +116,19 @@ function Character:final_base()
     
     local base = self:calc_base()
 
-    -- For reclass games
-    if not self.average_classic then
-        if self.helper_job_base and not self:is_personal() then         
-            base = util.math.add_stats(base, self.job:get_base())
+    base = util.math.add_stats(base, self.job:get_base())
+    base.hp = base.hp - self.job.data.base.hp
 
-            base.hp = base.hp - self.job.data.base.hp
-            base.wlv = base.wlv - self.job.data.base.wlv 
-            
-            if self.job.id ~= self.data.job then
-                local promo = self.job:promo_bonus(base)
-        
-                base = util.math.rise_stats(base, promo)
-            end
-          --[[
-            print(self.job.data.name)
-            if self.promo_remove_hp then
-                base.hp = base.hp - self.job:get_base().hp
-            end
-            print('reclass')
-            print(base.hp)
-            ]]
+    base.wlv = base.wlv - self.job.data.base.wlv 
+    
+    if self.job.id ~= self.data.job then
+        if (base.hp < self.job.data.base.hp) then
+            base.hp = math.max(self.job.data.base.hp, self.data.base.hp)
+        end
+        if (base.wlv < self.job.data.base.wlv) then
+            base.wlv = math.max(self.job.data.base.wlv, self.data.base.wlv)
         end
     end
-    
-    base = self:common_base(base)
     
     return base
 end
@@ -175,13 +158,7 @@ function Character:calc_growth()
 end
 
 function Character:calc_base()
-    local base = self:get_base()
-    local job = self.Job:new(self.data.job)
-
-    if not self.average_classic and self:has_averages() then
-        base = self:calc_averages(base)
-    end
-   
+    local base = workspaces.Character.calc_base(self)
 
     return base
 end
@@ -201,11 +178,14 @@ end
 function Character:get_promo_bonus(job1, job2)
     local promo
     local job1_base = job1:get_base()
+    job1_base.hp = self.data.base.hp
     job1_base.wlv = self.data.base.wlv
     local job2_base = job2:get_base()
 
     promo = util.math.sub_stats(job2_base, job1_base)
-    promo['hp'] = 0
+    if promo.hp < 0 then
+        promo['hp'] = 0
+    end
     if promo.wlv < 0 then
         promo['wlv'] = 0
     end
@@ -315,34 +295,23 @@ function Job:get_dismount()
     return stats
 end
 
-function Job:promo_bonus(base)
-    -- check for 1 hp bonus if no stats change
-    local hp_bonus = true
+function Job:promo_bonus(job1, job2)
+
+    local job1_base = job1:get_base()
+    local job2_base = job2:get_base()
     
-    function bonus_check(stat, v1, v2)
-        if v2 > v1 then
-            hp_bonus = false
-            return true
-            
-        else
-            return false
-            
-        end
-        
-        return false
+    local promo = util.math.sub_stats(job2_base, job1_base)
+    if promo.hp < 0 then
+        promo['hp'] = 0
     end
-    
-    local job = self:get_base()
-    
-    local promo = util.math.rise_stats(base, job, {
-    ignore = {"atk", "skl", "spd", "lck", "def", "res", "mov"}, check = bonus_check, ignore_unchanged = true})
-    
-    if self.hp_bonus and hp_bonus then
-        promo.hp = base.hp + 1
+    if promo.wlv < 0 then
+        promo['wlv'] = 0
     end
-    
+    promo = util.math.remove_zero(promo)
+
     return promo
 end
+
 
 function Job:show_rank()
     return util.text.weapon_no_rank(self.data.weapon)
