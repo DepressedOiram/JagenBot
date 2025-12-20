@@ -1604,7 +1604,7 @@
             "mend"
         ],
         "reference": {
-            "Other Effects": "Healing calculation: [20 + (Magic x 2)]"
+            "Other Effects": "Healing calculation: [20 + (Magic \u00d7 2)]"
         },
         "weapon": false
     },

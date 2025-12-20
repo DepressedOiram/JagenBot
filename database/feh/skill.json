@@ -151849,7 +151849,7 @@
           "rng": "2",
           "sp": "300"
         },
-        "exclusive": false,
+        "exclusive": true,
         "slot": "Weapon",
         "weapon_type": "Colorless_Tome",
         "restriction_weapon": false,
@@ -151879,7 +151879,7 @@
           "rng": "2",
           "sp": "300"
         },
-        "exclusive": false,
+        "exclusive": true,
         "slot": "Weapon",
         "weapon_type": "Red_Tome",
         "restriction_weapon": false,
@@ -151995,7 +151995,7 @@
           "rng": "2",
           "sp": "300"
         },
-        "exclusive": false,
+        "exclusive": true,
         "slot": "Weapon",
         "weapon_type": "Green_Tome",
         "restriction_weapon": false,
@@ -152111,7 +152111,7 @@
           "rng": "2",
           "sp": "300"
         },
-        "exclusive": false,
+        "exclusive": true,
         "slot": "Weapon",
         "weapon_type": "Colorless_Tome",
         "restriction_weapon": false,

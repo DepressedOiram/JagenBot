@@ -91,7 +91,7 @@
   },
   "miracle": {
     "name": "Miracle",
-    "desc": "May endure lethal hits in a pinch.\nActivation: If user's HP \u2264 10",
+    "desc": "May endure lethal hits in a pinch.\nIncreases user's Avoid by [(11- User's HP) \u00d7 10] for one turn.\nActivation: If User's HP \u2264 10",
     "emoji": "<:jugdral_miracle:1317280280125378642>",
     "reference": {
       "Character": "Finn\nSilvia\nCoirpre\nDaisy\nLene",
@@ -111,7 +111,7 @@
     "ALT_NAME": [
       "accost"
     ],
-    "desc": "If agile, user may continue a round of battle.\nActivation: (User's AS - foe's AS + [user's HP/2])%",
+    "desc": "If agile, user may continue a round of battle.\nActivation: (User's AS - Foe's AS + [User's HP \u00f7 2])%",
     "emoji": "<:jugdral_charge:1317280235846238261>",
     "reference": {
       "Character": "Beowolf\nJamke\nNaoise\nMidir\nAsaello\nIucharba"
@@ -179,7 +179,7 @@
   },
   "wrath": {
     "name": "Wrath",
-    "desc": "User deals critical hits in a pinch.\nActivation: If user's HP \u2264 (Max HP/2)+1",
+    "desc": "User deals critical hits in a pinch.\nActivation: If user's HP \u2264 (Max HP \u00f7 2)+1",
     "emoji": "<:jugdral_wrath:1317280364766691439>",
     "reference": {
       "Character": "Tailtiu\nArthur\nLinda\nTine"

@@ -63,7 +63,7 @@
   },
   "miracle": {
     "name": "Miracle",
-    "desc": "(Luck x 3)% chance to avoid an attack that would kill the user. The user will keep dodging all other attacks until the combat ends.",
+    "desc": "(Luck \u00d7 3)% chance to avoid an attack that would kill the user. The user will keep dodging all other attacks until the combat ends.",
     "emoji": "<:jugdral_miracle:1317280280125378642>",
     "reference": {
       "Character": "Finn\nIlios\nSara",
