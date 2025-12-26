@@ -2694,7 +2694,7 @@
     },
     "name": "Brandon McInnis"
   },
-  "brandonwinckler": {
+  "brandonjay": {
     "ALT_NAME": [
       "Kempf: Conniving General",
       "Conniving General",
@@ -2711,7 +2711,15 @@
       "Kurthnaga: Autumn Goldoan",
       "Autumn Goldoan",
       "Halloween Kurthnaga",
-      "Harvest Kurthnaga"
+      "Harvest Kurthnaga",
+      "brandonwinckler",
+      "Brandon Winckler",
+      "Festive Horseman",
+      "Sedgar: Festive Horseman",
+      "New Year Sedgar",
+      "NY Sedgar",
+      "Kimono Sedgar",
+      "sedgar2"
     ],
     "HARD_ALT_NAME": [
       "kempf",
@@ -2741,14 +2749,23 @@
       "Kurthnaga",
       "H Kurthnaga",
       "Hurthnaga",
-      "Harvest Kurthnaga"
+      "Harvest Kurthnaga",
+      "brandonwinckler",
+      "Brandon Winckler",
+      "Festive Horseman",
+      "Sedgar: Festive Horseman",
+      "New Year Sedgar",
+      "NY Sedgar",
+      "Kimono Sedgar",
+      "sedgar2"
     ],
     "heroes": {
       "kempf": "<:Red_Sword:1317239717707911188>Kempf",
       "kurthnaga": "<:Red_Breath:1317239692189630504>Halloween Kurthnaga",
-      "sedgar": "<:Green_Bow:1317239539936268340>Sedgar"
+      "sedgar": "<:Green_Bow:1317239539936268340>Sedgar",
+      "sedgar2": "<:Colorless_Bow:1317239404204654703>New Year Sedgar"
     },
-    "name": "Brandon Winckler"
+    "name": "Brandon Winckler / Brandon Jay"
   },
   "brendanmckian": {
     "ALT_NAME": [
@@ -32758,7 +32775,8 @@
   "samslade": {
     "heroes": {
       "baldr": "<:Red_Sword:1317239717707911188>Baldr",
-      "baldr2": "<:Blue_Bow:1317239347577356328>Brave Baldr"
+      "baldr2": "<:Blue_Bow:1317239347577356328>Brave Baldr",
+      "baldr3": "<:Blue_Lance:1317239378208096338>New Year Baldr"
     },
     "name": "Sam Slade",
     "ALT_NAME": [
@@ -32774,7 +32792,15 @@
       "CYL Baldr",
       "B Baldr",
       "Choose Your Legends Baldr",
-      "baldr2"
+      "baldr2",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
     ],
     "HARD_ALT_NAME": [
       "Celestial Sun God",
@@ -32789,11 +32815,20 @@
       "CYL Baldr",
       "B Baldr",
       "Choose Your Legends Baldr",
-      "baldr2"
+      "baldr2",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
     ]
   },
   "emilo": {
     "heroes": {
+      "baldr3": "<:Blue_Lance:1317239378208096338>New Year Baldr",
       "hodr": "<:Blue_Bow:1317239347577356328>H\u00f6\u00f0r"
     },
     "name": "Emi Lo",
@@ -32813,7 +32848,15 @@
       "Base Hoor",
       "Normal Hoor",
       "Mythic Hoor",
-      "hoor"
+      "hoor",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
     ],
     "HARD_ALT_NAME": [
       "Dusk Shadow God",
@@ -32831,7 +32874,15 @@
       "Base Hoor",
       "Normal Hoor",
       "Mythic Hoor",
-      "hoor"
+      "hoor",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
     ]
   },
   "jessejamesgrelle": {
@@ -32928,7 +32979,8 @@
   },
   "elsielovelock": {
     "heroes": {
-      "heimdallr": "<:Blue_Tome:1317239386491977749>Heimdallr"
+      "heimdallr": "<:Blue_Tome:1317239386491977749>Heimdallr",
+      "heimdallr2": "<:Green_Tome:1317239575352971396>New Year Heimdallr"
     },
     "name": "Elsie Lovelock",
     "ALT_NAME": [
@@ -32937,7 +32989,13 @@
       "Base Heimdallr",
       "Normal Heimdallr",
       "Mythic Heimdallr",
-      "heimdallr"
+      "heimdallr",
+      "New Year's Vision",
+      "Heimdallr: New Year's Vision",
+      "New Year Heimdallr",
+      "NY Heimdallr",
+      "Kimono Heimdallr",
+      "heimdallr2"
     ],
     "HARD_ALT_NAME": [
       "God of Foresight",
@@ -32945,12 +33003,19 @@
       "Base Heimdallr",
       "Normal Heimdallr",
       "Mythic Heimdallr",
-      "heimdallr"
+      "heimdallr",
+      "New Year's Vision",
+      "Heimdallr: New Year's Vision",
+      "New Year Heimdallr",
+      "NY Heimdallr",
+      "Kimono Heimdallr",
+      "heimdallr2"
     ]
   },
   "miapaige": {
     "heroes": {
-      "vali": "<:Green_Tome:1317239575352971396>V\u00e1li"
+      "vali": "<:Green_Tome:1317239575352971396>V\u00e1li",
+      "vali2": "<:Red_Tome:1317239730714316800>New Year V\u00e1li"
     },
     "name": "Mia Paige",
     "ALT_NAME": [
@@ -32964,7 +33029,17 @@
       "Base Vali",
       "Normal Vali",
       "Mythic Vali",
-      "vali"
+      "vali",
+      "Devoted Sister",
+      "V\u00e1li: Devoted Sister",
+      "New Year V\u00e1li",
+      "NY V\u00e1li",
+      "Kimono V\u00e1li",
+      "v\u00e1li2",
+      "Vali: Devoted Sister",
+      "New Year Vali",
+      "NY Vali",
+      "vali2"
     ],
     "HARD_ALT_NAME": [
       "God of Vengeance",
@@ -32977,7 +33052,17 @@
       "Base Vali",
       "Normal Vali",
       "Mythic Vali",
-      "vali"
+      "vali",
+      "Devoted Sister",
+      "V\u00e1li: Devoted Sister",
+      "New Year V\u00e1li",
+      "NY V\u00e1li",
+      "Kimono V\u00e1li",
+      "v\u00e1li2",
+      "Vali: Devoted Sister",
+      "New Year Vali",
+      "NY Vali",
+      "vali2"
     ]
   },
   "kelseyjaffer": {

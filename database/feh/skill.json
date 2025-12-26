@@ -5374,7 +5374,8 @@
         "leo6": "3",
         "veronica6": "3",
         "chrom9": "3",
-        "seidr3": "3"
+        "seidr3": "3",
+        "sedgar2": "3"
       }
     },
     "refine": {},
@@ -7329,7 +7330,8 @@
         "sharena5": "3",
         "yunaka3": "3",
         "lyn11": "3",
-        "lysithea5": "3"
+        "lysithea5": "3",
+        "baldr3": "3"
       }
     },
     "refine": {},
@@ -7531,7 +7533,8 @@
         "sharena5": "4",
         "yunaka3": "4",
         "lyn11": "4",
-        "lysithea5": "4"
+        "lysithea5": "4",
+        "baldr3": "4"
       }
     },
     "refine": {},
@@ -8055,7 +8058,8 @@
         "vanitas": "3",
         "ignatz": "3",
         "ivy3": "3",
-        "gatekeeper2": "3"
+        "gatekeeper2": "3",
+        "heimdallr2": "3"
       }
     },
     "refine": {},
@@ -8252,7 +8256,8 @@
         "vanitas": "4",
         "ignatz": "4",
         "ivy3": "4",
-        "gatekeeper2": "4"
+        "gatekeeper2": "4",
+        "heimdallr2": "4"
       }
     },
     "refine": {},
@@ -9145,7 +9150,8 @@
         "sakura4": "3",
         "elise5": "3",
         "lena2": "3",
-        "vali": "3"
+        "vali": "3",
+        "vali2": "3"
       }
     },
     "refine": {},
@@ -13816,7 +13822,8 @@
         "florina2": "5",
         "hilda5": "5",
         "perne": "1",
-        "vali": "2"
+        "vali": "2",
+        "vali2": "2"
       }
     },
     "refine": {},
@@ -23150,7 +23157,8 @@
         "hinoka2": "5",
         "camilla4": "5",
         "laegjarn3": "5",
-        "quan2": "5"
+        "quan2": "5",
+        "baldr3": "4"
       },
       "Flier Formation 2": {},
       "Flier Formation 1": {}
@@ -25302,7 +25310,8 @@
         "altina2": "5",
         "rhea2": "5",
         "heimdallr": "4",
-        "alfador": "4"
+        "alfador": "4",
+        "heimdallr2": "4"
       },
       "Atk/Res Bond 2": {},
       "Atk/Res Bond 1": {}
@@ -28664,7 +28673,8 @@
       "Spur Atk/Spd 2": {
         "ricken": "4",
         "sothe": "5",
-        "vali": "4"
+        "vali": "4",
+        "vali2": "4"
       },
       "Spur Atk/Spd 1": {}
     },
@@ -30154,7 +30164,8 @@
         "sharena4": "4",
         "freyja3": "4",
         "vali": "4",
-        "lorenz": "4"
+        "lorenz": "4",
+        "vali2": "4"
       },
       "Atk/Spd Bond 2": {},
       "Atk/Spd Bond 1": {}
@@ -32090,7 +32101,8 @@
         "sonya2": "5",
         "ursula3": "5",
         "alfador": "2",
-        "vali": "2"
+        "vali": "2",
+        "vali2": "2"
       }
     },
     "refine": {},
@@ -58311,7 +58323,8 @@
       "Atk/Res Gap 3": {
         "elice": "4",
         "ilyana3": "4",
-        "ilyana2": "5"
+        "ilyana2": "5",
+        "heimdallr2": "4"
       },
       "Atk/Res Gap 2": {},
       "Atk/Res Gap 1": {}
@@ -70022,7 +70035,8 @@
         "kent": "4",
         "deen": "4",
         "mia3": "5",
-        "lucina8": "4"
+        "lucina8": "4",
+        "sedgar2": "4"
       },
       "Spd/Def Snag 2": {},
       "Spd/Def Snag 1": {}
@@ -70873,7 +70887,8 @@
         "fbyleth2": "5",
         "homer": "4",
         "sharena4": "4",
-        "vali": "4"
+        "vali": "4",
+        "vali2": "4"
       },
       "Chill Spd/Res 1": {}
     },
@@ -80881,7 +80896,8 @@
         "camilla10": "4",
         "tine2": "4",
         "fogado2": "4",
-        "celine3": "4"
+        "celine3": "4",
+        "sedgar2": "4"
       },
       "Atk/Spd Catch 2": {},
       "Atk/Spd Catch 1": {}
@@ -133484,7 +133500,8 @@
         "reginn3": "5",
         "lucina8": "5",
         "dimitri7": "5",
-        "leif4": "5"
+        "leif4": "5",
+        "baldr3": "5"
       }
     },
     "icon": 2256,
@@ -135003,7 +135020,8 @@
     ],
     "reference": {
       "Spd/Def Detect": {
-        "lucina8": "5"
+        "lucina8": "5",
+        "sedgar2": "5"
       }
     },
     "icon": 2275,
@@ -143419,7 +143437,8 @@
         "heimdallr": "5",
         "alfador": "5",
         "ivy3": "5",
-        "gatekeeper2": "5"
+        "gatekeeper2": "5",
+        "heimdallr2": "5"
       }
     },
     "icon": false,
@@ -147115,7 +147134,8 @@
       "Atk/Spd Aria": {
         "sharena4": "5",
         "freyja3": "5",
-        "vali": "5"
+        "vali": "5",
+        "vali2": "5"
       }
     },
     "icon": 2493,
@@ -147158,7 +147178,8 @@
     "reference": {
       "Spd/Res Shackle": {
         "sharena4": "5",
-        "vali": "5"
+        "vali": "5",
+        "vali2": "5"
       }
     },
     "icon": 2494,
@@ -147276,7 +147297,8 @@
         "diamant3": "5",
         "sharena5": "5",
         "yunaka3": "5",
-        "lyn11": "5"
+        "lyn11": "5",
+        "baldr3": "5"
       }
     },
     "icon": false,
@@ -148658,7 +148680,7 @@
     },
     "icon": 2517,
     "HARD_ALT_NAME": [
-      "Duelist's Blow"
+      "Air Superiority"
     ],
     "ALT_NAME": [],
     "slot": "Passive B",
@@ -150349,7 +150371,8 @@
     "reference": {
       "Atk/Res Aria": {
         "heimdallr": "5",
-        "alfador": "5"
+        "alfador": "5",
+        "heimdallr2": "5"
       }
     },
     "icon": 2544,
@@ -150377,7 +150400,8 @@
     ],
     "reference": {
       "An Open Book": {
-        "heimdallr": "5"
+        "heimdallr": "5",
+        "heimdallr2": "5"
       }
     },
     "icon": 2545,
@@ -151218,7 +151242,8 @@
     ],
     "reference": {
       "Invincible Sister": {
-        "vali": "5"
+        "vali": "5",
+        "vali2": "5"
       }
     },
     "refine": {},
@@ -152618,8 +152643,8 @@
         "name": "Winter Trinket+",
         "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5 and grants Special cooldown count-1 before unit's or ally's first attack during their combat, and also, if unit's or ally's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's or ally's follow-up attacks during combat.\nUnit deals +20 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials).\n\u3010Dagger \uff17\u3011\nAfter combat, if unit attacked, inflicts Def/Res-\uff17 on target and foes within 2 spaces of target through their next actions.",
         "stats": {
-          "mt": "14",
-          "rng": "1",
+          "mt": "12",
+          "rng": "2",
           "sp": "300"
         },
         "exclusive": false,
@@ -152978,5 +153003,319 @@
     "ALT_NAME": [],
     "slot": "Passive C",
     "wpn": false
+  },
+  "godlydevices": {
+    "name": "Godly Devices",
+    "skill": [
+      {
+        "name": "Godly Devices",
+        "description": "Accelerates Special trigger (cooldown count-1).\nNeutralizes \"effective against flying\" bonuses.\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, inflicts additional penalty on foe's Atk/Spd/Def/Res = current bonus on each of foe's stats \u00d7 2 (calculates each stat penalty independently), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nGrants Atk/Spd/Def/Res+10 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional X (excluding area-of-effect Specials; if unit has weapon-triangle disadvantage, X = 20% of unit's Spd; otherwise, X = 50% of unit's Spd), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Weapon Triangle: Green Style \u2014\u2014\u2014\u2014\u2014\nWhen determining weapon triangle, counts unit as green (does not affect skill effects that trigger based on attribute, such as \"if in combat against a green foe\"). This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Godly Devices": {
+        "baldr3": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Godly Devices",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc202"
+  },
+  "heavenssteadn": {
+    "name": "Heaven s Stead N",
+    "skill": [
+      {
+        "name": "Heaven's Stead N",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive A",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAt start of turn, if unit is within 2 spaces of an ally, inflicts\u3010Triangle Adept\u3011and\u3010Exposure\u3011 on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+9 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat. If \u3010Exposure\u3011is active on foe, if unit has weapon-triangle advantage, or if foe initiates combat, unit attacks twice during combat.\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)\n\u3010Triangle Adept\u3011\nIf unit has weapon-triangle advantage, boosts Atk by 20% through its next action, and if unit has weapon-triangle disadvantage, reduces Atk by 20% through its next action.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage."
+      }
+    ],
+    "reference": {
+      "Heaven's Stead N": {
+        "baldr3": "5"
+      }
+    },
+    "icon": 2594,
+    "HARD_ALT_NAME": [
+      "Heaven's Stead N"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "heavenlysoar": {
+    "name": "Heavenly Soar",
+    "skill": [
+      {
+        "name": "Heavenly Soar",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Flier Formation 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Blue_Lance",
+            "Green_Axe"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Flying"
+          ]
+        ],
+        "description": "Unit can move through foes' spaces.\nFor each foe within 5 spaces of unit, unit can move to any of the nearest spaces adjacent to that foe (unless space is impassable terrain).\nInflicts Atk/Spd/Def-4 on foe, neutralizes effects that grant \"Special cooldown charge +X\" to foe, unit deals damage = 20% of the greater of unit's Spd or Def (excluding area-of-effect Specials), and reduces damage from foe's attacks by 20% of the greater of unit's Spd or Def during combat (excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "Heavenly Soar": {
+        "baldr3": "5"
+      }
+    },
+    "icon": 2595,
+    "HARD_ALT_NAME": [
+      "Heavenly Soar"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "sisterhagiota": {
+    "name": "Sister Hagiota",
+    "skill": [
+      {
+        "name": "Sister Hagiota",
+        "description": "Enables\u3010Canto (Rem.; Min \uff11)\u3011.\nNeutralizes \"effective against flying\" bonuses. Grants Spd+3. Unit can counterattack regardless of foe's range.\nGrants Atk/Spd+5 to allies within 3 spaces of unit during combat and those allies can counterattack regardless of foe's range.\nFor allies within 3 spaces of unit, if ally's HP > 1 and foe would reduce ally's HP to 0 during combat, ally survives with 1 HP, and after combat, restores 40 HP and grants Atk/Spd\u3010Great Talent\u3011+10 to ally (effect only triggers for player's team once per map and does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce unit's HP to 0; when any other such effect triggers on an ally granted this effect, this effect will trigger too).\nGrants Atk/Spd/Def/Res+15 to unit, neutralizes foe's bonuses, unit deals +X damage (excluding area-of-effect Specials; X = 15 + total value of Atk and Spd\u3010Great Talent\u3011), reduces damage from foe's first attack by 15 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.\n(This skill grants max of\u3010Great Talent\u3011+10.)\n\u3010Canto (Rem.; Min \uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. \uff11; if unit used a movement skill that warped them, unit can move \uff11 space(s)). (Once per turn. Only highest value applied. Does not stack.)\n\u3010Great Talent\u3011\nAdds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sister Hagiota": {
+        "vali2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sister Hagiota",
+      "Devoted Sister",
+      "V\u00e1li: Devoted Sister",
+      "New Year V\u00e1li",
+      "NY V\u00e1li",
+      "Kimono V\u00e1li",
+      "v\u00e1li2",
+      "Vali: Devoted Sister",
+      "New Year Vali",
+      "NY Vali",
+      "vali2"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg410"
+  },
+  "upliftimbueas": {
+    "name": "Uplift Imbue A S",
+    "skill": [
+      {
+        "name": "Uplift Imbue A/S",
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+5, reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and reduces the effect of\u3010Deep Wounds\u3011by 50% during combat, and also, restores 40% of max HP as combat begins (triggers after effects that deal damage as combat begins; only highest value applied; does not stack).\n\u3010Deep Wounds\u3011\nUnit's HP cannot be healed through its next action.",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Spur Atk/Spd 2"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Flying"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "Uplift Imbue A/S": {
+        "vali2": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2596,
+    "HARD_ALT_NAME": [
+      "Uplift Imbue A/S",
+      "Imbue Uplift A/S"
+    ],
+    "ALT_NAME": [
+      "Uplift Imbue Atk/Spd",
+      "Uplift Imbue Attack/Speed",
+      "Imbue Uplift Atk/Spd",
+      "Imbue Uplift Attack/Speed"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "newyearsfan": {
+    "name": "New Year s Fan",
+    "skill": [
+      {
+        "name": "New Year's Fan",
+        "description": "Accelerates Special trigger (cooldown count-1).\nIf defending in Aether Raids, at the start of enemy phase, grants\u3010Foresight Snare\u3011 to allies closest to the bottom of the map within 3 columns centered on unit for 1 turn.\nIf not defending in Aether Raids, at the start of enemy phase, if there is only one ally (excluding unit) with the highest Def among allies closest to foe, grants\u3010Foresight Snare\u3011 to that ally for 1 turn.\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Def/Res-5 during combat, and also, if foe's attack can trigger their Special and if foe's Res at the start of battle \u2264 39, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown; \"at start of battle\" excludes increases to Res granted after foe is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.).\nGrants Atk/Def/Res+11 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and grants Special cooldown count-X to unit before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2).\n\u3010Foresight Snare\u3011\nIf foe initiates combat and there were no combat instances on the current turn yet (player phase and enemy phase are counted separately), triggers the following effects:\n- Cancels foe's attack, ending their action.\n- Inflicts\u3010Isolation\u3011and status preventing counterattacks on foe through foe's next action.\n- Cancels Foresight Snare granted to your army.\n(These effect trigger after Aether Raids traps but before Savior; does not trigger in Pawns of Loki).\n\u3010Isolation\u3011\nTarget cannot use or be the target of Assist skills through its next action. (Target can neither use nor be the target of skills like Dance and Sing, skills that neutralize penalties, like Restore and Harsh Command+, etc.)",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "New Year's Fan": {
+        "heimdallr2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "New Year's Fan",
+      "New Years Fan",
+      "New Year's Vision",
+      "Heimdallr: New Year's Vision",
+      "New Year Heimdallr",
+      "NY Heimdallr",
+      "Kimono Heimdallr",
+      "heimdallr2"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg604"
+  },
+  "atkresliberate": {
+    "name": "Atk Res Liberate",
+    "skill": [
+      {
+        "name": "Atk/Res Liberate",
+        "description": "At start of player phase or enemy phase, grants\u3010Atk Liberate\u3011and\u3010Res Liberate\u3011to unit and allies closest to foe (excluding unit) for 1 turn.\nGrants Atk/Res+4 to unit during combat.\nFor unit and allies on the map with the \u3010Atk Liberate\u3011or\u3010Res Liberate\u3011effects active, deals damage during combat = number of\u3010Bonus\u3011effects active on unit or ally + 5, excluding stat bonuses (max 10; excluding area-of-effect Specials).\n\u3010Atk Liberate\u3011\nGrants bonus to Atk during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).\n\u3010Res Liberate\u3011\nGrants bonus to Res during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Res Gap 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "Atk/Res Liberate": {
+        "heimdallr2": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2597,
+    "HARD_ALT_NAME": [
+      "Atk/Res Liberate",
+      "Atk/Res Liberate"
+    ],
+    "ALT_NAME": [
+      "Attack/Resistance Liberate",
+      "A/R Liberate"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "horsebow": {
+    "name": "Horse Bow+",
+    "skill": [
+      {
+        "name": "Horse Bow+",
+        "description": "Effective against flying foes.\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, foe suffers +10 damage from attacks (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nUnit deals +20 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "12",
+          "rng": "2",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Horse Bow+": {
+        "sedgar2": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Horse Bow",
+      "Festive Horseman",
+      "Sedgar: Festive Horseman",
+      "New Year Sedgar",
+      "NY Sedgar",
+      "Kimono Sedgar",
+      "sedgar2"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw145"
   }
 }

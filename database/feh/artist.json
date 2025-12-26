@@ -6885,7 +6885,15 @@
       "Bridal Julia",
       "Duo Julia",
       "D Julia",
-      "julia5"
+      "julia5",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
     ],
     "HARD_ALT_NAME": [
       "effie",
@@ -6987,9 +6995,18 @@
       "Bridal Julia",
       "Duo Julia",
       "D Julia",
-      "julia5"
+      "julia5",
+      "New Year's Elite",
+      "Baldr: New Year's Elite",
+      "New Year Baldr",
+      "NY Baldr",
+      "Kimono Baldr",
+      "Duo Baldr",
+      "D Baldr",
+      "baldr3"
     ],
     "heroes": {
+      "baldr3": "<:Blue_Lance:1317239378208096338>New Year Baldr",
       "edelgard2": "<:Green_Axe:1317239517136031897>Legendary Edelgard",
       "effie": "<:Blue_Lance:1317239378208096338>Effie",
       "eir3": "<:Green_Dagger:1317239563697127456>Ascended Eir",
@@ -8737,7 +8754,13 @@
       "Rearmed Nuibaba",
       "Rearm Nuibaba",
       "Arm Nuibaba",
-      "nuibaba"
+      "nuibaba",
+      "New Year's Vision",
+      "Heimdallr: New Year's Vision",
+      "New Year Heimdallr",
+      "NY Heimdallr",
+      "Kimono Heimdallr",
+      "heimdallr2"
     ],
     "HARD_ALT_NAME": [
       "eremiya",
@@ -8757,10 +8780,17 @@
       "Rearmed Nuibaba",
       "Rearm Nuibaba",
       "Arm Nuibaba",
-      "nuibaba"
+      "nuibaba",
+      "New Year's Vision",
+      "Heimdallr: New Year's Vision",
+      "New Year Heimdallr",
+      "NY Heimdallr",
+      "Kimono Heimdallr",
+      "heimdallr2"
     ],
     "heroes": {
       "eremiya": "<:Colorless_Staff:1317239426866483261>Eremiya",
+      "heimdallr2": "<:Green_Tome:1317239575352971396>New Year Heimdallr",
       "nuibaba": "<:Blue_Tome:1317239386491977749>Rearmed Nuibaba"
     },
     "name": "Homare (\u8a89)"
@@ -17924,7 +17954,13 @@
       "Resplendent Henry",
       "Resp Henry",
       "R Henry",
-      "Henry (Resplendent)"
+      "Henry (Resplendent)",
+      "Festive Horseman",
+      "Sedgar: Festive Horseman",
+      "New Year Sedgar",
+      "NY Sedgar",
+      "Kimono Sedgar",
+      "sedgar2"
     ],
     "HARD_ALT_NAME": [
       "Petrine",
@@ -18034,7 +18070,13 @@
       "Resplendent Henry",
       "Resp Henry",
       "R Henry",
-      "Henry (Resplendent)"
+      "Henry (Resplendent)",
+      "Festive Horseman",
+      "Sedgar: Festive Horseman",
+      "New Year Sedgar",
+      "NY Sedgar",
+      "Kimono Sedgar",
+      "sedgar2"
     ],
     "heroes": {
       "arion": "<:Blue_Lance:1317239378208096338>Arion",
@@ -18049,7 +18091,8 @@
       "ludveck": "<:Green_Axe:1317239517136031897>Ludveck",
       "pandreo": "<:Colorless_Staff:1317239426866483261>Pandreo",
       "petrine": "<:Blue_Lance:1317239378208096338>Petrine",
-      "sedgar": "<:Green_Bow:1317239539936268340>Sedgar"
+      "sedgar": "<:Green_Bow:1317239539936268340>Sedgar",
+      "sedgar2": "<:Colorless_Bow:1317239404204654703>New Year Sedgar"
     },
     "name": "motsutsu"
   },
@@ -30022,7 +30065,8 @@
   },
   "ecu": {
     "heroes": {
-      "leila3": "<:Colorless_Dagger:1317239418943438869>Rearmed Leila"
+      "leila3": "<:Colorless_Dagger:1317239418943438869>Rearmed Leila",
+      "vali2": "<:Red_Tome:1317239730714316800>New Year V\u00e1li"
     },
     "name": "ecu (\u3048\u304F)",
     "ALT_NAME": [
@@ -30032,7 +30076,17 @@
       "Rearmed Leila",
       "Rearm Leila",
       "Arm Leila",
-      "leila3"
+      "leila3",
+      "Devoted Sister",
+      "V\u00e1li: Devoted Sister",
+      "New Year V\u00e1li",
+      "NY V\u00e1li",
+      "Kimono V\u00e1li",
+      "v\u00e1li2",
+      "Vali: Devoted Sister",
+      "New Year Vali",
+      "NY Vali",
+      "vali2"
     ]
   },
   "hayamaeishi": {

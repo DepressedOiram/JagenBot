@@ -1047,7 +1047,7 @@ function Skill:show()
     end
 end
 
-local pool_order = {"grail", "global", "focus", "seasonal", "legend", "special", "spcseasonal"}
+local pool_order = {"grail", "global", "focus", "seasonal", "seasonalgrail", "legend", "special", "spcseasonal"}
 
 function Skill:organize_learn(data)
     local result = {}

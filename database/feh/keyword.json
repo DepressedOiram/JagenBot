@@ -213,6 +213,29 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "atkliberate": {
+        "name": "Atk Liberate",
+        "description": "Grants bonus to Atk during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).",
+        "color": "Red",
+        "icon": "atkliberate",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Atk/Res Liberate"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Atk Liberate"
+        ]
+    },
     "beastcavalry": {
         "name": "Beast (Cavalry)",
         "description": "At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.",
@@ -412,6 +435,7 @@
                 "Pure Atrocity"
             ],
             "C": [
+                "Atk/Res Liberate",
                 "Covetous One"
             ],
             "X": [
@@ -580,7 +604,9 @@
             "Beast": []
         },
         "reference_skill": false,
-        "reference_hero": {},
+        "reference_hero": {
+            "baldr3": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>New Year Baldr"
+        },
         "HARD_ALT_NAME": [
             "Cancel Affinity"
         ]
@@ -1026,6 +1052,7 @@
                 "Red_Tome": [
                     "\u00dej\u00e1lfi",
                     "Agnea's Arrow",
+                    "Sister Hagiota",
                     "Tome of Dusk"
                 ],
                 "Blue_Tome": [
@@ -1241,6 +1268,7 @@
                 "Ascendant King"
             ],
             "A": [
+                "Heaven's Stead N",
                 "Lady Knight"
             ],
             "B": [
@@ -1855,6 +1883,7 @@
             "C": [
                 "Breath of Life 4",
                 "Fatal Smoke 4",
+                "Uplift Imbue A/S",
                 "Divine Nectar",
                 "Nectar's Magic"
             ],
@@ -2886,7 +2915,8 @@
             ],
             "special": [],
             "A": [
-                "Heaven's Stead"
+                "Heaven's Stead",
+                "Heaven's Stead N"
             ],
             "B": [
                 "D/R Cantrip 3",
@@ -3217,7 +3247,9 @@
                     "Gjallarhorn",
                     "Mystic Gjallarhorn"
                 ],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "New Year's Fan"
+                ],
                 "Colorless_Tome": []
             },
             "Breath": [],
@@ -3307,7 +3339,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "baldr3": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>New Year Baldr"
+        },
         "HARD_ALT_NAME": []
     },
     "frozen": {
@@ -3568,7 +3602,9 @@
             ],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Sister Hagiota"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [
                     "Enraptured God",
@@ -4108,7 +4144,9 @@
                     "Gjallarhorn",
                     "Mystic Gjallarhorn"
                 ],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "New Year's Fan"
+                ],
                 "Colorless_Tome": []
             },
             "Breath": [],
@@ -5129,6 +5167,7 @@
             "alear6": "<:feh_duo:1317239462874578975><:Blue_Breath:1317239355835813939>Winter Alear",
             "alm4": "<:feh_duo:1317239462874578975><:Green_Axe:1317239517136031897>Valentines Alm",
             "ayra2": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Maid Ayra",
+            "baldr3": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>New Year Baldr",
             "celica7": "<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Summer Celica",
             "duma2": "<:feh_duo:1317239462874578975><:Red_Breath:1317239692189630504>Halloween Duma",
             "micaiah8": "<:feh_emblem:1317239481874780181><:Colorless_Tome:1317239438602145842>Emblem Micaiah",
@@ -5824,6 +5863,29 @@
             "Resonance Shields"
         ]
     },
+    "resliberate": {
+        "name": "Res Liberate",
+        "description": "Grants bonus to Res during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).",
+        "color": "Blue",
+        "icon": "resliberate",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Atk/Res Liberate"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Res Liberate"
+        ]
+    },
     "resshackle": {
         "name": "Res Shackle",
         "description": "Inflicts penalty on unit's Res during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
@@ -6476,6 +6538,7 @@
                 "Sublime Creator"
             ],
             "Lance": [
+                "Godly Devices",
                 "Holy Gradivus"
             ],
             "Axe": [
@@ -6725,7 +6788,8 @@
             "assist": [],
             "special": [],
             "A": [
-                "Heaven's Stead"
+                "Heaven's Stead",
+                "Heaven's Stead N"
             ],
             "B": [],
             "C": [],
