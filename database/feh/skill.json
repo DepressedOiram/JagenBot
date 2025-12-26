@@ -5840,12 +5840,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -5887,12 +5882,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -7702,7 +7692,8 @@
         "mshez4": "3",
         "alfonse6": "3",
         "raphael": "3",
-        "alfred2": "3"
+        "alfred2": "3",
+        "edelgard8": "3"
       }
     },
     "refine": {},
@@ -7902,7 +7893,8 @@
         "hrid4": "4",
         "mshez4": "4",
         "raphael": "4",
-        "alfred2": "4"
+        "alfred2": "4",
+        "edelgard8": "4"
       }
     },
     "refine": {},
@@ -12011,7 +12003,8 @@
         "xander4": "5",
         "hrid2": "5",
         "plumeria2": "5",
-        "ike9": "4"
+        "ike9": "4",
+        "edelgard8": "4"
       },
       "Quick Riposte 2": {},
       "Quick Riposte 1": {}
@@ -23010,12 +23003,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -24571,12 +24559,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -28602,12 +28585,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -29085,12 +29063,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -29103,12 +29076,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -37073,12 +37041,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -37091,12 +37054,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -38027,12 +37985,7 @@
         },
         "exclusive": true,
         "slot": "Passive B",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -38359,12 +38312,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -38393,12 +38341,7 @@
         },
         "exclusive": true,
         "slot": "Passive B",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -38410,12 +38353,7 @@
         },
         "exclusive": true,
         "slot": "Passive B",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -43826,12 +43764,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -43844,12 +43777,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -45290,12 +45218,7 @@
         },
         "exclusive": true,
         "slot": "Passive C",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -50528,12 +50451,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -50546,12 +50464,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -54963,12 +54876,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -54981,12 +54889,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -56034,12 +55937,7 @@
         },
         "exclusive": true,
         "slot": "Passive A",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -58757,12 +58655,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -58775,12 +58668,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -59987,12 +59875,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -60344,6 +60227,9 @@
         "name": "Squad Ace AC 2",
         "description": "Grants Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AC 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -60356,6 +60242,9 @@
         "name": "Squad Ace AC 3",
         "description": "Grants Spd+3.",
         "stats": {},
+        "required": [
+          "Squad Ace AC 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -60671,14 +60560,12 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -60689,14 +60576,12 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Gentle Dream"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -60728,14 +60613,12 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -60745,6 +60628,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Frightful Dream"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -60791,6 +60677,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Form 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -60803,6 +60692,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Form 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -60881,6 +60773,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Close Call 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -60905,6 +60800,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Close Call 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -60929,6 +60827,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Close Call 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -61280,6 +61181,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Daring Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -61297,6 +61201,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Daring Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -61336,6 +61243,10 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Atk 1",
+          "Threaten Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -61348,6 +61259,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threat. Atk/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -61360,6 +61274,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Threat. Atk/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -61433,6 +61350,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def/Res Gap 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -61445,6 +61365,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def/Res Gap 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -61561,6 +61484,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Soul of Zofia"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -62020,14 +61946,12 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Bonfire"
+        ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -62112,6 +62036,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Spd Gap 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -62124,6 +62051,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Spd Gap 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -62186,6 +62116,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def/Res Oath 1"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -62203,6 +62136,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def/Res Oath 2"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -62220,6 +62156,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Oath 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -62427,6 +62366,9 @@
         "name": "Squad Ace AD 2",
         "description": "Grants Atk+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AD 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -62439,6 +62381,9 @@
         "name": "Squad Ace AD 3",
         "description": "Grants Atk+3.",
         "stats": {},
+        "required": [
+          "Squad Ace AD 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -62721,14 +62666,12 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -62738,6 +62681,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Sweet Dreams"
+        ],
         "slot": "Assist",
         "exclusive": true,
         "restriction_weapon": false,
@@ -62774,14 +62720,12 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Astra"
+        ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -62819,6 +62763,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Res Solo 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -62831,6 +62778,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Res Solo 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -62843,6 +62793,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Res Solo 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -62918,6 +62871,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Repel 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -62942,6 +62898,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Repel 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -62966,6 +62925,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Repel 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -63247,6 +63209,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Blade Session 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -63259,6 +63224,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Blade Session 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -63306,6 +63274,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Shield Session 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -63318,6 +63289,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Shield Session 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -63375,6 +63349,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Ruse 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -63398,6 +63375,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Ruse 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -63420,6 +63400,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Ruse 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -63498,6 +63481,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Lull Atk/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -63516,6 +63502,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Lull Atk/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -63585,6 +63574,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Deadly Balance"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -63863,6 +63855,9 @@
         "name": "Squad Ace AE 2",
         "description": "Grants HP+4, Atk+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AE 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -64191,6 +64186,10 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Atk 1",
+          "Threaten Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -64203,6 +64202,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threat. Atk/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -64215,6 +64217,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Threat. Atk/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -64301,6 +64306,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Rouse Spd/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -64319,6 +64327,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Rouse Spd/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -64511,12 +64522,7 @@
         },
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -64557,6 +64563,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Res Form 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -64569,6 +64578,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Res Form 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -64631,6 +64643,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Even Pulse Tie 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -64649,6 +64664,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Even Pulse Tie 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -64714,6 +64732,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Pegasus Flight 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -64738,6 +64759,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Pegasus Flight 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -64762,6 +64786,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Pegasus Flight 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -64839,6 +64866,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Ruse 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -64862,6 +64892,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Ruse 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -64963,14 +64996,12 @@
           "rng": "1",
           "sp": "500"
         },
+        "required": [
+          "Reposition"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -64980,6 +65011,9 @@
         "stats": {
           "sp": "500"
         },
+        "required": [
+          "To Change Fate!"
+        ],
         "exclusive": true,
         "slot": "Assist",
         "restriction_weapon": false,
@@ -65167,6 +65201,9 @@
         "name": "Squad Ace AF 2",
         "description": "Grants HP+4, Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AF 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -65411,6 +65448,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Lull Spd/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -65429,6 +65469,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Lull Spd/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -65446,6 +65489,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Lull Spd/Res 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": false,
@@ -65522,6 +65568,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Gap 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -65534,6 +65583,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Gap 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -65599,6 +65651,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Rouse Spd/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -65617,6 +65672,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Rouse Spd/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -65635,6 +65693,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Spd/Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -65972,6 +66033,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Atk 1",
+          "Chill Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -65984,6 +66049,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Atk/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -65996,6 +66064,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Chill Atk/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -66058,6 +66129,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Lance Exp. 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -66075,6 +66149,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Lance Exp. 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -66298,6 +66375,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Impenetrable Dark"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -66483,6 +66563,9 @@
         "name": "Squad Ace AG 2",
         "description": "Grants HP+4, Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AG 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -66803,6 +66886,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Drive Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -67089,14 +67175,12 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Draconic Aura"
+        ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -67123,14 +67207,12 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Glimmer"
+        ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -67216,6 +67298,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Atk 1",
+          "Chill Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -67228,6 +67314,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Atk/Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -67288,6 +67377,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Oath 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -67306,6 +67398,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Oath 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -67421,6 +67516,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Raging Storm"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -67483,6 +67581,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Armored Stride 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -67511,6 +67612,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Armored Stride 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -67715,6 +67819,9 @@
         "name": "Squad Ace AH 2",
         "description": "Grants HP+4, Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AH 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -67986,14 +68093,13 @@
           "cooldown": "4",
           "sp": "500"
         },
+        "required": [
+          "Sol",
+          "Luna"
+        ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -68019,6 +68125,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Darting Stance 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -68086,6 +68195,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Rouse Atk/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -68104,6 +68216,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Rouse Atk/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -68122,6 +68237,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Atk/Res 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -68454,6 +68572,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Spd 1",
+          "Chill Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -68466,6 +68588,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Spd/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -68525,6 +68650,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Odd Pulse Tie 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -68543,6 +68671,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Odd Pulse Tie 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -68647,6 +68778,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Mila's Turnwheel"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -68859,6 +68993,9 @@
         "name": "Squad Ace AI 2",
         "description": "Grants Atk/Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AI 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -69125,14 +69262,12 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Dance"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -69143,14 +69278,12 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Whimsical Dream"
+        ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -69184,6 +69317,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Drive Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -69690,6 +69826,10 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Seal Spd 1",
+          "Seal Res 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -69706,6 +69846,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Seal Spd/Res 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -69722,6 +69865,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Spd/Res 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -69794,6 +69940,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Snag 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -69817,6 +69966,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Snag 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -69840,6 +69992,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Snag 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -69927,6 +70082,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Res Snag 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -69950,6 +70108,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Res Snag 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -70077,6 +70238,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Holy War's End"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -70287,6 +70451,9 @@
         "name": "Squad Ace AJ 2",
         "description": "Grants Atk/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AJ 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -70657,6 +70824,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Spd 1",
+          "Chill Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -70669,6 +70840,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Spd/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -70681,6 +70855,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Chill Spd/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -70753,6 +70930,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Guard Bearing 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -70777,6 +70957,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Guard Bearing 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -70801,6 +70984,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Guard Bearing 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -70872,6 +71058,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk Cantrip 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -70889,6 +71078,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk Cantrip 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -71231,6 +71423,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spurn 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -71255,6 +71450,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spurn 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -71279,6 +71477,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spurn 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -71396,6 +71597,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Inevitable Death"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -71578,6 +71782,9 @@
         "name": "Squad Ace AK 2",
         "description": "Grants Atk/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AK 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -71902,6 +72109,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Steady Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -71975,6 +72185,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Dive-Bomb 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -72007,6 +72220,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Dive-Bomb 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -72072,6 +72288,9 @@
         "name": "Phantom Res 2",
         "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +8.",
         "stats": {},
+        "required": [
+          "Phantom Res 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -72082,6 +72301,9 @@
         "name": "Phantom Res 3",
         "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +10.",
         "stats": {},
+        "required": [
+          "Phantom Res 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -72348,6 +72570,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -72438,6 +72663,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Drive Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -72492,6 +72720,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Spd Rein 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -72509,6 +72740,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Spd Rein 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -72676,6 +72910,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Negating Fang"
+        ],
         "slot": "Special",
         "exclusive": true,
         "restriction_weapon": false,
@@ -72721,6 +72958,9 @@
         "name": "Squad Ace AL 2",
         "description": "Grants Spd/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AL 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -73067,6 +73307,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-D Atk/Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -73079,6 +73322,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-D Atk/Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -73091,6 +73337,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "AR-D Atk/Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -73157,6 +73406,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def Cantrip 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -73174,6 +73426,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def Cantrip 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -73223,6 +73478,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fortify Res 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -73499,6 +73757,9 @@
           "cooldown": "3",
           "sp": "500"
         },
+        "required": [
+          "Glimmer"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -73560,6 +73821,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Crafty Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -73577,6 +73841,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Crafty Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -73637,6 +73904,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Rein 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -73654,6 +73924,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Rein 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -73731,6 +74004,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Res Rein 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -73748,6 +74024,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Res Rein 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -73910,6 +74189,9 @@
         "name": "Squad Ace AM 2",
         "description": "Grants Spd/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AM 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -74313,6 +74595,9 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Rally Speed"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -74331,6 +74616,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Rally Up Spd"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -74415,6 +74703,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Res Form 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -74427,6 +74718,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Res Form 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -74496,6 +74790,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Dragon's Ire 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -74516,6 +74813,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Dragon's Ire 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -74536,6 +74836,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Dragon's Ire 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -74605,6 +74908,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Slick Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -74622,6 +74928,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Slick Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -74639,6 +74948,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Slick Fighter 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -74904,6 +75216,9 @@
           "rng": "1",
           "sp": "200"
         },
+        "required": [
+          "Reconcile"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -74922,6 +75237,9 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Rescue"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -74966,6 +75284,10 @@
           "cooldown": "1",
           "sp": "200"
         },
+        "required": [
+          "Swift-Winds Balm",
+          "Still-Water Balm"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -74984,6 +75306,9 @@
           "cooldown": "1",
           "sp": "300"
         },
+        "required": [
+          "Deluge Balm"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -75042,6 +75367,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Rouse Atk/Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -75060,6 +75388,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Rouse Atk/Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -75078,6 +75409,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Atk/Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -75210,6 +75544,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atrocity"
+        ],
         "slot": "Passive B",
         "exclusive": true,
         "restriction_weapon": false,
@@ -75278,6 +75615,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Odd Tempest 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -75311,6 +75651,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Odd Tempest 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -75475,6 +75818,9 @@
         "name": "Squad Ace AN 2",
         "description": "Grants Def/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace AN 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -75808,6 +76154,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Atk 1",
+          "Chill Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -75820,6 +76170,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Atk/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -75878,6 +76231,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Rein 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -75895,6 +76251,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Rein 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -75966,6 +76325,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Gap 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -75978,6 +76340,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Gap 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -76202,6 +76567,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Wyvern Flight 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -76226,6 +76594,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Wyvern Flight 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -76288,6 +76659,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Binding Necklace"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -76340,6 +76714,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Res Rein 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -76357,6 +76734,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Res Rein 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -76847,12 +77227,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -77545,12 +77920,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -86144,12 +86514,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -86165,12 +86530,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -88339,12 +88699,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -88377,12 +88732,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -88730,12 +89080,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -89563,12 +89908,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -89929,12 +90269,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -99125,12 +99460,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -103309,12 +103639,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -103346,12 +103671,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -103968,12 +104288,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -103986,12 +104301,7 @@
         },
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -105499,12 +105809,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -105520,12 +105825,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -108038,12 +108338,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       },
@@ -108059,12 +108354,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -114761,12 +115051,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -115841,12 +116126,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -117647,12 +117927,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false
       }
     ],
@@ -118802,12 +119077,7 @@
         "description": "Boosts Special damage by 50% of unit's Spd. If unit is on a team with their support partner, when unit's or unit's support partner's Special triggers (excluding area-of-effect Specials), neutralizes \"reduces damage by X%\" effects from foe's non-Special skills. If unit is within 3 spaces of their support partner and unit or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials).",
         "slot": "Special",
         "exclusive": true,
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false
       }
     ],
@@ -119318,12 +119588,7 @@
         ],
         "exclusive": true,
         "slot": "Assist",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -123887,7 +124152,7 @@
             "Armored"
           ]
         ],
-        "description": "If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 50; otherwise, X = 10).\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)"
+        "description": "If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 50; otherwise, X = 10)."
       },
       {
         "name": "Potent 2",
@@ -123917,7 +124182,7 @@
             "Armored"
           ]
         ],
-        "description": "Reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by 10%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 60; otherwise, X = 20).\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)"
+        "description": "Reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by 10%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 60; otherwise, X = 20)."
       },
       {
         "name": "Potent 3",
@@ -123947,7 +124212,7 @@
             "Armored"
           ]
         ],
-        "description": "Reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by 20%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 70; otherwise, X = 30).\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)"
+        "description": "Reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by 20%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 70; otherwise, X = 30)."
       },
       {
         "name": "Potent 4",
@@ -123977,7 +124242,7 @@
             "Armored"
           ]
         ],
-        "description": "Inflicts Spd/Def-4 on foe during combat and reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by 30%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 80; otherwise, X = 40).\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)"
+        "description": "Inflicts Spd/Def-4 on foe during combat and reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by 30%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 80; otherwise, X = 40)."
       }
     ],
     "reference": {
@@ -138303,12 +138568,7 @@
         ],
         "exclusive": true,
         "slot": "Special",
-        "restriction_weapon": [
-          "**Cannot** be used by: ",
-          [
-            "Colorless_Staff"
-          ]
-        ],
+        "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
       }
@@ -151028,7 +151288,7 @@
       }
     ],
     "reference": {
-      "Glacial Greataxe": {
+      "Urvan Brilliance": {
         "ike9": "5"
       }
     },
@@ -151179,7 +151439,8 @@
     ],
     "reference": {
       "Patience": {
-        "ike9": "5"
+        "ike9": "5",
+        "edelgard8": "5"
       }
     },
     "icon": 2568,
@@ -152386,5 +152647,336 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_dg105"
+  },
+  "blackeagleaxe": {
+    "name": "Black Eagle Axe",
+    "skill": [
+      {
+        "name": "Black Eagle Axe",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn and after unit acts (if Canto triggers, after Canto), inflicts\u3010Exposure\u3011, \u3010Frozen\u3011, and\u3010Def Shackle\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, neutralizes foe's bonuses to Atk/Def, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Frozen\u3011\nIncreases Spd difference necessary for unit to make a follow-up attack by X and decreases Spd difference necessary for foe to make a follow-up attack by X during combat (if foe's Def > unit's Def, X = 10 + difference between Def stats \u00d7 2; otherwise, X = 10).\n\u3010Def Shackle\u3011\nInflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Black Eagle Axe": {
+        "edelgard8": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Black Eagle Axe",
+      "Of Rivals",
+      "Edelgard: Of Rivals",
+      "Emblem Edelgard",
+      "Engage Edelgard",
+      "E Edelgard",
+      "edelgard8"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax185"
+  },
+  "unitedstorm": {
+    "name": "United Storm",
+    "skill": [
+      {
+        "name": "United Storm",
+        "description": "When Special triggers, boosts damage by the greater of unit's Def or foe's Def.\nReduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials).\nIf unit initiates combat, grants another action to unit after combat (up to twice per turn).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "United Storm": {
+        "edelgard8": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "United Storm"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "stratflame": {
+    "name": "Strat Flame",
+    "skill": [
+      {
+        "name": "Strat Flame 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Def+3 to unit and unit deals +1 damage during combat (excluding area-of-effect Specials).\nIf unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and applies\u3010Divine Vein (Flame)\u3011on 5 spaces in a line centered on foe's space (oriented left to right based on the direction unit is facing) for 1 turn after combat."
+      },
+      {
+        "name": "Strat Flame 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Strat Flame 1"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Def+5 to unit and unit deals +3 damage during combat (excluding area-of-effect Specials).\nIf unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and applies\u3010Divine Vein (Flame)\u3011on 5 spaces in a line centered on foe's space (oriented left to right based on the direction unit is facing) for 1 turn after combat."
+      },
+      {
+        "name": "Strat Flame 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Strat Flame 2"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Def+7 to unit and unit deals +5 damage during combat (excluding area-of-effect Specials).\nIf unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and applies\u3010Divine Vein (Flame)\u3011on 5 spaces in a line centered on foe's space and on the 5 spaces behind those spaces (oriented left to right based on the direction unit is facing) for 1 turn after combat."
+      },
+      {
+        "name": "Strat Flame 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Strat Flame 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Def+10 to unit and unit deals +5 damage during combat (excluding area-of-effect Specials), reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack).\nIf unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and applies\u3010Divine Vein (Flame)\u3011on 5 spaces in a line centered on foe's space and on the 5 spaces behind those spaces (oriented left to right based on the direction unit is facing) for 1 turn after combat."
+      }
+    ],
+    "reference": {
+      "Strat Flame 1": {},
+      "Strat Flame 2": {},
+      "Strat Flame 3": {},
+      "Strat Flame 4": {
+        "edelgard8": "5"
+      }
+    },
+    "icon": 2591,
+    "HARD_ALT_NAME": [
+      "Strat Flame 1",
+      "Strat Flame 2",
+      "Strat Flame 3",
+      "Strat Flame 4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "stratassault": {
+    "name": "Strat Assault",
+    "skill": [
+      {
+        "name": "Strat Assault 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "At start of turn, if any foe is within 3 columns or 3 rows centered on unit, grants \u3010True Charge\u3011to unit and allies within 2 spaces of unit for 1 turn.\nInflicts Atk/Def/Res-2 on foes within 3 rows or 3 columns centered on unit, and those foes suffer +1 damage during combat (excluding area-of-effect Specials)."
+      },
+      {
+        "name": "Strat Assault 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Strat Assault 1"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "At start of turn, if any foe is within 3 columns or 3 rows centered on unit, grants \u3010True Charge\u3011to unit and allies within 2 spaces of unit for 1 turn.\nInflicts Atk/Def/Res-3 on foes within 3 rows or 3 columns centered on unit, and those foes suffer +2 damage during combat (excluding area-of-effect Specials)."
+      },
+      {
+        "name": "Strat Assault 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Strat Assault 2"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "At start of turn, if any foe is within 3 columns or 3 rows centered on unit or if unit's HP = 100%, grants\u3010True Charge\u3011to unit and allies within 2 spaces of unit for 1 turn.\nInflicts Atk/Def/Res-4 on foes within 3 rows or 3 columns centered on unit, and those foes suffer +3 damage during combat (excluding area-of-effect Specials)."
+      },
+      {
+        "name": "Strat Assault 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Strat Assault 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "At start of turn, if any foe is within 3 columns or 3 rows centered on unit or if unit's HP = 100%, grant\u3010True Charge\u3011to unit and allies within 2 spaces of unit for 1 turn, and grants \"unit can move 1 extra space\" to unit (that turn only; does not stack).\nInflicts Atk/Def/Res-4 on foes within 3 rows or 3 columns centered on unit, and those foes suffer +5 damage during combat (excluding area-of-effect Specials).\n\u3010True Charge\u3011\nUnit can move up to 3 spaces in any cardinal direction without being affected by movement obstruction effects from skills. (Cannot move through foes or terrain that blocks movement. Granted movement treated as Warp movement.)"
+      }
+    ],
+    "reference": {
+      "Strat Assault 1": {},
+      "Strat Assault 2": {},
+      "Strat Assault 3": {},
+      "Strat Assault 4": {
+        "edelgard8": "5"
+      }
+    },
+    "icon": 2592,
+    "HARD_ALT_NAME": [
+      "Strat Assault 1",
+      "Strat Assault 2",
+      "Strat Assault 3",
+      "Strat Assault 4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
   }
 }

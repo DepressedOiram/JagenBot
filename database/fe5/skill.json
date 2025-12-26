@@ -133,7 +133,7 @@
   },
   "wrath": {
     "name": "Wrath",
-    "desc": "Guaranteed critical hit if foe initiates combat.\n\n**Interactions if unit has Vantage:**\nIf foe doesn't have Vantage\nWrath doesn't activate.\nIf foe also has Vantage\nWrath activates.\n\nWrath also activates if foe has Vantage but the user doesn't.",
+    "desc": "Guaranteed critical hit on all non follow-up attacks if foe strikes first in combat.",
     "emoji": "<:jugdral_wrath:1317280364766691439>",
     "reference": {
       "Character": "Osian\nBrighton\nSara\nMiranda\nXavier",

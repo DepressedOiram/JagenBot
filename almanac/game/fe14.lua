@@ -475,6 +475,14 @@ end
 function Character:get_mod()
     local text = self:get_lvl_mod()
     
+    -- Internal Level
+    if not self.minimal then
+        if self.data.internal ~= 0 then
+            text = text .. string.format(" (Internal: %s)",
+            self.data.internal)
+        end
+    end
+
     -- Dragon Blood
     if self:has_blood() then
         text = pack:get("blood") .. text

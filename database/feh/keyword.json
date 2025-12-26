@@ -1877,7 +1877,8 @@
             ],
             "Lance": [],
             "Axe": [
-                "Arena Axe+"
+                "Arena Axe+",
+                "Black Eagle Axe"
             ],
             "Staff": [],
             "Bow": [
@@ -2205,6 +2206,7 @@
                 "Flared Sparrow",
                 "Flared Mirror",
                 "Flared Sturdy",
+                "Strat Flame 4",
                 "Lady Knight"
             ],
             "B": [],
@@ -2834,7 +2836,9 @@
                 "Bereft Lance",
                 "Brilliant Brident"
             ],
-            "Axe": [],
+            "Axe": [
+                "Black Eagle Axe"
+            ],
             "Staff": [],
             "Bow": [
                 "Rampart Bow"
@@ -3316,7 +3320,9 @@
                 "Deliverer's Brand"
             ],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Black Eagle Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -6758,6 +6764,27 @@
             "Beast": []
         },
         "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
+    "truecharge": {
+        "name": "True Charge",
+        "description": "Unit can move up to 3 spaces in any cardinal direction without being affected by movement obstruction effects from skills. (Cannot move through foes or terrain that blocks movement. Granted movement treated as Warp movement.)",
+        "color": "Red",
+        "icon": "truecharge",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Strat Assault 4"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },

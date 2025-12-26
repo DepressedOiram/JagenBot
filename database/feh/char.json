@@ -39482,15 +39482,20 @@
     "pool": "special",
     "internal_id": "\u30df\u30eb\u30e9",
     "voice": "Erica Lindbeck",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "sacanhen (\u3055\u304b\u306a\u3078\u3093)",
+    "resplendent_voice": "Erica Lindbeck",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Myrrh_Great_Dragon_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Myrrh_Great_Dragon_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Myrrh_Great_Dragon_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Myrrh_Great_Dragon_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Myrrh_Great_Dragon_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Myrrh_Great_Dragon_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Myrrh_Great_Dragon_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Myrrh_Great_Dragon_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "magvel"
     ],
@@ -39546,7 +39551,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I have a dream for you.",
+          "Be good and go to sleep!",
+          "Sweet dreams.",
+          "Good night!"
+        ],
+        "Status": [
+          "-",
+          "I got these clothes from the realm of dreams. What do you think?",
+          "Ohh, don't tease me!",
+          "I want to show Ephraim these clothes, too.",
+          "Sometimes I dream of my father.",
+          "The wings of the \u00e1lfar are so delicate, aren't they? And so beautiful!",
+          "I wish to always be with you all, even if it's just in a dream...",
+          "I want you to have wonderful dreams, too."
+        ],
+        "Map Select": [
+          "Over there?",
+          "*Yawn*",
+          "To the realm of dreams."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Myrrh",
     "SEARCH_NAME": "Myrrh",
@@ -73519,7 +73555,8 @@
       "edelgard4",
       "edelgard5",
       "edelgard6",
-      "edelgard7"
+      "edelgard7",
+      "edelgard8"
     ],
     "prf": {
       "": "victoriousaxeeff",
@@ -93777,7 +93814,8 @@
       "edelgard4",
       "edelgard5",
       "edelgard6",
-      "edelgard7"
+      "edelgard7",
+      "edelgard8"
     ],
     "prf": {
       "": "aymreff",
@@ -101327,7 +101365,8 @@
       "edelgard4",
       "edelgard5",
       "edelgard6",
-      "edelgard7"
+      "edelgard7",
+      "edelgard8"
     ],
     "prf": {
       "": "flowerhauteclereeff",
@@ -119232,7 +119271,8 @@
       "edelgard3",
       "edelgard5",
       "edelgard6",
-      "edelgard7"
+      "edelgard7",
+      "edelgard8"
     ],
     "prf": {
       "": "twincrestpower",
@@ -147852,7 +147892,8 @@
       "edelgard3",
       "edelgard4",
       "edelgard6",
-      "edelgard7"
+      "edelgard7",
+      "edelgard8"
     ],
     "prf": {
       "": "regalsunshade",
@@ -187375,7 +187416,8 @@
       "edelgard3",
       "edelgard4",
       "edelgard5",
-      "edelgard7"
+      "edelgard7",
+      "edelgard8"
     ],
     "prf": {
       "": "blackyulelance",
@@ -217651,7 +217693,8 @@
       "edelgard3",
       "edelgard4",
       "edelgard5",
-      "edelgard6"
+      "edelgard6",
+      "edelgard8"
     ],
     "prf": {
       "": "eaglesheart",
@@ -239921,6 +239964,188 @@
       "spd": "wintertrinket",
       "def": "wintertrinket",
       "res": "wintertrinket"
+    }
+  },
+  "edelgard8": {
+    "name": "Edelgard",
+    "title": "Of Rivals",
+    "description": "One of the Emblems who were summoned to another Elyos. Resides in the Bracelet of the Three Houses. Appears in Fire Emblem: Three Houses / Engage.",
+    "origin": "Three Houses + Engage",
+    "artist": "Akka (\u3042\u3063\u304b)",
+    "move": "Armored",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1328",
+    "type": "emblem",
+    "version": "10.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf unit initiates combat, grants another action to unit after combat (once per turn; triggers only when unit's Range = 1).\nNeutralizes effects that grant unit another action after combat and after unit acts and effects that are triggered at those times (such as effects that re-enable Canto after Canto triggers or effects that inflict Gravity on unit and unit's Pair Up cohort); does not apply to Specials like Galeforce that grant unit another action when triggered, status effects like Share Spoils, or effects that grant unit another action if an Assist skill is used.",
+    "base": {
+      "hp": 23,
+      "atk": 10,
+      "spd": 8,
+      "def": 14,
+      "res": 7
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 90,
+      "spd": 50,
+      "def": 80,
+      "res": 70
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Black Eagle Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "United Storm": "5"
+    },
+    "passive": {
+      "A": {
+        "Strat Flame 1": "2",
+        "Strat Flame 2": "3",
+        "Strat Flame 3": "4",
+        "Strat Flame 4": "5"
+      },
+      "B": {
+        "Quick Riposte 1": "2",
+        "Quick Riposte 2": "3",
+        "Quick Riposte 3": "4",
+        "Patience": "5"
+      },
+      "C": {
+        "Strat Assault 1": "2",
+        "Strat Assault 2": "3",
+        "Strat Assault 3": "4",
+        "Strat Assault 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Edelgard_Of_Rivals_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Edelgard_Of_Rivals_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Edelgard_Of_Rivals_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Edelgard_Of_Rivals_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of Rivals",
+      "Edelgard: Of Rivals",
+      "Emblem Edelgard",
+      "Engage Edelgard",
+      "E Edelgard",
+      "edelgard8"
+    ],
+    "HARD_ALT_NAME": [
+      "Of Rivals",
+      "Edelgard: Of Rivals",
+      "Emblem Edelgard",
+      "Engage Edelgard",
+      "E Edelgard",
+      "edelgard8"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30a8\u30fc\u30c7\u30eb",
+    "voice": "Tara Platt",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "A me from the Officers Academy is here. It is odd. We look alike, but only I know where her journey takes her.",
+        "Though ruled by dragons, Elyos lacks the corruption I despise. Besides, the Divine Dragon there was already...",
+        "Everyone in the Black Eagle House is still precious to me. I may no longer lead them, but I hope to see them.",
+        "I can eat and drink here, so I wish to try the teas I used to share with the professor. Would you like to join me?",
+        "Dimitri, Claude, and I now fight as one. It can now be said that they have become trusted allies."
+      ],
+      "Visit": [
+        "This greeting is a show of friendship from [F].\nI suspect I will be visiting this castle again in the future."
+      ],
+      "Level": [
+        "A positive result. Dimitri and Claude will also be pleased with this.",
+        "Such notable improvement comes as no surprise. Now, shall we continue to the next battle?",
+        "Pessimism serves no purpose now, for this is not the end."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Emblem Edelgard. I entrust you with my power that you might wield it as your heart desires."
+      ],
+      "Learn Skill": [
+        "It is important to have power, as an Emblem and as an individual Hero."
+      ],
+      "Confession": [
+        "Is something wrong, [S]? You are eyeing me with such interest. Is it that my expression seems too soft?\nIt makes sense that you might think so if you knew only the me in F\u00f3dlan. I do not bear the same burdens.\nAs an Emblem, I existed apart from the world of F\u00f3dlan, and the Elyos I manifested in was destroyed.\nMy...our purpose is to unite in the effort of fighting alongside you to support your goals and values.\nAt times, you seem mysterious, like the professor or the Divine Dragon. Please, allow me to stay by your side."
+      ],
+      "Special": [
+        "Houses unite!",
+        "Emblem guide you!",
+        "I will unify them!",
+        "Emblem engage!"
+      ],
+      "Status": [
+        "-",
+        "This world is very comfortable. I feel as though...I can simply be myself.",
+        "Ahhh! Oh... I apologize for losing my composure. I am still getting used to being able to feel it when I am touched.",
+        "If you are looking for Dimitri and Claude, they are not with me right now. It is only me.",
+        "I was sealed away in Elyos for a long time. By the time I awakened, the world was already headed for ruin.",
+        "\"Lead us, Emblem of Rivals...\" That is the invocation that summoned us. Have you memorized it?",
+        "We were three Emblems in one, so it is lonely being by myself. Although the quiet is a refreshing change.",
+        "This version of me is an Emblem. An entity that doesn't follow a separate path. I will endeavor to be worthy of everyone's trust."
+      ],
+      "Map Select": [
+        "Certainly.",
+        "We will win.",
+        "Expect greatness."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Edelgard",
+    "SEARCH_NAME": "Emblem Edelgard",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Green_Axe:1317239517136031897>Emblem Edelgard",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "edelgard",
+      "edelgard2",
+      "edelgard3",
+      "edelgard4",
+      "edelgard5",
+      "edelgard6",
+      "edelgard7"
+    ],
+    "prf": {
+      "": "blackeagleaxe",
+      "eff": "blackeagleaxe",
+      "atk": "blackeagleaxe",
+      "spd": "blackeagleaxe",
+      "def": "blackeagleaxe",
+      "res": "blackeagleaxe"
     }
   }
 }

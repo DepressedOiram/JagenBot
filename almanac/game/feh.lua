@@ -1208,7 +1208,7 @@ function Skill:show_tier(index, minimal)
         for key, value in pairs(tier.required) do
             if (#tier.required > 1) then
                 if (requirecount == 0) then
-                    text = text .. value .. " or\n"
+                    text = text .. value .. " or "
                 else
                     text = text .. value
                 end

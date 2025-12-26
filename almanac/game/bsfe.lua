@@ -80,6 +80,8 @@ function Character:final_base()
             base.wlv = math.max(self.job.data.base.wlv, self.data.base.wlv)
         end
     end
+
+    base = self:common_base(base)
     
     return base
 end

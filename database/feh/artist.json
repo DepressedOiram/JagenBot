@@ -328,7 +328,13 @@
       "Resplendent Catria",
       "Resp Catria",
       "R Catria",
-      "Catria (Resplendent)"
+      "Catria (Resplendent)",
+      "Of Rivals",
+      "Edelgard: Of Rivals",
+      "Emblem Edelgard",
+      "Engage Edelgard",
+      "E Edelgard",
+      "edelgard8"
     ],
     "HARD_ALT_NAME": [
       "T Laila",
@@ -367,11 +373,18 @@
       "Resplendent Catria",
       "Resp Catria",
       "R Catria",
-      "Catria (Resplendent)"
+      "Catria (Resplendent)",
+      "Of Rivals",
+      "Edelgard: Of Rivals",
+      "Emblem Edelgard",
+      "Engage Edelgard",
+      "E Edelgard",
+      "edelgard8"
     ],
     "heroes": {
       "altina3": "<:Green_Axe:1317239517136031897>Nabata Altina",
       "catriaR": "<:Blue_Lance:1317239378208096338>Catria (Resplendent)",
+      "edelgard8": "<:Green_Axe:1317239517136031897>Emblem Edelgard",
       "leila2": "<:Red_Tome:1317239730714316800>Thief Leila",
       "lucina4R": "<:Blue_Lance:1317239378208096338>Brave Lucina (Resplendent)"
     },
@@ -30710,6 +30723,19 @@
       "Resp Brave Dimitri",
       "R Brave Dimitri",
       "Brave Dimitri (Resplendent)"
+    ]
+  },
+  "sacanhen": {
+    "heroes": {
+      "myrrhR": "<:Green_Breath:1317239551693164595>Myrrh (Resplendent)"
+    },
+    "name": "sacanhen (\u3055\u304b\u306a\u3078\u3093)",
+    "ALT_NAME": [
+      "\u3055\u304b\u306a\u3078\u3093",
+      "Resplendent Myrrh",
+      "Resp Myrrh",
+      "R Myrrh",
+      "Myrrh (Resplendent)"
     ]
   }
 }
