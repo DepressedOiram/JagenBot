@@ -20012,7 +20012,13 @@
       "Jedah: Priest of Duma",
       "Base Jedah",
       "Normal Jedah",
-      "jedah"
+      "jedah",
+      "The Faithful",
+      "Franz: The Faithful",
+      "Base Franz",
+      "Normal Franz",
+      "Regular Franz",
+      "franz"
     ],
     "HARD_ALT_NAME": [
       "P Lifis",
@@ -20036,9 +20042,16 @@
       "Jedah: Priest of Duma",
       "Base Jedah",
       "Normal Jedah",
-      "jedah"
+      "jedah",
+      "The Faithful",
+      "Franz: The Faithful",
+      "Base Franz",
+      "Normal Franz",
+      "Regular Franz",
+      "franz"
     ],
     "heroes": {
+      "franz": "<:Blue_Lance:1317239378208096338>Franz",
       "jedah": "<:Red_Tome:1317239730714316800>Jedah",
       "lifis": "<:Green_Axe:1317239517136031897>Pirate Lifis",
       "perne": "<:Colorless_Dagger:1317239418943438869>Perne"
@@ -29450,10 +29463,11 @@
   },
   "shibayamawankuro": {
     "heroes": {
+      "morva": "<:Green_Breath:1317239551693164595>Morva",
       "nergal": "<:Green_Tome:1317239575352971396>Fallen Nergal",
       "oswin": "<:Blue_Lance:1317239378208096338>Oswin"
     },
-    "name": "shibayama wankuro",
+    "name": "shibayama wankuro / Trys Inc.",
     "ALT_NAME": [
       "Traitor to Nabata",
       "Nergal: Traitor to Nabata",
@@ -29466,7 +29480,13 @@
       "Oswin: Impregnable Knight",
       "Normal Oswin",
       "Base Oswin",
-      "oswin"
+      "oswin",
+      "Darkling Warden",
+      "Morva: Darkling Warden",
+      "Base Morva",
+      "Normal Morva",
+      "Regular Morva",
+      "morva"
     ],
     "HARD_ALT_NAME": [
       "Traitor to Nabata",
@@ -29479,7 +29499,13 @@
       "Oswin: Impregnable Knight",
       "Normal Oswin",
       "Base Oswin",
-      "oswin"
+      "oswin",
+      "Darkling Warden",
+      "Morva: Darkling Warden",
+      "Base Morva",
+      "Normal Morva",
+      "Regular Morva",
+      "morva"
     ]
   },
   "ir": {
@@ -29692,6 +29718,7 @@
   "keg": {
     "heroes": {
       "lyn10": "<:Green_Beast:1317239527953141870>Mythic Lyn",
+      "lysithea2R": "<:Red_Tome:1317239730714316800>Brave Lysithea (Resplendent)",
       "tharjaR": "<:Red_Tome:1317239730714316800>Tharja (Resplendent)"
     },
     "name": "\uff2b\uff45\uff27",
@@ -29709,7 +29736,11 @@
       "Beast Lyn",
       "Uma Lyn",
       "Horse Lyn",
-      "lyn10"
+      "lyn10",
+      "Resplendent Brave Lysithea",
+      "Resp Brave Lysithea",
+      "R Brave Lysithea",
+      "Brave Lysithea (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Resplendent Tharja",
@@ -29725,7 +29756,11 @@
       "Beast Lyn",
       "Uma Lyn",
       "Horse Lyn",
-      "lyn10"
+      "lyn10",
+      "Resplendent Brave Lysithea",
+      "Resp Brave Lysithea",
+      "R Brave Lysithea",
+      "Brave Lysithea (Resplendent)"
     ]
   },
   "kou": {
@@ -30492,6 +30527,7 @@
   },
   "sabamizore": {
     "heroes": {
+      "larachel5": "<:Colorless_Staff:1317239426866483261>Rearmed L'Arachel",
       "ytiki7": "<:Green_Breath:1317239551693164595>Attuned Tiki"
     },
     "name": "sabamizore (\u3055\u3070\u307F\u305E\u308C)",
@@ -30500,7 +30536,20 @@
       "Dragon's Progeny",
       "Tiki: Dragon's Progeny",
       "Attuned Tiki",
-      "tiki11"
+      "tiki11",
+      "Justice-Armed",
+      "L'Arachel: Justice-Armed",
+      "Rearmed L'Arachel",
+      "Rearm L'Arachel",
+      "R L'Arachel",
+      "Arm L'Arachel",
+      "l'arachel5",
+      "Larachel: Justice-Armed",
+      "Rearmed Larachel",
+      "Rearm Larachel",
+      "R Larachel",
+      "Arm Larachel",
+      "larachel5"
     ]
   },
   "hanada": {
@@ -30790,6 +30839,35 @@
       "Resp Myrrh",
       "R Myrrh",
       "Myrrh (Resplendent)"
+    ]
+  },
+  "nomatakafumi": {
+    "heroes": {
+      "lute3": "<:Red_Tome:1317239730714316800>Aided Lute"
+    },
+    "name": "Noma Takafumi (\u91ce\u9593\u5d07\u53f2)",
+    "ALT_NAME": [
+      "\u91ce\u9593\u5d07\u53f2",
+      "Limitless Curiosity",
+      "Lute: Limitless Curiosity",
+      "Aided Lute",
+      "A Lute",
+      "Aide Lute",
+      "lute3"
+    ]
+  },
+  "aoirameki": {
+    "heroes": {
+      "garcia": "<:Green_Axe:1317239517136031897>Garcia"
+    },
+    "name": "Aoi rameki / Trys Inc.",
+    "ALT_NAME": [
+      "Warrior Reborn",
+      "Garcia: Warrior Reborn",
+      "Base Garcia",
+      "Normal Garcia",
+      "Regular Garcia",
+      "garcia"
     ]
   }
 }

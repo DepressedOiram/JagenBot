@@ -117,7 +117,10 @@
             "uses": 16
         },
         "info": {},
-        "weapon": true
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
     },
     "armorslayer": {
         "name": "Armorslayer",
@@ -134,7 +137,10 @@
             "price": 760
         },
         "info": {},
-        "weapon": true
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
     },
     "rapier": {
         "name": "Rapier",

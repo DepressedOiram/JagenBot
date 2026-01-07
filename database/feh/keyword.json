@@ -223,7 +223,9 @@
             "assist": [],
             "special": [],
             "A": [],
-            "B": [],
+            "B": [
+                "Preempt Amplify"
+            ],
             "C": [
                 "Atk/Res Liberate"
             ],
@@ -370,6 +372,7 @@
                     "Kindred Tome",
                     "K\u00f6rmt",
                     "Nova",
+                    "Sei\u00f0r",
                     "Tome of Luxuries",
                     "Winds of Change"
                 ],
@@ -424,11 +427,13 @@
                 "Lull Atk/Def 4",
                 "Lull Spd/Def 4",
                 "Lull Spd/Res 4",
+                "A/R Lull Finish",
                 "S/D Lull Finish",
                 "S/R Lull Finish",
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
                 "Atk/Res Favor",
+                "Preempt Amplify",
                 "Fair Fight",
                 "Fallen Star II",
                 "Haunting Choker",
@@ -603,7 +608,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Peerless Beauty"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {
             "baldr3": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>New Year Baldr"
         },
@@ -678,7 +694,9 @@
                 "Gifted Magic II",
                 "Sacred Wind"
             ],
-            "A": [],
+            "A": [
+                "Superior Talent"
+            ],
             "B": [
                 "Escape Route 4",
                 "Atk/Res Havoc",
@@ -798,6 +816,7 @@
                 "Blue Skies 4"
             ],
             "B": [
+                "Preempt Amplify",
                 "Divine Brawn",
                 "Lunar Brace II",
                 "Moonlight Bangle",
@@ -1045,13 +1064,15 @@
                 "Baton of Dusk"
             ],
             "Bow": [
-                "Deer's Heart"
+                "Deer's Heart",
+                "Keen Coyote Bow"
             ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
                     "\u00dej\u00e1lfi",
                     "Agnea's Arrow",
+                    "Gullinkambi Egg",
                     "Sister Hagiota",
                     "Tome of Dusk"
                 ],
@@ -1128,7 +1149,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Faithful Breath"
+                "Faithful Breath",
+                "Frostbite Breath",
+                "Purging Breath"
             ],
             "Beast": [
                 "Nocturnal Fang"
@@ -1218,6 +1241,7 @@
             "A": [],
             "B": [],
             "C": [
+                "Future-Focused+",
                 "Future-Guided"
             ],
             "X": [],
@@ -1619,7 +1643,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Superior Talent"
+            ],
             "B": [],
             "C": [
                 "Just like Mother"
@@ -1844,6 +1870,7 @@
             "Lance": [],
             "Axe": [],
             "Staff": [
+                "Arcane Latona",
                 "Incurable+",
                 "Serpentine Staff+"
             ],
@@ -1864,8 +1891,9 @@
                 "Flamelick Breath"
             ],
             "Beast": [
+                "Horn of Harvest",
                 "Nectar Horn",
-                "Horn of Harvest"
+                "Ravager"
             ]
         },
         "reference_skill": {
@@ -2329,7 +2357,9 @@
                     "Exalt's Tactics"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Frostbite Breath"
+            ],
             "Beast": []
         },
         "reference_skill": {
@@ -2760,7 +2790,9 @@
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Sei\u00f0r"
+                ],
                 "Colorless_Tome": [
                     "\u00D3\u00F0r of Creation"
                 ]
@@ -3321,9 +3353,11 @@
                 "Colorless_Tome": []
             },
             "Breath": [
+                "Purging Breath",
                 "Shadow Breath"
             ],
             "Beast": [
+                "Ravager",
                 "Tempered Antler"
             ]
         },
@@ -3368,7 +3402,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Frostbite Breath"
+            ],
             "Beast": [
                 "Sky-Pirate Claw"
             ]
@@ -3917,6 +3953,7 @@
             ],
             "Axe": [
                 "Axe of Despair",
+                "Hexblade Axe+",
                 "Payday Pouch"
             ],
             "Staff": [
@@ -4021,7 +4058,9 @@
             ],
             "Lance": [],
             "Axe": [],
-            "Staff": [],
+            "Staff": [
+                "Arcane Latona"
+            ],
             "Bow": [],
             "Dagger": [],
             "Tome": {
@@ -4033,7 +4072,8 @@
             "Breath": [],
             "Beast": [
                 "Entwining Horn",
-                "Preying Fang"
+                "Preying Fang",
+                "Ravager"
             ]
         },
         "reference_skill": false,
@@ -4545,7 +4585,8 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
-                    "Dark Scripture"
+                    "Dark Scripture",
+                    "Unequaled Tome"
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
@@ -4598,6 +4639,7 @@
                 "Wing-Lifted Spear"
             ],
             "Axe": [
+                "Altruist's Axe",
                 "Desert-Tiger Axe",
                 "Fortified Axe"
             ],
@@ -4907,6 +4949,7 @@
                 "Beast Threaten",
                 "Panic Smoke 4",
                 "Chaos Named+",
+                "Future-Focused+",
                 "Glittering Anima",
                 "Twinkling Anima"
             ],
@@ -5041,6 +5084,7 @@
                 "Wind Tribe Club+"
             ],
             "Staff": [
+                "Arcane Latona",
                 "Kia Staff",
                 "Repair",
                 "Seaside Parasol+",
@@ -5093,6 +5137,7 @@
                     "K\u00f6rmt",
                     "Light of Dawn",
                     "Nova",
+                    "Sei\u00f0r",
                     "Silver of Dawn"
                 ],
                 "Colorless_Tome": [
@@ -5348,7 +5393,9 @@
             ],
             "Axe": [],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "Keen Coyote Bow"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
@@ -5369,6 +5416,7 @@
             "assist": [],
             "special": [],
             "A": [
+                "Peerless Beauty",
                 "Prof's Guidance",
                 "Sacae's Decree",
                 "True Genius"
@@ -5423,7 +5471,9 @@
             "A": [
                 "True Genius"
             ],
-            "B": [],
+            "B": [
+                "Preempt Amplify"
+            ],
             "C": [],
             "X": [],
             "S": [],
@@ -5958,7 +6008,8 @@
                     "Dark Scripture",
                     "Mirage Rod",
                     "Petrify",
-                    "Tome of Dusk"
+                    "Tome of Dusk",
+                    "Unequaled Tome"
                 ],
                 "Blue_Tome": [
                     "Ancient Trickery",
@@ -5992,7 +6043,9 @@
             "special": [
                 "Enclosure II"
             ],
-            "A": [],
+            "A": [
+                "Peerless Beauty"
+            ],
             "B": [
                 "Atk/Res Havoc",
                 "Spd/Def Havoc",
@@ -6408,6 +6461,7 @@
                 "Wing-Lifted Spear"
             ],
             "Axe": [
+                "Altruist's Axe",
                 "Dragoon Axe",
                 "Ebon B\u00f6lverk",
                 "Fair-Fury Axe"
@@ -6635,6 +6689,7 @@
             "A": [],
             "B": [],
             "C": [
+                "Future-Focused+",
                 "Future-Guided",
                 "Future-Sighted"
             ],
@@ -6659,7 +6714,8 @@
                 "Nabata Lance+"
             ],
             "Axe": [
-                "Auto-Lofnhei\u00f0r"
+                "Auto-Lofnhei\u00f0r",
+                "Hexblade Axe+"
             ],
             "Staff": [],
             "Bow": [
@@ -6789,7 +6845,8 @@
             "special": [],
             "A": [
                 "Heaven's Stead",
-                "Heaven's Stead N"
+                "Heaven's Stead N",
+                "Peerless Beauty"
             ],
             "B": [],
             "C": [],
@@ -6967,7 +7024,8 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Lilac-Jade Breath"
+                "Lilac-Jade Breath",
+                "Purging Breath"
             ],
             "Beast": []
         },

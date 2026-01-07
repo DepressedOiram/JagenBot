@@ -3297,7 +3297,13 @@
       "L Ayra",
       "Leg Ayra",
       "Lyra",
-      "ayra3"
+      "ayra3",
+      "Limitless Curiosity",
+      "Lute: Limitless Curiosity",
+      "Aided Lute",
+      "A Lute",
+      "Aide Lute",
+      "lute3"
     ],
     "HARD_ALT_NAME": [
       "ayra",
@@ -3358,7 +3364,13 @@
       "L Ayra",
       "Leg Ayra",
       "Lyra",
-      "ayra3"
+      "ayra3",
+      "Limitless Curiosity",
+      "Lute: Limitless Curiosity",
+      "Aided Lute",
+      "A Lute",
+      "Aide Lute",
+      "lute3"
     ],
     "heroes": {
       "ayra": "<:Red_Sword:1317239717707911188>Ayra",
@@ -3367,6 +3379,7 @@
       "ayra3": "<:Red_Sword:1317239717707911188>Legendary Ayra",
       "lute": "<:Blue_Tome:1317239386491977749>Lute",
       "lute2": "<:Blue_Tome:1317239386491977749>Summer Lute",
+      "lute3": "<:Red_Tome:1317239730714316800>Aided Lute",
       "lysithea3": "<:Colorless_Tome:1317239438602145842>Harmonic Lysithea"
     },
     "name": "Brina Palencia"
@@ -4387,7 +4400,20 @@
       "L'Arachel: Summer Princess",
       "Summer Princess",
       "Summer L'Arachel",
-      "Summer Larchel"
+      "Summer Larchel",
+      "Justice-Armed",
+      "L'Arachel: Justice-Armed",
+      "Rearmed L'Arachel",
+      "Rearm L'Arachel",
+      "R L'Arachel",
+      "Arm L'Arachel",
+      "l'arachel5",
+      "Larachel: Justice-Armed",
+      "Rearmed Larachel",
+      "Rearm Larachel",
+      "R Larachel",
+      "Arm Larachel",
+      "larachel5"
     ],
     "HARD_ALT_NAME": [
       "gunnthra",
@@ -4461,7 +4487,20 @@
       "S L'Arachel",
       "S Larchel",
       "S'Arachel",
-      "Summer Larchel"
+      "Summer Larchel",
+      "Justice-Armed",
+      "L'Arachel: Justice-Armed",
+      "Rearmed L'Arachel",
+      "Rearm L'Arachel",
+      "R L'Arachel",
+      "Arm L'Arachel",
+      "l'arachel5",
+      "Larachel: Justice-Armed",
+      "Rearmed Larachel",
+      "Rearm Larachel",
+      "R Larachel",
+      "Arm Larachel",
+      "larachel5"
     ],
     "heroes": {
       "gunnthra": "<:Green_Tome:1317239575352971396>Gunnthr\u00e1",
@@ -4471,7 +4510,8 @@
       "larachelR": "<:Blue_Tome:1317239386491977749>L'Arachel (Resplendent)",
       "larachel2": "<:Green_Tome:1317239575352971396>Halloween L'Arachel",
       "larachel3": "<:Colorless_Staff:1317239426866483261>Young L'Arachel",
-      "larachel4": "<:Colorless_Staff:1317239426866483261>Summer L'Arachel"
+      "larachel4": "<:Colorless_Staff:1317239426866483261>Summer L'Arachel",
+      "larachel5": "<:Colorless_Staff:1317239426866483261>Rearmed L'Arachel"
     },
     "name": "Carrie Keranen"
   },
@@ -12844,7 +12884,11 @@
       "Rearm Lysithea",
       "R Lysithea",
       "Arm Lysithea",
-      "lysithea5"
+      "lysithea5",
+      "Resplendent Brave Lysithea",
+      "Resp Brave Lysithea",
+      "R Brave Lysithea",
+      "Brave Lysithea (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Janice Kawaye",
@@ -12889,11 +12933,16 @@
       "Rearm Lysithea",
       "R Lysithea",
       "Arm Lysithea",
-      "lysithea5"
+      "lysithea5",
+      "Resplendent Brave Lysithea",
+      "Resp Brave Lysithea",
+      "R Brave Lysithea",
+      "Brave Lysithea (Resplendent)"
     ],
     "heroes": {
       "lysithea": "<:Red_Tome:1317239730714316800>Lysithea",
       "lysithea2": "<:Red_Tome:1317239730714316800>Brave Lysithea",
+      "lysithea2R": "<:Red_Tome:1317239730714316800>Brave Lysithea (Resplendent)",
       "lysithea3": "<:Colorless_Tome:1317239438602145842>Harmonic Lysithea",
       "lysithea4": "<:Colorless_Tome:1317239438602145842>Maid Lysithea",
       "lysithea5": "<:Green_Tome:1317239575352971396>Rearmed Lysithea"
@@ -33091,6 +33140,72 @@
       "Base Vanitas",
       "Normal Vanitas",
       "vanitas"
+    ]
+  },
+  "johnpatneaude": {
+    "heroes": {
+      "franz": "<:Blue_Lance:1317239378208096338>Franz"
+    },
+    "name": "John Patneaude",
+    "ALT_NAME": [
+      "The Faithful",
+      "Franz: The Faithful",
+      "Base Franz",
+      "Normal Franz",
+      "Regular Franz",
+      "franz"
+    ],
+    "HARD_ALT_NAME": [
+      "The Faithful",
+      "Franz: The Faithful",
+      "Base Franz",
+      "Normal Franz",
+      "Regular Franz",
+      "franz"
+    ]
+  },
+  "jonathanlipow": {
+    "heroes": {
+      "morva": "<:Green_Breath:1317239551693164595>Morva"
+    },
+    "name": "Jonathan Lipow",
+    "ALT_NAME": [
+      "Darkling Warden",
+      "Morva: Darkling Warden",
+      "Base Morva",
+      "Normal Morva",
+      "Regular Morva",
+      "morva"
+    ],
+    "HARD_ALT_NAME": [
+      "Darkling Warden",
+      "Morva: Darkling Warden",
+      "Base Morva",
+      "Normal Morva",
+      "Regular Morva",
+      "morva"
+    ]
+  },
+  "micklauer": {
+    "heroes": {
+      "garcia": "<:Green_Axe:1317239517136031897>Garcia"
+    },
+    "name": "Mick Lauer",
+    "ALT_NAME": [
+      "Warrior Reborn",
+      "Garcia: Warrior Reborn",
+      "Base Garcia",
+      "Normal Garcia",
+      "Regular Garcia",
+      "garcia"
+    ],
+    "HARD_ALT_NAME": [
+      "Warrior Reborn",
+      "Garcia: Warrior Reborn",
+      "Base Garcia",
+      "Normal Garcia",
+      "Regular Garcia",
+      "garcia"
     ]
   }
 }
