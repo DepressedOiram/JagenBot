@@ -477,9 +477,11 @@ function Character:get_mod()
     
     -- Internal Level
     if not self.minimal then
-        if self.data.internal ~= 0 then
-            text = text .. string.format(" (Internal: %s)",
-            self.data.internal)
+        if self:has_internal() then
+            if self.data.internal ~= 0 then
+                text = text .. string.format(" (Internal: %s)",
+                self.data.internal)
+            end
         end
     end
 
@@ -1028,6 +1030,10 @@ function Character:apply_item_bonus(item, stats)
             stats.eff = stats.eff + self.rank.atk
         end
     end
+end
+
+function Character:has_internal()
+    return self.data.internal
 end
 
 function Character:has_blood()
