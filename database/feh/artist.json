@@ -15226,7 +15226,13 @@
       "H Nerthuz",
       "Harvest Nerthuz",
       "Spooky Nerthuz",
-      "nerthuz4"
+      "nerthuz4",
+      "Zenith Challenger",
+      "Mia: Zenith Challenger",
+      "Ilia Mia",
+      "I Mia",
+      "Ilian Mia",
+      "mia6"
     ],
     "HARD_ALT_NAME": [
       "Arm Reflet F",
@@ -15344,13 +15350,20 @@
       "H Nerthuz",
       "Harvest Nerthuz",
       "Spooky Nerthuz",
-      "nerthuz4"
+      "nerthuz4",
+      "Zenith Challenger",
+      "Mia: Zenith Challenger",
+      "Ilia Mia",
+      "I Mia",
+      "Ilian Mia",
+      "mia6"
     ],
     "heroes": {
       "caeda6": "<:Blue_Lance:1317239378208096338>Attuned Caeda",
       "camilla9": "<:Green_Tome:1317239575352971396>Legendary Camilla",
-      "frobin6": "<:Colorless_Breath:1317239411980767363>Rearmed Female Robin",
+      "mia6": "<:Red_Sword:1317239717707911188>Ilia Mia",
       "nerpuz4": "<:Red_Beast:1317239666944114688>Halloween Ner\u00feuz",
+      "frobin6": "<:Colorless_Breath:1317239411980767363>Rearmed Female Robin",
       "tharja5": "<:Blue_Tome:1317239386491977749>Summer Tharja",
       "tharja7": "<:Green_Tome:1317239575352971396>Attuned Tharja"
     },
@@ -18733,20 +18746,12 @@
       "Harmonized Hilda",
       "Summer Hilda",
       "Duo Fodlan Hilda",
-      "Harmonic Fodlan Hilda",
-      "Harmonized Fodlan Hilda",
       "Summer Fodlan Hilda",
       "Duo 3H Hilda",
-      "Harmonic 3H Hilda",
-      "Harmonized 3H Hilda",
       "Summer 3H Hilda",
       "Duo F Hilda",
-      "Harmonic F Hilda",
-      "Harmonized F Hilda",
       "Summer F Hilda",
       "Duo FE16 Hilda",
-      "Harmonic FE16 Hilda",
-      "Harmonized FE16 Hilda",
       "Summer FE16 Hilda",
       "F\u00e1fnir: Fresh Ambition",
       "Fresh Ambition",
@@ -18888,23 +18893,13 @@
       "Silda",
       "Dilda",
       "Duo Hilda",
-      "Harmonic Hilda",
-      "Harmonized Hilda",
       "Summer Hilda",
-      "Harmonic Fodlan Hilda",
-      "Harmonized Fodlan Hilda",
       "Summer Fodlan Hilda",
       "Duo 3H Hilda",
-      "Harmonic 3H Hilda",
-      "Harmonized 3H Hilda",
       "Summer 3H Hilda",
       "Duo F Hilda",
-      "Harmonic F Hilda",
-      "Harmonized F Hilda",
       "Summer F Hilda",
       "Duo FE16 Hilda",
-      "Harmonic FE16 Hilda",
-      "Harmonized FE16 Hilda",
       "Summer FE16 Hilda",
       "fafnir2",
       "New Year F\u00e1fnir",
@@ -21211,7 +21206,13 @@
       "Resplendent Titania",
       "Resp Titania",
       "R Titania",
-      "Titania (Resplendent)"
+      "Titania (Resplendent)",
+      "Above the Stars",
+      "Minerva: Above the Stars",
+      "Ilia Minerva",
+      "I Minerva",
+      "Ilian Minerva",
+      "minerva4"
     ],
     "HARD_ALT_NAME": [
       "jeorgeR",
@@ -21262,13 +21263,20 @@
       "Resplendent Titania",
       "Resp Titania",
       "R Titania",
-      "Titania (Resplendent)"
+      "Titania (Resplendent)",
+      "Above the Stars",
+      "Minerva: Above the Stars",
+      "Ilia Minerva",
+      "I Minerva",
+      "Ilian Minerva",
+      "minerva4"
     ],
     "heroes": {
       "ced2": "<:Green_Tome:1317239575352971396>Ascended Ced",
       "ingrid3": "<:Blue_Lance:1317239378208096338>Rearmed Ingrid",
       "jeorgeR": "<:Colorless_Bow:1317239404204654703>Jeorge (Resplendent)",
       "lucina6": "<:Green_Axe:1317239517136031897>Valentines Lucina",
+      "minerva4": "<:Green_Axe:1317239517136031897>Ilia Minerva",
       "sothe3": "<:Colorless_Dagger:1317239418943438869>Rearmed Sothe",
       "titaniaR": "<:Green_Axe:1317239517136031897>Titania (Resplendent)"
     },
@@ -21523,39 +21531,31 @@
   "saine": {
     "ALT_NAME": [
       "\u3055\u3044\u306d",
-      "Palla: Eldest Whitewing",
-      "Eldest Whitewing",
-      "Base Palla",
-      "Normal Palla",
-      "Base Paola",
-      "Normal Paola",
-      "Base Paula",
-      "Normal Paula",
-      "Base Paora",
-      "Normal Paora"
+      "Resplendent Palla",
+      "Resp Palla",
+      "R Palla",
+      "Palla (Resplendent)",
+      "Lady of the Sky",
+      "Azura: Lady of the Sky",
+      "Ilia Azura",
+      "I Azura",
+      "Ilian Azura",
+      "azura8"
     ],
     "HARD_ALT_NAME": [
-      "pallaR",
+      "Resplendent Palla",
+      "Resp Palla",
+      "R Palla",
       "Palla (Resplendent)",
-      "palla1",
-      "paora1",
-      "paula1",
-      "paola1",
-      "Eldest Whitewing",
-      "Palla",
-      "Paola",
-      "Paula",
-      "Paora",
-      "Base Palla",
-      "Normal Palla",
-      "Base Paola",
-      "Normal Paola",
-      "Base Paula",
-      "Normal Paula",
-      "Base Paora",
-      "Normal Paora"
+      "Lady of the Sky",
+      "Azura: Lady of the Sky",
+      "Ilia Azura",
+      "I Azura",
+      "Ilian Azura",
+      "azura8"
     ],
     "heroes": {
+      "azura8": "<:Blue_Lance:1317239378208096338>Ilia Azura",
       "pallaR": "<:Red_Sword:1317239717707911188>Palla (Resplendent)"
     },
     "name": "Saine (\u3055\u3044\u306d)"
@@ -29616,22 +29616,108 @@
       "seris4"
     ]
   },
-  "gomashioponzuo": {
+  "gomashioponzu": {
     "heroes": {
-      "camillaR": "<:Green_Axe:1317239517136031897>Camilla (Resplendent)"
+      "camillaR": "<:Green_Axe:1317239517136031897>Camilla (Resplendent)",
+      "hilda6": "<:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda",
+      "palla5": "<:Green_Axe:1317239517136031897>Summer Palla"
     },
-    "name": "\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162",
+    "name": "GomashioPonzu (\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162)",
     "ALT_NAME": [
+      "\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162",
       "Resplendent Camilla",
       "Resp Camilla",
       "R Camilla",
-      "Camilla (Resplendent)"
+      "Camilla (Resplendent)",
+      "Soaring Summer",
+      "Palla: Soaring Summer",
+      "Summer Palla",
+      "S Palla",
+      "Beach Palla",
+      "palla5",
+      "Skyward Wings",
+      "Hilda: Skyward Wings",
+      "Ilia Hilda",
+      "I Hilda",
+      "Ilian Hilda",
+      "Harmonic Hilda",
+      "Harmonized Hilda",
+      "H Hilda",
+      "Ilia Fodlan Hilda",
+      "Fodlan Ilia Hildia",
+      "I F Hilda",
+      "F I Hilda",
+      "Ilian Fodlan Hilda",
+      "Fodlan Ilian Hilda",
+      "Harmonic Fodlan Hilda",
+      "Harmonized Fodlan Hilda",
+      "Fodlan Harmonic Hilda",
+      "Fodlan Harmonized Hilda",
+      "H F Hilda",
+      "F H Hilda",
+      "Ilia 3H Hilda",
+      "3H Ilia Hilda",
+      "Ilian 3H Hilda",
+      "3H Ilian Hilda",
+      "I 3H Hilda",
+      "3H I Hilda",
+      "Harmonic 3H Hilda",
+      "Harmonized 3H Hilda",
+      "3H Harmonic Hilda",
+      "3H Harmonized Hilda",
+      "H 3H Hilda",
+      "3H H Hilda",
+      "hilda6",
+      "fhilda5",
+      "3hhilda5"
     ],
     "HARD_ALT_NAME": [
+      "\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162",
       "Resplendent Camilla",
       "Resp Camilla",
       "R Camilla",
-      "Camilla (Resplendent)"
+      "Camilla (Resplendent)",
+      "Soaring Summer",
+      "Palla: Soaring Summer",
+      "Summer Palla",
+      "S Palla",
+      "Beach Palla",
+      "palla5",
+      "Skyward Wings",
+      "Hilda: Skyward Wings",
+      "Ilia Hilda",
+      "I Hilda",
+      "Ilian Hilda",
+      "Harmonic Hilda",
+      "Harmonized Hilda",
+      "H Hilda",
+      "Ilia Fodlan Hilda",
+      "Fodlan Ilia Hildia",
+      "I F Hilda",
+      "F I Hilda",
+      "Ilian Fodlan Hilda",
+      "Fodlan Ilian Hilda",
+      "Harmonic Fodlan Hilda",
+      "Harmonized Fodlan Hilda",
+      "Fodlan Harmonic Hilda",
+      "Fodlan Harmonized Hilda",
+      "H F Hilda",
+      "F H Hilda",
+      "Ilia 3H Hilda",
+      "3H Ilia Hilda",
+      "Ilian 3H Hilda",
+      "3H Ilian Hilda",
+      "I 3H Hilda",
+      "3H I Hilda",
+      "Harmonic 3H Hilda",
+      "Harmonized 3H Hilda",
+      "3H Harmonic Hilda",
+      "3H Harmonized Hilda",
+      "H 3H Hilda",
+      "3H H Hilda",
+      "hilda6",
+      "fhilda5",
+      "3hhilda5"
     ]
   },
   "yoshio": {
@@ -30693,21 +30779,6 @@
       "celica7"
     ]
   },
-  "gomashioponzu": {
-    "heroes": {
-      "palla5": "<:Green_Axe:1317239517136031897>Summer Palla"
-    },
-    "name": "GomashioPonzu (\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162)",
-    "ALT_NAME": [
-      "\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162",
-      "Soaring Summer",
-      "Palla: Soaring Summer",
-      "Summer Palla",
-      "S Palla",
-      "Beach Palla",
-      "palla5"
-    ]
-  },
   "idenshihina": {
     "heroes": {
       "lapis3": "<:Blue_Lance:1317239378208096338>Summer Lapis",
@@ -30780,14 +30851,19 @@
   },
   "genkienjin": {
     "heroes": {
-      "nagaR": "<:Blue_Breath:1317239355835813939>Naga (Resplendent)"
+      "nagaR": "<:Blue_Breath:1317239355835813939>Naga (Resplendent)",
+      "panneR": "<:Blue_Beast:1317239339452731402>Panne (Resplendent)"
     },
     "name": "GENKIENJIN",
     "ALT_NAME": [
       "Resplendent Naga",
       "Resp Naga",
       "R Naga",
-      "Naga (Resplendent)"
+      "Naga (Resplendent)",
+      "Resplendent Panne",
+      "Resp Panne",
+      "R Panne",
+      "Panne (Resplendent)"
     ]
   },
   "usuke": {

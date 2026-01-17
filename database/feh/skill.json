@@ -5592,7 +5592,8 @@
         "fcorrin6": "5",
         "maria2": "5",
         "sophia3": "5",
-        "ingrid4": "3"
+        "ingrid4": "3",
+        "hilda6": "3"
       }
     },
     "refine": {},
@@ -5864,7 +5865,8 @@
         "dorothea4": "5",
         "azura7": "3",
         "dorothea": "3",
-        "tethys2": "3"
+        "tethys2": "3",
+        "azura8": "3"
       }
     },
     "refine": {},
@@ -6136,7 +6138,8 @@
         "ranulf2": "3",
         "stefan": "3",
         "fshez5": "3",
-        "lute3": "3"
+        "lute3": "3",
+        "mia6": "3"
       }
     },
     "refine": {},
@@ -6329,7 +6332,8 @@
         "nerpuz4": "4",
         "ranulf2": "4",
         "fshez5": "4",
-        "lute3": "4"
+        "lute3": "4",
+        "mia6": "4"
       }
     },
     "refine": {},
@@ -7703,7 +7707,9 @@
         "alfred2": "3",
         "edelgard8": "3",
         "morva": "3",
-        "garcia": "3"
+        "garcia": "3",
+        "hilda6": "3",
+        "minerva4": "3"
       }
     },
     "refine": {},
@@ -7906,7 +7912,9 @@
         "alfred2": "4",
         "edelgard8": "4",
         "morva": "4",
-        "garcia": "4"
+        "garcia": "4",
+        "hilda6": "4",
+        "minerva4": "4"
       }
     },
     "refine": {},
@@ -13835,7 +13843,8 @@
         "hilda5": "5",
         "perne": "1",
         "vali": "2",
-        "vali2": "2"
+        "vali2": "2",
+        "mia6": "2"
       }
     },
     "refine": {},
@@ -18465,7 +18474,8 @@
         "gunnthra3": "5",
         "anna2": "5",
         "sophia3": "5",
-        "lumera2": "5"
+        "lumera2": "5",
+        "hilda6": "5"
       },
       "Rally Def/Res": {
         "roderick": "4",
@@ -28688,7 +28698,8 @@
         "ricken": "4",
         "sothe": "5",
         "vali": "4",
-        "vali2": "4"
+        "vali2": "4",
+        "mia6": "4"
       },
       "Spur Atk/Spd 1": {}
     },
@@ -34998,7 +35009,8 @@
         "catria3": "5",
         "ytiki5": "5",
         "fee": "5",
-        "hinoka6": "5"
+        "hinoka6": "5",
+        "mia6": "4"
       },
       "Aerobatics 2": {},
       "Aerobatics 1": {}
@@ -40656,7 +40668,8 @@
         "lyn6": "5",
         "joshua2": "5",
         "lucina9": "4",
-        "boyd": "5"
+        "boyd": "5",
+        "hilda6": "4"
       },
       "Atk/Spd Link 2": {},
       "Atk/Spd Link 1": {}
@@ -42937,6 +42950,9 @@
         "name": "Squad Ace Q 2",
         "description": "Grants Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace Q 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -42949,6 +42965,9 @@
         "name": "Squad Ace Q 3",
         "description": "Grants Def+3.",
         "stats": {},
+        "required": [
+          "Squad Ace Q 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -43128,6 +43147,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Mystic Boost 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -43140,6 +43162,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Mystic Boost 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -43152,6 +43177,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Mystic Boost 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -43205,6 +43233,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sparkling Boost"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -43496,6 +43527,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def/Res Bond 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -43508,6 +43542,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def/Res Bond 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -43520,6 +43557,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -43585,6 +43625,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Solo 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -43597,6 +43640,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Solo 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -43609,6 +43655,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Solo 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -43680,6 +43729,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk Opening 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -43692,6 +43744,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk Opening 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -43801,6 +43856,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Gray Waves"
+        ],
         "exclusive": true,
         "slot": "Assist",
         "restriction_weapon": false,
@@ -43865,6 +43923,9 @@
         "stats": {
           "sp": "150"
         },
+        "required": [
+          "B Duel Flying 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -43894,6 +43955,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "B Duel Flying 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -43923,6 +43987,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "B Duel Flying 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -44305,6 +44372,10 @@
           "cooldown": "1",
           "sp": "200"
         },
+        "required": [
+          "Kindled-Fire Balm",
+          "Solid-Earth Balm"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -44323,6 +44394,9 @@
           "cooldown": "1",
           "sp": "300"
         },
+        "required": [
+          "Earthfire Balm"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -44360,6 +44434,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Hone Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -44468,6 +44545,9 @@
         "name": "Squad Ace R 2",
         "description": "Grants Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace R 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -44480,6 +44560,9 @@
         "name": "Squad Ace R 3",
         "description": "Grants Res+3.",
         "stats": {},
+        "required": [
+          "Squad Ace R 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -44693,12 +44776,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -44868,12 +44946,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -44916,12 +44989,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -44964,12 +45032,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -45021,6 +45084,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sturdy Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -45082,6 +45148,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Null C-Disrupt 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -45099,6 +45168,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Null C-Disrupt 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -45116,6 +45188,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Null C-Disrupt 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -45169,6 +45244,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Atk 2",
+          "Hone Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -45206,6 +45285,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Def 2",
+          "Fortify Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -45595,6 +45678,10 @@
           "cooldown": "1",
           "sp": "200"
         },
+        "required": [
+          "Kindled-Fire Balm",
+          "Still-Water Balm"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -45613,6 +45700,9 @@
           "cooldown": "1",
           "sp": "300"
         },
+        "required": [
+          "Fireflood Balm"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -45670,6 +45760,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk Feint 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -45687,6 +45780,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk Feint 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -45748,6 +45844,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd Opening 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -45760,6 +45859,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd Opening 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -45821,6 +45923,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Air Orders 1"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -45837,6 +45942,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Air Orders 2"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -45853,6 +45961,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Air Orders 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -45956,6 +46067,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def/Res Solo 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -45968,6 +46082,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def/Res Solo 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -45980,6 +46097,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Def/Res Solo 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -46042,6 +46162,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Upheaval"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -46390,6 +46513,9 @@
         "name": "Squad Ace S 2",
         "description": "Grants Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace S 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -46402,6 +46528,9 @@
         "name": "Squad Ace S 3",
         "description": "Grants Spd+3.",
         "stats": {},
+        "required": [
+          "Squad Ace S 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -46766,6 +46895,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Res Feint 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -46783,6 +46915,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Res Feint 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -46843,6 +46978,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Res Opening 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -46855,6 +46993,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Res Opening 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -46907,12 +47048,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -46959,12 +47095,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -47156,12 +47287,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -47208,12 +47334,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -47260,12 +47381,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -47322,6 +47438,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Sabotage Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -47334,6 +47453,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Sabotage Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -47382,6 +47504,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Atk 2",
+          "Spur Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -47418,6 +47544,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Def 2",
+          "Spur Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -47476,6 +47606,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Beast Valor 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -47496,6 +47629,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Beast Valor 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -47599,6 +47735,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Bonus Doubler 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -47616,6 +47755,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Bonus Doubler 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -47632,6 +47774,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Bonus Doubler 3"
+        ],
         "slot": "Passive A",
         "exclusive": false,
         "restriction_weapon": false,
@@ -47693,6 +47838,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Human Virtue"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -47829,6 +47977,9 @@
         "name": "Squad Ace T 2",
         "description": "Grants Atk+2.",
         "stats": {},
+        "required": [
+          "Squad Ace T 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -47841,6 +47992,9 @@
         "name": "Squad Ace T 3",
         "description": "Grants Atk+3.",
         "stats": {},
+        "required": [
+          "Squad Ace T 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -48112,6 +48266,9 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Rally Resistance"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -48130,6 +48287,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Rally Up Res"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -48172,6 +48332,10 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Seal Spd 1",
+          "Seal Def 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -48188,6 +48352,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Seal Spd/Def 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -48204,6 +48371,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Spd/Def 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -48568,6 +48738,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Push 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -48580,6 +48753,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Push 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -48592,6 +48768,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Push 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -48677,6 +48856,9 @@
         "stats": {
           "sp": "150"
         },
+        "required": [
+          "G Duel Flying 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -48706,6 +48888,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "G Duel Flying 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -48735,6 +48920,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "G Duel Flying 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -48820,6 +49008,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Link 1"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -48836,6 +49027,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Link 2"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -48852,6 +49046,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Link 3"
+        ],
         "slot": "Passive B",
         "exclusive": false,
         "restriction_weapon": [
@@ -48927,6 +49124,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Disarm Trap 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -48947,6 +49147,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Disarm Trap 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -48966,6 +49169,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Disarm Trap 3"
+        ],
         "description": "Inflicts Spd/Def-4 on foe during combat, and if unit initiates combat, neutralizes effects that prevent unit's follow-up attacks during combat. While attacking in Aether Raids, if unit ends movement on a space with a Bolt Trap or a Heavy Trap, cancels trap's effect; if unit ends movement on a space with a Hex Trap, reduces trap's trigger condition by 10 HP.",
         "slot": "Passive B",
         "exclusive": false,
@@ -49086,6 +49292,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Sabotage Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -49098,6 +49307,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Sabotage Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -49171,6 +49383,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Chaos Named"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -49394,6 +49609,9 @@
         "name": "Squad Ace U 2",
         "description": "Grants HP+4.",
         "stats": {},
+        "required": [
+          "Squad Ace U 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -49406,6 +49624,9 @@
         "name": "Squad Ace U 3",
         "description": "Grants HP+5.",
         "stats": {},
+        "required": [
+          "Squad Ace U 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -49446,12 +49667,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -49580,12 +49796,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Armored"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -49621,12 +49832,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Armored"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -49673,12 +49879,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -49725,12 +49926,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -49783,6 +49979,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Solo 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -49795,6 +49994,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Solo 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -49807,6 +50009,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Solo 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -49877,6 +50082,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Beast Exp. 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -49897,6 +50105,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Beast Exp. 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -50233,6 +50444,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-O Atk/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -50245,6 +50459,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-O Atk/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -50300,6 +50517,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-D Atk/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -50312,6 +50532,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-D Atk/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -50368,6 +50591,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def Opening 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -50380,6 +50606,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def Opening 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -50488,6 +50717,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Lunar Flash"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": false,
@@ -50729,6 +50961,9 @@
         "name": "Squad Ace V 2",
         "description": "Grants Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace V 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -50741,6 +50976,9 @@
         "name": "Squad Ace V 3",
         "description": "Grants Def+3.",
         "stats": {},
+        "required": [
+          "Squad Ace V 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -51049,6 +51287,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Sudden Panic 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -51067,6 +51308,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Sudden Panic 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -51467,6 +51711,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-D Spd/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -51479,6 +51726,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-D Spd/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -51539,6 +51789,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Ground Orders 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -51556,6 +51809,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Ground Orders 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -51617,6 +51873,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Pulse Smoke 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -51634,6 +51893,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Pulse Smoke 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -51741,6 +52003,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-O Atk/Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -51753,6 +52018,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-O Atk/Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -51808,6 +52076,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Divine Fang"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -52313,6 +52584,9 @@
         "name": "Squad Ace W 2",
         "description": "Grants Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace W 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -52325,6 +52599,9 @@
         "name": "Squad Ace W 3",
         "description": "Grants Res+3.",
         "stats": {},
+        "required": [
+          "Squad Ace W 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -52419,12 +52696,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -52528,6 +52800,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Res Push 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -52540,6 +52815,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Res Push 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -52552,6 +52830,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Res Push 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -52625,6 +52906,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-D Def/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -52637,6 +52921,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-D Def/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -52649,6 +52936,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "AR-D Def/Res 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -52715,6 +53005,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Infantry Breath 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -52732,6 +53025,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Infantry Breath 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -53074,6 +53370,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Mirror Strike 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -53146,6 +53445,9 @@
         "stats": {
           "sp": "150"
         },
+        "required": [
+          "R Duel Infantry 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -53175,6 +53477,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "R Duel Infantry 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -53204,6 +53509,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "R Duel Infantry 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -53286,6 +53594,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "AR-O Spd/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -53298,6 +53609,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "AR-O Spd/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -53401,6 +53715,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Vision of Arcadia"
+        ],
         "exclusive": true,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -53631,6 +53948,9 @@
         "name": "Squad Ace X 2",
         "description": "Grants Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace X 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -53643,6 +53963,9 @@
         "name": "Squad Ace X 3",
         "description": "Grants Spd+3.",
         "stats": {},
+        "required": [
+          "Squad Ace X 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -53981,6 +54304,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Sabotage Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -53993,6 +54319,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Sabotage Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54010,7 +54339,8 @@
         "yukimura": "4",
         "plumeria4": "4",
         "hodr": "4",
-        "ignatz": "4"
+        "ignatz": "4",
+        "azura8": "4"
       },
       "Sabotage Def 2": {},
       "Sabotage Def 1": {}
@@ -54067,6 +54397,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def/Res Ruse 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -54090,6 +54423,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def/Res Ruse 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -54455,6 +54791,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Draconic Aura"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -54518,6 +54857,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Lull Atk/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54536,6 +54878,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Lull Atk/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54554,6 +54899,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Lull Atk/Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54635,6 +54983,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Lull Spd/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54653,6 +55004,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Lull Spd/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54671,6 +55025,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Lull Spd/Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -54756,6 +55113,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Rouse Atk/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -54774,6 +55134,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Rouse Atk/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -54792,6 +55155,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Rouse Atk/Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -54913,6 +55279,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Sirius"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": false,
@@ -54964,6 +55333,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Time's Pulse 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -54981,6 +55353,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Time's Pulse 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -54998,6 +55373,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Time's Pulse 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -62081,12 +62459,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -62133,12 +62506,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -68710,12 +69078,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -68766,12 +69129,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -71582,12 +71940,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -72305,12 +72658,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -74190,7 +74538,8 @@
         "reina": "5",
         "petra2": "4",
         "tana6": "4",
-        "marth8": "4"
+        "marth8": "4",
+        "azura8": "4"
       },
       "Spd/Def Rein 2": {},
       "Spd/Def Rein 1": {}
@@ -76862,7 +77211,8 @@
         "arion": "5",
         "rosado": "4",
         "glen": "4",
-        "vaida": "4"
+        "vaida": "4",
+        "minerva4": "4"
       },
       "Wyvern Flight 2": {},
       "Wyvern Flight 1": {}
@@ -78281,12 +78631,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -78336,12 +78681,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -78388,12 +78728,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -81123,7 +81458,8 @@
         "tine2": "4",
         "fogado2": "4",
         "celine3": "4",
-        "sedgar2": "4"
+        "sedgar2": "4",
+        "hilda6": "4"
       },
       "Atk/Spd Catch 2": {},
       "Atk/Spd Catch 1": {}
@@ -86124,24 +86460,14 @@
       "Hilda: Deer's Two-Piece",
       "Deer's Two-Piece",
       "Duo Hilda",
-      "Harmonic Hilda",
-      "Harmonized Hilda",
       "Summer Hilda",
       "Duo Fodlan Hilda",
-      "Harmonic Fodlan Hilda",
-      "Harmonized Fodlan Hilda",
       "Summer Fodlan Hilda",
       "Duo 3H Hilda",
-      "Harmonic 3H Hilda",
-      "Harmonized 3H Hilda",
       "Summer 3H Hilda",
       "Duo F Hilda",
-      "Harmonic F Hilda",
-      "Harmonized F Hilda",
       "Summer F Hilda",
       "Duo FE16 Hilda",
-      "Harmonic FE16 Hilda",
-      "Harmonized FE16 Hilda",
       "Summer FE16 Hilda",
       "fe16hilda3",
       "fhilda3",
@@ -87140,12 +87466,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -87182,12 +87503,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -88321,12 +88637,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -88363,12 +88674,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -93529,6 +93835,9 @@
         "name": "Squad Ace BA 2",
         "description": "Grants HP+4, Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BA 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -93866,12 +94175,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -95062,6 +95366,9 @@
         "name": "Squad Ace BB 2",
         "description": "Grants HP+4, Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BB 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -95662,12 +95969,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -96027,6 +96329,9 @@
         "name": "Squad Ace BC 2",
         "description": "Grants Atk/Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BC 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -97420,6 +97725,9 @@
         "name": "Squad Ace BD 2",
         "description": "Grants Atk/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BD 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -98277,6 +98585,9 @@
         "name": "Squad Ace BE 2",
         "description": "Grants Atk/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BE 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -99445,6 +99756,9 @@
         "name": "Squad Ace BF 2",
         "description": "Grants Spd/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BF 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -99635,12 +99949,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -100093,7 +100402,8 @@
         "veyle3": "4",
         "leo6": "4",
         "micaiah8": "4",
-        "seidr3": "4"
+        "seidr3": "4",
+        "azura8": "4"
       },
       "Still Water 2": {},
       "Still Water 1": {}
@@ -100434,6 +100744,9 @@
         "name": "Squad Ace BG 2",
         "description": "Grants Spd/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BG 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -100715,12 +101028,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -101542,6 +101850,9 @@
         "name": "Squad Ace BH 2",
         "description": "Grants Def/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BH 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -102783,12 +103094,7 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -103086,6 +103392,9 @@
         "name": "Squad Ace BI 2",
         "description": "Grants HP+4, Atk+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BI 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -104727,6 +105036,9 @@
         "name": "Squad Ace BJ 2",
         "description": "Grants HP+4, Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BJ 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -105047,12 +105359,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -106089,6 +106396,9 @@
         "name": "Squad Ace BK 2",
         "description": "Grants HP+4, Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BK 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -107464,6 +107774,9 @@
         "name": "Squad Ace BL 2",
         "description": "Grants HP+4, Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BL 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -108229,12 +108542,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -108775,6 +109083,9 @@
         "name": "Squad Ace BM 2",
         "description": "Grants Atk/Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BM 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -109720,12 +110031,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Infantry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -109770,12 +110076,7 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -109821,12 +110122,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -109872,12 +110168,7 @@
         "slot": "Weapon",
         "weapon_type": "Green_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Flying"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -110187,6 +110478,9 @@
         "name": "Squad Ace BN 2",
         "description": "Grants Atk/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BN 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -111387,6 +111681,9 @@
         "name": "Squad Ace BO 2",
         "description": "Grants Atk/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BO 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -112253,12 +112550,7 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": [
-          "**Can only** be used by: ",
-          [
-            "Cavalry"
-          ]
-        ]
+        "restriction_movement": false
       }
     ],
     "reference": {
@@ -112512,6 +112804,9 @@
         "name": "Squad Ace BP 2",
         "description": "Grants Spd/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BP 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -113350,6 +113645,9 @@
         "name": "Squad Ace BQ 2",
         "description": "Grants Spd/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BQ 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -114725,6 +115023,9 @@
         "name": "Squad Ace BR 2",
         "description": "Grants Def/Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BR 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -115948,6 +116249,9 @@
         "name": "Squad Ace BS 2",
         "description": "Grants HP+4, Atk/Spd+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BS 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -115962,6 +116266,9 @@
         "name": "Squad Ace BS 3",
         "description": "Grants HP+5, Atk/Spd+3.",
         "stats": {},
+        "required": [
+          "Squad Ace BS 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -117102,6 +117409,9 @@
         "name": "Squad Ace BT 2",
         "description": "Grants HP+4, Atk/Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace BT 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -117116,6 +117426,9 @@
         "name": "Squad Ace BT 3",
         "description": "Grants HP+5, Atk/Def+3.",
         "stats": {},
+        "required": [
+          "Squad Ace BT 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -117542,7 +117855,12 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Beast",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry"
+          ]
+        ]
       }
     ],
     "reference": {
@@ -125360,7 +125678,8 @@
     ],
     "reference": {
       "Wyvern Rift": {
-        "rosado": "5"
+        "rosado": "5",
+        "minerva4": "5"
       }
     },
     "icon": 2091,
@@ -127395,7 +127714,8 @@
         "veyle3": "5",
         "leo6": "5",
         "micaiah8": "5",
-        "seidr3": "5"
+        "seidr3": "5",
+        "azura8": "5"
       }
     },
     "icon": 2129,
@@ -130643,7 +130963,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Atk/Res+1",
+        "description": "Grants HP+3, Atk/Res+1.",
         "bonus": {
           "hp": 3,
           "atk": 1,
@@ -130655,11 +130975,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace BU 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Atk/Res+2",
+        "description": "Grants HP+4, Atk/Res+2.",
         "bonus": {
           "hp": 4,
           "atk": 2,
@@ -130671,11 +130994,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace BU 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Atk/Res+3",
+        "description": "Grants HP+5, Atk/Res+3.",
         "bonus": {
           "hp": 5,
           "atk": 3,
@@ -130710,7 +131036,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Spd/Def+1",
+        "description": "Grants HP+3, Spd/Def+1.",
         "bonus": {
           "hp": 3,
           "spd": 1,
@@ -130722,11 +131048,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace BV 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Spd/Def+2",
+        "description": "Grants HP+4, Spd/Def+2.",
         "bonus": {
           "hp": 4,
           "spd": 2,
@@ -130738,11 +131067,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace BV 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Spd/Def+3",
+        "description": "Grants HP+5, Spd/Def+3.",
         "bonus": {
           "hp": 5,
           "spd": 3,
@@ -130777,7 +131109,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Spd/Res+1",
+        "description": "Grants HP+3, Spd/Res+1.",
         "bonus": {
           "hp": 3,
           "spd": 1,
@@ -130789,11 +131121,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace BW 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Spd/Res+2",
+        "description": "Grants HP+4, Spd/Res+2.",
         "bonus": {
           "hp": 4,
           "spd": 2,
@@ -130805,11 +131140,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace BW 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Spd/Res+3",
+        "description": "Grants HP+5, Spd/Res+3.",
         "bonus": {
           "hp": 5,
           "spd": 3,
@@ -130844,7 +131182,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Def/Res+1",
+        "description": "Grants HP+3, Def/Res+1.",
         "bonus": {
           "hp": 3,
           "def": 1,
@@ -130856,11 +131194,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace BX 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Def/Res+2",
+        "description": "Grants HP+4, Def/Res+2.",
         "bonus": {
           "hp": 4,
           "def": 2,
@@ -130872,11 +131213,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace BX 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Def/Res+3",
+        "description": "Grants HP+5, Def/Res+3.",
         "bonus": {
           "hp": 5,
           "def": 3,
@@ -130911,7 +131255,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Spd/Def+1",
+        "description": "Grants Atk/Spd/Def+1.",
         "bonus": {
           "atk": 1,
           "spd": 1,
@@ -130923,11 +131267,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace BY 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Spd/Def+2",
+        "description": "Grants Atk/Spd/Def+2.",
         "bonus": {
           "atk": 2,
           "spd": 2,
@@ -130939,11 +131286,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace BY 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Spd/Def+3",
+        "description": "Grants Atk/Spd/Def+3.",
         "bonus": {
           "atk": 3,
           "spd": 3,
@@ -130978,7 +131328,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Spd/Res+1",
+        "description": "Grants Atk/Spd/Res+1.",
         "bonus": {
           "atk": 1,
           "spd": 1,
@@ -130990,11 +131340,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace BZ 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Spd/Res+2",
+        "description": "Grants Atk/Spd/Res+2.",
         "bonus": {
           "atk": 2,
           "spd": 2,
@@ -131006,11 +131359,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace BZ 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Spd/Res+3",
+        "description": "Grants Atk/Spd/Res+3.",
         "bonus": {
           "atk": 3,
           "spd": 3,
@@ -131045,7 +131401,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Def/Res+1",
+        "description": "Grants Atk/Def/Res+1.",
         "bonus": {
           "atk": 1,
           "def": 1,
@@ -131057,11 +131413,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace CA 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Def/Res+2",
+        "description": "Grants Atk/Def/Res+2.",
         "bonus": {
           "atk": 2,
           "def": 2,
@@ -131073,11 +131432,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace CA 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Atk/Def/Res+3",
+        "description": "Grants Atk/Def/Res+3.",
         "bonus": {
           "atk": 3,
           "def": 3,
@@ -131112,7 +131474,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Spd/Def/Res+1",
+        "description": "Grants Spd/Def/Res+1.",
         "bonus": {
           "spd": 1,
           "def": 1,
@@ -131124,11 +131486,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace CB 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Spd/Def/Res+2",
+        "description": "Grants Spd/Def/Res+2.",
         "bonus": {
           "spd": 2,
           "def": 2,
@@ -131140,11 +131505,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace CB 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants Spd/Def/Res+3",
+        "description": "Grants Spd/Def/Res+3.",
         "bonus": {
           "spd": 3,
           "def": 3,
@@ -131179,7 +131547,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Atk/Spd+1",
+        "description": "Grants HP+3, Atk/Spd+1.",
         "bonus": {
           "hp": 3,
           "atk": 1,
@@ -131191,11 +131559,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace CC 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Atk/Spd+2",
+        "description": "Grants HP+4, Atk/Spd+2.",
         "bonus": {
           "hp": 4,
           "atk": 2,
@@ -131207,11 +131578,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace CC 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Atk/Spd+3",
+        "description": "Grants HP+5, Atk/Spd+3.",
         "bonus": {
           "hp": 5,
           "atk": 3,
@@ -131246,7 +131620,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Atk/Def+1",
+        "description": "Grants HP+3, Atk/Def+1.",
         "bonus": {
           "hp": 3,
           "atk": 1,
@@ -131258,11 +131632,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace CD 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Atk/Def+2",
+        "description": "Grants HP+4, Atk/Def+2.",
         "bonus": {
           "hp": 4,
           "atk": 2,
@@ -131274,11 +131651,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace CD 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Atk/Def+3",
+        "description": "Grants HP+5, Atk/Def+3.",
         "bonus": {
           "hp": 5,
           "atk": 3,
@@ -131313,7 +131693,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Atk/Res+1",
+        "description": "Grants HP+3, Atk/Res+1.",
         "bonus": {
           "hp": 3,
           "atk": 1,
@@ -131325,11 +131705,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace CE 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Atk/Res+2",
+        "description": "Grants HP+4, Atk/Res+2.",
         "bonus": {
           "hp": 4,
           "atk": 2,
@@ -131341,11 +131724,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace CE 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Atk/Res+3",
+        "description": "Grants HP+5, Atk/Res+3.",
         "bonus": {
           "hp": 5,
           "atk": 3,
@@ -131380,7 +131766,7 @@
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+3, Spd/Def+1",
+        "description": "Grants HP+3, Spd/Def+1.",
         "bonus": {
           "hp": 3,
           "spd": 1,
@@ -131392,11 +131778,14 @@
         "stats": {
           "sp": "180"
         },
+        "required": [
+          "Squad Ace CF 1"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+4, Spd/Def+2",
+        "description": "Grants HP+4, Spd/Def+2.",
         "bonus": {
           "hp": 4,
           "spd": 2,
@@ -131408,11 +131797,14 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Squad Ace CF 2"
+        ],
         "slot": "Sacred Seal",
         "exclusive": false,
         "restriction_weapon": false,
         "restriction_movement": false,
-        "description": "Grants HP+5, Spd/Def+3",
+        "description": "Grants HP+5, Spd/Def+3.",
         "bonus": {
           "hp": 5,
           "spd": 3,
@@ -131727,6 +132119,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
+    "wpn": false
+  },
+  "squadacecg": {
+    "name": "Squad Ace CG",
+    "skill": [
+      {
+        "name": "Squad Ace CG 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+3, Spd/Res+1.",
+        "bonus": {
+          "hp": 3,
+          "spd": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CG 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CG 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+4, Spd/Res+2.",
+        "bonus": {
+          "hp": 4,
+          "spd": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CG 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CG 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+5, Spd/Res+3.",
+        "bonus": {
+          "hp": 5,
+          "spd": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CG 1": {},
+      "Squad Ace CG 2": {},
+      "Squad Ace CG 3": {}
+    },
+    "icon": 2205,
+    "HARD_ALT_NAME": [
+      "Squad Ace CG 1",
+      "Squad Ace CG 2",
+      "Squad Ace CG 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "summertimeaxe": {
@@ -132959,6 +133424,79 @@
     "slot": "Passive C",
     "wpn": false
   },
+  "squadacech": {
+    "name": "Squad Ace CH",
+    "skill": [
+      {
+        "name": "Squad Ace CH 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+3, Def/Res+1.",
+        "bonus": {
+          "hp": 3,
+          "def": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CH 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CH 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+4, Def/Res+2.",
+        "bonus": {
+          "hp": 4,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CH 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CH 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+5, Def/Res+3.",
+        "bonus": {
+          "hp": 5,
+          "def": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CH 1": {},
+      "Squad Ace CH 2": {},
+      "Squad Ace CH 3": {}
+    },
+    "icon": 2206,
+    "HARD_ALT_NAME": [
+      "Squad Ace CH 1",
+      "Squad Ace CH 2",
+      "Squad Ace CH 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "icecrystalspear": {
     "name": "Ice-Crystal Spear",
     "skill": [
@@ -133996,6 +134534,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive B",
+    "wpn": false
+  },
+  "squadaceci": {
+    "name": "Squad Ace CI",
+    "skill": [
+      {
+        "name": "Squad Ace CI 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Def+1.",
+        "bonus": {
+          "atk": 1,
+          "spd": 1,
+          "def": 1
+        }
+      },
+      {
+        "name": "Squad Ace CI 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CI 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Def+2.",
+        "bonus": {
+          "atk": 2,
+          "spd": 2,
+          "def": 2
+        }
+      },
+      {
+        "name": "Squad Ace CI 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CI 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Def+3.",
+        "bonus": {
+          "atk": 3,
+          "spd": 3,
+          "def": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CI 1": {},
+      "Squad Ace CI 2": {},
+      "Squad Ace CI 3": {}
+    },
+    "icon": 2207,
+    "HARD_ALT_NAME": [
+      "Squad Ace CI 1",
+      "Squad Ace CI 2",
+      "Squad Ace CI 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "opposingstones": {
@@ -135139,6 +135750,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
+    "wpn": false
+  },
+  "squadacecj": {
+    "name": "Squad Ace CJ",
+    "skill": [
+      {
+        "name": "Squad Ace CJ 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+1.",
+        "bonus": {
+          "atk": 1,
+          "spd": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CJ 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CJ 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+2.",
+        "bonus": {
+          "atk": 2,
+          "spd": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CJ 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CJ 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+3.",
+        "bonus": {
+          "atk": 3,
+          "spd": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CJ 1": {},
+      "Squad Ace CJ 2": {},
+      "Squad Ace CJ 3": {}
+    },
+    "icon": 2208,
+    "HARD_ALT_NAME": [
+      "Squad Ace CJ 1",
+      "Squad Ace CJ 2",
+      "Squad Ace CJ 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "ylisseninjabow": {
@@ -136295,6 +136979,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
+    "wpn": false
+  },
+  "squadaceck": {
+    "name": "Squad Ace CK",
+    "skill": [
+      {
+        "name": "Squad Ace CK 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+1.",
+        "bonus": {
+          "atk": 1,
+          "def": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CK 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CK 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+2.",
+        "bonus": {
+          "atk": 2,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CK 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CK 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+3.",
+        "bonus": {
+          "atk": 3,
+          "def": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CK 1": {},
+      "Squad Ace CK 2": {},
+      "Squad Ace CK 3": {}
+    },
+    "icon": 2209,
+    "HARD_ALT_NAME": [
+      "Squad Ace CK 1",
+      "Squad Ace CK 2",
+      "Squad Ace CK 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "convoydagger": {
@@ -137863,7 +138620,7 @@
     "slot": "Passive C",
     "wpn": false
   },
-  "New Year Fang": {
+  "newyearfang": {
     "name": "New Year Fang",
     "skill": [
       {
@@ -138167,6 +138924,79 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_bw130"
+  },
+  "squadacecl": {
+    "name": "Squad Ace CL",
+    "skill": [
+      {
+        "name": "Squad Ace CL 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+1.",
+        "bonus": {
+          "spd": 1,
+          "def": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CL 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CL 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+2.",
+        "bonus": {
+          "spd": 2,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CL 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CL 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+3.",
+        "bonus": {
+          "spd": 3,
+          "def": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CL 1": {},
+      "Squad Ace CL 2": {},
+      "Squad Ace CL 3": {}
+    },
+    "icon": 2210,
+    "HARD_ALT_NAME": [
+      "Squad Ace CL 1",
+      "Squad Ace CL 2",
+      "Squad Ace CL 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
   },
   "fimbulvetrmorn": {
     "name": "Fimbulvetr Morn",
@@ -139285,6 +140115,74 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive A",
+    "wpn": false
+  },
+  "squadacecm": {
+    "name": "Squad Ace CM",
+    "skill": [
+      {
+        "name": "Squad Ace CM 1",
+        "description": "Grants HP+3, Atk/Spd+1.",
+        "stats": {},
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 3,
+          "atk": 1,
+          "spd": 1
+        }
+      },
+      {
+        "name": "Squad Ace CM 2",
+        "description": "Grants HP+4, Atk/Spd+2.",
+        "stats": {},
+        "required": [
+          "Squad Ace CM 1"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 4,
+          "atk": 2,
+          "spd": 2
+        }
+      },
+      {
+        "name": "Squad Ace CM 3",
+        "description": "Grants HP+5, Atk/Spd+3.",
+        "stats": {},
+        "required": [
+          "Squad Ace CM 2"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5,
+          "atk": 3,
+          "spd": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CM 3": {},
+      "Squad Ace CM 2": {},
+      "Squad Ace CM 1": {}
+    },
+    "refine": {},
+    "icon": 1898,
+    "HARD_ALT_NAME": [
+      "Squad Ace CM 1",
+      "Squad Ace CM 2",
+      "Squad Ace CM 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "aeriallongsword": {
@@ -140556,6 +141454,74 @@
     "slot": "Passive C",
     "wpn": false
   },
+  "squadacecn": {
+    "name": "Squad Ace CN",
+    "skill": [
+      {
+        "name": "Squad Ace CN 1",
+        "description": "Grants HP+3, Atk/Def+1.",
+        "stats": {},
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 3,
+          "atk": 1,
+          "def": 1
+        }
+      },
+      {
+        "name": "Squad Ace CN 2",
+        "description": "Grants HP+4, Atk/Def+2.",
+        "stats": {},
+        "required": [
+          "Squad Ace CN 1"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 4,
+          "atk": 2,
+          "def": 2
+        }
+      },
+      {
+        "name": "Squad Ace CN 3",
+        "description": "Grants HP+5, Atk/Def+3.",
+        "stats": {},
+        "required": [
+          "Squad Ace CN 2"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5,
+          "atk": 3,
+          "def": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CN 3": {},
+      "Squad Ace CN 2": {},
+      "Squad Ace CN 1": {}
+    },
+    "refine": {},
+    "icon": 1899,
+    "HARD_ALT_NAME": [
+      "Squad Ace CN 1",
+      "Squad Ace CN 2",
+      "Squad Ace CN 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "springingspear": {
     "name": "Springing Spear",
     "skill": [
@@ -140659,7 +141625,8 @@
     ],
     "reference": {
       "Def/Res Discord": {
-        "plumeria4": "5"
+        "plumeria4": "5",
+        "azura8": "5"
       }
     },
     "icon": 2378,
@@ -141627,7 +142594,9 @@
     "reference": {
       "Blue Skies 1": {},
       "Blue Skies 2": {},
-      "Blue Skies 3": {},
+      "Blue Skies 3": {
+        "mia6": "4"
+      },
       "Blue Skies 4": {
         "eirika9": "5",
         "marth8": "5",
@@ -141645,6 +142614,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive A",
+    "wpn": false
+  },
+  "squadaceco": {
+    "name": "Squad Ace CO",
+    "skill": [
+      {
+        "name": "Squad Ace CO 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+3, Atk/Res+1.",
+        "bonus": {
+          "hp": 3,
+          "atk": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CO 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CO 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+4, Atk/Res+2.",
+        "bonus": {
+          "hp": 4,
+          "atk": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CO 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CO 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+5, Atk/Res+3.",
+        "bonus": {
+          "hp": 5,
+          "atk": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CO 1": {},
+      "Squad Ace CO 2": {},
+      "Squad Ace CO 3": {}
+    },
+    "icon": 2203,
+    "HARD_ALT_NAME": [
+      "Squad Ace CO 1",
+      "Squad Ace CO 2",
+      "Squad Ace CO 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "taciturnaxe": {
@@ -142946,6 +143988,79 @@
     "slot": "Passive C",
     "wpn": false
   },
+  "squadacecp": {
+    "name": "Squad Ace CP",
+    "skill": [
+      {
+        "name": "Squad Ace CP 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+3, Spd/Def+1.",
+        "bonus": {
+          "hp": 3,
+          "spd": 1,
+          "def": 1
+        }
+      },
+      {
+        "name": "Squad Ace CP 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CP 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+4, Spd/Def+2.",
+        "bonus": {
+          "hp": 4,
+          "spd": 2,
+          "def": 2
+        }
+      },
+      {
+        "name": "Squad Ace CP 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CP 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+5, Spd/Def+3.",
+        "bonus": {
+          "hp": 5,
+          "spd": 3,
+          "def": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CP 1": {},
+      "Squad Ace CP 2": {},
+      "Squad Ace CP 3": {}
+    },
+    "icon": 2204,
+    "HARD_ALT_NAME": [
+      "Squad Ace CP 1",
+      "Squad Ace CP 2",
+      "Squad Ace CP 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "noblebow": {
     "name": "Noble Bow",
     "skill": [
@@ -144229,6 +145344,79 @@
     "slot": "Captain Skill",
     "wpn": false
   },
+  "squadacecq": {
+    "name": "Squad Ace CQ",
+    "skill": [
+      {
+        "name": "Squad Ace CQ 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+3, Spd/Res+1.",
+        "bonus": {
+          "hp": 3,
+          "spd": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CQ 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CQ 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+4, Spd/Res+2.",
+        "bonus": {
+          "hp": 4,
+          "spd": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CQ 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CQ 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+5, Spd/Res+3.",
+        "bonus": {
+          "hp": 5,
+          "spd": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CQ 1": {},
+      "Squad Ace CQ 2": {},
+      "Squad Ace CQ 3": {}
+    },
+    "icon": 2205,
+    "HARD_ALT_NAME": [
+      "Squad Ace CQ 1",
+      "Squad Ace CQ 2",
+      "Squad Ace CQ 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "generaltobe": {
     "name": "General to Be",
     "skill": [
@@ -145434,6 +146622,79 @@
     "slot": "Passive C",
     "wpn": false
   },
+  "squadacecr": {
+    "name": "Squad Ace CR",
+    "skill": [
+      {
+        "name": "Squad Ace CR 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+3, Def/Res+1.",
+        "bonus": {
+          "hp": 3,
+          "def": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CR 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CR 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+4, Def/Res+2.",
+        "bonus": {
+          "hp": 4,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CR 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CR 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants HP+5, Def/Res+3.",
+        "bonus": {
+          "hp": 5,
+          "def": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CR 1": {},
+      "Squad Ace CR 2": {},
+      "Squad Ace CR 3": {}
+    },
+    "icon": 2206,
+    "HARD_ALT_NAME": [
+      "Squad Ace CR 1",
+      "Squad Ace CR 2",
+      "Squad Ace CR 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "reclusestome": {
     "name": "Recluse s Tome",
     "skill": [
@@ -146583,7 +147844,8 @@
     ],
     "reference": {
       "Celestial Form": {
-        "baldr": "5"
+        "baldr": "5",
+        "mia6": "5"
       }
     },
     "refine": {},
@@ -146778,6 +148040,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
+    "wpn": false
+  },
+  "squadacecs": {
+    "name": "Squad Ace CS",
+    "skill": [
+      {
+        "name": "Squad Ace CS 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Def+1.",
+        "bonus": {
+          "atk": 1,
+          "spd": 1,
+          "def": 1
+        }
+      },
+      {
+        "name": "Squad Ace CS 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CS 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Def+2.",
+        "bonus": {
+          "atk": 2,
+          "spd": 2,
+          "def": 2
+        }
+      },
+      {
+        "name": "Squad Ace CS 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CS 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Def+3.",
+        "bonus": {
+          "atk": 3,
+          "spd": 3,
+          "def": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CS 1": {},
+      "Squad Ace CS 2": {},
+      "Squad Ace CS 3": {}
+    },
+    "icon": 2207,
+    "HARD_ALT_NAME": [
+      "Squad Ace CS 1",
+      "Squad Ace CS 2",
+      "Squad Ace CS 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "howlingbow": {
@@ -148031,6 +149366,79 @@
     "slot": "Passive B",
     "wpn": false
   },
+  "squadacect": {
+    "name": "Squad Ace CT",
+    "skill": [
+      {
+        "name": "Squad Ace CT 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+1.",
+        "bonus": {
+          "atk": 1,
+          "spd": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CT 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CT 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+2.",
+        "bonus": {
+          "atk": 2,
+          "spd": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CT 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CT 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+3.",
+        "bonus": {
+          "atk": 3,
+          "spd": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CT 1": {},
+      "Squad Ace CT 2": {},
+      "Squad Ace CT 3": {}
+    },
+    "icon": 2208,
+    "HARD_ALT_NAME": [
+      "Squad Ace CT 1",
+      "Squad Ace CT 2",
+      "Squad Ace CT 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "openeddomain+": {
     "name": "Opened Domain+",
     "skill": [
@@ -148311,7 +149719,8 @@
     ],
     "reference": {
       "Atk/Spd Favor": {
-        "lucina9": "5"
+        "lucina9": "5",
+        "hilda6": "5"
       }
     },
     "refine": {},
@@ -148876,6 +150285,7 @@
           "sp": "300"
         },
         "required": [
+          "Flier Formation 3",
           "Aerobatics 3"
         ],
         "slot": "Passive B",
@@ -149447,6 +150857,79 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
+    "wpn": false
+  },
+  "squadacecu": {
+    "name": "Squad Ace CU",
+    "skill": [
+      {
+        "name": "Squad Ace CU 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+1.",
+        "bonus": {
+          "atk": 1,
+          "def": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CU 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CU 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+2.",
+        "bonus": {
+          "atk": 2,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CU 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CU 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+3.",
+        "bonus": {
+          "atk": 3,
+          "def": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CU 1": {},
+      "Squad Ace CU 2": {},
+      "Squad Ace CU 3": {}
+    },
+    "icon": 2209,
+    "HARD_ALT_NAME": [
+      "Squad Ace CU 1",
+      "Squad Ace CU 2",
+      "Squad Ace CU 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "saintshiptome": {
@@ -150677,6 +152160,79 @@
     "slot": "Passive C",
     "wpn": false
   },
+  "squadacecv": {
+    "name": "Squad Ace CV",
+    "skill": [
+      {
+        "name": "Squad Ace CV 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+1.",
+        "bonus": {
+          "spd": 1,
+          "def": 1,
+          "res": 1
+        }
+      },
+      {
+        "name": "Squad Ace CV 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace CV 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+2.",
+        "bonus": {
+          "spd": 2,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace CV 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace CV 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+3.",
+        "bonus": {
+          "spd": 3,
+          "def": 3,
+          "res": 3
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CV 1": {},
+      "Squad Ace CV 2": {},
+      "Squad Ace CV 3": {}
+    },
+    "icon": 2210,
+    "HARD_ALT_NAME": [
+      "Squad Ace CV 1",
+      "Squad Ace CV 2",
+      "Squad Ace CV 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "soulfullance": {
     "name": "Soulful Lance",
     "skill": [
@@ -151508,7 +153064,8 @@
     ],
     "reference": {
       "Null Uplift A/S": {
-        "vali": "5"
+        "vali": "5",
+        "mia6": "5"
       }
     },
     "refine": {},
@@ -151962,6 +153519,74 @@
     ],
     "ALT_NAME": [],
     "slot": "Captain Skill",
+    "wpn": false
+  },
+  "squadacecw": {
+    "name": "Squad Ace CW",
+    "skill": [
+      {
+        "name": "Squad Ace CW 1",
+        "description": "Grants HP+4, Atk/Spd+2.",
+        "stats": {},
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 4,
+          "atk": 2,
+          "spd": 2
+        }
+      },
+      {
+        "name": "Squad Ace CW 2",
+        "description": "Grants HP+5, Atk/Spd+3.",
+        "stats": {},
+        "required": [
+          "Squad Ace CW 1"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5,
+          "atk": 3,
+          "spd": 3
+        }
+      },
+      {
+        "name": "Squad Ace CW 3",
+        "description": "Grants HP+6, Atk/Spd+4.",
+        "stats": {},
+        "required": [
+          "Squad Ace CW 2"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 6,
+          "atk": 4,
+          "spd": 4
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CW 3": {},
+      "Squad Ace CW 2": {},
+      "Squad Ace CW 1": {}
+    },
+    "refine": {},
+    "icon": 1898,
+    "HARD_ALT_NAME": [
+      "Squad Ace CW 1",
+      "Squad Ace CW 2",
+      "Squad Ace CW 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
     "wpn": false
   },
   "chosensword": {
@@ -153118,7 +154743,8 @@
       "Strat Flame 2": {},
       "Strat Flame 3": {},
       "Strat Flame 4": {
-        "edelgard8": "5"
+        "edelgard8": "5",
+        "hilda6": "5"
       }
     },
     "icon": 2591,
@@ -153309,7 +154935,8 @@
           "sp": "300"
         },
         "required": [
-          "Flier Formation 3"
+          "Flier Formation 3",
+          "Aerobatics 3"
         ],
         "slot": "Passive B",
         "exclusive": false,
@@ -153332,7 +154959,8 @@
     ],
     "reference": {
       "Heavenly Soar": {
-        "baldr3": "5"
+        "baldr3": "5",
+        "mia6": "5"
       }
     },
     "icon": 2595,
@@ -153545,6 +155173,74 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_bw145"
+  },
+  "squadacecx": {
+    "name": "Squad Ace CX",
+    "skill": [
+      {
+        "name": "Squad Ace CX 1",
+        "description": "Grants HP+4, Atk/Def+2.",
+        "stats": {},
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 4,
+          "atk": 2,
+          "def": 2
+        }
+      },
+      {
+        "name": "Squad Ace CX 2",
+        "description": "Grants HP+5, Atk/Def+3.",
+        "stats": {},
+        "required": [
+          "Squad Ace CX 1"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5,
+          "atk": 3,
+          "def": 3
+        }
+      },
+      {
+        "name": "Squad Ace CX 3",
+        "description": "Grants HP+6, Atk/Def+4.",
+        "stats": {},
+        "required": [
+          "Squad Ace CX 2"
+        ],
+        "exclusive": false,
+        "slot": "Sacred Seal",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 6,
+          "atk": 4,
+          "def": 4
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace CX 3": {},
+      "Squad Ace CX 2": {},
+      "Squad Ace CX 1": {}
+    },
+    "refine": {},
+    "icon": 1899,
+    "HARD_ALT_NAME": [
+      "Squad Ace CX 1",
+      "Squad Ace CX 2",
+      "Squad Ace CX 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
   },
   "nightmare+": {
     "name": "Nightmare+",
@@ -154158,6 +155854,417 @@
       "Attack/Defense Tempo"
     ],
     "slot": "Passive B",
+    "wpn": false
+  },
+  "skyboundbow": {
+    "name": "Skybound Bow",
+    "skill": [
+      {
+        "name": "Skybound Bow",
+        "description": "Accelerates Special trigger (cooldown count-1).\nEffective against flying foes.\nIf a Rally or movement Assist skill is used by unit, grants\u3010Coax\u3011to target for 1 turn and grants another action to unit (once per turn).\nIf a Rally or movement Assist skill is used by unit or targets unit, inflicts Atk/Spd/Def-7, \u3010Exposure\u3011, and\u3010Panic\u3011on closest foes to both unit and target ally or unit and targeting ally after movement and foes within 2 spaces of those foes through their next actions.\nAllies on the map with\u3010Coax\u3011active deal +7 damage during combat (excluding area-of-effect Specials). If Savior has not triggered, those allies attack twice during combat.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials). If unit's Spd > foe's Spd or if unit is not adjacent to an ally with an active\u3010Coax\u3011effect, unit attacks twice during combat.\n\u3010Coax\u3011\nGrants a status that can trigger certain skill effects to unit.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Panic\u3011\nConverts bonuses on unit into penalties.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Skybound Bow": {
+        "hilda6": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Skybound Bow",
+      "Skyward Wings",
+      "Hilda: Skyward Wings",
+      "Ilia Hilda",
+      "I Hilda",
+      "Ilian Hilda",
+      "Harmonic Hilda",
+      "Harmonized Hilda",
+      "H Hilda",
+      "Ilia Fodlan Hilda",
+      "Fodlan Ilia Hildia",
+      "I F Hilda",
+      "F I Hilda",
+      "Ilian Fodlan Hilda",
+      "Fodlan Ilian Hilda",
+      "Harmonic Fodlan Hilda",
+      "Harmonized Fodlan Hilda",
+      "Fodlan Harmonic Hilda",
+      "Fodlan Harmonized Hilda",
+      "H F Hilda",
+      "F H Hilda",
+      "Ilia 3H Hilda",
+      "3H Ilia Hilda",
+      "Ilian 3H Hilda",
+      "3H Ilian Hilda",
+      "I 3H Hilda",
+      "3H I Hilda",
+      "Harmonic 3H Hilda",
+      "Harmonized 3H Hilda",
+      "3H Harmonic Hilda",
+      "3H Harmonized Hilda",
+      "H 3H Hilda",
+      "3H H Hilda",
+      "hilda6",
+      "fhilda5",
+      "3hhilda5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw146"
+  },
+  "waningshot": {
+    "name": "Waning Shot",
+    "skill": [
+      {
+        "name": "Waning Shot",
+        "description": "Boosts damage by 80% of the greater of unit's Spd or Def when Special triggers.\nInflicts penalty on foe's Atk/Def = highest penalty on each stat between target and foes within 2 spaces of target (calculates each stat penalty independently) and reduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+        "stats": {
+          "cooldown": "4",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": false,
+        "slot": "Special",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Bow",
+            "Blue_Bow",
+            "Green_Bow",
+            "Colorless_Bow"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Waning Shot": {
+        "hilda6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Waning Shot"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "atkspdairspace": {
+    "name": "Atk Spd Airspace",
+    "skill": [
+      {
+        "name": "Atk/Spd Airspace",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Spd Catch 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Flying"
+          ]
+        ],
+        "description": "Enables\u3010Canto (\uff12)\u3011.\nIf unit initiates combat or is within 3 spaces of an ally, grants Atk/Spd+10 to unit and unit deals +X damage during combat (excluding area-of-effect Specials; if any space within 2 spaces of unit or foe has a Divine Vein effect applied, is defensive terrain, or counts as difficult or impassable terrain for units other than flying, X = 12; otherwise, X = 7), and restores 7 HP to unit after combat.\n\u3010Canto (\uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff12 space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement."
+      }
+    ],
+    "reference": {
+      "Atk/Spd Airspace": {
+        "hilda6": "5"
+      }
+    },
+    "icon": 2613,
+    "HARD_ALT_NAME": [
+      "Atk/Spd Airspace"
+    ],
+    "ALT_NAME": [
+      "Attack/Speed Airspace",
+      "A/S Airspace"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "iliangreatlance": {
+    "name": "Ilian Greatlance",
+    "skill": [
+      {
+        "name": "Ilian Greatlance",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Grants Res+3.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+Z (for unit, Z = 15; for allies, Z = 5) and deals +Y damage (excluding area-of-effect Specials; for unit, Y = 25; for allies, Y = 10) during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit or ally to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (if unit or ally cannot perform follow-up and attack twice, X = 100; otherwise, X = 50).\nReduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials). If unit initiates combat, unit can make a follow-up attack before foe's next attack.\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ilian Greatlance": {
+        "azura8": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Ilian Greatlance",
+      "Lady of the Sky",
+      "Azura: Lady of the Sky",
+      "Ilia Azura",
+      "I Azura",
+      "Ilian Azura",
+      "azura8"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc204"
+  },
+  "songfulessence": {
+    "name": "Songful Essence",
+    "skill": [
+      {
+        "name": "Songful Essence",
+        "stats": {
+          "rng": "2",
+          "sp": "400"
+        },
+        "required": [
+          "Sing"
+        ],
+        "slot": "Assist",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants another action to target ally, and if Canto has already been triggered by target ally, re-enables Canto.\nAt start of player phase or enemy phase, grants \u3010Draconic Hex\u3011and\u3010Preempt Pulse\u3011to unit and allies within 3 spaces of unit for 1 turn.\nAt start of turn, grants \"unit can move 1 extra space\" (that turn only; does not stack) to target allies within 3 spaces of unit (if support partner other than calvary with a Range = 2 is on player team, targets any support partner; otherwise, targets ally with the highest Atk at start of battle, excluding unit and cavalry allies with Range = 2; \"at start of battle\" excludes increases to Atk granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.).\n(Cannot target an ally with Sing or Dance. This skill treated as Sing or Dance.)\n\u3010Draconic Hex\u3011\nInflicts Atk/Spd/Def/Res-5 on foe during combat and inflicts penalty on each of those stats = 5 - current penalty on each of those stats during combat for 1 turn (min 0; calculates each stat penalty independently).\n\u3010Preempt Pulse\u3011\nGrants Special cooldown count-1 to unit before unit's first attack during combat."
+      }
+    ],
+    "reference": {
+      "Songful Essence": {
+        "azura8": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Songful Essence"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "sdcruxploy": {
+    "name": "S D Crux  Ploy",
+    "skill": [
+      {
+        "name": "S/D Crux: Ploy",
+        "description": "At start of player phase or enemy phase, if any foes within 3 rows or 3 columns centered on unit have Res < unit's Res+5, inflicts\u3010Ploy\u3011 and\u3010Exposure\u3011 on those foes through their next actions.\nInflicts Spd/Def-4 on foes within 3 rows or 3 columns centered on unit and those foes suffer guaranteed follow-up attacks during combat.\n\u3010Ploy\u3011\nNeutralizes\u3010Bonus Doubler\u3011,\u3010Treachery\u3011, and\u3010Grand Strategy\u3011effects active on unit during combat through unit's next action.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Bonus Doubler\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.\n\u3010Treachery\u3011\nUnit deals additional damage = total bonuses on unit for 1 turn.\n\u3010Grand Strategy\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = current penalty on each of unit's stats \u00d7 2 for 1 turn. (Example: if unit has -7 penalty to Atk, grants Atk+14, for a net bonus of Atk+7.) Calculates each stat bonus independently.\nUnit's negative effects that last \"through unit's next action\" will remain in effect until this status (Grand Strategy) is neutralized.",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Spd/Def Rein 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Flying"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "S/D Crux: Ploy": {
+        "azura8": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2614,
+    "HARD_ALT_NAME": [
+      "S/D Crux: Ploy",
+      "S/D Crux Ploy"
+    ],
+    "ALT_NAME": [
+      "Speed/Defense Crux: Ploy",
+      "Speed/Defense Crux Ploy",
+      "Spd/Def Crux: Ploy",
+      "Spd/Def Crux Ploy"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "ilianlongsword": {
+    "name": "Ilian Longsword",
+    "skill": [
+      {
+        "name": "Ilian Longsword",
+        "description": "Accelerates Special trigger (cooldown count-1).\nIf a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +7.\nAt start of player phase or enemy phase, grants \u3010Reflex\u3011,\u3010Dodge\u3011, and\u3010Truly Incited\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat. If decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow 100%\u3011during combat.\n\u3010Reflex\u3011\nReduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes) and unit's next attack deals damage = total damage reduced from foe's first attack (by any source, including other skills; resets at end of combat). (For 1 turn.)\n\u3010Dodge\u3011\nIf unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats \u00d7 4 (max 40%).\n\u3010Truly Incited\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = number of spaces from start position to end position of whoever initiated combat \u00d7 2 (max 8).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ilian Longsword": {
+        "mia6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Ilian Longsword",
+      "Zenith Challenger",
+      "Mia: Zenith Challenger",
+      "Ilia Mia",
+      "I Mia",
+      "Ilian Mia",
+      "mia6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw211"
+  },
+  "blueskygust": {
+    "name": "Blue Sky Gust",
+    "skill": [
+      {
+        "name": "Blue-Sky Gust",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nIf unit initiates combat or if there is an ally within 3 columns or 3 rows centered on unit, grants Atk/Spd+10 to unit, unit deals +X\u00d74 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X\u00d73 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; X = number of allies within 3 rows or 3 columns centered on unit; max 3).\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Blue Skies 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Blue_Lance",
+            "Green_Axe"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Flying"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "Blue-Sky Gust": {
+        "mia6": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2615,
+    "HARD_ALT_NAME": [
+      "Blue-Sky Gust",
+      "Blue Sky Gust"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "ilianbattleaxe": {
+    "name": "Ilian Battleaxe",
+    "skill": [
+      {
+        "name": "Ilian Battleaxe",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Frozen\u3011, and\u3010Sabotage\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials), and also, when unit's Special triggers, neutralizes foe's \"reduces damage by X%\" effects from non-Special skills (excluding area-of-effect Specials).\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Frozen\u3011\nIncreases Spd difference necessary for unit to make a follow-up attack by X and decreases Spd difference necessary for foe to make a follow-up attack by X during combat (if foe's Def > unit's Def, X = 10 + difference between Def stats \u00d7 2; otherwise, X = 10).\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit. Calculates each stat penalty independently.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ilian Battleaxe": {
+        "minerva4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Ilian Battleaxe",
+      "Above the Stars",
+      "Minerva: Above the Stars",
+      "Ilia Minerva",
+      "I Minerva",
+      "Ilian Minerva",
+      "minerva4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax189"
+  },
+  "dragoonpillar": {
+    "name": "Dragoon Pillar",
+    "skill": [
+      {
+        "name": "Dragoon Pillar",
+        "description": "At start of player phase or enemy phase, grants \u3010Atk Liberate\u3011,\u3010Spd Liberate\u3011, and \"neutralizes 'effective against flying' bonuses\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+9 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), and grants Special cooldown count-X to unit before unit's first attack and before unit's first follow-up attack during combat (X = number of staff and flying allies on the map, including unit; max 3). Restores 7 HP to unit after combat.\n\u3010Atk Liberate\u3011\nGrants bonus to Atk during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).\n\u3010Spd Liberate\u3011\nGrants bonus to Spd during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Dragoon Pillar": {
+        "minerva4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2616,
+    "HARD_ALT_NAME": [
+      "Dragoon Pillar"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
     "wpn": false
   }
 }

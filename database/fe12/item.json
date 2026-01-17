@@ -2173,8 +2173,8 @@
         },
         "weapon": true
     },
-    "rainbowpotion": {
-        "name": "Rainbow Potion",
+    "rainbowtonic": {
+        "name": "Rainbow Tonic",
         "type": "item",
         "desc": "A potion that raises all stats by 2 for the whole chapter when used.",
         "stats": {
@@ -2182,7 +2182,10 @@
             "price": 0,
             "sell": 0
         },
-        "weapon": false
+        "weapon": false,
+        "ALT_NAME": [
+            "Rainbow Potion"
+        ]
     },
     "rapier": {
         "name": "Rapier",

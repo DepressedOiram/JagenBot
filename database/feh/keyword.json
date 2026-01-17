@@ -222,7 +222,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Dragoon Pillar"
+            ],
             "B": [
                 "Preempt Amplify"
             ],
@@ -419,6 +421,7 @@
                 "Atk/Def Prime 4",
                 "Spd/Def Prime 4",
                 "Divine Toxin",
+                "Dragoon Pillar",
                 "Obsidian Tactics",
                 "Unfledged God"
             ],
@@ -515,6 +518,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Inborn Idealism"
             ],
@@ -813,6 +817,7 @@
             "A": [
                 "Atk/Spd Mastery",
                 "Atk/Res Mastery",
+                "Atk/Spd Airspace",
                 "Blue Skies 4"
             ],
             "B": [
@@ -1264,11 +1269,13 @@
                 "Teatime's Edge"
             ],
             "Lance": [
-                "Haulin' Harpoon"
+                "Haulin' Harpoon",
+                "Ilian Greatlance"
             ],
             "Axe": [
                 "Axe of Dusk",
                 "Gate-Anchor Axe",
+                "Ilian Battleaxe",
                 "Majestic Glitnir",
                 "Tri-Path Splitter"
             ],
@@ -1292,6 +1299,7 @@
                 "Ascendant King"
             ],
             "A": [
+                "Blue-Sky Gust",
                 "Heaven's Stead N",
                 "Lady Knight"
             ],
@@ -1574,6 +1582,33 @@
                 "Headlong Rush"
             ]
         },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
+    "coax": {
+        "name": "Coax",
+        "description": "Grants a status that can trigger certain skill effects to unit.",
+        "color": "Red",
+        "icon": "coax",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [
+                "Skybound Bow"
+            ],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -2531,6 +2566,7 @@
             "Sword": [
                 "Bonded Blades",
                 "Hoshido Raijinto",
+                "Ilian Longsword",
                 "Sharp War Sword",
                 "Spendy Scimitar",
                 "Swirling Scimitar"
@@ -2678,7 +2714,18 @@
             ],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [
+                "Songful Essence"
+            ],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -2902,7 +2949,8 @@
             ],
             "Staff": [],
             "Bow": [
-                "Rampart Bow"
+                "Rampart Bow",
+                "Skybound Bow"
             ],
             "Dagger": [
                 "Asura Blades",
@@ -2970,6 +3018,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Black Fang Bond",
                 "Covetous One",
@@ -3389,7 +3438,8 @@
             ],
             "Lance": [],
             "Axe": [
-                "Black Eagle Axe"
+                "Black Eagle Axe",
+                "Ilian Battleaxe"
             ],
             "Staff": [],
             "Bow": [],
@@ -3428,7 +3478,8 @@
             ]
         },
         "reference_hero": {
-            "freyja3": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Halloween Freyja"
+            "freyja3": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Halloween Freyja",
+            "hilda6": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda"
         },
         "HARD_ALT_NAME": []
     },
@@ -3527,6 +3578,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Divine Deceit"
             ],
@@ -4549,7 +4601,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Dragoon Pillar"
+            ],
             "B": [],
             "C": [
                 "Darkling Guard II"
@@ -4892,7 +4946,8 @@
             "Bow": [
                 "Dignified Bow",
                 "Partnership Bow",
-                "Skadi"
+                "Skadi",
+                "Skybound Bow"
             ],
             "Dagger": [
                 "Tangy Sundae"
@@ -5296,6 +5351,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Divine Deceit"
             ],
@@ -5317,7 +5373,8 @@
                 "Thunderbrand"
             ],
             "Lance": [
-                "Brilliant Brident"
+                "Brilliant Brident",
+                "Ilian Greatlance"
             ],
             "Axe": [
                 "Axe of Dusk"
@@ -5386,6 +5443,7 @@
         "icon": "potentfollow",
         "reference_weapon": {
             "Sword": [
+                "Ilian Longsword",
                 "Vague Katti"
             ],
             "Lance": [
@@ -5466,7 +5524,9 @@
             "captain": []
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Songful Essence"
+            ],
             "special": [],
             "A": [
                 "True Genius"
@@ -5717,7 +5777,8 @@
         "icon": "reflex",
         "reference_weapon": {
             "Sword": [
-                "Final Sword"
+                "Final Sword",
+                "Ilian Longsword"
             ],
             "Lance": [],
             "Axe": [
@@ -5829,6 +5890,7 @@
             "chloe2":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Chlo\u00e9",
             "cordelia4": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Winter Cordelia",
             "fir4": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Ferox Fir",
+            "hilda6": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda",
             "igrene3":"<:feh_harmonized:1317239586929377371><:Blue_Bow:1317239347577356328>Nabata Igrene",
             "ingrid4": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Maid Ingrid",
             "ivy3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Winter Ivy",
@@ -5989,7 +6051,8 @@
                 "Teatime Lance"
             ],
             "Axe": [
-                "Flame Battleaxe"
+                "Flame Battleaxe",
+                "Ilian Battleaxe"
             ],
             "Staff": [],
             "Bow": [
@@ -6289,7 +6352,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "hilda6": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda"
+        },
         "HARD_ALT_NAME": []
     },
     "shove": {
@@ -6369,6 +6434,29 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": []
+    },
+    "spdliberate": {
+        "name": "Spd Liberate",
+        "description": "Grants bonus to Spd during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).",
+        "color": "Green",
+        "icon": "spdliberate",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Dragoon Pillar"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Spd Liberate"
+        ]
     },
     "spdshackle": {
         "name": "Spd Shackle",
@@ -6801,6 +6889,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Encouragement"
             ],
@@ -6908,6 +6997,35 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": []
+    },
+    "trulyincited": {
+        "name": "Truly Incited",
+        "description": "Grants bonus to Atk/Spd/Def/Res during combat = number of spaces from start position to end position of whoever initiated combat \u00d7 2 (max 8).",
+        "color": "Red",
+        "icon": "trulyincited",
+        "reference_weapon": {
+            "Sword": [
+                "Ilian Longsword"
+            ],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Truly Incited"
+        ]
     },
     "undefended": {
         "name": "Undefended",

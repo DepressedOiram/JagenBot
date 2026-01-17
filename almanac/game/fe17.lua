@@ -294,6 +294,10 @@ function Character:get_rise_above()
             result.hp = 5
         end
     end
+
+    if self.job.data.type == "Cavalry" then
+        result.mov = 1
+    end
     
     result.bld = nil
     
