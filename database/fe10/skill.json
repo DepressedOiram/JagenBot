@@ -96,7 +96,7 @@
   },
   "cancel": {
     "name": "Cancel",
-    "desc": "(Speed)% chance to block all damage done to the user.",
+    "desc": "(Skill)% chance to block all damage done to the user.",
     "cost": 10,
     "emoji":"<:fe10_cancel:1317297671475691561>",
     "reference": {
@@ -681,7 +681,7 @@
   },
   "vantage": {
     "name": "Vantage",
-    "desc": "(Speed)% chance for the user to strike first if foe initiates combat.",
+    "desc": "(Skill)% chance for the user to strike first if foe initiates combat.",
     "cost": 10,
     "emoji":"<:fe10_vantage:1317298697402454046>",
     "reference": {
