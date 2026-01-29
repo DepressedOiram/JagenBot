@@ -257,24 +257,6 @@
             "mov": 6
         }
     },
-    "demondragon": {
-        "name": "Demon Dragon",
-        "dismount": false,
-        "exp": 50,
-        "weapon": [
-            "breath"
-        ],
-        "base": {
-            "hp": 40,
-            "atk": 6,
-            "skl": 0,
-            "spd": 0,
-            "wlv": 16,
-            "def": 15,
-            "res": 20,
-            "mov": 6
-        }
-    },
     "dismountedknightf": {
         "name": "Dismounted Knight (F)",
         "dismount": false,
@@ -624,6 +606,28 @@
             "res": 0,
             "mov": 7
         }
+    },
+    "magedragon": {
+        "name": "Mage Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 6,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 16,
+            "def": 15,
+            "res": 20,
+            "mov": 6
+        },
+        "ALT_NAME": [
+            "Demon Dragon",
+            "demondragon"
+        ]
     },
     "magef": {
         "name": "Mage (F)",

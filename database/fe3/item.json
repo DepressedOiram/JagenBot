@@ -1155,7 +1155,8 @@
         "name": "Firestone",
         "desc": "Transforms Manakete into a Fire Dragon.",
         "stats": {
-            "uses": 18
+            "uses": 18,
+            "sell": 18000
         },
         "type": "item",
         "weapon": false
@@ -1164,7 +1165,8 @@
         "name": "Icestone",
         "desc": "Transforms Manakete into an Ice Dragon.",
         "stats": {
-            "uses": 18
+            "uses": 18,
+            "sell": 18000
         },
         "type": "item",
         "weapon": false
@@ -1173,7 +1175,8 @@
         "name": "Wyvernstone",
         "desc": "Transforms Manakete into a Flying Dragon.",
         "stats": {
-            "uses": 18
+            "uses": 18,
+            "sell": 18000
         },
         "type": "item",
         "weapon": false
@@ -1182,7 +1185,8 @@
         "name": "Magestone",
         "desc": "Transforms Manakete into a Mage Dragon.",
         "stats": {
-            "uses": 18
+            "uses": 18,
+            "sell": 18000
         },
         "type": "item",
         "weapon": false
@@ -1191,7 +1195,8 @@
         "name": "Earthstone",
         "desc": "Transforms Manakete into an Earth Dragon.",
         "stats": {
-            "uses": 18
+            "uses": 18,
+            "sell": 18000
         },
         "type": "item",
         "weapon": false
@@ -1200,7 +1205,8 @@
         "name": "Divinestone",
         "desc": "Transforms Manakete into a Divine Dragon.",
         "stats": {
-            "uses": 18
+            "uses": 18,
+            "sell": 36000
         },
         "type": "item",
         "weapon": false
