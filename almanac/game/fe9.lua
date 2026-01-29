@@ -65,7 +65,7 @@ function Character:show_support()
     
     
     for i, pair in ipairs({"C", "B", "A"}) do
-        local result = util.math.affinity_calc(aff1, aff2, i, true)
+        local result = util.math.affinity_calc(aff1, aff2, i, false)
         
         infobox:insert("Support " .. pair, util.table_stats(result, 
         {value_start="**+", value_end="**", order = "equip"}))
