@@ -46,36 +46,6 @@ Character.affinity_bonus = {
 }
 
 -- Mod
-
--- Support
-function Character:show_support()
-    local name1 = util.text.remove_parentheses(self.data.name)
-    local name2 = util.text.remove_parentheses(self.support.data.name)
-    
-    local infobox = Infobox:new({title = string.format("%s & %s Bonuses", 
-    name1, name2)})
-    
-    name1 = self:get_affinity() .. name1
-    name2 = self.support:get_affinity() .. name2
-    
-    infobox:set("desc", string.format("%s\n%s", name1, name2))
-    
-    local aff1 = self.affinity_bonus[self.data.affinity]
-    local aff2 = self.affinity_bonus[self.support.data.affinity]
-    
-    
-    for i, pair in ipairs({"C", "B", "A"}) do
-        local result = util.math.affinity_calc(aff1, aff2, i, false)
-        
-        infobox:insert("Support " .. pair, util.table_stats(result, 
-        {value_start="**+", value_end="**", order = "equip"}))
-    end
-    
-    infobox:image("thumbnail", self:get_portrait())
-    
-    return infobox
-end
-
 -- Base
 function Character:calc_base()
     local base = workspaces.Character.calc_base(self)
