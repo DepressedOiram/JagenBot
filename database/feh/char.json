@@ -17770,7 +17770,8 @@
       "elise2",
       "elise3",
       "elise4",
-      "elise5"
+      "elise5",
+      "elise6"
     ],
     "prf": {
       "": "elisesstaffeff",
@@ -30139,7 +30140,8 @@
       "elise",
       "elise3",
       "elise4",
-      "elise5"
+      "elise5",
+      "elise6"
     ],
     "prf": {
       "": "hibiscustomespd",
@@ -62285,7 +62287,8 @@
       "elise",
       "elise2",
       "elise4",
-      "elise5"
+      "elise5",
+      "elise6"
     ],
     "prf": {
       "": "redhotducksspd",
@@ -74469,7 +74472,8 @@
       "mbyleth2",
       "mbyleth3",
       "mbyleth4",
-      "mbyleth5"
+      "mbyleth5",
+      "mbyleth6"
     ],
     "prf": {
       "": "creatorswordeff",
@@ -123312,7 +123316,8 @@
       "mbyleth",
       "mbyleth3",
       "mbyleth4",
-      "mbyleth5"
+      "mbyleth5",
+      "mbyleth6"
     ],
     "prf": {
       "": "professorialtexteff",
@@ -163467,7 +163472,8 @@
       "mbyleth",
       "mbyleth2",
       "mbyleth4",
-      "mbyleth5"
+      "mbyleth5",
+      "mbyleth6"
     ],
     "prf": {
       "": "guideshourglass",
@@ -165433,7 +165439,8 @@
       "elise",
       "elise2",
       "elise3",
-      "elise5"
+      "elise5",
+      "elise6"
     ],
     "prf": {
       "": "duskdawnstaff",
@@ -187322,7 +187329,8 @@
       "mbyleth",
       "mbyleth2",
       "mbyleth3",
-      "mbyleth5"
+      "mbyleth5",
+      "mbyleth6"
     ],
     "prf": {
       "": "holyyuleblade",
@@ -222038,7 +222046,8 @@
       "elise",
       "elise2",
       "elise3",
-      "elise4"
+      "elise4",
+      "elise6"
     ],
     "prf": {
       "": "batonofdusk",
@@ -231535,7 +231544,8 @@
       "mbyleth",
       "mbyleth2",
       "mbyleth3",
-      "mbyleth4"
+      "mbyleth4",
+      "mbyleth6"
     ],
     "prf": {
       "": "sublimecreator",
@@ -242603,6 +242613,391 @@
       "spd": "ilianbattleaxe",
       "def": "ilianbattleaxe",
       "res": "ilianbattleaxe"
+    }
+  },
+  "mbyleth6": {
+    "name": "Byleth",
+    "title": "Of the Academy",
+    "description": "One of the Emblems who were summoned to Elyos. Resides in the Ring of the Instructor. Appears in Fire Emblem: Three Houses / Engage.",
+    "origin": "Three Houses + Engage",
+    "artist": "Fujisaka Kimihiko (\u85e4\u5742\u516c\u5f66)",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Blue",
+    "duel": false,
+    "id": "1342",
+    "type": "emblem",
+    "version": "10.1",
+    "duo": false,
+    "harmonized": false,
+    "emblem": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nWhen unit is not equipped with a character- specific Assist skill, if a Rally or movement Assist skill is used by unit and if target ally has already acted, grants another action to target ally, and if Canto has already been triggered, re-enables Canto (once per turn; this effect does not trigger if target ally has Sing or Dance).\nEquipping this skill counts as equipping a Sing or Dance skill.",
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 11,
+      "res": 4
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 70,
+      "res": 30
+    },
+    "superboon": [
+      "spd",
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Light": "1",
+      "Ellight": "2",
+      "Shine": "3",
+      "Instructor's Opus": "5"
+    },
+    "assist": {
+      "Reposition": "3",
+      "Reposition Gait": "5"
+    },
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Goddess Dance": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Perfect Atk/Spd": "5"
+      },
+      "B": {
+        "Atk/Spd Link 1": "2",
+        "Atk/Spd Link 2": "3",
+        "Atk/Spd Link 3": "4",
+        "Atk/Spd Favor": "5"
+      },
+      "C": {
+        "Instruct 1": "2",
+        "Instruct 2": "3",
+        "Instruct 3": "4",
+        "Instruct 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Byleth_Of_the_Academy_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Byleth_Of_the_Academy_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Byleth_Of_the_Academy_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Byleth_Of_the_Academy_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of the Academy",
+      "Byleth: Of the Academy",
+      "Emblem Byleth",
+      "Engage Byleth",
+      "E Byleth",
+      "Emblem Male Byleth",
+      "Engage Male Byleth",
+      "E Male Byleth",
+      "Emblem M Byleth",
+      "Engage M Byleth",
+      "E M Byleth",
+      "byleth11",
+      "mbyleth6"
+    ],
+    "HARD_ALT_NAME": [
+      "Of the Academy",
+      "Byleth: Of the Academy",
+      "Emblem Byleth",
+      "Engage Byleth",
+      "E Byleth",
+      "Emblem Male Byleth",
+      "Engage Male Byleth",
+      "E Male Byleth",
+      "Emblem M Byleth",
+      "Engage M Byleth",
+      "E M Byleth",
+      "byleth11",
+      "mbyleth6"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30d9\u30ec\u30c8",
+    "voice": "Zach Aguilar",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "With so many students here and there, I find myself wanting to care for them...\nHowever, that is the role of the original me, not the me as I am now.",
+        "I was in Lythos Castle in Elyos, but...I fell into enemy hands and turned my blade on my friends.\nI wish to never again be at war with those familiar to me.",
+        "People have questioned my age as a professor. But I have lived now for several thousand years...\nPerhaps I have developed a more dignified presence by now.",
+        "I can actually taste the foods I once could only smell at the Somniel.\nDo you think the food I once ate at the Officers Academy is here as well?",
+        "You wish to engage with me? I do not mind. I can use Goddess Dance.\nDo you happen to have any companions you wish to move more than others?"
+      ],
+      "Visit": [
+        "Whether academy friends or allies in battle... I hope you will stay on good terms with [F]."
+      ],
+      "Level": [
+        "I wish to continue to guide everyone as a professor and as an Emblem.",
+        "That was fruitful. I shall take what I have learned and use it in my next encounter.",
+        "Do not be discouraged. There are still plenty more opportunities."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Emblem Byleth. If you have a need, then I wish to fill it. I shall be a guide using the power at my disposal."
+      ],
+      "Learn Skill": [
+        "I shall be your trustworthy partner. I will not disappoint."
+      ],
+      "Confession": [
+        "What seems to be the matter, [S]?\nI shall lend my ear if there is something you wish to tell me... Oh? You want to know about me?\nI did not expect this... Listening to others is my strong suit. It is not often I have spoken of myself.\nHowever, if that is your wish, then I will oblige.\nI have seen more in F\u00f3dlan and Elyos than any other version of me. And it is not so easy to converse on a whim.\nAs a professor and an Emblem, I understand how frustrating it can be to speak and have no one hear...\nSo I know how precious this is. Now then, if you wish to hear tales of the distant past, it will take some time."
+      ],
+      "Special": [
+        "Goddess Dance.",
+        "I offer my guidance.",
+        "I'll teach you.",
+        "Emblem engage!"
+      ],
+      "Status": [
+        "Hm.",
+        "I can eat again now that I'm in Askr? I think I'm ready for a feast, then.",
+        "Huh?! Oh, for a moment I thought you were coming to polish my ring. I invite you to stay.",
+        "My ring fell into enemy hands once, but I was returned to the Divine Dragon's army with Hortensia.",
+        "My students would take my glowing and floating as an Emblem in stride... At least, I think they would.",
+        "\"Teach us, Emblem of the Academy...\" That is the invocation used to summon me.",
+        "Edelgard, Dimitri, and Claude... What a trio. I can't help smiling when I encounter them in any world.",
+        "In Elyos and the world I'm from, I had to turn my sword against those close to me. I hope to remain allies with you, and everyone here, until the end."
+      ],
+      "Map Select": [
+        "Yes.",
+        "It'll be all right.",
+        "Together!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Byleth",
+    "SEARCH_NAME": "Emblem Byleth",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Blue_Tome:1317239386491977749>Emblem Byleth",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "mbyleth",
+      "mbyleth2",
+      "mbyleth3",
+      "mbyleth4",
+      "mbyleth5"
+    ],
+    "prf": {
+      "": "instructorsopus",
+      "eff": "instructorsopus",
+      "atk": "instructorsopus",
+      "spd": "instructorsopus",
+      "def": "instructorsopus",
+      "res": "instructorsopus"
+    }
+  },
+  "elise6": {
+    "name": "Elise",
+    "title": "Sincere Sister",
+    "description": "Princess of Nohr who adores her siblings to a charming extent. Her pure and sincere kindness moves people's hearts. Appears in Fire Emblem Fates.",
+    "origin": "Fates",
+    "artist": "Michi Masaki (\u9EBB\u5148\u307F\u3061)",
+    "move": "Cavalry",
+    "weapon": "Staff",
+    "color": "Colorless",
+    "duel": "220",
+    "id": "1343",
+    "type": "legendary",
+    "version": "10.1",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 16,
+      "atk": 9,
+      "spd": 9,
+      "def": 4,
+      "res": 12
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 90,
+      "def": 30,
+      "res": 50
+    },
+    "superboon": [
+      "atk",
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Assault": "1",
+      "Budding Staff": "5" 
+    },
+    "assist": {
+      "Heal": "1",
+      "Mend": "2",
+      "Ice Lock": "3",
+      "Ice Lock+": "5"
+    },
+    "special": {
+      "Imbue": "2",
+      "Swift-Winds Balm": "3",
+      "Windfire Balm": "4",
+      "Windfire Charm": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Aria": "5"
+      },
+      "B": {
+        "Chill Spd 1": "2",
+        "Chill Spd/Res 1": "3",
+        "Chill Spd/Res 2": "4",
+        "Spd/Res Shackle": "5"
+      },
+      "C": {
+        "Budding Flower": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Elise_Sincere_Sister_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Elise_Sincere_Sister_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Elise_Sincere_Sister_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Elise_Sincere_Sister_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Sincere Sister",
+      "Elise: Sincere Sister",
+      "Legendary Elise",
+      "L Elise",
+      "Leg Elise",
+      "elise6"
+    ],
+    "HARD_ALT_NAME": [
+      "Sincere Sister",
+      "Elise: Sincere Sister",
+      "Legendary Elise",
+      "L Elise",
+      "Leg Elise",
+      "elise6"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u4f1d\u627f\u30a8\u30ea\u30fc\u30bc",
+    "voice": "Liv Strander",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fates"
+    ],
+    "chibi": [
+      "fe14"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I thought all Heroes were strong like my big brother Xander, but there are all kinds of people here!",
+        "People are no different no matter where they live, whether in Hoshido or in Nohr.",
+        "If there's a wish you want to come true, then you can't give up, no matter what!",
+        "Did you see me? I took out all the little bones in that fish before I ate it!",
+        "If it's possible for the royal families of enemy countries to be friends, well then...the whole world can be friends!"
+      ],
+      "Visit": [
+        "I found this on the ground when I went for a walk. It belongs in this castle, right? I did good, didn't I?!"
+      ],
+      "Level": [
+        "Justice, huh? I believe you don't need a sword to protect those you love...",
+        "Stop fighting! Rrr... If you don't quit it, I'll have to punish you!",
+        "If I want to become a great, noble lady, I can't let this place get me down!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Elise! I'm feeling great today, so you'll get to see just what I can do!"
+      ],
+      "Learn Skill": [
+        "So...do you think I've grown into a mature adult?"
+      ],
+      "Confession": [
+        "Um...no... That's not quite right... Oh! There you go. Nice and gentle, [S].\nThen just tie the end... Voil\u00e0! You did it! You made a crown of flowers!\nIt's true, Nohr and Hoshido always fought, but...something's wrong if people hate each other forever...\nI say, if you want to play together, just play! I know more than people think I do!\nYou know how I feel, right? Hehe... I thought so!"
+      ],
+      "Special": [
+        "I'll show 'em who's boss!",
+        "My killer left hook!",
+        "Kapow! Kaboom!",
+        "And a little of this!"
+      ],
+      "Status": [
+        "-",
+        "I'll help you de-stress!",
+        "We'll be OK!",
+        "A Legendary Hero? Me? Oh, yay! That's amazing! ...Right?",
+        "That's your way of saying I've been doing a good job? Aww, thank you!",
+        "After the fighting was over, we all became really good friends!",
+        "OK, Elise, you're going to grow into a beautiful lady like your sister! You can do it! Let's go!",
+        "I love being here with you, so I promise I'll never let us get separated. No matter what!"
+      ],
+      "Map Select": [
+        "Sure thing!",
+        "Hey!",
+        "Show me how?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Legendary Elise",
+    "SEARCH_NAME": "Legendary Elise",
+    "DISPLAY_NAME": "<:Colorless_Staff:1317239426866483261>Legendary Elise",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "elise",
+      "elise2",
+      "elise3",
+      "elise4",
+      "elise5"
+    ],
+    "prf": {
+      "": "buddingstaff",
+      "eff": "buddingstaff",
+      "atk": "buddingstaff",
+      "spd": "buddingstaff",
+      "def": "buddingstaff",
+      "res": "buddingstaff"
+    },
+    "blessing": "Fire",
+    "boost": {
+      "hp": 3,
+      "res": 4
     }
   }
 }

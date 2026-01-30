@@ -63,5 +63,12 @@
     "description": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf unit initiates combat, grants another action to unit after combat (once per turn; triggers only when unit's Range = 1).\nNeutralizes effects that grant unit another action after combat and after unit acts and effects that are triggered at those times (such as effects that re-enable Canto after Canto triggers or effects that inflict Gravity on unit and unit's Pair Up cohort); does not apply to Specials like Galeforce that grant unit another action when triggered, status effects like Share Spoils, or effects that grant unit another action if an Assist skill is used.",
     "icon": 2593,
     "slot": "Special"
+  },
+  "byleth": {
+    "name": "Byleth",
+    "stats": false,
+    "description": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nWhen unit is not equipped with a character- specific Assist skill, if a Rally or movement Assist skill is used by unit and if target ally has already acted, grants another action to target ally, and if Canto has already been triggered, re-enables Canto (once per turn; this effect does not trigger if target ally has Sing or Dance).\nEquipping this skill counts as equipping a Sing or Dance skill.",
+    "icon": 2618,
+    "slot": "Special"
   }
 }

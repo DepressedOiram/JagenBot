@@ -221,7 +221,9 @@
         "reference_weapon": false,
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Windfire Charm"
+            ],
             "A": [
                 "Dragoon Pillar"
             ],
@@ -402,7 +404,9 @@
                 "A Fate Changed!",
                 "Pleasant Night"
             ],
-            "special": [],
+            "special": [
+                "Windfire Charm"
+            ],
             "A": [
                 "Sly Swift Sparrow",
                 "Sly Sturdy Blow",
@@ -1246,6 +1250,7 @@
             "A": [],
             "B": [],
             "C": [
+                "Budding Flower",
                 "Future-Focused+",
                 "Future-Guided"
             ],
@@ -2140,6 +2145,7 @@
                 "Yune's Protection"
             ],
             "C": [
+                "Budding Flower",
                 "Covetous One",
                 "Glittering Anima",
                 "Twinkling Anima"
@@ -2351,13 +2357,15 @@
             "assist": [],
             "special": [],
             "A": [
-                "Pure Atrocity",
-                "Deadly Miasma"
+                "Pure Atrocity"
             ],
             "B": [
                 "Tut-Tut!"
             ],
-            "C": [],
+            "C": [
+                "Deadly Miasma",
+                "Budding Flower"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -2967,6 +2975,7 @@
                     "Divine Whimsy",
                     "Eagle's Egg",
                     "Icy Fimbulvetr",
+                    "Instructor's Opus",
                     "Tome of Storms"
                 ],
                 "Green_Tome": [
@@ -3601,6 +3610,7 @@
             "Lance": [],
             "Axe": [],
             "Staff": [
+                "Budding Staff",
                 "Elise's Staff",
                 "Gravity+",
                 "Sanngri\u00f0r",
@@ -3716,7 +3726,9 @@
             "B": [
                 "Speedtaker 4"
             ],
-            "C": [],
+            "C": [
+                "Instruct 4"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -4226,6 +4238,7 @@
             "Lance": [],
             "Axe": [],
             "Staff": [
+                "Budding Staff",
                 "Gjallarbr\u00fa"
             ],
             "Bow": [],
@@ -5308,7 +5321,9 @@
                 "Pegasus Rift",
                 "Wyvern Rift"
             ],
-            "C": [],
+            "C": [
+                "Instruct 4"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -5457,7 +5472,9 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Instructor's Opus"
+                ],
                 "Green_Tome": [
                     "Gla\u00f0sb\u00f3k"
                 ],
@@ -5483,7 +5500,9 @@
                 "Shield of Hope",
                 "Yngvi Ascendant+"
             ],
-            "C": [],
+            "C": [
+                "Budding Flower"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -6077,6 +6096,7 @@
                 "Blue_Tome": [
                     "Ancient Trickery",
                     "Argent Aura",
+                    "Instructor's Opus",
                     "Total War Tome"
                 ],
                 "Green_Tome": [
@@ -6443,7 +6463,9 @@
         "reference_weapon": false,
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Windfire Charm"
+            ],
             "A": [
                 "Dragoon Pillar"
             ],
@@ -6686,7 +6708,9 @@
             "Axe": [
                 "Bolt Axe"
             ],
-            "Staff": [],
+            "Staff": [
+                "Budding Staff"
+            ],
             "Bow": [
                 "Intrinsic Mulagir",
                 "Truth Seeker"
@@ -7062,6 +7086,7 @@
             "C": [
                 "Absolute Closure",
                 "Black Fang Bond",
+                "Budding Flower",
                 "Severance",
                 "Severance+"
             ],

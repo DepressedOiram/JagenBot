@@ -19103,7 +19103,13 @@
       "Harmonic Fir",
       "Harmonized Fir",
       "Duo Fir",
-      "fir4"
+      "fir4",
+      "Sincere Sister",
+      "Elise: Sincere Sister",
+      "Legendary Elise",
+      "L Elise",
+      "Leg Elise",
+      "elise6"
     ],
     "HARD_ALT_NAME": [
       "fir",
@@ -19314,7 +19320,13 @@
       "Harmonic Fir",
       "Harmonized Fir",
       "Duo Fir",
-      "fir4"
+      "fir4",
+      "Sincere Sister",
+      "Elise: Sincere Sister",
+      "Legendary Elise",
+      "L Elise",
+      "Leg Elise",
+      "elise6"
     ],
     "heroes": {
       "amelia": "<:Green_Axe:1317239517136031897>Amelia",
@@ -19327,6 +19339,7 @@
       "elise3": "<:Red_Dagger:1317239717707911188>Bath Elise",
       "elise4": "<:Colorless_Staff:1317239426866483261>Duo Elise",
       "elise5": "<:Colorless_Staff:1317239426866483261>Young Elise",
+      "elise6": "<:Colorless_Staff:1317239426866483261>Legendary Elise",
       "fir": "<:Red_Sword:1317239717707911188>Fir",
       "firR": "<:Red_Sword:1317239717707911188>Fir (Resplendent)",
       "fir2": "<:Green_Axe:1317239517136031897>Spring Fir",
@@ -31544,7 +31557,20 @@
       "Choose Your Legends Beleth M",
       "M Choose Your Legends Beleth",
       "beleth10",
-      "mbeleth5"
+      "mbeleth5",
+      "Of the Academy",
+      "Byleth: Of the Academy",
+      "Emblem Byleth",
+      "Engage Byleth",
+      "E Byleth",
+      "Emblem Male Byleth",
+      "Engage Male Byleth",
+      "E Male Byleth",
+      "Emblem M Byleth",
+      "Engage M Byleth",
+      "E M Byleth",
+      "byleth11",
+      "mbyleth6"
     ],
     "HARD_ALT_NAME": [
       "Legend Male Byleth",
@@ -31717,7 +31743,20 @@
       "Choose Your Legends Beleth M",
       "M Choose Your Legends Beleth",
       "beleth10",
-      "mbeleth5"
+      "mbeleth5",
+      "Of the Academy",
+      "Byleth: Of the Academy",
+      "Emblem Byleth",
+      "Engage Byleth",
+      "E Byleth",
+      "Emblem Male Byleth",
+      "Engage Male Byleth",
+      "E Male Byleth",
+      "Emblem M Byleth",
+      "Engage M Byleth",
+      "E M Byleth",
+      "byleth11",
+      "mbyleth6"
     ],
     "heroes": {
       "mbyleth": "<:Red_Sword:1317239717707911188>Male Byleth",
@@ -31725,6 +31764,7 @@
       "mbyleth3": "<:Blue_Tome:1317239386491977749>Khadein Byleth",
       "mbyleth4": "<:Red_Sword:1317239717707911188>Winter Byleth",
       "mbyleth5": "<:Red_Sword:1317239717707911188>Brave Male Byleth",
+      "mbyleth6": "<:Blue_Tome:1317239386491977749>Emblem Byleth",
       "sothis3": "<:Blue_Breath:1317239355835813939>Duo Sothis"
     },
     "name": "Zach Aguilar"

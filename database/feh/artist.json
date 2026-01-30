@@ -6104,7 +6104,20 @@
       "Rearmed Chrom",
       "Rearm Chrom",
       "Arm Chrom",
-      "Fallen Chrom"
+      "Fallen Chrom",
+      "Of the Academy",
+      "Byleth: Of the Academy",
+      "Emblem Byleth",
+      "Engage Byleth",
+      "E Byleth",
+      "Emblem Male Byleth",
+      "Engage Male Byleth",
+      "E Male Byleth",
+      "Emblem M Byleth",
+      "Engage M Byleth",
+      "E M Byleth",
+      "byleth11",
+      "mbyleth6"
     ],
     "HARD_ALT_NAME": [
       "jakob",
@@ -6197,10 +6210,24 @@
       "Fhrom",
       "Rearm Chrom",
       "Arm Chrom",
-      "Fallen Chrom"
+      "Fallen Chrom",
+      "Of the Academy",
+      "Byleth: Of the Academy",
+      "Emblem Byleth",
+      "Engage Byleth",
+      "E Byleth",
+      "Emblem Male Byleth",
+      "Engage Male Byleth",
+      "E Male Byleth",
+      "Emblem M Byleth",
+      "Engage M Byleth",
+      "E M Byleth",
+      "byleth11",
+      "mbyleth6"
     ],
     "heroes": {
       "fbyleth4": "<:Colorless_Tome:1317239438602145842>Brave Female Byleth",
+      "mbyleth6": "<:Blue_Tome:1317239386491977749>Emblem Byleth",
       "chrom8": "<:Red_Sword:1317239717707911188>Rearmed Chrom",
       "dimitri": "<:Blue_Lance:1317239378208096338>Dimitri",
       "ike5": "<:Red_Sword:1317239717707911188>Fallen Ike",
@@ -30419,6 +30446,7 @@
   },
   "michimasaki": {
     "heroes": {
+      "elise6": "<:Colorless_Staff:1317239426866483261>Legendary Elise",
       "rafal": "<:Red_Breath:1317239692189630504>Rafal",
       "soren6": "<:Blue_Tome:1317239386491977749>Rearmed Soren"
     },
@@ -30436,7 +30464,13 @@
       "Rearm Soren",
       "R Soren",
       "Arm Soren",
-      "soren6"
+      "soren6",
+      "Sincere Sister",
+      "Elise: Sincere Sister",
+      "Legendary Elise",
+      "L Elise",
+      "Leg Elise",
+      "elise6"
     ]
   },
   "susumukuroi": {
