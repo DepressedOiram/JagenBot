@@ -635,7 +635,7 @@
         "icon": "87",
         "reference": {
             "Class": "Brigand (Mastery)",
-            "Mistranslation": "Due to a mistranslation, the in-game description states that it grants Str +6 during combat."
+            "Mistranslation": "The in-game description is incorrect in that it states that it grants Str +6 during combat."
         }
     },
     "defense2": {
@@ -820,7 +820,7 @@
         "icon": "88",
         "reference": {
             "Class": "Dark Bishop (Class ability)\nMage (Mastery)\nVerrat (Class ability)",
-            "Mistranslation": "Due to a mistranslation, the in-game description states that it grants Str +6 during combat."
+            "Mistranslation": "The in-game description is incorrect in that it states that it grants Mag +6 during combat."
         }
     },
     "fightingspirit": {

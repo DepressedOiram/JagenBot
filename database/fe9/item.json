@@ -275,8 +275,10 @@
             "wexp": 2
         },
         "weapon": true,
+        "equip": {
+            "magical": true
+        },
         "reference": {
-            "magical": true,
             "Other Effects": "Counts as <:tellius_light:1317303113777938473>Light magic under the Trinity of Magic and not as a sword under the weapon triangle.\nCannot trigger offensives skills at 2 range."
         }
     },
@@ -879,10 +881,10 @@
         },
         "weapon": true,
         "equip": {
-            "effective": true
+            "effective": true,
+            "magical": true
         },
         "reference": {
-            "magical": true,
             "Other Effects": "Counts as <:tellius_thunder:1317293369742856227>Thunder magic under the Trinity of Magic and not as an axe under the weapon triangle.\nEffective against Dragon Laguz units."
         }
     },

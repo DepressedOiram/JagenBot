@@ -1536,7 +1536,12 @@
       "Normal Faye",
       "Normal Hortensia",
       "Arm Hortensia",
-      "Faye: Drawn Heartstring"
+      "Faye: Drawn Heartstring",
+      "Cutesplosion",
+      "Hortensia: Cutesplosion",
+      "Valentines Hortensia",
+      "V Hortensia",
+      "hortensia3"
     ],
     "HARD_ALT_NAME": [
       "Valentine Efi",
@@ -1575,14 +1580,20 @@
       "Winter Hortensia",
       "Christmas Hortensia",
       "W Hortensia",
-      "hortensia2"
+      "hortensia2",
+      "Cutesplosion",
+      "Hortensia: Cutesplosion",
+      "Valentines Hortensia",
+      "V Hortensia",
+      "hortensia3"
     ],
     "heroes": {
       "faye": "<:Colorless_Bow:1317239404204654703>Faye",
       "fayeR": "<:Colorless_Bow:1317239404204654703>Faye (Resplendent)",
       "faye2": "<:Colorless_Bow:1317239404204654703>Valentines Faye",
       "hortensia": "<:Colorless_Staff:1317239426866483261>Rearmed Hortensia",
-      "hortensia2": "<:Colorless_Staff:1317239426866483261>Winter Hortensia"
+      "hortensia2": "<:Colorless_Staff:1317239426866483261>Winter Hortensia",
+      "hortensia3": "<:Colorless_Staff:1317239426866483261>Valentines Hortensia"
     },
     "name": "Amber Connor"
   },
@@ -14164,7 +14175,11 @@
       "Claude: Distant Deer",
       "Valentines Claude",
       "V Claude",
-      "claude7"
+      "claude7",
+      "Resplendent Brave Claude",
+      "Resp Brave Claude",
+      "R Brave Claude",
+      "Brave Claude (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "L Claude",
@@ -14227,13 +14242,18 @@
       "Claude: Distant Deer",
       "Valentines Claude",
       "V Claude",
-      "claude7"
+      "claude7",
+      "Resplendent Brave Claude",
+      "Resp Brave Claude",
+      "R Brave Claude",
+      "Brave Claude (Resplendent)"
     ],
     "heroes": {
       "canas": "<:Red_Tome:1317239730714316800>Canas",
       "claude": "<:Colorless_Bow:1317239404204654703>Claude",
       "claudeR": "<:Colorless_Bow:1317239404204654703>Resplendent Claude",
       "claude2": "<:Colorless_Bow:1317239404204654703>Brave Claude",
+      "claude2R": "<:Colorless_Bow:1317239404204654703>Brave Claude (Resplendent)",
       "claude3": "<:Colorless_Bow:1317239404204654703>Legendary Claude",
       "claude4": "<:Blue_Dagger:1317239367529529445>Summer Claude",
       "claude5": "<:Green_Dagger:1317239563697127456>Wind Claude",
@@ -17747,7 +17767,15 @@
       "falear4",
       "Fem Fallen Alear",
       "Fallen F Alear",
-      "Female Alear 4"
+      "Female Alear 4",
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
     ],
     "HARD_ALT_NAME": [
       "tanya",
@@ -17934,7 +17962,15 @@
       "falear4",
       "Fem Fallen Alear",
       "Fallen F Alear",
-      "Female Alear 4"
+      "Female Alear 4",
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
     ],
     "heroes": {
       "falear": "<:Red_Sword:1317239717707911188>Alear",
@@ -17942,7 +17978,8 @@
       "falear3": "<:Colorless_Breath:1317239411980767363>Summer Alear",
       "falear4": "<:Green_Breath:1317239551693164595>Fallen Female Alear",
       "malear3": "<:Blue_Breath:1317239355835813939>Winter Alear",
-      "tanya": "<:Colorless_Bow:1317239404204654703>Tanya"
+      "tanya": "<:Colorless_Bow:1317239404204654703>Tanya",
+      "veyle4": "<:Green_Tome:1317239575352971396>Valentines Veyle"
     },
     "name": "Laura Stahl"
   },
@@ -22032,7 +22069,15 @@
       "Spring Veyle",
       "S Veyle",
       "Easter Veyle",
-      "veyle3"
+      "veyle3",
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
     ],
     "HARD_ALT_NAME": [
       "Gentle Dragon",
@@ -22056,12 +22101,21 @@
       "Spring Veyle",
       "S Veyle",
       "Easter Veyle",
-      "veyle3"
+      "veyle3",
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
     ],
     "heroes": {
       "veyle": "<:Blue_Tome:1317239386491977749>Veyle",
       "veyle2": "<:Colorless_Tome:1317239438602145842>Fallen Veyle",
-      "veyle3": "<:Red_Tome:1317239730714316800>Spring Veyle"
+      "veyle3": "<:Red_Tome:1317239730714316800>Spring Veyle",
+      "veyle4": "<:Green_Tome:1317239575352971396>Valentines Veyle"
     },
     "name": "Megan Taylor Harvey"
   },
@@ -25049,7 +25103,16 @@
       "Tea Celine",
       "Teatime Celine",
       "c\u00e9line3",
-      "celine3"
+      "celine3",
+      "Love's Aroma",
+      "C\u00e9line: Love's Aroma",
+      "Valentines C\u00e9line",
+      "V C\u00e9line",
+      "c\u00e9line4",
+      "Celine: Love's Aroma",
+      "Valentines Celine",
+      "V Celine",
+      "celine4"
     ],
     "HARD_ALT_NAME": [
       "leanne",
@@ -25102,13 +25165,23 @@
       "Tea Celine",
       "Teatime Celine",
       "c\u00e9line3",
-      "celine3"
+      "celine3",
+      "Love's Aroma",
+      "C\u00e9line: Love's Aroma",
+      "Valentines C\u00e9line",
+      "V C\u00e9line",
+      "c\u00e9line4",
+      "Celine: Love's Aroma",
+      "Valentines Celine",
+      "V Celine",
+      "celine4"
     ],
     "heroes": {
       "azura6": "<:Green_Tome:1317239575352971396>Harmonic Azura",
       "celine": "<:Green_Tome:1317239575352971396>C\u00e9line",
       "celine2": "<:Blue_Tome:1317239386491977749>Ninja C\u00e9line",
       "celine3": "<:Red_Tome:1317239730714316800>Maid C\u00e9line",
+      "celine4": "<:Blue_Tome:1317239386491977749>Valentines C\u00e9line",
       "leanne": "<:Colorless_Beast:1317239395534901248>Leanne"
     },
     "name": "Rachelle Heger"
@@ -33400,6 +33473,26 @@
       "Normal Garcia",
       "Regular Garcia",
       "garcia"
+    ]
+  },
+  "jmichaeltatum": {
+    "heroes": {
+      "louis": "<:Red_Bow:1317239680571543592>Valentines Louis"
+    },
+    "name": "J. Michael Tatum",
+    "ALT_NAME": [
+      "Petal Knight",
+      "Louis: Petal Knight",
+      "Valentines Louis",
+      "V Louis",
+      "louis"
+    ],
+    "HARD_ALT_NAME": [
+      "Petal Knight",
+      "Louis: Petal Knight",
+      "Valentines Louis",
+      "V Louis",
+      "louis"
     ]
   }
 }

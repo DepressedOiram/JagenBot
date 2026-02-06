@@ -24524,7 +24524,7 @@
     "title": "Bundle of Energy",
     "description": "A mage from Novis and a dear friend of Celica. Always cheerful and energetic, but she has a tendency to get carried away. Appears in Fire Emblem Echoes: Shadows of Valentia.",
     "origin": "Echoes: Shadows of Valentia",
-    "artist": "",
+    "artist": "kiyu / Trys Inc.",
     "move": "Infantry",
     "weapon": "Tome",
     "color": "Blue",
@@ -24608,10 +24608,10 @@
     "resplendent": false,
     "resplendent_voice": false,
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Mae_Bundle_of_Energy_Face.png/revision/latest/",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Mae_Bundle_of_Energy_BtlFace.png/revision/latest/",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Mae_Bundle_of_Energy_BtlFace.png/revision/latest/",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Mae_Bundle_of_Energy_BtlFace_D.png/revision/latest/"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Mae_Bundle_of_Energy_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/ff/Mae_Bundle_of_Energy_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Mae_Bundle_of_Energy_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Mae_Bundle_of_Energy_BtlFace_D.webp/revision/latest/"
     },
     "resplendent_images": false,
     "RANDOM_POOL": [
@@ -32309,7 +32309,8 @@
       "elincia2",
       "elincia3",
       "elincia4",
-      "elincia5"
+      "elincia5",
+      "elincia6"
     ],
     "prf": {
       "": "amitieff",
@@ -49972,7 +49973,7 @@
     "title": "Beachside Scion",
     "description": "A young Divine Dragon once put into a timeless sleep. Now super excited to play with everyone at the beach. Appears in Fire Emblem: Mystery of the Emblem.",
     "origin": "Mystery of the Emblem",
-    "artist": "",
+    "artist": "Tobi",
     "move": "Flying",
     "weapon": "Breath",
     "color": "Red",
@@ -50055,10 +50056,10 @@
     "resplendent": false,
     "resplendent_voice": false,
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ed/Tiki_Beachside_Scion_Face.png/revision/latest/",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Tiki_Beachside_Scion_BtlFace.png/revision/latest/",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Tiki_Beachside_Scion_BtlFace.png/revision/latest/",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/01/Tiki_Beachside_Scion_BtlFace_D.png/revision/latest/"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Tiki_Beachside_Scion_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Tiki_Beachside_Scion_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Tiki_Beachside_Scion_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Tiki_Beachside_Scion_BtlFace_D.webp/revision/latest/"
     },
     "resplendent_images": false,
     "RANDOM_POOL": [
@@ -51847,7 +51848,8 @@
       "elincia",
       "elincia3",
       "elincia4",
-      "elincia5"
+      "elincia5",
+      "elincia6"
     ],
     "prf": {
       "": "cloudmaiougispd",
@@ -101136,15 +101138,20 @@
     "pool": "special",
     "internal_id": "\u7dcf\u9078\u6319\u30af\u30ed\u30fc\u30c9",
     "voice": "Joe Zieja",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Dd",
+    "resplendent_voice": "Joe Zieja",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Claude_Almyras_King_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Claude_Almyras_King_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Claude_Almyras_King_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Claude_Almyras_King_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Claude_Almyras_King_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Claude_Almyras_King_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f5/Claude_Almyras_King_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Claude_Almyras_King_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "fodlan"
     ],
@@ -101200,7 +101207,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "You need healing?",
+          "How about this?",
+          "Caught you!",
+          "Step aside!"
+        ],
+        "Status": [
+          "-",
+          "Yggdrasill's Healing Hands? You realize this is yet another outfit that doesn't suit me, right?",
+          "Whoa... Curses! I got wrapped up in my own importance and let my guard down.",
+          "Did someone say feast? Oh, beast... I don't know about you but I'm ready for a slab of meat!",
+          "I wonder...could I heal what ails the world with the power of the Healing Hands?",
+          "I too have those who are like siblings to me whom I have entrusted my life.",
+          "I must continue marching onward, so I might witness the new dawn of F\u00f3dlan.",
+          "The more I learn about you the more interesting you get. I may never get bored."
+        ],
+        "Map Select": [
+          "I suppose.",
+          "This'll be tricky...",
+          "I'll tread carefully."
+        ]
+      }
     },
     "short_name": "Brave Claude",
     "SEARCH_NAME": "Brave Claude",
@@ -131092,7 +131127,8 @@
       "Iron Axe": "1",
       "Steel Axe": "2",
       "Unbound Axe": "3",
-      "Unbound Axe+": "5"
+      "Unbound Axe+": "5",
+      "Catalyst Axe": "5"
     },
     "assist": {
       "Smite": "3"
@@ -131209,12 +131245,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "unboundaxedef",
-      "eff": "unboundaxedef",
-      "atk": "unboundaxeatk",
-      "spd": "unboundaxespd",
-      "def": "unboundaxedef",
-      "res": "unboundaxeres"
+      "": "catalystaxe",
+      "eff": "catalystaxe",
+      "atk": "catalystaxe",
+      "spd": "catalystaxe",
+      "def": "catalystaxe",
+      "res": "catalystaxe"
     }
   },
   "sedgar": {
@@ -134410,7 +134446,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -138954,7 +138990,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30af\u30ed\u30e0",
     "voice": "Matt Mercer + David Vincent",
     "resplendent": false,
@@ -138969,7 +139005,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -139153,7 +139189,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u611b\u306e\u796d\u30eb\u30ad\u30ca",
     "voice": "Alexis Tipton",
     "resplendent": false,
@@ -139409,7 +139445,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u611b\u306e\u796d\u30eb\u30d5\u30ec\u5973",
     "voice": "Lauren Landa",
     "resplendent": false,
@@ -139598,7 +139634,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -140982,7 +141018,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u53cc\u754c\u30bd\u30cb\u30a2",
     "voice": "Tara Sands + Stephanie Sheh",
     "resplendent": false,
@@ -141199,7 +141235,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6625\u796d\u30c7\u30e5\u30fc\u30c6",
     "voice": "Christine Marie Cabanos",
     "resplendent": false,
@@ -141386,7 +141422,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -141543,7 +141579,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6625\u796d\u30de\u30ea\u30a2",
     "voice": "Wendee Lee",
     "resplendent": false,
@@ -142507,7 +142543,8 @@
       "Flux": "1",
       "Ruin": "2",
       "Rau\u00f0rvulture": "3",
-      "Rau\u00f0rvulture+": "5"
+      "Rau\u00f0rvulture+": "5",
+      "Dark Faith": "5"
     },
     "assist": {},
     "special": {
@@ -142619,12 +142656,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "raudrvultureres",
-      "eff": "raudrvultureres",
-      "atk": "raudrvultureatk",
-      "spd": "raudrvulturespd",
-      "def": "raudrvulturedef",
-      "res": "raudrvultureres"
+      "": "darkfaith",
+      "eff": "darkfaith",
+      "atk": "darkfaith",
+      "spd": "darkfaith",
+      "def": "darkfaith",
+      "res": "darkfaith"
     }
   },
   "nanna3": {
@@ -142897,7 +142934,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30a2\u30a4\u30af",
     "voice": "Greg Chun + Sarah Williams",
     "resplendent": false,
@@ -143102,7 +143139,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u5e7c\u5c11\u30bb\u30cd\u30ea\u30aa",
     "voice": "Kyle McCarley",
     "resplendent": false,
@@ -143478,7 +143515,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u5e7c\u5c11\u30ef\u30e6",
     "voice": "Anne Yatco",
     "resplendent": false,
@@ -145774,7 +145811,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u53cc\u754c\u30ed\u30a4",
     "voice": "Ray Chase + Yuri Lowenthal",
     "resplendent": false,
@@ -145971,7 +146008,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u82b1\u5ac1\u30ea\u30ea\u30fc\u30ca",
     "voice": "Julie Kliewer",
     "resplendent": false,
@@ -146336,7 +146373,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u82b1\u5ac1\u30bd\u30d5\u30a3\u30fc\u30e4",
     "voice": "Wendee Lee",
     "resplendent": false,
@@ -147869,7 +147906,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u53cc\u754c\u30a8\u30fc\u30c7\u30eb\u30ac\u30eb\u30c8",
     "voice": "Tara Platt + Krizia Bajos",
     "resplendent": false,
@@ -148070,7 +148107,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6c34\u7740\u30c7\u30a3\u30df\u30c8\u30ea",
     "voice": "Chris Hackney",
     "resplendent": false,
@@ -148402,7 +148439,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6c34\u7740\u30df\u30ab\u30e4",
     "voice": "Veronica Taylor",
     "resplendent": false,
@@ -148649,7 +148686,8 @@
       "elincia",
       "elincia2",
       "elincia4",
-      "elincia5"
+      "elincia5",
+      "elincia6"
     ],
     "prf": {
       "": "whitecapbowspd",
@@ -148956,7 +148994,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30c8\u30fc\u30eb",
     "voice": "Laila Berzins + Erika Ishii",
     "resplendent": false,
@@ -149140,7 +149178,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6c34\u7740\u30cb\u30d5\u30eb",
     "voice": "Anairis Qui\u00f1ones",
     "resplendent": false,
@@ -149317,7 +149355,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6c34\u7740\u30a8\u30a4\u30ea\u30fc\u30af",
     "voice": "Kira Buckland",
     "resplendent": false,
@@ -151030,7 +151068,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30a8\u30dd\u30cb\u30fc\u30cc",
     "voice": "Liv Strander + Sarah Blandy",
     "resplendent": false,
@@ -151222,7 +151260,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u602a\u76d7\u30ad\u30e3\u30b9",
     "voice": "Antonia Flynn",
     "resplendent": false,
@@ -151406,7 +151444,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u602a\u76d7\u30ec\u30a4\u30e9",
     "voice": "Rebeka Thomas",
     "resplendent": false,
@@ -153102,7 +153140,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u53cc\u754c\u30bf\u30fc\u30ca",
     "voice": "Melissa Fahn + Ryan Bartley",
     "resplendent": false,
@@ -153328,7 +153366,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u708e\u90e8\u65cf\u30ea\u30f3",
     "voice": "Wendee Lee",
     "resplendent": false,
@@ -153697,7 +153735,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u708e\u90e8\u65cf\u30e0\u30b9\u30da\u30eb",
     "voice": "Jason Charles Miller",
     "resplendent": false,
@@ -155294,7 +155332,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30c9\u30fc\u30de",
     "voice": "Josh Petersdorf + Monica Rial",
     "resplendent": false,
@@ -155538,7 +155576,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u30cf\u30ed\u30ab\u30e0\u30a4\u5973",
     "voice": "Marcella Lentz-Pope",
     "resplendent": false,
@@ -155918,7 +155956,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u30cf\u30ed\u30ab\u30e0\u30a4\u7537",
     "voice": "Cam Clarke",
     "resplendent": false,
@@ -157559,7 +157597,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30ec\u30fc\u30ae\u30e3\u30eb\u30f3",
     "voice": "Abby Trott + Heather Hogan",
     "resplendent": false,
@@ -157747,7 +157785,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u5fcd\u8005\u30ab\u30df\u30e9",
     "voice": "Misty Lee",
     "resplendent": false,
@@ -157924,7 +157962,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u5fcd\u8005\u30bb\u30eb\u30b8\u30e5",
     "voice": "Heather Gonzalez",
     "resplendent": false,
@@ -157939,7 +157977,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -160840,7 +160878,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u53cc\u754c\u30c6\u30a3\u30a2\u30e2",
     "voice": "Julie Ann Taylor",
     "resplendent": false,
@@ -160856,7 +160894,7 @@
       "ylisse",
       "fates"
     ],
-"chibi": [
+    "chibi": [
       "fe13",
       "fe14"
     ],
@@ -161028,7 +161066,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u51ac\u796d\u30c9\u30ed\u30c6\u30a2",
     "voice": "Allegra Clark",
     "resplendent": false,
@@ -161371,7 +161409,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u51ac\u796d\u6f06\u9ed2\u306e\u9a0e\u58eb",
     "voice": "Robert Clotworthy",
     "resplendent": false,
@@ -161922,7 +161960,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u6bd4\u7ffc\u30a2\u30b9\u30af",
     "voice": "Dustin Rubin + Mayanna Berrin",
     "resplendent": false,
@@ -162283,7 +162321,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u5e74\u660e\u30a8\u30eb\u30e0",
     "voice": "Landon McDonald",
     "resplendent": false,
@@ -162472,7 +162510,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -162836,7 +162874,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u53cc\u754c\u30ea\u30f3\u30c0",
     "voice": "Julie Ann Taylor + Heather Halley",
     "resplendent": false,
@@ -163020,7 +163058,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "spcseasonal",
     "internal_id": "\u30ab\u30c0\u30a4\u30f3\u30a6\u30eb\u30b9\u30e9",
     "voice": "Misty Lee",
     "resplendent": false,
@@ -164342,7 +164380,8 @@
     "alt": false,
     "reference": [
       "celine2",
-      "celine3"
+      "celine3",
+      "celine4"
     ],
     "prf": {
       "": "joyoustome",
@@ -165551,7 +165590,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "\u611b\u306e\u796d\u30bf\u30af\u30df",
     "voice": "Michael Sinterniklaas",
     "resplendent": false,
@@ -166329,7 +166368,8 @@
       "elincia",
       "elincia2",
       "elincia3",
-      "elincia5"
+      "elincia5",
+      "elincia6"
     ],
     "prf": {
       "": "crimeanscepter",
@@ -168450,7 +168490,7 @@
     ],
     "gender": "N",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u30ae\u30ea\u30a2\u30e0",
     "voice": "Reagan Murdock",
     "resplendent": false,
@@ -168775,7 +168815,7 @@
     ],
     "gender": "N",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u30b7\u30ec\u30fc\u30cd",
     "voice": "Risa Mei",
     "resplendent": false,
@@ -169079,7 +169119,8 @@
         "Sorcery Blade 1": "2",
         "Sorcery Blade 2": "3",
         "Sorcery Blade 3": "4",
-        "Atk/Spd Hexblade": "5"
+        "Atk/Spd Hexblade": "5",
+        "Atk/Spd Hexedge": "5"
       },
       "B": {
         "Seal Spd 1": "2",
@@ -169088,7 +169129,8 @@
         "Seal Spd 4": "5"
       },
       "C": {
-        "Fetters of Dromi": "5"
+        "Fetters of Dromi": "5",
+        "Dromi II": "5"
       },
       "X": {}
     },
@@ -170390,7 +170432,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u30d5\u30a7\u30ea\u30af\u30b9",
     "voice": "Lucien Dodge",
     "resplendent": false,
@@ -170720,7 +170762,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u30ec\u30a2",
     "voice": "Cherami Leigh",
     "resplendent": false,
@@ -171032,13 +171074,18 @@
         "Atk/Spd Clash 4": "5"
       },
       "B": {
-        "Fruit of Life": "5"
+        "Fruit of Life": "5",
+        "Fruit of Life+": "5"
       },
       "C": {
         "Rouse Atk/Spd 1": "2",
         "Rouse Atk/Spd 2": "3",
         "Rouse Atk/Spd 3": "4",
-        "Alarm Atk/Spd": "5"
+        "Alarm Atk/Spd": "5",
+        "C Feud 1": "2",
+        "C Feud 2": "3",
+        "C Feud 3": "4",
+        "Dark Beast Force": "5"
       },
       "X": {}
     },
@@ -171451,7 +171498,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u95c7\u30d9\u30ec\u30b9",
     "voice": "Cassandra Lee Morris",
     "resplendent": false,
@@ -171630,7 +171677,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u95c7\u30de\u30ea\u30a2",
     "voice": "Wendee Lee",
     "resplendent": false,
@@ -171798,7 +171845,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u95c7\u30cf\u30a4\u30c9\u30e9",
     "voice": "Imari Williams",
     "resplendent": false,
@@ -173575,7 +173622,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u958b\u82b1\u30d5\u30a3\u30eb",
     "voice": "Liv Strander",
     "resplendent": false,
@@ -174065,7 +174112,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "\u30ce\u30a2",
     "voice": "Aaron Dismuke",
     "resplendent": false,
@@ -176693,7 +176740,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u30c7\u30a3\u30a2\u30de\u30f3\u30c9",
     "voice": "Stephen Fu",
     "resplendent": false,
@@ -177014,7 +177061,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u30b7\u30c8\u30ea\u30cb\u30ab",
     "voice": "Brittney Karbowski",
     "resplendent": false,
@@ -177227,7 +177274,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u30ea\u30e5\u30fc\u30eb\u7537",
     "voice": "Brandon McInnis",
     "resplendent": false,
@@ -178681,7 +178728,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u7dcf\u9078\u6319\u30eb\u30d5\u30ec\u7537",
     "voice": "David Vincent",
     "resplendent": false,
@@ -178859,7 +178906,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u7dcf\u9078\u6319\u30bb\u30cd\u30ea\u30aa",
     "voice": "Kyle McCarley",
     "resplendent": false,
@@ -179028,7 +179075,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u7dcf\u9078\u6319\u30b0\u30eb\u30f4\u30a7\u30a4\u30b0",
     "voice": "Alice Himora",
     "resplendent": false,
@@ -179266,7 +179313,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "global",
+    "pool": "special",
     "internal_id": "PID_\u7dcf\u9078\u6319\u30ab\u30e0\u30a4\u5973",
     "voice": "Marcella Lentz-Pope",
     "resplendent": false,
@@ -181743,7 +181790,8 @@
       "elincia",
       "elincia2",
       "elincia3",
-      "elincia4"
+      "elincia4",
+      "elincia6"
     ],
     "prf": {
       "": "absoluteamiti",
@@ -183836,7 +183884,8 @@
     "alt": false,
     "reference": [
       "veyle2",
-      "veyle3"
+      "veyle3",
+      "veyle4"
     ],
     "prf": {
       "": "obscurite",
@@ -192494,7 +192543,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "hortensia2"
+      "hortensia2",
+      "hortensia3"
     ],
     "prf": {
       "": "arcanecharmerspd",
@@ -197465,7 +197515,8 @@
     "alt": false,
     "reference": [
       "veyle",
-      "veyle3"
+      "veyle3",
+      "veyle4"
     ],
     "prf": {
       "": "fellchildsmight",
@@ -210267,7 +210318,8 @@
     "alt": false,
     "reference": [
       "celine",
-      "celine3"
+      "celine3",
+      "celine4"
     ],
     "prf": {
       "": "scrollofteas",
@@ -213450,7 +213502,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "hortensia"
+      "hortensia",
+      "hortensia3"
     ],
     "prf": {
       "": "snowmanstaff",
@@ -217501,18 +217554,21 @@
       "Rhea: Aura of Love",
       "Aura of Love",
       "Valentine's Rhea",
+      "Valentines Rhea",
       "V Rhea",
       "Duo Rhea",
-      "D Rhea"
+      "D Rhea",
+      "rhea4"
     ],
     "HARD_ALT_NAME": [
-      "rhea4",
       "Rhea: Aura of Love",
       "Aura of Love",
       "Valentine's Rhea",
+      "Valentines Rhea",
       "V Rhea",
       "Duo Rhea",
-      "D Rhea"
+      "D Rhea",
+      "rhea4"
     ],
     "gender": "F",
     "rarity": 5,
@@ -220052,7 +220108,8 @@
     "alt": false,
     "reference": [
       "veyle",
-      "veyle2"
+      "veyle2",
+      "veyle4"
     ],
     "prf": {
       "": "gentlefellegg",
@@ -230391,7 +230448,8 @@
     "alt": false,
     "reference": [
       "celine",
-      "celine2"
+      "celine2",
+      "celine4"
     ],
     "prf": {
       "": "teapot",
@@ -240262,7 +240320,7 @@
     "duel": "220",
     "id": "1329",
     "type": "duo",
-    "version": "9.11",
+    "version": "10.0",
     "duo": "Neutralizes any\u3010Penalty\u3011and grants Atk/Spd/Def/Res+6,\u3010Fringe Bonus\u3011, and \u3010Cancel Affinity\u3011to unit and allies within 3 spaces of unit for 1 turn.\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).\n\u3010Fringe Bonus\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = highest bonus on each stat between unit and allies within 2 spaces of unit for 1 turn. Calculates each stat bonus independently.\n\u3010Cancel Affinity\u3011\nIf unit has weapon-triangle disadvantage, reverses weapon-triangle advantage granted by foe's skills for 1 turn.",
     "harmonized": false,
     "emblem": false,
@@ -240366,7 +240424,7 @@
         "**Baldr:** I train every day, no matter if it's the first of the year or the last. Unrivaled strength stems from consistency!"
       ],
       "Visit": [
-        "We are Baldr and H\u00f6\u00f0r, from Ásgarðr. Let us celebrate a new year's arrival alongside [F]!"
+        "We are Baldr and H\u00f6\u00f0r, from \u00c1sgar\u00f0r. Let us celebrate a new year's arrival alongside [F]!"
       ],
       "Level": [
         "**Baldr:** Ohohohoho! We shall be unstoppable in all our endeavors this year, as with every year!",
@@ -242998,6 +243056,728 @@
     "boost": {
       "hp": 3,
       "res": 4
+    }
+  },
+  "veyle4": {
+    "name": "Veyle",
+    "title": "Sister Dragons",
+    "description": "Dragon siblings, once torn apart, who now reunite at Askr's Day of Devotion. They appear in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "ichikawa Halu (\u3044\u3061\u304b\u308f\u306f\u308b)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": "220",
+    "id": "1344",
+    "type": "duo",
+    "version": "10.2",
+    "duo": "Grants\u3010Divinely Inspiring\u3011,\u3010Reflex\u3011, and \"unit makes a guaranteed follow-up attack during combat\" to unit and allies within 3 spaces of unit for 1 turn.\n\u3010Divinely Inspiring\u3011\nGrants bonus to unit's Atk/Spd/Def/Res = X \u00d7 3 (X = number of allies with the Divinely Inspiring effect within 3 spaces of unit, excluding unit; max 2), grants Special cooldown count-X to unit before foe's first attack, and when unit deals damage to foe during combat, restores X \u00d7 4 HP to unit during combat.\n\u3010Reflex\u3011\nReduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes) and unit's next attack deals damage = total damage reduced from foe's first attack (by any source, including other skills; resets at end of combat). (For 1 turn.)",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 8,
+      "def": 4,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 50,
+      "def": 30,
+      "res": 90
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "def"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Draconic Bond": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Ice Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Res Bond 1": "2",
+        "Atk/Res Bond 2": "3",
+        "Atk/Res Bond 3": "4",
+        "Atk/Res Aria": "5"
+      },
+      "B": {
+        "Atk/Res Snag 1": "2",
+        "Atk/Res Snag 2": "3",
+        "Atk/Res Snag 3": "4",
+        "A/R Detect Aerial": "5"
+      },
+      "C": {
+        "Fell Refuge ": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Veyle_Sister_Dragons_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Veyle_Sister_Dragons_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Veyle_Sister_Dragons_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Veyle_Sister_Dragons_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
+    ],
+    "HARD_ALT_NAME": [
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6bd4\u7ffc\u30f4\u30a7\u30a4\u30eb",
+    "voice": "Megan Taylor Harvey + Laura Stahl",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Veyle:** It's nice to attend a festival as a family... I wonder if Mama and Papa ever expressed their love like this...",
+        "**Alear:** Veyle is always so reserved... But it's nice to see her having fun. I'm going to spoil her silly today!",
+        "**Veyle:** Being here, I feel warm inside. Seeing humans and dragons together like this...makes me believe in love.",
+        "**Alear:** I would like to find flowers befitting Emblems to express my gratitude to them. For Marth, maybe...bright blue?",
+        "**Veyle:** Although we are Fell and Divine Dragons, we have an unbreakable bond. I wish to stay together forever."
+      ],
+      "Visit": [
+        "**Veyle:** So sorry to intrude, but we come to you with greetings from [F]."
+      ],
+      "Level": [
+        "**Veyle:** Because everyone has accepted me, I can live as a righteous dragon.",
+        "**Alear:** Your love gives us strength, [S].",
+        "**Veyle:** Is great power not suitable for the Day of Devotion?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Veyle. I am here at the Day of Devotion festival with my sister, Alear. Please, accept our gratitude."
+      ],
+      "Learn Skill": [
+        "**Veyle:** With your devotion, I won't be outdone! Just watch!"
+      ],
+      "Confession": [
+        "**Veyle:** I've never seen flowers like this in Elyos, but this world is full of them. Being in a garden is like a dream.\n**Alear:** It was in a field of flowers that we first met, Veyle. You helped me after the battle in Florra Mill Town.\n**Veyle:** Yes. It seems so long ago, back when I was all alone. But now I'm so happy we can be together.\n**Alear:** So am I. Thank you so much for fighting with me in Elyos and searching for me.\n**Veyle:** It is I who should thank you. Hehe... It is a little embarrassing to express so much, but maybe today it's OK...\n**Alear:** Yes. And every day from now on, I'll express my gratitude and love to you. For thousands of years to come.\n**Veyle:** And I will do the same. I will show all the feelings I couldn't for the thousands of years we were apart..."
+      ],
+      "Special": [
+        "**Duo:** Love engage!",
+        "**Duo:** Thinking...of you!",
+        "**Veyle:** My gift to you!",
+        "**Alear:** Bound by love!"
+      ],
+      "Status": [
+        "-",
+        "\"Sister, will you engage with me at the festival today?\" \"*giggle* Of course I will, Veyle.\""
+      ],
+      "Map Select": [
+        "It's time!",
+        "My heart is racing.",
+        "Our love burns bright."
+      ],
+      "Conversation": [
+        "**Veyle:** Festivals are so fun, aren't they? Seeing all the smiles makes me happy.",
+        "**Alear:** Being able to convey our love to one another is truly a blessing. Thank you for everything, Little Sister.",
+        "**Veyle:** It's you who deserves the thanks. When I think back, I'm always receiving valuable things from you...",
+        "Like the dragonstone you gave me when I was little... It helped me endure many hardships.",
+        "**Alear:** I'm proud to know that the Alear of the past gave you such a good gift.",
+        "**Veyle:** I wonder if I could ever give someone such a fulfilling gift...",
+        "**Alear:** Of course you can. Besides, any gift from you will bring happiness.",
+        "**Veyle:** I hope you're right. But when it comes to picking one out, I have no idea...",
+        "**Alear:** Flowers are the popular choice at these festivals. But I've heard of people giving sweets too.",
+        "**Veyle:** You mean like...chocolate? Or cake? I do recall people eating those kinds of things in the Somniel...",
+        "But I don't like sweets at all... How will I know what's tasty or not?",
+        "**Alear:** You could always give something that's not sweet. It's best to go with what you consider good.",
+        "**Veyle:** Oh... Well then I should offer my favorite. It's extra spicy and delicious!",
+        "It's caked in bright-red seasoning, and when you bite into it, an exciting sauce gushes out.",
+        "**Alear:** Oh, that sounds...interesting. It would be good for someone with a stomach for spicy food.",
+        "**Veyle:** But I really want it to please you! I'll think more about it. I'm going to go check out that shop over there...",
+        "**Alear:** Please me with a gift? Heh. Oh, Veyle, just hearing you say that fills my heart..."
+      ],
+      "Duo Skill": [
+        "\"Sister?\" \"I'm here!\"",
+        "\"Emblem\" \"engage!\""
+      ],
+      "Back Unit Supporting": [
+        "You can do it, Veyle!",
+        "I love you!"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Valentines Veyle",
+    "SEARCH_NAME": "Valentines Veyle",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Green_Tome:1317239575352971396>Valentines Veyle",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "veyle",
+      "veyle2",
+      "veyle3"
+    ],
+    "prf": {
+      "": "draconicbond",
+      "eff": "draconicbond",
+      "atk": "draconicbond",
+      "spd": "draconicbond",
+      "def": "draconicbond",
+      "res": "draconicbond"
+    }
+  },
+  "celine4": {
+    "name": "C\u00e9line",
+    "title": "Love's Aroma",
+    "description": "Princess of Firene. Expresses friendliness through flowers and presents given with deep affection. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Miwabe Sakura (\u307f\u308f\u3079\u3055\u304f\u3089)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Blue",
+    "duel": false,
+    "id": "1345",
+    "type": false,
+    "version": "10.2",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 15,
+      "atk": 9,
+      "spd": 9,
+      "def": 3,
+      "res": 14
+    },
+    "growth": {
+      "hp": 45,
+      "atk": 75,
+      "spd": 90,
+      "def": 25,
+      "res": 75
+    },
+    "superboon": [
+      "hp",
+      "spd",
+      "def"
+    ],
+    "superbane": [
+      "atk",
+      "res"
+    ],
+    "weapons": {
+      "Light": "1",
+      "Ellight": "2",
+      "Shine": "3",
+      "Gift of Love": "5"
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4",
+      "Magic Light": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Aria": "5"
+      },
+      "B": {
+        "Spd/Res Snag 1": "2",
+        "Spd/Res Snag 2": "3",
+        "Spd/Res Snag 3": "4",
+        "S/R Detect Aerial": "5"
+      },
+      "C": {
+        "Rouse Atk/Res 1": "2",
+        "Rouse Atk/Res 2": "3",
+        "Rouse Atk/Res 3": "4",
+        "Truly Inspired": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/Celine_Loves_Aroma_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Celine_Loves_Aroma_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Celine_Loves_Aroma_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Celine_Loves_Aroma_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Love's Aroma",
+      "C\u00e9line: Love's Aroma",
+      "Valentines C\u00e9line",
+      "V C\u00e9line",
+      "c\u00e9line4",
+      "Celine: Love's Aroma",
+      "Valentines Celine",
+      "V Celine",
+      "celine4"
+    ],
+    "HARD_ALT_NAME": [
+      "Love's Aroma",
+      "C\u00e9line: Love's Aroma",
+      "Valentines C\u00e9line",
+      "V C\u00e9line",
+      "c\u00e9line4",
+      "Celine: Love's Aroma",
+      "Valentines Celine",
+      "V Celine",
+      "celine4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u611b\u306e\u796d\u30bb\u30ea\u30fc\u30cc",
+    "voice": "Rachelle Heger",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I chose these sweets while thinking of whom I would give them to. One day, I'd like to make them by hand...",
+        "In my homeland, we also give flowers to others to express our gratitude. I'd like the people to see Askr's flowers.",
+        "I mixed a single four-leaf clover into a bouquet for my brother. I'm sure he'll appreciate this gift of good fortune.",
+        "A tea that tastes like love... Don't they all, as long as they're brewed with passion?",
+        "Diplomacy means acting friendly. But still, I will draw my sword on anyone who scatters my country's flowers."
+      ],
+      "Visit": [
+        "These Day of Devotion flowers were chosen especially for you by [F]."
+      ],
+      "Level": [
+        "The flowers of love bloom within my heart! Let's be sure to make it home alive.",
+        "This power is meant for happiness. I will show no mercy to those who disrupt this festival.",
+        "I thought I learned all I needed to enjoy the festival... But there is more."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am C\u00e9line, princess of Firene. I'm happy to take part in the Day of Devotion. I thank you profusely."
+      ],
+      "Learn Skill": [
+        "Thank you for your love. You will have mine with victory!"
+      ],
+      "Confession": [
+        "Come this way, [S].\nI've prepared flowers and tea to show my appreciation for you.\nIt sure is peaceful... I'd like to have this kind of peace with my enemies and actually be able to talk to them.\nWars only happen because people are unsatisfied. We look down on others because we're unhappy.\nIt is sad, but I believe it's the truth...\nEh...you're right. I do get irritable when I'm hungry. Perhaps it's as simple as that.\nIf that's the case, don't you think we could prevent a few wars by satisfying our enemy's hunger?\nI know... It's childish idealism. Still, if you just smile and nod along, it doesn't seem so bad, does it?"
+      ],
+      "Special": [
+        "Teatime for love!",
+        "Flowers of gratitude!",
+        "What a happy festival!",
+        "Love engage!"
+      ],
+      "Status": [
+        "-",
+        "This is the traditional attire of the kingdom of Firene.",
+        "Oh, I was thinking I could hide a sword there, but it looks like you spotted it easily.",
+        "All the flowers and gifts brimming with thanks... The mere sight is enough to make me giddy with delight!",
+        "Do you suppose serving tea is an acceptable way to show appreciation at this festival?",
+        "I am unsure about the bouquet for my brother. Do you think I should put some training weights inside?",
+        "I would like to let Chlo\u00e9 and Louis know how grateful I am to them. Though it is a bit awkward to simply say it.",
+        "I don't yet know the best way to express my fondness, but someday I'd like to give you a bouquet of flowers from my home."
+      ],
+      "Map Select": [
+        "But of course.",
+        "The truth is...",
+        "Love is happiness."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Valentines C\u00e9line",
+    "SEARCH_NAME": "Valentines C\u00e9line",
+    "DISPLAY_NAME": "<:Blue_Tome:1317239386491977749>Valentines C\u00e9line",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "celine",
+      "celine2",
+      "celine3"
+    ],
+    "prf": {
+      "": "giftoflove",
+      "eff": "giftoflove",
+      "atk": "giftoflove",
+      "spd": "giftoflove",
+      "def": "giftoflove",
+      "res": "giftoflove"
+    }
+  },
+  "hortensia3": {
+    "name": "Hortensia",
+    "title": "Cutesplosion",
+    "description": "Second princess of Elusia. Dons modest, ladylike garb and imparts her gratitude to those she loves. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "T-Yama (T\u5c71)",
+    "move": "Armored",
+    "weapon": "Staff",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1346",
+    "type": false,
+    "version": "10.2",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 12,
+      "spd": 9,
+      "def": 6,
+      "res": 13
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 75,
+      "spd": 90,
+      "def": 35,
+      "res": 80
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "atk"
+    ],
+    "weapons": {
+      "Assault": "1",
+      "Sweet Staff": "5"
+    },
+    "assist": {
+      "Heal": "1",
+      "Mend": "2",
+      "Guardian": "3",
+      "Guardian+": "5"
+    },
+    "special": {
+      "Imbue": "2",
+      "Still-Water Balm": "3",
+      "Deluge Balm": "4",
+      "Deluge Charm": "5"
+    },
+    "passive": {
+      "A": {
+        "Wind Boost 1": "2",
+        "Wind Boost 2": "3",
+        "Wind Boost 3": "4",
+        "Torrential Boost": "5"
+      },
+      "B": {
+        "Pair Up 1": "2",
+        "Pair Up 2": "3",
+        "Pair Up 3": "4",
+        "Pair Up 4": "5"
+      },
+      "C": {
+        "Huge Personality": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Hortensia_Cutesplosion_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Hortensia_Cutesplosion_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Hortensia_Cutesplosion_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Hortensia_Cutesplosion_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Cutesplosion",
+      "Hortensia: Cutesplosion",
+      "Valentines Hortensia",
+      "V Hortensia",
+      "hortensia3"
+    ],
+    "HARD_ALT_NAME": [
+      "Cutesplosion",
+      "Hortensia: Cutesplosion",
+      "Valentines Hortensia",
+      "V Hortensia",
+      "hortensia3"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u611b\u306e\u796d\u30aa\u30eb\u30c6\u30f3\u30b7\u30a2",
+    "voice": "Amber Connor",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I prefer my dresses short and cute! Although as I get older, I might learn to appreciate the longer ones more.",
+        "In Elusia, I saw more snowflakes than flowers. You can't make a bouquet of them, but they really are pretty!",
+        "I think I've chosen a wonderful gift full of love for my sister. But...now I'm anxious about giving it to her!",
+        "You can't spread too much love and cuteness! I'm usually on the receiving end, so it's my turn to give back.",
+        "When I think of giving a gift, my late father still comes to mind. I think it's all right to prepare something for him."
+      ],
+      "Visit": [
+        "You are quite fortunate to be the recipient of these heartfelt greetings from [F]!"
+      ],
+      "Level": [
+        "Earning someone's love is important. But loving yourself is important too! That's the truth!",
+        "This is the perfect amount of love for me! I'll return it a hundredfold!",
+        "I'm looking for more love. Let's get going, right after I polish up on my strength and cuteness!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Hortensia reporting for the Day of Devotion! I give my sincere love to you and everyone here!"
+      ],
+      "Learn Skill": [
+        "Is this a token of your affection? How wonderful! Thank you! I will keep getting better!"
+      ],
+      "Confession": [
+        "Oh, [S]! I just witnessed the sweetest scene between two Hero lovebirds sharing their feelings.\nI guess I thought the Day of Devotion was kind of philanthropic...all about spreading love to a lot of people.\nBut maybe expressing deep love to one person in your heart is actually closer to the true essence of this day.\nWho would I share my feelings with? Maybe the Divine Dragon? Hmm... And Ivy, and my retainers...\nOh! The Emblems too, and all my friends... Ugh, I love them all! Huh? That's why people like me?\nThank you! Wait right here! I'm going to get you a bouquet to express my love for you too!"
+      ],
+      "Special": [
+        "Highlight of the festival!",
+        "Have some love!",
+        "Thanks a lot!",
+        "Love engage!"
+      ],
+      "Status": [
+        "-",
+        "Have some love!",
+        "Thanks a lot!",
+        "I'm not used to long dresses like this, but it really makes me look grown up. Isn't it great?",
+        "I picked this bouquet for maximum cuteness. I wonder if my sister will like it?",
+        "I always thank people when I get the chance. It's too late when they're gone.",
+        "Rosado, Goldmary...thank you for...umm... Wow. Even just practicing this is embarrassing.",
+        "The academy I went to had an event like this too. I never took part there, but I'm really liking it."
+      ],
+      "Map Select": [
+        "All right.",
+        "So romantic!",
+        "Love is in the air."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Valentines Hortensia",
+    "SEARCH_NAME": "Valentines Hortensia",
+    "DISPLAY_NAME": "<:Colorless_Staff:1317239426866483261>Valentines Hortensia",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "hortensia",
+      "hortensia2"
+    ],
+    "prf": {
+      "": "sweetstaff",
+      "eff": "sweetstaff",
+      "atk": "sweetstaff",
+      "spd": "sweetstaff",
+      "def": "sweetstaff",
+      "res": "sweetstaff"
+    }
+  },
+  "louis": {
+    "name": "Louis",
+    "title": "Petal Knight",
+    "description": "Royal knight of Firene and retainer to Princess Céline. Finds utmost joy in seeing his friends happy. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "isamu (\u30a4\u30b5\u30e0)",
+    "move": "Armored",
+    "weapon": "Bow",
+    "color": "Red",
+    "duel": false,
+    "id": "1347",
+    "type": false,
+    "version": "10.2",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 22,
+      "atk": 12,
+      "spd": 3,
+      "def": 10,
+      "res": 12
+    },
+    "growth": {
+      "hp": 65,
+      "atk": 80,
+      "spd": 30,
+      "def": 90,
+      "res": 75
+    },
+    "superboon": [
+      "def"
+    ],
+    "superbane": [
+      "spd",
+      "res"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Bow of Love": "3",
+      "Bow of Love+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Slick Fighter 1": "2",
+        "Slick Fighter 2": "3",
+        "Slick Fighter 3": "4",
+        "Slick Fighter 4": "5"
+      },
+      "C": {
+        "D/R Far Save 1": "1",
+        "D/R Far Save 2": "2",
+        "D/R Far Save 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Louis_Petal_Knight_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Louis_Petal_Knight_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Louis_Petal_Knight_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Louis_Petal_Knight_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Petal Knight",
+      "Louis: Petal Knight",
+      "Valentines Louis",
+      "V Louis",
+      "louis"
+    ],
+    "HARD_ALT_NAME": [
+      "Petal Knight",
+      "Louis: Petal Knight",
+      "Valentines Louis",
+      "V Louis",
+      "louis"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u51ac\u796d\u30a2\u30eb\u30d5\u30ec\u30c3\u30c9",
+    "voice": "J. Michael Tatum",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "What a beautiful sight... Friends sharing feelings with one another... And even you mingling amidst them.",
+        "My three younger brothers would surely be delighted if I sent them flowers or sweets from Askr.",
+        "Enjoy this tea with the aroma of a red fruit. It, like this festival, offers a feeling of love. Do drink while it's hot.",
+        "I heard that a pair of Heroes in this world cannot be separated. I would love to see this. Will you show me?",
+        "All flowers suit Princess C\u00e9line, so making her bouquet was a true joy. Shall I make one for you next?"
+      ],
+      "Visit": [
+        "I have come to convey my love and to say that I will watch over you and [F] forever."
+      ],
+      "Level": [
+        "The combination of me and the Day of Devotion is a truly magnificent sight!",
+        "It is such an uplifting feeling to see a scene brimming with love. It gives me strength.",
+        "I became so absorbed in the festivities that it seems I have neglected my duties."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Louis, a royal knight of Firene. The Day of Devotion is a splendid affair. I feel a new opportunity ahead."
+      ],
+      "Learn Skill": [
+        "Thank you for extending your love to me. But please, you must give your love to the other Heroes as well..."
+      ],
+      "Confession": [
+        "Ahh... People giving thanks to their retainers with candy... And neighbors giving bouquets to those they love...\nAh, I am glad to see you made it here, [S]!\nI have been waiting just for you. It is not as though my sole purpose here is watching other Heroes.\nPlease, accept this Day of Devotion gift from me. I have made some traditional baked goods from Firene.\nWhy not stay awhile? I will make tea. I am sure there are others who would like to express their feelings to you.\nThis, I would love to see... Numerous Heroes in Askr giving gifts of love to the summoner..."
+      ],
+      "Special": [
+        "Teatime of love!",
+        "Respect and gratitude.",
+        "I shall be a wall!",
+        "Love engage!"
+      ],
+      "Status": [
+        "-",
+        "This is a wonderful festival. I am grateful you summoned me.",
+        "What?! A princess of another world is shyly presenting a gift to a friend of hers? It is wonderful to be surrounded by so much love.",
+        "When selecting a Day of Devotion gift, one considers the recipient wholeheartedly, is that right? I like how thoughtful that is.",
+        "While I am fond of grapes, I have no love for the seaweed known as sea grapes.",
+        "This bouquet is for Princess C\u00e9line, though it would set a far more picturesque scene if Chlo\u00e9 were to give it to her.",
+        "*contented sigh* The sight of everyone giving a gift to their beloved... I find it quite uplifting.",
+        "I shall brew some tea to express my gratitude. I hope you enjoy the infused aroma of flowers from Firene in this blend."
+      ],
+      "Map Select": [
+        "Indeed.",
+        "Off to the gardens.",
+        "To protect love."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Valentines Louis",
+    "SEARCH_NAME": "Valentines Louis",
+    "DISPLAY_NAME": "<:Red_Bow:1317239680571543592>Valentines Louis",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "bowoflove",
+      "eff": "bowoflove",
+      "atk": "bowoflove",
+      "spd": "bowoflove",
+      "def": "bowoflove",
+      "res": "bowoflove"
     }
   }
 }

@@ -4,7 +4,24 @@
         "description": "Through unit's next action, after start-of-turn skills trigger, action ends immediately.",
         "color": "Colorless",
         "icon": "actionendsimmediately",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [
+                    "Dark Faith"
+                ],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -405,7 +422,8 @@
                 "Pleasant Night"
             ],
             "special": [
-                "Windfire Charm"
+                "Windfire Charm",
+                "Deluge Charm"
             ],
             "A": [
                 "Sly Swift Sparrow",
@@ -524,6 +542,7 @@
                 "Pulse Up: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
+                "Truly Inspired",
                 "Inborn Idealism"
             ],
             "X": [],
@@ -653,7 +672,8 @@
             "Staff": [
                 "Staff of the Saint",
                 "Staff of Yngvi",
-                "Supreme Th\u00f6kk"
+                "Supreme Th\u00f6kk",
+                "Sweet Staff"
             ],
             "Bow": [
                 "Bow of Twelve",
@@ -837,8 +857,9 @@
                 "Active Lookout",
                 "Lookout Smog",
                 "Black Fang Bond",
-                "Fetters of Dromi",
                 "Darkling Guard II",
+                "Dromi II",
+                "Fetters of Dromi",
                 "Quiet Strength",
                 "The True Dromi"
             ],
@@ -1146,6 +1167,7 @@
                 "Springing Spear"
             ],
             "Axe": [
+                "Catalyst Axe",
                 "Eagle's Heart"
             ],
             "Staff": [],
@@ -1159,6 +1181,7 @@
             },
             "Breath": [
                 "Faithful Breath",
+                "Flamelick Breath",
                 "Frostbite Breath",
                 "Purging Breath"
             ],
@@ -1243,7 +1266,24 @@
         "description": "After an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position unit moved prior to taking action (max \uff13 min \uff11; if unit used a movement skill that warped them, unit can move \uff11 space(s).)",
         "color": "Colorless",
         "icon": "canto",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [
+                    "Gift of Love"
+                ],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -1251,6 +1291,7 @@
             "B": [],
             "C": [
                 "Budding Flower",
+                "Fell Refuge",
                 "Future-Focused+",
                 "Future-Guided"
             ],
@@ -1296,7 +1337,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Horn of the Land"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -2096,12 +2139,14 @@
                 "Partnership Bow"
             ],
             "Dagger": [
+                "Abyssal Blade",
                 "Constant Dagger",
                 "Hidden Blade"
             ],
             "Tome": {
                 "Red_Tome": [
                     "Agnea's Arrow",
+                    "Dark Faith",
                     "Grimleal Text"
                 ],
                 "Blue_Tome": [
@@ -2294,7 +2339,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Flamelick Breath"
+            ],
             "Beast": []
         },
         "reference_skill": {
@@ -2961,6 +3008,7 @@
                 "Skybound Bow"
             ],
             "Dagger": [
+                "Abyssal Blade",
                 "Asura Blades",
                 "Athame",
                 "Covert Duality",
@@ -3013,6 +3061,7 @@
                 "Spd/Def Detect",
                 "Spd/Res Detect",
                 "An Open Book",
+                "Fruit of Life+",
                 "Ho\u00f0r's Zeal II",
                 "Justice Enforcer",
                 "Killing Intent+",
@@ -3029,6 +3078,7 @@
                 "Pulse Up: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
+                "Truly Inspired",
                 "Black Fang Bond",
                 "Covetous One",
                 "Divine Deceit"
@@ -3095,7 +3145,24 @@
         "description": "Inflicts Atk/Spd/Def/Res-4 on foe and neutralizes effects that prevent unit's counterattacks during combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied: does not stack), and also, when unit or foe is engaged, inflicts an additional Atk/Spd/Def/Res-2 on foe during combat. (For 1 turn.)",
         "color": "Red",
         "icon": "fellspirit",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [
+                    "Draconic Bond"
+                ],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -3301,7 +3368,9 @@
             "Axe": [
                 "Fortified Axe"
             ],
-            "Staff": [],
+            "Staff": [
+                "Sweet Staff"
+            ],
             "Bow": [],
             "Dagger": [],
             "Tome": {
@@ -3383,6 +3452,7 @@
             "A": [],
             "B": [],
             "C": [
+                "Dromi II",
                 "The True Dromi"
             ],
             "X": [],
@@ -3411,6 +3481,7 @@
                 "Colorless_Tome": []
             },
             "Breath": [
+                "Flamelick Breath",
                 "Purging Breath",
                 "Shadow Breath"
             ],
@@ -3420,7 +3491,9 @@
             ]
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Guardian+"
+            ],
             "special": [],
             "A": [],
             "B": [
@@ -3589,6 +3662,7 @@
                 "Pulse Up: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
+                "Truly Inspired",
                 "Divine Deceit"
             ],
             "X": [],
@@ -3663,6 +3737,7 @@
                 "Fallen Star",
                 "Fallen Star II",
                 "Fruit of Life",
+                "Fruit of Life+",
                 "Gold Unwinding",
                 "Pure Starfall"
             ],
@@ -4401,6 +4476,7 @@
                 "Assault Rush",
                 "Black Fang Bond",
                 "Divine Talon",
+                "Dromi II",
                 "Entwined Onrush",
                 "Fanged Ties",
                 "Fetters of Dromi",
@@ -4460,8 +4536,11 @@
                 "Twin Star Axe",
                 "Urvan Brilliance"
             ],
-            "Staff": [],
+            "Staff": [
+                "Sweet Staff"
+            ],
             "Bow": [
+                "Bow of Love+",
                 "Bow of Loyalty"
             ],
             "Dagger": [],
@@ -4967,6 +5046,7 @@
             ],
             "Tome": {
                 "Red_Tome": [
+                    "Dark Faith",
                     "Dark Monograph",
                     "Grimleal Text",
                     "Iago's Tome",
@@ -5196,6 +5276,7 @@
                     "Divine Draught",
                     "Eagle's Egg",
                     "Fimbulvetr",
+                    "Gift of Love",
                     "Scroll of Teas",
                     "Weirding Tome"
                 ],
@@ -5331,6 +5412,27 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "physicaltwinsave": {
+        "name": "Physical Twin Save",
+        "description": "If a sword, lance, axe, bow, dagger, or beast foe initiates combat against an ally within 2 spaces of unit, triggers Savior on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable \"Savior\" effects to trigger, Savior will not trigger).\nIf foe uses sword, lance, axe, bow, dagger, or beast damage, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), and any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat during combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
+        "color": "Colorless",
+        "icon": "physicaltwinsave",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [
+                "Guardian+"
+            ],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "ploy": {
         "name": "Ploy",
         "description": "Neutralizes\u3010Bonus Doubler\u3011,\u3010Treachery\u3011, and\u3010Grand Strategy\u3011effects active on unit during combat through unit's next action.",
@@ -5368,6 +5470,7 @@
                 "Pulse Up: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
+                "Truly Inspired",
                 "Divine Deceit"
             ],
             "X": [],
@@ -5410,6 +5513,7 @@
             "Breath": [],
             "Beast": [
                 "Glee of the Land",
+                "Horn of the Land",
                 "Nocturnal Fang"
             ]
         },
@@ -5452,7 +5556,7 @@
         ]
     },
     "potentfollow100": {
-        "name": "Potent Follow (100%)",
+        "name": "Potent Follow 100%",
         "description": "Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
         "color": "Green",
         "icon": "potentfollow",
@@ -5462,17 +5566,21 @@
                 "Vague Katti"
             ],
             "Lance": [
-                "\u00c1sj\u00e1 of Askr"
+                "\u00c1sj\u00e1 of Askr",
+                "Lance of Frelia"
             ],
             "Axe": [],
             "Staff": [],
             "Bow": [
                 "Keen Coyote Bow"
             ],
-            "Dagger": [],
+            "Dagger": [
+                "Abyssal Blade"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [
+                    "Gift of Love",
                     "Instructor's Opus"
                 ],
                 "Green_Tome": [
@@ -6002,7 +6110,9 @@
         "reference_weapon": false,
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Deluge Charm"
+            ],
             "A": [],
             "B": [],
             "C": [
@@ -6138,6 +6248,7 @@
                 "Atk/Def Snag 4",
                 "Spd/Def Snag 4",
                 "Assured Rebirth+",
+                "Fruit of Life+",
                 "Full Light & Dark",
                 "Holy Soul of Zofia",
                 "I Remember...",
@@ -6251,6 +6362,7 @@
                 "S/D Twin P Save",
                 "Darkling Dragon",
                 "For the True King",
+                "Huge Personality",
                 "With Everyone!",
                 "Woeful Upheaval"
             ],
@@ -6464,7 +6576,8 @@
         "reference_skill": {
             "assist": [],
             "special": [
-                "Windfire Charm"
+                "Windfire Charm",
+                "Deluge Charm"
             ],
             "A": [
                 "Dragoon Pillar"
@@ -6581,6 +6694,7 @@
                 "Baton of Dusk"
             ],
             "Bow": [
+                "Bow of Love+",
                 "Daniel-Made Bow"
             ],
             "Dagger": [
@@ -6598,6 +6712,7 @@
                     "Magical Lantern+"
                 ],
                 "Green_Tome": [
+                    "Draconic Bond",
                     "Gronnlantern+",
                     "Saintly Seraphim",
                     "Winds of Silesse"
@@ -6681,6 +6796,7 @@
             ],
             "C": [
                 "Stall Ploy 3",
+                "Dromi II",
                 "Fetters of Dromi",
                 "The True Dromi"
             ],
@@ -6717,7 +6833,9 @@
             ],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Dark Faith"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": [
@@ -6894,7 +7012,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Flamelick Breath"
+            ],
             "Beast": []
         },
         "reference_skill": {
@@ -6915,6 +7035,7 @@
                 "Pulse Up: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
+                "Truly Inspired",
                 "Encouragement"
             ],
             "X": [],
@@ -7045,7 +7166,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Truly Inspired"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Truly Incited"

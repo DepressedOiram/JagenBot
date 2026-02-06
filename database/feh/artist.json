@@ -9246,7 +9246,15 @@
       "Spring Veyle",
       "S Veyle",
       "Easter Veyle",
-      "veyle3"
+      "veyle3",
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
     ],
     "HARD_ALT_NAME": [
       "shiida5",
@@ -9368,7 +9376,15 @@
       "Spring Veyle",
       "S Veyle",
       "Easter Veyle",
-      "veyle3"
+      "veyle3",
+      "Sister Dragons",
+      "Veyle: Sister Dragons",
+      "Valentine's Veyle",
+      "Valentines Veyle",
+      "V Veyle",
+      "Duo Veyle",
+      "D Veyle",
+      "veyle4"
     ],
     "heroes": {
       "falear3": "<:Colorless_Breath:1317239411980767363>Summer Alear",
@@ -9382,6 +9398,7 @@
       "tatiana": "<:Blue_Tome:1317239386491977749>Tatiana",
       "triandra3": "<:Red_Sword:1317239717707911188>Attuned Triandra",
       "veyle3": "<:Red_Tome:1317239730714316800>Spring Veyle",
+      "veyle4": "<:Green_Tome:1317239575352971396>Valentines Veyle",
       "ymir2": "<:Colorless_Tome:1317239438602145842>Duo Ymir"
     },
     "name": "ichikawa Halu (\u3044\u3061\u304b\u308f\u306f\u308b)"
@@ -12811,7 +12828,13 @@
       "NY Hraesvelgr",
       "New years Hraesvelgr",
       "Kimono Hraesvelgr",
-      "hraesvelgr2"
+      "hraesvelgr2",
+      "Mae: Bundle of Energy",
+      "Bundle of Energy",
+      "Base Mae",
+      "Normal Mae",
+      "Base May",
+      "Normal May"
     ],
     "HARD_ALT_NAME": [
       "Celica (Resplendent)",
@@ -12897,7 +12920,13 @@
       "NY Hraesvelgr",
       "New years Hraesvelgr",
       "Kimono Hraesvelgr",
-      "hraesvelgr2"
+      "hraesvelgr2",
+      "Mae: Bundle of Energy",
+      "Bundle of Energy",
+      "Base Mae",
+      "Normal Mae",
+      "Base May",
+      "Normal May"
     ],
     "heroes": {
       "amelia2": "<:Blue_Lance:1317239378208096338>Ascended Amelia",
@@ -12906,6 +12935,7 @@
       "celica3R": "<:Red_Sword:1317239717707911188>Brave Celica (Resplendent)",
       "fir3": "<:Red_Sword:1317239717707911188>Ascended Fir",
       "hraesvelgr2": "<:Green_Beast:1317239527953141870>New Year Hr\u00e6svelgr",
+      "mae": "<:Blue_Tome:1317239386491977749>Mae",
       "mareeta": "<:Red_Sword:1317239717707911188>Mareeta",
       "mareeta2": "<:Red_Sword:1317239717707911188>Fallen Mareeta",
       "melady": "<:Blue_Lance:1317239378208096338>Melady",
@@ -17364,7 +17394,16 @@
       "W Lana",
       "Bride Lana",
       "Bridal Lana",
-      "lana"
+      "lana",
+      "Love's Aroma",
+      "C\u00e9line: Love's Aroma",
+      "Valentines C\u00e9line",
+      "V C\u00e9line",
+      "c\u00e9line4",
+      "Celine: Love's Aroma",
+      "Valentines Celine",
+      "V Celine",
+      "celine4"
     ],
     "HARD_ALT_NAME": [
       "est",
@@ -17610,10 +17649,20 @@
       "W Lana",
       "Bride Lana",
       "Bridal Lana",
-      "lana"
+      "lana",
+      "Love's Aroma",
+      "C\u00e9line: Love's Aroma",
+      "Valentines C\u00e9line",
+      "V C\u00e9line",
+      "c\u00e9line4",
+      "Celine: Love's Aroma",
+      "Valentines Celine",
+      "V Celine",
+      "celine4"
     ],
     "heroes": {
       "anna5": "<:Green_Axe:1317239517136031897>Halloween Anna",
+      "celine4": "<:Blue_Tome:1317239386491977749>Valentines C\u00e9line",
       "delthea": "<:Blue_Tome:1317239386491977749>Delthea",
       "delthea3": "<:Blue_Tome:1317239386491977749>Spring Delthea",
       "est": "<:Blue_Lance:1317239378208096338>Est",
@@ -25116,7 +25165,13 @@
       "Y Leo",
       "Baby Leo",
       "Child Leo",
-      "leo6"
+      "leo6",
+      "Tiki: Beachside Scion",
+      "Beachside Scion",
+      "Summer Tiki",
+      "Summer Young Tiki",
+      "Summer Y Tiki",
+      "Summer Chiki"
     ],
     "HARD_ALT_NAME": [
       "Fallen Morgan Female",
@@ -25510,7 +25565,13 @@
       "Y Leo",
       "Baby Leo",
       "Child Leo",
-      "leo6"
+      "leo6",
+      "Tiki: Beachside Scion",
+      "Beachside Scion",
+      "Summer Tiki",
+      "Summer Young Tiki",
+      "Summer Y Tiki",
+      "Summer Chiki"
     ],
     "heroes": {
       "artur": "<:Green_Tome:1317239575352971396>Winter Artur",
@@ -25539,6 +25600,7 @@
       "takumi2": "<:Colorless_Dagger:1317239418943438869>New Year Takumi",
       "takumi4": "<:Colorless_Bow:1317239404204654703>Summer Takumi",
       "thea": "<:Blue_Lance:1317239378208096338>Thea",
+      "ytiki2": "<:Red_Breath:1317239692189630504>Summer Young Tiki",
       "ylgr2": "<:Green_Axe:1317239517136031897>Summer Ylgr"
     },
     "name": "Tobi"
@@ -29329,6 +29391,7 @@
   "dd": {
     "heroes": {
       "malear4": "<:Red_Sword:1317239717707911188>Fallen Male Alear",
+      "claude2R": "<:Colorless_Bow:1317239404204654703>Brave Claude (Resplendent)",
       "diamant3": "<:Green_Axe:1317239517136031897>Legendary Diamant",
       "innes4": "<:Colorless_Bow:1317239404204654703>New Year Innes",
       "leo5": "<:Colorless_Tome:1317239438602145842>Festival Leo",
@@ -29381,7 +29444,11 @@
       "Legendary Diamant",
       "L Diamant",
       "Leg Diamant",
-      "diamant3"
+      "diamant3",
+      "Resplendent Brave Claude",
+      "Resp Brave Claude",
+      "R Brave Claude",
+      "Brave Claude (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Puppet Master",
@@ -29429,7 +29496,11 @@
       "Legendary Diamant",
       "L Diamant",
       "Leg Diamant",
-      "diamant3"
+      "diamant3",
+      "Resplendent Brave Claude",
+      "Resp Brave Claude",
+      "R Brave Claude",
+      "Brave Claude (Resplendent)"
     ]
   },
   "takubon": {
@@ -30978,6 +31049,34 @@
       "Normal Garcia",
       "Regular Garcia",
       "garcia"
+    ]
+  },
+  "tyama": {
+    "heroes": {
+      "hortensia3": "<:Colorless_Staff:1317239426866483261>Valentines Hortensia"
+    },
+    "name": "T-Yama (T\u5c71)",
+    "ALT_NAME": [
+      "T\u5c71",
+      "Cutesplosion",
+      "Hortensia: Cutesplosion",
+      "Valentines Hortensia",
+      "V Hortensia",
+      "hortensia3"
+    ]
+  },
+  "isamu": {
+    "heroes": {
+      "louis": "<:Red_Bow:1317239680571543592>Valentines Louis"
+    },
+    "name": "isamu (\u30a4\u30b5\u30e0)",
+    "ALT_NAME": [
+      "\u30a4\u30b5\u30e0",
+      "Petal Knight",
+      "Louis: Petal Knight",
+      "Valentines Louis",
+      "V Louis",
+      "louis"
     ]
   }
 }
