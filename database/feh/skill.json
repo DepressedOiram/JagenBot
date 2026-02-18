@@ -157057,6 +157057,7 @@
         "restriction_movement": [
           "**Can only** be used by: ",
           [
+            "Cavalry",
             "Flying"
           ]
         ]
