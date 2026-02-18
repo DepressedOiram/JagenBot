@@ -10191,7 +10191,8 @@
       "hector4",
       "hector5",
       "hector6",
-      "hector7"
+      "hector7",
+      "hector8"
     ],
     "prf": {
       "": "berserkarmadseff",
@@ -21728,15 +21729,20 @@
     "pool": "global",
     "internal_id": "\u30d7\u30ea\u30b7\u30e9",
     "voice": "Marcella Lentz-Pope",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "nima",
+    "resplendent_voice": "Marcella Lentz-Pope",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Priscilla_Delicate_Princess_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Priscilla_Delicate_Princess_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Priscilla_Delicate_Princess_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Priscilla_Delicate_Princess_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Priscilla_Delicate_Princess_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Priscilla_Delicate_Princess_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Priscilla_Delicate_Princess_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Priscilla_Delicate_Princess_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "elibe"
     ],
@@ -21792,7 +21798,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I shall give you death!",
+          "The cold grave beckons!",
+          "It's over!",
+          "Life is fleeting..."
+        ],
+        "Status": [
+          "-",
+          "This outfit is kind of frightening, isn't it? Looking in the mirror, I nearly gave myself chills.",
+          "Ooh! It's you! Pardon me\u2014 for a moment, I mistook you for my brother.",
+          "Princess Eir may keep to herself for the most part, but I'm fond of her!",
+          "I would much rather avoid going to the realm of the dead if at all possible.",
+          "This ring represents a dear memory my brother and I share.",
+          "I love you, Raymond...",
+          "I'd like to spend more time with you soon, if you can spare it."
+        ],
+        "Map Select": [
+          "What is it?",
+          "Worrisome…",
+          "To the realm of the dead."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Priscilla",
     "SEARCH_NAME": "Priscilla",
@@ -24508,7 +24545,8 @@
       "celica4",
       "celica5",
       "celica6",
-      "celica7"
+      "celica7",
+      "celica8"
     ],
     "prf": {
       "": "ragnarokeff",
@@ -36097,7 +36135,8 @@
       "fjorm3",
       "fjorm4",
       "fjorm5",
-      "fjorm6"
+      "fjorm6",
+      "fjorm7"
     ],
     "prf": {
       "": "leiptreff",
@@ -40848,7 +40887,8 @@
       "hector4",
       "hector5",
       "hector6",
-      "hector7"
+      "hector7",
+      "hector8"
     ],
     "prf": {
       "": "berserkarmadseff",
@@ -41566,7 +41606,8 @@
       "celica4",
       "celica5",
       "celica6",
-      "celica7"
+      "celica7",
+      "celica8"
     ],
     "prf": {
       "": "belovedzofiaeff",
@@ -49615,7 +49656,8 @@
       "hector4",
       "hector5",
       "hector6",
-      "hector7"
+      "hector7",
+      "hector8"
     ],
     "prf": {
       "": "thunderarmadseff",
@@ -52221,7 +52263,8 @@
       "celica4",
       "celica5",
       "celica6",
-      "celica7"
+      "celica7",
+      "celica8"
     ],
     "prf": {
       "": "royalswordeff",
@@ -52421,7 +52464,8 @@
       "hector3",
       "hector5",
       "hector6",
-      "hector7"
+      "hector7",
+      "hector8"
     ],
     "prf": {
       "": "malteteff",
@@ -60367,7 +60411,8 @@
       "fjorm3",
       "fjorm4",
       "fjorm5",
-      "fjorm6"
+      "fjorm6",
+      "fjorm7"
     ],
     "prf": {
       "": "kaburayaspd",
@@ -69749,7 +69794,8 @@
       "fjorm2",
       "fjorm4",
       "fjorm5",
-      "fjorm6"
+      "fjorm6",
+      "fjorm7"
     ],
     "prf": {
       "": "gjallarbrueff",
@@ -78914,8 +78960,6 @@
       "Hector: Dressed-Up Duo",
       "Dressed-Up Duo",
       "Duo Hector",
-      "Harmonic Hector",
-      "Harmonized Hector",
       "Halloween Hector",
       "Harvest Hector"
     ],
@@ -78925,8 +78969,6 @@
       "D Hector",
       "Dector",
       "Duo Hector",
-      "Harmonic Hector",
-      "Harmonized Hector",
       "Halloween Hector",
       "Harvest Hector"
     ],
@@ -79031,7 +79073,8 @@
       "hector3",
       "hector4",
       "hector6",
-      "hector7"
+      "hector7",
+      "hector8"
     ],
     "prf": {
       "": "conjurercurioseff",
@@ -85241,7 +85284,8 @@
       "celica3",
       "celica5",
       "celica6",
-      "celica7"
+      "celica7",
+      "celica8"
     ],
     "prf": {
       "": "saintlyseraphimeff",
@@ -130584,7 +130628,8 @@
       "fjorm2",
       "fjorm3",
       "fjorm5",
-      "fjorm6"
+      "fjorm6",
+      "fjorm7"
     ],
     "prf": {
       "": "niflsbite",
@@ -150121,7 +150166,8 @@
       "celica3",
       "celica4",
       "celica6",
-      "celica7"
+      "celica7",
+      "celica8"
     ],
     "prf": {
       "": "milastestament",
@@ -169809,7 +169855,8 @@
       "hector3",
       "hector4",
       "hector5",
-      "hector7"
+      "hector7",
+      "hector8"
     ],
     "prf": {
       "": "valiantwaraxe",
@@ -175793,7 +175840,8 @@
       "fjorm2",
       "fjorm3",
       "fjorm4",
-      "fjorm6"
+      "fjorm6",
+      "fjorm7"
     ],
     "prf": {
       "": "iceboundbrand",
@@ -201080,7 +201128,8 @@
       "celica3",
       "celica4",
       "celica5",
-      "celica7"
+      "celica7",
+      "celica8"
     ],
     "prf": {
       "": "caringmagic",
@@ -205713,7 +205762,8 @@
       "fjorm2",
       "fjorm3",
       "fjorm4",
-      "fjorm5"
+      "fjorm5",
+      "fjorm7"
     ],
     "prf": {
       "": "icecrystalspear",
@@ -212427,7 +212477,8 @@
       "hector3",
       "hector4",
       "hector5",
-      "hector6"
+      "hector6",
+      "hector8"
     ],
     "prf": {
       "": "fellowshipblade",
@@ -226678,7 +226729,8 @@
       "celica3",
       "celica4",
       "celica5",
-      "celica6"
+      "celica6",
+      "celica8"
     ],
     "prf": {
       "": "piousoffering",
@@ -243779,5 +243831,623 @@
       "def": "bowoflove",
       "res": "bowoflove"
     }
+  },
+  "celica8": {
+    "name": "Celica",
+    "title": "With Grace",
+    "description": "Celica and Veronica, two princesses whom fate falls upon heavily, navigate the raging waves of history. They appear in Fire Emblem Echoes: Shadows of Valentia / Fire Emblem Heroes.",
+    "origin": "Shadows of Valentia + Heroes",
+    "artist": "azu-taro (azu\u30bf\u30ed\u30a6)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1348",
+    "type": "duo",
+    "version": "10.2",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit.\nGrants another action to a certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit on the map who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Blade\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 12,
+      "spd": 10,
+      "def": 10,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Sisters' Blade": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Specter": "5"
+      },
+      "B": {
+        "Wild at Heart": "5"
+      },
+      "C": {
+        "Odd Tempest 1": "2",
+        "Odd Tempest 2": "3",
+        "Odd Tempest 3": "4",
+        "Endless Tempest": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Celica_With_Grace_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Celica_With_Grace_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Celica_With_Grace_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b0/Celica_With_Grace_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "With Grace",
+      "Celica: With Grace",
+      "Harmonic CYL Celica",
+      "Harmonized CYL Celica",
+      "CYL Harmonic Celica",
+      "CYL Harmonized Celica",
+      "Harmonic Choose Your Legends Celica",
+      "Harmonized Choose Your Legends Celica",
+      "Choose Your Legends Harmonic Celica",
+      "Choose Your Legends Harmonized Celica",
+      "Harmonic Brave Celica",
+      "Harmonized Brave Celica",
+      "Brave Harmonic Celica",
+      "Harmonized Brave Celica",
+      "celica8"
+    ],
+    "HARD_ALT_NAME": [
+      "With Grace",
+      "Celica: With Grace",
+      "Harmonic CYL Celica",
+      "Harmonized CYL Celica",
+      "CYL Harmonic Celica",
+      "CYL Harmonized Celica",
+      "Harmonic Choose Your Legends Celica",
+      "Harmonized Choose Your Legends Celica",
+      "Choose Your Legends Harmonic Celica",
+      "Choose Your Legends Harmonized Celica",
+      "Harmonic Brave Celica",
+      "Harmonized Brave Celica",
+      "Brave Harmonic Celica",
+      "Harmonized Brave Celica",
+      "celica8"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u53cc\u754c\u7dcf\u9078\u6319\u30bb\u30ea\u30ab",
+    "voice": "Erica Lindbeck + Wendee Lee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "valentia"
+    ],
+    "chibi": [
+      "fe15",
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Celica:** If people can love and protect one another, it should be possible for us to bring more people together.",
+        "**Celica:** We have a responsibility to the future. We must avoid causing Mila sorrow...",
+        "**Veronica:** This is similar to the world I know, but different. I'm not sure what it is...",
+        "**Celica:** Don't overdo it if you're tired, Veronica. I will carry you to bed if need be.",
+        "**Veronica:** Celica... Is it true that in your world the gods created a rich paradise? I am envious..."
+      ],
+      "Visit": [
+        "**Veronica:** Another summoner? I wonder who is the better summoner, you or [F]..."
+      ],
+      "Level": [
+        "**Celica:** When I think of the futures of those precious to me...strength wells up from within me.",
+        "**Celica:** The power of an individual is feeble, but if we bind together, we can change the future.",
+        "**Veronica:** I will lend you my strength when you need help, Celica."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "How long has it been? I'm so happy to see you again, Veronica. And [S] too."
+      ],
+      "Learn Skill": [
+        "**Celica:** Veronica and I are so pleased. Thank you, [S]."
+      ],
+      "Confession": [
+        "**Celica:** You command Heroes, Veronica. You can bend those with power to your will...\nBut I wonder... Do you do this not for power, but because you're lonely?\n**Veronica: Uh...**\n**Celica:** You seem like you need someone to talk to, and I think I could be that someone for you, Veronica.\n**Veronica:** M-me? But...talking to me is boring... But if you insist, I will brew us some hot tea...\n**Celica:** Veronica... Did you just smile?"
+      ],
+      "Special": [
+        "**Duo:** Together we can!",
+        "**Duo:** \"We will\" \"protect them.\"",
+        "**Celica:** We needed this!",
+        "**Veronica:** If we're together..."
+      ],
+      "Status": [
+        "Hm-hm.",
+        "\"Let's give it our all, Princess Veronica.\" \"Yes. Together, we'll win.\""
+      ],
+      "Map Select": [
+        "Um...",
+        "With care.",
+        "Off I go."
+      ],
+      "Conversation": [
+        "**Celica:** Ah, Princess Veronica! I found you! What is it you're doing?",
+        "**Veronica:** Oh, nothing.",
+        "**Celica:** Hey, look over there! Isn't that Princess Veronica of this world?",
+        "She looks like she's having fun chatting with Princess Sharena and the others. She really has changed...",
+        "**Veronica:** I wish I could change...",
+        "**Celica:** Really? But why?",
+        "**Veronica:** I'd like a friend to talk to. I'm so...lonely.",
+        "**Celica:** Oh, but I thought we were friends.",
+        "**Veronica:** Uh...",
+        "**Celica:** I mean, we've been fighting together, we drink tea and chat with each other... That's what friends do, right?",
+        "**Veronica:** I suppose I... I haven't felt lonely since I came here.",
+        "**Celica:** I'm so relieved to hear you say that. It would make me sad if you were lonely.",
+        "**Veronica:** So um... Does that mean...",
+        "**Celica:** Yes, of course. We are friends. Don't you agree?",
+        "**Veronica:** Oh, yes. I mean... Being alone for so long, I didn't know...",
+        "But now I do.",
+        "**Celica:** *giggle* I am honored to be your first friend. And I look forward to what the future holds for us."
+      ],
+      "Duo Skill": [
+        "\"We'll show you\" \"our strength.\"",
+        "\"Is it over?\" \"Yes.\""
+      ],
+      "Back Unit Supporting": [
+        "I'm watching you.",
+        "We'll win, right?"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Harmonic Brave Celica",
+    "SEARCH_NAME": "Harmonic Brave Celica",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Harmonic Brave Celica",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "celica",
+      "celica2",
+      "celica3",
+      "celica4",
+      "celica5",
+      "celica6",
+      "celica7"
+    ],
+    "prf": {
+      "": "sistersblade",
+      "eff": "sistersblade",
+      "atk": "sistersblade",
+      "spd": "sistersblade",
+      "def": "sistersblade",
+      "res": "sistersblade"
+    }
+  },
+  "hector8": {
+    "name": "Hector",
+    "title": "Into the Fray",
+    "description": "Hector and Ephraim, young and brash, head into battle to seek the meaning in their brother's and father's lives. They appear in Fire Emblem: The Blazing Blade / The Sacred Stones.",
+    "origin": "The Blazing Blade + The Sacred Stones",
+    "artist": "kuren",
+    "move": "Armored",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1349",
+    "type": "duo",
+    "version": "10.2",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Shields\u3011to unit and allies from the same titles as unit.\nGrants another action to certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit on the map who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Shields\u3011\nGrants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\"",
+    "emblem": false,
+    "base": {
+      "hp": 26,
+      "atk": 12,
+      "spd": 4,
+      "def": 10,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 40,
+      "def": 90,
+      "res": 80
+    },
+    "superboon": [
+      "def"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Heroic Maltet": "5" 
+    },
+    "assist": {
+      "Rally Defense": "3",
+      "Rally Def/Res": "4",
+      "Rally Def/Res+": "5"
+    },
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Armored Flare": "5"
+    },
+    "passive": {
+      "A": {
+        "Ostian Backbone": "5"
+      },
+      "B": {
+        "Quick Riposte 1": "2",
+        "Quick Riposte 2": "3",
+        "Quick Riposte 3": "4",
+        "Patience": "5"
+      },
+      "C": {
+        "A/D Far Save 1": "2",
+        "A/D Far Save 2": "3",
+        "A/D Far Save 3": "4",
+        "A/D Briar F Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Hector_Into_the_Fray_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Hector_Into_the_Fray_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/42/Hector_Into_the_Fray_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Hector_Into_the_Fray_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Into the Fray",
+      "Hector: Into the Fray",
+      "Harmonic Hector",
+      "Harmonized Hector",
+      "Harmonic CYL Hector",
+      "Harmonized CYL Hector",
+      "CYL Harmonic Hector",
+      "CYL Harmonized Hector",
+      "Harmonic Choose Your Legends Hector",
+      "Harmonized Choose Your Legends Hector",
+      "Choose Your Legends Harmonic Hector",
+      "Choose Your Legends Harmonized Hector",
+      "Harmonic Brave Hector",
+      "Harmonized Brave Hector",
+      "Brave Harmonic Hector",
+      "Harmonized Brave Hector",
+      "hector8"
+    ],
+    "HARD_ALT_NAME": [
+      "Into the Fray",
+      "Hector: Into the Fray",
+      "Harmonic Hector",
+      "Harmonized Hector",
+      "Harmonic CYL Hector",
+      "Harmonized CYL Hector",
+      "CYL Harmonic Hector",
+      "CYL Harmonized Hector",
+      "Harmonic Choose Your Legends Hector",
+      "Harmonized Choose Your Legends Hector",
+      "Choose Your Legends Harmonic Hector",
+      "Choose Your Legends Harmonized Hector",
+      "Harmonic Brave Hector",
+      "Harmonized Brave Hector",
+      "Brave Harmonic Hector",
+      "Harmonized Brave Hector",
+      "hector8"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u53cc\u754c\u7dcf\u9078\u6319\u30d8\u30af\u30c8\u30eb",
+    "voice": "Patrick Seitz + Greg Chun",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7",
+      "fe8"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Hector:** Ephraim and I get along well, especially on the battlefield. I think we'd make fine partners.",
+        "**Hector:** You never change, but I sense some new faces here and some worthwhile sparring matches to be had.",
+        "**Ephraim:** Hector is better with an axe, and I with a spear. Not that we should swap, as our weapons' histories suit us.",
+        "**Ephraim:** I have a little sister, Eirika. But seeing you, Hector, I feel I know what it's like to have a rambunctious little brother.",
+        "**Hector:** Sparring with Ephraim means being out of commission for the next three days. Care to see the show?"
+      ],
+      "Visit": [
+        "**Hector:** Making my rounds, greeting people alongside the prince of Renais... What a world this is!"
+      ],
+      "Level": [
+        "**Hector:** Now this is what you call peerless! Any enemy that faces the two of us would be scared stiff!",
+        "**Hector:** Mere child's play... You can go to sleep now, [S].",
+        "**Ephraim:** Hector is fearless but seems to have abandoned himself. What does he hold dear beneath his tough exterior?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "To anyone strong enough to challenge the both of us, I say bring it on! Ephraim, let's forge ahead!"
+      ],
+      "Learn Skill": [
+        "**Ephraim:** Thank you. I surmise this will be a great help to Hector and me."
+      ],
+      "Confession": [
+        "**Hector:** The berserker's prophecy says: \"Once you have gained such power... Your life will not end in a comfortable bed.\"\nAnd so it shall be... I'm destined to die on the battlefield. That's the price of wielding power.\nBe it today or tomorrow... It's the same for all of us who face death, fighting side by side.\n**Ephraim:** A man as powerful as you, dying in battle?\n**Hector:** That's not to say I'll flinch! Not at the thought of living or dying. Just like my proud older brother...\n**Ephraim:** Perhaps that is your conviction, Hector, as the marquess of Ostia. I suppose we are alike after all."
+      ],
+      "Special": [
+        "**Duo:** With our strength!",
+        "**Duo:** \"I'll smash 'em!\" \"Have at it!\"",
+        "**Hector:** This'll stop you!",
+        "**Ephraim:** I'm finishing this!"
+      ],
+      "Status": [
+        "-",
+        "\"To be honest, I'm better with an axe than a spear.\" \"What a coincidence. I'm far better with a spear than an axe.\""
+      ],
+      "Map Select": [
+        "Hmmm...",
+        "I'll rout them!",
+        "I will fell our foes."
+      ],
+      "Conversation": [
+        "**Hector:** I have a good friend named Eliwood. He's the complete opposite of me.",
+        "He's levelheaded and observant, and doesn't rush into things. People say I should learn from him.",
+        "**Ephraim:** Interesting... My closest friend is quite different from me as well.",
+        "He's kind and gentle... He has many admirable characteristics I lack. He is a good man.",
+        "**Hector:** You too, huh? That's a friendship you'd better hold on to.",
+        "Eliwood has been a huge help to me. If not for him, there's no way I'd be who I am now.",
+        "**Ephraim:** Hmm... I would have liked to maintain that friendship, but...",
+        "**Hector:** Why can't you?",
+        "**Ephraim:** Our countries became enemies, and he took my father's life.",
+        "**Hector:** Oh! Ahh... That's rough. It sounds like I should have kept my mouth shut.",
+        "**Ephraim:** It's all right. Hector, I hope the bond you share with Eliwood lasts for a very long time.",
+        "**Hector:** It will. We'll still be sparring partners when we're wobbly old men.",
+        "**Ephraim:** *laugh* Somehow, I can imagine you following through on that.",
+        "**Hector:** It's no laughing matter...and it goes for you and me as well, Ephraim.",
+        "Our meeting must have been fated. From now on, you'll be a good friend too. I won't take no for an answer.",
+        "**Ephraim:** You aren't one to hold back, are you?",
+        "I am honored. I shall count you as a friend."
+      ],
+      "Duo Skill": [
+        "\"Let's go!\" \"I'll handle it!\"",
+        "\"It ends\" \"now!\""
+      ],
+      "Back Unit Supporting": [
+        "Don't be reckless.",
+        "I have your back."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Harmonic Brave Hector",
+    "SEARCH_NAME": "Harmonic Brave Hector",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Harmonic Brave Hector",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "hector",
+      "hector2",
+      "hector3",
+      "hector4",
+      "hector5",
+      "hector6",
+      "hector7"
+    ],
+    "prf": {
+      "": "heroicmaltet",
+      "eff": "heroicmaltet",
+      "atk": "heroicmaltet",
+      "spd": "heroicmaltet",
+      "def": "heroicmaltet",
+      "res": "heroicmaltet"
+    }
+  },
+  "fjorm7": {
+    "name": "Fjorm",
+    "title": "Icy Miracle",
+    "description": "The gentle princess of Nifl, the Kingdom of Ice. Fights to save the realms with power entrusted to her by Nifl, god of ice.",
+    "origin": "Heroes",
+    "artist": "Maeshima Shigeki (\u524d\u5d8b\u91cd\u6a5f)",
+    "move": "Infantry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1350",
+    "type": "chosen",
+    "version": "10.2",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 17,
+      "atk": 12,
+      "spd": 9,
+      "def": 12,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 75,
+      "spd": 90,
+      "def": 50,
+      "res": 70
+    },
+    "superboon": [
+      "spd",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "atk",
+      "def"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Chosen Lance": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Frozen Mirror": "5"
+    },
+    "passive": {
+      "A": {
+        "Warding Blow 1": "2",
+        "Warding Blow 2": "3",
+        "Warding Blow 3": "4",
+        "Duelist's Blow": "5"
+      },
+      "B": {
+        "Velocity 1": "2",
+        "Velocity 2": "3",
+        "Velocity 3": "4",
+        "Null C-Avoid": "5"
+      },
+      "C": {
+        "Spd/Res Oath 1": "2",
+        "Spd/Res Oath 2": "3",
+        "Spd/Res Oath 3": "4",
+        "Spd/Res Faith": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cb/Fjorm_Icy_Miracle_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Fjorm_Icy_Miracle_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Fjorm_Icy_Miracle_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Fjorm_Icy_Miracle_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Icy Miracle",
+      "Fjorm: Icy Miracle",
+      "Chosen Fjorm",
+      "C Fjorm",
+      "fjorm7"
+    ],
+    "HARD_ALT_NAME": [
+      "Icy Miracle",
+      "Fjorm: Icy Miracle",
+      "Chosen Fjorm",
+      "C Fjorm",
+      "fjorm7"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u6551\u4e16\u30d5\u30a3\u30e8\u30eb\u30e0",
+    "voice": "Heather Watson",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Lady Nifl...I will do my absolute best to overcome this winter.",
+        "I must always consider how many people I can save from this threat of annihilation.",
+        "Every little breath I take...seems as though it will freeze. Are you not cold, [S]?",
+        "Even if we are trapped beneath a layer of ice, if we do not give up, there is hope for the kingdom of Nifl.",
+        "How strange... The icy power I received from Lady Nifl is...warm."
+      ],
+      "Visit": [
+        "We must brace for what is to come. I have brought supplies from [F]."
+      ],
+      "Level": [
+        "I walk alongside ice itself!",
+        "One step at a time, even in a blizzard.",
+        "I cannot repay my debts like this..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Fjorm, princess of Nifl. I have been entrusted with this power for the sake of all people."
+      ],
+      "Learn Skill": [
+        "Let us deliver a kind winter, not one of annihilation."
+      ],
+      "Confession": [
+        "The winters of familiarity watched over our lives silently, embracing us in tranquility...\nUntil I saw it with my own eyes, I never imagined ice would be what took everything from us.\nI am but a fledgling. There's always someone pulling me forward. I've never been able to repay my debts...\nYet Lady Nifl herself entrusted me with this power and responsibility...\nAs such, I must live up to her expectations, for everyone who has put their trust in me.\nI shall protect you. Come, let us move forward together, [S]."
+      ],
+      "Special": [
+        "So all can survive!",
+        "For the nine realms!",
+        "Lady Nifl!",
+        "We will live on."
+      ],
+      "Status": [
+        "-",
+        "This power Lady Nifl entrusted to me... I will cherish it.",
+        "Ah! Uh! Surprising me may not be the best way to help me relax?",
+        "The winter of annihilation... Our winters are harsh, but this is something more. A winter in which none can survive...",
+        "I shall protect all the worlds, to ensure everyone can go on living, no matter what.",
+        "I remember so clearly the day I first met you. Almost as if it were only yesterday.",
+        "Even if the world meets its destruction...I will remain by your side.",
+        "My debt to you has grown so great that I can't imagine how I will ever repay you."
+      ],
+      "Map Select": [
+        "I shall.",
+        "Awaiting orders.",
+        "I am with you."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Chosen Fjorm",
+    "SEARCH_NAME": "Chosen Fjorm",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Chosen Fjorm",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "fjorm",
+      "fjorm2",
+      "fjorm3",
+      "fjorm4",
+      "fjorm5",
+      "fjorm6"
+    ],
+    "prf": {
+      "": "chosenlance",
+      "eff": "chosenlance",
+      "atk": "chosenlance",
+      "spd": "chosenlance",
+      "def": "chosenlance",
+      "res": "chosenlance"
+    },
+    "blessing": "Water"
   }
 }

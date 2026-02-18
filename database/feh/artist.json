@@ -2532,6 +2532,7 @@
   "azutaro": {
     "heroes": {
       "ashe2": "<:Blue_Lance:1317239378208096338>Summer Ashe",
+      "celica8": "<:Red_Sword:1317239717707911188>Harmonic Brave Celica",
       "claude3": "<:Colorless_Bow:1317239404204654703>Legendary Claude",
       "claude4": "<:Blue_Dagger:1317239367529529445>",
       "edelgard7": "<:Green_Axe:1317239517136031897>Valentines Edelgard",
@@ -2649,7 +2650,22 @@
       "Edelgard: Adorned Eagle",
       "Valentines Edelgard",
       "V Edelgard",
-      "edelgard7"
+      "edelgard7",
+      "With Grace",
+      "Celica: With Grace",
+      "Harmonic CYL Celica",
+      "Harmonized CYL Celica",
+      "CYL Harmonic Celica",
+      "CYL Harmonized Celica",
+      "Harmonic Choose Your Legends Celica",
+      "Harmonized Choose Your Legends Celica",
+      "Choose Your Legends Harmonic Celica",
+      "Choose Your Legends Harmonized Celica",
+      "Harmonic Brave Celica",
+      "Harmonized Brave Celica",
+      "Brave Harmonic Celica",
+      "Harmonized Brave Celica",
+      "celica8"
     ],
     "HARD_ALT_NAME": [
       "royR",
@@ -2781,7 +2797,22 @@
       "Edelgard: Adorned Eagle",
       "Valentines Edelgard",
       "V Edelgard",
-      "edelgard7"
+      "edelgard7",
+      "With Grace",
+      "Celica: With Grace",
+      "Harmonic CYL Celica",
+      "Harmonized CYL Celica",
+      "CYL Harmonic Celica",
+      "CYL Harmonized Celica",
+      "Harmonic Choose Your Legends Celica",
+      "Harmonized Choose Your Legends Celica",
+      "Choose Your Legends Harmonic Celica",
+      "Choose Your Legends Harmonized Celica",
+      "Harmonic Brave Celica",
+      "Harmonized Brave Celica",
+      "Brave Harmonic Celica",
+      "Harmonized Brave Celica",
+      "celica8"
     ]
   },
   "bthx": {
@@ -14912,7 +14943,12 @@
       "Base Vali",
       "Normal Vali",
       "Mythic Vali",
-      "vali"
+      "vali",
+      "Icy Miracle",
+      "Fjorm: Icy Miracle",
+      "Chosen Fjorm",
+      "C Fjorm",
+      "fjorm7"
     ],
     "HARD_ALT_NAME": [
       "xander",
@@ -15162,7 +15198,12 @@
       "Base Vali",
       "Normal Vali",
       "Mythic Vali",
-      "vali"
+      "vali",
+      "Icy Miracle",
+      "Fjorm: Icy Miracle",
+      "Chosen Fjorm",
+      "C Fjorm",
+      "fjorm7"
     ],
     "heroes": {
       "alfador": "<:Blue_Tome:1317239386491977749>Alfa\u00f0\u00f6r",
@@ -15174,6 +15215,7 @@
       "fjorm3": "<:Colorless_Staff:1317239426866483261>Bridal Fjorm",
       "fjorm4": "<:Green_Axe:1317239517136031897>Ascended Fjorm",
       "fjorm5": "<:Red_Sword:1317239717707911188>Summer Fjorm",
+      "fjorm7": "<:Blue_Lance:1317239378208096338>Chosen Fjorm",
       "gunnthra": "<:Green_Tome:1317239575352971396>Gunnthr\u00e1",
       "heimdallr": "<:Blue_Tome:1317239386491977749>Heimdallr",
       "helbindi": "<:Green_Axe:1317239517136031897>Helbindi",
@@ -26284,7 +26326,6 @@
       "Normal Celina",
       "Normal Elice",
       "Selena: Sandbar Fluorspar",
-      "Harmonic Hector",
       "Eirika: Beach Restorer",
       "Summer Eirik",
       "Legend Eliwood",
@@ -26424,7 +26465,6 @@
       "inigo",
       "Almyra's King",
       "Mighty Mercenary",
-      "Harmonized Hector",
       "Base M Selena",
       "Normal Barst",
       "Base Celina",
@@ -26604,7 +26644,6 @@
       "Mark F",
       "inigo",
       "sselena1",
-      "Harmonized Hector",
       "selena2",
       "lin4",
       "eliwod3",
@@ -26651,7 +26690,6 @@
       "luise2",
       "S Magvel Selena",
       "chinon1",
-      "Harmonic Hector",
       "Summer Eirik",
       "Asbel",
       "M Bram",
@@ -30561,7 +30599,8 @@
   "kuren": {
     "heroes": {
       "balthus2": "<:Blue_Lance:1317239378208096338>Summer Balthus",
-      "griss": "<:Green_Tome:1317239575352971396>Griss"
+      "griss": "<:Green_Tome:1317239575352971396>Griss",
+      "hector8": "<:Blue_Lance:1317239378208096338>Harmonic Brave Hector"
     },
     "name": "kuren",
     "ALT_NAME": [
@@ -30575,7 +30614,24 @@
       "Summer Balthus",
       "S Balthus",
       "Beach Balthus",
-      "balthus2"
+      "balthus2",
+      "Into the Fray",
+      "Hector: Into the Fray",
+      "Harmonic Hector",
+      "Harmonized Hector",
+      "Harmonic CYL Hector",
+      "Harmonized CYL Hector",
+      "CYL Harmonic Hector",
+      "CYL Harmonized Hector",
+      "Harmonic Choose Your Legends Hector",
+      "Harmonized Choose Your Legends Hector",
+      "Choose Your Legends Harmonic Hector",
+      "Choose Your Legends Harmonized Hector",
+      "Harmonic Brave Hector",
+      "Harmonized Brave Hector",
+      "Brave Harmonic Hector",
+      "Harmonized Brave Hector",
+      "hector8"
     ]
   },
   "hirasakayasunary": {
@@ -30664,8 +30720,9 @@
   },
   "nima": {
     "heroes": {
+      "mcorrin8": "<:Blue_Breath:1317239355835813939>Young Corrin",
       "floraR": "<:Red_Dagger:1317239717707911188>Flora (Resplendent)",
-      "mcorrin8": "<:Blue_Breath:1317239355835813939>Young Corrin"
+      "priscillaR": "<:Colorless_Staff:1317239426866483261>Priscilla (Resplendent)"
     },
     "name": "nima",
     "ALT_NAME": [
@@ -30697,7 +30754,11 @@
       "Resplendent Flora",
       "Resp Flora",
       "R Flora",
-      "Flora (Resplendent)"
+      "Flora (Resplendent)",
+      "Resplendent Priscilla",
+      "Resp Priscilla",
+      "R Priscilla",
+      "Priscilla (Resplendent)"
     ]
   },
   "kaito": {

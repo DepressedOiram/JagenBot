@@ -7349,7 +7349,8 @@
         "yunaka3": "3",
         "lyn11": "3",
         "lysithea5": "3",
-        "baldr3": "3"
+        "baldr3": "3",
+        "celica8": "3"
       }
     },
     "refine": {},
@@ -7552,7 +7553,8 @@
         "yunaka3": "4",
         "lyn11": "4",
         "lysithea5": "4",
-        "baldr3": "4"
+        "baldr3": "4",
+        "celica8": "4"
       }
     },
     "refine": {},
@@ -7719,7 +7721,8 @@
         "garcia": "3",
         "hilda6": "3",
         "minerva4": "3",
-        "louis": "3"
+        "louis": "3",
+        "hector8": "3"
       }
     },
     "refine": {},
@@ -7925,7 +7928,8 @@
         "garcia": "4",
         "hilda6": "4",
         "minerva4": "4",
-        "louis": "4"
+        "louis": "4",
+        "hector8": "4"
       }
     },
     "refine": {},
@@ -8088,7 +8092,8 @@
         "ivy3": "3",
         "gatekeeper2": "3",
         "heimdallr2": "3",
-        "veyle4": "3"
+        "veyle4": "3",
+        "fjorm7": "3"
       }
     },
     "refine": {},
@@ -8287,7 +8292,8 @@
         "ivy3": "4",
         "gatekeeper2": "4",
         "heimdallr2": "4",
-        "veyle4": "4"
+        "veyle4": "4",
+        "fjorm7": "4"
       }
     },
     "refine": {},
@@ -10666,7 +10672,8 @@
         "niles": "4",
         "kagero": "5",
         "sophia": "5",
-        "olwen": "5"
+        "olwen": "5",
+        "fjorm7": "4"
       },
       "Warding Blow 2": {},
       "Warding Blow 1": {
@@ -12046,7 +12053,8 @@
         "hrid2": "5",
         "plumeria2": "5",
         "ike9": "4",
-        "edelgard8": "4"
+        "edelgard8": "4",
+        "hector8": "4"
       },
       "Quick Riposte 2": {},
       "Quick Riposte 1": {}
@@ -26310,6 +26318,9 @@
         "name": "Squad Ace E 2",
         "description": "Grants Atk+2.",
         "stats": {},
+        "required": [
+          "Squad Ace E 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -26322,6 +26333,9 @@
         "name": "Squad Ace E 3",
         "description": "Grants Atk+3.",
         "stats": {},
+        "required": [
+          "Squad Ace E 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -26535,6 +26549,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Sacred Cowl"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": [
@@ -26563,6 +26580,9 @@
           "cooldown": "2",
           "sp": "500"
         },
+        "required": [
+          "Ice Mirror"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": [
@@ -26625,6 +26645,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Def Bond 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -26637,6 +26660,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Def Bond 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -26649,6 +26675,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Def Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -26849,6 +26878,10 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Rally Attack",
+          "Rally Defense"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -26867,6 +26900,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Rally Atk/Def"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -26929,6 +26965,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk Tactic 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -26941,6 +26980,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk Tactic 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -27003,6 +27045,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def Tactic 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -27015,6 +27060,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def Tactic 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -27404,6 +27452,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Brazen Atk/Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -27416,6 +27467,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Brazen Atk/Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -27428,6 +27482,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Brazen Atk/Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -27493,6 +27550,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Brazen Atk/Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -27505,6 +27565,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Brazen Atk/Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -27570,6 +27633,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Bold Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -27587,6 +27653,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Bold Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -27661,6 +27730,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Vengeful Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -27678,6 +27750,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Vengeful Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -27695,6 +27770,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Vengeful Fighter 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -27769,6 +27847,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "R Tome Valor 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -27786,6 +27867,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "R Tome Valor 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -28137,6 +28221,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Def Bond 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -28149,6 +28236,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Def Bond 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -28161,6 +28251,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Def Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -28231,6 +28324,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Earth Dance 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -28248,6 +28344,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Earth Dance 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -28350,6 +28449,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Chilling Seal"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -28392,6 +28494,9 @@
         "name": "Squad Ace F 2",
         "description": "Grants HP+4.",
         "stats": {},
+        "required": [
+          "Squad Ace F 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -28404,6 +28509,9 @@
         "name": "Squad Ace F 3",
         "description": "Grants HP+5.",
         "stats": {},
+        "required": [
+          "Squad Ace F 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -28635,6 +28743,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Ardent Sacrifice"
+        ],
         "exclusive": true,
         "slot": "Assist",
         "restriction_weapon": false,
@@ -28693,6 +28804,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spur Atk 1",
+          "Spur Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -28705,6 +28820,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spur Atk/Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -28925,6 +29043,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Atk 2",
+          "Hone Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -28975,6 +29097,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Res Tactic 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -28987,6 +29112,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Res Tactic 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -29049,6 +29177,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "R Tome Exp. 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -29066,6 +29197,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "R Tome Exp. 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -29115,6 +29249,10 @@
           "cooldown": "4",
           "sp": "500"
         },
+        "required": [
+          "Sol",
+          "Luna"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": false,
@@ -29128,6 +29266,9 @@
           "cooldown": "4",
           "sp": "500"
         },
+        "required": [
+          "Radiant Aether"
+        ],
         "exclusive": true,
         "slot": "Special",
         "restriction_weapon": false,
@@ -29164,6 +29305,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Warding Stance 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -29223,6 +29367,9 @@
         "name": "Initiate Seal HP 2",
         "description": "Grants HP+4.",
         "stats": {},
+        "required": [
+          "Initiate Seal HP 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29235,6 +29382,9 @@
         "name": "Initiate Seal HP 3",
         "description": "Grants HP+5.",
         "stats": {},
+        "required": [
+          "Initiate Seal HP 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29279,6 +29429,9 @@
         "name": "Initiate Seal Atk 2",
         "description": "Grants Atk+2.",
         "stats": {},
+        "required": [
+          "Initiate Seal Atk 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29291,6 +29444,9 @@
         "name": "Initiate Seal Atk 3",
         "description": "Grants Atk+3.",
         "stats": {},
+        "required": [
+          "Initiate Seal Atk 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29344,6 +29500,9 @@
         "name": "Initiate Seal Spd 2",
         "description": "Grants Spd+2.",
         "stats": {},
+        "required": [
+          "Initiate Seal Spd 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29356,6 +29515,9 @@
         "name": "Initiate Seal Spd 3",
         "description": "Grants Spd+3.",
         "stats": {},
+        "required": [
+          "Initiate Seal Spd 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29409,6 +29571,9 @@
         "name": "Initiate Seal Def 2",
         "description": "Grants Def+2.",
         "stats": {},
+        "required": [
+          "Initiate Seal Def 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29421,6 +29586,9 @@
         "name": "Initiate Seal Def 3",
         "description": "Grants Def+3.",
         "stats": {},
+        "required": [
+          "Initiate Seal Def 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29474,6 +29642,9 @@
         "name": "Initiate Seal Res 2",
         "description": "Grants Res+2.",
         "stats": {},
+        "required": [
+          "Initiate Seal Res 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29486,6 +29657,9 @@
         "name": "Initiate Seal Res 3",
         "description": "Grants Res+3.",
         "stats": {},
+        "required": [
+          "Initiate Seal Res 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29728,6 +29902,9 @@
         "name": "Squad Ace G 2",
         "description": "Grants Def+2.",
         "stats": {},
+        "required": [
+          "Squad Ace G 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -29740,6 +29917,9 @@
         "name": "Squad Ace G 3",
         "description": "Grants Def+3.",
         "stats": {},
+        "required": [
+          "Squad Ace G 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -30079,6 +30259,10 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "HP +3",
+          "Attack +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30094,6 +30278,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "HP/Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30151,6 +30338,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Atk/Spd Bond 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30163,6 +30353,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Atk/Spd Bond 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30175,6 +30368,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Atk/Spd Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30268,6 +30464,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Bow Valor 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -30288,6 +30487,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Bow Valor 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -30681,6 +30883,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Brazen Def/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30693,6 +30898,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Brazen Def/Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -30750,6 +30958,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -30762,6 +30973,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -30825,6 +31039,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Def 2",
+          "Spur Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -30911,6 +31129,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Fierce Stance 1",
+          "Steady Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -30928,6 +31150,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Sturdy Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -30945,6 +31170,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Sturdy Stance 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31007,6 +31235,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Solar Brace"
+        ],
         "exclusive": true,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -31096,6 +31327,9 @@
         "name": "Squad Ace H 2",
         "description": "Grants Res+2.",
         "stats": {},
+        "required": [
+          "Squad Ace H 1"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -31108,6 +31342,9 @@
         "name": "Squad Ace H 3",
         "description": "Grants Res+3.",
         "stats": {},
+        "required": [
+          "Squad Ace H 2"
+        ],
         "exclusive": false,
         "slot": "Sacred Seal",
         "restriction_weapon": false,
@@ -31391,6 +31628,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Fierce Stance 1",
+          "Warding Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31408,6 +31649,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Mirror Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31425,6 +31669,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Mirror Stance 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31484,6 +31731,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -31496,6 +31746,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -31564,6 +31817,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Dull Ranged 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -31576,6 +31832,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Dull Ranged 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -31858,6 +32117,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Darting Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31875,6 +32137,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Darting Stance 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31930,6 +32195,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Darting Stance 1",
+          "Warding Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31947,6 +32216,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Swift Stance 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -31964,6 +32236,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Swift Stance 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -32021,6 +32296,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spd/Res Bond 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -32033,6 +32311,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spd/Res Bond 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -32045,6 +32326,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Spd/Res Bond 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -32109,6 +32393,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Chill Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -32121,6 +32408,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Chill Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -32198,6 +32488,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Def Smoke 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -32215,6 +32508,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Def Smoke 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -32281,6 +32577,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Dragonskin"
+        ],
         "exclusive": true,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -32330,6 +32629,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Res Smoke 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -32347,6 +32649,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Res Smoke 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -58757,8 +59062,6 @@
       "Hector: Dressed-Up Duo",
       "Dressed-Up Duo",
       "Duo Hector",
-      "Harmonic Hector",
-      "Harmonized Hector",
       "Halloween Hector",
       "Harvest Hector",
       "H Hector",
@@ -76788,7 +77091,8 @@
         "felix3": "4",
         "ayra3": "4",
         "larcei3": "4",
-        "felix4": "4"
+        "felix4": "4",
+        "celica8": "4"
       },
       "Odd Tempest 2": {},
       "Odd Tempest 1": {}
@@ -80113,7 +80417,8 @@
         "vanessa": "4",
         "dithorba": "5",
         "asbel": "5",
-        "homer": "5"
+        "homer": "5",
+        "fjorm7": "4"
       },
       "Spd/Res Oath 2": {},
       "Spd/Res Oath 1": {}
@@ -83451,7 +83756,8 @@
         "felix4": "4",
         "lucina9": "4",
         "ignatz": "4",
-        "mbyleth6": "4"
+        "mbyleth6": "4",
+        "celica8": "4"
       },
       "Atk/Spd Ideal 2": {},
       "Atk/Spd Ideal 1": {}
@@ -97402,7 +97708,8 @@
         "fomortiis2": "4",
         "blackknight3": "4",
         "eikthyrnir4": "4",
-        "skrimir": "4"
+        "skrimir": "4",
+        "hector8": "4"
       },
       "A/D Far Save 2": {},
       "A/D Far Save 1": {}
@@ -106520,7 +106827,8 @@
       "Velocity 3": {
         "hilda5": "5",
         "mbyleth5": "4",
-        "elincia6": "4"
+        "elincia6": "4",
+        "fjorm7": "4"
       },
       "Velocity 2": {},
       "Velocity 1": {}
@@ -133364,7 +133672,8 @@
     "reference": {
       "Endless Tempest": {
         "felix3": "5",
-        "diamant2": "5"
+        "diamant2": "5",
+        "celica8": "5"
       }
     },
     "icon": 2232,
@@ -138729,7 +139038,8 @@
     "reference": {
       "A/D Briar F Save": {
         "fomortiis2": "5",
-        "blackknight3": "5"
+        "blackknight3": "5",
+        "hector8": "5"
       }
     },
     "icon": 2316,
@@ -142608,7 +142918,7 @@
     "skill": [
       {
         "name": "True-Bond Bow",
-        "description": "Accelerates Special trigger (cooldown count-1).\nEffective against flying foes.\nUnit can move to a space within 2 spaces of any ally within 2 spaces.\nAt start of turn, if unit is within 2 spaces of an ally, for unit and allies within 2 spaces of unit, grants Atk/Spd\u3010Great Talent\u3011+2, and also, if Special cooldown count is at its maximum value, grants Special cooldown count-2; if Special cooldown count is at its maximum value - 1, grants Special cooldown count-1.\nIf unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = total value of Atk and Spd\u3010Great Talent\u3011\u00d7 2; max 30; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and restores 7 HP to unit after combat.",
+        "description": "Accelerates Special trigger (cooldown count-1).\nEffective against flying foes.\nUnit can move to a space within 2 spaces of any ally within 2 spaces.\nAt start of turn, if unit is within 2 spaces of an ally, for unit and allies within 2 spaces of unit, grants Atk/Spd\u3010Great Talent\u3011+2, and also, if Special cooldown count is at its maximum value, grants Special cooldown count-2; if Special cooldown count is at its maximum value - 1, grants Special cooldown count-1.\nIf unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = total value of Atk and Spd\u3010Great Talent\u3011\u00d7 2; max 30; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and restores 7 HP to unit after combat.\n(This skill grants max of\u3010Great Talent\u3011+10.)\n\u3010Great Talent\u3011\nAdds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects).",
         "stats": {
           "mt": "14",
           "rng": "2",
@@ -148167,13 +148477,12 @@
     },
     "icon": 2475,
     "HARD_ALT_NAME": [
-      "Atk/Spd Faith",
+      "Atk/Spd Faith"
+    ],
+    "ALT_NAME": [
       "Attack/Speed Faith",
-      "Atk Spd Faith",
-      "Attack Speed Faith",
       "A/S Faith"
     ],
-    "ALT_NAME": [],
     "slot": "Passive C",
     "wpn": false
   },
@@ -149415,7 +149724,8 @@
         "sharena5": "5",
         "yunaka3": "5",
         "lyn11": "5",
-        "baldr3": "5"
+        "baldr3": "5",
+        "celica8": "5"
       }
     },
     "icon": false,
@@ -149754,7 +150064,8 @@
     "reference": {
       "Null C-Avoid": {
         "mbyleth5": "5",
-        "elincia6": "5"
+        "elincia6": "5",
+        "fjorm7": "5"
       }
     },
     "icon": 2499,
@@ -150674,7 +150985,8 @@
           "sp": "300"
         },
         "required": [
-          "Darting Blow 3"
+          "Darting Blow 3",
+          "Warding Blow 3"
         ],
         "slot": "Passive A",
         "exclusive": false,
@@ -150705,7 +151017,8 @@
     ],
     "reference": {
       "Duelist's Blow": {
-        "ryoma5": "5"
+        "ryoma5": "5",
+        "fjorm7": "5"
       }
     },
     "icon": 2514,
@@ -153733,7 +154046,8 @@
           "sp": "300"
         },
         "required": [
-          "Armored Blow 3"
+          "Armored Blow 3",
+          "Warding Blow 3"
         ],
         "slot": "Passive A",
         "exclusive": false,
@@ -153812,7 +154126,8 @@
     "reference": {
       "Patience": {
         "ike9": "5",
-        "edelgard8": "5"
+        "edelgard8": "5",
+        "hector8": "5"
       }
     },
     "icon": 2568,
@@ -153870,7 +154185,7 @@
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
-    "wpn": "wep_mg143"
+    "wpn": "wep_bw143"
   },
   "sacaesdecree": {
     "name": "Sacae s Decree",
@@ -157749,5 +158064,379 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_bw147"
+  },
+  "sistersblade": {
+    "name": "Sisters  Blade",
+    "skill": [
+      {
+        "name": "Sisters' Blade",
+        "description": "Accelerates Special trigger (cooldown count-1).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally, and grants Special cooldown charge +1 to unit or ally per attack during combat (only highest value applied; does not stack).\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials) during combat, and restores 7 HP to unit after combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Scendscale Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 3 spaces away (unit cannot attack adjacent foes).\nUnit deals +10 damage during combat (excluding area-of-effect Specials).\nCannot move through spaces within 3 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, or foe can counterattack regardless of unit's range.\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. Once used, this Style cannot be used for two turns.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sisters' Blade": {
+        "celica8": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sisters' Blade",
+      "Sisters Blade",
+      "With Grace",
+      "Celica: With Grace",
+      "Harmonic CYL Celica",
+      "Harmonized CYL Celica",
+      "CYL Harmonic Celica",
+      "CYL Harmonized Celica",
+      "Harmonic Choose Your Legends Celica",
+      "Harmonized Choose Your Legends Celica",
+      "Choose Your Legends Harmonic Celica",
+      "Choose Your Legends Harmonized Celica",
+      "Harmonic Brave Celica",
+      "Harmonized Brave Celica",
+      "Brave Harmonic Celica",
+      "Harmonized Brave Celica",
+      "celica8"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw212"
+  },
+  "swiftspecter": {
+    "name": "Swift Specter",
+    "skill": [
+      {
+        "name": "Swift Specter",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAt start of combat, if unit's HP \u2265 25% or if unit is within 3 spaces of an ally, grants Atk/Spd+9 to unit and deals +7 damage during combat (excluding area-of-effect Specials), and also, if unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.\nAt start of combat, if unit's HP \u2265 25% and unit is within 3 spaces of an ally, grants an additional Atk/Spd+3 to unit during combat.\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Spd Ideal 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "Swift Specter": {
+        "celica8": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2634,
+    "HARD_ALT_NAME": [
+      "Swift Specter"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "wildatheart": {
+    "name": "Wild at Heart",
+    "skill": [
+      {
+        "name": "Wild at Heart",
+        "description": "Unit attacks twice (even if foe initiates combat, unit attacks twice).\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Exposure\u3011, and\u3010Sabotage\u3011on closest foes and any foe within 2 spaces of those foes through their next actions.\nInflicts Atk/Spd/Def-5 on foe, unit deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials) during combat. If unit’s HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per combat; does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce HP to 0).\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit. Calculates each stat penalty independently.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Wild at Heart": {
+        "celica8": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2635,
+    "HARD_ALT_NAME": [],
+    "ALT_NAME": [
+      "Wild at Heart"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "heroicmaltet": {
+    "name": "Heroic Maltet",
+    "skill": [
+      {
+        "name": "Heroic Maltet",
+        "description": "Accelerates Special trigger (cooldown count-1).\nReduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials).\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5 on foe, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), neutralizes effects that grant \"Special cooldown charge +X\" to foe, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nGrants Atk/Spd/Def/Res+10 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Heroic Maltet": {
+        "hector8": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Heroic Maltet",
+      "Into the Fray",
+      "Hector: Into the Fray",
+      "Harmonic Hector",
+      "Harmonized Hector",
+      "Harmonic CYL Hector",
+      "Harmonized CYL Hector",
+      "CYL Harmonic Hector",
+      "CYL Harmonized Hector",
+      "Harmonic Choose Your Legends Hector",
+      "Harmonized Choose Your Legends Hector",
+      "Choose Your Legends Harmonic Hector",
+      "Choose Your Legends Harmonized Hector",
+      "Harmonic Brave Hector",
+      "Harmonized Brave Hector",
+      "Brave Harmonic Hector",
+      "Harmonized Brave Hector",
+      "hector8"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc205"
+  },
+  "armoredflare": {
+    "name": "Armored Flare",
+    "skill": [
+      {
+        "name": "Armored Flare",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "slot": "Special",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Cannot** be used by: ",
+          [
+            "Colorless_Staff"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "When Special triggers, boosts damage by unit's Def.\nReduces damage from foe's attacks by 40% during combat (twice per combat; excluding area-of-effect Specials).\nAt start of turn, grants Atk/Def \u3010Great Talent\u3011+2 to unit. After combat, if unit's Special triggered, grants Atk/Def \u3010Great Talent\u3011+4 to unit.\n(This skill grants max of\u3010Great Talent\u3011+10.)\n\u3010Great Talent\u3011\nAdds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects)."
+      }
+    ],
+    "reference": {
+      "Armored Flare": {
+        "hector8": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Armored Flare"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "ostianbackbone": {
+    "name": "Ostian Backbone",
+    "skill": [
+      {
+        "name": "Ostian Backbone",
+        "description": "Grants HP+5, Atk/Spd/Def/Res+9. Unit can counterattack regardless of foe's range.\nFor unit and allies within 3 spaces of unit, neutralizes effects that prevent unit's or ally's counterattacks during combat, and if foe initiates combat, unit and allies can make a follow-up attack before foe's next attack during combat.\nUnit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and neutralizes effects that allow foe to make a follow-up attack before unit's next attack during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ostian Backbone": {
+        "hector8": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2636,
+    "HARD_ALT_NAME": [
+      "Ostian Backbone"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "chosenlance": {
+    "name": "Chosen Lance",
+    "skill": [
+      {
+        "name": "Chosen Lance",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAccelerates Special trigger (cooldown count-1).\nUnit can counterattack regardless of foe's range.\nAt start of player phase or enemy phase, grants \u3010Empathy\u3011,\u3010Dodge\u3011, and\u3010Null Follow-Up\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials) during combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Chosen Lance Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nDecreases Spd difference necessary for unit to make a follow-up attack by 10 during combat.\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nAfter-combat movement effects do not occur.\nSkill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Empathy\u3011\nGrants bonus to unit's Atk/Spd/Def/Res = number of types of Bonus effects, excluding stat bonuses, and Penalty effects, excluding stat penalties, active on player team and enemy team during combat (max 7).\n\u3010Dodge\u3011\nIf unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats \u00d7 4 (max 40%).\n\u3010Null Follow-Up\u3011\nIf unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Chosen Lance": {
+        "fjorm7": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Chosen Lance",
+      "Icy Miracle",
+      "Fjorm: Icy Miracle",
+      "Chosen Fjorm",
+      "C Fjorm",
+      "fjorm7"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc206"
+  },
+  "frozenmirror": {
+    "name": "Frozen Mirror",
+    "skill": [
+      {
+        "name": "Frozen Mirror",
+        "description": "Boosts damage by 60% of unit's Spd when Special triggers.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials), and unit's next attack deals damage = total damage reduced from foe's first attack during combat (by any source, including other skills; resets at end of combat).\nAt start of enemy phase (except for in Pawns of Loki), if there is no\u3010Divine Vein (Icicle)\u3011 currently applied by unit or allies, applies \u3010Divine Vein (Icicle)\u3011to spaces 2 spaces away from unit for 1 turn (excluding spaces occupied by a foe, destructible terrain other than Divine Vein, or warp spaces in Rival Domains), and \u3010Divine Vein (Vert)\u3011to unit's space and spaces within 3 spaces of unit for 1 turn (excluding spaces with\u3010Divine Vein (Icicle)\u3011applied).\n\u3010Divine Vein (Icicle)\u3011\nApplies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to \u3010Divine Vein (Vert)\u3011. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).\n\u3010Divine Vein (Vert)\u3011\nApplies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts \u3010Canto Control\u3011on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\n\u3010Canto Control\u3011\nIf unit's Range = 1, unit can move 1 space when Canto triggers. If unit's Range = 2, their action ends when Canto triggers.",
+        "stats": {
+          "cooldown": "3",
+          "sp": "500"
+        },
+        "required": [
+          "Glacies"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Frozen Mirror": {
+        "fjorm7": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Frozen Mirror"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "spdresfaith": {
+    "name": "Spd Res Faith",
+    "skill": [
+      {
+        "name": "Spd/Res Faith",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Spd/Res Oath 3"
+        ],
+        "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Spd/Res+6 and\u3010Bulwark\u3011to unit for 1 turn.\nIf\u3010Bulwark\u3011is active on unit, grants Spd/Res+4 to unit, reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown count-1 to unit before foe's first attack during combat.\n\u3010Bulwark\u3011\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills).\nFoes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).",
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ]
+      }
+    ],
+    "reference": {
+      "Spd/Res Faith": {
+        "fjorm7": "5"
+      }
+    },
+    "icon": 2637,
+    "HARD_ALT_NAME": [
+      "Spd/Res Faith"
+    ],
+    "ALT_NAME": [
+      "Speed/Resistance Faith",
+      "S/R Faith"
+    ],
+    "slot": "Passive C",
+    "wpn": false
   }
 }

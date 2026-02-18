@@ -324,6 +324,7 @@
                 "Suave Blade"
             ],
             "Lance": [
+                "Chosen Lance",
                 "Geidriful",
                 "Penitent Lance",
                 "Queenslance",
@@ -596,6 +597,7 @@
             "B": [],
             "C": [
                 "Atk/Spd Faith",
+                "Spd/Res Faith",
                 "Darkling Guard II"
             ],
             "X": [],
@@ -936,6 +938,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Frozen Mirror",
                 "Torrential Roar"
             ],
             "A": [],
@@ -1315,6 +1318,7 @@
                 "Teatime's Edge"
             ],
             "Lance": [
+                "Chosen Lance",
                 "Haulin' Harpoon",
                 "Ilian Greatlance"
             ],
@@ -1348,6 +1352,7 @@
             ],
             "A": [
                 "Blue-Sky Gust",
+                "Swift Specter",
                 "Heaven's Stead N",
                 "Lady Knight"
             ],
@@ -2484,6 +2489,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Frozen Mirror",
                 "Torrential Roar"
             ],
             "A": [],
@@ -2568,6 +2574,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Frozen Mirror",
                 "Torrential Roar"
             ],
             "A": [],
@@ -2628,6 +2635,7 @@
             ],
             "Lance": [
                 "Apothesis Spear",
+                "Chosen Lance",
                 "Ilian Merc Lance",
                 "Jehanna Lance+",
                 "Silesse Frost"
@@ -2882,7 +2890,9 @@
                 "Azure Twin Edge",
                 "Bonded Blades"
             ],
-            "Lance": [],
+            "Lance": [
+                "Chosen Lance"
+            ],
             "Axe": [],
             "Staff": [
                 "Staff of Yngvi"
@@ -3067,6 +3077,7 @@
                 "Killing Intent+",
                 "Mounting Fear",
                 "Pure Storm",
+                "Wild at Heart",
                 "Yune's Protection"
             ],
             "C": [
@@ -3791,6 +3802,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Armored Flare",
                 "Ascendant King",
                 "Invincible Sister",
                 "Makings of a King"
@@ -4852,7 +4864,9 @@
                 "Sharp War Sword",
                 "Ve\u00f0rf\u00f6lnir's Edge"
             ],
-            "Lance": [],
+            "Lance": [
+                "Chosen Lance"
+            ],
             "Axe": [
                 "Blue Yule Axe",
                 "Ebon B\u00f6lverk",
@@ -5219,6 +5233,7 @@
             ],
             "Lance": [
                 "Carrot-Tip Spear+",
+                "Chosen Lance",
                 "Cursed Lance",
                 "Geidriful"
             ],
@@ -6014,6 +6029,7 @@
             "caeda4": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Summer Caeda",
             "catria4":"<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Bridal Catria",
             "celica7": "<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Summer Celica",
+            "celica8": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Harmonic Brave Celica",
             "chloe2":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Chlo\u00e9",
             "cordelia4": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Winter Cordelia",
             "fir4": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Ferox Fir",
@@ -6091,6 +6107,7 @@
             "dorothea3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Plegian Dorothea",
             "edelgard5": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Summer Edelgard",
             "goldmary": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary",
+            "hector8": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Harmonic Brave Hector",
             "ike9": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Harmonic Brave Ike",
             "ivy3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Winter Ivy",
             "nagi2": "<:feh_harmonized:1317239586929377371><:Red_Breath:1317239692189630504>Halloween Nagi",
@@ -6254,7 +6271,8 @@
                 "I Remember...",
                 "Prescience II",
                 "Pure Storm",
-                "Spoil Rotten"
+                "Spoil Rotten",
+                "Wild at Heart"
             ],
             "C": [],
             "X": [],
@@ -6815,9 +6833,11 @@
             "Sword": [
                 "Azure Twin Edge",
                 "Hoshido Raijinto",
+                "Sisters' Blade",
                 "Sublime Creator"
             ],
             "Lance": [
+                "Chosen Lance",
                 "Godly Devices",
                 "Holy Gradivus"
             ],
