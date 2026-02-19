@@ -12,7 +12,7 @@
                     "Palla"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Est"
                 ]
@@ -116,7 +116,7 @@
                     "Midia"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Midia"
                 ]
@@ -154,7 +154,7 @@
         "promo": false,
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Tiki"
                 ]
@@ -197,7 +197,7 @@
                     "Ogma"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Marth"
                 ]
@@ -297,7 +297,7 @@
         "promo": "dracoknight",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Marth",
                     "Minerva"
@@ -341,7 +341,7 @@
                     "Roderick"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Roderick"
                 ]
@@ -414,7 +414,7 @@
                     "Merric"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 10,
@@ -452,7 +452,7 @@
                     "Abel"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Minerva"
                 ]
@@ -494,7 +494,7 @@
                     "Ryan"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "5": [
                     "Ryan"
                 ]
@@ -567,7 +567,7 @@
                     "Yuliya"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Yuliya"
                 ]
@@ -609,7 +609,7 @@
                     "Lena"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Lena"
                 ]
@@ -651,7 +651,7 @@
                     "Julian"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Julian"
                 ]
@@ -689,7 +689,7 @@
         "promo": "bishopf",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Merric"
                 ]
@@ -727,7 +727,7 @@
         "promo": "paladin",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "5": [
                     "Cecil"
                 ]
@@ -800,7 +800,7 @@
                     "Minerva"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 10,
@@ -839,7 +839,7 @@
                     "Catria"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Caeda"
                 ]
@@ -912,7 +912,7 @@
                     "Linde"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Elice"
                 ]
@@ -954,7 +954,7 @@
                     "Astram"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Astram"
                 ]
@@ -998,7 +998,7 @@
                     "Est"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Maria"
                 ]
@@ -1040,7 +1040,7 @@
                     "Phina"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 90,
@@ -1078,7 +1078,7 @@
                     "Sirius"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 10,
@@ -1112,7 +1112,7 @@
         "promo": "hero",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Caeda"
                 ]
@@ -1150,7 +1150,7 @@
         "promo": "dracoknight",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Abel",
                     "Minerva"
@@ -1189,7 +1189,7 @@
         "promo": false,
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Navarre"
                 ]
@@ -1262,7 +1262,7 @@
                     "Cecil"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "5": [
                     "Cecil"
                 ]
@@ -1335,7 +1335,7 @@
                     "Gordin"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "5": [
                     "Gordin"
                 ]
@@ -1377,7 +1377,7 @@
                     "Sheena"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Sheena"
                 ]
@@ -1450,7 +1450,7 @@
                     "Samson"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Samson"
                 ]
@@ -1488,7 +1488,7 @@
         "promo": false,
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Nyna"
                 ]
@@ -1530,7 +1530,7 @@
                     "Bantu"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 80,
@@ -1661,7 +1661,7 @@
                     "Jubelo"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Jubelo"
                 ]

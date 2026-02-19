@@ -12,7 +12,7 @@
                     "Palla"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Est"
                 ]
@@ -81,7 +81,7 @@
                     "Midia"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Midia"
                 ]
@@ -117,7 +117,7 @@
         "promo": false,
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Tiki"
                 ]
@@ -245,7 +245,7 @@
                     "Ogma"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Marth"    
                 ]
@@ -368,7 +368,7 @@
         "promo": "dracoknight",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Marth",
                     "Minerva"
@@ -496,7 +496,7 @@
                     "Merric"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 50,
@@ -532,7 +532,7 @@
                     "Abel"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Abel",
                     "Minerva"
@@ -689,7 +689,7 @@
                     "Lena"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Lena"
                 ]
@@ -729,7 +729,7 @@
                     "Julian"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Julian"
                 ]
@@ -765,7 +765,7 @@
         "promo": "bishopf",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Merric"
                 ]
@@ -863,7 +863,7 @@
                     "Minerva"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 10,
@@ -900,7 +900,7 @@
                     "Catria"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Caeda"
                 ]
@@ -969,7 +969,7 @@
                     "Linde"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Elice"
                 ]
@@ -1009,7 +1009,7 @@
                     "Astram"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Astram"
                 ]
@@ -1051,7 +1051,7 @@
                     "Est"
                 ]
             },
-            "recieve": {
+            "receive": {
                 "10": [
                     "Maria"
                 ]
@@ -1116,7 +1116,7 @@
         "promo": "hero",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Caeda"
                 ]
@@ -1152,7 +1152,7 @@
         "promo": "dracoknight",
         "support": {
             "give": false,
-            "recieve": {
+            "receive": {
                 "10": [
                     "Abel",
                     "Minerva"
@@ -1338,7 +1338,7 @@
                     "Bantu"
                 ]
             },
-            "recieve": false
+            "receive": false
         },
         "growth": {
             "hp": 80,

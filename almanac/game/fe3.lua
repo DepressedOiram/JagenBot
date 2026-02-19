@@ -100,7 +100,7 @@ function Character:show_sup()
     sup_title = self:get_name() .. ' Support Bonuses'
     local infobox = Infobox:new({title = sup_title })
     
-    local text = "Units must be standing within 3 tiles to recieve bonus Hit/Avoid/Crit.\n\n"
+    local text = "Units must be standing within 3 tiles to receive bonus Hit/Avoid/Crit.\n\n"
 
     if self.data.support['give'] ~= false then
         for key, value in pairs(self.data.support['give']) do
@@ -112,10 +112,10 @@ function Character:show_sup()
         
     end
 
-    if self.data.support['recieve'] ~= false then
-        for key, value in pairs(self.data.support['recieve']) do
+    if self.data.support['receive'] ~= false then
+        for key, value in pairs(self.data.support['receive']) do
             text = text .. '**Receives +' .. key .. " from:** "
-            text = text .. table.concat(self.data.support['recieve'][key], ", ")
+            text = text .. table.concat(self.data.support['receive'][key], ", ")
             text = text .. '\n'
         end
     end

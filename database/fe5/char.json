@@ -11,7 +11,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Selphina",
           "Glade"
@@ -99,7 +99,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif",
           "Ced"
@@ -146,7 +146,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Machyua"
         ]
@@ -191,7 +191,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif",
           "Selphina"
@@ -243,7 +243,7 @@
           "Karin"
         ]
       },
-      "recieve": false
+      "receive": false
     },
     "base": {
       "hp": 12,
@@ -289,7 +289,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "20": [
           "Miranda"
         ]
@@ -340,7 +340,7 @@
           "Marty"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Tanya",
           "Eyvel"
@@ -385,7 +385,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif"
         ]
@@ -434,7 +434,7 @@
           "Eda"
         ]
       },
-      "recieve": {
+      "receive": {
         "20": [
           "Linoan"
         ],
@@ -488,7 +488,7 @@
           "Nanna"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Nanna"
         ]
@@ -536,7 +536,7 @@
           "Deen"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Deen"
         ]
@@ -588,7 +588,7 @@
           "Dagdar"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Mareeta",
           "Leif"
@@ -637,7 +637,7 @@
           "Karin"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Karin"
         ]
@@ -683,7 +683,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif",
           "Nanna"
@@ -729,7 +729,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Olwen"
         ]
@@ -781,7 +781,7 @@
           "Mareeta"
         ]
       },
-      "recieve": {
+      "receive": {
         "20": [
           "Mareeta"
         ]
@@ -833,7 +833,7 @@
           "Robert"
         ]
       },
-      "recieve": {
+      "receive": {
         "20": [
           "Selphina"
         ]
@@ -879,7 +879,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Eyvel"
         ]
@@ -923,7 +923,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif"
         ]
@@ -969,7 +969,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Nanna"
         ]
@@ -1054,7 +1054,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Selphina",
           "Glade"
@@ -1105,7 +1105,7 @@
           "Misha"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Fergus",
           "Ced"
@@ -1160,7 +1160,7 @@
           "Perne"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Perne"
         ]
@@ -1223,7 +1223,7 @@
           "Sara"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Nanna"
         ]
@@ -1271,7 +1271,7 @@
           "Deen"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Deen",
           "Leif"
@@ -1317,7 +1317,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Safy"
         ]
@@ -1367,7 +1367,7 @@
           "Brighton"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Ced"
         ]
@@ -1420,7 +1420,7 @@
           "Eyvel"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Eyvel",
           "Galzus"
@@ -1465,7 +1465,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Dagdar"
         ]
@@ -1515,7 +1515,7 @@
           "Conomor"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Leif"
         ]
@@ -1559,7 +1559,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Karin"
         ]
@@ -1613,7 +1613,7 @@
           "Homer"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Leif",
           "Diarmuid"
@@ -1663,7 +1663,7 @@
           "Fred"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Reinhardt",
           "Leif"
@@ -1717,7 +1717,7 @@
           "Tanya"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Eyvel",
           "Tanya"
@@ -1770,7 +1770,7 @@
           "Salem"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Lara"
         ]
@@ -1852,7 +1852,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Selphina",
           "Glade"
@@ -1897,7 +1897,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif"
         ]
@@ -1947,7 +1947,7 @@
           "Tina"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Tina",
           "Leif"
@@ -2035,7 +2035,7 @@
     "skill": [],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Perne",
           "Sara"
@@ -2091,7 +2091,7 @@
           "Salem"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Leif"
         ]
@@ -2184,7 +2184,7 @@
           "Robert"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Leif",
           "Glade"
@@ -2268,7 +2268,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Safy"
         ]
@@ -2318,7 +2318,7 @@
           "Dagdar"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Osian"
         ]
@@ -2366,7 +2366,7 @@
           "Safy"
         ]
       },
-      "recieve": {
+      "receive": {
         "10": [
           "Safy",
           "Leif"
@@ -2411,7 +2411,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Perne"
         ]
@@ -2460,7 +2460,7 @@
     ],
     "support": {
       "give": false,
-      "recieve": {
+      "receive": {
         "10": [
           "Leif"
         ]
