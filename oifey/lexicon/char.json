@@ -39,9 +39,6 @@
     "Sheeda",
     "Shiida"
   ],
-  "Cain": [
-    "Kain"
-  ],
   "Caineghis": [
     "Mufasa"
   ],
@@ -258,9 +255,6 @@
     "Clerbe",
     "Clerbe",
     "Kreb"
-  ],
-  "Deen": [
-    "Dean"
   ],
   "Delthea": [
     "Dute",
@@ -568,14 +562,14 @@
   "Yves": [
     "Eve"
   ],
-  "Alba": [
-    "Alva"
+  "Alva": [
+    "Alba"
   ],
   "Asbel": [
     "Asvel"
   ],
-  "Callion": [
-    "Carrion"
+  "Carrion": [
+    "Callion"
   ],
   "Conomor": [
     "Conomool",
@@ -585,8 +579,8 @@
   "Dalsin": [
     "Dalshin"
   ],
-  "Dean": [
-    "Deen"
+  "Deen": [
+    "Dean"
   ],
   "Eyvel": [
     "Evel"
@@ -605,17 +599,17 @@
     "Illios",
     "Troy"
   ],
-  "Kane": [
-    "Kain",
-    "Cain"
+  "Cain": [
+    "Kane",
+    "Kain"
   ],
   "Lifis": [
     "Lithis"
   ],
-  "Macha": [
+  "Machyua": [
     "Machua",
     "Machuya",
-    "Machyua"
+    "Macha"
   ],
   "Osian": [
     "Othin",
@@ -625,25 +619,25 @@
     "Pan",
     "Pahn"
   ],
-  "Ralph": [
-    "Ralf"
+  "Ralf": [
+    "Ralph"
   ],
-  "Safie": [
-    "Safy",
+  "Safy": [
+    "Safie",
     "Safiya"
   ],
   "Saias": [
     "Cyais",
     "Cyas"
   ],
-  "Schroff": [
-    "Sleuf"
+  "Sleuf": [
+    "Schroff"
   ],
   "Sara": [
     "Sarah"
   ],
-  "Selfina": [
-    "Selphina"
+  "Selphina": [
+    "Selfina"
   ],
   "Shannam": [
     "Shannan",
@@ -653,9 +647,9 @@
   "Tanya": [
     "Tania"
   ],
-  "Trude": [
+  "Troude": [
     "Trewd",
-    "Troude"
+    "Trude"
   ],
   "Allen": [
     "Alen",

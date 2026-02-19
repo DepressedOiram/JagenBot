@@ -4,6 +4,7 @@ local workspaces = almanac.workspaces
 local util = almanac.util
 
 local Infobox = almanac.Infobox
+local Pagebox = almanac.Pagebox
 
 local pack = util.emoji.get("database/fe3/emoji.json")
 
@@ -94,6 +95,37 @@ function Character:get_cap()
     return {hp = 52, atk = 20, skl = 20, spd = 20, lck = 20, wlv = 20, def = 20, res = 20}
 end
 
+-- Supports
+function Character:show_sup()
+    sup_title = self:get_name() .. ' Support Bonuses'
+    local infobox = Infobox:new({title = sup_title })
+    
+    local text = "Units must be standing within 3 tiles to recieve bonus Hit/Avoid/Crit.\n\n"
+
+    if self.data.support['give'] ~= false then
+        for key, value in pairs(self.data.support['give']) do
+            text = text .. '**Gives +' .. key .. " to:** "
+            text = text .. table.concat(self.data.support['give'][key], ", ")
+            text = text .. '\n'
+        end
+        text = text .. '\n'
+        
+    end
+
+    if self.data.support['recieve'] ~= false then
+        for key, value in pairs(self.data.support['recieve']) do
+            text = text .. '**Receives +' .. key .. " from:** "
+            text = text .. table.concat(self.data.support['recieve'][key], ", ")
+            text = text .. '\n'
+        end
+    end
+    
+    infobox:set("desc", text)
+    infobox:set("footer", "Supports are not all reciprocal")
+    
+    return infobox
+end
+
 function Character:get_mod()
     local text = self:get_lvl_mod()
     
@@ -165,7 +197,38 @@ function Character:calc_base()
     return base
 end
 
+function Character:show_info()
+    local box = self:show_mod()
 
+    
+    if (self.data.support ~= false) then
+        local supportbox = self:show_sup()
+        
+        -- If unit has alts it means it already it's a pagebox
+        if self.data.alt and #self.data.alt > 0 then
+            box:page(supportbox)
+            
+            box:button({label = "Supports", emoji = "bubble"})
+            
+            return box
+        else
+            local pagebox = Pagebox:new()
+            
+            pagebox:page(box)
+            pagebox:stats_button()
+            
+            -- add supportbox here
+            pagebox:page(supportbox)
+            pagebox:button({label = "Supports", emoji = "bubble"})
+            
+            
+            
+            return pagebox
+        end
+    else
+        return box
+    end
+end
 
 function Character:get_rank_bonus(job1, job2)
     text = ""

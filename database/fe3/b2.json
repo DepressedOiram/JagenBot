@@ -5,6 +5,19 @@
         "lvl": 1,
         "job": "paladin",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Est",
+                    "Palla"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Est"
+                ]
+            }
+        },
         "growth": {
             "hp": 70,
             "atk": 40,
@@ -35,6 +48,7 @@
         "lvl": 10,
         "job": "magem",
         "promo": "bishopm",
+        "support": false,
         "growth": {
             "hp": 90,
             "atk": 10,
@@ -65,6 +79,7 @@
         "lvl": 3,
         "job": "paladin",
         "promo": false,
+        "support": false,
         "growth": {
             "hp": 10,
             "atk": 10,
@@ -95,6 +110,18 @@
         "lvl": 5,
         "job": "hero",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Midia"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Midia"
+                ]
+            }
+        },
         "growth": {
             "hp": 90,
             "atk": 50,
@@ -125,6 +152,14 @@
         "lvl": 3,
         "job": "manaketem",
         "promo": false,
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Tiki"
+                ]
+            }
+        },
         "growth": {
             "hp": 10,
             "atk": 0,
@@ -155,6 +190,19 @@
         "lvl": 4,
         "job": "pegasusknight",
         "promo": "dracoknight",
+        "support": {
+            "give": {
+                "10": [
+                    "Marth",
+                    "Ogma"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Marth"
+                ]
+            }
+        },
         "growth": {
             "hp": 50,
             "atk": 20,
@@ -185,6 +233,7 @@
         "lvl": 9,
         "job": "cavalier",
         "promo": "paladin",
+        "support": false,
         "growth": {
             "hp": 90,
             "atk": 30,
@@ -215,6 +264,7 @@
         "lvl": 7,
         "job": "hunter",
         "promo": "horseman",
+        "support": false,
         "growth": {
             "hp": 70,
             "atk": 60,
@@ -245,6 +295,15 @@
         "lvl": 6,
         "job": "pegasusknight",
         "promo": "dracoknight",
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Marth",
+                    "Minerva"
+                ]
+            }
+        },
         "growth": {
             "hp": 70,
             "atk": 40,
@@ -275,6 +334,19 @@
         "lvl": 3,
         "job": "cavalier",
         "promo": "paladin",
+        "support": {
+            "give": {
+                "5": [
+                    "Luke",
+                    "Roderick"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Roderick"
+                ]
+            }
+        },
         "growth": {
             "hp": 50,
             "atk": 30,
@@ -305,6 +377,7 @@
         "lvl": 6,
         "job": "knight",
         "promo": "general",
+        "support": false,
         "growth": {
             "hp": 60,
             "atk": 20,
@@ -335,6 +408,14 @@
         "lvl": 5,
         "job": "bishopf",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Merric"
+                ]
+            },
+            "receive": false
+        },
         "growth": {
             "hp": 10,
             "atk": 10,
@@ -365,6 +446,18 @@
         "lvl": 5,
         "job": "pegasusknight",
         "promo": "dracoknight",
+        "support": {
+            "give": {
+                "10": [
+                    "Abel"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Minerva"
+                ]
+            }
+        },
         "growth": {
             "hp": 50,
             "atk": 70,
@@ -395,6 +488,18 @@
         "lvl": 5,
         "job": "archer",
         "promo": "sniper",
+        "support": {
+            "give": {
+                "5": [
+                    "Ryan"
+                ]
+            },
+            "receive": {
+                "5": [
+                    "Ryan"
+                ]
+            }
+        },
         "growth": {
             "hp": 40,
             "atk": 30,
@@ -425,6 +530,7 @@
         "lvl": 5,
         "job": "sniper",
         "promo": false,
+        "support": false,
         "growth": {
             "hp": 60,
             "atk": 20,
@@ -455,6 +561,18 @@
         "lvl": 1,
         "job": "magem",
         "promo": "bishopm",
+        "support": {
+            "give": {
+                "10": [
+                    "Yuliya"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Yuliya"
+                ]
+            }
+        },
         "growth": {
             "hp": 50,
             "atk": 50,
@@ -485,6 +603,18 @@
         "lvl": 6,
         "job": "thief",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Lena"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Lena"
+                ]
+            }
+        },
         "growth": {
             "hp": 80,
             "atk": 70,
@@ -515,6 +645,18 @@
         "lvl": 7,
         "job": "bishopf",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Julian"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Julian"
+                ]
+            }
+        },
         "growth": {
             "hp": 10,
             "atk": 10,
@@ -545,6 +687,14 @@
         "lvl": 4,
         "job": "magef",
         "promo": "bishopf",
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Merric"
+                ]
+            }
+        },
         "growth": {
             "hp": 40,
             "atk": 20,
@@ -575,6 +725,14 @@
         "lvl": 2,
         "job": "cavalier",
         "promo": "paladin",
+        "support": {
+            "give": false,
+            "receive": {
+                "5": [
+                    "Cecil"
+                ]
+            }
+        },
         "growth": {
             "hp": 90,
             "atk": 30,
@@ -605,6 +763,7 @@
         "lvl": 1,
         "job": "cleric",
         "promo": "bishopf",
+        "support": false,
         "growth": {
             "hp": 40,
             "atk": 30,
@@ -635,6 +794,14 @@
         "lvl": 1,
         "job": "bishopf",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Minerva"
+                ]
+            },
+            "receive": false
+        },
         "growth": {
             "hp": 10,
             "atk": 10,
@@ -665,6 +832,19 @@
         "lvl": 3,
         "job": "lord",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Caeda",
+                    "Catria"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Caeda"
+                ]
+            }
+        },
         "growth": {
             "hp": 90,
             "atk": 50,
@@ -695,6 +875,7 @@
         "lvl": 4,
         "job": "cavalier",
         "promo": "paladin",
+        "support": false,
         "growth": {
             "hp": 50,
             "atk": 40,
@@ -725,6 +906,18 @@
         "lvl": 10,
         "job": "magem",
         "promo": "bishopmerric",
+        "support": {
+            "give": {
+                "10": [
+                    "Linde"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Elice"
+                ]
+            }
+        },
         "growth": {
             "hp": 80,
             "atk": 20,
@@ -755,6 +948,18 @@
         "lvl": 16,
         "job": "paladin",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Astram"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Astram"
+                ]
+            }
+        },
         "growth": {
             "hp": 80,
             "atk": 30,
@@ -785,6 +990,20 @@
         "lvl": 8,
         "job": "dracoknight",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Palla",
+                    "Catria",
+                    "Est"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Maria"
+                ]
+            }
+        },
         "growth": {
             "hp": 40,
             "atk": 30,
@@ -815,6 +1034,14 @@
         "lvl": 8,
         "job": "mercenary",
         "promo": "hero",
+        "support": {
+            "give": {
+                "10": [
+                    "Phina"
+                ]
+            },
+            "receive": false
+        },
         "growth": {
             "hp": 90,
             "atk": 50,
@@ -845,6 +1072,14 @@
         "lvl": 3,
         "job": "bishopf",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Sirius"
+                ]
+            },
+            "receive": false
+        },
         "growth": {
             "hp": 10,
             "atk": 10,
@@ -875,6 +1110,14 @@
         "lvl": 7,
         "job": "mercenary",
         "promo": "hero",
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Caeda"
+                ]
+            }
+        },
         "growth": {
             "hp": 80,
             "atk": 40,
@@ -905,6 +1148,15 @@
         "lvl": 10,
         "job": "pegasusknight",
         "promo": "dracoknight",
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Abel",
+                    "Minerva"
+                ]
+            }
+        },
         "growth": {
             "hp": 70,
             "atk": 50,
@@ -935,6 +1187,14 @@
         "lvl": 1,
         "job": "dancer",
         "promo": false,
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Navarre"
+                ]
+            }
+        },
         "growth": {
             "hp": 40,
             "atk": 60,
@@ -965,6 +1225,7 @@
         "lvl": 3,
         "job": "thief",
         "promo": false,
+        "support": false,
         "growth": {
             "hp": 50,
             "atk": 50,
@@ -995,6 +1256,18 @@
         "lvl": 1,
         "job": "cavalier",
         "promo": "paladin",
+        "support": {
+            "give": {
+                "10": [
+                    "Cecil"
+                ]
+            },
+            "receive": {
+                "5": [
+                    "Cecil"
+                ]
+            }
+        },
         "growth": {
             "hp": 70,
             "atk": 40,
@@ -1025,6 +1298,7 @@
         "lvl": 8,
         "job": "paladin",
         "promo": false,
+        "support": false,
         "growth": {
             "hp": 80,
             "atk": 40,
@@ -1055,6 +1329,18 @@
         "lvl": 1,
         "job": "archer",
         "promo": "sniper",
+        "support": {
+            "give": {
+                "5": [
+                    "Gordin"
+                ]
+            },
+            "receive": {
+                "5": [
+                    "Gordin"
+                ]
+            }
+        },
         "growth": {
             "hp": 60,
             "atk": 40,
@@ -1085,6 +1371,18 @@
         "lvl": 5,
         "job": "hero",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Sheena"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Sheena"
+                ]
+            }
+        },
         "growth": {
             "hp": 70,
             "atk": 30,
@@ -1115,6 +1413,7 @@
         "lvl": 5,
         "job": "mercenary",
         "promo": "hero",
+        "support": false,
         "growth": {
             "hp": 70,
             "atk": 20,
@@ -1145,6 +1444,18 @@
         "lvl": 1,
         "job": "general",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Samson"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Samson"
+                ]
+            }
+        },
         "growth": {
             "hp": 60,
             "atk": 60,
@@ -1175,6 +1486,14 @@
         "lvl": 4,
         "job": "paladin",
         "promo": false,
+        "support": {
+            "give": false,
+            "receive": {
+                "10": [
+                    "Nyna"
+                ]
+            }
+        },
         "growth": {
             "hp": 80,
             "atk": 50,
@@ -1205,6 +1524,14 @@
         "lvl": 6,
         "job": "manaketef",
         "promo": false,
+        "support": {
+            "give": {
+                "10": [
+                    "Bantu"
+                ]
+            },
+            "receive": false
+        },
         "growth": {
             "hp": 80,
             "atk": 40,
@@ -1235,6 +1562,7 @@
         "lvl": 2,
         "job": "hunter",
         "promo": "horseman",
+        "support": false,
         "growth": {
             "hp": 70,
             "atk": 50,
@@ -1265,6 +1593,7 @@
         "lvl": 7,
         "job": "bishopm",
         "promo": false,
+        "support": false,
         "growth": {
             "hp": 60,
             "atk": 10,
@@ -1295,6 +1624,7 @@
         "lvl": 5,
         "job": "freelancer",
         "promo": false,
+        "support": false,
         "growth": {
             "hp": 50,
             "atk": 30,
@@ -1325,6 +1655,18 @@
         "lvl": 2,
         "job": "cleric",
         "promo": "bishopf",
+        "support": {
+            "give": {
+                "10": [
+                    "Jubelo"
+                ]
+            },
+            "receive": {
+                "10": [
+                    "Jubelo"
+                ]
+            }
+        },
         "growth": {
             "hp": 30,
             "atk": 20,

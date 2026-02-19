@@ -1,6 +1,6 @@
 {
-  "alba": {
-    "name": "Alba",
+  "alva": {
+    "name": "Alva",
     "portrait": "alva.png",
     "lvl": 2,
     "job": "lanceknight",
@@ -87,7 +87,7 @@
   },
   "asbel": {
     "name": "Asbel",
-    "portrait": "asvel.png",
+    "portrait": "asbel.png",
     "lvl": 1,
     "job": "magem",
     "promo": "sagem",
@@ -179,9 +179,9 @@
       "axe": 110
     }
   },
-  "callion": {
+  "carrion": {
     "name": "Carrion",
-    "portrait": "callion.png",
+    "portrait": "carrion.png",
     "lvl": 1,
     "job": "cavalier",
     "promo": "paladinm",
@@ -375,7 +375,7 @@
   },
   "dalsin": {
     "name": "Dalsin",
-    "portrait": "dalshin.png",
+    "portrait": "dalsin.png",
     "lvl": 5,
     "job": "axearmor",
     "promo": "general",
@@ -417,9 +417,9 @@
       "axe": 150
     }
   },
-  "dean": {
-    "name": "Dean",
-    "portrait": "dean.png",
+  "deen": {
+    "name": "Deen",
+    "portrait": "deen.png",
     "lvl": 3,
     "job": "wyvernknightm",
     "promo": false,
@@ -472,7 +472,7 @@
   },
   "diarmuid": {
     "name": "Diarmuid",
-    "portrait": "dermott.png",
+    "portrait": "diarmuid.png",
     "lvl": 3,
     "job": "ranger",
     "promo": false,
@@ -533,12 +533,12 @@
     "support": {
       "give": {
         "10": [
-          "Dean"
+          "Deen"
         ]
       },
       "recieve": {
         "10": [
-          "Dean"
+          "Deen"
         ]
       }
     },
@@ -719,7 +719,7 @@
   },
   "fred": {
     "name": "Fred",
-    "portrait": "alfred.png",
+    "portrait": "fred.png",
     "lvl": 2,
     "job": "paladinm",
     "promo": false,
@@ -828,8 +828,8 @@
       "give": {
         "10": [
           "Selphina",
-          "Kane",
-          "Alba",
+          "Cain",
+          "Alva",
           "Robert"
         ]
       },
@@ -1042,9 +1042,9 @@
       "thunder": 150
     }
   },
-  "kane": {
-    "name": "Kane",
-    "portrait": "kane.png",
+  "cain": {
+    "name": "Cain",
+    "portrait": "cain.png",
     "lvl": 2,
     "job": "lanceknight",
     "promo": "dukeknight",
@@ -1268,12 +1268,12 @@
     "support": {
       "give": {
         "20": [
-          "Dean"
+          "Deen"
         ]
       },
       "recieve": {
         "10": [
-          "Dean",
+          "Deen",
           "Leif"
         ]
       }
@@ -1307,7 +1307,7 @@
   },
   "lifis": {
     "name": "Lifis",
-    "portrait": "lithis.png",
+    "portrait": "lifis.png",
     "lvl": 4,
     "job": "thiefm",
     "promo": "thieffighterm",
@@ -1349,9 +1349,9 @@
       "sword": 80
     }
   },
-  "macha": {
+  "machyua": {
     "name": "Machyua",
-    "portrait": "macha.png",
+    "portrait": "machyua.png",
     "lvl": 2,
     "job": "swordfighterf",
     "promo": "herof",
@@ -1752,7 +1752,7 @@
   },
   "perne": {
     "name": "Perne",
-    "portrait": "pahn.png",
+    "portrait": "perne.png",
     "lvl": 3,
     "job": "thieffighterm",
     "promo": false,
@@ -1802,9 +1802,9 @@
       "sword": 100
     }
   },
-  "ralph": {
-    "name": "Ralph",
-    "portrait": "ralph.png",
+  "ralf": {
+    "name": "Ralf",
+    "portrait": "ralf.png",
     "lvl": 3,
     "job": "herom",
     "promo": false,
@@ -1929,7 +1929,7 @@
       "bow": 30
     }
   },
-  "safie": {
+  "safy": {
     "name": "Safy",
     "portrait": "safy.png",
     "lvl": 3,
@@ -2123,9 +2123,9 @@
       "staff": 150
     }
   },
-  "schroff": {
+  "sleuf": {
     "name": "Sleuf",
-    "portrait": "schroff.png",
+    "portrait": "sleuf.png",
     "lvl": 6,
     "job": "priestm",
     "promo": "highpriestm",
@@ -2162,7 +2162,7 @@
   },
   "selphina": {
     "name": "Selphina",
-    "portrait": "selfina.png",
+    "portrait": "selphina.png",
     "lvl": 8,
     "job": "archknightf",
     "promo": "bowknightf",
@@ -2179,8 +2179,8 @@
         ],
         "10": [
           "Carrion",
-          "Kane",
-          "Alba",
+          "Cain",
+          "Alva",
           "Robert"
         ]
       },
@@ -2397,9 +2397,9 @@
     },
     "rank": {}
   },
-  "trude": {
+  "troude": {
     "name": "Troude",
-    "portrait": "trude.png",
+    "portrait": "troude.png",
     "lvl": 8,
     "job": "swordfighterm",
     "promo": "swordmasterm",
