@@ -564,13 +564,21 @@ Job.section = almanac.get("database/fe4/job.json")
 
 Job.rank_exp = rank_exp
 
+function Job:show()
+    local infobox = workspaces.Job.show(self)
+    
+    -- Change the bases to display the res
+    infobox.fields[1].value = util.table_stats(self:get_base(true))
+    
+    return infobox
+end
+
 -- Base
-function Job:get_base(include_hp)
+function Job:get_base(display)
     local base = workspaces.Job.get_base(self)
     
-    -- Hide HP by default
-    if not include_hp then
-        base.hp = nil
+    if not display then
+        base.hp = 0
     end
     
     return base

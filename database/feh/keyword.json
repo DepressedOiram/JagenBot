@@ -407,6 +407,7 @@
                 ]
             },
             "Breath": [
+                "Awakening Voice",
                 "Eternal Breath",
                 "Frostfire Breath",
                 "Godly Breath",
@@ -3244,7 +3245,24 @@
         "description": "Neutralizes \"effective against\" bonuses for all movement types.\nGrants bonus to unit's Atk/Spd/Def/Res = highest bonus on each stat between unit and allies within 2 spaces of unit (calculates each stat bonus independently) and reduces damage from foe's first attack by 10 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
         "color": "Red",
         "icon": "fireemblem",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [
+                "Awakening Voice"
+            ],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -3803,6 +3821,7 @@
             "assist": [],
             "special": [
                 "Armored Flare",
+                "Armored Ice Cap",
                 "Ascendant King",
                 "Invincible Sister",
                 "Makings of a King"
@@ -6740,6 +6759,7 @@
                 ]
             },
             "Breath": [
+                "Awakening Voice",
                 "Oracle's Breath"
             ],
             "Beast": [

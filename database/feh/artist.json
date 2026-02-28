@@ -24682,7 +24682,26 @@
       "Emblem Eirika",
       "Engage Eirika",
       "E Eirika",
-      "eirika9"
+      "eirika9",
+      "Everlasting Voice",
+      "Tiki: Everlasting Voice",
+      "Mythic Tiki",
+      "M Tiki",
+      "Mythical Tiki",
+      "tiki12",
+      "Mythic Adult Tiki",
+      "M Adult Tiki",
+      "Mythical Adult Tiki",
+      "Mythic A Tiki",
+      "M A Tiki",
+      "Mythical A Tiki",
+      "Adult Mythic Tiki",
+      "Adult M Tiki",
+      "Adult Mythical Tiki",
+      "A Mythic Tiki",
+      "A M Tiki",
+      "A Mythical Tiki",
+      "atiki5"
     ],
     "HARD_ALT_NAME": [
       "lyn6",
@@ -24810,7 +24829,26 @@
       "Emblem Eirika",
       "Engage Eirika",
       "E Eirika",
-      "eirika9"
+      "eirika9",
+      "Everlasting Voice",
+      "Tiki: Everlasting Voice",
+      "Mythic Tiki",
+      "M Tiki",
+      "Mythical Tiki",
+      "tiki12",
+      "Mythic Adult Tiki",
+      "M Adult Tiki",
+      "Mythical Adult Tiki",
+      "Mythic A Tiki",
+      "M A Tiki",
+      "Mythical A Tiki",
+      "Adult Mythic Tiki",
+      "Adult M Tiki",
+      "Adult Mythical Tiki",
+      "A Mythic Tiki",
+      "A M Tiki",
+      "A Mythical Tiki",
+      "atiki5"
     ],
     "heroes": {
       "azura7": "<:Green_Axe:1317239517136031897>Attuned Azura",
@@ -24821,7 +24859,8 @@
       "palla4": "<:Red_Sword:1317239717707911188>Valentian Palla",
       "plumeria2": "<:Colorless_Bow:1317239404204654703>New Year Plumeria",
       "rhea3": "<:Colorless_Breath:1317239411980767363>Fallen Rhea",
-      "frobin4": "<:Green_Breath:1317239551693164595>Halloween Female Robin"
+      "frobin4": "<:Green_Breath:1317239551693164595>Halloween Female Robin",
+      "atiki5": "<:Colorless_Breath:1317239411980767363>Mythic Adult Tiki"
     },
     "name": "teffish"
   },
@@ -30780,7 +30819,7 @@
   "sabamizore": {
     "heroes": {
       "larachel5": "<:Colorless_Staff:1317239426866483261>Rearmed L'Arachel",
-      "ytiki7": "<:Green_Breath:1317239551693164595>Attuned Tiki"
+      "ytiki7": "<:Green_Breath:1317239551693164595>Attuned Young Tiki"
     },
     "name": "sabamizore (\u3055\u3070\u307F\u305E\u308C)",
     "ALT_NAME": [
@@ -30788,7 +30827,13 @@
       "Dragon's Progeny",
       "Tiki: Dragon's Progeny",
       "Attuned Tiki",
+      "Att Tiki",
       "tiki11",
+      "Attuned Young Tiki",
+      "Att Young Tiki",
+      "Young Attuned Tiki",
+      "Young Att Tiki",
+      "ytiki7",
       "Justice-Armed",
       "L'Arachel: Justice-Armed",
       "Rearmed L'Arachel",
