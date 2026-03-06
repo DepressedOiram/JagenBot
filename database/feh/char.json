@@ -19084,7 +19084,8 @@
       "eirika6",
       "eirika7",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "sieglindeeff",
@@ -38946,7 +38947,8 @@
     "alt": false,
     "reference": [
       "sothe2",
-      "sothe3"
+      "sothe3",
+      "sothe4"
     ],
     "prf": {
       "": "peshkatzeff",
@@ -39442,7 +39444,8 @@
       "eirika6",
       "eirika7",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "gleipnireff",
@@ -40319,15 +40322,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30a2\u30a4\u30af",
     "voice": "Greg Chun",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Clover.K (\u9ed2\u8449.K)",
+    "resplendent_voice": "Greg Chun",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Ike_Vanguard_Legend_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Ike_Vanguard_Legend_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Ike_Vanguard_Legend_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Ike_Vanguard_Legend_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4a/Ike_Vanguard_Legend_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Ike_Vanguard_Legend_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Ike_Vanguard_Legend_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Ike_Vanguard_Legend_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "tellius"
     ],
@@ -40383,7 +40391,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I'll turn you to ice!",
+          "Way too slow.",
+          "Are you serious?",
+          "We're done here."
+        ],
+        "Status": [
+          "-",
+          "This style isn't like anything I've seen before. Where'd it come from anyway?",
+          "Huh? Oh, don't worry about it. Accidents happen.",
+          "Nifl's got a ton of royals. Family gatherings must be lively.",
+          "I'm sure I could handle extreme heat or cold if I had to, but I wouldn't choose to.",
+          "I guess being important earns you the privilege of wearing gaudy outfits.",
+          "Is it my imagination...*sneeze* or is it getting colder here?",
+          "It's rare to work for someone you can truly trust. I'm happy to keep doing so."
+        ],
+        "Map Select": [
+          "Let's do it.",
+          "I don't know...",
+          "I'll cut a path."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Legendary Ike",
     "SEARCH_NAME": "Legendary Ike",
@@ -57505,7 +57544,8 @@
       "eirika6",
       "eirika7",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "stormsieglindeeff",
@@ -59539,7 +59579,8 @@
       "eirika6",
       "eirika7",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "joyouslanterneff",
@@ -98330,7 +98371,7 @@
       "dorothea1",
       "Solar Songstress",
       "Dorothea",
-      "S Dorothea",
+      "Su Dorothea",
       "Sorothea",
       "Summer Dorothea"
     ],
@@ -117976,29 +118017,21 @@
       "Eirika: Twin Refulgence",
       "Twin Refulgence",
       "Duo Eirika",
-      "Harmonic Eirika",
-      "Harmonized Eirika",
       "Young Eirika",
       "Child Eirika",
       "Mini Eirika",
       "Baby Eirika",
       "Duo Eirik",
-      "Harmonic Eirik",
-      "Harmonized Eirik",
       "Young Eirik",
       "Child Eirik",
       "Mini Eirik",
       "Baby Eirik",
       "Duo Erika",
-      "Harmonic Erika",
-      "Harmonized Erika",
       "Young Erika",
       "Child Erika",
       "Mini Erika",
       "Baby Erika",
       "Duo Erica",
-      "Harmonic Erica",
-      "Harmonized Erica",
       "Young Erica",
       "Child Erica",
       "Mini Erica",
@@ -118018,29 +118051,21 @@
       "Y Erica",
       "D Erica",
       "Duo Eirika",
-      "Harmonic Eirika",
-      "Harmonized Eirika",
       "Young Eirika",
       "Child Eirika",
       "Mini Eirika",
       "Baby Eirika",
       "Duo Eirik",
-      "Harmonic Eirik",
-      "Harmonized Eirik",
       "Young Eirik",
       "Child Eirik",
       "Mini Eirik",
       "Baby Eirik",
       "Duo Erika",
-      "Harmonic Erika",
-      "Harmonized Erika",
       "Young Erika",
       "Child Erika",
       "Mini Erika",
       "Baby Erika",
       "Duo Erica",
-      "Harmonic Erica",
-      "Harmonized Erica",
       "Young Erica",
       "Child Erica",
       "Mini Erica",
@@ -118149,7 +118174,8 @@
       "eirika6",
       "eirika7",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "bladeofrenais",
@@ -127024,7 +127050,8 @@
       "eirika5",
       "eirika7",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "bindingreginleifeff",
@@ -130844,7 +130871,8 @@
       "Iron Lance": "1",
       "Steel Lance": "2",
       "Stout Lance": "3",
-      "Stout Lance+": "5"
+      "Stout Lance+": "5",
+      "Rearguard Lance": "5"
     },
     "assist": {
       "Draw Back": "3"
@@ -130955,12 +130983,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "stoutlancedef",
-      "eff": "stoutlancedef",
-      "atk": "stoutlanceatk",
-      "spd": "stoutlancespd",
-      "def": "stoutlancedef",
-      "res": "stoutlanceres"
+      "": "rearguardlance",
+      "eff": "rearguardlance",
+      "atk": "rearguardlance",
+      "spd": "rearguardlance",
+      "def": "rearguardlance",
+      "res": "rearguardlance"
     }
   },
   "malice": {
@@ -134021,7 +134049,8 @@
     "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Th\u00f3rr",
     "alt": false,
     "reference": [
-      "thorr2"
+      "thorr2",
+      "thorr3"
     ],
     "prf": {
       "": "wargodmjolnireff",
@@ -149024,9 +149053,9 @@
     "HARD_ALT_NAME": [
       "thor2",
       "Sun-Kissed Gods",
-      "S Th\u00f3rr",
+      "Su Th\u00f3rr",
       "D Th\u00f3rr",
-      "S Thor",
+      "Su Thor",
       "D Thor",
       "Sh\u00f3rr",
       "Dh\u00f3rr",
@@ -149135,7 +149164,8 @@
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
-      "thorr"
+      "thorr",
+      "thorr3"
     ],
     "prf": {
       "": "divinewhimsy",
@@ -149391,10 +149421,10 @@
       "erika7",
       "eirik7",
       "Beach Restorer",
-      "S Eirika",
-      "S Eirik",
-      "S Erika",
-      "S Erica",
+      "Su Eirika",
+      "Su Eirik",
+      "Su Erika",
+      "Su Erica",
       "Summer Eirika",
       "Summer Eirik",
       "Summer Erika",
@@ -149484,7 +149514,8 @@
       "eirika5",
       "eirika6",
       "eirika8",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "caringconch",
@@ -151738,7 +151769,8 @@
     "alt": true,
     "reference": [
       "sothe",
-      "sothe3"
+      "sothe3",
+      "sothe4"
     ],
     "prf": {
       "": "floridknifespd",
@@ -167159,13 +167191,18 @@
     },
     "passive": {
       "A": {
-        "Part of the Plan": "5"
+        "Part of the Plan": "5",
+        "The Plan: Part II": "5"
       },
       "B": {
         "Seal Atk 1": "2",
         "Seal Atk 2": "3",
         "Seal Atk 3": "4",
-        "Seal Atk 4": "5"
+        "Seal Atk 4": "5",
+        "Lull Atk/Res 1": "2",
+        "Lull Atk/Res 2": "3",
+        "Lull Atk/Res 3": "4",
+        "A/R Lull Finish": "5"
       },
       "C": {
         "Canto Control 1": "1",
@@ -167854,7 +167891,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "\u6625\u796d\u30d9\u30eb\u30ca\u30c7\u30c3\u30bf",
     "voice": "Erica Mendez",
     "resplendent": false,
@@ -173295,10 +173332,15 @@
         "Wings of Mercy 1": "2",
         "Wings of Mercy 2": "3",
         "Wings of Mercy 3": "4",
-        "Wings of Mercy 4": "5"
+        "Wings of Mercy 4": "5",
+        "Speedtaker 1": "2",
+        "Speedtaker 2": "3",
+        "Speedtaker 3": "4",
+        "Speedtaker 4": "5"
       },
       "C": {
-        "Rallying Cry": "5"
+        "Rallying Cry": "5",
+        "Rallying Cry II": "5"
       },
       "X": {}
     },
@@ -199549,7 +199591,8 @@
     "alt": false,
     "reference": [
       "sothe",
-      "sothe2"
+      "sothe2",
+      "sothe4"
     ],
     "prf": {
       "": "arcanetempest",
@@ -202201,7 +202244,8 @@
       "eirika5",
       "eirika6",
       "eirika7",
-      "eirika9"
+      "eirika9",
+      "eirika10"
     ],
     "prf": {
       "": "sisterlyaxe",
@@ -221378,7 +221422,8 @@
       "eirika5",
       "eirika6",
       "eirika7",
-      "eirika8"
+      "eirika8",
+      "eirika10"
     ],
     "prf": {
       "": "azuretwinedge",
@@ -237900,10 +237945,14 @@
       "Harmonized Choose Your Legends Ike",
       "Choose Your Legends Harmonic Ike",
       "Choose Your Legends Harmonized Ike",
+      "H CYL Ike",
+      "CYL H Ike",
       "Harmonic Brave Ike",
       "Harmonized Brave Ike",
       "Brave Harmonic Ike",
       "Harmonized Brave Ike",
+      "H B Ike",
+      "B H Ike",
       "ike9"
     ],
     "HARD_ALT_NAME": [
@@ -237919,10 +237968,14 @@
       "Harmonized Choose Your Legends Ike",
       "Choose Your Legends Harmonic Ike",
       "Choose Your Legends Harmonized Ike",
+      "H CYL Ike",
+      "CYL H Ike",
       "Harmonic Brave Ike",
       "Harmonized Brave Ike",
       "Brave Harmonic Ike",
       "Harmonized Brave Ike",
+      "H B Ike",
+      "B H Ike",
       "ike9"
     ],
     "gender": "M",
@@ -238121,10 +238174,14 @@
       "Harmonized Choose Your Legends Lyn",
       "Choose Your Legends Harmonic Lyn",
       "Choose Your Legends Harmonized Lyn",
+      "H CYL Lyn",
+      "CYL H Lyn",
       "Harmonic Brave Lyn",
       "Harmonized Brave Lyn",
       "Brave Harmonic Lyn",
       "Harmonized Brave Lyn",
+      "H B Lyn",
+      "B H Lyn",
       "lyn11"
     ],
     "HARD_ALT_NAME": [
@@ -238140,10 +238197,14 @@
       "Harmonized Choose Your Legends Lyn",
       "Choose Your Legends Harmonic Lyn",
       "Choose Your Legends Harmonized Lyn",
+      "H CYL Lyn",
+      "CYL H Lyn",
       "Harmonic Brave Lyn",
       "Harmonized Brave Lyn",
       "Brave Harmonic Lyn",
       "Harmonized Brave Lyn",
+      "H B Lyn",
+      "B H Lyn",
       "lyn11"
     ],
     "gender": "F",
@@ -243929,10 +243990,14 @@
       "Harmonized Choose Your Legends Celica",
       "Choose Your Legends Harmonic Celica",
       "Choose Your Legends Harmonized Celica",
+      "H CYL Celica",
+      "CYL H Celica",
       "Harmonic Brave Celica",
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
       "Harmonized Brave Celica",
+      "H B Celica",
+      "B H Celica",
       "celica8"
     ],
     "HARD_ALT_NAME": [
@@ -243946,10 +244011,14 @@
       "Harmonized Choose Your Legends Celica",
       "Choose Your Legends Harmonic Celica",
       "Choose Your Legends Harmonized Celica",
+      "H CYL Celica",
+      "CYL H Celica",
       "Harmonic Brave Celica",
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
       "Harmonized Brave Celica",
+      "H B Celica",
+      "B H Celica",
       "celica8"
     ],
     "gender": "F",
@@ -244149,10 +244218,14 @@
       "Harmonized Choose Your Legends Hector",
       "Choose Your Legends Harmonic Hector",
       "Choose Your Legends Harmonized Hector",
+      "H CYL Hector",
+      "CYL H Hector",
       "Harmonic Brave Hector",
       "Harmonized Brave Hector",
       "Brave Harmonic Hector",
       "Harmonized Brave Hector",
+      "H B Hector",
+      "B H Hector",
       "hector8"
     ],
     "HARD_ALT_NAME": [
@@ -244168,10 +244241,14 @@
       "Harmonized Choose Your Legends Hector",
       "Choose Your Legends Harmonic Hector",
       "Choose Your Legends Harmonized Hector",
+      "H CYL Hector",
+      "CYL H Hector",
       "Harmonic Brave Hector",
       "Harmonized Brave Hector",
       "Brave Harmonic Hector",
       "Harmonized Brave Hector",
+      "H B Hector",
+      "B H Hector",
       "hector8"
     ],
     "gender": "M",
@@ -244665,6 +244742,825 @@
     "boost": {
       "hp": 5,
       "def": 5
+    }
+  },
+  "eirika10": {
+    "name": "Eirika",
+    "title": "Spring Company",
+    "description": "Eirika, princess of Renais, and Micaiah of the Dawn Brigade. Their smiles light up the spring. They appear in Fire Emblem: The Sacred Stones / Radiant Dawn.",
+    "origin": "The Sacred Stones + Radiant Dawn",
+    "artist": "Kippu (\u5207\u7b26)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Red",
+    "duel": false,
+    "id": "1352",
+    "type": "duo",
+    "version": "10.3",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit.\nInflicts Atk/Spd/Def/Res-7,\u3010Sabotage\u3011, and \u3010Share Spoils+\u3011on closest foes and any foe within 2 spaces of those foes through their next actions.\n\u3010Resonance: Blades\u3011\nGrants Atk/Spd+4 during combat for 1 turn.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit. Calculates each stat penalty independently.\n\u3010Shared Spoils+\u3011\nInflicts Atk/Spd/Def/Res-5 on unit during combat and neutralizes \"reduces damage by X%\" effects from unit's non-Special skills (excluding area-of-effect Specials).\nOnce per turn for the entire map, if foe initiates combat and if unit is defeated in combat, grants another action to that foe after combat (this effect has priority over other similar effects aside from Share Spoils; if this status and Share Spoils are both active at the same time, they are both treated as having been triggered; other similar effects aside from Share Spoils are treated as not having triggered).",
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 12,
+      "spd": 10,
+      "def": 6,
+      "res": 4
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 40,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Fire": "1",
+      "Elfire": "2",
+      "Bolganone": "3",
+      "Spring Dawning": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Logic": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Aria": "5"
+      },
+      "B": {
+        "Stellar Brace": "5"
+      },
+      "C": {
+        "Atk/Spd Gap 1": "2",
+        "Atk/Spd Gap 2": "3",
+        "Atk/Spd Gap 3": "4",
+        "Atk/Spd Liberate": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Eirika_Spring_Company_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Eirika_Spring_Company_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Eirika_Spring_Company_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Eirika_Spring_Company_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Spring Company",
+      "Eirika: Spring Company",
+      "Spring Eirika",
+      "Sp Eirika",
+      "Easter Eirika",
+      "Harmonic Eirika",
+      "Harmonized Eirika",
+      "eirika10",
+      "Eirik: Spring Company",
+      "Spring Eirik",
+      "Sp Eirik",
+      "Easter Eirik",
+      "Harmonic Eirik",
+      "Harmonized Eirik",
+      "eirik10",
+      "Erika: Spring Company",
+      "Spring Erika",
+      "Sp Erika",
+      "Easter Erika",
+      "Harmonic Erika",
+      "Harmonized Erika",
+      "erika10",
+      "Erica: Spring Company",
+      "Spring Erica",
+      "Sp Erica",
+      "Easter Erica",
+      "Harmonic Erica",
+      "Harmonized Erica",
+      "erica10"
+    ],
+    "HARD_ALT_NAME": [
+      "Spring Company",
+      "Eirika: Spring Company",
+      "Spring Eirika",
+      "Sp Eirika",
+      "Easter Eirika",
+      "Harmonic Eirika",
+      "Harmonized Eirika",
+      "eirika10",
+      "Eirik: Spring Company",
+      "Spring Eirik",
+      "Sp Eirik",
+      "Easter Eirik",
+      "Harmonic Eirik",
+      "Harmonized Eirik",
+      "eirik10",
+      "Erika: Spring Company",
+      "Spring Erika",
+      "Sp Erika",
+      "Easter Erika",
+      "Harmonic Erika",
+      "Harmonized Erika",
+      "erika10",
+      "Erica: Spring Company",
+      "Spring Erica",
+      "Sp Erica",
+      "Easter Erica",
+      "Harmonic Erica",
+      "Harmonized Erica",
+      "erica10"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u53cc\u754c\u30a8\u30a4\u30ea\u30fc\u30af",
+    "voice": "Kira Buckland + Veronica Taylor",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "magvel"
+    ],
+    "chibi": [
+      "fe8",
+      "fe10"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Micaiah:** The warm sunshine feels wonderful... From the way she's chirping, I get the feeling Yune is enjoying spring too.",
+        "**Eirika:** I don't think anyone dislikes spring. I imagine my brother and Lyon welcomed its arrival.",
+        "**Micaiah:** I feel the spirit of everyone enjoying the spring festival... I want to cherish this warmth.",
+        "**Eirika:** The way your silvery hair shimmers in the sunlight makes you look like a goddess of the spring to me.",
+        "**Micaiah:** Your smile brings a sense of calm to those around you... I feel as though it is the embodiment of spring."
+      ],
+      "Visit": [
+        "**Eirika:** I am Eirika, and this is Micaiah. We are here to bring tidings of spring from [F]."
+      ],
+      "Level": [
+        "**Eirika:** Let's keep this up until everyone is wearing a bright spring smile.",
+        "**Micaiah:** Everyone has a heart capable of enjoying spring, regardless of race or status.",
+        "**Eirika:** I may have been trying a little harder than necessary for a spring festival."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Eirika, princess of Renais. I am here with Micaiah to celebrate spring in the Kingdom of Askr."
+      ],
+      "Learn Skill": [
+        "**Micaiah:** Thank you for your thoughtfulness. This is on its way to becoming a truly unforgettable spring."
+      ],
+      "Confession": [
+        "**Eirika:** Micaiah, look at all the flowers for the festival. It's as though the world is blossoming with the of joy of spring.\n**Micaiah:** They really are beautiful, aren't they? All those colorful flowers put smiles on people's faces.\n**Eirika:** Hand in hand, we can rejoice in the coming of spring. This happiness is what we should protect.\n**Micaiah:** Yes. Bright spring colors give us hope for the future. I am happy I invited Sothe to share in the festival too.\n**Eirika:** Next time I'd like to invite my brother. I'm sure he would enjoy himself.\n**Micaiah:** Ephraim as a valiant bunny would be fun. Hehe. I am happy to see people come together for the spring festival."
+      ],
+      "Special": [
+        "**Duo:** Spring colors!",
+        "**Duo:** \"Let us go.\" \"Yes!\"",
+        "**Eirika:** So beautiful.",
+        "**Micaiah:** Enjoying yourself?"
+      ],
+      "Status": [
+        "-",
+        "\"Do you think these toys will please the others?\" \"*light laugh* I'm sure they will.\""
+      ],
+      "Map Select": [
+        "A good approach...",
+        "Let us deliver spring cheer.",
+        "We shall hop together."
+      ],
+      "Conversation": [
+        "**Eirika:** Aww... That toy rabbit is wonderful.",
+        "**Micaiah:** Yes, it's so cute. Holding it reminds me of walking with Sothe when he was little.",
+        "**Eirika:** A little Sothe... I can hardly imagine him that way.",
+        "**Micaiah:** That's understandable. He's grown so big now.",
+        "When we first met, he was only chest high to me.",
+        "**Eirika:** You've known each other that long?",
+        "**Micaiah:** Yes. And I never expected that he would stay by my side all this time.",
+        "**Eirika:** In a world where there are always more battles to fight, you never know when you might lose someone dear.",
+        "Being able to always laugh and spend time together like the two of you do is wonderful.",
+        "**Micaiah:** Indeed... I wonder if I might be able to celebrate spring with all of you again next year.",
+        "**Eirika:** Yes! Please do!",
+        "**Micaiah:** Wouldn't it be nice if Ephraim also came next year?",
+        "**Eirika:** Yes. We will have to get him involved in all the preparations and not just in the arena!",
+        "**Micaiah:** In that case, maybe you could catch his interest with a souvenir.",
+        "**Eirika:** Hmm... A souvenir... Something that my brother would be interested in...",
+        "Perhaps another toy rabbit, then. And one for Lyon too.",
+        "**Micaiah:** We'll all match. *soft laugh* I wonder if I should also buy another one?"
+      ],
+      "Duo Skill": [
+        "\"Bringing spring\" \"to you.\"",
+        "\"So warm.\" \"It is!\""
+      ],
+      "Back Unit Supporting": [
+        "Be careful.",
+        "A fresh spring breeze."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Spring Eirika",
+    "SEARCH_NAME": "Spring Eirika",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Eirika",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "eirika",
+      "eirika2",
+      "eirika3",
+      "eirika4",
+      "eirika5",
+      "eirika6",
+      "eirika7",
+      "eirika8",
+      "eirika9"
+    ],
+    "prf": {
+      "": "springdawning",
+      "eff": "springdawning",
+      "atk": "springdawning",
+      "spd": "springdawning",
+      "def": "springdawning",
+      "res": "springdawning"
+    }
+  },
+  "sothe4": {
+    "name": "Sothe",
+    "title": "In the Breeze",
+    "description": "A thief for the Dawn Brigade who was invited by Micaiah to participate in the spring festival. Appears in Fire Emblem: Radiant Dawn.",
+    "origin": "Radiant Dawn",
+    "artist": "Tsunakawa (\u3064\u306a\u304b\u308f)",
+    "move": "Infantry",
+    "weapon": "Dagger",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1353",
+    "type": "rearmed",
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 10,
+      "res": 7
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 90,
+      "def": 55,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "res"
+    ],
+    "weapons": {
+      "Iron Dagger": "1",
+      "Steel Dagger": "2",
+      "Silver Dagger": "3",
+      "Arcane Slicer": "5"
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4",
+      "True Bane": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Solo 1": "2",
+        "Atk/Spd Solo 2": "3",
+        "Atk/Spd Solo 3": "4",
+        "Atk/Spd Waylay": "5"
+      },
+      "B": {
+        "Disarm Trap 1": "2",
+        "Disarm Trap 2": "3",
+        "Disarm Trap 3": "4",
+        "Disarm Rumor": "5"
+      },
+      "C": {
+        "Lookout 1": "2",
+        "Lookout 2": "3",
+        "Lookout 3": "4",
+        "Lookout Smog": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Sothe_In_the_Breeze_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2c/Sothe_In_the_Breeze_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Sothe_In_the_Breeze_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Sothe_In_the_Breeze_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "In the Breeze",
+      "Sothe: In the Breeze",
+      "Spring Sothe",
+      "S Sothe",
+      "Easter Sothe",
+      "Spring Rearmed Sothe",
+      "S Rearmed Sothe",
+      "Easter Rearmed Sothe",
+      "Rearmed Spring Sothe",
+      "Rearmed S Sothe",
+      "Rearmed Easter Sothe",
+      "Spring Rearm Sothe",
+      "S Rearm Sothe",
+      "Easter Rearm Sothe",
+      "Rearm Spring Sothe",
+      "Rearm S Sothe",
+      "Rearm Easter Sothe",
+      "Spring R Sothe",
+      "S R Sothe",
+      "Easter R Sothe",
+      "R Spring Sothe",
+      "R S Sothe",
+      "R Easter Sothe",
+      "Spring Arm Sothe",
+      "S Arm Sothe",
+      "Easter Arm Sothe",
+      "Arm Spring Sothe",
+      "Arm S Sothe",
+      "Arm Easter Sothe",
+      "sothe4"
+    ],
+    "HARD_ALT_NAME": [
+      "In the Breeze",
+      "Sothe: In the Breeze",
+      "Spring Sothe",
+      "S Sothe",
+      "Easter Sothe",
+      "Spring Rearmed Sothe",
+      "S Rearmed Sothe",
+      "Easter Rearmed Sothe",
+      "Rearmed Spring Sothe",
+      "Rearmed S Sothe",
+      "Rearmed Easter Sothe",
+      "Spring Rearm Sothe",
+      "S Rearm Sothe",
+      "Easter Rearm Sothe",
+      "Rearm Spring Sothe",
+      "Rearm S Sothe",
+      "Rearm Easter Sothe",
+      "Spring R Sothe",
+      "S R Sothe",
+      "Easter R Sothe",
+      "R Spring Sothe",
+      "R S Sothe",
+      "R Easter Sothe",
+      "Spring Arm Sothe",
+      "S Arm Sothe",
+      "Easter Arm Sothe",
+      "Arm Spring Sothe",
+      "Arm S Sothe",
+      "Arm Easter Sothe",
+      "sothe4"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u9b54\u5668\u6625\u796d\u30b5\u30b6",
+    "voice": "Nicolas Roye",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "tellius"
+    ],
+    "chibi": [
+      "fe10"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "What could be inside this egg? Oh! Did it just move, or was that my imagination?",
+        "This festival really conveys the joy of spring. It'd be great if everyone in the Dawn Brigade could join next time.",
+        "Are these ears really necessary? I suppose if it's customary at this festival, I'll go along with it...",
+        "Just getting to see the joy on Micaiah's face is worth participating in this festival.",
+        "I've never worn such glamorous attire before... Thieves are supposed to blend in, after all."
+      ],
+      "Visit": [
+        "I'm Sothe. The reason I'm dressed this way is because of the festival at [F]'s castle."
+      ],
+      "Level": [
+        "Spring is here! You should relax and enjoy it too.",
+        "Spring arrives for everyone the same, for me and for you.",
+        "I know it's a festival, I just can't help but look serious."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Sothe, of the Dawn Brigade. Micaiah invited me. Allow me to help out with the spring festival."
+      ],
+      "Learn Skill": [
+        "For me? Understood. I'll use it to liven up the festival in my own way."
+      ],
+      "Confession": [
+        "For as long as I can remember, there have been bouts of strife all over Tellius.\nI've never been in a position to enjoy spring. Even after meeting Micaiah, all I could think about was surviving.\nBut when I came here to Askr, I learned—no, I remembered the joy of spring.\nIt all begins with the spring festival. It's important we protect this tradition and continue to pass it on.\nIt gives us an opportunity to step back and take a fresh look at what we're fighting for...\nLet's fight to keep this festival alive another year, and every year after. And one day, I'll bring peace to Askr."
+      ],
+      "Special": [
+        "Can you keep up?",
+        "Move aside!",
+        "Feel that spring breeze?",
+        "Let's celebrate!"
+      ],
+      "Status": [
+        "-",
+        "Come to think of it, I've never seen a rabbit laguz...",
+        "*surprised react* I know... It doesn't suit me, does it?",
+        "This outfit attracts a little too much attention.",
+        "You should be careful at celebrations. It's easy to get carried away and let your guard down.",
+        "This game has me searching for hidden eggs. Now this, I can excel at.",
+        "I wonder if Micaiah would be happy to find a festival like this in Daein.",
+        "It's not a good idea for you to head to the festival alone... Not to worry, I'll go with you."
+      ],
+      "Map Select": [
+        "Yes.",
+        "You sure about this?",
+        "I'll hop to it."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Spring Rearmed Sothe",
+    "SEARCH_NAME": "Spring Rearmed Sothe",
+    "DISPLAY_NAME": "<:Colorless_Dagger:1317239418943438869>Spring Rearmed Sothe",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "sothe",
+      "sothe2",
+      "sothe3"
+    ],
+    "prf": {
+      "": "arcaneslicer",
+      "eff": "arcaneslicer",
+      "atk": "arcaneslicer",
+      "spd": "arcaneslicer",
+      "def": "arcaneslicer",
+      "res": "arcaneslicer"
+    }
+  },
+  "thorr3": {
+    "name": "Th\u00f3rr",
+    "title": "Spring War God",
+    "description": "Known as the war god in service of Alfa\u00f0\u00f6r, the creator. Learns the source of mortal strength at the spring festival.",
+    "origin": "Heroes",
+    "artist": "Hitowa (\u3072\u3068\u548c)",
+    "move": "Flying",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1354",
+    "type": false,
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 23,
+      "atk": 10,
+      "spd": 3,
+      "def": 10,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 30,
+      "def": 90,
+      "res": 70
+    },
+    "superboon": [
+      "atk",
+      "def",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Spring Thorn": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Blue Skies 1": "2",
+        "Blue Skies 2": "3",
+        "Blue Skies 3": "4",
+        "Divine Specter": "5"
+      },
+      "B": {
+        "Flier Formation 1": "2",
+        "Flier Formation 2": "3",
+        "Flier Formation 3": "4",
+        "Heavenly Soar": "5"
+      },
+      "C": {
+        "World Destroyer": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Thorr_Spring_War_God_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Thorr_Spring_War_God_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Thorr_Spring_War_God_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Thorr_Spring_War_God_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Spring War God",
+      "Th\u00f3rr: Spring War God",
+      "Spring Th\u00f3rr",
+      "Sp Th\u00f3rr",
+      "Easter Th\u00f3rr",
+      "th\u00f3rr3",
+      "Thorr: Spring War God",
+      "Spring Thorr",
+      "Sp Thorr",
+      "Easter Thorr",
+      "thorr3"
+    ],
+    "HARD_ALT_NAME": [
+      "Spring War God",
+      "Th\u00f3rr: Spring War God",
+      "Spring Th\u00f3rr",
+      "Sp Th\u00f3rr",
+      "Easter Th\u00f3rr",
+      "th\u00f3rr3",
+      "Thorr: Spring War God",
+      "Spring Thorr",
+      "Sp Thorr",
+      "Easter Thorr",
+      "thorr3"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6625\u796d\u30c8\u30fc\u30eb",
+    "voice": "Laila Berzins",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "This festival for humans is quite... vibrant. Is this vitality the secret to mortal strength?",
+        "We gods do not have the pleasure of celebrating festivals. We live only to fulfill each day's mission.",
+        "Searching for hidden eggs? Well then, I shall take up this challenge.",
+        "You intend me to hop at this spring festival? Hmph. Is there something important I am missing here?",
+        "A god of war would never pick such an outfit... Loki, on the other hand, would be delighted."
+      ],
+      "Visit": [
+        "I am Th\u00f3rr, the god of war. I am obliged to lend a hand at the spring festival at [F]'s."
+      ],
+      "Level": [
+        "It appears I've won. I'll pronounce it loudly. Spring has arrived!",
+        "Do you plan on taking eggs from me? Go on then, try with all your might.",
+        "You wish me to smile more? That is a rather presumptuous order, wouldn't you say?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Th\u00f3rr, the god of war. I shall use my power to bring smiles to people's faces at this festival."
+      ],
+      "Learn Skill": [
+        "The coming of a new season brings hope, a source of mortals' power... How very interesting."
+      ],
+      "Confession": [
+        "When I see the way you fight, it makes me wonder where mortal strength comes from...\nYou are unlike the gods who possess great power. And your time is limited.\nYet you throw yourselves into the fray time and again, sometimes even standing up against the gods.\nIt is here at the festival that I have noticed the joy on people's faces. Their eyes are full of hope.\nPerhaps mortals exert inexplicable powers to protect this hope.\nI feel as though I have glimpsed the source of your power at this festival. Thank you, [S]..."
+      ],
+      "Special": [
+        "Spring has arrived.",
+        "Misread the bunny?",
+        "I'll leap over you!",
+        "Eyes forward!"
+      ],
+      "Status": [
+        "-",
+        "Rabbits are alert, cautious creatures. It is best not to approach one unprepared.",
+        "*surprised react* We are in the midst of a festival. Such behavior is dangerous.",
+        "This outfit matches Loki's? Hmph. I do not take kindly to being compared to her.",
+        "I require no leisure, however, traditional celebrations are another matter.",
+        "For now, I shall see them through to their destination.",
+        "It seems the cheer of spring has won some over...",
+        "Are you enjoying yourself? Rest now while you can, and gather your strength..."
+      ],
+      "Map Select": [
+        "Of course.",
+        "You wish me to...hop?",
+        "As you say."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Spring Th\u00f3rr",
+    "SEARCH_NAME": "Spring Th\u00ferr",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Spring Th\u00f3rr",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "thorr",
+      "thorr2"
+    ],
+    "prf": {
+      "": "springthorn",
+      "eff": "springthorn",
+      "atk": "springthorn",
+      "spd": "springthorn",
+      "def": "springthorn",
+      "res": "springthorn"
+    }
+  },
+  "dorothea5": {
+    "name": "Dorothea",
+    "title": "Rosy Songstress",
+    "description": "A student of the Black Eagles. Utilizing her experience as a songstress, she enlivens the spring festival with glamor. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Yoshiro Ambe (\u3042\u3093\u3079\u3088\u3057\u308d\u3046)",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": false,
+    "id": "1355",
+    "type": false,
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 11,
+      "spd": 8,
+      "def": 5,
+      "res": 9
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 85,
+      "spd": 50,
+      "def": 35,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Spring Hare Egg": "3",
+      "Spring Hare Egg+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Resonance 1": "2",
+        "Resonance 2": "3",
+        "Resonance 3": "4",
+        "A/R Far Resound": "5"
+      },
+      "C": {
+        "Shadow Shift 1": "1",
+        "Shadow Shift 2": "2",
+        "Shadow Shift 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Dorothea_Rosy_Songstress_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Dorothea_Rosy_Songstress_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Dorothea_Rosy_Songstress_BtlFace_C.webp/revision/latest/",
+      "attack": " https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Dorothea_Rosy_Songstress_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Rosy Songstress",
+      "Dorothea: Rosy Songstress",
+      "Spring Dorothea",
+      "Sp Dorothea",
+      "Easter Dorothea",
+      "dorothea4"
+    ],
+    "HARD_ALT_NAME": [
+      "Rosy Songstress",
+      "Dorothea: Rosy Songstress",
+      "Spring Dorothea",
+      "Sp Dorothea",
+      "Easter Dorothea",
+      "dorothea4"
+    ],
+    "gender": "F",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6625\u796d\u30c9\u30ed\u30c6\u30a2",
+    "voice": "Allegra Clark",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Seeing everyone work together for this festival reminds me of building the stage with the Mittelfrank Opera.",
+        "I've always fought just to keep my head above water. I had no time for festivals... Funny how life turns out.",
+        "I love festivals. Whether you're a noble or a commoner, you can smile and have a good time.",
+        "I've never played the role of a rabbit before... I wonder if I can pull it off.",
+        "It's been a while since I've worn such clothing... It is glamorous enough to be used as a stage costume."
+      ],
+      "Visit": [
+        "Let's celebrate this season together, shall we? There's a festival underway at [F]'s castle."
+      ],
+      "Level": [
+        "Spring is here! It looks as though it could be quite an unforgettable show.",
+        "A new season naturally puts a new spring in my step!",
+        "Ahem! My voice is a bit strained today. Perhaps it's something in my throat..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Dorothea Arnault. You must have excellent taste to have set my stage for the spring festival."
+      ],
+      "Learn Skill": [
+        "Oh, for me? I will sing you a song in return!"
+      ],
+      "Confession": [
+        "How did you like my performance? Personally, I give myself full marks.\nHowever, it was more than just me that made the show a success. It was thanks to all who supported me.\nEveryone singing and laughing together, rejoicing in the coming of spring... How wonderful.\nLooking back on my life, it hasn't been all fun. Truth be told, there have been many hard times...\nBut spring will come again next year! Knowing that, I can keep my head up and face anything ahead of me.\nNow, keeping up this momentum, it is time for spring to visit me in the form of a wealthy suitor!"
+      ],
+      "Special": [
+        "Having fun?",
+        "Song of spring!",
+        "Spring is here!",
+        "No biggie!"
+      ],
+      "Status": [
+        "-",
+        "I wish it were always this peaceful.",
+        "Oh? You like my ears?",
+        "I have a feeling the Heroes will grow much closer to one another during this pleasant spring weather.",
+        "This festival is no ball, but I'm sure there will be many opportunities for chance encounters here too.",
+        "If you can balance beauty and cuteness just right, then... *giggle*",
+        "I wonder if Edie will wear a festival outfit too...",
+        "What do you say we enjoy the festival together, just the two of us?"
+      ],
+      "Map Select": [
+        "All right.",
+        "Hippity-hopping to it!",
+        "Let's have fun."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Spring Dorothea",
+    "SEARCH_NAME": "Spring Dorothea",
+    "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Spring Dorothea",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [],
+    "prf": {
+      "": "springhareegg",
+      "eff": "springhareegg",
+      "atk": "springhareegg",
+      "spd": "springhareegg",
+      "def": "springhareegg",
+      "res": "springhareegg"
     }
   }
 }

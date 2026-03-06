@@ -248,6 +248,7 @@
                 "Preempt Amplify"
             ],
             "C": [
+                "Atk/Spd Liberate",
                 "Atk/Res Liberate"
             ],
             "X": [],
@@ -379,7 +380,8 @@
                 "Red_Tome": [
                     "Bouncin' Ball",
                     "Child's Compass",
-                    "Rau\u00f0rcrab+"
+                    "Rau\u00f0rcrab+",
+                    "Spring Dawning"
                 ],
                 "Blue_Tome": [
                     "Bright-Shell Egg",
@@ -464,7 +466,8 @@
                 "Fair Fight",
                 "Fallen Star II",
                 "Haunting Choker",
-                "Pure Atrocity"
+                "Pure Atrocity",
+                "Stellar Brace"
             ],
             "C": [
                 "Atk/Res Liberate",
@@ -1292,7 +1295,9 @@
             "assist": [],
             "special": [],
             "A": [],
-            "B": [],
+            "B": [
+                "Stellar Brace"
+            ],
             "C": [
                 "Budding Flower",
                 "Fell Refuge",
@@ -1353,6 +1358,7 @@
             ],
             "A": [
                 "Blue-Sky Gust",
+                "Divine Specter",
                 "Swift Specter",
                 "Heaven's Stead N",
                 "Lady Knight"
@@ -1841,6 +1847,7 @@
             "Bow": [],
             "Dagger": [
                 "Abyssal Blade",
+                "Arcane Slicer",
                 "Arcane Sly Knife",
                 "Arcane Tempest",
                 "Arcane Void",
@@ -2189,6 +2196,7 @@
                 "Def/Res Discord",
                 "Atk/Spd Ruse 4",
                 "Spd/Def Ruse 4",
+                "Disarm Rumor",
                 "An Open Book",
                 "Holy Soul of Zofia",
                 "Ruler of Nihility",
@@ -2648,6 +2656,7 @@
             "Staff": [],
             "Bow": [],
             "Dagger": [
+                "Arcane Slicer",
                 "Jehanna Dagger+"
             ],
             "Tome": {
@@ -2901,7 +2910,9 @@
             "Bow": [],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Spring Dawning"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [
                     "Sei\u00f0r"
@@ -3824,7 +3835,8 @@
                 "Armored Ice Cap",
                 "Ascendant King",
                 "Invincible Sister",
-                "Makings of a King"
+                "Makings of a King",
+                "True Bane"
             ],
             "A": [
                 "Self-Mastery"
@@ -4584,7 +4596,9 @@
                 "Blue_Tome": [
                     "Summer Chilling"
                 ],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Spring Hare Egg+"
+                ],
                 "Colorless_Tome": []
             },
             "Breath": [
@@ -4781,7 +4795,9 @@
             "assist": [],
             "special": [],
             "A": [],
-            "B": [],
+            "B": [
+                "Stellar Brace"
+            ],
             "C": [
                 "Fatal Smoke 4"
             ],
@@ -5124,7 +5140,8 @@
                 "According to Plan",
                 "I Remember...",
                 "Mounting Fear",
-                "Prescience II"
+                "Prescience II",
+                "Stellar Brace"
             ],
             "C": [
                 "Beast Threaten",
@@ -5301,7 +5318,8 @@
                     "Banshee \u0398",
                     "Bouncin' Ball",
                     "Grimleal Text",
-                    "Retainer's Report"
+                    "Retainer's Report",
+                    "Spring Dawning"
                 ],
                 "Blue_Tome": [
                     "Bright-Shell Egg",
@@ -5631,7 +5649,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "True Bane"
+            ],
             "A": [
                 "Peerless Beauty",
                 "Prof's Guidance",
@@ -5675,7 +5695,9 @@
                     "Enclosing Dark"
                 ],
                 "Blue_Tome": [],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Spring Hare Egg+"
+                ],
                 "Colorless_Tome": [
                     "Scrolls of Time"
                 ]
@@ -5721,6 +5743,33 @@
             "S": [],
             "captain": []
         },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
+    "pulsefollow": {
+        "name": "Pulse Follow",
+        "description": "Grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.",
+        "color": "Red",
+        "icon": "pulsefollow",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [
+                "Arcane Slicer"
+            ],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -6051,6 +6100,7 @@
             "celica8": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Harmonic Brave Celica",
             "chloe2":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Chlo\u00e9",
             "cordelia4": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Winter Cordelia",
+            "eirika10": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Eirika",
             "fir4": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Ferox Fir",
             "hilda6": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda",
             "igrene3":"<:feh_harmonized:1317239586929377371><:Blue_Bow:1317239347577356328>Nabata Igrene",
@@ -6298,7 +6348,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "eirika10": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Eirika"
+        },
         "HARD_ALT_NAME": []
     },
     "salvage": {
@@ -6522,6 +6574,7 @@
             "captain": []
         },
         "reference_hero": {
+            "eirika10": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Spring Eirika",
             "hilda6": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda"
         },
         "HARD_ALT_NAME": []
@@ -6620,7 +6673,9 @@
                 "Dragoon Pillar"
             ],
             "B": [],
-            "C": [],
+            "C": [
+                "Atk/Spd Liberate"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -6874,7 +6929,8 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
-                    "Dark Faith"
+                    "Dark Faith",
+                    "Spring Dawning"
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
