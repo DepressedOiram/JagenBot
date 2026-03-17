@@ -12479,7 +12479,13 @@
       "ryoma5",
       "Lobster: Warrior of Bonds",
       "Attuned Lobster",
-      "White Lobster"
+      "White Lobster",
+      "Knight of Pherae",
+      "Marcus: Knight of Pherae",
+      "Base Marcus",
+      "Normal Marcus",
+      "Regular Marcus",
+      "marcus"
     ],
     "HARD_ALT_NAME": [
       "ryoma",
@@ -12842,7 +12848,13 @@
       "ryoma5",
       "Lobster: Warrior of Bonds",
       "Attuned Lobster",
-      "White Lobster"
+      "White Lobster",
+      "Knight of Pherae",
+      "Marcus: Knight of Pherae",
+      "Base Marcus",
+      "Normal Marcus",
+      "Regular Marcus",
+      "marcus"
     ],
     "heroes": {
       "aelfric": "<:Red_Tome:1317239730714316800>Aelfric",
@@ -12868,6 +12880,7 @@
       "karla": "<:Red_Sword:1317239717707911188>Karla",
       "karla2": "<:Blue_Lance:1317239378208096338>Hatarian Karla",
       "lloyd2": "<:Red_Sword:1317239717707911188>Fallen Lloyd",
+      "marcus": "<:Red_Sword:1317239717707911188>Marcus",
       "marth6": "<:Red_Sword:1317239717707911188>Brave Marth",
       "micaiah3": "<:Green_Tome:1317239575352971396>Brave Micaiah",
       "muarim": "<:Blue_Beast:1317239339452731402>Fallen Muarim",
@@ -14785,10 +14798,10 @@
       "Green Lance",
       "Base Sain",
       "Normal Sain",
-      "Resplendent Chrom",
-      "Resp Chrom",
-      "R Chrom",
-      "Chrom (Resplendent)",
+      "Resplendent Horse Chrom",
+      "Resp Horse Chrom",
+      "R Horse Chrom",
+      "Horse Chrom (Resplendent)",
       "Alm: Powerful Resolve",
       "Powerful Resolve",
       "Attuned Alm",
@@ -14799,7 +14812,13 @@
       "Normal Gromell",
       "Base Gromell",
       "Regular Gromell",
-      "gromell"
+      "gromell",
+      "Crag of Caelin",
+      "Wallace: Crag of Caelin",
+      "Base Wallace",
+      "Normal Wallace",
+      "Regular Wallace",
+      "wallace"
     ],
     "HARD_ALT_NAME": [
       "luthier",
@@ -14828,10 +14847,10 @@
       "Green Lance",
       "Base Sain",
       "Normal Sain",
-      "Resplendent Chrom",
-      "Resp Chrom",
-      "R Chrom",
-      "Chrom (Resplendent)",
+      "Resplendent Horse Chrom",
+      "Resp Horse Chrom",
+      "R Horse Chrom",
+      "Horse Chrom (Resplendent)",
       "Alm: Powerful Resolve",
       "Powerful Resolve",
       "Attuned Alm",
@@ -14842,7 +14861,13 @@
       "Normal Gromell",
       "Base Gromell",
       "Regular Gromell",
-      "gromell"
+      "gromell",
+      "Crag of Caelin",
+      "Wallace: Crag of Caelin",
+      "Base Wallace",
+      "Normal Wallace",
+      "Regular Wallace",
+      "wallace"
     ],
     "heroes": {
       "alm5": "<:Colorless_Bow:1317239404204654703>Attuned Alm",
@@ -14850,7 +14875,8 @@
       "gromell": "<:Green_Axe:1317239517136031897>Gromell",
       "luthier": "<:Green_Tome:1317239575352971396>Luthier",
       "priam": "<:Red_Sword:1317239717707911188>Priam",
-      "sain": "<:Blue_Lance:1317239378208096338>Sain"
+      "sain": "<:Blue_Lance:1317239378208096338>Sain",
+      "wallace": "<:Blue_Lance:1317239378208096338>Wallace"
     },
     "name": "maCo"
   },
@@ -19359,7 +19385,13 @@
       "Brave Eiki",
       "CYL Eiki",
       "B Eiki",
-      "eiki4"
+      "eiki4",
+      "Apprentice Knight",
+      "Lowen: Apprentice Knight",
+      "Base Lowen",
+      "Normal Lowen",
+      "Regular Lowen",
+      "lowen"
     ],
     "HARD_ALT_NAME": [
       "Renning",
@@ -19518,7 +19550,13 @@
       "Brave Eiki",
       "CYL Eiki",
       "B Eiki",
-      "eiki4"
+      "eiki4",
+      "Apprentice Knight",
+      "Lowen: Apprentice Knight",
+      "Base Lowen",
+      "Normal Lowen",
+      "Regular Lowen",
+      "lowen"
     ],
     "heroes": {
       "almR": "<:Red_Sword:1317239717707911188>Alm (Resplendent)",
@@ -19533,6 +19571,7 @@
       "ephraim3R": "<:Green_Axe:1317239517136031897>Brave Ephraim (Resplendent)",
       "ingrid": "<:Blue_Lance:1317239378208096338>Ingrid",
       "jeralt": "<:Blue_Lance:1317239378208096338>Jeralt",
+      "lowen": "<:Blue_Lance:1317239378208096338>Lowen",
       "niime": "<:Colorless_Tome:1317239438602145842>Niime",
       "seiros": "<:Blue_Breath:1317239355835813939>Seiros",
       "mshez2": "<:Blue_Lance:1317239378208096338>Summer Male Shez"
@@ -20647,7 +20686,11 @@
       "Base Lorenz",
       "Normal Lorenz",
       "Regular Lorenz",
-      "lorenz"
+      "lorenz",
+      "Resplendent Marisa",
+      "Resp Marisa",
+      "R Marisa",
+      "Marisa (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "ryouma4",
@@ -21060,7 +21103,11 @@
       "Base Lorenz",
       "Normal Lorenz",
       "Regular Lorenz",
-      "lorenz"
+      "lorenz",
+      "Resplendent Marisa",
+      "Resp Marisa",
+      "R Marisa",
+      "Marisa (Resplendent)"
     ],
     "heroes": {
       "ares": "<:Red_Sword:1317239717707911188>Ares",
@@ -21088,6 +21135,7 @@
       "lorenz": "<:Blue_Tome:1317239386491977749>Lorenz",
       "lorenz2": "<:Red_Tome:1317239730714316800>Summer Lorenz",
       "lucina8": "<:Colorless_Bow:1317239404204654703>Ninja Lucina",
+      "marisaR": "<:Red_Sword:1317239717707911188>Marisa (Resplendent)",
       "nailah": "<:Blue_Beast:1317239339452731402>Nailah",
       "nailah2": "<:Green_Beast:1317239527953141870>Bridal Nailah",
       "ryoma4": "<:Blue_Lance:1317239378208096338>Bath Ryoma",
@@ -26692,7 +26740,16 @@
       "Sworn to Country",
       "Leif: Sworn to Country",
       "Attuned Leif",
-      "leif4"
+      "leif4",
+      "Noble Ablaze",
+      "Eliwood: Noble Ablaze",
+      "Attuned Eliwood",
+      "A Eliwood",
+      "eliwood6",
+      "Eliwod: Noble Ablaze",
+      "Attuned Eliwod",
+      "A Eliwod",
+      "eliwod6"
     ],
     "HARD_ALT_NAME": [
       "Valentine Lin",
@@ -27153,7 +27210,16 @@
       "Sworn to Country",
       "Leif: Sworn to Country",
       "Attuned Leif",
-      "leif4"
+      "leif4",
+      "Noble Ablaze",
+      "Eliwood: Noble Ablaze",
+      "Attuned Eliwood",
+      "A Eliwood",
+      "eliwood6",
+      "Eliwod: Noble Ablaze",
+      "Attuned Eliwod",
+      "A Eliwod",
+      "eliwod6"
     ],
     "heroes": {
       "asbel": "<:Green_Tome:1317239575352971396>Asbel",
@@ -27166,6 +27232,7 @@
       "elice": "<:Colorless_Staff:1317239426866483261>Elice",
       "eliwood3": "<:Red_Sword:1317239717707911188>Legendary Eliwood",
       "eliwood4": "<:Blue_Lance:1317239378208096338>Brave Eliwood",
+      "eliwood6": "<:Green_Axe:1317239517136031897>Attuned Eliwood",
       "ephraim3": "<:Green_Axe:1317239517136031897>Brave Ephraim",
       "frederick3": "<:Green_Axe:1317239517136031897>Young Frederick",
       "hector3": "<:Green_Axe:1317239517136031897>Legendary Hector",
@@ -30798,7 +30865,8 @@
   "siino": {
     "heroes": {
       "eitr2": "<:Colorless_Beast:1317239395534901248>Spring Eitr",
-      "ingrid4": "<:Green_Axe:1317239517136031897>Maid Ingrid"
+      "ingrid4": "<:Green_Axe:1317239517136031897>Maid Ingrid",
+      "ninian5": "<:Colorless_Breath:1317239411980767363>Entwined Ninian"
     },
     "name": "Siino",
     "ALT_NAME": [
@@ -30816,7 +30884,13 @@
       "Harmonic Ingrid",
       "Harmonized Ingrid",
       "Duo Ingrid",
-      "ingrid4"
+      "ingrid4",
+      "Heartfelt Dancer",
+      "Ninian: Heartfelt Dancer",
+      "Entwined Ninian",
+      "E Ninian",
+      "En Ninian",
+      "ninian5"
     ]
   },
   "hagiwararin": {

@@ -22035,7 +22035,8 @@
     "reference": [
       "ninian2",
       "ninian3",
-      "ninian4"
+      "ninian4",
+      "ninian5"
     ],
     "prf": {
       "": "lightbreathspd",
@@ -39945,15 +39946,20 @@
     "pool": "grail",
     "internal_id": "\u30de\u30ea\u30ab",
     "voice": "Connor Kelley",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "PenekoR (\u043f\u732b\uff32)",
+    "resplendent_voice": "Connor Kelley",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Marisa_Crimson_Flash_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Marisa_Crimson_Flash_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Marisa_Crimson_Flash_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Marisa_Crimson_Flash_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8e/Marisa_Crimson_Flash_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/27/Marisa_Crimson_Flash_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Marisa_Crimson_Flash_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Marisa_Crimson_Flash_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "magvel"
     ],
@@ -40009,7 +40015,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "To cinders.",
+          "Incinerate.",
+          "You look flammable.",
+          "Trying to run?"
+        ],
+        "Status": [
+          "-",
+          "Are you playing a joke on me, having me wear this?",
+          "Step back, please.",
+          "In M\u00faspell, strength is everything. Same for me.",
+          "I've spent enough time in the desert that heat doesn't bother me.",
+          "It's better to wear garb that doesn't weigh you down, but...this is pretty nice.",
+          "Maybe one day I'll finally experience the smoldering\u2014oh, um, forget this ever happened...",
+          "If you watch my back, I'll watch yours."
+        ],
+        "Map Select": [
+          "Not bad. Not good either.",
+          "What do you want burned?",
+          "I'm off."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Marisa",
     "SEARCH_NAME": "Marisa",
@@ -47773,7 +47810,8 @@
     "reference": [
       "ninian",
       "ninian3",
-      "ninian4"
+      "ninian4",
+      "ninian5"
     ],
     "prf": {
       "": "freshbouquetspd",
@@ -98454,7 +98492,8 @@
     "reference": [
       "dorothea3",
       "dorothea4",
-      "dorothea"
+      "dorothea",
+      "dorothea5"
     ],
     "prf": {
       "": "hiddenthornsspd",
@@ -112367,7 +112406,8 @@
     "reference": [
       "dorothea2",
       "dorothea4",
-      "dorothea"
+      "dorothea",
+      "dorothea5"
     ],
     "prf": {
       "": "fellcandelabra",
@@ -145617,7 +145657,8 @@
     "reference": [
       "ninian",
       "ninian2",
-      "ninian4"
+      "ninian4",
+      "ninian5"
     ],
     "prf": {
       "": "envelopingbreath",
@@ -155317,7 +155358,8 @@
     "reference": [
       "ninian",
       "ninian2",
-      "ninian3"
+      "ninian3",
+      "ninian5"
     ],
     "prf": {
       "": "faithfulbreath",
@@ -161224,7 +161266,8 @@
     "reference": [
       "dorothea2",
       "dorothea3",
-      "dorothea"
+      "dorothea",
+      "dorothea5"
     ],
     "prf": {
       "": "sevenfoldgifts",
@@ -209152,7 +209195,8 @@
     "reference": [
       "dorothea2",
       "dorothea3",
-      "dorothea4"
+      "dorothea4",
+      "dorothea5"
     ],
     "prf": {
       "": "blarvulture",
@@ -233348,8 +233392,7 @@
       "ryoma",
       "ryoma2",
       "ryoma3",
-      "ryoma4",
-      "ryoma5"
+      "ryoma4"
     ],
     "prf": {
       "": "hoshidoraijinto",
@@ -245553,7 +245596,12 @@
     "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Spring Dorothea",
     "RANDOM_IGNORE": true,
     "alt": true,
-    "reference": [],
+    "reference": [
+      "dorothea",
+      "dorothea2",
+      "dorothea3",
+      "dorothea4"
+    ],
     "prf": {
       "": "springhareegg",
       "eff": "springhareegg",
@@ -245561,6 +245609,875 @@
       "spd": "springhareegg",
       "def": "springhareegg",
       "res": "springhareegg"
+    }
+  },
+  "eliwood6": {
+    "name": "Eliwood",
+    "title": "Noble Ablaze",
+    "description": "An earnest noble of Pherae with a strong sense of justice. Departs on a journey in search of his missing father, Elbert, Marquess Pherae. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "Wada Sachiko (\u30ef\u30c0\u30b5\u30c1\u30b3)",
+    "move": "Cavalry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1356",
+    "type": "attuned",
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 9,
+      "def": 13,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 65,
+      "res": 35
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Comrade's Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Gathered Flames": "5"
+    },
+    "passive": {
+      "A": {
+        "Blue Skies 1": "2",
+        "Blue Skies 2": "3",
+        "Blue Skies 3": "4",
+        "Blue-Sky Gust": "5"
+      },
+      "B": {
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Impetus Guard": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Outcry Seize": "5"
+      },
+      "X": {
+        "Momentum Echo": "5"
+      }
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Eliwood_Noble_Ablaze_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Eliwood_Noble_Ablaze_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Eliwood_Noble_Ablaze_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Eliwood_Noble_Ablaze_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Noble Ablaze",
+      "Eliwood: Noble Ablaze",
+      "Attuned Eliwood",
+      "A Eliwood",
+      "eliwood6",
+      "Eliwod: Noble Ablaze",
+      "Attuned Eliwod",
+      "A Eliwod",
+      "eliwod6"
+    ],
+    "HARD_ALT_NAME": [
+      "Noble Ablaze",
+      "Eliwood: Noble Ablaze",
+      "Attuned Eliwood",
+      "A Eliwood",
+      "eliwood6",
+      "Eliwod: Noble Ablaze",
+      "Attuned Eliwod",
+      "A Eliwod",
+      "eliwod6" 
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u97ff\u5fc3\u30a8\u30ea\u30a6\u30c3\u30c9",
+    "voice": "Yuri Lowenthal",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I am worried Hector may be doing something reckless... At this rate, I could be his chaperone.",
+        "I cannot believe there was a plot to instigate a revolution...\nI shall track down the Black Fang and the mysterious man Ephidel...and prove my father's innocence!",
+        "By cornering Marquess Laus, I caused suffering to Lord Hausen and to Lyndis... Can I put a stop to this?",
+        "Thanks to you, we are able to fight with peace of mind.",
+        "It is reassuring to know that Hector and I both have experienced knights at our sides. I, Marcus, and he, Oswin."
+      ],
+      "Visit": [
+        "I've heard about you. I wish for you to keep having a good relationship with [F]."
+      ],
+      "Level": [
+        "If Hector's dream comes true... If our children wed each other, then I'll be a bearded man's relative. Hahaha...",
+        "I do wish we could get by without the need for battles...for the sake of the ones who lost family or homes in war.",
+        "I think I was reasonably sturdy. Though, if you compare me to Hector... Well, it's better you don't."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "My name is Eliwood. I will strive to conduct myself in a manner suitable of a noble of Pherae."
+      ],
+      "Learn Skill": [
+        "I see you have high expectations of me. I will continue to endeavor to meet them."
+      ],
+      "Confession": [
+        "What was it\u2014about ten years ago, I think... When the lords of Lycia held the oath rites, back in Ostia.\nSimply put, it was a place to confirm our determination to fight together should one land of Lycia be attacked.\nWe children were gathered in another room when one of us stood and said, \"We'll swear an oath of our own!\"\nHe said to cut our palms and press our hands together as an oath to one another. We thought it was a joke.\nBut when I looked into his eyes, I saw that he was earnest. So I did it... I look back on that moment with pride.\nThat's when Hector and I swore to protect each other with our lives.\nI feel you and I can build a friendship much like mine and Hector's. I hope you agree, [S]."
+      ],
+      "Special": [
+        "I'll never retreat!",
+        "In his name.",
+        "Coming through!",
+        "Have at you!"
+      ],
+      "Status": [
+        "-",
+        "This weapon resembles Hector's. You think I am capable of wielding it?",
+        "Whoa, I apologize. This armor is heavier than my usual. Are you all right?",
+        "Hector and I are friends who share the same goals in life.",
+        "Hector may say some brash things, but they come from a place of sincerity.",
+        "When one of us is in danger, the other will put his life on the line to protect him. That is what we promised each other.",
+        "I can't imagine Hector in danger. But no matter what happens, I shall be there to aid him.",
+        "You have my gratitude, friend. And I swear to protect you, even if I have to risk my life to do so."
+      ],
+      "Map Select": [
+        "Understood.",
+        "Consider it done.",
+        "To the front lines."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Attuned Eliwood",
+    "SEARCH_NAME": "Attuned Eliwood",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Attuned Eliwood",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "eliwood",
+      "eliwood2",
+      "eliwood3",
+      "eliwood4",
+      "eliwood5"
+    ],
+    "prf": {
+      "": "comradesaxe",
+      "eff": "comradesaxe",
+      "atk": "comradesaxe",
+      "spd": "comradesaxe",
+      "def": "comradesaxe",
+      "res": "comradesaxe"
+    }
+  },
+  "ninian5": {
+    "name": "Ninian",
+    "title": "Heartfelt Dancer",
+    "description": "A young girl who dreams of a day when humans and dragons understand one another. Her dance, blessed by the spirit of Ninis, obstructs evil. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "Siino",
+    "move": "Cavalry",
+    "weapon": "Breath",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1357",
+    "type": "entwined",
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 9,
+      "def": 4,
+      "res": 4
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 90,
+      "def": 45,
+      "res": 50
+    },
+    "superboon": [
+      "spd",
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Fire Breath": "1",
+      "Fire Breath+": "2",
+      "Flametongue": "3",
+      "Bound by Ice": "5"
+    },
+    "assist": {
+      "Dance": "3",
+      "Dragon's Twirl": "5"
+    },
+    "special": {
+      "Rising Wind": "3",
+      "Blazing Wind": "4"
+    },
+    "passive": {
+      "A": {
+        "Darting Blow 1": "2",
+        "Swift Sparrow 1": "3",
+        "Swift Sparrow 2": "4",
+        "Sly Swift Sparrow": "5"
+      },
+      "B": {
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Impetus Guard": "5"
+      },
+      "C": {
+        "Shadow Shift 1": "2",
+        "Shadow Shift 2": "3",
+        "Shadow Shift 3": "4",
+        "Shadow Shift 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Ninian_Heartfelt_Dancer_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Ninian_Heartfelt_Dancer_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Ninian_Heartfelt_Dancer_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Ninian_Heartfelt_Dancer_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Heartfelt Dancer",
+      "Ninian: Heartfelt Dancer",
+      "Entwined Ninian",
+      "E Ninian",
+      "En Ninian",
+      "ninian5"
+    ],
+    "HARD_ALT_NAME": [
+      "Heartfelt Dancer",
+      "Ninian: Heartfelt Dancer",
+      "Entwined Ninian",
+      "E Ninian",
+      "En Ninian",
+      "ninian5"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u3064\u306a\u304c\u308a\u30cb\u30cb\u30a2\u30f3",
+    "voice": "Brianna Knickerbocker",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Ah, it's you... Tell me, how are you doing, [S]?",
+        "The world continues to change, yet there are still those I wish to remain with.",
+        "I got this bouquet from Nils so that I might find happiness for as long as possible...",
+        "My usual dances are short. But for you I shall perform something special.",
+        "I no longer travel. Instead, I go to festivals."
+      ],
+      "Visit": [
+        "I am Ninian, a dancer in service of [F]..."
+      ],
+      "Level": [
+        "For a future where we can stay together!",
+        "Our bond will never break.",
+        "For him, I will..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Ninian. I live on for the wishes of my brother Nils."
+      ],
+      "Learn Skill": [
+        "Dancing has been a way to conceal my identity, but...I do feel happy bringing joy to others."
+      ],
+      "Confession": [
+        "While on the run, Nils and I wandered our homeland, performing for others.\nEverything was different from how we had known it before... I knew I should have returned home...\nBut I couldn't hide from Nils the fact that I wished to remain by his side, even if I didn't live long...\nHe pushed me onward, wishing me all the happiness in the world.\nAnd for that, I will continue to live and make the most of this moment, [S].\nThis way, Nils will see, from far beyond the distant sky, that I, the dragon, was able to be happy..."
+      ],
+      "Special": [
+        "I refuse to run!",
+        "Lend me your strength!",
+        "I will not cry.",
+        "Staying positive!"
+      ],
+      "Status": [
+        "-",
+        "Lend me your strength!",
+        "Staying positive!",
+        "Even apart, he and I are always connected.",
+        "I admit...I do have some interest in musical instruments.",
+        "Whenever I dance, it is as though I can hear a flute playing.",
+        "Nils... You should know I'm truly happy.",
+        "I hope our bond remains strong, even if I return to my original world."
+      ],
+      "Map Select": [
+        "Certainly.",
+        "What do you think?",
+        "Count on me!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Entwined Ninian",
+    "SEARCH_NAME": "Entwined Ninian",
+    "DISPLAY_NAME": "<:Colorless_Breath:1317239411980767363>Entwined Ninian",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ninian",
+      "ninian2",
+      "ninian3",
+      "ninian4"
+    ],
+    "prf": {
+      "": "boundbyice",
+      "eff": "boundbyice",
+      "atk": "boundbyice",
+      "spd": "boundbyice",
+      "def": "boundbyice",
+      "res": "boundbyice"
+    },
+    "bouquet": "SR",
+    "boost": {
+      "spd": 2,
+      "res": 2
+    }
+  },
+  "marcus": {
+    "name": "Marcus",
+    "title": "Knight of Pherae",
+    "description": "A knight who has served House Pherae for many years. He has trained up the order of knights who are praised as the cream of the crop. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "Kita Senri (\u5317\u5343\u91cc)",
+    "move": "Cavalry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1358",
+    "type": false,
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 9,
+      "spd": 12,
+      "def": 12,
+      "res": 11
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 50,
+      "def": 45,
+      "res": 60
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Melee Blade": "3",
+      "Melee Blade+": "5"
+    },
+    "assist": {
+      "Swap": "3"
+    },
+    "special": {},
+    "passive": {
+      "A": {
+        "Def/Res Clash 1": "3",
+        "Def/Res Clash 2": "4",
+        "Def/Res Clash 3": "5"
+      },
+      "B": {},
+      "C": {
+        "Close Guard 1": "1",
+        "Close Guard 2": "2",
+        "Close Guard 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Marcus_Knight_of_Pherae_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Marcus_Knight_of_Pherae_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Marcus_Knight_of_Pherae_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Marcus_Knight_of_Pherae_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Knight of Pherae",
+      "Marcus: Knight of Pherae",
+      "Base Marcus",
+      "Normal Marcus",
+      "Regular Marcus",
+      "marcus"
+    ],
+    "HARD_ALT_NAME": [
+      "Knight of Pherae",
+      "Marcus: Knight of Pherae",
+      "Base Marcus",
+      "Normal Marcus",
+      "Regular Marcus",
+      "marcus"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "global",
+    "internal_id": "PID_\u30de\u30fc\u30ab\u30b9",
+    "voice": "Paul Guyet",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "A knight remains calm at all times and discharges their duty loyally.",
+        "If Laus is readying for war, their target is most likely another Lycian territory.\nTell me, has Lord Elbert been embroiled in the conflict?",
+        "Lord Eliwood's worry comes from a concern for Lord Elbert's safety. It springs not from a distrustful heart.",
+        "Like the body, the mind can also grow weary. At such times, it's good to eat something sweet.",
+        "You are quite sharp. You remind me of our military strategist."
+      ],
+      "Visit": [
+        "Hm... What's this? Perhaps someone dropped it here?"
+      ],
+      "Level": [
+        "Each of you has a role to play. But I ask that you fulfill yours quietly.",
+        "Stay on your guard! A moment of laxity on the battlefield can bring death from behind.",
+        "I, a knight of Pherae, shall not allow reckless fighting, yet..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Allow me, Marcus, to serve in the vanguard. There is no need for worry. As a knight of Pherae, I will not fail."
+      ],
+      "Learn Skill": [
+        "Supplies are crucial to war. For one cannot be fought without weapons and medicine."
+      ],
+      "Confession": [
+        "Lord Eliwood overcame countless hardships to become an incredible man. You, too, are to thank for this.\nWhen I close my eyes, I remember... When Lord Eliwood was born, I had just been knighted...\nAnd when he was a young child, he would follow me around everywhere, calling out my name...\nAnd now, to see that gallant figure heading to battle... I mean it when I say his air rivals that of his father!\nCome to think, Lord Elbert became engaged to Lady Eleanora around the same age Lord Eliwood is now...\nI, Marcus, pledge my undying loyalty to House Pherae! For Lord Eliwood, his future wife, and their children!"
+      ],
+      "Special": [
+        "I will not fail!",
+        "Let me take the point!",
+        "Worry not!",
+        "These mice will never defeat us!"
+      ],
+      "Status": [
+        "-",
+        "My name is Marcus. I will scatter the meager foes who approach you.",
+        "*grunt* Pranks are unbecoming of a leader.",
+        "A knight discharges their duty loyally at all times.",
+        "Lord Eliwood has grown up to be a magnificent man. I am truly joyful.",
+        "I made a promise to Lord Elbert. I swore to protect Lord Eliwood.",
+        "Lord Elbert's final moments were...so very noble.",
+        "I will show you the strength of a knight of Pherae."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Give me your orders.",
+        "A grave situation..."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Marcus",
+    "SEARCH_NAME": "Marcus",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Marcus",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "meleeblade",
+      "eff": "meleeblade",
+      "atk": "meleeblade",
+      "spd": "meleeblade",
+      "def": "meleeblade",
+      "res": "meleeblade"
+    }
+  },
+  "lowen": {
+    "name": "Lowen",
+    "title": "Apprentice Knight",
+    "description": "A journeyman knight who serves House Pherae and has yet to be decorated. He carries a large bag of rations with him wherever he goes. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "Nishiki Areku (\u897f\u6728\u3042\u308c\u304f)",
+    "move": "Cavalry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1359",
+    "type": false,
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 20,
+      "atk": 12,
+      "spd": 8,
+      "def": 10,
+      "res": 4
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 70,
+      "def": 90,
+      "res": 30
+    },
+    "superboon": [
+      "spd",
+      "def"
+    ],
+    "superbane": [
+      "res"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Apprentice Lance": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Flame Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "2",
+        "Atk/Def Clash 2": "3",
+        "Atk/Def Clash 3": "4",
+        "Atk/Def Excel": "5"
+      },
+      "B": {},
+      "C": {
+        "Fortify Def 1": "2",
+        "Fortify Def 2": "3",
+        "Fortify Def 3": "4",
+        "A/D Outcry Dull": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Lowen_Apprentice_Knight_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Lowen_Apprentice_Knight_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Lowen_Apprentice_Knight_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Lowen_Apprentice_Knight_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Apprentice Knight",
+      "Lowen: Apprentice Knight",
+      "Base Lowen",
+      "Normal Lowen",
+      "Regular Lowen",
+      "lowen"
+    ],
+    "HARD_ALT_NAME": [
+      "Apprentice Knight",
+      "Lowen: Apprentice Knight",
+      "Base Lowen",
+      "Normal Lowen",
+      "Regular Lowen",
+      "lowen"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "global",
+    "internal_id": "PID_\u30ed\u30a6\u30a8\u30f1",
+    "voice": "Samuel Drake",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "\"If the stomach is empty, empty, too, lies the heart.\" That's an old adage.",
+        "I am really only a page by rank, but I was assigned to the order when the knights of Pherae were weakened.",
+        "If there's a rumbling sound coming from the bag of rations on my saddle, that's never a good sign...",
+        "He may not look it, but Marcus has a delicate palate. No culinary tricks can fool him.",
+        "Yah! Hah! Phew... I'm doing my lance thrusts\u2014a thousand every day!"
+      ],
+      "Visit": [
+        "I beg your pardon. I have come on an errand from [F]'s castle."
+      ],
+      "Level": [
+        "Say the word, and I shall prepare us a feast, [S]!",
+        "I merely spend my days trying to stay one step ahead of General Marcus.\nI'm not even close to the level of Isadora and the others...",
+        "If General Marcus were here... That's it! Boar's-meat dumplings it is, no matter the occasion!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Lowen, a journeyman knight of Pherae!"
+      ],
+      "Learn Skill": [
+        "I must repay you! Feel free to peruse my emergency rations for something you might like to snack on!"
+      ],
+      "Confession": [
+        "I grew up a peasant in a small village far from the sight of the castle...\nWhen I was young, our village was attacked following a rise in brigands and bandits.\nIn such a remote area, where aiding us would bring no honor, we were destined to be abandoned.\nWhen the adults of the village had given up hope, a stranger appeared and routed the bandits, just like that!\nThere was no doubt it was a knight. I will never forget how I felt in that moment, being saved by a stranger...\nI wanted to be just like that. Which is why I aspired to become a knight of Pherae. It's tough, but I'll do it!"
+      ],
+      "Special": [
+        "Just you wait!",
+        "I must become stronger!",
+        "Full of vigor!",
+        "Please, watch."
+      ],
+      "Status": [
+        "-",
+        "Nice to be working with you! I'm Lowen, a journeyman knight of Pherae.",
+        "Huh? Oh, please forgive me for getting in your way.",
+        "My father cooked for Lord Eliwood's grandfather.",
+        "You must remember this from henceforth! \"If the stomach is empty, empty, too, lies the heart.\"",
+        "I aimed to be just like Lord Harken, which is why I set out to be a knight.",
+        "I slept past breakfast? Whaaaaaaat?!",
+        "I am devoted to doing my absolute best under your command. You can count on me!"
+      ],
+      "Map Select": [
+        "Yes.",
+        "Uh...",
+        "This way, right?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Lowen",
+    "SEARCH_NAME": "Lowen",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Lowen",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "apprenticelance",
+      "eff": "apprenticelance",
+      "atk": "apprenticelance",
+      "spd": "apprenticelance",
+      "def": "apprenticelance",
+      "res": "apprenticelance"
+    }
+  },
+  "wallace": {
+    "name": "Wallace",
+    "title": "Crag of Caelin",
+    "description": "An old friend of Lyn's father, Hassar, and former captain of the knights of Caelin. He was feared by young knights who knew him as a ruthless instructor. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "maCo / Trys Inc.",
+    "move": "Armored",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1360",
+    "type": false,
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 21,
+      "atk": 10,
+      "spd": 9,
+      "def": 13,
+      "res": 9
+    },
+    "growth": {
+      "hp": 70,
+      "atk": 90,
+      "spd": 45,
+      "def": 80,
+      "res": 60
+    },
+    "superboon": [
+      "hp",
+      "atk",
+      "spd"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Forged Lance": "3",
+      "Forged Lance+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {
+        "Earth Boost 1": "1",
+        "Earth Boost 2": "2",
+        "Earth Boost 3": "4"
+      },
+      "B": {
+        "Wily Fighter 1": "3",
+        "Wily Fighter 2": "4",
+        "Wily Fighter 3": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Wallace_Crag_of_Caelin_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/Wallace_Crag_of_Caelin_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Wallace_Crag_of_Caelin_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Wallace_Crag_of_Caelin_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Crag of Caelin",
+      "Wallace: Crag of Caelin",
+      "Base Wallace",
+      "Normal Wallace",
+      "Regular Wallace",
+      "wallace"
+    ],
+    "HARD_ALT_NAME": [
+      "Crag of Caelin",
+      "Wallace: Crag of Caelin",
+      "Base Wallace",
+      "Normal Wallace",
+      "Regular Wallace",
+      "wallace"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "grail",
+    "internal_id": "PID_\u30ef\u30ec\u30b9",
+    "voice": "Chris Tergliafera",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Thirty years as a knight has taught me a thing or two! One thing's for sure, none with bright eyes are bad.",
+        "Caelin, home of our Lord Hausen, is a vital territory in the Lycian alliance of noble houses.",
+        "You're the commander around here, eh? Go on then, give me your orders!",
+        "When I was 10 years old or so, I was so timid and soft that some teased me.",
+        "I, Wallace, will go anywhere, anytime! For Caelin's honor!"
+      ],
+      "Visit": [
+        "I'm here to deliver this message: Be well, from [F]."
+      ],
+      "Level": [
+        "I do declare, that I, Wallace, will scatter all foes before me, for the sake of Lady Lyndis of Caelin!",
+        "I am Wallace, armored knight of Caelin. Face me if you do not fear your death!",
+        "Stay sharp! You never know what the next moment will bring."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Wallace, of the Caelin knights! Allow me to fend off your foes!"
+      ],
+      "Learn Skill": [
+        "Bwah ha ha! You see my valiance?! I'll demonstrate it in battle against my foes."
+      ],
+      "Confession": [
+        "When I was 10 or so and just an apprentice knight, there was a Caelin mercenary I looked up to...\nThe immortal Renault, a brave man with a fearless fighting style.\nI learned his techniques, and I promised him that I would spend my whole life fighting for the people.\nI vowed to never use the skills he taught me for evil. And I've since kept that vow!\nThat's why I now want to show the young knights this style and convey the will to follow what you believe in!"
+      ],
+      "Special": [
+        "Bwah ha ha ha ha!",
+        "Break your weapons against me!",
+        "What are you waiting for?",
+        "A giant walks among you!"
+      ],
+      "Status": [
+        "-",
+        "I'm Wallace. Any time I am called upon, I will fight for Caelin's honor.",
+        "Hm? Bwa ha ha! Not bad.",
+        "Lady Lyndis's father, Lord Hassar, was a worthy rival of mine.",
+        "Take this. It's my Manual of Knightly Prowess. It'll be useful to you.",
+        "I was retired and working the fields, and now... I can hardly believe I've returned to battle.",
+        "Lasting happiness is the purest form of vengeance.",
+        "A person with eyes as bright and true as yours is no deceiver."
+      ],
+      "Map Select": [
+        "So you've come...",
+        "Ah...",
+        "I will fell them!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Wallace",
+    "SEARCH_NAME": "Wallace",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Wallace",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "forgedlance",
+      "eff": "forgedlance",
+      "atk": "forgedlance",
+      "spd": "forgedlance",
+      "def": "forgedlance",
+      "res": "forgedlance"
     }
   }
 }

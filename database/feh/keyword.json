@@ -470,6 +470,7 @@
                 "Stellar Brace"
             ],
             "C": [
+                "A/S Outcry Seize",
                 "Atk/Res Liberate",
                 "Covetous One"
             ],
@@ -1324,6 +1325,7 @@
                 "Teatime's Edge"
             ],
             "Lance": [
+                "Apprentice Lance",
                 "Chosen Lance",
                 "Haulin' Harpoon",
                 "Ilian Greatlance"
@@ -1346,7 +1348,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Bound by Ice"
+            ],
             "Beast": [
                 "Horn of the Land"
             ]
@@ -2731,7 +2735,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [
+                "Dragon's Twirl"
+            ],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {
             "elise4": "<:feh_duo:1317239462874578975><:Colorless_Staff:1317239426866483261>Valentines Elise",
             "micaiah4": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Bridal Micaiah"
@@ -2795,6 +2810,27 @@
             "A": [],
             "B": [],
             "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
+    "draincancel": {
+        "name": "Drain Cancel",
+        "description": "Grants Atk/Spd/Def/Res+4 to unit during combat.\nWhen a foe triggers both \"grants the\u3010Bonus\u3011 effects active on foe\" and \"neutralizes any \u3010Bonus\u3011active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any\u3010Bonus\u3011effects active on that foe (does not neutralize\u3010Bonus\u3011 effects applied at the same time).",
+        "color": "Green",
+        "icon": "draincancel",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "A/S Outcry Seize"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -3058,6 +3094,7 @@
                 ]
             },
             "Breath": [
+                "Bound by Ice",
                 "Faithful Breath"
             ],
             "Beast": [
@@ -4380,6 +4417,7 @@
                 "A Fate Changed!",
                 "Dragon's Dance",
                 "Dragon's Dance II",
+                "Dragon's Twirl",
                 "Fate Unchanged...",
                 "To Change Fate!",
                 "To Change Fate! II"
@@ -4443,6 +4481,7 @@
                 "United Bouquet"
             ],
             "Axe": [
+                "Comrade's Axe",
                 "Crusher",
                 "Ebon B\u00f6lverk",
                 "Majestic Glitnir",
@@ -4624,7 +4663,8 @@
                 "Called to Serve"
             ],
             "C": [
-                "A/S Outcry Dull"
+                "A/S Outcry Dull",
+                "A/D Outcry Dull"
             ],
             "X": [],
             "S": [],
@@ -5116,6 +5156,7 @@
                 ]
             },
             "Breath": [
+                "Bound by Ice",
                 "Faithful Breath"
             ],
             "Beast": [
@@ -5576,6 +5617,7 @@
             "special": [
                 "Astra Storm",
                 "Enclosure II",
+                "Gathered Flames",
                 "Lodestar Rush"
             ],
             "A": [
@@ -5874,7 +5916,9 @@
         "icon": "range2style",
         "reference_weapon": false,
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Dragon's Twirl"
+            ],
             "special": [],
             "A": [
                 "Reject Tyranny"
@@ -5939,7 +5983,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Comrade's Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -6861,7 +6907,9 @@
             "Lance": [
                 "Proud Spear"
             ],
-            "Axe": [],
+            "Axe": [
+                "Comrade's Axe"
+            ],
             "Staff": [
                 "Th\u00f6kk"
             ],
@@ -7249,7 +7297,9 @@
                 "Ilian Longsword"
             ],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Comrade's Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],

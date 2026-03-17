@@ -5156,7 +5156,8 @@
         "yuri3": "3",
         "eikthyrnir4": "3",
         "lucina9": "3",
-        "franz": "3"
+        "franz": "3",
+        "marcus": "3"
       }
     },
     "refine": {},
@@ -5943,7 +5944,8 @@
         "mirabilis3": "3",
         "olivia4": "3",
         "plumeria4": "3",
-        "peony4": "3"
+        "peony4": "3",
+        "ninian5": "3"
       }
     },
     "refine": {},
@@ -7728,7 +7730,10 @@
         "hilda6": "3",
         "minerva4": "3",
         "louis": "3",
-        "hector8": "3"
+        "hector8": "3",
+        "eliwood6": "3",
+        "lowen": "3",
+        "wallace": "3"
       }
     },
     "refine": {},
@@ -7935,7 +7940,10 @@
         "hilda6": "4",
         "minerva4": "4",
         "louis": "4",
-        "hector8": "4"
+        "hector8": "4",
+        "eliwood6": "4",
+        "lowen": "4",
+        "wallace": "4"
       }
     },
     "refine": {},
@@ -8474,7 +8482,8 @@
         "dimitri3": "5",
         "igrene3": "3",
         "heidrun2": "3",
-        "chrom9": "3"
+        "chrom9": "3",
+        "ninian5": "3"
       }
     },
     "refine": {},
@@ -8557,7 +8566,8 @@
         "sonya3": "5",
         "igrene3": "4",
         "heidrun2": "4",
-        "chrom9": "4"
+        "chrom9": "4",
+        "ninian5": "4"
       }
     },
     "refine": {},
@@ -10513,7 +10523,8 @@
         "fogado": "2",
         "ashe": "2",
         "lucina8": "2",
-        "gullveig4": "2"
+        "gullveig4": "2",
+        "ninian5": "2"
       }
     },
     "refine": {},
@@ -14489,7 +14500,8 @@
         "fir4": "4",
         "nerpuz4": "4",
         "gullveig4": "4",
-        "lyn11": "4"
+        "lyn11": "4",
+        "eliwood6": "4"
       },
       "Hone Spd 2": {
         "sigrun": "4",
@@ -14593,7 +14605,8 @@
         "xander2": "5",
         "ephraim2": "5",
         "seliph2": "5",
-        "quan2": "5"
+        "quan2": "5",
+        "lowen": "4"
       },
       "Fortify Def 2": {
         "sheena": "3",
@@ -15718,6 +15731,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Def 2",
+          "Fortify Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -16008,6 +16025,10 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Attack +1",
+          "Defense +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -16023,6 +16044,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Attack/Def +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -16067,6 +16091,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Death Blow 1",
+          "Darting Blow 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -16084,6 +16112,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Swift Sparrow 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -16101,6 +16132,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Swift Sparrow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -16188,7 +16222,8 @@
         "tharja6": "4",
         "celica7": "4",
         "veronica6": "4",
-        "gullveig4": "4"
+        "gullveig4": "4",
+        "ninian5": "4"
       },
       "Swift Sparrow 1": {}
     },
@@ -16289,6 +16324,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Axe Experience 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -16306,6 +16344,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Axe Experience 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -16458,6 +16499,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Fortress Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -16473,6 +16517,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Fortress Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -16591,6 +16638,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Windsweep 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -16608,6 +16658,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Windsweep 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -16675,6 +16728,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Bow Exp. 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -16695,6 +16751,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Bow Exp. 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -16805,6 +16864,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Heavy Blade 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -16822,6 +16884,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Heavy Blade 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -16839,6 +16904,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Heavy Blade 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -16902,6 +16970,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Watersweep 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -16919,6 +16990,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Watersweep 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -16970,6 +17044,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Guard 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -16982,6 +17059,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Guard 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -16994,6 +17074,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Guard 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -17049,6 +17132,10 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Spur Def 1",
+          "Spur Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -17061,6 +17148,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Spur Def/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -17342,6 +17432,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Distant Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -17354,6 +17447,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Distant Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -17366,6 +17462,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Distant Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -17435,6 +17534,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Earth Boost 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -17447,6 +17549,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Earth Boost 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -17462,7 +17567,8 @@
         "amelia": "5",
         "ephraim7": "4",
         "rosado": "4",
-        "nah2": "4"
+        "nah2": "4",
+        "wallace": "4"
       },
       "Earth Boost 2": {},
       "Earth Boost 1": {}
@@ -17504,6 +17610,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Wrathful Staff 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -17521,6 +17630,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Wrathful Staff 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -17589,6 +17701,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "B Tome Exp. 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -17606,6 +17721,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "B Tome Exp. 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": [
@@ -17937,6 +18055,10 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Rally Attack",
+          "Rally Speed"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -17955,6 +18077,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Rally Atk/Spd"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -18011,6 +18136,10 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Attack +1",
+          "Resistance +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -18026,6 +18155,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Attack/Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -18082,6 +18214,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Wind Boost 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -18094,6 +18229,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Wind Boost 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -18154,6 +18292,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Dazzling Staff 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -18171,6 +18312,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Dazzling Staff 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -39352,7 +39496,8 @@
         "frederick3": "4",
         "rhea4": "4",
         "nel": "4",
-        "mcorrin8": "4"
+        "mcorrin8": "4",
+        "marcus": "4"
       },
       "Close Guard 2": {},
       "Close Guard 1": {}
@@ -98708,7 +98853,8 @@
         "skrimir": "5"
       },
       "Wily Fighter 3": {
-        "idunn3": "5"
+        "idunn3": "5",
+        "wallace": "5"
       },
       "Wily Fighter 2": {},
       "Wily Fighter 1": {}
@@ -107195,7 +107341,8 @@
         "kyle": "5",
         "eikthyrnir": "4",
         "sigurd5": "4",
-        "zeiss": "5"
+        "zeiss": "5",
+        "lowen": "4"
       },
       "Atk/Def Clash 2": {},
       "Atk/Def Clash 1": {}
@@ -133361,7 +133508,8 @@
       "Atk/Def Excel": {
         "eikthyrnir": "5",
         "sigurd5": "5",
-        "otr": "5"
+        "otr": "5",
+        "lowen": "5"
       }
     },
     "icon": 2215,
@@ -135652,7 +135800,8 @@
         "lucina8": "5",
         "dimitri7": "5",
         "leif4": "5",
-        "baldr3": "5"
+        "baldr3": "5",
+        "ninian5": "5"
       }
     },
     "icon": 2256,
@@ -135912,7 +136061,10 @@
     "reference": {
       "Momentum 1": {},
       "Momentum 2": {},
-      "Momentum 3": {},
+      "Momentum 3": {
+        "eliwood6": "4",
+        "ninian5": "4"
+      },
       "Momentum 4": {
         "sigurd5": "5"
       }
@@ -137601,7 +137753,8 @@
         "midir": "5",
         "celica7": "5",
         "veronica6": "5",
-        "gullveig4": "5"
+        "gullveig4": "5",
+        "ninian5": "5"
       }
     },
     "icon": 2278,
@@ -138187,7 +138340,10 @@
     "HARD_ALT_NAME": [
       "Atk/Res Fortune"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Fortune",
+      "Attack/Resistance Fortune"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -138368,9 +138524,15 @@
     },
     "icon": 2297,
     "HARD_ALT_NAME": [
-      "A/R Twin F Save"
+      "A/D Twin F Save"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/D Twin Far Save",
+      "Atk/Def Twin F Save",
+      "Atk/Def Twin Far Save",
+      "Attack/Defense Twin F Save",
+      "Attack/Defense Twin Far Save"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -138706,7 +138868,9 @@
     "HARD_ALT_NAME": [
       "D Counter Echo"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Distant Counter Echo"
+    ],
     "slot": "Passive X",
     "wpn": false
   },
@@ -139209,7 +139373,10 @@
     "HARD_ALT_NAME": [
       "S/R Spiked Wall"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Spd/Res Spiked Wall",
+      "Speed/Resistance Spiked Wall"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -139587,7 +139754,11 @@
       "A/D Briar F Save"
     ],
     "ALT_NAME": [
-      "Attack/Defense Briar F Save"
+      "A/D Briar Far Save",
+      "Atk/Def Briar F Save",
+      "Atk/Def Briar Far Save",
+      "Attack/Defense Briar F Save",
+      "Attack/Defense Briar Far Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -139894,9 +140065,21 @@
       "Speedtaker 1",
       "Speedtaker 2",
       "Speedtaker 3",
-      "Speedtaker 4"
+      "Speedtaker 4",
+      "Speedtaker"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Staker 1",
+      "Staker 2",
+      "Staker 3",
+      "Staker 4",
+      "Staker",
+      "Spdtaker 1",
+      "Spdtaker 2",
+      "Spdtaker 3",
+      "Spdtaker 4",
+      "Spdtaker"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -140536,7 +140719,10 @@
     "HARD_ALT_NAME": [
       "Perfect Atk/Spd"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Perfect A/S",
+      "Perfect Attack/Speed"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -140685,7 +140871,13 @@
     "HARD_ALT_NAME": [
       "Sway Atk/Res"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Res Sway",
+      "Sway A/R",
+      "A/R Sway",
+      "Sway Attack/Resistance",
+      "Attack/Resistance Sway"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -140765,7 +140957,10 @@
     "HARD_ALT_NAME": [
       "Incite Spd/Def"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Incite S/D",
+      "Incite Speed/Defense"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -141226,7 +141421,10 @@
     "HARD_ALT_NAME": [
       "A/S Spiked Wall"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Spd Spiked Wall",
+      "Attack/Speed Spiked Wall"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -142175,7 +142373,10 @@
     "HARD_ALT_NAME": [
       "A/S Incite Hone"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Spd Incite Hone",
+      "Attack/Speed Incite Hone"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -142584,18 +142785,19 @@
       "Atk/Def Scowl 2",
       "Atk/Def Scowl 3",
       "Atk/Def Scowl 4",
-      "Attack/Defense Scowl 1",
-      "Attack/Defense Scowl 2",
-      "Attack/Defense Scowl 3",
-      "Attack/Defense Scowl 4",
-      "Attack/Defense Scowl"
+      "Atk/Def Scowl"
     ],
     "ALT_NAME": [
       "Attack/Defense Scowl 1",
       "Attack/Defense Scowl 2",
       "Attack/Defense Scowl 3",
       "Attack/Defense Scowl 4",
-      "Attack/Defense Scowl"
+      "Attack/Defense Scowl",
+      "A/D Scowl 1",
+      "A/D Scowl 2",
+      "A/D Scowl 3",
+      "A/D Scowl 4",
+      "A/D Scowl"
     ],
     "slot": "Passive A",
     "wpn": false
@@ -142632,7 +142834,13 @@
     "HARD_ALT_NAME": [
       "A/R Twin N Save"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Twin Near Save",
+      "Atk/Res Twin N Save",
+      "Atk/Res Twin Near Save",
+      "Attack/Resistance Twin N Save",
+      "Attack/Resistance Twin Near Save"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -142785,7 +142993,13 @@
     "HARD_ALT_NAME": [
       "Sway Atk/Spd"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Spd Sway",
+      "Sway A/S",
+      "A/S Sway",
+      "Sway Attack/Speed",
+      "Attack/Speed Sway"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -143036,7 +143250,10 @@
     "HARD_ALT_NAME": [
       "Def/Res Discord"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "D/R Discord",
+      "Defense/Resistance Discord"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -143374,11 +143591,15 @@
     },
     "icon": 2382,
     "HARD_ALT_NAME": [
-      "A/R Far Resound",
-      "A/Red Far Resound",
-      "A/Res Far Resound"
+      "A/R Far Resound"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R F Resound",
+      "Atk/Res Far Resound",
+      "Atk/Res F Resound",
+      "Attack/Resistance Far Resound",
+      "Attack/Resistance F Resound"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -143559,7 +143780,10 @@
       "Pulse On: Blades",
       "Pulse On Blades"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Pulse On: B",
+      "Pulse On B"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -144000,7 +144224,8 @@
       "Blue Skies 2": {},
       "Blue Skies 3": {
         "mia6": "4",
-        "thorr3": "4"
+        "thorr3": "4",
+        "eliwood6": "4"
       },
       "Blue Skies 4": {
         "eirika9": "5",
@@ -144551,7 +144776,10 @@
     "HARD_ALT_NAME": [
       "Atk/Res Detect"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Detect",
+      "Attack/Resistance Detect"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -144589,7 +144817,10 @@
     "HARD_ALT_NAME": [
       "A/R Incite Hone"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Res Incite Hone",
+      "Attack/Resistance Incite Hone"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -144666,7 +144897,13 @@
     "HARD_ALT_NAME": [
       "Atk/Spd Tidings"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/S Tidings",
+      "Attack/Speed Tidings",
+      "Tidings Atk/Spd",
+      "Tidings A/S",
+      "Tidings Attack/Speed"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -144858,7 +145095,10 @@
       "Res Scowl Echo",
       "Scowl Echo"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "R Scowl Echo",
+      "Resistance Scowl Echo"
+    ],
     "slot": "Passive X",
     "wpn": false
   },
@@ -145278,7 +145518,10 @@
     "HARD_ALT_NAME": [
       "S/D Hold Guide"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Spd/Def Hold Guide",
+      "Speed/Defense Hold Guide"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -145637,7 +145880,10 @@
     "HARD_ALT_NAME": [
       "Atk/Def Fortune"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/D Fortune",
+      "Attack/Defense Fortune"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -145986,7 +146232,10 @@
     "HARD_ALT_NAME": [
       "S/D Spiked Wall"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Spd/Def Spiked Wall",
+      "Speed/Defense Spiked Wall"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -146066,7 +146315,13 @@
     "HARD_ALT_NAME": [
       "Atk/Res Tidings"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Tidings",
+      "Attack/Resistance Tidings",
+      "Tidings Atk/Res",
+      "Tidings A/R",
+      "Tidings Attack/Resistance"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -146652,7 +146907,11 @@
       "Distant A/D Form"
     ],
     "ALT_NAME": [
-      "Distant Attack/Defense Form"
+      "D A/D Form",
+      "Distant Atk/Def Form",
+      "D Atk/Def Form",
+      "Distant Attack/Defense Form",
+      "D Attack/Defense Form"
     ],
     "slot": "Passive A",
     "wpn": false
@@ -147161,6 +147420,7 @@
       "Atk/Spd Hexedge"
     ],
     "ALT_NAME": [
+      "A/S Hexedge",
       "Attack/Speed Hexedge"
     ],
     "slot": "Passive A",
@@ -147366,7 +147626,11 @@
       "A/R Briar N Save"
     ],
     "ALT_NAME": [
-      "Attack/Resistance Briar N Save"
+      "A/R Briar Near Save",
+      "Atk/Res Briar N Save",
+      "Atk/Res Briar Near Save",
+      "Attack/Resistance Briar N Save",
+      "Attack/Resistance Briar Near Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -147663,7 +147927,8 @@
       "S/R Lull Finish"
     ],
     "ALT_NAME": [
-      "Spd/Res Lull Finish"
+      "Spd/Res Lull Finish",
+      "Speed/Resistance Lull Finish"
     ],
     "slot": "Passive B",
     "wpn": false
@@ -147785,7 +148050,10 @@
     "HARD_ALT_NAME": [
       "Pulse Tempest F"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Pulse Tempest Follow-Up",
+      "Pulse Tempest FollowUp"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -148289,11 +148557,15 @@
     },
     "icon": 2464,
     "HARD_ALT_NAME": [
-      "S/R Far Resound",
-      "S/Red Far Resound",
-      "S/Res Far Resound"
+      "S/R Far Resound"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "S/R F Resound",
+      "Spd/Res Far Resound",
+      "Spd/Res F Resound",
+      "Speed/Resistance Far Resound",
+      "Speed/Resistance F Resound"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -148489,7 +148761,10 @@
     "HARD_ALT_NAME": [
       "Def/Res Fortune"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "D/R Fortune",
+      "Defense/Resistance Fortune"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -148614,7 +148889,10 @@
     "HARD_ALT_NAME": [
       "Atk/Def Wild"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/D Wild",
+      "Attack/Defense Wild"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -149147,7 +149425,11 @@
       "A/D Briar N Save"
     ],
     "ALT_NAME": [
-      "Attack/Defense Briar N Save"
+      "A/D Briar Near Save",
+      "Atk/Def Briar N Save",
+      "Atk/Def Briar Near Save",
+      "Attack/Defense Briar N Save",
+      "Attack/Defense Briar Near Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -149349,7 +149631,10 @@
     "HARD_ALT_NAME": [
       "A/S Hold Guide"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Spd Hold Guide",
+      "Attack/Speed Hold Guide"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -149385,7 +149670,10 @@
     "HARD_ALT_NAME": [
       "Atk/Res Mastery"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Mastery",
+      "Attack/Resistance Mastery"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -149723,7 +150011,10 @@
     "HARD_ALT_NAME": [
       "A/S Outcry Dull"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Spd Outcry Dull",
+      "Attack/Speed Outcry Dull"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -149997,7 +150288,10 @@
     "HARD_ALT_NAME": [
       "Spd/Res Detect"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "S/R Detect",
+      "Speed/Resistance Detect"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -150319,9 +150613,15 @@
     },
     "icon": 2496,
     "HARD_ALT_NAME": [
-      "Heaven's Stead"
+      "Heaven's Stead",
+      "Heavens Stead"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Heaven's Stead F",
+      "Heaven's Stead Far",
+      "Heavens Stead F",
+      "Heavens Stead Far"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -150493,7 +150793,11 @@
       "A/D Briar P Save"
     ],
     "ALT_NAME": [
-      "Attack/Defense Briar P Save"
+      "A/D Briar Physical Save",
+      "Atk/Def Briar P Save",
+      "Atk/Def Briar P Save",
+      "Attack/Defense Briar P Save",
+      "Attack/Defense Briar Physical Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -150763,7 +151067,9 @@
     "HARD_ALT_NAME": [
       "D Bonus Amp"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Distant Bonus Amp"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -151158,7 +151464,10 @@
     "HARD_ALT_NAME": [
       "Atk/Spd Favor"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/S Favor",
+      "Attack/Speed Favor"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -151266,7 +151575,10 @@
     "HARD_ALT_NAME": [
       "Atk/Def Favor"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/D Favor",
+      "Attack/Defense Favor"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -151455,7 +151767,8 @@
     "reference": {
       "Flame Wall": {
         "ash3": "5",
-        "alfred2": "5"
+        "alfred2": "5",
+        "lowen": "5"
       }
     },
     "icon": false,
@@ -151624,7 +151937,7 @@
       {
         "name": "Tumultuous Echo",
         "stats": {
-          "sp": "300"
+          "sp": "0"
         },
         "slot": "Passive X",
         "exclusive": false,
@@ -151645,10 +151958,10 @@
           ]
         ],
         "restriction_movement": [
-          "**Cannot** be used by: ",
+          "**Can only** be used by: ",
           [
-            "Cavalry",
-            "Armored"
+            "Infantry",
+            "Flying"
           ]
         ],
         "description": "Enables\u3010 Canto (Dist. +1; Max \uFF14 )\u3011.\nAt start of turn, unit can move 1 extra space (that turn only; does not stack).\n\u3010 Canto (Dist. +1; Max \uFF14 )\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uFF14 .)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
@@ -152178,7 +152491,11 @@
       "S/R Briar M Save"
     ],
     "ALT_NAME": [
-      "Speed/Resistance Briar M Save"
+      "S/R Briar Magic Save",
+      "Spd/Res Briar M Save",
+      "Spd/Res Briar Magic Save",
+      "Speed/Resistance Briar M Save",
+      "Speed/Resistance Briar Magic Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -152665,7 +152982,10 @@
     "HARD_ALT_NAME": [
       "A/S Bellow"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Atk/Spd Bellow",
+      "Attack/Speed Bellow"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -152773,7 +153093,10 @@
     "HARD_ALT_NAME": [
       "D/R Cantrip 3"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Def/Res Cantrip 3",
+      "Defense/Resistance Cantrip 3"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -153034,7 +153357,9 @@
     "HARD_ALT_NAME": [
       "Assault Impetus"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Impetus Assault"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -153524,7 +153849,10 @@
     "HARD_ALT_NAME": [
       "Atk/Res Aria"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Aria",
+      "Attack/Resistance Aria"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -153592,7 +153920,13 @@
     "HARD_ALT_NAME": [
       "A/R Hone Assault"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Assault Hone",
+      "Atk/Res Hone Assault",
+      "Atk/Res Assault Hone",
+      "Attack/Resistance Hone Assault",
+      "Attack/Resistance Assault Hone"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -153872,7 +154206,9 @@
     ],
     "ALT_NAME": [
       "Atk/Spd Assault Hone",
-      "Atk/Spd Hone Assault"
+      "Atk/Spd Hone Assault",
+      "Attack/Speed Hone Assault",
+      "Attack/Speed Assault Hone"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -153978,7 +154314,8 @@
       "S/D Lull Finish"
     ],
     "ALT_NAME": [
-      "Spd/Def Lull Finish"
+      "Spd/Def Lull Finish",
+      "Speed/Defense Lull Finish"
     ],
     "slot": "Passive B",
     "wpn": false
@@ -154365,7 +154702,10 @@
     "HARD_ALT_NAME": [
       "Def/Res Shackle"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "D/R Shackle",
+      "Defense/Resistance Shackle"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -154511,7 +154851,11 @@
       "Null Uplift A/S"
     ],
     "ALT_NAME": [
-      "Null Uplift Atk/Spd"
+      "Uplift Null A/S",
+      "Null Uplift Atk/Spd",
+      "Uplift Null Atk/Spd",
+      "Null Uplift Attack/Speed",
+      "Uplift Null Attack/Speed"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -154942,7 +155286,11 @@
       "A/R Twin M Save"
     ],
     "ALT_NAME": [
-      "Attack/Resistance Twin M Save"
+      "A/R Twin Magic Save",
+      "Atk/Res Twin M Save",
+      "Atk/Res Twin Magic Save",
+      "Attack/Resistance Twin M Save",
+      "Attack/Resistance Twin Magic Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -155650,9 +155998,12 @@
     "refine": {},
     "icon": 2584,
     "HARD_ALT_NAME": [
-      "Atk/Def Favor"
+      "Atk/Res Favor"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "A/R Favor",
+      "Attack/Resistance Favor"
+    ],
     "slot": "Passive B",
     "wpn": false
   },
@@ -155760,7 +156111,10 @@
     "HARD_ALT_NAME": [
       "Def/Res Aria"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "D/R Aria",
+      "Defense/Resistance Aria"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -155824,9 +156178,15 @@
     },
     "icon": 2588,
     "HARD_ALT_NAME": [
-      "D/R Twin F Save"
+      "D/R Twin F Save",
+      "D/R Twin Far Save"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Def/Res Twin F Save",
+      "Def/Res Twin Far Save",
+      "Defense/Resistance Twin F Save",
+      "Defense/Resistance Twin Far Save"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -155932,7 +156292,11 @@
       "S/D Twin P Save"
     ],
     "ALT_NAME": [
-      "Speed/Defense Twin M Save"
+      "S/D Twin Physical Save",
+      "Speed/Defense Twin P Save",
+      "Speed/Defense Twin Physical Save",
+      "Spd/Def Twin P Save",
+      "Spd/Def Twin Physical Save"
     ],
     "slot": "Passive C",
     "wpn": false
@@ -156199,7 +156563,8 @@
       "Strat Flame 1",
       "Strat Flame 2",
       "Strat Flame 3",
-      "Strat Flame 4"
+      "Strat Flame 4",
+      "Strat Flame"
     ],
     "ALT_NAME": [],
     "slot": "Passive A",
@@ -156300,7 +156665,8 @@
       "Strat Assault 1",
       "Strat Assault 2",
       "Strat Assault 3",
-      "Strat Assault 4"
+      "Strat Assault 4",
+      "Strat Assault"
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
@@ -156368,9 +156734,13 @@
     },
     "icon": 2594,
     "HARD_ALT_NAME": [
-      "Heaven's Stead N"
+      "Heaven's Stead N",
+      "Heavens Stead N"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Heaven's Stead Near",
+      "Heavens Stead Near"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -156575,7 +156945,6 @@
     "refine": {},
     "icon": 2597,
     "HARD_ALT_NAME": [
-      "Atk/Res Liberate",
       "Atk/Res Liberate"
     ],
     "ALT_NAME": [
@@ -157292,16 +157661,17 @@
       "Atk/Def Tempo 1",
       "Atk/Def Tempo 2",
       "Atk/Def Tempo 3",
-      "Attack/Defense Tempo 1",
-      "Attack/Defense Tempo 2",
-      "Attack/Defense Tempo 3",
-      "Attack/Defense Tempo"
+      "Atk/Def Tempo"
     ],
     "ALT_NAME": [
       "Attack/Defense Tempo 1",
       "Attack/Defense Tempo 2",
       "Attack/Defense Tempo 3",
-      "Attack/Defense Tempo"
+      "Attack/Defense Tempo",
+      "A/D Tempo 1",
+      "A/D Tempo 2",
+      "A/D Tempo 3",
+      "A/D Tempo"
     ],
     "slot": "Passive B",
     "wpn": false
@@ -157638,7 +158008,8 @@
     ],
     "reference": {
       "Blue-Sky Gust": {
-        "mia6": "5"
+        "mia6": "5",
+        "eliwood6": "5"
       }
     },
     "refine": {},
@@ -159717,5 +160088,622 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_mg606"
+  },
+  "comradesaxe": {
+    "name": "Comrade s Axe",
+    "skill": [
+      {
+        "name": "Comrade's Axe",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Def/Res+7,\u3010Truly Incited\u3011, and \"if unit initiates combat, reduces damage from foe's first attack by 40%\" to unit and allies within 2 spaces of unit for 1 turn.\nAt start of turn, grants \"unit can move 1 extra space\" to unit (that turn only; does not stack).\nAfter start-of-turn skills trigger, if\u3010Stall\u3011is active on unit, neutralizes the \"unit can move 1 extra space\" effect of this skill.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and grants Special cooldown count-X to unit before unit's first follow-up attack during combat (X = number of allies within 3 rows or 3 columns centered on unit, including unit; max 3).\n\u3010Truly Incited\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = number of spaces from start position to end position of whoever initiated combat \u00d7 2 (max 8).\n\u3010Stall\u3011\nIf unit has \"unit can move 1 extra space,\" converts that effect into \"restricts movement to 1 space.\"",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Comrade's Axe": {
+        "eliwood6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Comrade's Axe",
+      "Comrades Axe",
+      "Noble Ablaze",
+      "Eliwood: Noble Ablaze",
+      "Attuned Eliwood",
+      "A Eliwood",
+      "eliwood6",
+      "Eliwod: Noble Ablaze",
+      "Attuned Eliwod",
+      "A Eliwod",
+      "eliwod6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax191"
+  },
+  "gatheredflames": {
+    "name": "Gathered Flames",
+    "skill": [
+      {
+        "name": "Gathered Flames",
+        "description": "When Special triggers, boosts damage by unit's Spd.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+Y during combat (Y is highest bonus on each stat among allies on the map (including unit); calculates each stat bonus independently), and also, if decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit or ally to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (X = highest total bonuses among allies on the map (including unit) \u00d7 4; max 100; triggers only when X \u2265 1).\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit during combat.\n\u3010Potent Follow X%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Gathered Flames": {
+        "eliwood6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Gathered Flames"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "impetusguard": {
+    "name": "Impetus Guard",
+    "skill": [
+      {
+        "name": "Impetus Guard",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Momentum 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "If unit or foe initiates combat after moving to a different space, inflicts Spd/Def/Res-4 on foe, unit deals damage during combat = number of spaces from start position to end position of whoever initiated combat \u00d7 5 (max 20; including area-of-effect Specials; excluding Røkkr area-of-effect Specials), reduces damage from foe's attacks by 10 (excluding area-of-effect Specials), inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), and if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\nIf unit initiates combat after moving to a different space, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat (excluding Røkkr area-of-effect Specials); if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (if number of spaces from start position to end position \u2265 3, X = 2; otherwise, X = 1)."
+      }
+    ],
+    "reference": {
+      "Impetus Guard": {
+        "eliwood6": "5",
+        "ninian5": "5"
+      }
+    },
+    "icon": 2653,
+    "HARD_ALT_NAME": [
+      "Impetus Guard"
+    ],
+    "ALT_NAME": [
+      "Guard Impetus"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "asoutcryseize": {
+    "name": "A S Outcry Seize",
+    "skill": [
+      {
+        "name": "A/S Outcry Seize",
+        "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Atk/Spd+6 and\u3010Drain Cancel\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk/Spd = number of allies on the map with\u3010Drain Cancel\u3011 active + 2 (excluding unit; max 5) and deals damage = number of spaces from start position to end position of whoever initiated combat \u00d7 2 during combat (max 8; excluding area-of-effect Specials).\n\u3010Drain Cancel\u3011\nGrants Atk/Spd/Def/Res+4 to unit during combat.\nWhen a foe triggers both \"grants the\u3010Bonus\u3011 effects active on foe\" and \"neutralizes any \u3010Bonus\u3011active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any\u3010Bonus\u3011effects active on that foe (does not neutralize\u3010Bonus\u3011 effects applied at the same time).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Hone Atk 3",
+          "Hone Spd 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "A/S Outcry Seize": {
+        "eliwood6": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2654,
+    "HARD_ALT_NAME": [
+      "A/S Outcry Seize"
+    ],
+    "ALT_NAME": [
+      "Atk/Spd Outcry Seize",
+      "Attack/Speed Outcry Seize"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "momentumecho": {
+    "name": "Momentum Echo",
+    "skill": [
+      {
+        "name": "Momentum Echo",
+        "stats": {
+          "sp": "0"
+        },
+        "slot": "Passive X",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Deals damage during combat = number of spaces from start position to end position of whoever initiated combat \u00d7 2 (max 8; including area-of-effect Specials; excluding Røkkr area-of-effect Specials).\nIf unit initiates combat after moving to a different space, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat (excluding Røkkr area-of-effect Specials); if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (if number of spaces from start position to end position \u2265 3, X = 2; otherwise, X = 1)."
+      }
+    ],
+    "reference": {
+      "Momentum Echo": {
+        "eliwood6": "5"
+      }
+    },
+    "icon": 2516,
+    "HARD_ALT_NAME": [
+      "Momentum Echo"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive X",
+    "wpn": false
+  },
+  "boundbyice": {
+    "name": "Bound by Ice",
+    "skill": [
+      {
+        "name": "Bound by Ice",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAccelerates Special trigger (cooldown count-1).\nIf foe's Range = 2, calculates damage using the lower of foe's Def or Res.\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Spd/Res-7, \u3010Exposure\u3011, and\u3010Panic\u3011on closest foes and any foe within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, unit deals +25 damage (including area-of-effect Specials), reduces damage from foe's attacks by 60% (excluding area-of-effect Specials), and reduces damage from foe's attacks by an additional 15 during combat (excluding area-of-effect Specials).\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Panic\u3011\nConverts bonuses on unit into penalties.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Breath",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Bound by Ice": {
+        "ninian5": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Bound by Ice",
+      "Heartfelt Dancer",
+      "Ninian: Heartfelt Dancer",
+      "Entwined Ninian",
+      "E Ninian",
+      "En Ninian",
+      "ninian5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ac099"
+  },
+  "dragonstwirl": {
+    "name": "Dragon s Twirl",
+    "skill": [
+      {
+        "name": "Dragon's Twirl",
+        "stats": {
+          "rng": "1",
+          "sp": "400"
+        },
+        "required": [
+          "Dance"
+        ],
+        "slot": "Assist",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants another action to target ally, and if Canto has already been triggered by target ally, re-enables Canto. For target, unit, and Pair Up cohorts (if any), grants Atk/Spd+6, \u3010Dominance\u3011, and\u3010Range: 2 Style\u3011for 1 turn (\u3010Range: 2 Style\u3011is granted to target ally and Pair Up cohort (if any) only when target ally's and Pair Up cohort's Range = 1), and also, grants Special cooldown count-1.\nOn turn 2 onward, if unit has used an Assist skill on the current turn, after Canto, grants another action to unit, re-enables Canto, and inflicts\u3010Isolation\u3011on unit and Pair Up cohort through their next action (this effect will not trigger again for 2 turns after triggering and does not trigger when affected by effects of traps in Aether Raids during Canto).\n(Cannot target an ally with Sing or Dance. This skill treated as Sing or Dance.)\n\u3010Dominance\u3011\nUnit deals additional damage = total penalties on foe for 1 turn.\n\u3010Range: 2 Style\u3011\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Range: 2 Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe. After-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can only be used if unit has Range = 1.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nThis Style is disabled when unit has another Style.\nAfter combat where this\u3010Style\u3011 is used, removes this status.\nChange Style using the Style button at the bottom of the screen. A unit's Style is only active when that unit is taking an action.\n\u3010Isolation\u3011\nTarget cannot use or be the target of Assist skills through its next action. (Target can neither use nor be the target of skills like Dance and Sing, skills that neutralize penalties, like Restore and Harsh Command+, etc.)"
+      }
+    ],
+    "reference": {
+      "Dragon's Twirl": {
+        "ninian5": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Dragon's Twirl",
+      "Dragons Twirl"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "meleeblade": {
+    "name": "Melee Blade+",
+    "skill": [
+      {
+        "name": "Melee Blade+",
+        "description": "Inflicts Atk/Spd/Def/Res-5 on foes within 3 rows or 3 columns centered on unit and neutralizes effects that grant \"Special cooldown charge +X\" to those foes during their combat.\nAt start of combat, if unit's HP \u2265 25%, unit deals +X \u00d7 5 damage during combat (max 20; X = number of foes within 3 spaces of target, including target; excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Melee Blade+": {
+        "marcus": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "meleeblade",
+      "Knight of Pherae",
+      "Marcus: Knight of Pherae",
+      "Base Marcus",
+      "Normal Marcus",
+      "Regular Marcus",
+      "marcus"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw213"
+  },
+  "defresclash": {
+    "name": "Def/Res Clash",
+    "skill": [
+      {
+        "name": "Def/Res Clash 1",
+        "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Def/Res during combat = X + 1. (X = number of spaces from start position to end position of whoever initiated combat; max 1).",
+        "stats": {
+          "sp": "60"
+        },
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "bonus": {}
+      },
+      {
+        "name": "Def/Res Clash 2",
+        "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Def/Res during combat = X + 3. (X = number of spaces from start position to end position of whoever initiated combat; max 2).",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Def/Res Clash 1"
+        ],
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "bonus": {}
+      },
+      {
+        "name": "Def/Res Clash 3",
+        "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Def/Res during combat = X + 5. (X = number of spaces from start position to end position of whoever initiated combat; max 3).",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Def/Res Clash 2"
+        ],
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Def/Res Clash 3": {
+        "marcus": "5"
+      },
+      "Def/Res Clash 2": {},
+      "Def/Res Clash 1": {}
+    },
+    "refine": {},
+    "icon": 2656,
+    "HARD_ALT_NAME": [
+      "Def/Res Clash 1",
+      "Def/Res Clash 2",
+      "Def/Res Clash 3",
+      "Def/Res Clash"
+    ],
+    "ALT_NAME": [
+      "D/R Clash 1",
+      "D/R Clash 2",
+      "D/R Clash 3",
+      "D/R Clash",
+      "Defense/Resistance Clash 1",
+      "Defense/Resistance Clash 2",
+      "Defense/Resistance Clash 3",
+      "Defense/Resistance Clash"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "apprenticelance": {
+    "name": "Apprentice Lance",
+    "skill": [
+      {
+        "name": "Apprentice Lance",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAccelerates Special trigger (cooldown count-1).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), neutralizes penalties, and deals +Y damage during combat (excluding area-of-effect Specials; for unit, Y = 25; for allies, Y = 10), and restores 7 HP after combat.\nReduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), unit makes a guaranteed follow-up attack, and grants Special cooldown count-1 to unit before unit's first attack during combat.\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Apprentice Lance": {
+        "lowen": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Apprentice Lance",
+      "Apprentice Knight",
+      "Lowen: Apprentice Knight",
+      "Base Lowen",
+      "Normal Lowen",
+      "Regular Lowen",
+      "lowen"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc209"
+  },
+  "adoutcrydull": {
+    "name": "A D Outcry Dull",
+    "skill": [
+      {
+        "name": "A/D Outcry Dull",
+        "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Def+6 and \"neutralizes foe's bonuses during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk/Def = number of allies on the map with the \"neutralizes foe's bonuses during combat\" status effect active + 2 (excluding unit; max 5) and deals damage = number of spaces from start position to end position of whoever initiated combat \u00d7 2 during combat (max 8; excluding area-of-effect Specials).",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Hone Atk 3",
+          "Fortify Def 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "A/D Outcry Dull": {
+        "lowen": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2657,
+    "HARD_ALT_NAME": [
+      "A/D Outcry Dull"
+    ],
+    "ALT_NAME": [
+      "Atk/Def Outcry Dull",
+      "Attack/Defense Outcry Dull"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "reforgedlance": {
+    "name": "Reforged Lance+",
+    "skill": [
+      {
+        "name": "Reforged Lance+",
+        "description": "At start of player phase or enemy phase, grants Atk/Def+6 to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 50% of X during combat (excluding area-of-effect Specials; X = highest total bonuses among unit and allies within 3 spaces of unit).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Reforged Lance+": {
+        "wallace": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "reforgedlance",
+      "Crag of Caelin",
+      "Wallace: Crag of Caelin",
+      "Base Wallace",
+      "Normal Wallace",
+      "Regular Wallace",
+      "wallace"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc210"
   }
 }
