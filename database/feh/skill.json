@@ -4705,6 +4705,9 @@
           "rng": "1",
           "sp": "100"
         },
+        "required": [
+          "Heal"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4772,6 +4775,9 @@
           "rng": "2",
           "sp": "200"
         },
+        "required": [
+          "Mend"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4790,6 +4796,9 @@
           "rng": "2",
           "sp": "300"
         },
+        "required": [
+          "Physic"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4841,6 +4850,9 @@
           "rng": "1",
           "sp": "200"
         },
+        "required": [
+          "Mend"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4859,6 +4871,9 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Recover"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4906,6 +4921,9 @@
           "rng": "1",
           "sp": "100"
         },
+        "required": [
+          "Heal"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4981,6 +4999,9 @@
           "rng": "1",
           "sp": "200"
         },
+        "required": [
+          "Reconcile"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -4999,6 +5020,9 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Martyr"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -5048,6 +5072,9 @@
           "rng": "1",
           "sp": "200"
         },
+        "required": [
+          "Reconcile"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -5066,6 +5093,9 @@
           "rng": "1",
           "sp": "300"
         },
+        "required": [
+          "Rehabilitate"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -5157,7 +5187,8 @@
         "eikthyrnir4": "3",
         "lucina9": "3",
         "franz": "3",
-        "marcus": "3"
+        "marcus": "3",
+        "lucina10": "3"
       }
     },
     "refine": {},
@@ -5747,6 +5778,9 @@
           "rng": "1",
           "sp": "400"
         },
+        "required": [
+          "Harsh Command"
+        ],
         "exclusive": false,
         "slot": "Assist",
         "restriction_weapon": [
@@ -5965,6 +5999,10 @@
           "cooldown": "5",
           "sp": "500"
         },
+        "required": [
+          "Sol",
+          "Luna"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -6147,7 +6185,8 @@
         "fshez5": "3",
         "lute3": "3",
         "mia6": "3",
-        "mbyleth6": "3"
+        "mbyleth6": "3",
+        "lucina10": "3"
       }
     },
     "refine": {},
@@ -6167,6 +6206,9 @@
           "cooldown": "2",
           "sp": "200"
         },
+        "required": [
+          "Night Sky"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -6284,6 +6326,9 @@
           "cooldown": "4",
           "sp": "200"
         },
+        "required": [
+          "Night Sky"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -6342,7 +6387,8 @@
         "fshez5": "4",
         "lute3": "4",
         "mia6": "4",
-        "mbyleth6": "4"
+        "mbyleth6": "4",
+        "lucina10": "4"
       }
     },
     "refine": {},
@@ -6440,6 +6486,9 @@
           "cooldown": "2",
           "sp": "200"
         },
+        "required": [
+          "Daylight"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -6495,6 +6544,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Daylight"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -6785,6 +6837,9 @@
           "cooldown": "2",
           "sp": "200"
         },
+        "required": [
+          "New Moon"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -6913,6 +6968,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "New Moon"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -7113,6 +7171,9 @@
           "cooldown": "2",
           "sp": "200"
         },
+        "required": [
+          "Retribution"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -7158,6 +7219,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Retribution"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -7376,6 +7440,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Dragon Gaze"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -7485,6 +7552,9 @@
           "cooldown": "4",
           "sp": "200"
         },
+        "required": [
+          "Dragon Gaze"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -7753,6 +7823,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Glowing Ember"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8129,6 +8202,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Chilling Wind"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8231,6 +8307,9 @@
           "cooldown": "4",
           "sp": "200"
         },
+        "required": [
+          "Chilling Wind"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8376,6 +8455,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Flame"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8413,6 +8495,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Flame"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8503,6 +8588,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Wind"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8538,6 +8626,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Wind"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8631,6 +8722,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Thunder"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8668,6 +8762,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Thunder"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8756,6 +8853,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Light"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8794,6 +8894,9 @@
           "cooldown": "4",
           "sp": "300"
         },
+        "required": [
+          "Rising Light"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8900,6 +9003,9 @@
           "cooldown": "2",
           "sp": "200"
         },
+        "required": [
+          "Buckler"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -8954,6 +9060,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Buckler"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -9063,6 +9172,9 @@
           "cooldown": "2",
           "sp": "200"
         },
+        "required": [
+          "Holy Vestments"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -9113,6 +9225,9 @@
           "cooldown": "3",
           "sp": "200"
         },
+        "required": [
+          "Holy Vestments"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -9543,6 +9658,9 @@
           "cooldown": "5",
           "sp": "500"
         },
+        "required": [
+          "Astra"
+        ],
         "exclusive": false,
         "slot": "Special",
         "restriction_weapon": [
@@ -9606,6 +9724,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "HP +3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9620,6 +9741,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "HP +4"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9682,6 +9806,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Attack +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9696,6 +9823,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Attack +2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9758,6 +9888,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Speed +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9772,6 +9905,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Speed +2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9837,6 +9973,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Defense +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9851,6 +9990,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Defense +2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9911,6 +10053,9 @@
         "stats": {
           "sp": "60"
         },
+        "required": [
+          "Resistance +1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9925,6 +10070,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Resistance +2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -9997,6 +10145,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Fury 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10019,6 +10170,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fury 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10041,6 +10195,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fury 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10132,6 +10289,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Life and Death 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10154,6 +10314,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Life and Death 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10176,6 +10339,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Life and Death 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10262,6 +10428,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Death Blow 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10279,6 +10448,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Death Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10296,6 +10468,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Death Blow 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10410,6 +10585,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Darting Blow 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10427,6 +10605,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Darting Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10444,6 +10625,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Darting Blow 3"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10565,6 +10749,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Armored Blow 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10582,6 +10769,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Armored Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10659,6 +10849,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Warding Blow 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10676,6 +10869,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Warding Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -10750,6 +10946,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Defiant Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10762,6 +10961,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Defiant Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10823,6 +11025,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Defiant Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10835,6 +11040,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Defiant Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10893,6 +11101,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Defiant Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10905,6 +11116,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Defiant Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10963,6 +11177,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Defiant Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -10975,6 +11192,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Defiant Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": false,
@@ -11042,6 +11262,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Triangle Adept 1"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -11064,6 +11287,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Triangle Adept 2"
+        ],
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
@@ -11496,6 +11722,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Pass 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11508,6 +11737,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Pass 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11558,6 +11790,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Obstruct 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11570,6 +11805,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Obstruct 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11622,6 +11860,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Wings of Mercy 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11634,6 +11875,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Wings of Mercy 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11646,6 +11890,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Wings of Mercy 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11707,6 +11954,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Escape Route 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11719,6 +11969,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Escape Route 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11731,6 +11984,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Escape Route 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11790,6 +12046,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Vantage 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11802,6 +12061,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Vantage 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11860,6 +12122,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Desperation 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11872,6 +12137,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Desperation 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11884,6 +12152,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Desperation 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11946,6 +12217,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Brash Assault 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11958,6 +12232,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Brash Assault 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -11970,6 +12247,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Brash Assault 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12026,6 +12306,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Quick Riposte 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12038,6 +12321,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Quick Riposte 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12050,6 +12336,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Quick Riposte 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12118,6 +12407,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Wary Fighter 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12135,6 +12427,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Wary Fighter 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12206,6 +12501,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Poison Strike 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12223,6 +12521,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Poison Strike 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12289,6 +12590,9 @@
         "stats": {
           "sp": "120"
         },
+        "required": [
+          "Renewal 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12301,6 +12605,9 @@
         "stats": {
           "sp": "240"
         },
+        "required": [
+          "Renewal 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -12361,6 +12668,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Live to Serve 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12378,6 +12688,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Live to Serve 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12439,6 +12752,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Seal Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12456,6 +12772,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Seal Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12473,6 +12792,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Atk 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12550,6 +12872,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Seal Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12567,6 +12892,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Seal Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12584,6 +12912,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12664,6 +12995,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Seal Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12681,6 +13015,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Seal Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12698,6 +13035,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12778,6 +13118,9 @@
         "stats": {
           "sp": "80"
         },
+        "required": [
+          "Seal Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12795,6 +13138,9 @@
         "stats": {
           "sp": "160"
         },
+        "required": [
+          "Seal Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12812,6 +13158,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Seal Res 3"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12895,6 +13244,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Swordbreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12917,6 +13269,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Swordbreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -12986,6 +13341,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Lancebreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13008,6 +13366,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Lancebreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13076,6 +13437,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Axebreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13098,6 +13462,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Axebreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13160,6 +13527,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Bowbreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -13177,6 +13547,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Bowbreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -13229,6 +13602,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Daggerbreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -13241,6 +13617,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Daggerbreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": false,
@@ -13297,6 +13676,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "R Tomebreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13319,6 +13701,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "R Tomebreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13394,6 +13779,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "B Tomebreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13416,6 +13804,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "B Tomebreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13492,6 +13883,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "G Tomebreaker 1"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13514,6 +13908,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "G Tomebreaker 2"
+        ],
         "exclusive": false,
         "slot": "Passive B",
         "restriction_weapon": [
@@ -13577,6 +13974,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Breath of Life 1"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -13588,6 +13988,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Breath of Life 2"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -13599,6 +14002,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Breath of Life 3"
+        ],
         "slot": "Passive C",
         "exclusive": false,
         "restriction_weapon": false,
@@ -13656,6 +14062,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Savage Blow 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13668,6 +14077,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Savage Blow 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13725,6 +14137,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Spur Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13737,6 +14152,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13838,6 +14256,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Spur Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13850,6 +14271,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13934,6 +14358,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Spur Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -13946,6 +14373,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14026,6 +14456,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Spur Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14038,6 +14471,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14114,6 +14550,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Atk 2",
+          "Spur Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14149,6 +14589,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Def 2",
+          "Spur Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14182,6 +14626,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Atk 2",
+          "Spur Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14217,6 +14665,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Def 2",
+          "Spur Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14252,6 +14704,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Atk 2",
+          "Spur Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14290,6 +14746,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Spur Def 2",
+          "Spur Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14337,6 +14797,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Hone Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14349,6 +14812,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14361,6 +14827,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Hone Atk 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14447,6 +14916,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Hone Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14459,6 +14931,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14471,6 +14946,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Hone Spd 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14561,6 +15039,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Fortify Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14573,6 +15054,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14585,6 +15069,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fortify Def 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14662,6 +15149,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Fortify Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14674,6 +15164,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14686,6 +15179,9 @@
         "stats": {
           "sp": "300"
         },
+        "required": [
+          "Fortify Res 3"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14749,6 +15245,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Atk 2",
+          "Hone Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14783,6 +15283,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Def 2",
+          "Fortify Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14818,6 +15322,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Atk 2",
+          "Hone Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14852,6 +15360,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Def 2",
+          "Fortify Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14885,6 +15397,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Hone Atk 2",
+          "Hone Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14928,6 +15444,10 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Fortify Def 2",
+          "Fortify Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14975,6 +15495,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Atk 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -14987,6 +15510,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threaten Atk 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -15054,6 +15580,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Spd 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -15066,6 +15595,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threaten Spd 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -15133,6 +15665,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Def 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -15145,6 +15680,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threaten Def 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -15220,6 +15758,9 @@
         "stats": {
           "sp": "100"
         },
+        "required": [
+          "Threaten Res 1"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -15232,6 +15773,9 @@
         "stats": {
           "sp": "200"
         },
+        "required": [
+          "Threaten Res 2"
+        ],
         "exclusive": false,
         "slot": "Passive C",
         "restriction_weapon": false,
@@ -42011,7 +42555,8 @@
         "lucina9": "4",
         "boyd": "5",
         "hilda6": "4",
-        "mbyleth6": "4"
+        "mbyleth6": "4",
+        "lucina10": "4"
       },
       "Atk/Spd Link 2": {},
       "Atk/Spd Link 1": {}
@@ -84379,7 +84924,8 @@
         "lucina9": "4",
         "ignatz": "4",
         "mbyleth6": "4",
-        "celica8": "4"
+        "celica8": "4",
+        "lucina10": "4"
       },
       "Atk/Spd Ideal 2": {},
       "Atk/Spd Ideal 1": {}
@@ -138624,7 +139170,10 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Dagger",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5
+        }
       }
     ],
     "reference": {
@@ -138813,6 +139362,9 @@
         "exclusive": true,
         "restriction_weapon": false,
         "restriction_movement": false,
+        "bonus": {
+          "hp": 5
+        },
         "description": "Grants HP+5.\nAfter unit acts (if Canto triggers, after Canto), or, if defending in Aether Raids, at the start of enemy phase, applies\u3010Divine Vein (Stone)\u3011to unit's space and spaces within 2 spaces of unit for 1 turn. If foe initiates combat or foe's HP \u2265 75% at start of combat, inflicts Atk/Def-10 on foe, grants Special cooldown count-2 to unit before foe's first attack, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Divine Vein (Stone)\u3011\nApplies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding R\u00f8kkr area-of-effect Specials). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain.)"
       }
     ],
@@ -139164,7 +139716,10 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Lance",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "atk": 3
+        }
       }
     ],
     "reference": {
@@ -140388,7 +140943,7 @@
     "name": "Snaking Sword",
     "skill": [
       {
-        "name": "Fellowship Blade",
+        "name": "Snaking Sword",
         "description": "Accelerates Special trigger (cooldown count-1).\nAllies within 2 spaces of unit can move to any space within 2 spaces of unit.\nIf unit has entered combat or used an Assist skill during the current turn, allies can move to a space within 2 spaces of unit.\nIf unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit x 3, + 5 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's first attack by 20% of unit's Spd during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
         "stats": {
           "mt": "16",
@@ -140712,7 +141267,8 @@
         "felix4": "5",
         "lucina9": "5",
         "ignatz": "5",
-        "mbyleth6": "5"
+        "mbyleth6": "5",
+        "lucina10": "5"
       }
     },
     "icon": 2332,
@@ -141702,6 +142258,11 @@
         "exclusive": true,
         "restriction_weapon": false,
         "restriction_movement": false,
+        "bonus": {
+          "atk": 10,
+          "def": 10,
+          "res": 10
+        },
         "description": "Grants Atk/Def/Res+10.\nIf foe initiates combat or foe's HP \u2265 75% at start of combat, grants bonus to unit's Atk/Def/Res = A + B (A = 2 \u00d7 number of \u3010Penalty\u3011effects active on foe and foes within 3 rows or 3 columns centered on that foe, excluding stat penalties; max 12; B = 2 \u00d7 current penalty on unit's respective stats; calculates each stat penalty independently), neutralizes foe's bonuses to Atk/Res, and reduces damage from foe's first attack by X% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; if foe can make a follow-up attack, X = 80; otherwise, X = 40), and restores 7 HP to unit after combat.\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
       }
     ],
@@ -142899,7 +143460,10 @@
         "slot": "Weapon",
         "weapon_type": "Green_Tome",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "atk": 3
+        }
       }
     ],
     "reference": {
@@ -143144,7 +143708,7 @@
     "skill": [
       {
         "name": "Springing Spear",
-        "description": "Enables\u3010Canto (Rem. +1; Min \uff12)\u3011. Grants Res+3\nAt start of turn, grants\u3010Canto (\uff11)\u3011to allies within 2 spaces of unit for 1 turn.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Def/Res+5, ally deals +10 damage (excluding area-of-effect Specials), and grants Special cooldown count-1 to ally before ally's first attack during their combat.\nIf there is an ally within 3 rows or 3 columns centered on unit, inflicts penalty on foe's Atk/Def = 20% of unit's Res at start of combat + 6, unit deals +10 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 10 (excluding area-of-effect Specials), and foe cannot make a follow-up attack during combat.\n\u3010Canto (Rem. +1; Min \uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1 (min \uff12; if unit used a movement skill that warped them, unit can move \uff12 space(s)).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)\n\u3010Canto (\uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff11 space(s). (Once per turn. Only highest value applied. Does not stack.)",
+        "description": "Enables\u3010Canto (Rem. +1; Min \uff12)\u3011. Grants Res+3.\nAt start of turn, grants\u3010Canto (\uff11)\u3011to allies within 2 spaces of unit for 1 turn.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Def/Res+5, ally deals +10 damage (excluding area-of-effect Specials), and grants Special cooldown count-1 to ally before ally's first attack during their combat.\nIf there is an ally within 3 rows or 3 columns centered on unit, inflicts penalty on foe's Atk/Def = 20% of unit's Res at start of combat + 6, unit deals +10 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 10 (excluding area-of-effect Specials), and foe cannot make a follow-up attack during combat.\n\u3010Canto (Rem. +1; Min \uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1 (min \uff12; if unit used a movement skill that warped them, unit can move \uff12 space(s)).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)\n\u3010Canto (\uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff11 space(s). (Once per turn. Only highest value applied. Does not stack.)",
         "stats": {
           "mt": "16",
           "rng": "1",
@@ -143154,7 +143718,10 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Lance",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "res": 3
+        }
       }
     ],
     "reference": {
@@ -143520,7 +144087,12 @@
         "slot": "Weapon",
         "weapon_type": "Red_Tome",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5,
+          "atk": 6,
+          "res": 6
+        }
       }
     ],
     "reference": {
@@ -144560,6 +145132,9 @@
             "Armored"
           ]
         ],
+        "bonus": {
+          "hp": 5
+        },
         "description": "Grants HP+5.\nIf foe initiates combat or if unit's HP \u2265 50% at start of combat, grants Spd/Def/Res+9 to unit during combat and restores 7 HP to unit after combat."
       }
     ],
@@ -144839,7 +145414,10 @@
         "slot": "Weapon",
         "weapon_type": "Colorless_Staff",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "spd": 3
+        }
       }
     ],
     "reference": {
@@ -144922,7 +145500,10 @@
         "slot": "Weapon",
         "weapon_type": "Red_Sword",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "atk": 3
+        }
       }
     ],
     "reference": {
@@ -145221,7 +145802,11 @@
         "slot": "Passive A",
         "restriction_weapon": false,
         "restriction_movement": false,
-        "bonus": {}
+        "bonus": {
+          "atk": 10,
+          "def": 10,
+          "res": 10
+        }
       }
     ],
     "reference": {
@@ -151456,7 +152041,8 @@
       "Atk/Spd Favor": {
         "lucina9": "5",
         "hilda6": "5",
-        "mbyleth6": "5"
+        "mbyleth6": "5",
+        "lucina10": "5"
       }
     },
     "refine": {},
@@ -152338,6 +152924,9 @@
             "Armored"
           ]
         ],
+        "bonus": {
+          "hp": 5
+        },
         "description": "Grants HP+5.\nIf foe initiates combat or if unit's HP \u2265 50% at start of combat, grants Atk/Spd/Res+9 to unit during combat and restores 7 HP to unit after combat."
       }
     ],
@@ -152869,7 +153458,10 @@
         "slot": "Weapon",
         "weapon_type": "Red_Beast",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "spd": 3
+        }
       }
     ],
     "reference": {
@@ -153004,7 +153596,10 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Tome",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "spd": 3
+        }
       }
     ],
     "reference": {
@@ -153514,7 +154109,10 @@
         "slot": "Weapon",
         "weapon_type": "Red_Sword",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "required": {
+          "atk": 3
+        }
       }
     ],
     "reference": {
@@ -153747,7 +154345,10 @@
         "slot": "Weapon",
         "weapon_type": "Green_Axe",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "def": 3
+        }
       }
     ],
     "reference": {
@@ -154754,7 +155355,10 @@
         "slot": "Weapon",
         "weapon_type": "Green_Tome",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "spd": 3
+        }
       }
     ],
     "reference": {
@@ -155859,7 +156463,12 @@
         "slot": "Passive A",
         "restriction_weapon": false,
         "restriction_movement": false,
-        "bonus": {}
+        "bonus": {
+          "atk": 9,
+          "spd": 9,
+          "def": 9,
+          "res": 9
+        }
       }
     ],
     "reference": {
@@ -156805,7 +157414,10 @@
         "slot": "Weapon",
         "weapon_type": "Red_Tome",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "spd": 3
+        }
       }
     ],
     "reference": {
@@ -157839,7 +158451,10 @@
         "slot": "Weapon",
         "weapon_type": "Blue_Lance",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "res": 3
+        }
       }
     ],
     "reference": {
@@ -159145,7 +159760,9 @@
     "HARD_ALT_NAME": [
       "Swift Specter"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Swift Spectre"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -159285,7 +159902,14 @@
         "exclusive": true,
         "slot": "Passive A",
         "restriction_weapon": false,
-        "restriction_movement": false
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5,
+          "atk": 9,
+          "spd": 9,
+          "def": 9,
+          "res": 9
+        }
       }
     ],
     "reference": {
@@ -160017,7 +160641,9 @@
     "HARD_ALT_NAME": [
       "Divine Specter"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "Divine Spectre"
+    ],
     "slot": "Passive A",
     "wpn": false
   },
@@ -160705,5 +161331,172 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_lc210"
+  },
+  "royalexaltbow": {
+    "name": "Royal Exalt Bow",
+    "skill": [
+      {
+        "name": "Royal Exalt Bow",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes.\nIf a Rally or movement Assist skill is used by unit, grants another action to unit (once per turn; if another effect that grants action to unit has been activated at the same time, this effect is also considered to have been triggered).\nIf a Rally or movement Assist skill is used by unit or targets unit, grants\u3010Future Witness\u3011 and\u3010Dodge\u3011to allies within 2 spaces of both unit and target after movement (including unit and target) for 1 turn.\nGrants Atk/Spd/Res/Def+15 to unit, neutralizes foe's bonuses to Spd/Def, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\n\u3010Future Witness\u3011\nEnables Canto (2).\nGrants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\n\u3010Dodge\u3011\nIf unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats \u00d7 4 (max 40%).\n\u3010Potent Follow 100%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Royal Exalt Bow": {
+        "lucina10": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Royal Exalt Bow",
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw148"
+  },
+  "allforone": {
+    "name": "All for One",
+    "skill": [
+      {
+        "name": "All for One",
+        "description": "Boosts damage by X% of unit's Spd when Special triggers (X = 40 + the number of allies within 3 rows or 3 columns centered on unit \u00d7 20; max 100%).\nReduces damage from foe's attacks by Y% during combat (Y = the number of allies within 3 rows or 3 columns centered on unit \u00d7 20; if unit initiates combat, max 60%; otherwise, max 40%; excluding area-of-effect Specials).\nFor allies within 3 rows or 3 columns centered on unit, if ally initiates combat, reduces damage from foe's attack by 40% during combat (excluding area-of-effect Specials; counts as if damage reduction is from a Special).\nFor certain target allies within 3 rows or 3 columns centered on unit, if foe initiates combat, reduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials; only triggers once per turn; counts as if damage reduction is from a Special). (If support partner is on player team, targets any support partner; otherwise, targets any ally.)",
+        "stats": {
+          "cooldown": "4",
+          "sp": "500"
+        },
+        "required": [
+          "Astra"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "All for One": {
+        "lucina10": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "All for One"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "dualsupport": {
+    "name": "Dual Support",
+    "skill": [
+      {
+        "name": "Dual Support 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+1, deals +1 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      },
+      {
+        "name": "Dual Support 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Dual Support 1"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+2, deals +2 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 2 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      },
+      {
+        "name": "Dual Support 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Dual Support 2"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+3, deals +3 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 3 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      },
+      {
+        "name": "Dual Support 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Dual Support 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd+5, deals +5 damage (excluding area-of-effect Specials), reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit and allies during combat."
+      }
+    ],
+    "reference": {
+      "Dual Support 1": {},
+      "Dual Support 2": {},
+      "Dual Support 3": {},
+      "Dual Support 4": {
+        "lucina10": "5"
+      }
+    },
+    "icon": 2658,
+    "HARD_ALT_NAME": [
+      "Dual Support 1",
+      "Dual Support 2",
+      "Dual Support 3",
+      "Dual Support 4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
   }
 }

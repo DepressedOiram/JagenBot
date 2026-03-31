@@ -808,7 +808,13 @@
       "Harmonized Brave Lyn",
       "H B Lyn",
       "B H Lyn",
-      "lyn11"
+      "lyn11",
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
     ],
     "HARD_ALT_NAME": [
       "lucy3",
@@ -1048,7 +1054,13 @@
       "Harmonized Brave Lyn",
       "H B Lyn",
       "B H Lyn",
-      "lyn11"
+      "lyn11",
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
     ],
     "heroes": {
       "clair": "<:Blue_Lance:1317239378208096338>Clair",
@@ -1063,6 +1075,7 @@
       "lucina7": "<:Green_Axe:1317239517136031897>Rearmed Lucina",
       "lucina8": "<:Colorless_Bow:1317239404204654703>Ninja Lucina",
       "lucina9": "<:Blue_Lance:1317239378208096338>Ferox Marth",
+      "lucina10": "<:Red_Bow:1317239680571543592>Emblem Lucina",
       "lyn11": "<:Colorless_Bow:1317239404204654703>Harmonic Brave Lyn",
       "mia3": "<:Colorless_Dagger:1317239418943438869>Harmonic Mia",
       "pallaR": "<:Red_Sword:1317239717707911188>Palla (Resplendent)",

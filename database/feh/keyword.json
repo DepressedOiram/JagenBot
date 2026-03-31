@@ -811,7 +811,9 @@
                 "Supreme Th\u00f6kk",
                 "Salvage"
             ],
-            "Bow": [],
+            "Bow": [
+                "Royal Exalt Bow"
+            ],
             "Dagger": [
                 "Ni\u00f0avellir Sprig"
             ],
@@ -2658,7 +2660,9 @@
                 "Sisterly Axe"
             ],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "Royal Exalt Bow"
+            ],
             "Dagger": [
                 "Arcane Slicer",
                 "Jehanna Dagger+"
@@ -3647,7 +3651,24 @@
         "description": "Enables\u3010Canto (\uff12)\u3011.\nGrants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
         "color": "Blue",
         "icon": "futurewitness",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [ ],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [
+                "Royal Exalt Bow"
+            ],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [
                 "Future Focus",
@@ -5666,7 +5687,8 @@
             "Axe": [],
             "Staff": [],
             "Bow": [
-                "Keen Coyote Bow"
+                "Keen Coyote Bow",
+                "Royal Exalt Bow"
             ],
             "Dagger": [
                 "Abyssal Blade"

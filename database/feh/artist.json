@@ -1332,7 +1332,13 @@
       "G Chrom",
       "Ferox Chrom",
       "F Chrom 2",
-      "chrom9"
+      "chrom9",
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
     ],
     "HARD_ALT_NAME": [
       "gaiusR",
@@ -1562,7 +1568,13 @@
       "G Chrom",
       "Ferox Chrom",
       "F Chrom 2",
-      "chrom9"
+      "chrom9",
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
     ],
     "heroes": {
       "alfonse3": "<:Blue_Tome:1317239386491977749>Duo Alfonse",
@@ -1580,6 +1592,7 @@
       "hrid2": "<:Red_Sword:1317239717707911188>New Year Hr\u00edd",
       "hrid3": "<:Blue_Lance:1317239378208096338>Summer Hr\u00edd",
       "ike8": "<:Blue_Lance:1317239378208096338>Jehanna Ike",
+      "lucina10": "<:Red_Bow:1317239680571543592>Emblem Lucina",
       "navarre2": "<:Blue_Lance:1317239378208096338>Ninja Navarre",
       "odinR": "<:Blue_Tome:1317239386491977749>Odin (Resplendent)",
       "sylvain": "<:Green_Axe:1317239517136031897>Sylvain",

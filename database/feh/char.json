@@ -2273,7 +2273,8 @@
       "lucina6",
       "lucina7",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "sealedfalchioneff",
@@ -22553,7 +22554,8 @@
       "lucina6",
       "lucina7",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "blueeggspd",
@@ -26102,7 +26104,8 @@
       "lucina6",
       "lucina7",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "sealedfalchioneff",
@@ -31985,7 +31988,8 @@
       "lucina6",
       "lucina7",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "geirskoguleff",
@@ -51456,7 +51460,8 @@
       "lucina6",
       "lucina7",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "thogneff",
@@ -139387,7 +139392,8 @@
       "lucina5",
       "lucina7",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "gerberaaxe",
@@ -186653,7 +186659,8 @@
       "lucina5",
       "lucina6",
       "lucina8",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "arcaneprimaspd",
@@ -210110,7 +210117,8 @@
       "lucina5",
       "lucina6",
       "lucina7",
-      "lucina9"
+      "lucina9",
+      "lucina10"
     ],
     "prf": {
       "": "ylisseninjabow",
@@ -232498,7 +232506,8 @@
       "lucina5",
       "lucina6",
       "lucina7",
-      "lucina8"
+      "lucina8",
+      "lucina10"
     ],
     "prf": {
       "": "disguiselance",
@@ -233352,10 +233361,10 @@
         "My bonds with my siblings make me stronger. No matter the foe, I will not back down!\nI, Ryoma, high prince of Hoshido, will forge ahead!"
       ],
       "Learn Skill": [
-        "You have my gratitude, [S]. I hope we can form a relationship built on mutual respect."
+        "You have my gratitude, Summoner. I hope we can form a relationship built on mutual respect."
       ],
       "Confession": [
-        "[S]. That inquisitive gaze... Did you wish to ask me something about this ring?\nLong ago, my siblings and I had it crafted and we made a vow.\nThat vow was to present the ring to Corrin upon our safe reunion. It is something of a luck charm.\nI believe we siblings\u2014Hoshidan and Nohrian\u2014can bring joy to the world if we join together around Corrin.\nI am considering a similar ring for the day when I can finally welcome you to Hoshido, [S].\nThat is how much I value our bond. We, too, are siblings."
+        "Summoner. That inquisitive gaze... Did you wish to ask me something about this ring?\nLong ago, my siblings and I had it crafted and we made a vow.\nThat vow was to present the ring to Corrin upon our safe reunion. It is something of a luck charm.\nI believe we siblings\u2014Hoshidan and Nohrian\u2014can bring joy to the world if we join together around Corrin.\nI am considering a similar ring for the day when I can finally welcome you to Hoshido, [S].\nThat is how much I value our bond. We, too, are siblings."
       ],
       "Special": [
         "On our bond!",
@@ -234031,7 +234040,7 @@
         "I am grateful for the kindness you show outsiders."
       ],
       "Confession": [
-        "[S] from another world, I am thankful for this unique opportunity.\nSoldiers of Hoshido polish their techniques for their lords and nation, to defend against the Nohrian army.\nI never considered a way of life other than that. My world was simple.\nBut...I've observed the Heroes in this land and learned of their multifarious reasons for going into battle.\nMy spear is for Hoshido, but for now, I will contemplate the meaning of war as I use it for your sake."
+        "Summoner from another world, I am thankful for this unique opportunity.\nSoldiers of Hoshido polish their techniques for their lords and nation, to defend against the Nohrian army.\nI never considered a way of life other than that. My world was simple.\nBut...I've observed the Heroes in this land and learned of their multifarious reasons for going into battle.\nMy spear is for Hoshido, but for now, I will contemplate the meaning of war as I use it for your sake."
       ],
       "Special": [
         "How about this?",
@@ -246478,6 +246487,190 @@
       "spd": "forgedlance",
       "def": "forgedlance",
       "res": "forgedlance"
+    }
+  },
+  "lucina10": {
+    "name": "Lucina",
+    "title": "Of Awakening",
+    "description": "One of the Emblems who were summoned to Elyos. Resides in the Ring of the Princess Exalt. Appears in Fire Emblem Awakening / Fire Emblem Engage.",
+    "origin": "Awakening + Engage",
+    "artist": "argon / Exys Inc.",
+    "move": "Infantry",
+    "weapon": "Bow",
+    "color": "Red",
+    "duel": false,
+    "id": "1361",
+    "type": "emblem",
+    "version": "10.3",
+    "duo": false,
+    "harmonized": false,
+    "emblem": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nFor certain target allies within 3 spaces of unit, if foe initiates combat, reduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; only triggers once per turn; counts as if damage reduction is from a Special). (If support partner is on player team, targets any support partner; otherwise, targets any ally.)",
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 8,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 60,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Royal Exalt Bow": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "All for One": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Perfect Atk/Spd": "5"
+      },
+      "B": {
+        "Atk/Spd Link 1": "2",
+        "Atk/Spd Link 2": "3",
+        "Atk/Spd Link 3": "4",
+        "Atk/Spd Favor": "5"
+      },
+      "C": {
+        "Dual Support 1": "2",
+        "Dual Support 2": "3",
+        "Dual Support 3": "4",
+        "Dual Support 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Lucina_Of_Awakening_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Lucina_Of_Awakening_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Lucina_Of_Awakening_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Lucina_Of_Awakening_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
+    ],
+    "HARD_ALT_NAME": [
+      "Of Awakening",
+      "Lucina: Of Awakening",
+      "Emblem Lucina",
+      "Engage Lucina",
+      "E Lucina",
+      "lucina10"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30eb\u30ad\u30ca",
+    "voice": "Alexis Tipton",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "ylisse"
+    ],
+    "chibi": [
+      "fe13",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Though I've lived over a thousand years as an Emblem, seeing my father here still brings tears to my eyes.",
+        "In Elyos, I resided in Lythos Castle before falling into enemy hands.\nFortunately, I was summoned back to the Divine Dragon's side in the battle of Shadowy Moor.",
+        "I've seen warriors change the future with the strength of bonds. They had a similar sparkle in their eyes.",
+        "Imagine the Emblems dining together while all wearing outfits depicting our respective Emblem Rings.",
+        "My Emblem Ring's design resembles this tiara. What would it look like if I had continued wearing the bear hat?"
+      ],
+      "Visit": [
+        "I bring this message on behalf of an ally who shares your goals. It comes from [F]."
+      ],
+      "Level": [
+        "Let us break through any wall that stands in our way so we may take hold of a hopeful future!",
+        "I am strengthened by the positive thoughts of others, including you.",
+        "Even if the results of my efforts are not ideal, I will use whatever means are currently available to me."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Emblem Lucina. I strive to be a light in the dark\u2014a light for all who have fallen to despair. I will aid you."
+      ],
+      "Learn Skill": [
+        "Thank you. I will put my strengthened spirit to use for everyone."
+      ],
+      "Confession": [
+        "I have fought in many battles in this world too. You can rely on me if you are weary, [S].\nThe desire to safeguard the futures of those important to me is strong in me, even as an Emblem.\nIf you are close to giving in to despair or wish for a second chance, I will be the hope burning bright at your side.\nAlthough, I would rather you never got to that point, please remember that I am here for you.\nNo matter the world I am in or the form I take, we'll be together in spirit. Call my name and engage with me."
+      ],
+      "Special": [
+        "All for one!",
+        "I'll be your guide!",
+        "Reignite our bonds!",
+        "Emblem engage!"
+      ],
+      "Status": [
+        "-",
+        "Am I like the Lucina you know?",
+        "*startle* You cannot polish my ring here... Would you like to polish my tiara instead?",
+        "In Elyos, I joined the Divine Dragon's army, taking the place of the Ring of the Hero-King.",
+        "If I can eat now, then perhaps I can also change clothes. I came upon some wonderful garments a short time ago!",
+        "\"Reignite us, Emblem of Awakening...\" That is the invocation to summon me. Even apart, we are together.",
+        "Owain, Severa, Inigo...everyone... It is such a relief to see those friendly faces.",
+        "I journeyed from a future of despair to the Ylisse of the past, then was summoned to Elyos before arriving here. Even after traversing many worlds, my genuine desire is to bring a hope-filled future to you."
+      ],
+      "Map Select": [
+        "I shall do so.",
+        "As long as I'm with you.",
+        "Yes, together."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Lucina",
+    "SEARCH_NAME": "Emblem Lucina",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Red_Bow:1317239680571543592>Emblem Lucina",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "lucina",
+      "lucina2",
+      "lucina3",
+      "lucina4",
+      "lucina5",
+      "lucina6",
+      "lucina7",
+      "lucina8",
+      "lucina9"
+    ],
+    "prf": {
+      "": "royalexaltbow",
+      "eff": "royalexaltbow",
+      "atk": "royalexaltbow",
+      "spd": "royalexaltbow",
+      "def": "royalexaltbow",
+      "res": "royalexaltbow"
     }
   }
 }

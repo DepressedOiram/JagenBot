@@ -19124,6 +19124,48 @@
     },
     "refine": "Flower of Sorrow"
   },
+  "flowerofsorrowatk": {
+    "name": "Flower of Sorrow (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "flowerofsorrowspd": {
+    "name": "Flower of Sorrow (+Spd)",
+    "bonus": {
+      "atk": 17,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "flowerofsorrowdef": {
+    "name": "Flower of Sorrow (+Def)",
+    "bonus": {
+      "atk": 17,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "flowerofsorrowres": {
+    "name": "Flower of Sorrow (+Res)",
+    "bonus": {
+      "atk": 17,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "flowerofsorroweff": {
+    "name": "Flower of Sorrow (+Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
   "bellringer": {
     "name": "Bellringer+ (Unrefined)",
     "bonus": {
@@ -19816,6 +19858,48 @@
     },
     "refine": "Mirage Rod"
   },
+  "miragerodatk": {
+    "name": "Mirage Rod (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "miragerodspd": {
+    "name": "Mirage Rod (+Spd)",
+    "bonus": {
+      "atk": 17,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "mirageroddef": {
+    "name": "Mirage Rod (+Def)",
+    "bonus": {
+      "atk": 17,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "miragerodres": {
+    "name": "Mirage Rod (+Res)",
+    "bonus": {
+      "atk": 17,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "miragerodeff": {
+    "name": "Mirage Rod (+Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
   "laslowsblade": {
     "name": "Laslow's Blade (Unrefined)",
     "bonus": {
@@ -20267,6 +20351,52 @@
     },
     "refine": "Constant Dagger"
   },
+  "constantdaggeratk": {
+    "name": "Constant Dagger (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "spd": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "constantdaggerspd": {
+    "name": "Constant Dagger (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 5,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "constantdaggerdef": {
+    "name": "Constant Dagger (+Def)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "constantdaggerres": {
+    "name": "Constant Dagger (+Res)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "constantdaggereff": {
+    "name": "Constant Dagger (+Eff)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
   "frostbreath": {
     "name": "Frost Breath",
     "bonus": {
@@ -20432,6 +20562,49 @@
     },
     "refine": "Crusher"
   },
+  "crusheratk": {
+    "name": "Crusher (+Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "crusherspd": {
+    "name": "Crusher (+Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "crusherdef": {
+    "name": "Crusher (+Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "crusherres": {
+    "name": "Crusher (+Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "crushereff": {
+    "name": "Crusher (+Eff)",
+    "bonus": {
+      "atk": 19,
+      "hp": 3
+    },
+    "refine": false
+  },
   "guardaxe": {
     "name": "Guard Axe+ (Unrefined)",
     "bonus": {
@@ -20481,8 +20654,99 @@
     },
     "refine": "Persecution Bow"
   },
+  "persecutionbowatk": {
+    "name": "Persecution Bow (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "persecutionbowspd": {
+    "name": "Persecution Bow (+Spd)",
+    "bonus": {
+      "atk": 17,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "persecutionbowdef": {
+    "name": "Persecution Bow (+Def)",
+    "bonus": {
+      "atk": 17,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "persecutionbowres": {
+    "name": "Persecution Bow (+Res)",
+    "bonus": {
+      "atk": 17,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "persecutionboweff": {
+    "name": "Persecution Bow (+Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
   "hades\u03c9": {
     "name": "Hades \u03a9",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "hadeso": {
+    "name": "Hades \u03a9 (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Hades \u03a9"
+  },
+  "hadesoatk": {
+    "name": "Hades \u03a9 (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "hadesospd": {
+    "name": "Hades \u03a9 (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "hadesodef": {
+    "name": "Hades \u03a9 (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "hadesores": {
+    "name": "Hades \u03a9 (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "hadesoeff": {
+    "name": "Hades \u03a9 (+Eff)",
     "bonus": {
       "atk": 14
     },
@@ -20748,6 +21012,49 @@
     },
     "refine": "Rinkah's Club"
   },
+  "rinkahsclubatk": {
+    "name": "Rinkah's Club (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "rinkahsclubspd": {
+    "name": "Rinkah's Club (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "rinkahsclubdef": {
+    "name": "Rinkah's Club (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "rinkahsclubres": {
+    "name": "Rinkah's Club (+Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "rinkahsclubeff": {
+    "name": "Rinkah's Club (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "hp": 3
+    },
+    "refine": false
+  },
   "spendthriftbow": {
     "name": "Spendthrift Bow+ (Unrefined)",
     "bonus": {
@@ -20806,12 +21113,102 @@
     },
     "refine": "Astral Breath"
   },
+  "astralbreathatk": {
+    "name": "Astral Breath (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "astralbreathspd": {
+    "name": "Astral Breath (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "astralbreathdef": {
+    "name": "Astral Breath (+Def)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "astralbreathres": {
+    "name": "Astral Breath (+Res)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "astralbreatheff": {
+    "name": "Astral Breath (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 3
+    },
+    "refine": false
+  },
   "feathersword": {
     "name": "Feather Sword (Unrefined)",
     "bonus": {
       "atk": 19
     },
     "refine": "Feather Sword"
+  },
+  "featherswordatk": {
+    "name": "Feather Sword (+Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "featherswordspd": {
+    "name": "Feather Sword (+Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "feathersworddef": {
+    "name": "Feather Sword (+Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "featherswordres": {
+    "name": "Feather Sword (+Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "featherswordeff": {
+    "name": "Feather Sword (+Eff)",
+    "bonus": {
+      "atk": 19,
+      "hp": 3
+    },
+    "refine": false
   },
   "whitedownspear": {
     "name": "Whitedown Spear",
@@ -20827,12 +21224,97 @@
     },
     "refine": "Dragoon Axe"
   },
+  "dragoonaxeatk": {
+    "name": "Dragoon Axe (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragoonaxespd": {
+    "name": "Dragoon Axe (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragoonaxedef": {
+    "name": "Dragoon Axe (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragoonaxeres": {
+    "name": "Dragoon Axe (+Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragoonaxeeff": {
+    "name": "Dragoon Axe (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "hp": 3
+    },
+    "refine": false
+  },
   "windsofchange": {
     "name": "Winds of Change (Unrefined)",
     "bonus": {
       "atk": 14
     },
     "refine": "Winds of Change"
+  },
+  "windsofchangeatk": {
+    "name": "Winds of Change (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "windsofchangespd": {
+    "name": "Winds of Change (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "windsofchangedef": {
+    "name": "Winds of Change (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "windsofchangeres": {
+    "name": "Winds of Change (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "windsofchangeeff": {
+    "name": "Winds of Change (+Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
   },
   "aymr": {
     "name": "Aymr (Unrefined)",
@@ -21048,12 +21530,101 @@
     },
     "refine": "Gurgurant"
   },
+  "gurgurantatk": {
+    "name": "Gurgurant (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "def": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "gurgurantspd": {
+    "name": "Gurgurant (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "def": 3,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "gurgurantdef": {
+    "name": "Gurgurant (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 7,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "gurgurantres": {
+    "name": "Gurgurant (+Res)",
+    "bonus": {
+      "atk": 16,
+      "def": 3,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "gurguranteff": {
+    "name": "Gurgurant (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "def": 3,
+      "hp": 3
+    },
+    "refine": false
+  },
   "darkscripture": {
     "name": "Dark Scripture (Unrefined)",
     "bonus": {
       "atk": 17
     },
     "refine": "Dark Scripture"
+  },
+  "darkscriptureatk": {
+    "name": "Dark Scripture (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "darkscripturespd": {
+    "name": "Dark Scripture (+Spd)",
+    "bonus": {
+      "atk": 17,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "darkscripturedef": {
+    "name": "Dark Scripture (+Def)",
+    "bonus": {
+      "atk": 17,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "darkscriptureres": {
+    "name": "Dark Scripture (+Res)",
+    "bonus": {
+      "atk": 17,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "darkscriptureeff": {
+    "name": "Dark Scripture (+Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
   },
   "bloodtome": {
     "name": "Blood Tome",
@@ -21069,6 +21640,53 @@
       "spd": 3
     },
     "refine": "Brutal Breath"
+  },
+  "brutalbreathatk": {
+    "name": "Brutal Breath (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brutalbreathspd": {
+    "name": "Brutal Breath (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brutalbreathdef": {
+    "name": "Brutal Breath (+Def)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brutalbreathres": {
+    "name": "Brutal Breath (+Res)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brutalbreatheff": {
+    "name": "Brutal Breath (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 3
+    },
+    "refine": false
   },
   "pledgedblade": {
     "name": "Pledged Blade+ (Unrefined)",
@@ -21161,12 +21779,97 @@
     },
     "refine": "Joyful Vows"
   },
+   "joyfulvowsatk": {
+    "name": "Joyful Vows (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "joyfulvowsspd": {
+    "name": "Joyful Vows (+Spd)",
+    "bonus": {
+      "atk": 17,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "joyfulvowsdef": {
+    "name": "Joyful Vows (+Def)",
+    "bonus": {
+      "atk": 17,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "joyfulvowsres": {
+    "name": "Joyful Vows (+Res)",
+    "bonus": {
+      "atk": 17,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "joyfulvowseff": {
+    "name": "Joyful Vows (+Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
   "bridesfang": {
     "name": "Bride's Fang (Unrefined)",
     "bonus": {
       "atk": 14
     },
     "refine": "Bride's Fang"
+  },
+  "bridesfangatk": {
+    "name": "Bride's Fang (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "bridesfangspd": {
+    "name": "Bride's Fang (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "bridesfangdef": {
+    "name": "Bride's Fang (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "bridesfangres": {
+    "name": "Bride's Fang (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "bridesfangeff": {
+    "name": "Bride's Fang (+Eff)",
+    "bonus": {
+      "atk": 14,
+      "hp": 3
+    },
+    "refine": false
   },
   "groomswing": {
     "name": "Groom's Wing",
@@ -21451,6 +22154,52 @@
       "res": 3
     },
     "refine": "Levin Dagger"
+  },
+  "levindaggeratk": {
+    "name": "Levin Dagger (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "levindaggerspd": {
+    "name": "Levin Dagger (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "levindaggerdef": {
+    "name": "Levin Dagger (+Def)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "levindaggerres": {
+    "name": "Levin Dagger (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 6,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "levindaggereff": {
+    "name": "Levin Dagger (+Eff)",
+    "bonus": {
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
   },
   "coralbow": {
     "name": "Coral Bow+ (Unrefined)",
@@ -22355,6 +23104,48 @@
     },
     "refine": "Daniel-Made Bow"
   },
+  "danielmadebowatk": {
+    "name": "Daniel-Made Bow (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "danielmadebowspd": {
+    "name": "Daniel-Made Bow (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "danielmadebowdef": {
+    "name": "Daniel-Made Bow (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "danielmadebowres": {
+    "name": "Daniel-Made Bow (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "danielmadeboweff": {
+    "name": "Daniel-Made Bow (+Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
   "darkspikest": {
     "name": "Dark Spikes T (Unrefined)",
     "bonus": {
@@ -22415,6 +23206,49 @@
       "atk": 16
     },
     "refine": "Primordial Breath"
+  },
+  "primordialbreathatk": {
+    "name": "Primordial Breath (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "primordialbreathspd": {
+    "name": "Primordial Breath (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "primordialbreathdef": {
+    "name": "Primordial Breath (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "primordialbreathres": {
+    "name": "Primordial Breath (+Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "primordialbreatheff": {
+    "name": "Primordial Breath (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "hp": 3
+    },
+    "refine": false
   },
   "courtlycandle": {
     "name": "Courtly Candle+ (Unrefined)",
@@ -23234,6 +24068,53 @@
     },
     "refine": "Lynghei\u00f0r"
   },
+  "lyngheidratk": {
+    "name": "Lynghei\u00f0r (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lyngheidrspd": {
+    "name": "Lynghei\u00f0r (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lyngheidrdef": {
+    "name": "Lynghei\u00f0r (+Def)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lyngheidrres": {
+    "name": "Lynghei\u00f0r (+Res)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lyngheidreff": {
+    "name": "Lynghei\u00f0r (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 3
+    },
+    "refine": false
+  },
   "obsidianlance": {
     "name": "Obsidian Lance",
     "bonus": {
@@ -23411,6 +24292,48 @@
       "atk": 14
     },
     "refine": "Studied Forblaze"
+  },
+  "studiedforblazeatk": {
+    "name": "Studied Forblaze (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "studiedforblazespd": {
+    "name": "Studied Forblaze (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "studiedforblazedef": {
+    "name": "Studied Forblaze (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "studiedforblazeres": {
+    "name": "Studied Forblaze (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "studiedforblazeeff": {
+    "name": "Studied Forblaze (+Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
   },
   "firstdreambow": {
     "name": "First-Dream Bow",
@@ -23705,6 +24628,49 @@
     },
     "refine": "Aurora Breath"
   },
+  "aurorabreathatk": {
+    "name": "Aurora Breath (+Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "aurorabreathspd": {
+    "name": "Aurora Breath (+Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "aurorabreathdef": {
+    "name": "Aurora Breath (+Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "aurorabreathres": {
+    "name": "Aurora Breath (+Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "aurorabreatheff": {
+    "name": "Aurora Breath (+Eff)",
+    "bonus": {
+      "atk": 19,
+      "hp": 3
+    },
+    "refine": false
+  },
   "spysongbow": {
     "name": "Spy-Song Bow (Unrefined)",
     "bonus": {
@@ -23957,6 +24923,53 @@
       "spd": 3
     },
     "refine": "Skinfaxi"
+  },
+  "skinfaxiatk": {
+    "name": "Skinfaxi (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "skinfaxispd": {
+    "name": "Skinfaxi (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "skinfaxidef": {
+    "name": "Skinfaxi (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "skinfaxires": {
+    "name": "Skinfaxi (+Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "skinfaxieff": {
+    "name": "Skinfaxi (+Eff)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 3
+    },
+    "refine": false
   },
   "goddessaxe": {
     "name": "Goddess Axe",
@@ -27583,9 +28596,17 @@
     "refine": false
   },
   "largewaraxe": {
-    "name": "Large War Axe",
+    "name": "Large War Axe (Unrefined)",
     "bonus": {
       "atk": 19
+    },
+    "refine": "Large War Axe"
+  },
+  "largewaraxeeff": {
+    "name": "Large War Axe (+Eff)",
+    "bonus": {
+      "atk": 19,
+      "hp": 8
     },
     "refine": false
   },
@@ -35437,1019 +36458,6 @@
       "atk": 14,
       "res": 3,
       "hp": 2
-    },
-    "refine": false
-  },
-  "hadeso": {
-    "name": "Hades \u03a9 (Unrefined)",
-    "bonus": {
-      "atk": 14
-    },
-    "refine": "Hades \u03a9"
-  },
-  "hadesoatk": {
-    "name": "Hades \u03a9 (+Atk)",
-    "bonus": {
-      "atk": 15,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "hadesospd": {
-    "name": "Hades \u03a9 (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "hadesodef": {
-    "name": "Hades \u03a9 (+Def)",
-    "bonus": {
-      "atk": 14,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "hadesores": {
-    "name": "Hades \u03a9 (+Res)",
-    "bonus": {
-      "atk": 14,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "hadesoeff": {
-    "name": "Hades \u03a9 (+Eff)",
-    "bonus": {
-      "atk": 14
-    },
-    "refine": false
-  },
-  "darkscriptureatk": {
-    "name": "Dark Scripture (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "darkscripturespd": {
-    "name": "Dark Scripture (+Spd)",
-    "bonus": {
-      "atk": 17,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "darkscripturedef": {
-    "name": "Dark Scripture (+Def)",
-    "bonus": {
-      "atk": 17,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "darkscriptureres": {
-    "name": "Dark Scripture (+Res)",
-    "bonus": {
-      "atk": 17,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "darkscriptureeff": {
-    "name": "Dark Scripture (+Eff)",
-    "bonus": {
-      "atk": 17
-    },
-    "refine": false
-  },
-  "danielmadebowatk": {
-    "name": "Daniel-Made Bow (+Atk)",
-    "bonus": {
-      "atk": 15,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "danielmadebowspd": {
-    "name": "Daniel-Made Bow (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "danielmadebowdef": {
-    "name": "Daniel-Made Bow (+Def)",
-    "bonus": {
-      "atk": 14,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "danielmadebowres": {
-    "name": "Daniel-Made Bow (+Res)",
-    "bonus": {
-      "atk": 14,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "danielmadeboweff": {
-    "name": "Daniel-Made Bow (+Eff)",
-    "bonus": {
-      "atk": 14
-    },
-    "refine": false
-  },
-  "astralbreathatk": {
-    "name": "Astral Breath (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "astralbreathspd": {
-    "name": "Astral Breath (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 6,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "astralbreathdef": {
-    "name": "Astral Breath (+Def)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "astralbreathres": {
-    "name": "Astral Breath (+Res)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "astralbreatheff": {
-    "name": "Astral Breath (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "bridesfangatk": {
-    "name": "Bride's Fang (+Atk)",
-    "bonus": {
-      "atk": 16,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "bridesfangspd": {
-    "name": "Bride's Fang (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "bridesfangdef": {
-    "name": "Bride's Fang (+Def)",
-    "bonus": {
-      "atk": 14,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "bridesfangres": {
-    "name": "Bride's Fang (+Res)",
-    "bonus": {
-      "atk": 14,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "bridesfangeff": {
-    "name": "Bride's Fang (+Eff)",
-    "bonus": {
-      "atk": 14,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "aurorabreathatk": {
-    "name": "Aurora Breath (+Atk)",
-    "bonus": {
-      "atk": 21,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "aurorabreathspd": {
-    "name": "Aurora Breath (+Spd)",
-    "bonus": {
-      "atk": 19,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "aurorabreathdef": {
-    "name": "Aurora Breath (+Def)",
-    "bonus": {
-      "atk": 19,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "aurorabreathres": {
-    "name": "Aurora Breath (+Res)",
-    "bonus": {
-      "atk": 19,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "aurorabreatheff": {
-    "name": "Aurora Breath (+Eff)",
-    "bonus": {
-      "atk": 19,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "brutalbreathatk": {
-    "name": "Brutal Breath (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "brutalbreathspd": {
-    "name": "Brutal Breath (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 6,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "brutalbreathdef": {
-    "name": "Brutal Breath (+Def)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "brutalbreathres": {
-    "name": "Brutal Breath (+Res)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "brutalbreatheff": {
-    "name": "Brutal Breath (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "skinfaxiatk": {
-    "name": "Skinfaxi (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 5,
-      "spd": 3
-    },
-    "refine": false
-  },
-  "skinfaxispd": {
-    "name": "Skinfaxi (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 6,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "skinfaxidef": {
-    "name": "Skinfaxi (+Def)",
-    "bonus": {
-      "atk": 16,
-      "def": 4,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "skinfaxires": {
-    "name": "Skinfaxi (+Res)",
-    "bonus": {
-      "atk": 16,
-      "res": 4,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "skinfaxieff": {
-    "name": "Skinfaxi (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "crusheratk": {
-    "name": "Crusher (+Atk)",
-    "bonus": {
-      "atk": 21,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "crusherspd": {
-    "name": "Crusher (+Spd)",
-    "bonus": {
-      "atk": 19,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "crusherdef": {
-    "name": "Crusher (+Def)",
-    "bonus": {
-      "atk": 19,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "crusherres": {
-    "name": "Crusher (+Res)",
-    "bonus": {
-      "atk": 19,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "crushereff": {
-    "name": "Crusher (+Eff)",
-    "bonus": {
-      "atk": 19,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "joyfulvowsatk": {
-    "name": "Joyful Vows (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "joyfulvowsspd": {
-    "name": "Joyful Vows (+Spd)",
-    "bonus": {
-      "atk": 17,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "joyfulvowsdef": {
-    "name": "Joyful Vows (+Def)",
-    "bonus": {
-      "atk": 17,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "joyfulvowsres": {
-    "name": "Joyful Vows (+Res)",
-    "bonus": {
-      "atk": 17,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "joyfulvowseff": {
-    "name": "Joyful Vows (+Eff)",
-    "bonus": {
-      "atk": 17
-    },
-    "refine": false
-  },
-  "levindaggeratk": {
-    "name": "Levin Dagger (+Atk)",
-    "bonus": {
-      "atk": 15,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "levindaggerspd": {
-    "name": "Levin Dagger (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "res": 3,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "levindaggerdef": {
-    "name": "Levin Dagger (+Def)",
-    "bonus": {
-      "atk": 14,
-      "res": 3,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "levindaggerres": {
-    "name": "Levin Dagger (+Res)",
-    "bonus": {
-      "atk": 14,
-      "res": 6,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "levindaggereff": {
-    "name": "Levin Dagger (+Eff)",
-    "bonus": {
-      "atk": 14,
-      "res": 3
-    },
-    "refine": false
-  },
-  "lyngheidratk": {
-    "name": "Lynghei\u00f0r (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "lyngheidrspd": {
-    "name": "Lynghei\u00f0r (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 6,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "lyngheidrdef": {
-    "name": "Lynghei\u00f0r (+Def)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "lyngheidrres": {
-    "name": "Lynghei\u00f0r (+Res)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "lyngheidreff": {
-    "name": "Lynghei\u00f0r (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "featherswordatk": {
-    "name": "Feather Sword (+Atk)",
-    "bonus": {
-      "atk": 21,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "featherswordspd": {
-    "name": "Feather Sword (+Spd)",
-    "bonus": {
-      "atk": 19,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "feathersworddef": {
-    "name": "Feather Sword (+Def)",
-    "bonus": {
-      "atk": 19,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "featherswordres": {
-    "name": "Feather Sword (+Res)",
-    "bonus": {
-      "atk": 19,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "featherswordeff": {
-    "name": "Feather Sword (+Eff)",
-    "bonus": {
-      "atk": 19,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "gurgurantatk": {
-    "name": "Gurgurant (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "def": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "gurgurantspd": {
-    "name": "Gurgurant (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "def": 3,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "gurgurantdef": {
-    "name": "Gurgurant (+Def)",
-    "bonus": {
-      "atk": 16,
-      "def": 7,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "gurgurantres": {
-    "name": "Gurgurant (+Res)",
-    "bonus": {
-      "atk": 16,
-      "def": 3,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "gurguranteff": {
-    "name": "Gurgurant (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "def": 3,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "rinkahsclubatk": {
-    "name": "Rinkah's Club (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "rinkahsclubspd": {
-    "name": "Rinkah's Club (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "rinkahsclubdef": {
-    "name": "Rinkah's Club (+Def)",
-    "bonus": {
-      "atk": 16,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "rinkahsclubres": {
-    "name": "Rinkah's Club (+Res)",
-    "bonus": {
-      "atk": 16,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "rinkahsclubeff": {
-    "name": "Rinkah's Club (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "flowerofsorrowatk": {
-    "name": "Flower of Sorrow (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "flowerofsorrowspd": {
-    "name": "Flower of Sorrow (+Spd)",
-    "bonus": {
-      "atk": 17,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "flowerofsorrowdef": {
-    "name": "Flower of Sorrow (+Def)",
-    "bonus": {
-      "atk": 17,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "flowerofsorrowres": {
-    "name": "Flower of Sorrow (+Res)",
-    "bonus": {
-      "atk": 17,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "flowerofsorroweff": {
-    "name": "Flower of Sorrow (+Eff)",
-    "bonus": {
-      "atk": 17
-    },
-    "refine": false
-  },
-  "persecutionbowatk": {
-    "name": "Persecution Bow (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "persecutionbowspd": {
-    "name": "Persecution Bow (+Spd)",
-    "bonus": {
-      "atk": 17,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "persecutionbowdef": {
-    "name": "Persecution Bow (+Def)",
-    "bonus": {
-      "atk": 17,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "persecutionbowres": {
-    "name": "Persecution Bow (+Res)",
-    "bonus": {
-      "atk": 17,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "persecutionboweff": {
-    "name": "Persecution Bow (+Eff)",
-    "bonus": {
-      "atk": 17
-    },
-    "refine": false
-  },
-  "studiedforblazeatk": {
-    "name": "Studied Forblaze (+Atk)",
-    "bonus": {
-      "atk": 15,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "studiedforblazespd": {
-    "name": "Studied Forblaze (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "studiedforblazedef": {
-    "name": "Studied Forblaze (+Def)",
-    "bonus": {
-      "atk": 14,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "studiedforblazeres": {
-    "name": "Studied Forblaze (+Res)",
-    "bonus": {
-      "atk": 14,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "studiedforblazeeff": {
-    "name": "Studied Forblaze (+Eff)",
-    "bonus": {
-      "atk": 14
-    },
-    "refine": false
-  },
-  "miragerodatk": {
-    "name": "Mirage Rod (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "miragerodspd": {
-    "name": "Mirage Rod (+Spd)",
-    "bonus": {
-      "atk": 17,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "mirageroddef": {
-    "name": "Mirage Rod (+Def)",
-    "bonus": {
-      "atk": 17,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "miragerodres": {
-    "name": "Mirage Rod (+Res)",
-    "bonus": {
-      "atk": 17,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "miragerodeff": {
-    "name": "Mirage Rod (+Eff)",
-    "bonus": {
-      "atk": 17
-    },
-    "refine": false
-  },
-  "dragoonaxeatk": {
-    "name": "Dragoon Axe (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "dragoonaxespd": {
-    "name": "Dragoon Axe (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "dragoonaxedef": {
-    "name": "Dragoon Axe (+Def)",
-    "bonus": {
-      "atk": 16,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "dragoonaxeres": {
-    "name": "Dragoon Axe (+Res)",
-    "bonus": {
-      "atk": 16,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "dragoonaxeeff": {
-    "name": "Dragoon Axe (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "hp": 3
-    },
-    "refine": false
-  },
-  "windsofchangeatk": {
-    "name": "Winds of Change (+Atk)",
-    "bonus": {
-      "atk": 15,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "windsofchangespd": {
-    "name": "Winds of Change (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "spd": 2,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "windsofchangedef": {
-    "name": "Winds of Change (+Def)",
-    "bonus": {
-      "atk": 14,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "windsofchangeres": {
-    "name": "Winds of Change (+Res)",
-    "bonus": {
-      "atk": 14,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "windsofchangeeff": {
-    "name": "Winds of Change (+Eff)",
-    "bonus": {
-      "atk": 14
-    },
-    "refine": false
-  },
-  "constantdaggeratk": {
-    "name": "Constant Dagger (+Atk)",
-    "bonus": {
-      "atk": 15,
-      "spd": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "constantdaggerspd": {
-    "name": "Constant Dagger (+Spd)",
-    "bonus": {
-      "atk": 14,
-      "spd": 5,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "constantdaggerdef": {
-    "name": "Constant Dagger (+Def)",
-    "bonus": {
-      "atk": 14,
-      "spd": 3,
-      "def": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "constantdaggerres": {
-    "name": "Constant Dagger (+Res)",
-    "bonus": {
-      "atk": 14,
-      "spd": 3,
-      "res": 3,
-      "hp": 2
-    },
-    "refine": false
-  },
-  "constantdaggereff": {
-    "name": "Constant Dagger (+Eff)",
-    "bonus": {
-      "atk": 14,
-      "spd": 3
-    },
-    "refine": false
-  },
-  "primordialbreathatk": {
-    "name": "Primordial Breath (+Atk)",
-    "bonus": {
-      "atk": 18,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "primordialbreathspd": {
-    "name": "Primordial Breath (+Spd)",
-    "bonus": {
-      "atk": 16,
-      "spd": 3,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "primordialbreathdef": {
-    "name": "Primordial Breath (+Def)",
-    "bonus": {
-      "atk": 16,
-      "def": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "primordialbreathres": {
-    "name": "Primordial Breath (+Res)",
-    "bonus": {
-      "atk": 16,
-      "res": 4,
-      "hp": 5
-    },
-    "refine": false
-  },
-  "primordialbreatheff": {
-    "name": "Primordial Breath (+Eff)",
-    "bonus": {
-      "atk": 16,
-      "hp": 3
     },
     "refine": false
   }
