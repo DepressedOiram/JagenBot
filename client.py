@@ -4,10 +4,10 @@ from discord.ext import tasks
 OWNER_ID = 240452436152549377
 
 random_status = [
-    "The best Jagen",
+    "The best Movement Type",
     "Try out compare! @Jagen fe4 lewyn!ced, lewyn!arthur 14",
     "Cipher cards look pretty cool: @Jagen cipher",
-    "Acting as the decoy",
+    "Looking out for Ridersbane",
     "@Jagen calendar",
     "@Jagen legendary",
     "@Jagen weekly"
