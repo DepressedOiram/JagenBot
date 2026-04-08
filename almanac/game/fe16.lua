@@ -279,16 +279,16 @@ function Character:get_mod()
                 crest = 'minor_' .. key
             end
 
-            key = util.title(key)
+            crestName = util.title(key)
             
-            if key == "Beast" then key = "the Beast" end
+            if crestName == "Beast" then crestName = "the Beast" end
 
             -- major
             if value then
-                text = text .. "\n" .. pack:get(crest) ..  " Major Crest of " .. key
+                text = text .. "\n" .. pack:get(crest) ..  " Major Crest of " .. crestName
                 
             else
-                text = text .. "\n" .. pack:get(crest) .. " Minor Crest of " .. key
+                text = text .. "\n" .. pack:get(crest) .. " Minor Crest of " .. crestName
             end
         end
     end
