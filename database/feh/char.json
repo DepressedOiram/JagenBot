@@ -2064,7 +2064,8 @@
       "chrom5",
       "chrom6",
       "chrom7",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "sealedfalchioneff",
@@ -22136,7 +22137,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -22202,7 +22203,8 @@
       "chrom5",
       "chrom6",
       "chrom7",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "carrotaxespd",
@@ -36955,7 +36957,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -37021,7 +37023,8 @@
       "chrom5",
       "chrom6",
       "chrom7",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "sackogiftsdef",
@@ -42393,7 +42396,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -42487,7 +42490,8 @@
       "chrom5",
       "chrom6",
       "chrom7",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "sealedfalchioneff",
@@ -73739,7 +73743,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "victoriousaxeeff",
@@ -76895,15 +76900,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30e6\u30ea\u30a2",
     "voice": "Cassandra Lee Morris",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "ne-on",
+    "resplendent_voice": "Cassandra Lee Morris",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Julia_Crusader_of_Light_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Julia_Crusader_of_Light_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Julia_Crusader_of_Light_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Julia_Crusader_of_Light_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Julia_Crusader_of_Light_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Julia_Crusader_of_Light_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ed/Julia_Crusader_of_Light_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Julia_Crusader_of_Light_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "jugdral"
     ],
@@ -76959,7 +76969,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "To the realm of the dead.",
+          "I give you salvation.",
+          "Rest now.",
+          "This is the end."
+        ],
+        "Status": [
+          "Hmm...",
+          "New clothing for me? I truly appreciate it.",
+          "*startle* Umm...you frightened me.",
+          "As someone who is also quite reserved, I feel an affinity with Princess Eir.",
+          "I pray that those important to me never come to be imprisoned within the realm of the dead.",
+          "I came to know the reason for the life I live. I will not run... I will fight.",
+          "If I were to show Lord Seliph...uh, my brother, this outfit, what would he think?",
+          "If I can be here with you, that is enough for me."
+        ],
+        "Map Select": [
+          "Yes, of course.",
+          "What shall I do?",
+          "I will fulfill my role."
+        ]
+      }
     },
     "short_name": "Legendary Julia",
     "SEARCH_NAME": "Legendary Julia",
@@ -89940,7 +89978,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -90006,7 +90044,8 @@
       "chrom4",
       "chrom6",
       "chrom7",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "randgridreff",
@@ -94000,7 +94039,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "aymreff",
@@ -98665,7 +98705,8 @@
     "reference": [
       "ingrid",
       "ingrid3",
-      "ingrid4"
+      "ingrid4",
+      "ingrid5"
     ],
     "prf": {
       "": "starpointlanceeff",
@@ -101587,7 +101628,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "flowerhauteclereeff",
@@ -110343,7 +110385,8 @@
     "reference": [
       "felix",
       "felix3",
-      "felix4"
+      "felix4",
+      "felix5"
     ],
     "prf": {
       "": "reindeerbowspd",
@@ -115738,7 +115781,8 @@
     "reference": [
       "ingrid2",
       "ingrid3",
-      "ingrid4"
+      "ingrid4",
+      "ingrid5"
     ],
     "prf": {
       "": "luin",
@@ -119515,7 +119559,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "twincrestpower",
@@ -133452,7 +133497,8 @@
       "Iron Sword": "1",
       "Steel Sword": "2",
       "Steadfast Sword": "3",
-      "Steadfast Sword+": "5"
+      "Steadfast Sword+": "5",
+      "Sonic Sword": "5"
     },
     "assist": {
       "Ardent Sacrifice": "3"
@@ -133571,12 +133617,12 @@
       "tanith2"
     ],
     "prf": {
-      "": "steadfastswordspd",
-      "eff": "steadfastswordspd",
-      "atk": "steadfastswordatk",
-      "spd": "steadfastswordspd",
-      "def": "steadfastsworddef",
-      "res": "steadfastswordres"
+      "": "sonicsword",
+      "eff": "sonicsword",
+      "atk": "sonicsword",
+      "spd": "sonicsword",
+      "def": "sonicsword",
+      "res": "sonicsword"
     }
   },
   "bertram": {
@@ -139211,7 +139257,8 @@
       "chrom4",
       "chrom5",
       "chrom7",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "destinysbow",
@@ -148131,7 +148178,8 @@
       "edelgard4",
       "edelgard6",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "regalsunshade",
@@ -152107,7 +152155,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -152173,7 +152221,8 @@
       "chrom4",
       "chrom5",
       "chrom6",
-      "chrom8"
+      "chrom8",
+      "chrom9"
     ],
     "prf": {
       "": "geirdrifuleff",
@@ -169690,7 +169739,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "\u5e7c\u5c11\u30a8\u30ea\u30a6\u30c3\u30c9",
     "voice": "Yuri Lowenthal",
     "resplendent": false,
@@ -170473,7 +170522,8 @@
     "reference": [
       "ingrid",
       "ingrid2",
-      "ingrid4"
+      "ingrid4",
+      "ingrid5"
     ],
     "prf": {
       "": "arcaneluinspd",
@@ -170645,7 +170695,8 @@
     "reference": [
       "felix2",
       "felix3",
-      "felix4"
+      "felix4",
+      "felix5"
     ],
     "prf": {
       "": "lonewolfblade",
@@ -171507,7 +171558,8 @@
       "chrom4",
       "chrom5",
       "chrom6",
-      "chrom7"
+      "chrom7",
+      "chrom9"
     ],
     "prf": {
       "": "arcanedevourerspd",
@@ -187702,7 +187754,8 @@
       "edelgard4",
       "edelgard5",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "blackyulelance",
@@ -205294,7 +205347,8 @@
     "reference": [
       "felix",
       "felix2",
-      "felix4"
+      "felix4",
+      "felix5"
     ],
     "prf": {
       "": "newlevinsword",
@@ -217995,7 +218049,8 @@
       "edelgard4",
       "edelgard5",
       "edelgard6",
-      "edelgard8"
+      "edelgard8",
+      "edelgard9"
     ],
     "prf": {
       "": "eaglesheart",
@@ -230254,7 +230309,8 @@
     "reference": [
       "ingrid",
       "ingrid2",
-      "ingrid3"
+      "ingrid3",
+      "ingrid5"
     ],
     "prf": {
       "": "silverspoon",
@@ -230428,7 +230484,8 @@
     "reference": [
       "felix",
       "felix2",
-      "felix3"
+      "felix3",
+      "felix5"
     ],
     "prf": {
       "": "teatimelance",
@@ -240474,7 +240531,8 @@
       "edelgard4",
       "edelgard5",
       "edelgard6",
-      "edelgard7"
+      "edelgard7",
+      "edelgard9"
     ],
     "prf": {
       "": "blackeagleaxe",
@@ -243300,7 +243358,7 @@
         "A/R Detect Aerial": "5"
       },
       "C": {
-        "Fell Refuge ": "5"
+        "Fell Refuge": "5"
       },
       "X": {}
     },
@@ -245516,7 +245574,7 @@
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Dorothea_Rosy_Songstress_Face.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Dorothea_Rosy_Songstress_BtlFace_D.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Dorothea_Rosy_Songstress_BtlFace_C.webp/revision/latest/",
-      "attack": " https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Dorothea_Rosy_Songstress_BtlFace.webp/revision/latest/"
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Dorothea_Rosy_Songstress_BtlFace.webp/revision/latest/"
     },
     "resplendent_images": false,
     "ALT_NAME": [
@@ -246671,6 +246729,804 @@
       "spd": "royalexaltbow",
       "def": "royalexaltbow",
       "res": "royalexaltbow"
+    }
+  },
+  "edelgard9": {
+    "name": "Edelgard",
+    "title": "Promising Path",
+    "description": "Young Edelgard, who fled to the Holy Kingdom of Faerghus, has a fateful encounter with Dimitri. They appear in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Hagiwara Rin (\u8429\u539F\u51DB)",
+    "move": "Armored",
+    "weapon": "Dagger",
+    "color": "Green",
+    "duel": "220",
+    "id": "1362",
+    "type": "duo",
+    "version": "10.4",
+    "duo": "Grants unit another action, and if Canto has already been triggered, re-enables Canto. (May be used only if unit has already entered combat during the current turn.)",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 24,
+      "atk": 10,
+      "spd": 3,
+      "def": 10,
+      "res": 12
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 90,
+      "spd": 30,
+      "def": 90,
+      "res": 75
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "spd",
+      "res"
+    ],
+    "weapons": {
+      "Iron Dagger": "1",
+      "Steel Dagger": "2",
+      "Silver Dagger": "3",
+      "Oath Dagger": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Armored Flare": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Prime 1": "2",
+        "Atk/Def Prime 2": "3",
+        "Atk/Def Prime 3": "4",
+        "Atk/Def Clear": "5"
+      },
+      "B": {
+        "Vengeful Storm": "5"
+      },
+      "C": {
+        "Lookout 1": "2",
+        "Lookout 2": "3",
+        "Lookout 3": "4",
+        "Lookout Rush": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Edelgard_Promising_Path_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/94/Edelgard_Promising_Path_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Edelgard_Promising_Path_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Edelgard_Promising_Path_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Promised Path",
+      "Edelgard: Promised Path",
+      "Young Edelgard",
+      "Y Edelgard",
+      "Baby Edelgard",
+      "Child Edelgard",
+      "Duo Edelgard",
+      "D Edelgard",
+      "edelgard9"
+    ],
+    "HARD_ALT_NAME": [
+      "Promised Path",
+      "Edelgard: Promised Path",
+      "Young Edelgard",
+      "Y Edelgard",
+      "Baby Edelgard",
+      "Child Edelgard",
+      "Duo Edelgard",
+      "D Edelgard",
+      "edelgard9"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6bd4\u7ffc\u30a8\u30fc\u30c7\u30eb",
+    "voice": "Tara Platt + Chris Hackney",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Edelgard:** Everything I see in the Kingdom of Askr is so unusual... My experiences here shall aid me in the future!",
+        "**Dimitri:** When El and I met, we knew nothing of each other's background or status. And yet, we've grown close.",
+        "**Edelgard:** We should practice dancing when we have time. Worry not, something will come of it if we put in the effort.",
+        "**Edelgard:** When we fled the empire, my uncle, Lord Arundel, brought me to Faerghus.",
+        "**Dimitri:** I used to think El was difficult, but now that we're close, I get it. She's more honest than any other person."
+      ],
+      "Visit": [
+        "**Dimitri:** We've arrived without issue, El. Let's do our best to take care at the castle of [F]'s friend."
+      ],
+      "Level": [
+        "**Edelgard:** We did it! We can overcome anything if we work together!",
+        "**Dimitri:** El, are you harmed? Don't push yourself too hard on your own. You should rely on me too.",
+        "**Edelgard:** We should've done better... Let's do our best next time!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Edelgard. If we're together, it doesn't matter if this world is new to us. We have nothing to fear."
+      ],
+      "Learn Skill": [
+        "**Dimitri:** El, this power belongs to the both of us. Let's grow stronger together!"
+      ],
+      "Confession": [
+        "**Dimitri:** It has been said since long ago in Faerghus that blades can open a path to the future.\nI suspect you will be able to grasp a strong sword that will never bend.\n**Edelgard:** In that case...you should be my sword\u2014one that can overcome any hardship.\n**Dimitri:** M-me?! Your sword? I am happy you trust me so much, but I'm not so sure I can...\n**Edelgard:** Worry not. I will also be your sword. If we combine our strength, we can create the future we desire.\n**Dimitri:** You may have a point, El. We will be together forever. And so, together, we will forge a path to tomorrow!"
+      ],
+      "Special": [
+        "**Duo:** Cut a path to the future!",
+        "**Duo:** \"Going now!\" \"All right!\"",
+        "**Edelgard:** Don't underestimate me!",
+        "**Dimitri:** Even I can fight."
+      ],
+      "Status": [
+        "-",
+        "\"This is a strange place. Are you scared?\" \"I'm all right. I have you, after all.\""
+      ],
+      "Map Select": [
+        "Hmm...",
+        "We must go.",
+        "We'll handle them."
+      ],
+      "Conversation": [
+        "**Dimitri:** El! Ah, so this is where you went.",
+        "**Edelgard:** Sorry for leaving you on your own. Were you helpless without me?",
+        "**Dimitri:** No, I was simply worried for you...",
+        "About what might happen if you got lost in this unfamiliar land.",
+        "**Edelgard:** I'm not lost. It's just rare to have a chance to visit someplace like this, so I went exploring.",
+        "It is nice here, isn't it? We are free to roam without anyone getting upset with us.",
+        "**Dimitri:** El... Do you find it restricting living in Faerghus?",
+        "**Edelgard:** A little. But is it that surprising? I am merely a nuisance from another land.",
+        "**Dimitri:** No, you're not. I'm glad I met you.",
+        "**Edelgard:** You feel that way because you are just a child. I mean...I suppose we both are.",
+        "**Dimitri:** Well then, you shouldn't be so down on yourself. As you say, you are a child yourself.",
+        "**Edelgard:** That is not... Actually, I suppose that is one way to think about it. *giggle*",
+        "**Dimitri:** Finally, a laugh. We're stuck here in this unusual world. We might as well enjoy ourselves.",
+        "Let's forget about the troubles in our world for a while.",
+        "**Edelgard:** Forgetting is not that easy, but I do agree. We should try to have fun.",
+        "**Dimitri:** Great! Let's explore this whole place.",
+        "**Edelgard:** All right. Oh...by the way, I am glad I met you too."
+      ],
+      "Duo Skill": [
+        "\"We will\" \"not lose!\"",
+        "\"This\" \"ends it!\""
+      ],
+      "Back Unit Supporting": [
+        "You've got this, El!",
+        "Do what's needed!"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Young Edelgard",
+    "SEARCH_NAME": "Young Edelgard",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Green_Dagger:1317239563697127456>Young Edelgard",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "edelgard",
+      "edelgard2",
+      "edelgard3",
+      "edelgard4",
+      "edelgard5",
+      "edelgard6",
+      "edelgard7",
+      "edelgard8"
+    ],
+    "prf": {
+      "": "oathdagger",
+      "eff": "oathdagger",
+      "atk": "oathdagger",
+      "spd": "oathdagger",
+      "def": "oathdagger",
+      "res": "oathdagger"
+    }
+  },
+  "ingrid5": {
+    "name": "Ingrid",
+    "title": "Chivalrous Heart",
+    "description": "A girl who aspires to become a knight. For the sake of her family's survival, she is betrothed to Glenn of House Fraldarius. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Asao Urata (\u3046\u3089\u305f\u3042\u3055\u304a)",
+    "move": "Cavalry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1363",
+    "type": "rearmed",
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 10,
+      "res": 6
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 60,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Arcane Thorn": "5"
+    },
+    "assist": {
+      "Reposition": "3"
+    },
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Shatter Slash": "5"
+    },
+    "passive": {
+      "A": {
+        "Proper Knight": "5"
+      },
+      "B": {
+        "Atk/Spd Link 1": "2",
+        "Atk/Spd Link 2": "3",
+        "Atk/Spd Link 3": "4",
+        "Atk/Spd Favor": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Outcry Dull": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Ingrid_Chivalrous_Heart_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Ingrid_Chivalrous_Heart_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Ingrid_Chivalrous_Heart_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Ingrid_Chivalrous_Heart_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Chivalrous Heart",
+      "Ingrid: Chivalrous Heart",
+      "Young Ingrid",
+      "Y Ingrid",
+      "Baby Ingrid",
+      "Child Ingrid",
+      "Young Rearmed Ingrid",
+      "Y Rearmed Ingrid",
+      "Baby Rearmed Ingrid",
+      "Child Rearmed Ingrid",
+      "Rearmed Young Ingrid",
+      "Rearmed Y Ingrid",
+      "Rearmed Baby Ingrid",
+      "Rearmed Child Ingrid",
+      "Young Rearm Ingrid",
+      "Y Rearm Ingrid",
+      "Baby Rearm Ingrid",
+      "Child Rearm Ingrid",
+      "Rearm Young Ingrid",
+      "Rearm Y Ingrid",
+      "Rearm Baby Ingrid",
+      "Rearm Child Ingrid",
+      "Young R Ingrid",
+      "Y R Ingrid",
+      "Baby R Ingrid",
+      "Child R Ingrid",
+      "R Young Ingrid",
+      "R Y Ingrid",
+      "R Baby Ingrid",
+      "R Child Ingrid",
+      "Young Arm Ingrid",
+      "Y Arm Ingrid",
+      "Baby Arm Ingrid",
+      "Child Arm Ingrid",
+      "Arm Young Ingrid",
+      "Arm Y Ingrid",
+      "Arm Baby Ingrid",
+      "Arm Child Ingrid",
+      "ingrid5"
+    ],
+    "HARD_ALT_NAME": [
+      "Chivalrous Heart",
+      "Ingrid: Chivalrous Heart",
+      "Young Ingrid",
+      "Y Ingrid",
+      "Baby Ingrid",
+      "Child Ingrid",
+      "Young Rearmed Ingrid",
+      "Y Rearmed Ingrid",
+      "Baby Rearmed Ingrid",
+      "Child Rearmed Ingrid",
+      "Rearmed Young Ingrid",
+      "Rearmed Y Ingrid",
+      "Rearmed Baby Ingrid",
+      "Rearmed Child Ingrid",
+      "Young Rearm Ingrid",
+      "Y Rearm Ingrid",
+      "Baby Rearm Ingrid",
+      "Child Rearm Ingrid",
+      "Rearm Young Ingrid",
+      "Rearm Y Ingrid",
+      "Rearm Baby Ingrid",
+      "Rearm Child Ingrid",
+      "Young R Ingrid",
+      "Y R Ingrid",
+      "Baby R Ingrid",
+      "Child R Ingrid",
+      "R Young Ingrid",
+      "R Y Ingrid",
+      "R Baby Ingrid",
+      "R Child Ingrid",
+      "Young Arm Ingrid",
+      "Y Arm Ingrid",
+      "Baby Arm Ingrid",
+      "Child Arm Ingrid",
+      "Arm Young Ingrid",
+      "Arm Y Ingrid",
+      "Arm Baby Ingrid",
+      "Arm Child Ingrid",
+      "ingrid5"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u9b54\u5668\u5e7c\u5c11\u30a4\u30f3\u30b0",
+    "voice": "Brittany Cox",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Caring for the horses is one of my daily chores. I hope to help with that here in the Order of Heroes too.",
+        "House Galatea, where I was born, is an offshoot of House Daphnel of the Alliance. We're...not very well off.",
+        "My dream is to become a knight like those in chivalric tales. I'll protect my lord with my life.",
+        "Glenn, my promised, is Felix's brother and a knight I can respect.",
+        "I've known Sylvain and Felix since we were little. I'm always scolding them for their constant pranking."
+      ],
+      "Visit": [
+        "I am Ingrid. I am very pleased to make the acquaintance of a sworn friend to [F]."
+      ],
+      "Level": [
+        "I felt that! My daily training has paid off.",
+        "One step at a time. Don't lose composure. I must advance along the path I believe in.",
+        "It's not because I was hungry. It's because I didn't put in enough effort."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "My name is Ingrid Brandl Galatea. I am doing my absolute best each day to become a proper knight."
+      ],
+      "Learn Skill": [
+        "Thank you. Now I am one step closer to fulfilling my dream."
+      ],
+      "Confession": [
+        "I have always idolized knights, like those I've read about in stories...\nBut, worried for our house's survival, my father promised my hand to Glenn, who is of a reputable house.\nHouse Galatea has survived as a result, but my yearning to be a knight has not subsided.\nI understand my father's feelings and the weight on his shoulders...\nWhile I dined on fish and meat, he slurped flavorless broth without showing the slightest distaste.\nSo I cannot reveal to him my true feelings. I have no choice but to bury my dream deep inside my heart."
+      ],
+      "Special": [
+        "Here I go!",
+        "Take this!",
+        "I'll show you!",
+        "See what I can do!"
+      ],
+      "Status": [
+        "Huh?",
+        "My name's Ingrid Brandl Galatea. It's nice to meet you!",
+        "Whoa! You really startled me.",
+        "My father got upset with me again because I chose to go for an outing on horseback...",
+        "I started learning military arts when I was only five. I think you will find my skills quite helpful.",
+        "My promised, Glenn, is a very fine knight. I am inspired by his example.",
+        "My dream is to become a knight someday. Oh, but please don't tell my father that.",
+        "Are these sweets for me? That's wonderful! Thank you very much!"
+      ],
+      "Map Select": [
+        "Great idea!",
+        "Your plan?",
+        "I'll do it!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Young Rearmed Ingrid",
+    "SEARCH_NAME": "Young Rearmed Ingrid",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Young Rearmed Ingrid",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ingrid",
+      "ingrid2",
+      "ingrid3",
+      "ingrid4"
+    ],
+    "prf": {
+      "": "arcanethorn",
+      "eff": "arcanethorn",
+      "atk": "arcanethorn",
+      "spd": "arcanethorn",
+      "def": "arcanethorn",
+      "res": "arcanethorn"
+    }
+  },
+  "claude8": {
+    "name": "Claude",
+    "title": "Budding Ambition",
+    "description": "A mysterious boy exuding a foreign aura. Despite his young age, he possesses tenacity that is unshaken by adversity. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "hanada (\u306F\u306A\u3060)",
+    "move": "Cavalry",
+    "weapon": "Bow",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1364",
+    "type": false,
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 4,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 50,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Hunting Bow": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Collapsed Star": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Incite Hone": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Claude_Budding_Ambition_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Claude_Budding_Ambition_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Claude_Budding_Ambition_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Claude_Budding_Ambition_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Budding Ambition",
+      "Claude: Budding Ambition",
+      "Young Claude",
+      "Y Claude",
+      "Baby Claude",
+      "Child Claude",
+      "claude8"
+    ],
+    "HARD_ALT_NAME": [
+      "Budding Ambition",
+      "Claude: Budding Ambition",
+      "Young Claude",
+      "Y Claude",
+      "Baby Claude",
+      "Child Claude",
+      "claude8"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u5e7c\u5c11\u30af\u30ed\u30fc\u30c9",
+    "voice": "Joe Zieja",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "A different world, huh? Not bad... Not bad at all. I sense a mountain of interesting things waiting for me here!",
+        "I'm foreign by nature. And I've learned that foreign things must deceive people if they want a full life.",
+        "You want to help me? Well, my father and mother told me that I have to handle myself on my own.",
+        "You can't make it through this world just by being nice. At least that's how it's been for everyone around me.",
+        "People aren't treated as foreigners here, even if they're from another world. They're even welcomed..."
+      ],
+      "Visit": [
+        "Aha! You're just who I was looking for. This handwritten letter is for you. It's from [F]."
+      ],
+      "Level": [
+        "Want to know why you lost? It's simple. You treated me like a child!",
+        "Those who stop fighting end up dead. You have to keep struggling and resisting if you want to survive.",
+        "I planned to show some grace, but... don't you think this is a little harsh?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Khal\u2014Claude. You'll get burned if you underestimate me because I'm a child."
+      ],
+      "Learn Skill": [
+        "This is for me? You're not going to ask for it back later, are you?"
+      ],
+      "Confession": [
+        "Why do you think people create borders between countries, [S]?\nThey draw lines on maps and divide things based on what's on this side and what's on that side.\nThen they repeatedly fight each other like a bunch of fools.\nLook at the sky. There's no borders up there\u2014just blue that extends forever and ever.\nCan't we come together like the sky, regardless of where we came from, how much we have, what we believe?\nI know you think it's a silly dream, but I think it's worth shooting for.\nI may have a lot left to learn, but I will gain the strength to bring the world together as one."
+      ],
+      "Special": [
+        "Of course I'll do it!",
+        "Take that!",
+        "Gotcha!",
+        "That's what you get!"
+      ],
+      "Status": [
+        "-",
+        "I'm Khal\u2014Claude. Nice meeting you.",
+        "Hey! Do you like tormenting children?",
+        "My mother ran off with the man she loved, and then just...threw it all away.",
+        "Ugh! You look down on me just because of my F\u00f3dlan half\u2014I'll show you!",
+        "Ow! The old man doesn't know when to hold back.",
+        "If I put my mind to it, I could go anywhere, even to F\u00f3dlan.",
+        "Have some time? I know an ancient story from a faraway land about a white camel. Wanna hear it?"
+      ],
+      "Map Select": [
+        "Oh, OK.",
+        "Um...",
+        "Watch this."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Young Claude",
+    "SEARCH_NAME": "Young Claude",
+    "DISPLAY_NAME": "<:Colorless_Bow:1317239404204654703>Young Claude",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "claude",
+      "claude2",
+      "claude3",
+      "claude4",
+      "claude5",
+      "claude6",
+      "Claude7"
+    ],
+    "prf": {
+      "": "huntingbow",
+      "eff": "huntingbow",
+      "atk": "huntingbow",
+      "spd": "huntingbow",
+      "def": "huntingbow",
+      "res": "huntingbow"
+    }
+  },
+  "felix5": {
+    "name": "Felix",
+    "title": "Zealous Yearning",
+    "description": "The second son of the prestigious Fraldarius family. He admires his older brother, Glenn, and trains diligently in swordsmanship every day. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Asatani Tomoyo (\u9ebb\u8c37\u77e5\u4e16)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1365",
+    "type": false,
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 11,
+      "spd": 10,
+      "def": 11,
+      "res": 7
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 70,
+      "res": 40
+    },
+    "superboon": [
+      "spd",
+      "def"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Priming Sword": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Darting Blow 1": "2",
+        "Darting Blow 2": "3",
+        "Darting Blow 3": "4",
+        "Duelist's Blow": "5"
+      },
+      "B": {
+        "Matchless Wolf": "5"
+      },
+      "C": {
+        "Odd Tempest 1": "2",
+        "Odd Tempest 2": "3",
+        "Odd Tempest 3": "4",
+        "Burst of Thunder": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Felix_Zealous_Yearning_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Felix_Zealous_Yearning_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8e/Felix_Zealous_Yearning_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a4/Felix_Zealous_Yearning_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Zealous Yearning",
+      "Felix: Zealous Yearning",
+      "Young Felix",
+      "Y Felix",
+      "Baby Felix",
+      "Child Felix",
+      "felix5"
+    ],
+    "HARD_ALT_NAME": [
+      "Zealous Yearning",
+      "Felix: Zealous Yearning",
+      "Young Felix",
+      "Y Felix",
+      "Baby Felix",
+      "Child Felix",
+      "felix5"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u5e7c\u5c11\u30d5\u30a7\u30ea\u30af\u30b9",
+    "voice": "Lucien Dodge",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I enjoy swinging a sword. It makes my mind sharp and I feel as though the blade becomes a part of me.",
+        "My brother, Glenn, has character and strength that are the pride of House Fraldarius. He's my idol.",
+        "I've never been fond of sweets, so I always have Ingrid eat them for me.",
+        "Dimitri once bent a sword just by swinging it with all his might. I couldn't believe it!",
+        "Sylvain is like another brother to me. But I wish he'd stop treating me like a child."
+      ],
+      "Visit": [
+        "I am Felix of House Fraldarius. I've come to you with a letter from [F]."
+      ],
+      "Level": [
+        "I'll keep getting stronger. And one day, I'll catch up to my brother.",
+        "Sylvain, Ingrid, did you see that?! I'm getting stronger too!",
+        "Urk! I just know Glenn will laugh at me if he sees me like this..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Felix Hugo Fraldarius. I wish to become a strong man like my brother. That's my goal."
+      ],
+      "Learn Skill": [
+        "Not bad. I want Glenn to see how much I've grown."
+      ],
+      "Confession": [
+        "My dream is to catch up to my idol\u2014 my brother\u2014and then surpass him.\nI know it's not going to be easy, but I can't give up. I'm going to swing my sword each and every day.\nAnd I won't have to do it alone. I've got my precious friends beside me.\nIngrid is betrothed to Glenn, and...I think she'll be a good match for him.\nAnd Sylvain... He's like my brother; he's my best friend. We promised each other to stay together till we die.\nWith my friends by my side, I'll get stronger and stronger and prove that I can support Dimitri."
+      ],
+      "Special": [
+        "Make contact!",
+        "How about this?!",
+        "I can't lose!",
+        "With one strike!"
+      ],
+      "Status": [
+        "-",
+        "Felix Hugo Fraldarius. That's my name.",
+        "Whoa... Did you think I need you to pay attention to me? Don't treat me like a child.",
+        "Do you know any skilled blacksmiths? I want a good sword.",
+        "I will refine my skills in the Order of Heroes and someday surpass my brother.",
+        "Ingrid scolded me again. All because Sylvain does stupid stuff.",
+        "Sylvain and I, we made a promise to stick together until we die.",
+        "Summoner, fight me. What is it? Can't you use a sword?"
+      ],
+      "Map Select": [
+        "All right.",
+        "Ready for orders.",
+        "A test of skills."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Young Felix",
+    "SEARCH_NAME": "Young Felix",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Young Felix",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "felix",
+      "felix2",
+      "felix3",
+      "felix4"
+    ],
+    "prf": {
+      "": "primingsword",
+      "eff": "primingsword",
+      "atk": "primingsword",
+      "spd": "primingsword",
+      "def": "primingsword",
+      "res": "primingsword"
     }
   }
 }

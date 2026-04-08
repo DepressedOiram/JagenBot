@@ -1644,7 +1644,46 @@
       "W Tine",
       "Bride Tine",
       "Bridal Tine",
-      "tine2"
+      "tine2",
+      "Chivalrous Heart",
+      "Ingrid: Chivalrous Heart",
+      "Young Ingrid",
+      "Y Ingrid",
+      "Baby Ingrid",
+      "Child Ingrid",
+      "Young Rearmed Ingrid",
+      "Y Rearmed Ingrid",
+      "Baby Rearmed Ingrid",
+      "Child Rearmed Ingrid",
+      "Rearmed Young Ingrid",
+      "Rearmed Y Ingrid",
+      "Rearmed Baby Ingrid",
+      "Rearmed Child Ingrid",
+      "Young Rearm Ingrid",
+      "Y Rearm Ingrid",
+      "Baby Rearm Ingrid",
+      "Child Rearm Ingrid",
+      "Rearm Young Ingrid",
+      "Rearm Y Ingrid",
+      "Rearm Baby Ingrid",
+      "Rearm Child Ingrid",
+      "Young R Ingrid",
+      "Y R Ingrid",
+      "Baby R Ingrid",
+      "Child R Ingrid",
+      "R Young Ingrid",
+      "R Y Ingrid",
+      "R Baby Ingrid",
+      "R Child Ingrid",
+      "Young Arm Ingrid",
+      "Y Arm Ingrid",
+      "Baby Arm Ingrid",
+      "Child Arm Ingrid",
+      "Arm Young Ingrid",
+      "Arm Y Ingrid",
+      "Arm Baby Ingrid",
+      "Arm Child Ingrid",
+      "ingrid5"
     ],
     "HARD_ALT_NAME": [
       "sophia2",
@@ -1674,10 +1713,50 @@
       "W Tine",
       "Bride Tine",
       "Bridal Tine",
-      "tine2"
+      "tine2",
+      "Chivalrous Heart",
+      "Ingrid: Chivalrous Heart",
+      "Young Ingrid",
+      "Y Ingrid",
+      "Baby Ingrid",
+      "Child Ingrid",
+      "Young Rearmed Ingrid",
+      "Y Rearmed Ingrid",
+      "Baby Rearmed Ingrid",
+      "Child Rearmed Ingrid",
+      "Rearmed Young Ingrid",
+      "Rearmed Y Ingrid",
+      "Rearmed Baby Ingrid",
+      "Rearmed Child Ingrid",
+      "Young Rearm Ingrid",
+      "Y Rearm Ingrid",
+      "Baby Rearm Ingrid",
+      "Child Rearm Ingrid",
+      "Rearm Young Ingrid",
+      "Rearm Y Ingrid",
+      "Rearm Baby Ingrid",
+      "Rearm Child Ingrid",
+      "Young R Ingrid",
+      "Y R Ingrid",
+      "Baby R Ingrid",
+      "Child R Ingrid",
+      "R Young Ingrid",
+      "R Y Ingrid",
+      "R Baby Ingrid",
+      "R Child Ingrid",
+      "Young Arm Ingrid",
+      "Y Arm Ingrid",
+      "Baby Arm Ingrid",
+      "Child Arm Ingrid",
+      "Arm Young Ingrid",
+      "Arm Y Ingrid",
+      "Arm Baby Ingrid",
+      "Arm Child Ingrid",
+      "ingrid5"
     ],
     "heroes": {
       "ilyanaR": "<:Blue_Tome:1317239386491977749>Ilyana (Resplendent)",
+      "ingrid5": "<:Blue_Lance:1317239378208096338>Young Rearmed Ingrid",
       "sophia2": "<:Blue_Tome:1317239386491977749>Halloween Sophia",
       "tailtiu2": "<:Green_Tome:1317239575352971396>Maid Tailtiu",
       "tine2": "<:Red_Tome:1317239730714316800>Bridal Tine"
@@ -1930,7 +2009,14 @@
       "Resplendent Legendary Marth",
       "Resp Legendary Marth",
       "R Legendary Marth",
-      "Legendary Marth (Resplendent)"
+      "Legendary Marth (Resplendent)",
+      "Zealous Yearning",
+      "Felix: Zealous Yearning",
+      "Young Felix",
+      "Y Felix",
+      "Baby Felix",
+      "Child Felix",
+      "felix5"
     ],
     "HARD_ALT_NAME": [
       "Winter Erika",
@@ -2302,7 +2388,14 @@
       "Resplendent Legendary Marth",
       "Resp Legendary Marth",
       "R Legendary Marth",
-      "Legendary Marth (Resplendent)"
+      "Legendary Marth (Resplendent)",
+      "Zealous Yearning",
+      "Felix: Zealous Yearning",
+      "Young Felix",
+      "Y Felix",
+      "Baby Felix",
+      "Child Felix",
+      "felix5"
     ],
     "heroes": {
       "alm3R": "<:Red_Sword:1317239717707911188>Brave Alm (Resplendent)",
@@ -2322,6 +2415,7 @@
       "ephraim": "<:Blue_Lance:1317239378208096338>Ephraim",
       "ephraim2": "<:Blue_Lance:1317239378208096338>Legendary Ephraim",
       "ephraim4": "<:Blue_Lance:1317239378208096338>Winter Ephraim",
+      "felix5": "<:Red_Sword:1317239717707911188>Young Felix",
       "fernand": "<:Blue_Lance:1317239378208096338>Fernand",
       "ganglot": "<:Green_Axe:1317239517136031897>Rearmed Gangl\u00f6t",
       "guinivere": "<:Blue_Tome:1317239386491977749>Guinivere",
@@ -18907,7 +19001,11 @@
       "Rearm Lysithea",
       "R Lysithea",
       "Arm Lysithea",
-      "lysithea5"
+      "lysithea5",
+      "Resplendent Legendary Julia",
+      "Resp Legendary Julia",
+      "R Legendary Julia",
+      "Legendary Julia (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Caring Noble",
@@ -18936,10 +19034,15 @@
       "Rearm Lysithea",
       "R Lysithea",
       "Arm Lysithea",
-      "lysithea5"
+      "lysithea5",
+      "Resplendent Legendary Julia",
+      "Resp Legendary Julia",
+      "R Legendary Julia",
+      "Legendary Julia (Resplendent)"
     ],
     "heroes": {
       "citrinne": "<:Green_Tome:1317239575352971396>Citrinne",
+      "julia2R": "<:Blue_Tome:1317239386491977749>Legendary Julia (Resplendent)",
       "kvasir2": "<:Green_Tome:1317239575352971396>New Year Kvasir",
       "lysithea5": "<:Green_Tome:1317239575352971396>Rearmed Lysithea",
       "micaiah7": "<:Green_Tome:1317239575352971396>Attuned Micaiah",
@@ -30909,6 +31012,7 @@
   "hagiwararin": {
     "heroes": {
       "clairR": "<:Blue_Lance:1317239378208096338>Clair (Resplendent)",
+      "edelgard9": "<:Green_Dagger:1317239563697127456>Young Edelgard",
       "ytiki3R": "<:Blue_Breath:1317239355835813939>Legendary Young Tiki"
     },
     "name": "Hagiwara Rin (\u8429\u539F\u51DB)",
@@ -30929,7 +31033,16 @@
       "Resplendent Legendary Chiki",
       "Resp Legendary Chiki",
       "R Legendary Chiki",
-      "Legendary Chiki (Resplendent)"
+      "Legendary Chiki (Resplendent)",
+      "Promised Path",
+      "Edelgard: Promised Path",
+      "Young Edelgard",
+      "Y Edelgard",
+      "Baby Edelgard",
+      "Child Edelgard",
+      "Duo Edelgard",
+      "D Edelgard",
+      "edelgard9"
     ]
   },
   "meisai": {
@@ -31048,6 +31161,7 @@
   "hanada": {
     "heroes": {
       "alfred2": "<:Blue_Lance:1317239378208096338>Winter Alfred",
+      "claude8": "<:Colorless_Bow:1317239404204654703>Young Claude",
       "lucina9": "<:Blue_Lance:1317239378208096338>Ferox Marth",
       "xane3": "<:Blue_Tome:1317239386491977749>Ancient Xane"
     },
@@ -31080,7 +31194,14 @@
       "Winter Alfred",
       "Christmas Alfred",
       "W Alfred",
-      "alfred2"
+      "alfred2",
+      "Budding Ambition",
+      "Claude: Budding Ambition",
+      "Young Claude",
+      "Y Claude",
+      "Baby Claude",
+      "Child Claude",
+      "claude8"
     ]
   },
   "fujimitsuya": {

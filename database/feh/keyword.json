@@ -235,7 +235,26 @@
         "description": "Grants bonus to Atk during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).",
         "color": "Red",
         "icon": "atkliberate",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [
+                "Priming Sword"
+            ],
+            "Lance": [
+                "Rearguard Lance"
+            ],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -321,6 +340,7 @@
                 "Fiery War Sword",
                 "Laevatein",
                 "Pledged Blade+",
+                "Priming Sword",
                 "Spirited Sword+",
                 "Suave Blade"
             ],
@@ -446,6 +466,7 @@
                 "Atk/Spd Prime 4",
                 "Atk/Def Prime 4",
                 "Spd/Def Prime 4",
+                "Atk/Def Clear",
                 "Divine Toxin",
                 "Dragoon Pillar",
                 "Obsidian Tactics",
@@ -572,6 +593,7 @@
         "icon": "bulwark",
         "reference_weapon": {
             "Sword": [
+                "Ancient Ragnell",
                 "Chosen Sword",
                 "Fellowship Blade",
                 "Sublime Creator"
@@ -633,7 +655,9 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Tome of Grado"
+                ],
                 "Green_Tome": [
                     "Blood Tome"
                 ],
@@ -865,6 +889,7 @@
                 "Lookout Force",
                 "Active Lookout",
                 "Lookout Smog",
+                "Lookout Rush",
                 "Black Fang Bond",
                 "Darkling Guard II",
                 "Dromi II",
@@ -1170,10 +1195,12 @@
             "Sword": [
                 "Clouding Blade",
                 "Lion's Heart",
+                "Sonic Sword",
                 "Sword of Dusk"
             ],
             "Lance": [
                 "Holy Gradivus",
+                "Rearguard Lance",
                 "Springing Spear"
             ],
             "Axe": [
@@ -1299,6 +1326,7 @@
             "special": [],
             "A": [],
             "B": [
+                "Collapsed Star",
                 "Stellar Brace"
             ],
             "C": [
@@ -1324,6 +1352,7 @@
         "icon": "canto",
         "reference_weapon": {
             "Sword": [
+                "Priming Sword",
                 "Teatime's Edge"
             ],
             "Lance": [
@@ -1367,7 +1396,8 @@
                 "Divine Specter",
                 "Swift Specter",
                 "Heaven's Stead N",
-                "Lady Knight"
+                "Lady Knight",
+                "Proper Knight"
             ],
             "B": [
                 "Heavenly Wings"
@@ -1678,6 +1708,29 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "collapsedstar": {
+        "name": "Collapsed Star (Status Effect)",
+        "description": "If it is unit's first combat initiated by foe this turn, reduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+        "color": "Colorless",
+        "icon": "collapsedstar",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [
+                "Collapsed Star"
+            ],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Collapsed Star"
+        ]
+    },
     "counterattacksdisrupted": {
         "name": "Counterattacks Disrupted",
         "description": "Unit cannot counterattack through its next action.",
@@ -1899,7 +1952,8 @@
                 "Miasma Dagger+",
                 "Minty Cane+",
                 "Nabata Kunai",
-                "Ni\u00f0avellir Sprig",      
+                "Ni\u00f0avellir Sprig",
+                "Oath Dagger",      
                 "Perspicacious",
                 "Pumpkin-a-Box+",
                 "Quick Dagger+",
@@ -2193,7 +2247,9 @@
             "special": [
                 "Immurement"
             ],
-            "A": [],
+            "A": [
+                "Proper Knight"
+            ],
             "B": [
                 "Dazzling Discord",
                 "Atk/Def Discord",
@@ -2255,6 +2311,7 @@
                 "Lookout Force",
                 "Active Lookout",
                 "Lookout Smog",
+                "Lookout Rush",
                 "Black Fang Bond"
             ],
             "X": [],
@@ -2500,7 +2557,24 @@
         "description": "Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to \u3010Divine Vein (Vert)\u3011. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).",
         "color": "Blue",
         "icon": "divineveinicicle",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [
+                "Nifl's Bite"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -2585,7 +2659,24 @@
         "description": "Applies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts \u3010Canto Control\u3011on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
         "color": "Green",
         "icon": "divineveinvert",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [
+                "Nifl's Bite"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -2644,6 +2735,7 @@
                 "Bonded Blades",
                 "Hoshido Raijinto",
                 "Ilian Longsword",
+                "Priming Sword",
                 "Sharp War Sword",
                 "Spendy Scimitar",
                 "Swirling Scimitar"
@@ -2953,7 +3045,9 @@
                 "Red_Tome": [
                     "Spring Dawning"
                 ],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Tome of Grado"
+                ],
                 "Green_Tome": [
                     "Sei\u00f0r"
                 ],
@@ -3130,6 +3224,7 @@
                 "Killing Intent+",
                 "Mounting Fear",
                 "Pure Storm",
+                "Vengeful Storm",
                 "Wild at Heart",
                 "Yune's Protection"
             ],
@@ -3790,7 +3885,8 @@
                 "Th\u00f6kk"
             ],
             "Bow": [
-                "Duskbloom Bow"
+                "Duskbloom Bow",
+                "Hunting Bow"
             ],
             "Dagger": [],
             "Tome": {
@@ -4447,6 +4543,7 @@
             "A": [],
             "B": [
                 "Lone Wolf",
+                "Matchless Wolf",
                 "True Lone Wolf"
             ],
             "C": [
@@ -5158,6 +5255,7 @@
                 "Red_Tome": [
                     "Dark Faith",
                     "Dark Monograph",
+                    "Fiery Bolganone",
                     "Grimleal Text",
                     "Iago's Tome",
                     "Incipit Kvasir",
@@ -5379,6 +5477,7 @@
                     "Aversa's Night",
                     "Banshee \u0398",
                     "Bouncin' Ball",
+                    "Fiery Bolganone",
                     "Grimleal Text",
                     "Retainer's Report",
                     "Spring Dawning"
@@ -5719,10 +5818,13 @@
             "A": [
                 "Peerless Beauty",
                 "Prof's Guidance",
+                "Proper Knight",
                 "Sacae's Decree",
                 "True Genius"
             ],
             "B": [
+                "Collapsed Star",
+                "Matchless Wolf",
                 "Shield of Hope",
                 "Yngvi Ascendant+"
             ],
@@ -5739,14 +5841,49 @@
             "Potent Follow 100%"
         ]
     },
+    "potentfollow120": {
+        "name": "Potent Follow 120%",
+        "description": "Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 120% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+        "color": "Green",
+        "icon": "potentfollow",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [
+                "Oath Dagger"
+            ],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Potent 120",
+            "Potent Follow 120%"
+        ]
+    },
     "preemptpulse": {
         "name": "Preempt Pulse",
         "description": "Grants Special cooldown count-1 to unit before unit's first attack during combat.",
         "color": "Red",
         "icon": "preemptpulse",
         "reference_weapon": {
-            "Sword": [],
-            "Lance": [],
+            "Sword": [
+                "Ancient Ragnell"
+            ],
+            "Lance": [
+                "Arcane Thorn",
+                "Rearguard Lance"
+            ],
             "Axe": [],
             "Staff": [],
             "Bow": [
@@ -5816,7 +5953,9 @@
         "color": "Red",
         "icon": "pulsefollow",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "Priming Sword"
+            ],
             "Lance": [],
             "Axe": [],
             "Staff": [],
@@ -6294,7 +6433,9 @@
             "Bow": [],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Fiery Bolganone"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": [
@@ -6391,7 +6532,8 @@
                 "Enclosure II"
             ],
             "A": [
-                "Peerless Beauty"
+                "Peerless Beauty",
+                "Proper Knight"
             ],
             "B": [
                 "Atk/Res Havoc",
@@ -6409,6 +6551,7 @@
                 "Prescience II",
                 "Pure Storm",
                 "Spoil Rotten",
+                "Vengeful Storm",
                 "Wild at Heart"
             ],
             "C": [],
@@ -6730,7 +6873,24 @@
         "description": "Grants bonus to Spd during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).",
         "color": "Green",
         "icon": "spdliberate",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [
+                "Priming Sword"
+            ],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -6976,9 +7136,11 @@
         "color": "Colorless",
         "reference_weapon": {
             "Sword": [
+                "Ancient Ragnell",
                 "Azure Twin Edge",
                 "Hoshido Raijinto",
                 "Sisters' Blade",
+                "Sonic Sword",
                 "Sublime Creator"
             ],
             "Lance": [
@@ -6993,10 +7155,13 @@
                 "Budding Staff"
             ],
             "Bow": [
+                "Hunting Bow",
                 "Intrinsic Mulagir",
                 "Truth Seeker"
             ],
-            "Dagger": [],
+            "Dagger": [
+                "Oath Dagger"
+            ],
             "Tome": {
                 "Red_Tome": [
                     "Dark Faith",
@@ -7231,7 +7396,9 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Tome of Grado"
+                ],
                 "Green_Tome": [
                     "Blood Tome"
                 ],
@@ -7300,7 +7467,8 @@
             "A": [],
             "B": [],
             "C": [
-                "Strat Assault 4"
+                "Strat Assault 4",
+                "Lookout Rush"
             ],
             "X": [],
             "S": [],
@@ -7318,7 +7486,9 @@
             "Sword": [
                 "Ilian Longsword"
             ],
-            "Lance": [],
+            "Lance": [
+                "Arcane Thorn"
+            ],
             "Axe": [
                 "Comrade's Axe"
             ],
