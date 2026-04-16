@@ -59,6 +59,7 @@ Character.section = almanac.get("database/fe6/char.json")
 Character.helper_portrait = "database/fe6/images"
 
 Character.helper_job_base = true
+Character.helper_job_cap = true
 
 Character.allow_show_promo = true
 Character.promo_use_fixed = true
@@ -66,7 +67,6 @@ Character.promo_use_fixed = true
 Character.allow_show_cap = false
 Character.compare_cap = false
 
-Character.allow_promo_skill = false
 Character.average_classic = false
 Character.rank_exp = rank_exp
 Character.pack = gba_pack
@@ -269,6 +269,7 @@ function Character:final_base()
     if self.job.id ~= self.data.job then
         
         local job = self.Job:new(self.data.job)
+
     end
 
     -- if it's mounted
@@ -312,9 +313,7 @@ function Character:calc_growth()
 end
 
 -- Cap
-function Character:get_cap()
-    return self.job:get_cap()
-end
+function Character:get_cap() return {} end
 
 -- Rank Display
 function Character:show_rank()
