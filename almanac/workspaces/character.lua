@@ -788,6 +788,8 @@ function Character:final_base()
                 local g = value
 
                 g = util.round(g / 100)
+
+                base[key] = base[key] + util.round_closest(g)
             end
         end
     end
