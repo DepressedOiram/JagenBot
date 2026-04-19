@@ -783,14 +783,6 @@ function Character:final_base()
         
         if self.personal then
             base = base - job:get_base()
-            -- can't use mod_stats for this one
-            for key, value in pairs(base) do
-                local g = value
-
-                g = util.round(g / 100)
-
-                base[key] = base[key] + util.round_closest(g)
-            end
         end
     end
     

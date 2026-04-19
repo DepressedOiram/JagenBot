@@ -408,7 +408,11 @@
       "Tharja: Shadow Ninja",
       "Ninja Tharja",
       "N Tharja",
-      "tharja6"
+      "tharja6",
+      "Resplendent Female Byleth",
+      "Resp Female Byleth",
+      "R Female Byleth",
+      "Female Byleth (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "elimine",
@@ -433,9 +437,14 @@
       "Tharja: Shadow Ninja",
       "Ninja Tharja",
       "NTharja",
-      "tharja6"
+      "tharja6",
+      "Resplendent Female Byleth",
+      "Resp Female Byleth",
+      "R Female Byleth",
+      "Female Byleth (Resplendent)"
     ],
     "heroes": {
+      "mbylethR": "<:Red_Sword:1317239717707911188>Male Byleth (Resplendent)",
       "elimine": "<:Colorless_Staff:1317239426866483261>Elimine",
       "hana3": "<:Red_Sword:1317239717707911188>Valentines Hana",
       "tharja6": "<:Red_Tome:1317239730714316800>Ninja Tharja"
@@ -2469,7 +2478,13 @@
       "H Ranulf",
       "Harvest Ranulf",
       "Spooky Ranulf",
-      "ranulf2"
+      "ranulf2",
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
     ],
     "HARD_ALT_NAME": [
       "Valentine's Ephraim",
@@ -2502,9 +2517,16 @@
       "H Ranulf",
       "Harvest Ranulf",
       "Spooky Ranulf",
-      "ranulf2"
+      "ranulf2",
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
     ],
     "heroes": {
+      "claud": "<:Colorless_Staff:1317239426866483261>Claud",
       "eliwood4R": "<:Blue_Lance:1317239378208096338>Brave Eliwood (Resplendent)",
       "ephraim7": "<:Blue_Lance:1317239378208096338>Valentines Ephraim",
       "homer": "<:Blue_Tome:1317239386491977749>Homer",
@@ -18213,7 +18235,13 @@
       "Emblem Sigurd",
       "Engage Sigurd",
       "E Sigurd",
-      "sigurd5"
+      "sigurd5",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
     ],
     "HARD_ALT_NAME": [
       "Thrud Reborn",
@@ -18227,11 +18255,18 @@
       "Emblem Sigurd",
       "Engage Sigurd",
       "E Sigurd",
-      "sigurd5"
+      "sigurd5",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
     ],
     "heroes": {
       "reinhardt4": "<:Blue_Tome:1317239386491977749>Rearmed Reinhardt",
-      "sigurd5": "<:Blue_Lance:1317239378208096338>Emblem Sigurd"
+      "sigurd5": "<:Blue_Lance:1317239378208096338>Emblem Sigurd",
+      "sigurd6": "<:Red_Sword:1317239717707911188>Duo Sigurd"
     },
     "name": "Momo Jirushi (\u3082\u3082\u3062\u308b\u6c0f)"
   },
@@ -18587,7 +18622,13 @@
       "Base Ogier",
       "Normal Ogier",
       "Regular Ogier",
-      "ogier"
+      "ogier",
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
     ],
     "HARD_ALT_NAME": [
       "Juno",
@@ -18676,7 +18717,13 @@
       "Base Ogier",
       "Normal Ogier",
       "Regular Ogier",
-      "ogier"
+      "ogier",
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
     ],
     "heroes": {
       "astrid": "<:Green_Bow:1317239539936268340>Astrid",
@@ -18684,6 +18731,7 @@
       "hestia": "<:Blue_Tome:1317239386491977749>Hestia",
       "juno": "<:Blue_Tome:1317239386491977749>Bridal Juno",
       "karin": "<:Blue_Lance:1317239378208096338>Karin",
+      "lamia": "<:Red_Sword:1317239717707911188>Lamia",
       "ninianR": "<:Blue_Breath:1317239355835813939>Ninian (Resplendent)",
       "ogier": "<:Red_Sword:1317239717707911188>Ogier",
       "ronan": "<:Blue_Bow:1317239347577356328>Ronan",
@@ -24331,7 +24379,12 @@
       "Duo Elincia",
       "D Elincia 2",
       "20 Elincia",
-      "elincia6"
+      "elincia6",
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
     ],
     "HARD_ALT_NAME": [
       "Beautiful Mage",
@@ -24492,7 +24545,12 @@
       "Duo Elincia",
       "D Elincia 2",
       "20 Elincia",
-      "elincia6"
+      "elincia6",
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
     ],
     "heroes": {
       "august": "<:Colorless_Staff:1317239426866483261>August",
@@ -24503,6 +24561,7 @@
       "flavia2": "<:Red_Sword:1317239717707911188>Bridal Flavia",
       "ishtarR": "<:Blue_Tome:1317239386491977749>Ishtar (Resplendent)",
       "kamui": "<:Red_Sword:1317239717707911188>Kamui",
+      "lachesis3": "<:Green_Axe:1317239517136031897>Attuned Lachesis",
       "lucia2": "<:Blue_Lance:1317239378208096338>Festival Lucia",
       "micaiah8": "<:Colorless_Tome:1317239438602145842>Emblem Micaiah",
       "nyna": "<:Colorless_Staff:1317239426866483261>Nyna",
@@ -31551,6 +31610,20 @@
       "Arm S Sothe",
       "Arm Easter Sothe",
       "sothe4"
+    ]
+  },
+  "chaminyi": {
+    "heroes": {
+      "naoise": "<:Blue_Lance:1317239378208096338>Naoise"
+    },
+    "name": "Cha Minyi",
+    "ALT_NAME": [
+      "Crimson Chivalry",
+      "Naoise: Crimson Chivalry",
+      "Base Naoise",
+      "Normal Naoise",
+      "Regular Naoise",
+      "naoise"
     ]
   }
 }

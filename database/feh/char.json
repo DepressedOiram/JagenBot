@@ -20879,7 +20879,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "lachesis2"
+      "lachesis2",
+      "lachesis3"
     ],
     "prf": {
       "": "absorbeff",
@@ -33638,7 +33639,8 @@
       "sigurd2",
       "sigurd3",
       "sigurd4",
-      "sigurd5"
+      "sigurd5",
+      "sigurd6"
     ],
     "prf": {
       "": "divinetyrfingeff",
@@ -74155,7 +74157,8 @@
       "claude4",
       "claude5",
       "claude6",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "cunningboweff",
@@ -74536,15 +74539,20 @@
     "pool": "special",
     "internal_id": "\u30d9\u30ec\u30c8",
     "voice": "Zach Aguilar",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Alan Smithee (\u963f\u85cd\u6f84\u53f2)",
+    "resplendent_voice": "Zach Aguilar",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Byleth_Tested_Professor_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Byleth_Tested_Professor_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Byleth_Tested_Professor_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Byleth_Tested_Professor_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Byleth_Tested_Professor_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Byleth_Tested_Professor_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Byleth_Tested_Professor_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Byleth_Tested_Professor_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "fodlan"
     ],
@@ -74600,7 +74608,37 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "Closing the gate!",
+          "Not another step.",
+          "That's enough.",
+          "You're done."
+        ],
+        "Status": [
+          "So, this is the Emblian garb. Do I have everything on right?",
+          "This outfit is very well made. You shouldget one for yourself.",
+          "I tried to say hello to the princess of Embla, but she wasn't interested in talking.",
+          "I'm not particular about what I wear, as long as it doesn't slow me down.",
+          "I hope Askr and Embla can develop a friendship in the same way you and I have.",
+          "Under the guidance of the goddess, our every action and interaction is imbued with meaning.",
+          "I appreciate your kindness and consideration. Thank you."
+        ],
+        "Map Select": [
+          "Ready.",
+          "Point the way.",
+          "They're finished."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Male Byleth",
     "SEARCH_NAME": "Male Byleth",
@@ -96597,7 +96635,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -101420,7 +101458,8 @@
       "claude4",
       "claude5",
       "claude6",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "windparthiaeff",
@@ -102466,7 +102505,8 @@
       "sigurd",
       "sigurd3",
       "sigurd4",
-      "sigurd5"
+      "sigurd5",
+      "sigurd6"
     ],
     "prf": {
       "": "giltgoblet",
@@ -102971,7 +103011,8 @@
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
-      "lachesis"
+      "lachesis",
+      "lachesis3"
     ],
     "prf": {
       "": "courtlymaskres",
@@ -115269,7 +115310,8 @@
       "claude4",
       "claude5",
       "claude6",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "failnaughteff",
@@ -119203,7 +119245,8 @@
       "sigurd",
       "sigurd2",
       "sigurd4",
-      "sigurd5"
+      "sigurd5",
+      "sigurd6"
     ],
     "prf": {
       "": "hallowedtyrfingeff",
@@ -148522,7 +148565,8 @@
       "claude3",
       "claude5",
       "claude6",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "frozendelight",
@@ -178599,7 +178643,8 @@
       "sigurd",
       "sigurd2",
       "sigurd3",
-      "sigurd5"
+      "sigurd5",
+      "sigurd6"
     ],
     "prf": {
       "": "knightlymanner",
@@ -180632,7 +180677,8 @@
       "claude3",
       "claude4",
       "claude6",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "playfulpinwheel",
@@ -188281,7 +188327,8 @@
       "claude3",
       "claude4",
       "claude5",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "goldenyulebowspd",
@@ -197542,12 +197589,12 @@
       "lumera2"
     ],
     "prf": {
-      "": "arcanefellstone",
-      "eff": "arcanefellstone",
-      "atk": "arcanefellstone",
-      "spd": "arcanefellstone",
-      "def": "arcanefellstone",
-      "res": "arcanefellstone"
+      "": "arcanefellstoneres",
+      "eff": "arcanefellstoneres",
+      "atk": "arcanefellstoneatk",
+      "spd": "arcanefellstonespd",
+      "def": "arcanefellstonedef",
+      "res": "arcanefellstoneres"
     }
   },
   "veyle2": {
@@ -198786,12 +198833,12 @@
       "nel"
     ],
     "prf": {
-      "": "dragonbloom",
-      "eff": "dragonbloom",
-      "atk": "dragonbloom",
-      "spd": "dragonbloom",
-      "def": "dragonbloom",
-      "res": "dragonbloom"
+      "": "dragonbloomspd",
+      "eff": "dragonbloomspd",
+      "atk": "dragonbloomatk",
+      "spd": "dragonbloomspd",
+      "def": "dragonbloomdef",
+      "res": "dragonbloomres"
     }
   },
   "embla2": {
@@ -199131,12 +199178,12 @@
       "alcryst"
     ],
     "prf": {
-      "": "harpbow",
-      "eff": "harpbow",
-      "atk": "harpbow",
-      "spd": "harpbow",
-      "def": "harpbow",
-      "res": "harpbow"
+      "": "harpbowspd",
+      "eff": "harpbowspd",
+      "atk": "harpbowatk",
+      "spd": "harpbowspd",
+      "def": "harpbowdef",
+      "res": "harpbowres"
     }
   },
   "mcorrin7": {
@@ -199698,12 +199745,12 @@
       "sothe4"
     ],
     "prf": {
-      "": "arcanetempest",
-      "eff": "arcanetempest",
-      "atk": "arcanetempest",
-      "spd": "arcanetempest",
-      "def": "arcanetempest",
-      "res": "arcanetempest"
+      "": "arcanetempestspd",
+      "eff": "arcanetempestspd",
+      "atk": "arcanetempestatk",
+      "spd": "arcanetempestspd",
+      "def": "arcanetempestdef",
+      "res": "arcanetempestres"
     }
   },
   "edward": {
@@ -200031,12 +200078,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "doublerbow",
-      "eff": "doublerbow",
-      "atk": "doublerbow",
-      "spd": "doublerbow",
-      "def": "doublerbow",
-      "res": "doublerbow"
+      "": "doublerbowspd",
+      "eff": "doublerbowspd",
+      "atk": "doublerbowatk",
+      "spd": "doublerbowspd",
+      "def": "doublerbowdef",
+      "res": "doublerbowres"
     }
   },
   "jarod": {
@@ -200197,12 +200244,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "nullspear",
-      "eff": "nullspear",
-      "atk": "nullspear",
-      "spd": "nullspear",
-      "def": "nullspear",
-      "res": "nullspear"
+      "": "nullspearspd",
+      "eff": "nullspearspd",
+      "atk": "nullspearatk",
+      "spd": "nullspearspd",
+      "def": "nullspeardef",
+      "res": "nullspearres"
     }
   },
   "gullveig3": {
@@ -200691,7 +200738,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -200757,12 +200804,12 @@
       "olivia3"
     ],
     "prf": {
-      "": "seatambourine",
-      "eff": "seatambourine",
-      "atk": "seatambourine",
-      "spd": "seatambourine",
-      "def": "seatambourine",
-      "res": "seatambourine"
+      "": "seatambourinespd",
+      "eff": "seatambourinespd",
+      "atk": "seatambourineatk",
+      "spd": "seatambourinespd",
+      "def": "seatambourinedef",
+      "res": "seatambourineres"
     }
   },
   "hrid3": {
@@ -201098,12 +201145,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "tropicalconch",
-      "eff": "tropicalconch",
-      "atk": "tropicalconch",
-      "spd": "tropicalconch",
-      "def": "tropicalconch",
-      "res": "tropicalconch"
+      "": "tropicalconchdef",
+      "eff": "tropicalconchdef",
+      "atk": "tropicalconchatk",
+      "spd": "tropicalconchspd",
+      "def": "tropicalconchdef",
+      "res": "tropicalconchres"
     }
   },
   "celica6": {
@@ -201836,12 +201883,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "smallspade",
-      "eff": "smallspade",
-      "atk": "smallspade",
-      "spd": "smallspade",
-      "def": "smallspade",
-      "res": "smallspade"
+      "": "smallspadespd",
+      "eff": "smallspadespd",
+      "atk": "smallspadeatk",
+      "spd": "smallspadespd",
+      "def": "smallspadedef",
+      "res": "smallspaderes"
     }
   },
   "petra2": {
@@ -202172,12 +202219,12 @@
       "dedue3"
     ],
     "prf": {
-      "": "anchoraxe",
-      "eff": "anchoraxe",
-      "atk": "anchoraxe",
-      "spd": "anchoraxe",
-      "def": "anchoraxe",
-      "res": "anchoraxe"
+      "": "anchoraxedef",
+      "eff": "anchoraxedef",
+      "atk": "anchoraxeatk",
+      "spd": "anchoraxespd",
+      "def": "anchoraxedef",
+      "res": "anchoraxeres"
     }
   },
   "eirika8": {
@@ -202689,12 +202736,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "pursuallance",
-      "eff": "pursuallance",
-      "atk": "pursuallance",
-      "spd": "pursuallance",
-      "def": "pursuallance",
-      "res": "pursuallance"
+      "": "pursuallancedef",
+      "eff": "pursuallancedef",
+      "atk": "pursuallanceatk",
+      "spd": "pursuallancespd",
+      "def": "pursuallancedef",
+      "res": "pursuallanceres"
     }
   },
   "forde": {
@@ -207839,7 +207886,8 @@
       "sigurd",
       "sigurd2",
       "sigurd3",
-      "sigurd4"
+      "sigurd4",
+      "sigurd6"
     ],
     "prf": {
       "": "holywarspear",
@@ -218399,7 +218447,8 @@
       "claude3",
       "claude4",
       "claude6",
-      "claude7"
+      "claude7",
+      "claude8"
     ],
     "prf": {
       "": "deersheart",
@@ -246552,7 +246601,7 @@
     "title": "Of Awakening",
     "description": "One of the Emblems who were summoned to Elyos. Resides in the Ring of the Princess Exalt. Appears in Fire Emblem Awakening / Fire Emblem Engage.",
     "origin": "Awakening + Engage",
-    "artist": "argon / Exys Inc.",
+    "artist": "argon",
     "move": "Infantry",
     "weapon": "Bow",
     "color": "Red",
@@ -247527,6 +247576,870 @@
       "spd": "primingsword",
       "def": "primingsword",
       "res": "primingsword"
+    }
+  },
+  "sigurd6": {
+    "name": "Sigurd",
+    "title": "Honorable Nobles",
+    "description": "The young king of Nordion and the young lord of Chalphy who fought together, cultivating trust and friendship that transcend the boundaries of power. They appear in Fire Emblem: Genealogy of the Holy War.",
+    "origin": "Genealogy of the Holy War",
+    "artist": "Momo Jirushi (\u3082\u3082\u3062\u308b\u6c0f)",
+    "move": "Cavalry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": "220",
+    "id": "1366",
+    "type": "duo",
+    "version": "10.4",
+    "duo": "Grants Special cooldown count-2 and \u3010Gallop\u3011to unit and allies within 2 spaces of unit.\n\u3010Gallop\u3011\nUnit can move 2 extra spaces (that turn only; only highest value applied; does not stack).",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 10,
+      "spd": 8,
+      "def": 14,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 75,
+      "def": 80,
+      "res": 30
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Oath Tyrfing": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Rising Light": "3",
+      "Blazing Light": "4",
+      "Holy-Knight Glow": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "2",
+        "Atk/Def Clash 2": "3",
+        "Atk/Def Clash 3": "4",
+        "A/D Rival Break": "5"
+      },
+      "B": {
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Impetus Guard": "5"
+      },
+      "C": {
+        "Hone Atk 1": "2",
+        "Hone Atk 2": "3",
+        "Hone Atk 3": "4",
+        "A/D Outcry Seize": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Sigurd_Honorable_Nobles_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Sigurd_Honorable_Nobles_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Sigurd_Honorable_Nobles_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Sigurd_Honorable_Nobles_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
+    ],
+    "HARD_ALT_NAME": [
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u6bd4\u7ffc\u30b7\u30b0\u30eb\u30c92",
+    "voice": "Grant George + Greg Chun",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Sigurd:** Believe me when I say I will not betray you, Eldigan.",
+        "**Eldigan:** No matter what kind of person King Chagall is, he is still my lord...",
+        "**Eldigan:** If I am to risk my life, I would rather fight for my friends. That is exactly what I will do here.",
+        "**Eldigan:** I will have your back, Sigurd.",
+        "**Sigurd:** When we were young, you, Quan, and I vowed to share our dreams and always be there to aid one another..."
+      ],
+      "Visit": [
+        "**Sigurd:** Ah, just who we're looking for. We have come with greetings from [F]'s castle."
+      ],
+      "Level": [
+        "**Sigurd:** Eldigan, when this fight is through, let us raise our glasses together. Just like old times.",
+        "**Sigurd:** A knight values justice and honor. I fight for Grannvale's.",
+        "**Eldigan:** I am sorry, Sigurd, for the way things have turned out."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I cannot believe we are standing side by side, Eldigan... I will do my best to keep up."
+      ],
+      "Learn Skill": [
+        "**Sigurd:** Let us do our best in the coming battles. Best of luck to us both, Eldigan!"
+      ],
+      "Confession": [
+        "Sigurd: The suffering brought about by Agustria and Grannvale... It should have been clear from past battles.\nEldigan: And it is not the nobles who suffer, but rather the powerless citizens. I cannot allow that, Sigurd.\nSigurd: When I hear those words from you, Eldigan, I know they come straight from your heart. I will not betray you.\nEldigan: Nor I you, Sigurd. Therefore, we shall stand as one. I will have your back.\nLet us seal it with a toast\u2014to everlasting friendship, and to our future.\nSigurd: To this day, and to my dear friends Eldigan, Quan, and [S]!"
+      ],
+      "Special": [
+        "**Duo:** On our honor as knights!",
+        "**Duo:** \"If you would...\" \"Leave it to me.\"",
+        "**Sigurd:** We do as we must!",
+        "**Eldigan:** You? Break us?"
+      ],
+      "Status": [
+        "Cheers.",
+        "\"After this, we will raise our glasses.\" \"Then let us make short work of it.\""
+      ],
+      "Map Select": [
+        "What to do?",
+        "Onward!",
+        "As comrades."
+      ],
+      "Conversation": [
+        "**Sigurd:** Unharmed, I hope? If only I had been more vigilant!",
+        "**Eldigan:** Do not worry yourself. It'll take more than a few craven bandits to slow me down.",
+        "In truth, it was you who ensured that no harm came to anyone. You have my thanks, Sigurd.",
+        "**Sigurd:** I am glad. This land may not be ours, but easing the suffering of its people is a task I gladly accept.",
+        "**Eldigan:** *sigh*",
+        "**Sigurd:** What troubles you, friend? Thinking of Agustria, perhaps?",
+        "**Eldigan:** Yes.",
+        "We were backed into that corner, but still...there must have been a way out.",
+        "**Sigurd:** There was not. You were a stalwart, courageous defender of your homeland.",
+        "**Eldigan:** Was I? I failed, and left my sister with nothing but her tears.",
+        "**Sigurd:** And for my part, though I knew your heart, I did not come to your aid. I let events transpire as they did.",
+        "Still, seeing Seliph and his companions stand tall and stride forward, I realize something...",
+        "The ideals we fought for were passed on to them. Our fight was not in vain.",
+        "**Eldigan:** Hm, your words are sweet. Never change, my friend.",
+        "And I pray that what you say is not just sweet to the ears, but true.",
+        "Sigurd...do you recall our promise from so long ago?",
+        "**Sigurd:** Of course I do. Let us call on Quan, and raise our glasses together."
+      ],
+      "Duo Skill": [
+        "\"For honor!\" \"As ever.\"",
+        "\"This...\" \"Is our duty.\""
+      ],
+      "Back Unit Supporting": [
+        "You have my faith.",
+        "I am with you."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Duo Sigurd",
+    "SEARCH_NAME": "Duo Sigurd",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Duo Sigurd",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "sigurd",
+      "sigurd2",
+      "sigurd3",
+      "sigurd4",
+      "sigurd5"
+    ],
+    "prf": {
+      "": "oathtyrfing",
+      "eff": "oathtyrfing",
+      "atk": "oathtyrfing",
+      "spd": "oathtyrfing",
+      "def": "oathtyrfing",
+      "res": "oathtyrfing"
+    }
+  },
+  "lachesis3": {
+    "name": "Lachesis",
+    "title": "Loving Sister",
+    "description": "Younger sister of Eldigan, ruler of Nordion. Her close relationship with Eldigan makes others around them envious of their love. Appears in Fire Emblem: Genealogy of the Holy War.",
+    "origin": "Genealogy of the Holy War",
+    "artist": "Suzuki Rika (\u9234\u6728\u7406\u83ef)",
+    "move": "Cavalry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1367",
+    "type": "attuned",
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 13,
+      "def": 7,
+      "res": 6
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 80,
+      "def": 60,
+      "res": 45
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Lionheart Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Clash 1": "2",
+        "Atk/Spd Clash 2": "3",
+        "Atk/Spd Clash 3": "4",
+        "A/S Rival Break": "5"
+      },
+      "B": {
+        "As Eldie Would": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Bellow": "5"
+      },
+      "X": {
+        "Puissant Echo": "5"
+      }
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Lachesis_Loving_Sister_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Lachesis_Loving_Sister_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Lachesis_Loving_Sister_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Lachesis_Loving_Sister_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
+    ],
+    "HARD_ALT_NAME": [
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u97ff\u5fc3\u30e9\u30b1\u30b7\u30b9",
+    "voice": "Cristina Vee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "One understands how you feel, Eldie... Please, you must find a way to help Lord Sigurd.",
+        "King Chagall killed his own father... One could never obey the orders of such a man.",
+        "Eldie will return home, no matter what. He said to me, \"I will not die and leave you alone.\"",
+        "Evan, Evar, Alvar... I am truly grateful to all of you. Please, do not push yourselves too hard.",
+        "No matter how large his army, no one will accept a man like Elliot. He will fail for not understanding that."
+      ],
+      "Visit": [
+        "This castle is sufficient. One would not be surprised to see my brother in a place like this."
+      ],
+      "Level": [
+        "What shameless people... Stay away, you swine!",
+        "Why are the nobles of Agustria unable to cooperate with one another?",
+        "As Eldie's little sister, one should not be defeated by something like this!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Lachesis, sister of Nordion's Lionheart. One shall demonstrate appropriate behavior."
+      ],
+      "Learn Skill": [
+        "You would like me to have this, [S]?"
+      ],
+      "Confession": [
+        "My brother, Eldigan, is a knight of valor and wisdom, with compassion for his people. The greatest in Agustria.\nAnd regardless\u2014no, because of this\u2014 the Agustrian nobility betrayed Nordion, and all turned on him.\nEldigan hindered King Chagall's intention to attack Grannvale.\nAll of King Chagall's minions think nothing of Agustria compared to my brother. They are despicable!\nI have decided that I will remain by his side, in battle, in court, wherever we may be.\nI believe you now understand me. And I look forward to working with you, [S]."
+      ],
+      "Special": [
+        "Lend me your strength!",
+        "Stand down!",
+        "Expect no quarter!",
+        "Try to break through!"
+      ],
+      "Status": [
+        "-",
+        "Attired like this, I feel as if my brother himself is guarding me.",
+        "You ought to be aware that approaching one from behind is cowardly.",
+        "My brother was the bravest of knights. His pride is mine to carry on.",
+        "One wonders if, as a princess, I too will be called Lionheart.",
+        "I cannot allow myself to merely be protected. I will stand and fight.",
+        "*exhale* This armor is a bit heavier than I'm accustomed to.",
+        "I am glad that you are my commander. Ugh. I really mean that!"
+      ],
+      "Map Select": [
+        "Yes.",
+        "Be cautious.",
+        "We go, together."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Attuned Lachesis",
+    "SEARCH_NAME": "Attuned Lachesis",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Attuned Lachesis",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "lachesis",
+      "lachesis2"
+    ],
+    "prf": {
+      "": "lionheartaxe",
+      "eff": "lionheartaxe",
+      "atk": "lionheartaxe",
+      "spd": "lionheartaxe",
+      "def": "lionheartaxe",
+      "res": "lionheartaxe"
+    }
+  },
+  "claud": {
+    "name": "Claud",
+    "title": "Priest of Edda",
+    "description": "The head of House Edda, a lineage of clergy spanning generations. He is a descendant of Bragi, one of the 12 crusaders. Appears in Fire Emblem: Genealogy of the Holy War.",
+    "origin": "Genealogy of the Holy War",
+    "artist": "ayuko (\u5728\u7531\u5b50)",
+    "move": "Infantry",
+    "weapon": "Staff",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1368",
+    "type": false,
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 13,
+      "spd": 9,
+      "def": 4,
+      "res": 10
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 55,
+      "def": 40,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Assault": "1",
+      "Valkyrie": "5"
+    },
+    "assist": {
+      "Heal": "1",
+      "Mend": "2",
+      "Ice Lock": "3",
+      "Ice Lock+": "5"
+    },
+    "special": {
+      "Imbue": "2",
+      "Still-Water Balm": "3",
+      "Fireflood Balm": "4",
+      "Fireflood Charm": "5"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Sabotage Atk 1": "2",
+        "Sabotage Atk 2": "3",
+        "Sabotage Atk 3": "4",
+        "Atk/Res Havoc": "5"
+      },
+      "C": {
+        "Silence Ward 1": "2",
+        "Silence Ward 2": "3",
+        "Silence Ward 3": "4",
+        "Silence Ward 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Claud_Priest_of_Edda_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Claud_Priest_of_Edda_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Claud_Priest_of_Edda_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Claud_Priest_of_Edda_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
+    ],
+    "HARD_ALT_NAME": [
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "global",
+    "internal_id": "PID_\u8056\u6226\u30af\u30ed\u30fc\u30c9",
+    "voice": "Gabriel Michael Mustin",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "If I, a descendant of Bragi, pray at the holy tower, the truth of everything will be made clear.",
+        "My intention was to return to Grannvale and inform His Majesty of the truth. But Reptor struck first...",
+        "Humans are born with a life energy called quintessence.",
+        "Something horrifying slithers behind Reptor... An evil that even Bragi cannot decipher.",
+        "I once had a younger sister. She was taken by bandits as a baby and never seen or heard of since."
+      ],
+      "Visit": [
+        "I was sent to give you this from [F]."
+      ],
+      "Level": [
+        "These results are good. This, too, must be the guidance of the gods.",
+        "It is as willed by the gods.",
+        "War is a terrible thing. The powerless are always the ones who suffer."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Claud. I shall lend you my aid, just as my lord Bragi has guided me to do."
+      ],
+      "Learn Skill": [
+        "I wish for you to construct a world free of battle, where all are at peace with one another."
+      ],
+      "Confession": [
+        "I must tell you something I have not told anyone before...\nI did not believe it myself when I heard it from my god at the Tower of Bragi. Yet, fate is decided.\nLord Sigurd, I, and countless others will not return from the battles to come.\nBut you must not lament this, as not everything ends with our deaths. Light will succeed them.\nAll who live must die, and everything tangible will be lost. One must accept this inevitability.\nHowever, death is not our end. We will continue on, just as you do, with no fear of death or further loss."
+      ],
+      "Special": [
+        "You will be punished.",
+        "Fate's door is open.",
+        "As willed by the gods.",
+        "Troublesome."
+      ],
+      "Status": [
+        "-",
+        "Even if rushed, one should not act rashly.",
+        "Yes? If I suffice, I will be your strength.",
+        "Every tangible thing will be lost at some point in time.",
+        "The powerless are always the ones who suffer in war.",
+        "If she yet lives, my sister would be a beautiful person.",
+        "O Bragi...",
+        "Even if you have met loss face-to-face, you must learn to live on despite it."
+      ],
+      "Map Select": [
+        "I will go now.",
+        "It lurks...",
+        "I am your strength."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Claud",
+    "SEARCH_NAME": "Claud",
+    "DISPLAY_NAME": "<:Colorless_Staff:1317239426866483261>Claud",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "valkyrie",
+      "eff": "valkyrie",
+      "atk": "valkyrie",
+      "spd": "valkyrie",
+      "def": "valkyrie",
+      "res": "valkyrie"
+    }
+  },
+  "naoise": {
+    "name": "Naoise",
+    "title": "Crimson Chivalry",
+    "description": "A knight of Chalphy in service to Lord Sigurd. He supports his lord alongside his peers, Alec and Arden. Appears in Fire Emblem: Genealogy of the Holy War.",
+    "origin": "Genealogy of the Holy War",
+    "artist": "Cha Minyi",
+    "move": "Cavalry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1369",
+    "type": false,
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 10,
+      "spd": 10,
+      "def": 9,
+      "res": 6
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 85,
+      "spd": 55,
+      "def": 90,
+      "res": 40
+    },
+    "superboon": [
+      "def"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Shackle Lance": "3",
+      "Shackle Lance+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "1",
+        "Atk/Def Clash 2": "2",
+        "Atk/Def Clash 3": "4"
+      },
+      "B": {
+        "A/D Near Trace 1": "3",
+        "A/D Near Trace 2": "4",
+        "A/D Near Trace 3": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Naoise_Crimson_Chivalry_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Naoise_Crimson_Chivalry_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Naoise_Crimson_Chivalry_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Naoise_Crimson_Chivalry_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Crimson Chivalry",
+      "Naoise: Crimson Chivalry",
+      "Base Naoise",
+      "Normal Naoise",
+      "Regular Naoise",
+      "naoise"
+    ],
+    "HARD_ALT_NAME": [
+      "Crimson Chivalry",
+      "Naoise: Crimson Chivalry",
+      "Base Naoise",
+      "Normal Naoise",
+      "Regular Naoise",
+      "naoise"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "global",
+    "internal_id": "PID_\u30ce\u30a4\u30c3\u30b7\u30e5",
+    "voice": "Dan Zachs",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "If ever there is a friend of his in need, Lord Sigurd will rush to their aid, even if he does so alone. That is who he is.",
+        "You must know of Lord Sigurd's valor. His father was also renowned in Grannvale as a hero.",
+        "Huh? Is that you, Lord Sigurd? Oh, of course not. I-I am awake! So, it is you, [S].",
+        "A castle's defense is of great import. It would be a dire situation if this castle were to be taken by force.",
+        "Fighting for the sake of one's lord is the same as protecting the people. Such is the way of a Chalphy knight."
+      ],
+      "Visit": [
+        "I am Naoise. I have for you a greeting from [F]."
+      ],
+      "Level": [
+        "I was born as a knight. Therefore, I am prepared to die in battle. Such is what is expected of me.",
+        "Do not underestimate the knights of Chalphy who serve Lord Sigurd!",
+        "And yet, the battle continues... Steel yourself, Naoise."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Naoise, a knight in service of Lord Sigurd, a noble of Chalphy."
+      ],
+      "Learn Skill": [
+        "I swear to continue with pride, as a knight should!"
+      ],
+      "Confession": [
+        "When the majority of Chalphy's forces left for Isaach, Lord Sigurd was left to protect the castle.\nThere were so few remaining, mostly young ones like me, Alec, and Arden. Then Verdane invaded Yngvi castle.\nWhen Lord Sigurd learned of this, he mustered our meager forces to fight off the barbarians himself.\nThough it was to save Lady Edain, with whom he was close, I wonder... who else could act in such a manner?\nHis valor was like that of a mythical hero... Recalling it, even now... I tremble.\nNo matter what, I wish to uphold the justice preached by Lord Sigurd. This is the conviction I now uphold."
+      ],
+      "Special": [
+        "As a knight!",
+        "Foolish!",
+        "Till my last breath!",
+        "Your defense is weak."
+      ],
+      "Status": [
+        "-",
+        "I am Naoise, a knight of Chalphy. It is a pleasure to meet you.",
+        "Hm? What has gotten into you? This is no place for games.",
+        "A knight should always be prepared to die in the service of their lord.",
+        "I have fought alongside Alec and Arden in many battles. We are of like mind.",
+        "I could never allow my lord to meet a lonely end. The shame would be unbearable.",
+        "For all who live in this land, we must quickly rid it of conflict.",
+        "Promise me you will not do anything foolish. For instance, do not charge into a dangerous battle alone."
+      ],
+      "Map Select": [
+        "Yes.",
+        "What shall we do?",
+        "My turn, is it?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Naoise",
+    "SEARCH_NAME": "Naoise",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Naoise",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "shacklelance",
+      "eff": "shacklelance",
+      "atk": "shacklelance",
+      "spd": "shacklelance",
+      "def": "shacklelance",
+      "res": "shacklelance"
+    }
+  },
+  "lamia": {
+    "name": "Lamia",
+    "title": "Hellspawn",
+    "description": "A strong warrior and leader of a band of skilled assassins. She herself is a master of the sword, and is feared as a murderer who will kill anyone for the right price. Appears in Fire Emblem: Genealogy of the Holy War.",
+    "origin": "Genealogy of the Holy War",
+    "artist": "Naruse Uroko (\u9cf4\u702c\u3046\u308d\u3053)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1370",
+    "type": false,
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 10,
+      "spd": 9,
+      "def": 11,
+      "res": 9
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Forged Sword": "3",
+      "Forged Sword+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Velocity 1": "3",
+        "Velocity 2": "4",
+        "Velocity 3": "5"
+      },
+      "C": {
+        "Spd Smoke 1": "1",
+        "Spd Smoke 2": "2",
+        "Spd Smoke 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Lamia_Hellspawn_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Lamia_Hellspawn_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Lamia_Hellspawn_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Lamia_Hellspawn_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
+    ],
+    "HARD_ALT_NAME": [
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
+    ],
+    "gender": "F",
+    "rarity": 3,
+    "pool": "grail",
+    "internal_id": "PID_\u30ec\u30a4\u30df\u30a2",
+    "voice": "Amanda Hufford",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Ugh... How dull. Let's hurry this up so I can test just how sharp this blade is.",
+        "There are hopelessly evil people out there. In my experience, the elegant ones are the ugliest at their cores.",
+        "It is strange how you all leave yourselves so open to attack... I would worry if I were you.",
+        "So, you can eat and drink whenever you desire? With no worry of rain or darkness? What is this place, heaven?",
+        "The more I sit in this castle, the more I feel the energy draining from my body. Is it my turn to battle yet?"
+      ],
+      "Visit": [
+        "Hope you don't mind, I helped myself to a drink. You can ask [F] for payment."
+      ],
+      "Level": [
+        "Ha! Such fools. Do you really think you can take on Lamia the Hellspawn with that timid disposition of yours?",
+        "Keep it up, everyone. A little movement is just the thing to speed up one's digestion.",
+        "Ugh! This isn't fitting for Lamia, the Hellspawn..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "You have a job for me? Sure thing. As long as I'm paid."
+      ],
+      "Learn Skill": [
+        "Hmph. Thank you."
+      ],
+      "Confession": [
+        "So, what's my next job? Life's not so bad here without anyone else around spoiling work.\nMy cohorts are unpredictable. You never know what they'll do if left to their own devices.\nAt my last employer, word was that we were a band of killers who would murder without exception for a price.\nWho do they think is making us kill? Well, it's thanks to them I'm feared as the Hellspawn... And I don't hate it.\nYou never know when it's your turn to die. So I want to do all I can to feel good in this life.\nI could take you with me, if you want."
+      ],
+      "Special": [
+        "You are the real villain.",
+        "I want to puke!",
+        "Hahahahahahaha!",
+        "You are a fool!"
+      ],
+      "Status": [
+        "-",
+        "Lamia, the Hellspawn? Ha! I will take that as a compliment.",
+        "*grunt* If you want to live, withdraw those filthy paws immediately.",
+        "A band of murderers going around slaying people without exception for a price... Oh, that is us.",
+        "I do not choose whom I kill, only how I kill. I am no villain after all.",
+        "Ah, a job for me? Perfect timing to satisfy my hunger.",
+        "What a bore... I wish there were some dangerous work to be done here.",
+        "As long as you pay me, I will kill. Whoever it is, no exceptions."
+      ],
+      "Map Select": [
+        "Is that all?",
+        "Ugh.",
+        "As you say."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Lamia",
+    "SEARCH_NAME": "Lamia",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Lamia",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "forgedsword",
+      "eff": "forgedsword",
+      "atk": "forgedsword",
+      "spd": "forgedsword",
+      "def": "forgedsword",
+      "res": "forgedsword"
     }
   }
 }

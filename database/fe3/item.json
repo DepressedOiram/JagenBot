@@ -1046,35 +1046,50 @@
     "vulnerary": {
         "name": "Vulnerary",
         "desc": "Restores 10 HP with each use.",
-        "stats": {},
+        "stats": {
+            "uses": 3,
+            "price": 300
+        },
         "type": "item",
         "weapon": false
     },
     "doorkey": {
         "name": "Door Key",
         "desc": "Opens doors.",
-        "stats": {},
+        "stats": {
+            "uses": 1,
+            "price": 500
+        },
         "type": "item",
         "weapon": false
     },
     "chestkey": {
         "name": "Chest Key",
         "desc": "Opens chests.",
-        "stats": {},
+        "stats": {
+            "uses": 1,
+            "price": 500
+        },
         "type": "item",
         "weapon": false
     },
     "bridgekey": {
         "name": "Bridge Key",
         "desc": "Lowers bridges.",
-        "stats": {},
+        "stats": {
+            "uses": 1,
+            "price": 1000
+        },
         "type": "item",
         "weapon": false
     },
     "silverkey": {
         "name": "Silver Key",
         "desc": "Opens silver doors.",
-        "stats": {},
+        "stats": {
+            "uses": 1,
+            "price": 5000
+        },
         "type": "item",
         "weapon": false,
         "reference": {
@@ -1084,70 +1099,91 @@
     "purewater": {
         "name": "Pure Water",
         "desc": "Temporarily increases Res by 7.",
-        "stats": {},
+        "stats": {
+            "uses": 5,
+            "price": 1200
+        },
         "type": "item",
         "weapon": false
     },
     "angelicrobe": {
         "name": "Angelic Robe",
         "desc": "Increases max HP by 7.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "powerring": {
         "name": "Power Ring",
         "desc": "Increases Str by 4.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "secretbook": {
         "name": "Secret Book",
         "desc": "Increases Skl by 5.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "dracoshield": {
         "name": "Dracoshield",
         "desc": "Increases Def by 4.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "speedring": {
         "name": "Speed Ring",
         "desc": "Increases Spd by 5.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "armscroll": {
         "name": "Arm Scroll",
         "desc": "Increases Wlv by 5.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "goddessicon": {
         "name": "Goddess Icon",
         "desc": "Increases Lck by 5.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "talisman": {
         "name": "Talisman",
         "desc": "Increases Res by 3.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "boots": {
         "name": "Boots",
         "desc": "Increases Mov by 4.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
@@ -1156,7 +1192,7 @@
         "desc": "Transforms Manakete into a Fire Dragon.",
         "stats": {
             "uses": 18,
-            "sell": 18000
+            "price": 18000
         },
         "type": "item",
         "weapon": false
@@ -1166,7 +1202,7 @@
         "desc": "Transforms Manakete into an Ice Dragon.",
         "stats": {
             "uses": 18,
-            "sell": 18000
+            "price": 18000
         },
         "type": "item",
         "weapon": false
@@ -1176,7 +1212,7 @@
         "desc": "Transforms Manakete into a Flying Dragon.",
         "stats": {
             "uses": 18,
-            "sell": 18000
+            "price": 18000
         },
         "type": "item",
         "weapon": false
@@ -1186,7 +1222,7 @@
         "desc": "Transforms Manakete into a Mage Dragon.",
         "stats": {
             "uses": 18,
-            "sell": 18000
+            "price": 18000
         },
         "type": "item",
         "weapon": false
@@ -1196,7 +1232,7 @@
         "desc": "Transforms Manakete into an Earth Dragon.",
         "stats": {
             "uses": 18,
-            "sell": 18000
+            "price": 18000
         },
         "type": "item",
         "weapon": false
@@ -1206,7 +1242,7 @@
         "desc": "Transforms Manakete into a Divine Dragon.",
         "stats": {
             "uses": 18,
-            "sell": 36000
+            "price": 36000
         },
         "type": "item",
         "weapon": false
@@ -1226,49 +1262,63 @@
     "knightcrest": {
         "name": "Knight Crest",
         "desc": "Promotes Lv. 10+ Cavaliers or Knights.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "herocrest": {
         "name": "Hero Crest",
         "desc": "Promotes Lv. 10+ Mercenaries.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "skydrakewhip": {
         "name": "Skydrake Whip",
         "desc": "Promotes Lv. 10+ Pegasus Knights.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "guidingring": {
         "name": "Guiding Ring",
         "desc": "Promotes Lv. 10+ Mages or Clerics.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "orionsbolt": {
         "name": "Orion's Bolt",
         "desc": "Promotes Lv. 10+ Archers or Hunters.",
-        "stats": {},
+        "stats": {
+            "price": 10000
+        },
         "type": "item",
         "weapon": false
     },
     "membercard": {
         "name": "Member Card",
         "desc": "Bearer can enter secret shops.",
-        "stats": {},
+        "stats": {
+            "price": 0
+        },
         "type": "item",
         "weapon": false
     },
     "silvercard": {
         "name": "Silver Card",
         "desc": "Bearer can buy items at half price.",
-        "stats": {},
+        "stats": {
+            "price": 0
+        },
         "type": "item",
         "weapon": false
     },

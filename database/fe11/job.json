@@ -329,7 +329,6 @@
     },
     "dismountedknight": {
         "name": "Dismounted Knight",
-        "note": "This class is unused.",
         "promo": false,
         "ally": "dismountedknight.gif",
         "enemy": false,
@@ -366,11 +365,13 @@
         },
         "rank": {
             "sword": 1
+        },
+        "reference": {
+            "Notes": "Unused."
         }
     },
     "dismountedknightf": {
         "name": "Dismounted Knight (F)",
-        "note": "This class is unused.",
         "promo": false,
         "ally": "dismountedknightf.gif",
         "enemy": false,
@@ -407,6 +408,9 @@
         },
         "rank": {
             "sword": 1
+        },
+        "reference": {
+            "Notes": "Unused."
         }
     },
     "divinedragon": {

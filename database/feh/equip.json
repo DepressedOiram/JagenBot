@@ -21516,9 +21516,52 @@
     "refine": false
   },
   "chaosragnell": {
-    "name": "Chaos Ragnell",
+    "name": "Chaos Ragnell (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Chaos Ragnell"
+  },
+  "chaosragnelleff": {
+    "name": "Chaos Ragnell (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "chaosragnellatk": {
+    "name": "Chaos Ragnell (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "chaosragnellspd": {
+    "name": "Chaos Ragnell (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "chaosragnelldef": {
+    "name": "Chaos Ragnell (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "chaosragnellres": {
+    "name": "Chaos Ragnell (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
     },
     "refine": false
   },
@@ -21627,9 +21670,51 @@
     "refine": false
   },
   "bloodtome": {
-    "name": "Blood Tome",
+    "name": "Blood Tome (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Blood Tome"
+  },
+  "bloodtomeeff": {
+    "name": "Blood Tome (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "bloodtomeatk": {
+    "name": "Blood Tome (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "bloodtomespd": {
+    "name": "Blood Tome (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "bloodtomedef": {
+    "name": "Blood Tome (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "bloodtomeres": {
+    "name": "Blood Tome (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -22091,17 +22176,107 @@
     "refine": false
   },
   "amatsu": {
-    "name": "Amatsu",
+    "name": "Amatsu (Unrefined)",
     "bonus": {
+      "atk": 16
+    },
+    "refine": "Amatsu"
+  },
+  "amatsueff": {
+    "name": "Amatsu (Eff)",
+    "bonus": {
+      "hp": 3,
       "atk": 16
     },
     "refine": false
   },
+  "amatsuatk": {
+    "name": "Amatsu (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "amatsuspd": {
+    "name": "Amatsu (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "amatsudef": {
+    "name": "Amatsu (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "amatsures": {
+    "name": "Amatsu (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
+    },
+    "refine": false
+  },
   "apotheosisspear": {
-    "name": "Apotheosis Spear",
+    "name": "Apotheosis Spear (Unrefined)",
     "bonus": {
       "atk": 16,
       "spd": 3
+    },
+    "refine": "Apotheosis Spear"
+  },
+  "apotheosisspeareff": {
+    "name": "Apotheosis Spear (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "apotheosisspearatk": {
+    "name": "Apotheosis Spear (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "apotheosisspearspd": {
+    "name": "Apotheosis Spear (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 6
+    },
+    "refine": false
+  },
+  "apotheosisspeardef": {
+    "name": "Apotheosis Spear (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "def": 4
+    },
+    "refine": false
+  },
+  "apotheosisspearres": {
+    "name": "Apotheosis Spear (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "res": 4
     },
     "refine": false
   },
@@ -22244,9 +22419,51 @@
     "refine": false
   },
   "summerstrikers": {
-    "name": "Summer Strikers",
+    "name": "Summer Strikers (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Summer Strikers"
+  },
+  "summerstrikerseff": {
+    "name": "Summmer Strikers (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "summerstrikersatk": {
+    "name": "Summmer Strikers (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "summerstrikersspd": {
+    "name": "Summmer Strikers (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "summerstrikersdef": {
+    "name": "Summmer Strikers (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "summerstrikersres": {
+    "name": "Summmer Strikers (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -22293,9 +22510,51 @@
     "refine": false
   },
   "exoticfruitjuice": {
-    "name": "Exotic Fruit Juice",
+    "name": "Exotic Fruit Juice (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Exotic Fruit Juice"
+  },
+  "exoticfruitjuiceeff": {
+    "name": "Exotic Fruit Juice (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "exoticfruitjuiceatk": {
+    "name": "Exotic Fruit Juice (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "exoticfruitjuicespd": {
+    "name": "Exotic Fruit Juice (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "exoticfruitjuicedef": {
+    "name": "Exotic Fruit Juice (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "exoticfruitjuiceres": {
+    "name": "Exotic Fruit Juice (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -22464,10 +22723,57 @@
     "refine": false
   },
   "starpointlance": {
-    "name": "Starpoint Lance",
+    "name": "Starpoint Lance (Unrefined)",
     "bonus": {
       "atk": 16,
       "spd": 3
+    },
+    "refine": "Starpoint Lance"
+  },
+  "starpointlanceeff": {
+    "name": "Starpoint Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "starpointlanceatk": {
+    "name": "Starpoint Lance (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "starpointlancespd": {
+    "name": "Starpoint Lance (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 6
+    },
+    "refine": false
+  },
+  "starpointlancedef": {
+    "name": "Starpoint Lance (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "def": 4
+    },
+    "refine": false
+  },
+  "starpointlanceres": {
+    "name": "Starpoint Lance (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "res": 4
     },
     "refine": false
   },
@@ -22605,16 +22911,102 @@
     "refine": false
   },
   "bladeofshadow": {
-    "name": "Blade of Shadow",
+    "name": "Blade of Shadow (Unrefined)",
     "bonus": {
+      "atk": 16
+    },
+    "refine": "Blade of Shadow"
+  },
+  "bladeofshadoweff": {
+    "name": "Blade of Shadow (Eff)",
+    "bonus": {
+      "hp": 3,
       "atk": 16
     },
     "refine": false
   },
+  "bladeofshadowatk": {
+    "name": "Blade of Shadow (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "bladeofshadowspd": {
+    "name": "Blade of Shadow (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "bladeofshadowdef": {
+    "name": "Blade of Shadow (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "bladeofshadowres": {
+    "name": "Blade of Shadow (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
+    },
+    "refine": false
+  },
   "spearofshadow": {
-    "name": "Spear of Shadow",
+    "name": "Spear of Shadow (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Spear of Shadow"
+  },
+  "spearofshadoweff": {
+    "name": "Spear of Shadow (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "spearofshadowatk": {
+    "name": "Spear of Shadow (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "spearofshadowspd": {
+    "name": "Spear of Shadow (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "spearofshadowdef": {
+    "name": "Spear of Shadow (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "spearofshadowres": {
+    "name": "Spear of Shadow (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
     },
     "refine": false
   },
@@ -23426,10 +23818,53 @@
     "refine": false
   },
   "flamelance": {
-    "name": "Flame Lance",
+    "name": "Flame Lance (Unrefined)",
     "bonus": {
       "atk": 16,
       "spd": 3
+    },
+    "refine": "Flame Lance"
+  },
+  "flamelanceeff": {
+    "name": "Flame Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "flamelanceatk": {
+    "name": "Flame Lance (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "flamelancespd": {
+    "name": "Flame Lance (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "flamelancedef": {
+    "name": "Flame Lance (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "flamelanceres": {
+    "name": "Flame Lance (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
     },
     "refine": false
   },
@@ -23483,9 +23918,51 @@
     "refine": false
   },
   "doublebow": {
-    "name": "Double Bow",
+    "name": "Double Bow (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Double Bow"
+  },
+  "doubleboweff": {
+    "name": "Double Bow (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "doublebowatk": {
+    "name": "Double Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "doublebowspd": {
+    "name": "Double Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "doublebowdef": {
+    "name": "Double Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "doublebowres": {
+    "name": "Double Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -23745,10 +24222,57 @@
     "refine": false
   },
   "darkcreators": {
-    "name": "Dark Creator S",
+    "name": "Dark Creator S (Unrefined)",
     "bonus": {
       "atk": 16,
       "def": 3
+    },
+    "refine": "Dark Creator S"
+  },
+  "darkcreatorseff": {
+    "name": "Dark Creator S (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "def": 3
+    },
+    "refine": false
+  },
+  "darkcreatorsatk": {
+    "name": "Dark Creator S (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18,
+      "def": 3
+    },
+    "refine": false
+  },
+  "darkcreatorsspd": {
+    "name": "Dark Creator S (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "def": 3
+    },
+    "refine": false
+  },
+  "darkcreatorsdef": {
+    "name": "Dark Creator S (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 7
+    },
+    "refine": false
+  },
+  "darkcreatorsres": {
+    "name": "Dark Creator S (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 3,
+      "res": 4
     },
     "refine": false
   },
@@ -24997,10 +25521,57 @@
     "refine": false
   },
   "hrimfaxi": {
-    "name": "Hr\u00edmfaxi",
+    "name": "Hr\u00edmfaxi (Unrefined)",
     "bonus": {
       "atk": 16,
       "spd": 3
+    },
+    "refine": "Hr\u00edmfaxi"
+  },
+  "hrimfaxieff": {
+    "name": "Hr\u00edmfaxi (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "hrimfaxiatk": {
+    "name": "Hr\u00edmfaxi (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "hrimfaxispd": {
+    "name": "Hr\u00edmfaxi (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 6
+    },
+    "refine": false
+  },
+  "hrimfaxidef": {
+    "name": "Hr\u00edmfaxi (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "def": 4
+    },
+    "refine": false
+  },
+  "hrimfaxires": {
+    "name": "Hr\u00edmfaxi (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3,
+      "res": 4
     },
     "refine": false
   },
@@ -25399,9 +25970,52 @@
     "refine": false
   },
   "hallowedtyrfing": {
-    "name": "Hallowed Tyrfing",
+    "name": "Hallowed Tyrfing (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Hallowed Tyrfing"
+  },
+  "hallowedtyrfingeff": {
+    "name": "Hallowed Tyrfing (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "hallowedtyrfingatk": {
+    "name": "Hallowed Tyrfing (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "halllowedtyrfingspd": {
+    "name": "Hallowed Tyrfing (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "hallowedtyrfingdef": {
+    "name": "Hallowed Tyrfing (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "hallowedtyrfingres": {
+    "name": "Hallowed Tyrfing (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
     },
     "refine": false
   },
@@ -25596,9 +26210,51 @@
     "refine": false
   },
   "orderssentence": {
-    "name": "Order's Sentence",
+    "name": "Order's Sentence (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Order's Sentence"
+  },
+  "orderssentenceeff": {
+    "name": "Order's Sentence (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "orderssentenceatk": {
+    "name": "Order's Sentence (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "orderssentencespd": {
+    "name": "Order's Sentence (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "orderssentencedef": {
+    "name": "Order's Sentence (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "orderssentenceres": {
+    "name": "Order's Sentence (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -25842,9 +26498,51 @@
     "refine": false
   },
   "professorialtext": {
-    "name": "Professorial Text",
+    "name": "Professorial Text (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Professorial Text"
+  },
+  "professorialtexteff": {
+    "name": "Professorial Text (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "professorialtextatk": {
+    "name": "Professorial Text (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "professorialtextspd": {
+    "name": "Professorial Text (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "professorialtextdef": {
+    "name": "Professorial Text (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "professorialtextres": {
+    "name": "Professorial Text (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -36458,6 +37156,787 @@
       "atk": 14,
       "res": 3,
       "hp": 2
+    },
+    "refine": false
+  },
+  "arcanefellstone": {
+    "name": "Arcane Fellstone (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Arcane Fellstone"
+  },
+  "arcanefellstoneatk": {
+    "name": "Arcane Fellstone (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanefellstonespd": {
+    "name": "Arcane Fellstone (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanefellstonedef": {
+    "name": "Arcane Fellstone (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanefellstoneres": {
+    "name": "Arcane Fellstone (+Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "fellchildsmight": {
+    "name": "Fell Child's Might",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "deadcrowtome": {
+    "name": "Dead-Crow Tome",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "ereshkigal": {
+    "name": "Ereshkigal",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "deadwolfblade": {
+    "name": "Dead-Wolf Blade",
+    "bonus": {
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "unitedbouquet": {
+    "name": "United Bouquet",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "wildfloweredge": {
+    "name": "Wildflower Edge",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "dragonbloom": {
+    "name": "Dragonbloom+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Dragonbloom+"
+  },
+  "dragonbloomatk": {
+    "name": "Dragonbloom+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragonbloomspd": {
+    "name": "Dragonbloom+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragonbloomdef": {
+    "name": "Dragonbloom+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dragonbloomres": {
+    "name": "Dragonbloom+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "closingflorets": {
+    "name": "Closing Florets",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "harpbow": {
+    "name": "Harp Bow+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Harp Bow+"
+  },
+  "harpbowatk": {
+    "name": "Harp Bow+ (+Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "harpbowspd": {
+    "name": "Harp Bow+ (+Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "harpbowdef": {
+    "name": "Harp Bow+ (+Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "harpbowres": {
+    "name": "Harp Bow+ (+Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "hoshidosbreath": {
+    "name": "Hoshido's Breath",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "thiefshonesty": {
+    "name": "Thief's Honesty (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Thief's Honesty"
+  },
+  "thiefshonestyeff": {
+    "name": "Thief's Honesty (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "thiefshonestyatk": {
+    "name": "Thief's Honesty (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "thiefshonestyspd": {
+    "name": "Thief's Honesty (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "thiefshonestydef": {
+    "name": "Thief's Honesty (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "thiefshonestyres": {
+    "name": "Thief's Honesty (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "silverofdawn": {
+    "name": "Silver of Dawn",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "arcanetempest": {
+    "name": "Arcane Tempest (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Arcane Tempest"
+  },
+  "arcanetempestatk": {
+    "name": "Arcane Tempest (+Atk)",
+    "bonus": {
+      "atk": 15,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "arcanetempestspd": {
+    "name": "Arcane Tempest (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "arcanetempestdef": {
+    "name": "Arcane Tempest (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "arcanetempestres": {
+    "name": "Arcane Tempest (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "caladbolg": {
+    "name": "Caladbolg",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "doublerbow": {
+    "name": "Doubler Bow+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Doubler Bow+"
+  },
+  "doublerbowatk": {
+    "name": "Doubler Bow+ (+Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "doublerbowspd": {
+    "name": "Doubler Bow+ (+Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "doublerbowdef": {
+    "name": "Doubler Bow+ (+Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "doublerbowres": {
+    "name": "Doubler Bow+ (+Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "nullspear": {
+    "name": "Null Spear+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Null Spear+"
+  },
+  "nullspearatk": {
+    "name": "Null Spear+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "nullspearspd": {
+    "name": "Null Spear+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "nullspeardef": {
+    "name": "Null Spear+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "nullspearres": {
+    "name": "Null Spear+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "goldensunlight": {
+    "name": "Golden Sunlight",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "loveofnerthuz": {
+    "name": "Love of Ner\u00feuz",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "princeslance": {
+    "name": "Prince's Lance",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "seatambourine": {
+    "name": "Sea Tambourine+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Sea Tambourine+"
+  },
+  "seatambourineatk": {
+    "name": "Sea Tambourine+ (+Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "seatambourinespd": {
+    "name": "Sea Tambourine+ (+Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "seatambourinedef": {
+    "name": "Sea Tambourine+ (+Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "seatambourineres": {
+    "name": "Sea Tambourine+ (+Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "tropicalconch": {
+    "name": "Tropical Conch+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Tropical Conch+"
+  },
+  "tropicalconchatk": {
+    "name": "Tropical Conch+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "tropicalconchspd": {
+    "name": "Tropical Conch+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "tropicalconchdef": {
+    "name": "Tropical Conch+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "tropicalconchres": {
+    "name": "Tropical Conch+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "caringmagic": {
+    "name": "Caring Magic",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "wyvernlance": {
+    "name": "Wyvern Lance (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Wyvern Lance"
+  },
+  "wyvernlanceeff": {
+    "name": "Wyvern Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "wyvernlanceatk": {
+    "name": "Wyvern Lance (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "wyvernlancespd": {
+    "name": "Wyvern Lance (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "wyvernlancedef": {
+    "name": "Wyvern Lance (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "wyvernlanceres": {
+    "name": "Wyvern Lance (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
+    },
+    "refine": false
+  },
+  "plegianwaraxe": {
+    "name": "Plegian War Axe (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Plegian War Axe"
+  },
+  "plegianwaraxeeff": {
+    "name": "Plegian War Axe (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "plegianwaraxeatk": {
+    "name": "Plegian War Axe (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "plegianwaraxespd": {
+    "name": "Plegian War Axe (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "plegianwaraxedef": {
+    "name": "Plegian War Axe (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "plegianwaraxeres": {
+    "name": "Plegian War Axe (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
+    },
+    "refine": false
+  },
+  "divapairparasol": {
+    "name": "Diva-Pair Parasol",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "maritomearts": {
+    "name": "Maritome Arts",
+    "bonus": {
+      "atk": 11
+    },
+    "refine": false
+  },
+  "smallspade": {
+    "name": "Small Spade+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Small Spade+"
+  },
+  "smallspadeatk": {
+    "name": "Small Spade+ (+Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "smallspadespd": {
+    "name": "Small Spade+ (+Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "smallspadedef": {
+    "name": "Small Spade+ (+Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "smallspaderes": {
+    "name": "Small Spade+ (+Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "breakerbow": {
+    "name": "Breaker Bow",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "anchoraxe": {
+    "name": "Anchor Axe+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Anchor Axe+"
+  },
+  "anchoraxeatk": {
+    "name": "Anchor Axe+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "anchoraxespd": {
+    "name": "Anchor Axe+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "anchoraxedef": {
+    "name": "Anchor Axe+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "anchoraxeres": {
+    "name": "Anchor Axe+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "sisterlyaxe": {
+    "name": "Sisterly Axe",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "lanceofgrado": {
+    "name": "Lance of Grado",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "pursuallance": {
+    "name": "Pursual Lance+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Pursual Lance+"
+  },
+  "pursuallanceatk": {
+    "name": "Pursual Lance+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "pursuallancespd": {
+    "name": "Pursual Lance+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "pursuallancedef": {
+    "name": "Pursual Lance+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "pursuallanceres": {
+    "name": "Pursual Lance+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "wildwindsword": {
+    "name": "Wild Wind Sword",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "nidavellirballista": {
+    "name": "Ni\u00f0avellir Ballista",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "sunstonesblade": {
+    "name": "Sunstone's Blade",
+    "bonus": {
+      "atk": 16,
+      "def": 3
+    },
+    "refine": false
+  },
+  "nectarhorn": {
+    "name": "Nectar Horn",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "quietingantler": {
+    "name": "Quieting Antler",
+    "bonus": {
+      "atk": 14
     },
     "refine": false
   }

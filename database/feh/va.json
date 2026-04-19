@@ -7767,7 +7767,12 @@
       "H Nerthuz",
       "Harvest Nerthuz",
       "Spooky Nerthuz",
-      "nerthuz4"
+      "nerthuz4",
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
     ],
     "HARD_ALT_NAME": [
       "Suave Knight",
@@ -7907,7 +7912,12 @@
       "H Nerthuz",
       "Harvest Nerthuz",
       "Spooky Nerthuz",
-      "nerthuz4"
+      "nerthuz4",
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
     ],
     "heroes": {
       "athena": "<:Red_Sword:1317239717707911188>Athena",
@@ -7915,6 +7925,7 @@
       "lachesis": "<:Colorless_Staff:1317239426866483261>Lachesis",
       "lachesisR": "<:Colorless_Staff:1317239426866483261>Lachesis (Resplendent)",
       "lachesis2": "<:Green_Dagger:1317239563697127456>Dancer Lachesis",
+      "lachesis3": "<:Green_Axe:1317239517136031897>Attuned Lachesis",
       "merrin": "<:Red_Sword:1317239717707911188>Merrin",
       "nerpuz": "<:Blue_Beast:1317239339452731402>Ner\u00feuz",
       "nerpuz2": "<:Colorless_Beast:1317239395534901248>New Year Ner\u00feuz",
@@ -11470,7 +11481,13 @@
       "Emblem Sigurd",
       "Engage Sigurd",
       "E Sigurd",
-      "sigurd5"
+      "sigurd5",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
     ],
     "HARD_ALT_NAME": [
       "Butler Sigurd",
@@ -11559,7 +11576,13 @@
       "Emblem Sigurd",
       "Engage Sigurd",
       "E Sigurd",
-      "sigurd5"
+      "sigurd5",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
     ],
     "heroes": {
       "clive": "<:Blue_Lance:1317239378208096338>Clive",
@@ -11568,7 +11591,8 @@
       "sigurd2": "<:Red_Tome:1317239730714316800>Duo Sigurd",
       "sigurd3": "<:Red_Sword:1317239717707911188>Legendary Sigurd",
       "sigurd4": "<:Blue_Tome:1317239386491977749>Butler Sigurd",
-      "sigurd5": "<:Blue_Lance:1317239378208096338>Emblem Sigurd"
+      "sigurd5": "<:Blue_Lance:1317239378208096338>Emblem Sigurd",
+      "sigurd6": "<:Red_Sword:1317239717707911188>Duo Sigurd"
     },
     "name": "Grant George"
   },
@@ -11752,7 +11776,13 @@
       "Resplendent Legendary Ike",
       "Resp Legendary Ike",
       "R Legendary Ike",
-      "Legendary Ike (Resplendent)"
+      "Legendary Ike (Resplendent)",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
     ],
     "HARD_ALT_NAME": [
       "ike1",
@@ -12003,7 +12033,13 @@
       "Resplendent Legendary Ike",
       "Resp Legendary Ike",
       "R Legendary Ike",
-      "Legendary Ike (Resplendent)"
+      "Legendary Ike (Resplendent)",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
     ],
     "heroes": {
       "eirika5": "<:Red_Sword:1317239717707911188>Duo Eirika",
@@ -12034,7 +12070,8 @@
       "ike9": "<:Green_Axe:1317239517136031897>Harmonic Brave Ike",
       "lukas": "<:Blue_Lance:1317239378208096338>Lukas",
       "lukasR": "<:Blue_Lance:1317239378208096338>Lukas (Resplendent)",
-      "lukas2": "<:Blue_Lance:1317239378208096338>Picnic Lukas"
+      "lukas2": "<:Blue_Lance:1317239378208096338>Picnic Lukas",
+      "sigurd6": "<:Red_Sword:1317239717707911188>Duo Sigurd"
     },
     "name": "Greg Chun"
   },
@@ -34197,6 +34234,72 @@
       "Normal Wallace",
       "Regular Wallace",
       "wallace"
+    ]
+  },
+  "gabrielmichaelmustin": {
+    "heroes": {
+      "claud": "<:Colorless_Staff:1317239426866483261>Claud"
+    },
+    "name": "Gabriel Michael Mustin",
+    "ALT_NAME": [
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
+    ],
+    "HARD_ALT_NAME": [
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
+    ]
+  },
+  "danzachs": {
+    "heroes": {
+      "naoise": "<:Blue_Lance:1317239378208096338>Naoise"
+    },
+    "name": "Dan Zachs",
+    "ALT_NAME": [
+      "Crimson Chivalry",
+      "Naoise: Crimson Chivalry",
+      "Base Naoise",
+      "Normal Naoise",
+      "Regular Naoise",
+      "naoise"
+    ],
+    "HARD_ALT_NAME": [
+      "Crimson Chivalry",
+      "Naoise: Crimson Chivalry",
+      "Base Naoise",
+      "Normal Naoise",
+      "Regular Naoise",
+      "naoise"
+    ]
+  },
+  "amandahufford": {
+    "heroes": {
+      "lamia": "<:Red_Sword:1317239717707911188>Lamia"
+    },
+    "name": "Amanda Hufford",
+    "ALT_NAME": [
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
+    ],
+    "HARD_ALT_NAME": [
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
     ]
   }
 }

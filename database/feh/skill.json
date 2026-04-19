@@ -4687,7 +4687,8 @@
         "linoan": "1",
         "larachel5": "1",
         "elise6": "1",
-        "hortensia3": "1"
+        "hortensia3": "1",
+        "claud": "1"
       }
     },
     "refine": {},
@@ -4757,7 +4758,8 @@
         "linoan": "2",
         "larachel5": "2",
         "elise6": "2",
-        "hortensia3": "2"
+        "hortensia3": "2",
+        "claud": "2"
       }
     },
     "refine": {},
@@ -7425,7 +7427,9 @@
         "eirika10": "3",
         "thorr3": "3",
         "claude8": "3",
-        "felix5": "3"
+        "felix5": "3",
+        "lachesis3": "3",
+        "lamia": "3"
       }
     },
     "refine": {},
@@ -7639,7 +7643,9 @@
         "eirika10": "4",
         "thorr3": "4",
         "claude8": "4",
-        "felix5": "4"
+        "felix5": "4",
+        "lachesis3": "4",
+        "lamia": "4"
       }
     },
     "refine": {},
@@ -7812,7 +7818,8 @@
         "lowen": "3",
         "wallace": "3",
         "edelgard9": "3",
-        "ingrid5": "3"
+        "ingrid5": "3",
+        "naoise": "3"
       }
     },
     "refine": {},
@@ -8027,7 +8034,8 @@
         "lowen": "4",
         "wallace": "4",
         "edelgard9": "4",
-        "ingrid5": "4"
+        "ingrid5": "4",
+        "naoise": "4"
       }
     },
     "refine": {},
@@ -8844,7 +8852,8 @@
         "kliff": "5",
         "sigurd5": "3",
         "hapi2": "3",
-        "seidr3": "3"
+        "seidr3": "3",
+        "sigurd6": "3"
       }
     },
     "refine": {},
@@ -8931,7 +8940,8 @@
         "ophelia": "5",
         "sigurd5": "4",
         "hapi2": "4",
-        "seidr3": "4"
+        "seidr3": "4",
+        "sigurd6": "4"
       }
     },
     "refine": {},
@@ -9439,7 +9449,8 @@
         "linoan": "2",
         "larachel5": "2",
         "elise6": "2",
-        "hortensia3": "2"
+        "hortensia3": "2",
+        "claud": "2"
       }
     },
     "refine": {},
@@ -9649,7 +9660,8 @@
         "saul2": "5",
         "yuliya": "3",
         "pandreo": "3",
-        "hortensia3": "3"
+        "hortensia3": "3",
+        "claud": "3"
       }
     },
     "refine": {},
@@ -14868,7 +14880,8 @@
         "dimitri2": "5",
         "severa2": "5",
         "celica7": "4",
-        "larachel5": "4"
+        "larachel5": "4",
+        "sigurd6": "4"
       },
       "Hone Atk 2": {
         "gunter": "2",
@@ -14993,7 +15006,8 @@
         "lyn11": "4",
         "eliwood6": "4",
         "ingrid5": "4",
-        "claude8": "4"
+        "claude8": "4",
+        "lachesis3": "4"
       },
       "Hone Spd 2": {
         "sigrun": "4",
@@ -25906,7 +25920,8 @@
         "chad": "4",
         "takumi3": "5",
         "sigurd": "5",
-        "nino2": "5"
+        "nino2": "5",
+        "lamia": "4"
       },
       "Spd Smoke 2": {},
       "Spd Smoke 1": {}
@@ -47704,7 +47719,8 @@
         "genny2": "5"
       },
       "Fireflood Balm": {
-        "pandreo": "4"
+        "pandreo": "4",
+        "claud": "4"
       }
     },
     "refine": {},
@@ -49452,7 +49468,8 @@
         "vika": "5",
         "selkie": "5",
         "mila": "5",
-        "anna2": "5"
+        "anna2": "5",
+        "claud": "4"
       },
       "Sabotage Atk 2": {},
       "Sabotage Atk 1": {}
@@ -87376,7 +87393,8 @@
       "A/D Near Trace 3": {
         "catria4": "5",
         "gustav2": "5",
-        "cherche2": "5"
+        "cherche2": "5",
+        "naoise": "5"
       },
       "A/D Near Trace 2": {},
       "A/D Near Trace 1": {}
@@ -106405,7 +106423,8 @@
         "seliph4": "4",
         "lapis3": "4",
         "nerpuz4": "4",
-        "sharena5": "4"
+        "sharena5": "4",
+        "lachesis3": "4"
       },
       "Atk/Spd Clash 2": {},
       "Atk/Spd Clash 1": {}
@@ -107913,7 +107932,9 @@
         "eikthyrnir": "4",
         "sigurd5": "4",
         "zeiss": "5",
-        "lowen": "4"
+        "lowen": "4",
+        "sigurd6": "4",
+        "naoise": "4"
       },
       "Atk/Def Clash 2": {},
       "Atk/Def Clash 1": {}
@@ -108028,7 +108049,8 @@
         "hilda5": "5",
         "mbyleth5": "4",
         "elincia6": "4",
-        "fjorm7": "4"
+        "fjorm7": "4",
+        "lamia": "5"
       },
       "Velocity 2": {},
       "Velocity 1": {}
@@ -130200,7 +130222,7 @@
         "name": "United Bouquet",
         "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP \u2265 25%, grants Atk/Spd+6 to unit for 1 turn and unit can move 1 extra space (that turn only; does not stack). At start of combat, if unit's HP \u2265 25%, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and deals damage = 20% of unit's Spd during combat (excluding area-of-effect Specials), and also, when unit deals damage to foe during combat, restores X HP to unit (X = number of spaces from start position to end position of whoever initiated combat \u00d7 3; max 12; triggers even if 0 damage is dealt).",
         "stats": {
-          "mt": "",
+          "mt": "16",
           "rng": "1",
           "sp": "400"
         },
@@ -130333,7 +130355,7 @@
         "name": "Wildflower Edge",
         "description": "Enables\u3010Canto (Rem. +1)\u3011. Accelerates Special trigger (cooldown count-1).\nIf unit has entered combat during the current turn, allies within 5 spaces of unit can move to a space within 2 spaces of unit.\nIf unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, grants bonus to unit's Atk/Spd/Def/Res = 15% of unit's Spd at start of combat, deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's first attack by X% during combat (if it is unit's first combat initiated by unit or first combat initiated by foe that turn, X = 80; otherwise, X = 40; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\nIf unit initiates combat, deals 10 damage to target and foes within 2 spaces of target after combat, and inflicts\u3010Share Spoils\u3011on target through its next action.\n\u3010Canto (Rem. +1)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move again.\nThe distance of the movement is the remaining movement the unit had before the actions listed above + 1 (If unit used a movement skill that warps them, the remainder is 0). (Once per turn. Only highest value applied. Does not stack.)\n\u3010Share Spoils\u3011\nInflicts Atk/Spd/Def/Res-5 on unit during combat and neutralizes \"reduces damage by X%\" effects from unit's non-Special skills (excluding area-of-effect Specials). If foe initiates combat and if unit is defeated in combat, grants another action to that foe after combat (this effect has priority over other similar effects, including Time Is Light; in such cases, these other similar effects are treated as not having triggered).\n",
         "stats": {
-          "mt": "",
+          "mt": "16",
           "rng": "1",
           "sp": "400"
         },
@@ -130372,7 +130394,7 @@
         "name": "Closing Florets",
         "description": "Enables\u3010Canto (Rem. +1)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP \u2265 25%, grants the following effect to unit and target allies (if support partner is on player team, targets any support partner within 2 spaces of unit; otherwise, targets ally with the highest Spd within 2 spaces of unit): if Special cooldown count is at its maximum value, grants Special cooldown count-2; if Special cooldown count is at its maximum value - 1, grants Special cooldown count-1.\nAt start of combat, if unit's HP \u2265 25%, grants bonus to unit's Atk/Spd/Def/Res during combat = number of foes within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and reduces damage by 20% of unit's Spd (excluding area-of-effect Specials).\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2 and unit can move 1 extra space (that turn only; does not stack).\n\u3010Canto (Rem. +1)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move again.\nThe distance of the movement is the remaining movement the unit had before the actions listed above+1 (If unit used a movement skill that warps them, the remainder is 0).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)\n",
         "stats": {
-          "mt": "",
+          "mt": "14",
           "rng": "1",
           "sp": "400"
         },
@@ -130567,7 +130589,7 @@
         "name": "Dragonbloom+",
         "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+4 to unit, deals damage = 15% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's first attack by X% during combat (if it is unit's first combat initiated by unit or first combat initiated by foe that turn, X = 80; otherwise, X = 40; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes). If foe's Range = 2, calculates damage using the lower of foe's Def or Res.",
         "stats": {
-          "mt": "",
+          "mt": "14",
           "rng": "1",
           "sp": "300"
         },
@@ -130606,7 +130628,7 @@
         "name": "Harp Bow+",
         "description": "Effective against flying foes.\nIf unit initiates combat or foe's Range = 2, grants Atk/Spd/Def/Res+4 to unit, deals damage = 15% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's first attack by X% during combat (if it is unit's first combat initiated by unit or first combat initiated by foe that turn, X = 60; otherwise, X = 30; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
         "stats": {
-          "mt": "",
+          "mt": "12",
           "rng": "2",
           "sp": "300"
         },
@@ -130645,7 +130667,7 @@
         "name": "Hoshido's Breath",
         "description": "Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range.\nAt start of turn, if unit's HP \u2265 25% and unit's Special cooldown count is at its maximum value, grants Special cooldown count-1 to unit.\nAt start of combat, if unit's HP \u2265 25%, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 spaces of unit \u00d7 3, + 5 (max 14), and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if foe's attack can trigger foe's Special and unit's Res \u2265 foe's Res+5, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed foe's maximum Special cooldown). If unit's HP \u2265 25% at start of combat and if unit's Special cooldown count value is at its maximum after combat, grants Special cooldown count-1 to unit after combat. If foe's Range = 2, calculates damage using the lower of foe's Def or Res.",
         "stats": {
-          "mt": "",
+          "mt": "16",
           "rng": "1",
           "sp": "400"
         },
@@ -131249,7 +131271,7 @@
         "name": "Love of Ner\u00feuz",
         "description": "Accelerates Special trigger (cooldown count-1).\nAt start of combat, if unit's HP \u2265 25%, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and reduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\nGrants the following effects to allies within 3 rows or 3 columns centered on unit, and if unit's HP \u2265 25% at start of combat, to unit: when that unit or ally's Special triggers during combat, reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by percentage = that unit or ally's max Special cooldown count value \u00d7 30, + 10 (max 100%; excluding area-of-effect Specials), and also, if that unit or ally's max Special cooldown count value \u2265 3 and their attack can trigger their Special, grants Special cooldown count-1 to that unit or ally before their first attack during combat.\nAt start of turn, if unit is adjacent to only beast or dragon allies or is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2 to unit, inflicts Atk/Def-X on foe during combat (X = number of spaces from start position to end position of whoever initiated combat, + 3; max 6), and also, if X \u2265 5, reduces damage from foe's first attack by 30% during combat.",
         "stats": {
-          "mt": "16",
+          "mt": "14",
           "rng": "1",
           "sp": "400"
         },
@@ -136635,7 +136657,8 @@
       "Momentum 2": {},
       "Momentum 3": {
         "eliwood6": "4",
-        "ninian5": "4"
+        "ninian5": "4",
+        "sigurd6": "4"
       },
       "Momentum 4": {
         "sigurd5": "5"
@@ -140049,7 +140072,8 @@
         "hortensia2": "5",
         "sakura4": "5",
         "larachel5": "5",
-        "elise6": "5"
+        "elise6": "5",
+        "claud": "5"
       },
       "Ice Lock": {}
     },
@@ -145883,7 +145907,8 @@
         "gotoh2": "5",
         "micaiah8": "5",
         "arval": "5",
-        "soren6": "5"
+        "soren6": "5",
+        "claud": "5"
       }
     },
     "refine": {},
@@ -148903,7 +148928,8 @@
       "Silence Ward 2": {},
       "Silence Ward 3": {},
       "Silence Ward 4": {
-        "micaiah8": "5"
+        "micaiah8": "5",
+        "claud": "5"
       }
     },
     "icon": 2453,
@@ -151195,7 +151221,8 @@
         "baldr3": "5",
         "celica8": "5",
         "thorr3": "5",
-        "felix5": "5"
+        "felix5": "5",
+        "lachesis3": "5"
       }
     },
     "icon": false,
@@ -153598,7 +153625,8 @@
     ],
     "reference": {
       "A/S Bellow": {
-        "nerpuz4": "5"
+        "nerpuz4": "5",
+        "lachesis3": "5"
       }
     },
     "refine": {},
@@ -160865,7 +160893,8 @@
     "reference": {
       "Impetus Guard": {
         "eliwood6": "5",
-        "ninian5": "5"
+        "ninian5": "5",
+        "sigurd6": "5"
       }
     },
     "icon": 2653,
@@ -160976,7 +161005,7 @@
         "eliwood6": "5"
       }
     },
-    "icon": 2516,
+    "icon": 2655,
     "HARD_ALT_NAME": [
       "Momentum Echo"
     ],
@@ -161327,11 +161356,11 @@
     "slot": "Passive C",
     "wpn": false
   },
-  "reforgedlance": {
-    "name": "Reforged Lance+",
+  "forgedlance": {
+    "name": "Forged Lance+",
     "skill": [
       {
-        "name": "Reforged Lance+",
+        "name": "Forged Lance+",
         "description": "At start of player phase or enemy phase, grants Atk/Def+6 to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 50% of X during combat (excluding area-of-effect Specials; X = highest total bonuses among unit and allies within 3 spaces of unit).",
         "stats": {
           "mt": "14",
@@ -161346,14 +161375,14 @@
       }
     ],
     "reference": {
-      "Reforged Lance+": {
+      "Forged Lance+": {
         "wallace": "5"
       }
     },
     "refine": false,
     "icon": false,
     "HARD_ALT_NAME": [
-      "reforgedlance",
+      "forgedlance",
       "Crag of Caelin",
       "Wallace: Crag of Caelin",
       "Base Wallace",
@@ -161361,7 +161390,9 @@
       "Regular Wallace",
       "wallace"
     ],
-    "ALT_NAME": [],
+    "ALT_NAME": [
+      "reforgedlance"
+    ],
     "slot": "Weapon",
     "wpn": "wep_lc210"
   },
@@ -162165,5 +162196,512 @@
     "ALT_NAME": [],
     "slot": "Passive C",
     "wpn": false
+  },
+  "oathtyrfing": {
+    "name": "Oath Tyrfing",
+    "skill": [
+      {
+        "name": "Oath Tyrfing",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAccelerates Special trigger (cooldown count-1).\nAt start of turn, grants Special cooldown count-1 to unit and allies within 2 spaces of unit.\nAt start of player phase or enemy phase, grants \u3010Truly Incited\u3011and \"unit makes a guaranteed follow-up attack during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (including area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials). If unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per combat; does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce HP to 0).\nRestores 7 HP to unit after combat.\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Truly Incited\u3011\nGrants bonus to Atk/Spd/Def/Res during combat = number of spaces from start position to end position of whoever initiated combat \u00d7 2 (max 8).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Oath Tyrfing": {
+        "sigurd6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Oath Tyrfing",
+      "Honorable Nobles",
+      "Sigurd: Honorable Nobles",
+      "Duo Sigurd 2",
+      "D Sigurd 2",
+      "30 Sigurd",
+      "sigurd6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw216"
+  },
+  "holyknightglow": {
+    "name": "Holy Knight Glow",
+    "skill": [
+      {
+        "name": "Holy-Knight Glow",
+        "description": "If unit's Special is ready, before combat this unit initiates, foes in an area near target take damage equal to 1.5 \u00d7 (unit's Atk minus foe's Def or Res).\nAt the start of turn, grants\u3010Gallop\u3011to unit.\nReduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials).\nIf unit's Special triggered before this combat or is ready at start of combat, decreases Spd difference necessary for unit to make a follow-up attack by X and increases Spd difference necessary for foe to make a follow-up attack by X (if unit's Def > foe's Def, X = 10 + difference between Def stats \u00d7 2; otherwise, X = 10), and unit's first follow-up attack deals damage = 80% of unit's Def during combat.\nAfter combat, if unit's Special triggered, grants \"unit can move 1 extra space\" to allies on the map (excluding unit; that turn only; does not stack), neutralizes\u3010Stall\u3011, and inflicts\u3010Frozen\u3011 on foes within range of unit's Special that triggered through their next actions.",
+        "stats": {
+          "cooldown": "4",
+          "sp": "500"
+        },
+        "required": [
+          "Blazing Light"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Holy-Knight Glow": {
+        "sigurd6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Holy-Knight Glow"
+    ],
+    "ALT_NAME": [
+      "Holy Knight Glow"
+    ],
+    "slot": "Special",
+    "wpn": false
+  },
+  "adrivalbreak": {
+    "name": "A D Rival Break",
+    "skill": [
+      {
+        "name": "A/D Rival Break",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Def Clash 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Cannot** be used by: ",
+          [
+            "Infantry",
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "If unit or foe initiates combat after moving to a different space, grants Atk/Def+10 and an additional Atk/Def+X to unit (X = highest bonus on each stat between target and foes within 2 spaces of target; calculates each stat bonus independently) and unit deals +7 damage during combat (excluding area-of-effect Specials), and also, if unit initiates combat, reduces damage from foe's attacks by Y \u00d7 4 during combat (excluding area-of-effect Specials).\nReduces damage by Y \u00d7 4 when foe's attack triggers foe's Special during combat (excluding area-of-effect Specials).\n(Y = number of spaces from start position to end position of whoever initiated combat; max 3.)"
+      }
+    ],
+    "reference": {
+      "A/D Rival Break": {
+        "sigurd6": "5"
+      }
+    },
+    "icon": 2673,
+    "HARD_ALT_NAME": [
+      "A/D Rival Break"
+    ],
+    "ALT_NAME": [
+      "Atk/Def Rival Break",
+      "Attack/Defense Rival Break"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "adoutcryseize": {
+    "name": "A D Outcry Seize",
+    "skill": [
+      {
+        "name": "A/D Outcry Seize",
+        "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Atk/Def+6 and\u3010Drain Cancel\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk/Def = number of allies on the map with\u3010Drain Cancel\u3011 active + 2 (excluding unit; max 5) and deals damage = number of spaces from start position to end position of whoever initiated combat \u00d7 2 during combat (max 8; excluding area-of-effect Specials).\n\u3010Drain Cancel\u3011\nGrants Atk/Spd/Def/Res+4 to unit during combat.\nWhen a foe triggers both \"grants the\u3010Bonus\u3011 effects active on foe\" and \"neutralizes any \u3010Bonus\u3011active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any\u3010Bonus\u3011effects active on that foe (does not neutralize\u3010Bonus\u3011 effects applied at the same time).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Hone Atk 3",
+          "Fortify Def 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive C",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry"
+          ]
+        ]
+      }   
+    ],
+    "reference": {
+      "A/D Outcry Seize": {
+        "sigurd6": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2674,
+    "HARD_ALT_NAME": [
+      "A/D Outcry Seize"
+    ],
+    "ALT_NAME": [
+      "Atk/Def Outcry Seize",
+      "Attack/Defense Outcry Seize"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "lionheartaxe": {
+    "name": "Lionheart Axe",
+    "skill": [
+      {
+        "name": "Lionheart Axe",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), grants bonus to Atk/Spd/Def/Res = highest bonus on each stat between target and foes within 2 spaces of target (calculates each stat bonus independently), calculates damage using the lower of foe's Def or Res (excluding area-of-effect Specials), and restores 7 HP to unit or ally when unit or ally deals damage to foe during combat.\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Weapon Triangle: Red Style \u2014\u2014\u2014\u2014\u2014\nWhen determining weapon triangle, counts unit as red (does not affect skill effects that trigger based on attribute, such as \"if in combat against a red foe\"). This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Lionheart Axe": {
+        "lachesis3": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Lionheart Axe",
+      "Loving Sister",
+      "Lachesis: Loving Sister",
+      "Attuned Lachesis",
+      "A Lachesis",
+      "lachesis3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax192"
+  },
+  "asrivalbreak": {
+    "name": "A S Rival Break",
+    "skill": [
+      {
+        "name": "A/S Rival Break",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Spd Clash 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Cannot** be used by: ",
+          [
+            "Infantry",
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "description": "If unit or foe initiates combat after moving to a different space, grants Atk/Spd+10 and an additional Atk/Spd+X to unit (X = highest bonus on each stat between target and foes within 2 spaces of target; calculates each stat bonus independently) and unit deals +7 damage during combat (excluding area-of-effect Specials), and also, if unit initiates combat, reduces damage from foe's attacks by Y \u00d7 4 during combat (excluding area-of-effect Specials).\nReduces damage by Y \u00d7 4 when foe's attack triggers foe's Special during combat (excluding area-of-effect Specials).\n(Y = number of spaces from start position to end position of whoever initiated combat; max 3.)"
+      }
+    ],
+    "reference": {
+      "A/S Rival Break": {
+        "lachesis3": "5"
+      }
+    },
+    "icon": 2675,
+    "HARD_ALT_NAME": [
+      "A/S Rival Break"
+    ],
+    "ALT_NAME": [
+      "Atk/Spd Rival Break",
+      "Attack/Speed Rival Break"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "aseldiewould": {
+    "name": "As Eldie Would",
+    "skill": [
+      {
+        "name": "As Eldie Would",
+        "description": "At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def/Res-7, \u3010Exposure\u3011, and\u3010Discord\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nInflicts Atk/Spd/Def/Res-5 on foe, deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and grants Special cooldown count-X to unit before unit's first attack during combat (X = number of spaces from start position to end position of whoever initiated combat; max 2).\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5).",
+        "stats": {
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "As Eldie Would": {
+        "lachesis3": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2676,
+    "HARD_ALT_NAME": [],
+    "ALT_NAME": [
+      "As Eldie Would"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "puissantecho": {
+    "name": "Puissant Echo",
+    "skill": [
+      {
+        "name": "Puissant Echo",
+        "stats": {
+          "sp": "0"
+        },
+        "slot": "Passive X",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit does not trigger the \"attacks twice\" effect and if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\n\u3010Potent Follow 100%\u3011\nTriggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)."
+      }
+    ],
+    "reference": {
+      "Puissant Echo": {
+        "lachesis3": "5"
+      }
+    },
+    "icon": 2677,
+    "HARD_ALT_NAME": [
+      "Puissant Echo"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive X",
+    "wpn": false
+  },
+  "valkyrie": {
+    "name": "Valkyrie",
+    "skill": [
+      {
+        "name": "Valkyrie",
+        "description": "Calculates damage from staff like other weapons. Accelerates Special trigger (cooldown count-1; max cooldown count cannot be reduced below 1).\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), unit makes a guaranteed follow-up attack, grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and grants Special cooldown count-1 to unit before unit's first attack during combat.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, ally deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and grants Special cooldown count-1 to ally before ally's first attack during combat.\nGrants \"if unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP, and after combat, restores 99 HP to unit\" to allies within 3 spaces of unit (effect only triggers for player's team once per map and does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce unit's HP to 0; when any other such effect triggers on an ally granted this effect, this effect will trigger too).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Staff",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Valkyrie": {
+        "claud": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Valkyrie",
+      "Priest of Edda",
+      "Claud: Priest of Edda",
+      "Base Claud",
+      "Normal Claud",
+      "Regular Claud",
+      "claud"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_rd080"
+  },
+  "firefloodcharm": {
+    "name": "Fireflood Charm",
+    "skill": [
+      {
+        "name": "Fireflood Charm",
+        "description": "If an Assist skill is used, unit's Special cooldown count does not go down.\nWhen Special triggers, boosts damage by 70% of the greater of unit's or foe's Atk (calculates damage from staff after combat damage is added).\nReduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\nAt start of player phase or enemy phase, grants\u3010Atk Liberate\u3011and\u3010Res Liberate\u3011to unit and allies within 2 spaces of unit for 1 turn.\n\u3010Atk Liberate\u3011\nGrants bonus to Atk during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).\n\u3010Res Liberate\u3011\nGrants bonus to Res during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Fireflood Balm"
+        ],
+        "exclusive": false,
+        "slot": "Special",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Colorless_Staff"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Fireflood Charm": {
+        "claud": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Fireflood Charm"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "shacklelance": {
+    "name": "Shackle Lance+",
+    "skill": [
+      {
+        "name": "Shackle Lance+",
+        "description": "At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +20 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).\n\u3010Spd Shackle\u3011\nInflicts penalty on unit's Spd during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).\n\u3010Def Shackle\u3011\nInflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Shackle Lance+": {
+        "naoise": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "shacklelance",
+      "Crimson Chivalry",
+      "Naoise: Crimson Chivalry",
+      "Base Naoise",
+      "Normal Naoise",
+      "Regular Naoise",
+      "naoise"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc212"
+  },
+  "forgedsword": {
+    "name": "Forged Sword+",
+    "skill": [
+      {
+        "name": "Forged Sword+",
+        "description": "At start of player phase or enemy phase, grants Atk/Def+6 to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 50% of X during combat (excluding area-of-effect Specials; X = highest total bonuses among unit and allies within 3 spaces of unit).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Forged Sword+": {
+        "lamia": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "reforgedsword",
+      "Hellspawn",
+      "Lamia: Hellspawn",
+      "Base Lamia",
+      "Normal Lamia",
+      "Regular Lamia",
+      "lamia"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw217"
   }
 }
