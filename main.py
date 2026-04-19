@@ -232,7 +232,7 @@ fe7.special["denning"] = denning
 async def calendar(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://pbs.twimg.com/media/HDGfQ35aMAIcc0O.jpg")
+    embed.attach("image", "https://fire-emblem-heroes.com/en/img/topics/detail/img_20260413.png")
     
     await embed.send(ctx)
 
