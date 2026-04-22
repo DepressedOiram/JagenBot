@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://rfireemblemheroes.github.io/infographs/rerun.png")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-yexmac4u8qwg1.png?width=1080&crop=smart&auto=webp&s=d5fe37ed7222c916c9f7297279d9a2e35df47a87")
     
     await embed.send(ctx)
 
@@ -248,7 +248,15 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://rfireemblemheroes.github.io/infographs/rerun.png")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-yexmac4u8qwg1.png?width=1080&crop=smart&auto=webp&s=d5fe37ed7222c916c9f7297279d9a2e35df47a87")
+    
+    await embed.send(ctx)
+
+@maji.commands.classic("emblem")
+async def mythic(ctx):
+    embed = maji.Embed()
+    
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-yexmac4u8qwg1.png?width=1080&crop=smart&auto=webp&s=d5fe37ed7222c916c9f7297279d9a2e35df47a87")
     
     await embed.send(ctx)
 
@@ -256,9 +264,18 @@ async def mythic(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://rfireemblemheroes.github.io/infographs/rerun.png")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-u0b94309sqwg1.png?width=6753&format=png&auto=webp&s=3d80e01f54206cbb58b67f1d9edcf058dfd50ec6")
     
     await embed.send(ctx)
+
+@maji.commands.classic("revival")
+async def remix(ctx):
+    embed = maji.Embed()
+    
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-2yk1oc4u8qwg1.png?width=1080&crop=smart&auto=webp&s=efe473e07d27873cbf78994e8ebd99d7801d72f0")
+    
+    await embed.send(ctx)
+
 
 @maji.commands.classic("weekly")
 async def remix(ctx):

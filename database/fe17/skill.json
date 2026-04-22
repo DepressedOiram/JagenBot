@@ -2495,7 +2495,7 @@
   },
   "bigpersonality": {
     "name": "Big Personality",
-    "desc": "When unit uses a healing staff, grants range +1. (Actually works for all staves except rescue.)",
+    "desc": "When unit uses a healing staff, grants range +1. (Actually works for all non status staves except Rescue.)",
     "cost": 0,
     "reference": {
       "Personal": "Hortensia"
@@ -4546,7 +4546,7 @@
   },
   "stealthassist": {
     "name": "Stealth Assist",
-    "desc": "When unit uses a healing staff, grants range +1.",
+    "desc": "When unit uses a healing staff, grants range +1. (Actually works for all non status staves except Rescue.)",
     "cost": 0,
     "icon": "283",
     "reference": {

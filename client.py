@@ -10,6 +10,7 @@ random_status = [
     "Acting as the decoy",
     "@Jagen calendar",
     "@Jagen legendary",
+    "@Jagen revival",
     "@Jagen weekly"
 ]
 
