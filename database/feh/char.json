@@ -40264,7 +40264,8 @@
       "lyon2",
       "lyon3",
       "lyon4",
-      "lyon5"
+      "lyon5",
+      "lyon6"
     ],
     "prf": {
       "": "naglfareff",
@@ -94589,7 +94590,8 @@
       "lyon",
       "lyon3",
       "lyon4",
-      "lyon5"
+      "lyon5",
+      "lyon6"
     ],
     "prf": {
       "": "bloodtomeeff",
@@ -118673,7 +118675,8 @@
       "lyon",
       "lyon2",
       "lyon4",
-      "lyon5"
+      "lyon5",
+      "lyon6"
     ],
     "prf": {
       "": "tomeofgrado",
@@ -149816,7 +149819,8 @@
       "lyon",
       "lyon2",
       "lyon3",
-      "lyon5"
+      "lyon5",
+      "lyon6"
     ],
     "prf": {
       "": "coralsaberres",
@@ -191731,7 +191735,8 @@
       "lyon",
       "lyon2",
       "lyon3",
-      "lyon4"
+      "lyon4",
+      "lyon6"
     ],
     "prf": {
       "": "tendervessel",
@@ -204420,12 +204425,12 @@
       "leo6"
     ],
     "prf": {
-      "": "juicybucketful",
-      "eff": "juicybucketful",
-      "atk": "juicybucketful",
-      "spd": "juicybucketful",
-      "def": "juicybucketful",
-      "res": "juicybucketful"
+      "": "juicybucketfulatk",
+      "eff": "juicybucketfulatk",
+      "atk": "juicybucketfulatk",
+      "spd": "juicybucketfulspd",
+      "def": "juicybucketfuldef",
+      "res": "juicybucketfulres"
     }
   },
   "takumi6": {
@@ -204596,12 +204601,12 @@
       "takumi5"
     ],
     "prf": {
-      "": "stallgamebow",
-      "eff": "stallgamebow",
-      "atk": "stallgamebow",
-      "spd": "stallgamebow",
-      "def": "stallgamebow",
-      "res": "stallgamebow"
+      "": "stallgamebowspd",
+      "eff": "stallgamebowspd",
+      "atk": "stallgamebowspd",
+      "spd": "stallgamebowspd",
+      "def": "stallgamebowspd",
+      "res": "stallgamebowspd"
     }
   },
   "bernadetta4": {
@@ -206315,12 +206320,12 @@
       "flora2"
     ],
     "prf": {
-      "": "icedagger",
-      "eff": "icedagger",
-      "atk": "icedagger",
-      "spd": "icedagger",
-      "def": "icedagger",
-      "res": "icedagger"
+      "": "icedaggerres",
+      "eff": "icedaggerres",
+      "atk": "icedaggeratk",
+      "spd": "icedaggerspd",
+      "def": "icedaggerdef",
+      "res": "icedaggerres"
     }
   },
   "felicia3": {
@@ -206673,12 +206678,12 @@
       "nils2"
     ],
     "prf": {
-      "": "icedragonstone",
-      "eff": "icedragonstone",
-      "atk": "icedragonstone",
-      "spd": "icedragonstone",
-      "def": "icedragonstone",
-      "res": "icedragonstone"
+      "": "icedragonstonespd",
+      "eff": "icedragonstonespd",
+      "atk": "icedragonstoneatk",
+      "spd": "icedragonstonespd",
+      "def": "icedragonstonedef",
+      "res": "icedragonstoneres"
     }
   },
   "timerra": {
@@ -208960,12 +208965,12 @@
       "marianne2"
     ],
     "prf": {
-      "": "arcaneblutgang",
-      "eff": "arcaneblutgang",
-      "atk": "arcaneblutgang",
-      "spd": "arcaneblutgang",
-      "def": "arcaneblutgang",
-      "res": "arcaneblutgang"
+      "": "arcaneblutgangres",
+      "eff": "arcaneblutgangres",
+      "atk": "arcaneblutgangatk",
+      "spd": "arcaneblutgangspd",
+      "def": "arcaneblutgangdef",
+      "res": "arcaneblutgangres"
     }
   },
   "dagr4": {
@@ -209304,12 +209309,12 @@
       "dorothea5"
     ],
     "prf": {
-      "": "blarvulture",
-      "eff": "blarvulture",
-      "atk": "blarvulture",
-      "spd": "blarvulture",
-      "def": "blarvulture",
-      "res": "blarvulture"
+      "": "blarvultureres",
+      "eff": "blarvultureres",
+      "atk": "blarvultureatk",
+      "spd": "blarvulturespd",
+      "def": "blarvulturedef",
+      "res": "blarvultureres"
     }
   },
   "ashe": {
@@ -209649,12 +209654,12 @@
       "caspar2"
     ],
     "prf": {
-      "": "upfrontaxe",
-      "eff": "upfrontaxe",
-      "atk": "upfrontaxe",
-      "spd": "upfrontaxe",
-      "def": "upfrontaxe",
-      "res": "upfrontaxe"
+      "": "upfrontaxespd",
+      "eff": "upfrontaxespd",
+      "atk": "upfrontaxeatk",
+      "spd": "upfrontaxespd",
+      "def": "upfrontaxedef",
+      "res": "upfrontaxeres"
     }
   },
   "metodey": {
@@ -209813,12 +209818,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "gainfuldagger",
-      "eff": "gainfuldagger",
-      "atk": "gainfuldagger",
-      "spd": "gainfuldagger",
-      "def": "gainfuldagger",
-      "res": "gainfuldagger"
+      "": "gainfuldaggerspd",
+      "eff": "gainfuldaggerspd",
+      "atk": "gainfuldaggeratk",
+      "spd": "gainfuldaggerspd",
+      "def": "gainfuldaggerdef",
+      "res": "gainfuldaggerres"
     }
   },
   "hraesvelgr": {
@@ -211093,12 +211098,12 @@
       "lilina5"
     ],
     "prf": {
-      "": "arcanetruthfire",
-      "eff": "arcanetruthfire",
-      "atk": "arcanetruthfire",
-      "spd": "arcanetruthfire",
-      "def": "arcanetruthfire",
-      "res": "arcanetruthfire"
+      "": "arcanetruthfireres",
+      "eff": "arcanetruthfireres",
+      "atk": "arcanetruthfireatk",
+      "spd": "arcanetruthfirespd",
+      "def": "arcanetruthfiredef",
+      "res": "arcanetruthfireres"
     }
   },
   "zeiss": {
@@ -211257,12 +211262,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "reversallance",
-      "eff": "reversallance",
-      "atk": "reversallance",
-      "spd": "reversallance",
-      "def": "reversallance",
-      "res": "reversallance"
+      "": "reversallancedef",
+      "eff": "reversallancedef",
+      "atk": "reversallanceatk",
+      "spd": "reversallancespd",
+      "def": "reversallancedef",
+      "res": "reversallanceres"
     }
   },
   "bors": {
@@ -211422,12 +211427,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "doublerlance",
-      "eff": "doublerlance",
-      "atk": "doublerlance",
-      "spd": "doublerlance",
-      "def": "doublerlance",
-      "res": "doublerlance"
+      "": "doublerlancedef",
+      "eff": "doublerlancedef",
+      "atk": "doublerlanceatk",
+      "spd": "doublerlancespd",
+      "def": "doublerlancedef",
+      "res": "doublerlanceres"
     }
   },
   "elffin": {
@@ -211797,12 +211802,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "arcanegiantaxe",
-      "eff": "arcanegiantaxe",
-      "atk": "arcanegiantaxe",
-      "spd": "arcanegiantaxe",
-      "def": "arcanegiantaxe",
-      "res": "arcanegiantaxe"
+      "": "arcanegiantaxedef",
+      "eff": "arcanegiantaxedef",
+      "atk": "arcanegiantaxeatk",
+      "spd": "arcanegiantaxespd",
+      "def": "arcanegiantaxedef",
+      "res": "arcanegiantaxeres"
     }
   },
   "ogier": {
@@ -211960,12 +211965,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "doublersword",
-      "eff": "doublersword",
-      "atk": "doublersword",
-      "spd": "doublersword",
-      "def": "doublersword",
-      "res": "doublersword"
+      "": "doublerswordspd",
+      "eff": "doublerswordspd",
+      "atk": "doublerswordatk",
+      "spd": "doublerswordspd",
+      "def": "doublersworddef",
+      "res": "doublerswordres"
     }
   },
   "laeradr": {
@@ -217635,7 +217640,9 @@
       "athos",
       "Base Athos",
       "Normal Athos",
-      "Mythic Athos"
+      "Regular Athos",
+      "Mythic Athos",
+      "M Athos"
     ],
     "HARD_ALT_NAME": [
       "Omniscient One",
@@ -217643,7 +217650,9 @@
       "athos",
       "Base Athos",
       "Normal Athos",
+      "Regular Athos",
       "Mythic Athos",
+      "M Athos",
       "Graybeard",
       "Greybeard"
     ],
@@ -248436,6 +248445,367 @@
       "spd": "forgedsword",
       "def": "forgedsword",
       "res": "forgedsword"
+    }
+  },
+  "sombron": {
+    "name": "Sombron",
+    "title": "Fell Dragon King",
+    "description": "The Fell Dragon King. He has awakened, breaking a thousand-year seal. He desires the 12 rings for his own ambitions. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Maji (\u307e\u3058)",
+    "move": "Armored",
+    "weapon": "Breath",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1371",
+    "type": "legendary",
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 26,
+      "atk": 10,
+      "spd": 3,
+      "def": 13,
+      "res": 10
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 90,
+      "spd": 30,
+      "def": 80,
+      "res": 90
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Fire Breath": "1",
+      "Fire Breath+": "2",
+      "Flametongue": "3",
+      "Fell Surge": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Armored Ice Cap": "5"
+    },
+    "passive": {
+      "A": {
+        "Def/Res Scowl 1": "2",
+        "Def/Res Scowl 2": "3",
+        "Def/Res Scowl 3": "4",
+        "A/D/R Slam": "5"
+      },
+      "B": {
+        "Special Fighter 1": "2",
+        "Special Fighter 2": "3",
+        "Special Fighter 3": "4",
+        "Scowling Fighter": "5"
+      },
+      "C": {
+        "Fell Barrier": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Sombron_Fell_Dragon_King_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Sombron_Fell_Dragon_King_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Sombron_Fell_Dragon_King_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Sombron_Fell_Dragon_King_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
+    ],
+    "HARD_ALT_NAME": [
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u795e\u968e\u30bd\u30f3\u30d6\u30eb",
+    "voice": "Erik Braa",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I was liberated from Elyos, and now I am bound to this land? The rings... I need the power of the 12 rings...",
+        "My children are pieces on a board. I alone can move them. If I dispose of them, it is as if they never existed.",
+        "These Emblems appear to be under the influence of an accursed Divine Dragon...\nIt seems that even if I use an invocation, they remain unaffected.",
+        "Go on, show me you can summon an Emblem not of Elyos. One yet unseen by even a Divine Dragon.",
+        "I shall be kind, so long as you obey. I will not tolerate anyone who obstructs my thousand-year wish."
+      ],
+      "Visit": [
+        "Show me the rings! Are there not Emblems here? Your life will be forfeit if you hide them from me."
+      ],
+      "Level": [
+        "This power befits me. I accept.",
+        "I grow more powerful, yet...it will never be enough.",
+        "I am not amused."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Sombron, the Fell Dragon King... If you bear the 12 rings, bequeath them to me. They are beyond you."
+      ],
+      "Learn Skill": [
+        "What are you plotting? When my power waxes, it is you who will be annihilated."
+      ],
+      "Confession": [
+        "Summoner, prove that you have nothing to hide by removing that hood...\nHm? With your power to summon Emblems, I would have thought you to be a child of dragonkind. Yet...\nA fragile human you are. As such, you will never pose a threat to me.\nThough I cannot say this hasn't piqued my interest\u2014a human who possesses powers beyond a dragon's.\nIn normal circumstances, I would overrun this world and prepare to invade another, yet...\nYou may be able to summon the being whom I seek.\nSomething may be to gain if I remain here a short while. Yet, if I determine otherwise, I shall burn it all."
+      ],
+      "Special": [
+        "Pathetic defects...",
+        "I will dispose of you.",
+        "Join the Corrupted.",
+        "You shall burn!"
+      ],
+      "Status": [
+        "-",
+        "I have no time for those who do not possess Emblem rings.",
+        "You dare to touch me? Have you a death wish? You seem unusually eager to join the Corrupted.",
+        "The Emblems here appear to be under the influence of an accursed Divine Dragon's power.",
+        "The 12 rings... I must claim them. I care not if the world is doomed as a result.",
+        "I shall give my children and the Four Hounds a purpose here as well.",
+        "A land where countless Heroes gather... If that is the case, then perhaps the one I seek is here as well.",
+        "Why do you go on summoning Heroes from other worlds? Do you desire yet more military might, or... Could there be someone you yearn to see again so badly that you persist?"
+      ],
+      "Map Select": [
+        "Hm?",
+        "Where are they?",
+        "I shall take them all."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Sombron",
+    "SEARCH_NAME": "Sombron",
+    "DISPLAY_NAME": "<:Colorless_Breath:1317239411980767363>Sombron",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "fellsurge",
+      "eff": "fellsurge",
+      "atk": "fellsurge",
+      "spd": "fellsurge",
+      "def": "fellsurge",
+      "res": "fellsurge"
+    },
+    "blessing": "Anima",
+    "boost": {
+      "hp": 5,
+      "spd": 4
+    }
+  },
+  "lyon6": {
+    "name": "Lyon",
+    "title": "Twilight Amends",
+    "description": "The prince of Grado who once had a promising future. However, he met a tragic end at the mercy of the Sacred Stones and the Demon King, though his soul remained pure. Appears in Fire Emblem: The Sacred Stones.",
+    "origin": "The Sacred Stones",
+    "artist": "Niji Hayashi (\u30cb\u30b8\u30cf\u30e4\u30b7)",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": "220",
+    "id": "1372",
+    "type": "legendary",
+    "version": "10.4",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 13,
+      "spd": 3,
+      "def": 10,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 30,
+      "def": 70,
+      "res": 90
+    },
+    "superboon": [
+      "def",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Stark Naglfar": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Comet": "5"
+    },
+    "passive": {
+      "A": {
+        "Slate Illusion": "5"
+      },
+      "B": {
+        "Sabotage Res 1": "2",
+        "Sabotage Res 2": "3",
+        "Sabotage Res 3": "4",
+        "Atk/Res Unrest": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Pulse Up: Ploy": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Lyon_Twilight_Amends_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Lyon_Twilight_Amends_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Lyon_Twilight_Amends_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Lyon_Twilight_Amends_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
+    ],
+    "HARD_ALT_NAME": [
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u4f1d\u627f\u30ea\u30aa\u30f3",
+    "voice": "Mark Whitten",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "magvel"
+    ],
+    "chibi": [
+      "fe8"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "The warmth of your hands, and your voice... It is as if I am dreaming, for I am unworthy of such comforts.",
+        "I erred. I betrayed cherished friends and attempted to ruin the world. No punishment can atone for this...",
+        "Do not be confined by power. I know firsthand that destruction is all that lies before great power.",
+        "Would you go to a quiet place with me? When I'm with you, I remember peaceful days of the distant past.",
+        "I saw the future through a Sacred Stone, and I tried to change it... Yet, I see now... I stood in my own way."
+      ],
+      "Visit": [
+        "I am Lyon, a wandering soul counting my own sins. I shall withdraw before I cause any trouble."
+      ],
+      "Level": [
+        "I wish this miracle to be meaningful... To one day stand beside those two again, and to see them smile.",
+        "I have faced off against myself and acknowledged my weaknesses. So I will never again drown in this power.",
+        "I do not mind if this moment is a lie. I will tell people the truth so that no other like me is ever born again."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I...am Lyon, the one who wanders in the cold darkness... Are you the one who called to me?"
+      ],
+      "Learn Skill": [
+        "This power...frightens me. But, if I am with you, then perhaps..."
+      ],
+      "Confession": [
+        "Ahhh.... This time I am spending with you is so very peaceful. I am truly grateful, [S].\nHave I spoken to you about how foolish I was\u2014how, due to my weak heart and mind, I took many lives?\nI became the Demon King and betrayed those closest to me. My countless sins are unforgivable.\nMy heart\u2014my soul\u2014was sullied. There was no salvation for me, or there shouldn't have been. But you...\nYou took my hand and pulled me back to the light.\nIf you say this is fate, then I wish to atone, so these tragedies are never repeated.\nAnd one day, I may be able to impart the words I could not back then... With you, I have a feeling I can."
+      ],
+      "Special": [
+        "As strong as Ephraim.",
+        "What strength is...",
+        "Perfection...",
+        "Let my wish be granted."
+      ],
+      "Status": [
+        "-",
+        "Stories of me are passed down as legend? I see...",
+        "You do not hesitate to get close to others, do you? I am envious.",
+        "The caring heart I once possessed died long ago...",
+        "You call me a legend, but I lost to Eirika...",
+        "Even now, after all this, I still consider Ephraim and Eirika my friends.",
+        "I've grown stronger. I've grown strong enough to defeat even you, Ephraim.",
+        "My desire to become stronger is for your sake as well."
+      ],
+      "Map Select": [
+        "This way, yes?",
+        "What to do?",
+        "I shall stop them."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Legendary Lyon",
+    "SEARCH_NAME": "Legendary Lyon",
+    "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Legendary Lyon",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "lyon",
+      "lyon2",
+      "lyon3",
+      "lyon4",
+      "lyon5"
+    ],
+    "prf": {
+      "": "starknaglfar",
+      "eff": "starknaglfar",
+      "atk": "starknaglfar",
+      "spd": "starknaglfar",
+      "def": "starknaglfar",
+      "res": "starknaglfar"
+    },
+    "blessing": "Earth",
+    "boost": {
+      "hp": 3,
+      "atk": 2
     }
   }
 }

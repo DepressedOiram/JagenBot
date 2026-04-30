@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-yexmac4u8qwg1.png?width=1080&crop=smart&auto=webp&s=d5fe37ed7222c916c9f7297279d9a2e35df47a87")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-ip687z3tnbyg1.png?width=1080&crop=smart&auto=webp&s=429112c0399f41b5aa2fa406898291ce5f4f7e35")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-yexmac4u8qwg1.png?width=1080&crop=smart&auto=webp&s=d5fe37ed7222c916c9f7297279d9a2e35df47a87")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-ip687z3tnbyg1.png?width=1080&crop=smart&auto=webp&s=429112c0399f41b5aa2fa406898291ce5f4f7e35")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-yexmac4u8qwg1.png?width=1080&crop=smart&auto=webp&s=d5fe37ed7222c916c9f7297279d9a2e35df47a87")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-ip687z3tnbyg1.png?width=1080&crop=smart&auto=webp&s=429112c0399f41b5aa2fa406898291ce5f4f7e35")
     
     await embed.send(ctx)
 

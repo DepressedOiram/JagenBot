@@ -10745,7 +10745,15 @@
       "Bridal Zearot",
       "Groom Zearot",
       "Bride Zearot",
-      "Wedding Zearot"
+      "Wedding Zearot",
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
     ],
     "HARD_ALT_NAME": [
       "zelot",
@@ -10785,9 +10793,18 @@
       "Bridal Zearot",
       "Groom Zearot",
       "Bride Zearot",
-      "Wedding Zearot"
+      "Wedding Zearot",
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
     ],
     "heroes": {
+      "sombron": "<:Colorless_Breath:1317239411980767363>Sombron",
       "zelot": "<:Green_Axe:1317239517136031897>Groom Zelot"
     },
     "name": "Erik Braa"
@@ -21214,7 +21231,13 @@
       "Winter Fommortis",
       "Christmas Fommortis",
       "Winter Fommortiis",
-      "Christmas Fommortiis"
+      "Christmas Fommortiis",
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
     ],
     "HARD_ALT_NAME": [
       "Demon King",
@@ -21377,7 +21400,13 @@
       "Winter Fommortis",
       "Christmas Fommortis",
       "Winter Fommortiis",
-      "Christmas Fommortiis"
+      "Christmas Fommortiis",
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
     ],
     "heroes": {
       "ephraim5": "<:Blue_Lance:1317239378208096338>Duo Ephraim",
@@ -21393,6 +21422,7 @@
       "lyon3": "<:Blue_Tome:1317239386491977749>Young Lyon",
       "lyon4": "<:Red_Sword:1317239717707911188>Summer Lyon",
       "lyon5": "<:Green_Tome:1317239575352971396>Valentines Lyon",
+      "lyon6": "<:Green_Tome:1317239575352971396>Legendary Lyon",
       "seteth": "<:Blue_Lance:1317239378208096338>Seteth"
     },
     "name": "Mark P. Whitten / Mark Whitten"
@@ -26735,7 +26765,9 @@
       "athos",
       "Base Athos",
       "Normal Athos",
+      "Regular Athos",
       "Mythic Athos",
+      "M Athos",
       "Graybeard",
       "Greybeard"
     ],
@@ -26745,7 +26777,9 @@
       "athos",
       "Base Athos",
       "Normal Athos",
+      "Regular Athos",
       "Mythic Athos",
+      "M Athos",
       "Graybeard",
       "Greybeard"
     ],

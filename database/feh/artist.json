@@ -15996,7 +15996,15 @@
       "Resplendent Tibarn",
       "Resp Tibarn",
       "R Tibarn",
-      "Tibarn (Resplendent)"
+      "Tibarn (Resplendent)",
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
     ],
     "HARD_ALT_NAME": [
       "solon",
@@ -16032,12 +16040,21 @@
       "Resplendent Tibarn",
       "Resp Tibarn",
       "R Tibarn",
-      "Tibarn (Resplendent)"
+      "Tibarn (Resplendent)",
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
     ],
     "heroes": {
       "balthus": "<:Green_Axe:1317239517136031897>Balthus",
       "kyza": "<:Red_Beast:1317239666944114688>New Year Kyza",
       "solon": "<:Red_Tome:1317239730714316800>Solon",
+      "sombron": "<:Colorless_Breath:1317239411980767363>Sombron",
       "tibarnR": "<:Red_Beast:1317239666944114688>Tibarn (Resplendent)"
     },
     "name": "Maji (\u307e\u3058)"
@@ -19202,7 +19219,13 @@
       "CYL Sharena",
       "B Sharena",
       "Choose Your Legends Sharena",
-      "sharena4"
+      "sharena4",
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
     ],
     "HARD_ALT_NAME": [
       "ravenR",
@@ -19365,7 +19388,13 @@
       "CYL Sharena",
       "B Sharena",
       "Choose Your Legends Sharena",
-      "sharena4"
+      "sharena4",
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
     ],
     "heroes": {
       "alfonse5": "<:Green_Axe:1317239517136031897>Brave Alfonse",
@@ -19377,6 +19406,7 @@
       "gregor": "<:Red_Sword:1317239717707911188>Gregor",
       "hilda3": "<:Colorless_Staff:1317239426866483261>Duo Fodlan Hilda",
       "ishtar3": "<:Blue_Tome:1317239386491977749>Ascended Ishtar",
+      "lyon6": "<:Green_Tome:1317239575352971396>Legendary Lyon",
       "ravenR": "<:Green_Axe:1317239517136031897>Raven (Resplendent)",
       "sharena4": "<:Green_Tome:1317239575352971396>Brave Sharena",
       "sigurdR": "<:Red_Sword:1317239717707911188>Sigurd (Resplendent)",
@@ -23458,7 +23488,9 @@
       "athos",
       "Base Athos",
       "Normal Athos",
+      "Regular Athos",
       "Mythic Athos",
+      "M Athos",
       "Graybeard",
       "Greybeard"
     ],
@@ -23568,7 +23600,9 @@
       "athos",
       "Base Athos",
       "Normal Athos",
+      "Regular Athos",
       "Mythic Athos",
+      "M Athos",
       "Graybeard",
       "Greybeard"
     ],

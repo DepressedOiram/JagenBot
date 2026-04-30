@@ -6191,7 +6191,8 @@
         "lute3": "3",
         "mia6": "3",
         "mbyleth6": "3",
-        "lucina10": "3"
+        "lucina10": "3",
+        "lyon6": "3"
       }
     },
     "refine": {},
@@ -6393,7 +6394,8 @@
         "lute3": "4",
         "mia6": "4",
         "mbyleth6": "4",
-        "lucina10": "4"
+        "lucina10": "4",
+        "lyon6": "4"
       }
     },
     "refine": {},
@@ -8201,7 +8203,8 @@
         "veyle4": "3",
         "fjorm7": "3",
         "atiki5": "3",
-        "dorothea5": "3"
+        "dorothea5": "3",
+        "sombron": "3"
       }
     },
     "refine": {},
@@ -8409,7 +8412,8 @@
         "veyle4": "4",
         "fjorm7": "4",
         "atiki5": "4",
-        "dorothea5": "4"
+        "dorothea5": "4",
+        "sombron": "4"
       }
     },
     "refine": {},
@@ -39914,7 +39918,8 @@
         "sothis2": "5",
         "rudolf": "5",
         "falear4": "4",
-        "vanitas": "4"
+        "vanitas": "4",
+        "sombron": "4"
       },
       "Special Fighter 2": {},
       "Special Fighter 1": {}
@@ -51337,7 +51342,8 @@
         "micaiah8": "4",
         "arval": "4",
         "soren6": "4",
-        "ivy3": "4"
+        "ivy3": "4",
+        "lyon6": "4"
       },
       "Sabotage Res 2": {},
       "Sabotage Res 1": {}
@@ -57436,7 +57442,8 @@
         "soren6": "4",
         "alfonse6": "4",
         "lysithea5": "4",
-        "lute3": "4"
+        "lute3": "4",
+        "lyon6": "4"
       },
       "Time's Pulse 2": {},
       "Time's Pulse 1": {}
@@ -127322,7 +127329,8 @@
       "Def/Res Scowl 1": {},
       "Def/Res Scowl 2": {},
       "Def/Res Scowl 3": {
-        "medeus2": "5"
+        "medeus2": "5",
+        "sombron": "4"
       },
       "Def/Res Scowl 4": {
         "myrrh5": "5",
@@ -139350,7 +139358,8 @@
         "athos": "5",
         "nomah": "5",
         "gotoh2": "5",
-        "lena2": "5"
+        "lena2": "5",
+        "lyon6": "5"
       }
     },
     "icon": 2304,
@@ -142243,13 +142252,14 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Blessed Aureola",
       "Omniscient One",
       "Athos: Omniscient One",
       "athos",
       "Base Athos",
       "Normal Athos",
+      "Regular Athos",
       "Mythic Athos",
+      "M Athos",
       "Graybeard",
       "Greybeard"
     ],
@@ -146743,7 +146753,8 @@
     "reference": {
       "Scowling Fighter": {
         "falear4": "5",
-        "vanitas": "5"
+        "vanitas": "5",
+        "sombron": "5"
       }
     },
     "icon": 2424,
@@ -153463,7 +153474,8 @@
       "Comet": {
         "freyja3": "5",
         "fshez5": "5",
-        "lute3": "5"
+        "lute3": "5",
+        "lyon6": "5"
       }
     },
     "icon": false,
@@ -160193,7 +160205,8 @@
     ],
     "reference": {
       "Armored Ice Cap": {
-        "atiki5": "5"
+        "atiki5": "5",
+        "sombron": "5"
       }
     },
     "icon": false,
@@ -162703,5 +162716,234 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_sw217"
+  },
+  "fellsurge": {
+    "name": "Fell Surge",
+    "skill": [
+      {
+        "name": "Fell Surge",
+        "description": "Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range. If foe's Range = 2, calculates damage using the lower of foe's Def or Res.\nGrants Atk/Def/Res+16 to unit, neutralizes foe's bonuses, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat.\n\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Howling Beam Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes within 5 spaces of unit and 3 rows or 3 columns centered on unit regardless of unit's range. Damage dealt by unit's attacks and damage from foe's attacks during that combat are reduced to 0, and foes' Savior effects will not trigger. (Røkkr take at least 1 damage.)\nAfter combat, deals 20 damage to foe and foes within 2 spaces of that foe and inflicts \u3010Deep Wounds\u3011on those foes, and applies \u3010Divine Vein (Haze)\u3011on foe's space and on each space within 2 spaces of that space for 1 turn.\nUnit suffers a counterattack if any of the following conditions are met: foe is armored, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nUnit cannot move or attack structures, after-combat movement effects do not occur, unit's area-of-effect Specials cannot be triggered, and remaining movement granted from Canto is treated as 0. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u3010Style\u3011\nChange Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.\n\u3010Deep Wounds\u3011\nUnit's HP cannot be healed through its next action.\n\u3010Divine Vein (Haze)\u3011\nApplies the following effects on space: Inflicts Atk/Spd/Def/Res-5 on foe and neutralizes foe's bonuses during combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Breath",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Fell Surge": {
+        "sombron": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Fell Dragon King",
+      "Sombron: Fell Dragon King",
+      "sombron",
+      "Base Sombron",
+      "Normal Sombron",
+      "Regular Sombron",
+      "Mythic Sombron",
+      "M Sombron"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "adrslam": {
+    "name": "A D R Slam",
+    "skill": [
+      {
+        "name": "A/D/R Slam",
+        "description": "If foe initiates combat or foe's HP ≥ 75% at start of combat, grants Atk/Def/Res+10 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit's Def \u2265 foe's Def+5, disables unit's and foe's skills that change attack priority during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Res Scowl 3",
+          "Def/Res Scowl 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Breath",
+            "Blue_Breath",
+            "Green_Breath",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "A/D/R Slam": {
+        "sombron": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2680,
+    "HARD_ALT_NAME": [
+      "A/D/R Slam"
+    ],
+    "ALT_NAME": [
+      "Atk/Def/Res Slam",
+      "Attack/Defense/Resistance Slam"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "fellbarrier": {
+    "name": "Fell Barrier",
+    "skill": [
+      {
+        "name": "Fell Barrier",
+        "description": "Unit's Savior effects will not trigger.\nAt start of player phase or enemy phase, grants \u3010Dark Emblem\u3011to allies on the map for 1 turn and grants\u3010Imbue\u3011and \"reduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nNeutralizes\u3010Dark Emblem\u3011granted to unit.\nGrants bonus to unit's Atk/Def/Res = number of allies on the map with\u3010Dark Emblem\u3011active \u00d7 2, + 5 (max 11), unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and grants Special cooldown count-2 to unit before foe's first attack during combat.\nIf there is an ally on the map with\u3010Dark Emblem\u3011 active and if none of the units on player team have been defeated on the current turn (player phase and enemy phase counted separately), calculates damage from foe's attacks at 50% (excluding area-of-effect Specials; this calculation stacks with other effects that calculate damage at X% such as Potent Follow), and any \"reduces damage by X%\" effect that can be triggered a limited number of times by unit's equipped Special can be triggered multiple times without limitation during combat (includes effects such as the \"once per combat\" from Armored Floe and \"twice per combat\" from Armored Ice Cap; does not include damage reductions for the \"first attack,\" etc.; excludes boosted Special effects from engaging).\n\u3010Dark Emblem\u3011\nGrants Atk/Spd/Def/Res+5 during combat.\n\u3010Imbue\u3011\nReduces the effect of\u3010Deep Wounds\u3011on unit by 50% during combat, and restores 40% of unit's maximum HP as unit's combat begins for 1 turn (triggers after effects that deal damage as combat begins; only highest value applied; does not stack).\n\u3010Deep Wounds\u3011\nUnit's HP cannot be healed through its next action.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Fell Barrier": {
+        "sombron": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2681,
+    "HARD_ALT_NAME": [
+      "Fell Barrier"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "starknaglfar": {
+    "name": "Stark Naglfar",
+    "skill": [
+      {
+        "name": "Stark Naglfar",
+        "description": "Accelerates Special trigger (cooldown count-1).\nGrants weapon-triangle advantage against colorless foes, and inflicts weapon-triangle disadvantage on colorless foes during combat.\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts\u3010Atk Shackle\u3011, \u3010Res Shackle\u3011, and\u3010Discord\u3011on closest foes and any foe within 2 spaces of those foes through their next actions.\nAs combat begins, deals damage to foe = X% of the greater of unit's or foe's Atk (if unit has weapon-triangle advantage or if unit's Res > foe's Res, X = 40; otherwise, X = 20; activates only when unit can attack in combat; effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1).\nGrants Atk/Def/Res+16 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).\n\u3010Atk Shackle\u3011\nInflicts penalty on unit's Atk during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).\n\u3010Res Shackle\u3011\nInflicts penalty on unit's Res during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Stark Naglfar": {
+        "lyon6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Twilight Amends",
+      "Lyon: Twilight Amends",
+      "Legendary Lyon",
+      "L Lyon",
+      "Leg Lyon",
+      "lyon6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg607"
+  },
+  "slateillusion": {
+    "name": "Slate Illusion",
+    "skill": [
+      {
+        "name": "Slate Illusion",
+        "description": "Grants Atk/Def/Res+10. When unit is in combat, foes' Savior effects will not trigger.\nAt start of player phase or enemy phase, grants\u3010Anathema\u3011and\u3010Creation Pulse\u3011 to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk = unit's maximum Special cooldown count \u00d7 3 and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials).\nIf unit initiates combat, after combat, inflicts \"after start-of-turn skills trigger, action ends immediately\" (for foes who have not yet taken an action in Summoner Duels, instead of inflicting this effect, ends their action immediately),\u3010Gravity\u3011and\u3010Share Spoils+\u3011on foes with the highest Spd within 3 spaces of target foe (excluding target) through their next actions.\n\u3010Anathema\u3011\nInflicts Spd/Def/Res-4 on foes within 3 spaces of unit during combat.\n\u3010Creation Pulse\u3011\nIf unit's attack can trigger unit's Special, grants Special cooldown count-X before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2). (For 1 turn.)\n\u3010Gravity\u3011\nRestricts target's movement to 1 space through its next action.\n\u3010Share Spoils+\u3011\nInflicts Atk/Spd/Def/Res-5 on unit during combat and neutralizes \"reduces damage by X%\" effects from unit's non-Special skills (excluding area-of-effect Specials).\nOnce per turn for the entire map, if foe initiates combat and if unit is defeated in combat, grants another action to that foe after combat (this effect has priority over other similar effects aside from Share Spoils; if this status and Share Spoils are both active at the same time, they are both treated as having been triggered; other similar effects aside from Share Spoils are treated as not having triggered).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "atk": 10,
+          "def": 10,
+          "res": 10
+        }
+      }
+    ],
+    "reference": {
+      "Slate Illusion": {
+        "lyon6": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2678,
+    "HARD_ALT_NAME": [
+      "Slate Illusion"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "atkresunrest": {
+    "name": "Atk Res Unrest",
+    "skill": [
+      {
+        "name": "Atk/Res Unrest",
+        "description": "Enables\u3010Canto (\uff11)\u3011.\nFor foes on the map whose Res < unit's Res at start of combat, inflicts Atk/Res-X (max 7) during combat and those foes cannot recover HP during or after combat (when an effect such as\u3010Feud\u3011is triggered for allies, excluding unit, that effect will also neutralize this skill's \"cannot recover HP after combat\" effect on their foes; X = number of types of \u3010Bonus\u3011effects, excluding stat bonuses, and \u3010Penalty\u3011effects, excluding stat penalties, active on player team and enemy team).\nInflicts Atk/Res-4 on foe, deals damage = 20% of unit's Res (excluding area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Res during combat (excluding area-of-effect Specials).\n\u3010Canto (\uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff11 space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)\n\u3010Feud\u3011\nDisables all ally skills (excluding unit's) during combat through unit's next action.\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Sabotage Atk 3",
+          "Sabotage Res 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Cannot** be used by: ",
+          [
+            "Cavalry",
+            "Armored",
+            "Flying"
+          ]
+        ],
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Atk/Res Unrest": {
+        "lyon6": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2679,
+    "HARD_ALT_NAME": [
+      "Atk/Res Unrest"
+    ],
+    "ALT_NAME": [
+      "A/R Unrest",
+      "Attack/Resistance Unrest"
+    ],
+    "slot": "Passive B",
+    "wpn": false
   }
 }

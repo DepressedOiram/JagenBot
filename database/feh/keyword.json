@@ -26,7 +26,8 @@
             "assist": [],
             "special": [],
             "A": [
-                "Gray Illusion"
+                "Gray Illusion",
+                "Slate Illusion"
             ],
             "B": [],
             "C": [],
@@ -156,6 +157,7 @@
             "A": [
                 "Atk/Spd Hexedge",
                 "Already Dead",
+                "Slate Illusion",
                 "Tunnel Vision"
             ],
             "B": [],
@@ -279,6 +281,42 @@
         "HARD_ALT_NAME": [
             "Atk Liberate"
         ]
+    },
+    "atkshackle": {
+        "name": "Atk Shackle",
+        "description": "Inflicts penalty on unit's Atk during combat = number of\u3010Penalty\u3011effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
+        "color": "Red",
+        "icon": "atkshackle",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [
+                    "Stark Naglfar"
+                ],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
     },
     "beastcavalry": {
         "name": "Beast (Cavalry)",
@@ -475,6 +513,7 @@
                 "Unfledged God"
             ],
             "B": [
+                "Atk/Res Unrest",
                 "Full Disarm",
                 "Lull Atk/Def 4",
                 "Lull Spd/Def 4",
@@ -765,6 +804,7 @@
                 "Atk/Res Havoc",
                 "Spd/Def Havoc",
                 "Spd/Res Havoc",
+                "Atk/Res Unrest",
                 "Firestorm Dance 3",
                 "Rockslide Dance 3",
                 "Atk/Spd Link 4",
@@ -1804,6 +1844,7 @@
             "assist": [],
             "special": [],
             "A": [
+                "Slate Illusion",
                 "Superior Talent"
             ],
             "B": [],
@@ -1995,6 +2036,27 @@
             "Dagger 7"
         ]
     },
+    "darkemblem": {
+        "name": "Dark Emblem",
+        "description": "Grants Atk/Spd/Def/Res+5 during combat.",
+        "color": "Colorless",
+        "icon": "darkemblem",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Fell Barrier"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "deepstar": {
         "name": "Deep Star (Status Effect)",
         "description": "For 1 turn, if it is unit's first combat initiated by foe that turn, reduces damage from foe's first attack by 80% during combat (that turn only; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
@@ -2050,6 +2112,7 @@
                 "Colorless_Tome": []
             },
             "Breath": [
+                "Fell Surge",
                 "Flamelick Breath"
             ],
             "Beast": [
@@ -2075,6 +2138,7 @@
                 "Fatal Smoke 4",
                 "Uplift Imbue A/S",
                 "Divine Nectar",
+                "Fell Barrier",
                 "Nectar's Magic"
             ],
             "X": [],
@@ -2236,6 +2300,7 @@
                 ],
                 "Green_Tome": [
                     "Arch-Sage Tome",
+                    "Stark Naglfar",
                     "Suttungr's Mys."
                 ],
                 "Colorless_Tome": [
@@ -2485,7 +2550,24 @@
         "description": "Applies the following effects on space: Inflicts Atk/Spd/Def/Res-5 on foe and neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat. (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)",
         "color": "Colorless",
         "icon": "divineveinhaze",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [
+                "Fell Surge"
+            ],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -3382,7 +3464,9 @@
                 "Immurement"
             ],
             "A": [],
-            "B": [],
+            "B": [
+                "Atk/Res Unrest"
+            ],
             "C": [
                 "Absolute Closure",
                 "Blood & Thunder",
@@ -3940,7 +4024,9 @@
                 "Time and Light",
                 "Time Is Light"
             ],
-            "A": [],
+            "A": [
+                "Slate Illusion"
+            ],
             "B": [
                 "Brutal Ferocity",
                 "Deep Star",
@@ -4430,7 +4516,18 @@
                 "Ravager"
             ]
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Fell Barrier"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -5518,7 +5615,8 @@
                     "Light of Dawn",
                     "Nova",
                     "Sei\u00f0r",
-                    "Silver of Dawn"
+                    "Silver of Dawn",
+                    "Stark Naglfar"
                 ],
                 "Colorless_Tome": [
                     "\u00D3\u00F0r of Creation",
@@ -5553,11 +5651,13 @@
                 "Spd/Def Catch 4",
                 "Spd/Res Catch 4",
                 "Def/Res Catch 4",
-                "Beyond Reason"
+                "Beyond Reason",
+                "Slate Illusion"
             ],
             "B": [
                 "Spd/Res Shackle",
                 "Def/Res Shackle",
+                "Atk/Res Unrest",
                 "Full Disarm",
                 "Deadly Balance",
                 "Deadly Balance+",
@@ -6145,7 +6245,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Fell Barrier"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {
             "mbyleth4": "<:Red_Sword:1317239717707911188>Winter Byleth"
         },
@@ -6458,7 +6569,9 @@
                     "Fiery Bolganone"
                 ],
                 "Blue_Tome": [],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Stark Naglfar"
+                ],
                 "Colorless_Tome": [
                     "Rite of Souls"
                 ]
@@ -6796,7 +6909,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Slate Illusion"
+            ],
             "B": [
                 "Festive Report"
             ],
@@ -7199,7 +7314,9 @@
                     "Pious Offering"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Fell Surge"
+            ],
             "Beast": []
         },
         "reference_skill": {
