@@ -1985,7 +1985,12 @@
       "H Ranulf",
       "Harvest Ranulf",
       "Spooky Ranulf",
-      "ranulf2"
+      "ranulf2",
+      "Destitute Rebel",
+      "Miklan: Destitute Rebel",
+      "Fallen Miklan",
+      "F Miklan",
+      "miklan"
     ],
     "HARD_ALT_NAME": [
       "ranulf",
@@ -2004,9 +2009,15 @@
       "H Ranulf",
       "Harvest Ranulf",
       "Spooky Ranulf",
-      "ranulf2"
+      "ranulf2",
+      "Destitute Rebel",
+      "Miklan: Destitute Rebel",
+      "Fallen Miklan",
+      "F Miklan",
+      "miklan"
     ],
     "heroes": {
+      "miklan": "<:Blue_Beast:1317239339452731402>Fallen Miklan",
       "ranulf": "<:Green_Beast:1317239527953141870>Ranulf",
       "ranulf2": "<:Blue_Beast:1317239339452731402>Halloween Ranulf"
     },
@@ -4756,8 +4767,6 @@
       "Harvest Sothis",
       "Byleth: Vengeance Vessel",
       "Vengeance Vessel",
-      "Fallen Byleth",
-      "Fallen Beleth",
       "Fallen Female Byleth",
       "Fallen Byleth Female",
       "Fallen F Byleth",
@@ -4785,7 +4794,19 @@
       "Resplendent Legendary Julia",
       "Resp Legendary Julia",
       "R Legendary Julia",
-      "Legendary Julia (Resplendent)"
+      "Legendary Julia (Resplendent)",
+      "Ashen Nightmare",
+      "Byleth: Ashen Nightmare",
+      "Fallen Male Byleth",
+      "Fallen Byleth Male",
+      "Fallen M Byleth",
+      "Fallen Byleth M",
+      "F Male Byleth",
+      "F Byleth Male",
+      "F M Byleth",
+      "F Byleth M",
+      "mbyleth7",
+      "byleth12"
     ],
     "HARD_ALT_NAME": [
       "julia",
@@ -4879,7 +4900,6 @@
       "Halloween Sothis",
       "Harvest Sothis",
       "byleth8",
-      "Fallen Byleth",
       "belethf5",
       "fbeleth5",
       "belethfemale5",
@@ -4898,9 +4918,7 @@
       "F Beleth Female",
       "F F Beleth",
       "F Beleth F",
-      "Fyleth",
       "Fallen Female Byleth",
-      "Fallen Beleth",
       "Fallen Byleth Female",
       "Fallen F Byleth",
       "Fallen Byleth F",
@@ -4927,10 +4945,23 @@
       "Resplendent Legendary Julia",
       "Resp Legendary Julia",
       "R Legendary Julia",
-      "Legendary Julia (Resplendent)"
+      "Legendary Julia (Resplendent)",
+      "Ashen Nightmare",
+      "Byleth: Ashen Nightmare",
+      "Fallen Male Byleth",
+      "Fallen Byleth Male",
+      "Fallen M Byleth",
+      "Fallen Byleth M",
+      "F Male Byleth",
+      "F Byleth Male",
+      "F M Byleth",
+      "F Byleth M",
+      "mbyleth7",
+      "byleth12"
     ],
     "heroes": {
-      "fbyleth5": "<:Red_Sword:1317239717707911188>Fallen Byleth",
+      "fbyleth5": "<:Red_Sword:1317239717707911188>Fallen Female Byleth",
+      "mbyleth7": "<:Green_Tome:1317239575352971396>Fallen Male Byleth",
       "clarisse": "<:Colorless_Bow:1317239404204654703>Clarisse",
       "julia": "<:Green_Tome:1317239575352971396>Julia",
       "juliaR": "<:Green_Tome:1317239575352971396>Julia (Resplendent)",
@@ -12335,7 +12366,18 @@
       "Christmas Lupine",
       "Harmonic Rinda",
       "Base Sarah",
-      "Winter Lupine"
+      "Winter Lupine",
+      "Ill Portent",
+      "Canis: Ill Portent",
+      "Base Canis",
+      "Normal Canis",
+      "Rearmed Canis",
+      "Rearm Canis",
+      "R Canis",
+      "Arm Canis",
+      "Fallen Canis",
+      "F Canis",
+      "canis"
     ],
     "HARD_ALT_NAME": [
       "Base Sara",
@@ -12401,9 +12443,21 @@
       "Mirabilis",
       "Base Sarah",
       "Wirabilis",
-      "Winter Lupine"
+      "Winter Lupine",
+      "Ill Portent",
+      "Canis: Ill Portent",
+      "Base Canis",
+      "Normal Canis",
+      "Rearmed Canis",
+      "Rearm Canis",
+      "R Canis",
+      "Arm Canis",
+      "Fallen Canis",
+      "F Canis",
+      "canis"
     ],
     "heroes": {
+      "canis": "<:Red_Tome:1317239730714316800>Rearmed Canis",
       "linde3": "<:Red_Tome:1317239730714316800>Harmonic Linde",
       "mirabilis": "<:Red_Sword:1317239717707911188>Mirabilis",
       "mirabilis2": "<:Blue_Dagger:1317239367529529445>Winter Mirabilis",
@@ -14336,7 +14390,16 @@
       "Resplendent Tibarn",
       "Resp Tibarn",
       "R Tibarn",
-      "Tibarn (Resplendent)"
+      "Tibarn (Resplendent)",
+      "Storm King",
+      "Tibarn: Storm King",
+      "Rearmed Tibarn",
+      "Rearm Tibarn",
+      "R Tibarn",
+      "Arm Tibarn",
+      "Fallen Tibarn",
+      "F Tibarn",
+      "tibarn3"
     ],
     "HARD_ALT_NAME": [
       "tibarn",
@@ -14380,14 +14443,24 @@
       "Resplendent Tibarn",
       "Resp Tibarn",
       "R Tibarn",
-      "Tibarn (Resplendent)"
+      "Tibarn (Resplendent)",
+      "Storm King",
+      "Tibarn: Storm King",
+      "Rearmed Tibarn",
+      "Rearm Tibarn",
+      "R Tibarn",
+      "Arm Tibarn",
+      "Fallen Tibarn",
+      "F Tibarn",
+      "tibarn3"
     ],
     "heroes": {
       "bantu": "<:Red_Breath:1317239692189630504>Bantu",
       "deen": "<:Colorless_Dagger:1317239418943438869>Hatarian Deen",
       "tibarn": "<:Red_Beast:1317239666944114688>Tibarn",
       "tibarnR": "<:Red_Beast:1317239666944114688>Tibarn (Resplendent)",
-      "tibarn2": "<:Colorless_Beast:1317239395534901248>Pirate Tibarn"
+      "tibarn2": "<:Colorless_Beast:1317239395534901248>Pirate Tibarn",
+      "tibarn3": "<:Blue_Beast:1317239339452731402>Rearmed Tibarn"
     },
     "name": "Joe J. Thomas"
   },
@@ -26361,7 +26434,12 @@
       "Harmonized Ivy",
       "H Ivy",
       "Duo Ivy",
-      "ivy3"
+      "ivy3",
+      "Bewitching Ruler",
+      "Ivy: Bewitching Ruler",
+      "Fallen Ivy",
+      "F Ivy",
+      "ivy4"
     ],
     "HARD_ALT_NAME": [
       "ivy2",
@@ -26401,13 +26479,19 @@
       "Harmonized Ivy",
       "H Ivy",
       "Duo Ivy",
-      "ivy3"
+      "ivy3",
+      "Bewitching Ruler",
+      "Ivy: Bewitching Ruler",
+      "Fallen Ivy",
+      "F Ivy",
+      "ivy4"
     ],
     "heroes": {
       "farina": "<:Blue_Lance:1317239378208096338>Farina",
       "ivy": "<:Blue_Tome:1317239386491977749>Attuned Ivy",
       "ivy2": "<:Green_Tome:1317239575352971396>Summer Ivy",
       "ivy3": "<:Red_Tome:1317239730714316800>Winter Ivy",
+      "ivy4": "<:Colorless_Tome:1317239438602145842>Fallen Ivy",
       "jill": "<:Green_Axe:1317239517136031897>Jill"
     },
     "name": "Reba Buhr"
@@ -31013,7 +31097,11 @@
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
       "Harmonized Brave Celica",
-      "celica8"
+      "celica8",
+      "Resplendent Legendary Lyn",
+      "Resp Legendary Lyn",
+      "R Legendary Lyn",
+      "Legendary Lyn (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Bride of the Plains",
@@ -31423,7 +31511,11 @@
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
       "Harmonized Brave Celica",
-      "celica8"
+      "celica8",
+      "Resplendent Legendary Lyn",
+      "Resp Legendary Lyn",
+      "R Legendary Lyn",
+      "Legendary Lyn (Resplendent)"
     ],
     "heroes": {
       "bramimond": "<:Colorless_Tome:1317239438602145842>Bramimond",
@@ -31436,6 +31528,7 @@
       "lyn3R": "<:Colorless_Bow:1317239404204654703>Brave Lyn (Resplendent)",
       "lyn4": "<:Blue_Tome:1317239386491977749>Valentines Lyn",
       "lyn5": "<:Green_Bow:1317239539936268340>Legendary Lyn",
+      "lyn5R": "<:Green_Bow:1317239539936268340>Legendary Lyn (Resplendent)",
       "lyn6": "<:Blue_Bow:1317239347577356328>Summer Lyn",
       "lyn7": "<:Colorless_Dagger:1317239418943438869>Duo Lyn",
       "lyn8": "<:Blue_Lance:1317239378208096338>Flame Lyn",

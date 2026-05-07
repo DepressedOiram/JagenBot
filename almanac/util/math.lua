@@ -126,7 +126,7 @@ function module.growth_stats(v1, v2, lvl, args)
         v2 = v2 / 100
         v2 = v2 * lvl
         
-        return module.floor(v1 + v2)
+        return module.round_closest(v1 + v2)
     end
     
     return module.mod_stats(step, v1, v2, args)

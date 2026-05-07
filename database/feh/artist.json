@@ -4539,7 +4539,12 @@
       "Winter Gatekeeper",
       "Christmas Gatekeeper",
       "W Gatekeeper",
-      "gatekeeper2"
+      "gatekeeper2",
+      "Destitute Rebel",
+      "Miklan: Destitute Rebel",
+      "Fallen Miklan",
+      "F Miklan",
+      "miklan"
     ],
     "HARD_ALT_NAME": [
       "New Experiences",
@@ -4871,7 +4876,12 @@
       "Winter Gatekeeper",
       "Christmas Gatekeeper",
       "W Gatekeeper",
-      "gatekeeper2"
+      "gatekeeper2",
+      "Destitute Rebel",
+      "Miklan: Destitute Rebel",
+      "Fallen Miklan",
+      "F Miklan",
+      "miklan"
     ],
     "heroes": {
       "ashnard": "<:Red_Sword:1317239717707911188>Fallen Ashnard",
@@ -4892,6 +4902,7 @@
       "medeus": "<:Colorless_Breath:1317239411980767363>Medeus",
       "medeus2": "<:Blue_Breath:1317239355835813939>Ancient Medeus",
       "michalis": "<:Green_Axe:1317239517136031897>Michalis",
+      "miklan": "<:Blue_Beast:1317239339452731402>Fallen Miklan",
       "minerva": "<:Green_Axe:1317239517136031897>Minerva",
       "nidavellir": "<:Colorless_Bow:1317239404204654703>Ni\u00f0avellir",
       "riev": "<:Blue_Tome:1317239386491977749>Riev",
@@ -8313,8 +8324,6 @@
       "Brave Arum",
       "Byleth: Vengeance Vessel",
       "Vengeance Vessel",
-      "Fallen Byleth",
-      "Fallen Beleth",
       "Fallen Female Byleth",
       "Fallen Byleth Female",
       "Fallen F Byleth",
@@ -8366,9 +8375,7 @@
       "F Beleth Female",
       "F F Beleth",
       "F Beleth F",
-      "Fyleth",
       "Fallen Female Byleth",
-      "Fallen Beleth",
       "Fallen Byleth Female",
       "Fallen F Byleth",
       "Fallen Byleth F",
@@ -8379,7 +8386,7 @@
     ],
     "heroes": {
       "alm3": "<:Red_Sword:1317239717707911188>Brave Alm",
-      "fbyleth5": "<:Red_Sword:1317239717707911188>Fallen Byleth",
+      "fbyleth5": "<:Red_Sword:1317239717707911188>Fallen Female Byleth",
       "celica3": "<:Red_Sword:1317239717707911188>Brave Celica"
     },
     "name": "Hidari (\u5de6)"
@@ -20196,7 +20203,16 @@
       "Ninja Shez M",
       "N Shez M",
       "shez9",
-      "mshez4"
+      "mshez4",
+      "Storm King",
+      "Tibarn: Storm King",
+      "Rearmed Tibarn",
+      "Rearm Tibarn",
+      "R Tibarn",
+      "Arm Tibarn",
+      "Fallen Tibarn",
+      "F Tibarn",
+      "tibarn3"
     ],
     "HARD_ALT_NAME": [
       "Leg M Daraen",
@@ -20418,7 +20434,16 @@
       "Ninja Shez M",
       "N Shez M",
       "shez9",
-      "mshez4"
+      "mshez4",
+      "Storm King",
+      "Tibarn: Storm King",
+      "Rearmed Tibarn",
+      "Rearm Tibarn",
+      "R Tibarn",
+      "Arm Tibarn",
+      "Fallen Tibarn",
+      "F Tibarn",
+      "tibarn3"
     ],
     "heroes": {
       "ike7": "<:Red_Sword:1317239717707911188>Emblem Ike",
@@ -20430,6 +20455,7 @@
       "seteth": "<:Blue_Lance:1317239378208096338>Seteth",
       "shannan": "<:Red_Sword:1317239717707911188>Shannan",
       "mshez4": "<:Green_Axe:1317239517136031897>Ninja Male Shez",
+      "tibarn3": "<:Blue_Beast:1317239339452731402>Rearmed Tibarn",
       "yuri3": "<:Green_Dagger:1317239563697127456>Summer Yuri"
     },
     "name": "Okuma Yugo (\u5927\u718a\u3086\u3046\u3054)"
@@ -29849,6 +29875,7 @@
   "dd": {
     "heroes": {
       "malear4": "<:Red_Sword:1317239717707911188>Fallen Male Alear",
+      "mbyleth7": "<:Green_Tome:1317239575352971396>Fallen Male Byleth",
       "claude2R": "<:Colorless_Bow:1317239404204654703>Brave Claude (Resplendent)",
       "diamant3": "<:Green_Axe:1317239517136031897>Legendary Diamant",
       "innes4": "<:Colorless_Bow:1317239404204654703>New Year Innes",
@@ -29906,7 +29933,19 @@
       "Resplendent Brave Claude",
       "Resp Brave Claude",
       "R Brave Claude",
-      "Brave Claude (Resplendent)"
+      "Brave Claude (Resplendent)",
+      "Ashen Nightmare",
+      "Byleth: Ashen Nightmare",
+      "Fallen Male Byleth",
+      "Fallen Byleth Male",
+      "Fallen M Byleth",
+      "Fallen Byleth M",
+      "F Male Byleth",
+      "F Byleth Male",
+      "F M Byleth",
+      "F Byleth M",
+      "mbyleth7",
+      "byleth12"
     ],
     "HARD_ALT_NAME": [
       "Puppet Master",
@@ -29958,7 +29997,19 @@
       "Resplendent Brave Claude",
       "Resp Brave Claude",
       "R Brave Claude",
-      "Brave Claude (Resplendent)"
+      "Brave Claude (Resplendent)",
+      "Ashen Nightmare",
+      "Byleth: Ashen Nightmare",
+      "Fallen Male Byleth",
+      "Fallen Byleth Male",
+      "Fallen M Byleth",
+      "Fallen Byleth M",
+      "F Male Byleth",
+      "F Byleth Male",
+      "F M Byleth",
+      "F Byleth M",
+      "mbyleth7",
+      "byleth12"
     ]
   },
   "takubon": {
@@ -30066,6 +30117,7 @@
   },
   "ir": {
     "heroes": {
+      "canis": "<:Red_Tome:1317239730714316800>Rearmed Canis",
       "embla2": "<:Colorless_Beast:1317239395534901248>Bridal Embla",
       "vaida": "<:Blue_Lance:1317239378208096338>Vaida"
     },
@@ -30083,7 +30135,18 @@
       "Vaida: Dracofang General",
       "Normal Vaida",
       "Base Vaida",
-      "vaida"
+      "vaida",
+      "Ill Portent",
+      "Canis: Ill Portent",
+      "Base Canis",
+      "Normal Canis",
+      "Rearmed Canis",
+      "Rearm Canis",
+      "R Canis",
+      "Arm Canis",
+      "Fallen Canis",
+      "F Canis",
+      "canis"
     ],
     "HARD_ALT_NAME": [
       "Closed-Off Bride",
@@ -30098,7 +30161,18 @@
       "Vaida: Dracofang General",
       "Normal Vaida",
       "Base Vaida",
-      "vaida"
+      "vaida",
+      "Ill Portent",
+      "Canis: Ill Portent",
+      "Base Canis",
+      "Normal Canis",
+      "Rearmed Canis",
+      "Rearm Canis",
+      "R Canis",
+      "Arm Canis",
+      "Fallen Canis",
+      "F Canis",
+      "canis"
     ]
   },
   "namakawa": {
@@ -30742,6 +30816,7 @@
   },
   "ecu": {
     "heroes": {
+      "ivy4": "<:Colorless_Tome:1317239438602145842>Fallen Ivy",
       "leila3": "<:Colorless_Dagger:1317239418943438869>Rearmed Leila",
       "vali2": "<:Red_Tome:1317239730714316800>New Year V\u00e1li"
     },
@@ -30763,7 +30838,12 @@
       "Vali: Devoted Sister",
       "New Year Vali",
       "NY Vali",
-      "vali2"
+      "vali2",
+      "Bewitching Ruler",
+      "Ivy: Bewitching Ruler",
+      "Fallen Ivy",
+      "F Ivy",
+      "ivy4"
     ]
   },
   "hayamaeishi": {
@@ -31658,6 +31738,18 @@
       "Normal Naoise",
       "Regular Naoise",
       "naoise"
+    ]
+  },
+  "umio": {
+    "heroes": {
+      "lyn5R": "<:Green_Bow:1317239539936268340>Legendary Lyn (Resplendent)"
+    },
+    "name": "umio",
+    "ALT_NAME": [
+      "Resplendent Legendary Lyn",
+      "Resp Legendary Lyn",
+      "R Legendary Lyn",
+      "Legendary Lyn (Resplendent)"
     ]
   }
 }

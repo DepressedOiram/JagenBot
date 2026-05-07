@@ -46340,15 +46340,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30ea\u30f3",
     "voice": "Wendee Lee",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "umio",
+    "resplendent_voice": "Wendee Lee",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Lyn_Lady_of_the_Wind_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a9/Lyn_Lady_of_the_Wind_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Lyn_Lady_of_the_Wind_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Lyn_Lady_of_the_Wind_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Lyn_Lady_of_the_Wind_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Lyn_Lady_of_the_Wind_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/ff/Lyn_Lady_of_the_Wind_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Lyn_Lady_of_the_Wind_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "elibe"
     ],
@@ -46404,7 +46409,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I will end this swiftly!",
+          "Piercing strike!",
+          "Winds of Sacae...",
+          "I will not miss."
+        ],
+        "Status": [
+          "Mm-hm.",
+          "I am told this is the garb of Yggdrasill. I don't want anyone to mistake me for a Healing Hand, though.",
+          "The wind is strong today...",
+          "It sounds like fun being able to travel through a large tree and arrive anywhere and everywhere.",
+          "Ratatoskr reminds me of the adorable baby squirrels from the plains.",
+          "Good bows are made from good trees and should be cherished.",
+          "I wonder what kind of wind blows in the heights of Yggdrasill's tallest branches.",
+          "I cannot heal your body, but I hope I might heal your heart."
+        ],
+        "Map Select": [
+          "Understood!",
+          "What shall I do?",
+          "I'll stop them."
+        ]
+      }
     },
     "short_name": "Legendary Lyn",
     "SEARCH_NAME": "Legendary Lyn",
@@ -61408,7 +61441,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "tibarn2"
+      "tibarn2",
+      "tibarn3"
     ],
     "prf": {
       "": "hawkkingclaweff",
@@ -74651,7 +74685,8 @@
       "mbyleth3",
       "mbyleth4",
       "mbyleth5",
-      "mbyleth6"
+      "mbyleth6",
+      "mbyleth7"
     ],
     "prf": {
       "": "creatorswordeff",
@@ -100881,7 +100916,8 @@
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
-      "tibarn"
+      "tibarn",
+      "tibarn3"
     ],
     "prf": {
       "": "skypirateclaweff",
@@ -116157,12 +116193,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "banshee\u03b8",
-      "eff": "banshee\u03b8",
-      "atk": "banshee\u03b8",
-      "spd": "banshee\u03b8",
-      "def": "banshee\u03b8",
-      "res": "banshee\u03b8"
+      "": "banshee\u03b8eff",
+      "eff": "banshee\u03b8eff",
+      "atk": "banshee\u03b8atk",
+      "spd": "banshee\u03b8spd",
+      "def": "banshee\u03b8def",
+      "res": "banshee\u03b8res"
     }
   },
   "myrrh3": {
@@ -118311,12 +118347,12 @@
       "eirika10"
     ],
     "prf": {
-      "": "bladeofrenais",
-      "eff": "bladeofrenais",
-      "atk": "bladeofrenais",
-      "spd": "bladeofrenais",
-      "def": "bladeofrenais",
-      "res": "bladeofrenais"
+      "": "bladeofrenaiseff",
+      "eff": "bladeofrenaiseff",
+      "atk": "bladeofrenaisatk",
+      "spd": "bladeofrenaisspd",
+      "def": "bladeofrenaisdef",
+      "res": "bladeofrenaisres"
     }
   },
   "tana3": {
@@ -123560,7 +123596,8 @@
       "mbyleth3",
       "mbyleth4",
       "mbyleth5",
-      "mbyleth6"
+      "mbyleth6",
+      "mbyleth7"
     ],
     "prf": {
       "": "professorialtexteff",
@@ -133208,7 +133245,8 @@
       "Iron Lance": "1",
       "Steel Lance": "2",
       "Unbound Lance": "3",
-      "Unbound Lance+": "5"
+      "Unbound Lance+": "5",
+      "Petulant Lance": "5"
     },
     "assist": {},
     "special": {
@@ -133326,12 +133364,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "unboundlancespd",
-      "eff": "unboundlancespd",
-      "atk": "unboundlanceatk",
-      "spd": "unboundlancespd",
-      "def": "unboundlancedef",
-      "res": "unboundlanceres"
+      "": "petulantlanceeff",
+      "eff": "petulantlanceeff",
+      "atk": "petulantlanceatk",
+      "spd": "petulantlancespd",
+      "def": "petulantlancedef",
+      "res": "petulantlanceres"
     }
   },
   "astrid": {
@@ -137436,7 +137474,8 @@
       "Iron Dagger": "1",
       "Steel Dagger": "2",
       "Vicious Dagger": "3",
-      "Vicious Dagger+": "5"
+      "Vicious Dagger+": "5",
+      "Thief's Dagger": "5"
     },
     "assist": {},
     "special": {
@@ -137549,12 +137588,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "viciousdaggerspd",
-      "eff": "viciousdaggerspd",
-      "atk": "viciousdaggeratk",
-      "spd": "viciousdaggerspd",
-      "def": "viciousdaggerdef",
-      "res": "viciousdaggerres"
+      "": "thiefsdaggereff",
+      "eff": "thiefsdaggereff",
+      "atk": "thiefsdaggeratk",
+      "spd": "thiefsdaggerspd",
+      "def": "thiefsdaggerdef",
+      "res": "thiefsdaggerres"
     }
   },
   "colm": {
@@ -140474,7 +140513,8 @@
       "Stone": "1",
       "Elstone": "2",
       "Hv\u00edtrvulture": "3",
-      "Hv\u00edtrvulture+": "5"
+      "Hv\u00edtrvulture+": "5",
+      "Darkness Tome": "5"
     },
     "assist": {},
     "special": {
@@ -140600,12 +140640,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "hvitrvultureres",
-      "eff": "hvitrvultureres",
-      "atk": "hvitrvultureatk",
-      "spd": "hvitrvulturespd",
-      "def": "hvitrvulturedef",
-      "res": "hvitrvultureres"
+      "": "darknesstomeeff",
+      "eff": "darknesstomeeff",
+      "atk": "darknesstomeatk",
+      "spd": "darknesstomespd",
+      "def": "darknesstomedef",
+      "res": "darknesstomeres"
     }
   },
   "cath": {
@@ -145926,12 +145966,12 @@
     "alt": true,
     "reference": [],
     "prf": {
-      "": "wildtigerfang",
-      "eff": "wildtigerfang",
-      "atk": "wildtigerfang",
-      "spd": "wildtigerfang",
-      "def": "wildtigerfang",
-      "res": "wildtigerfang"
+      "": "wildtigerfangeff",
+      "eff": "wildtigerfangeff",
+      "atk": "wildtigerfangatk",
+      "spd": "wildtigerfangspd",
+      "def": "wildtigerfangdef",
+      "res": "wildtigerfangres"
     }
   },
   "roy5": {
@@ -154227,7 +154267,7 @@
     "name": "Hilda",
     "title": "Helping Hand",
     "description": "Noble of the Leicester Alliance and daughter of House Goneril. Despite lacking enthusiasm for work, she is willing to lend her aid...sometimes. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Essual (\u30a8\u30b7\u30e5\u30a2\u30eb)",
     "move": "Infantry",
     "weapon": "Axe",
@@ -154597,7 +154637,7 @@
     "name": "Shez",
     "title": "Rising Mercenary",
     "description": "A mercenary who wandered F\u00f3dlan. Though ordinarily rational, a burning desire sleeps within him. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Akira Egawa (\u6c5f\u5ddd\u3042\u304d\u3089)",
     "move": "Infantry",
     "weapon": "Sword",
@@ -154787,7 +154827,7 @@
     "name": "Shez",
     "title": "Keen Mercenary",
     "description": "A mercenary who wandered F\u00f3dlan. Though ordinarily rational, a burning desire sleeps within her. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Saori Toyota (\u3068\u3088\u305f\u7463\u7e54)",
     "move": "Infantry",
     "weapon": "Axe",
@@ -154973,7 +155013,7 @@
     "name": "Monica",
     "title": "Favored Vassal",
     "description": "Noble of the Adrestian Empire and daughter of Baron Ochs. Endlessly faithful to Edelgard. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Yo Kanzawa (\u795e\u6fa4\u8449)",
     "move": "Infantry",
     "weapon": "Tome",
@@ -155135,7 +155175,7 @@
     "name": "Holst",
     "title": "Hero of Leicester",
     "description": "Noble of the Leicester Alliance and son of House Goneril. Unmatched in combat, but still prone to doting on his sister, Hilda. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Sainosuke (\u3055\u3044\u306e\u3059\u3051)",
     "move": "Infantry",
     "weapon": "Sword",
@@ -157548,7 +157588,7 @@
     "name": "Arval",
     "title": "Cycle Keeper",
     "description": "A mysterious being who exists on the edge of dreams and reality. Fond of offering advice and intent on providing guidance. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "nijimaarc (\u306b\u3058\u307e\u3042\u308b\u304f)",
     "move": "Infantry",
     "weapon": "Tome",
@@ -161217,7 +161257,7 @@
     "name": "Dorothea",
     "title": "Yuletide Dancer",
     "description": "This charmer has done everything from trodding the boards to studying with the Black Eagles. Here, she will liven up the festival. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Mikuro (\u307f\u304f\u90ce)",
     "move": "Cavalry",
     "weapon": "Tome",
@@ -161889,7 +161929,7 @@
     "name": "Shez",
     "title": "Sharpest Blades",
     "description": "Mercenary that throws herself into the battles of F\u00f3dlan. Defeated countless foes and led many allies to victory. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Noy",
     "move": "Infantry",
     "weapon": "Dagger",
@@ -163738,7 +163778,8 @@
       "mbyleth2",
       "mbyleth4",
       "mbyleth5",
-      "mbyleth6"
+      "mbyleth6",
+      "mbyleth7"
     ],
     "prf": {
       "": "guideshourglass",
@@ -165384,7 +165425,8 @@
     },
     "passive": {
       "A": {
-        "Gift of Magic": "5"
+        "Gift of Magic": "5",
+        "Gift of Magic+": "5"
       },
       "B": {
         "Guard 1": "2",
@@ -165396,7 +165438,11 @@
         "Distant Guard 1": "2",
         "Distant Guard 2": "3",
         "Distant Guard 3": "4",
-        "Joint Dist. Guard": "5"
+        "Joint Dist. Guard": "5",
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Preempt: Ploy": "5"
       },
       "X": {}
     },
@@ -165506,12 +165552,12 @@
       "gotoh2"
     ],
     "prf": {
-      "": "brilliantstarlight",
-      "eff": "brilliantstarlight",
-      "atk": "brilliantstarlight",
-      "spd": "brilliantstarlight",
-      "def": "brilliantstarlight",
-      "res": "brilliantstarlight"
+      "": "brilliantstarlighteff",
+      "eff": "brilliantstarlighteff",
+      "atk": "brilliantstarlightatk",
+      "spd": "brilliantstarlightspd",
+      "def": "brilliantstarlightdef",
+      "res": "brilliantstarlightres"
     }
   },
   "elise4": {
@@ -170414,7 +170460,7 @@
     "name": "Ingrid",
     "title": "Beacon of Honor",
     "description": "Eldest daughter of the Holy Kingdom of Faerghus's House Galatea. Wields her spear with chivalrous intent. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "RIZ3",
     "move": "Flying",
     "weapon": "Lance",
@@ -171622,7 +171668,7 @@
     "name": "Byleth",
     "title": "Vengeance Vessel",
     "description": "An elite mercenary known as the Ashen Demon, but she seems to have changed somehow\u2014and now she seeks vengeance. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Hidari (\u5de6)",
     "move": "Infantry",
     "weapon": "Sword",
@@ -171689,8 +171735,6 @@
     "ALT_NAME": [
       "Byleth: Vengeance Vessel",
       "Vengeance Vessel",
-      "Fallen Byleth",
-      "Fallen Beleth",
       "Fallen Female Byleth",
       "Fallen Byleth Female",
       "Fallen F Byleth",
@@ -171719,18 +171763,14 @@
       "F Beleth Female",
       "F F Beleth",
       "F Beleth F",
-      "Fyleth",
       "Fallen Female Byleth",
-      "Fallen Byleth",
-      "Fallen Beleth",
       "Fallen Byleth Female",
       "Fallen F Byleth",
       "Fallen Byleth F",
       "Fallen Female Beleth",
       "Fallen Beleth Female",
       "Fallen F Beleth",
-      "Fallen Beleth F",
-      "Fallen Byleth"
+      "Fallen Beleth F"
     ],
     "gender": "F",
     "rarity": 5,
@@ -171803,9 +171843,9 @@
       "Back Unit Supporting": false,
       "resplendent": false
     },
-    "short_name": "Fallen Byleth",
+    "short_name": "Fallen Female Byleth",
     "SEARCH_NAME": "Fallen Female Byleth",
-    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Fallen Byleth",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Fallen Female Byleth",
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
@@ -174801,7 +174841,7 @@
     "name": "Shez",
     "title": "Mercenary Shine",
     "description": "A mercenary from F\u00f3dlan given unexpected orders to take some time off seaside in Askr. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "yamanokami (\u3084\u307e\u306e\u304b\u307f)",
     "move": "Cavalry",
     "weapon": "Sword",
@@ -175329,7 +175369,7 @@
     "name": "Shez",
     "title": "Mercenary Shade",
     "description": "A mercenary from F\u00f3dlan having been tasked with taking a vacation at the Askran coast. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Nishiki Areku (\u897f\u6728\u3042\u308c\u304f)",
     "move": "Flying",
     "weapon": "Lance",
@@ -176210,7 +176250,8 @@
     "alt": false,
     "reference": [
       "ivy",
-      "ivy3"
+      "ivy3",
+      "ivy4"
     ],
     "prf": {
       "": "divinedraught",
@@ -177808,7 +177849,11 @@
         "Atk/Def Clash 1": "2",
         "Atk/Def Clash 2": "3",
         "Atk/Def Clash 3": "4",
-        "Atk/Def Clash 4": "5"
+        "Atk/Def Clash 4": "5",
+        "Def/Res Form 1": "2",
+        "Def/Res Form 2": "3",
+        "Def/Res Form 3": "4",
+        "Def/Res Fortune": "5"
       },
       "B": {
         "Lull Atk/Def 1": "2",
@@ -177817,7 +177862,8 @@
         "Lull Atk/Def 4": "5"
       },
       "C": {
-        "Dream Deliverer": "5"
+        "Dream Deliverer": "5",
+        "Dream Deliverer+": "5"
       },
       "X": {}
     },
@@ -177910,12 +177956,12 @@
       "freyr2"
     ],
     "prf": {
-      "": "dreamhorn",
-      "eff": "dreamhorn",
-      "atk": "dreamhorn",
-      "spd": "dreamhorn",
-      "def": "dreamhorn",
-      "res": "dreamhorn"
+      "": "dreamhorneff",
+      "eff": "dreamhorneff",
+      "atk": "dreamhornatk",
+      "spd": "dreamhornspd",
+      "def": "dreamhorndef",
+      "res": "dreamhornres"
     }
   },
   "ayra2": {
@@ -187621,7 +187667,8 @@
       "mbyleth2",
       "mbyleth3",
       "mbyleth5",
-      "mbyleth6"
+      "mbyleth6",
+      "mbyleth7"
     ],
     "prf": {
       "": "holyyuleblade",
@@ -192604,7 +192651,8 @@
     "alt": false,
     "reference": [
       "ivy2",
-      "ivy3"
+      "ivy3",
+      "ivy4"
     ],
     "prf": {
       "": "iceboundtome",
@@ -205575,7 +205623,7 @@
     "name": "Shez",
     "title": "Dual Sword Master",
     "description": "Mercenary that throws himself into the battles of F\u00f3dlan. Defeated countless foes and led many allies to victory. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Hiiragi Akio (\u67ca\u6681\u751f)",
     "move": "Infantry",
     "weapon": "Dagger",
@@ -213026,12 +213074,12 @@
     "reference": [
     ],
     "prf": {
-      "": "pursualaxe",
-      "eff": "pursualaxe",
-      "atk": "pursualaxe",
-      "spd": "pursualaxe",
-      "def": "pursualaxe",
-      "res": "pursualaxe"
+      "": "pursualaxeatk",
+      "eff": "pursualaxeatk",
+      "atk": "pursualaxeatk",
+      "spd": "pursualaxespd",
+      "def": "pursualaxedef",
+      "res": "pursualaxeres"
     }
   },
   "oswin": {
@@ -213193,12 +213241,12 @@
     "reference": [
     ],
     "prf": {
-      "": "campaignlance",
-      "eff": "campaignlance",
-      "atk": "campaignlance",
-      "spd": "campaignlance",
-      "def": "campaignlance",
-      "res": "campaignlance"
+      "": "campaignlancedef",
+      "eff": "campaignlancedef",
+      "atk": "campaignlanceatk",
+      "spd": "campaignlancespd",
+      "def": "campaignlancedef",
+      "res": "campaignlanceres"
     }
   },
   "vaida": {
@@ -213772,7 +213820,7 @@
     "name": "Shez",
     "title": "Snowfield Envoy",
     "description": "A mercenary who wandered F\u00f3dlan alone. Her new mission is assuming the role of winter envoy. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "\u305f\u304f\u307c\u3093",
     "move": "Cavalry",
     "weapon": "Dagger",
@@ -231875,7 +231923,8 @@
       "mbyleth2",
       "mbyleth3",
       "mbyleth4",
-      "mbyleth6"
+      "mbyleth6",
+      "mbyleth7"
     ],
     "prf": {
       "": "sublimecreator",
@@ -237089,7 +237138,7 @@
     "name": "Shez",
     "title": "Covert Mercenary",
     "description": "An accomplished mercenary from F\u00f3dlan. Here, she takes part in the secret-missive scramble as a ninja. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "YOSHIO (\u3088\u3057\u7537)",
     "move": "Infantry",
     "weapon": "Dagger",
@@ -237451,7 +237500,7 @@
     "name": "Shez",
     "title": "Ninja Mercenary",
     "description": "A mercenary who has set foot on many a battlefield. Here, he challenges the secret missive scramble as a ninja. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
+    "origin": "Warriors: Three Hopes",
     "artist": "Okuma Yugo (\u5927\u718a\u3086\u3046\u3054)",
     "move": "Infantry",
     "weapon": "Axe",
@@ -239707,7 +239756,8 @@
     "alt": true,
     "reference": [
       "ivy",
-      "ivy2"
+      "ivy2",
+      "ivy4"
     ],
     "prf": {
       "": "cozycandles",
@@ -243149,7 +243199,8 @@
       "mbyleth2",
       "mbyleth3",
       "mbyleth4",
-      "mbyleth5"
+      "mbyleth5",
+      "mbyleth7"
     ],
     "prf": {
       "": "instructorsopus",
@@ -248806,6 +248857,895 @@
     "boost": {
       "hp": 3,
       "atk": 2
+    }
+  },
+  "canis": {
+    "name": "Canis",
+    "title": "Ill Portent",
+    "description": "One of the mysterious beings known as the 12 Deadlords. Both mind and body are controlled by the Loptr Church. Appears in Fire Emblem: Genealogy of the Holy War / Fire Emblem: Thracia 776.",
+    "origin": "Genealogy of the Holy War + Thracia 776",
+    "artist": "\u2200ir",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Red",
+    "duel": false,
+    "id": "1373",
+    "type": "rearmed",
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 15,
+      "atk": 12,
+      "spd": 13,
+      "def": 4,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 75,
+      "spd": 80,
+      "def": 25,
+      "res": 90
+    },
+    "superboon": [
+      "def",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "atk"
+    ],
+    "weapons": {
+      "Flux": "1",
+      "Ruin": "2",
+      "Fenrir": "3",
+      "Arcane 12's Writ": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Comet": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Aria": "5"
+      },
+      "B": {
+        "Sabotage Spd 1": "2",
+        "Sabotage Spd 2": "3",
+        "Sabotage Spd 3": "4",
+        "Spd/Res Unrest": "5"
+      },
+      "C": {
+        "11th Deadlord": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Canis_Ill_Portent_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Canis_Ill_Portent_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Canis_Ill_Portent_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Canis_Ill_Portent_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Ill Portent",
+      "Canis: Ill Portent",
+      "Base Canis",
+      "Normal Canis",
+      "Rearmed Canis",
+      "Rearm Canis",
+      "R Canis",
+      "Arm Canis",
+      "Fallen Canis",
+      "F Canis",
+      "canis"
+    ],
+    "HARD_ALT_NAME": [
+      "Ill Portent",
+      "Canis: Ill Portent",
+      "Base Canis",
+      "Normal Canis",
+      "Rearmed Canis",
+      "Rearm Canis",
+      "R Canis",
+      "Arm Canis",
+      "Fallen Canis",
+      "F Canis",
+      "canis"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u95c7\u30a8\u30eb\u30d5",
+    "voice": "Heather Halley",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral"
+    ],
+    "chibi": [
+      "fe4",
+      "fe5"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "All I am I dedicate to the dark god as his disciple... Past and future hold no meaning.",
+        "It matters not how pathetic humans attempt to shape the world...",
+        "Sara... I have no memory of her...",
+        "Let us offer ourselves to the dark god together.",
+        "Follow the will of the dark god Loptous. Destroy all humans."
+      ],
+      "Visit": [
+        "Dedicate yourself to the dark god as [F] has."
+      ],
+      "Level": [
+        "Foolish humans, fall before Loptous.",
+        "Offer everything to him!",
+        "His next command..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Canis, the eleventh Deadlord. I offer all to the dark god..."
+      ],
+      "Learn Skill": [
+        "I obey only the voice of my lord..."
+      ],
+      "Confession": [
+        "I am a Deadlord who has given everything to the dark god... That is why I am here...\nDo you...understand, [S]?\nThe voice I hear... The voice of the archbishop... His will is for me to lead you to Loptous.\nWhen the time comes, let us offer ourselves to the resurrection of the dark god... Our flesh and blood..."
+      ],
+      "Special": [
+        "Perish.",
+        "I am his hammer.",
+        "I hear the voice.",
+        "Sacrifice yourself."
+      ],
+      "Status": [
+        "Yes.",
+        "I am the Deadlord, Canis.",
+        "What was that?",
+        "My will is not my own. I exist only to obey another.",
+        "All that I am, I offer to the dark god.",
+        "I hear an order...and I comply.",
+        "Sara? Who is Sara?",
+        "Come, let us offer ourselves to the resurrection of the dark god."
+      ],
+      "Map Select": [
+        "I see.",
+        "I will obey.",
+        "Going."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed Canis",
+    "SEARCH_NAME": "Rearmed Canis",
+    "DISPLAY_NAME": "<:Red_Tome:1317239730714316800>Rearmed Canis",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "arcane12swritres",
+      "eff": "arcane12swritres",
+      "atk": "arcane12swritatk",
+      "spd": "arcane12swritspd",
+      "def": "arcane12swritdef",
+      "res": "arcane12swritres"
+    }
+  },
+  "tibarn3": {
+    "name": "Tibarn",
+    "title": "Storm King",
+    "description": "The hawk king's bitterness rages like a tempest, with no sign of subsiding until vengeance is exacted for the events at Serenes. Appears in Fire Emblem: Radiant Dawn.",
+    "origin": "Radiant Dawn",
+    "artist": "Okuma Yugo (\u5927\u718a\u3086\u3046\u3054)",
+    "move": "Flying",
+    "weapon": "Beast",
+    "color": "Red",
+    "duel": false,
+    "id": "1374",
+    "type": "rearmed",
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 21,
+      "atk": 10,
+      "spd": 9,
+      "def": 13,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 75,
+      "def": 80,
+      "res": 35
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Hatchling (Flier)": "1",
+      "Fledgling (Flier)": "2",
+      "Adult (Flier)": "3",
+      "Arcane Fury Bite": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Sturdy Laguz": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "2",
+        "Atk/Def Clash 2": "3",
+        "Atk/Def Clash 3": "4",
+        "Atk/Def Excel": "5"
+      },
+      "B": {
+        "Chaos Torrent": "5"
+      },
+      "C": {
+        "C Feud 1": "2",
+        "C Feud 2": "3",
+        "C Feud 3": "4",
+        "Dark Beast Agility": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Tibarn_Storm_King_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Tibarn_Storm_King_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/24/Tibarn_Storm_King_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Tibarn_Storm_King_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Storm King",
+      "Tibarn: Storm King",
+      "Rearmed Tibarn",
+      "Rearm Tibarn",
+      "R Tibarn",
+      "Arm Tibarn",
+      "Fallen Tibarn",
+      "F Tibarn",
+      "tibarn3"
+    ],
+    "HARD_ALT_NAME": [
+      "Storm King",
+      "Tibarn: Storm King",
+      "Rearmed Tibarn",
+      "Rearm Tibarn",
+      "R Tibarn",
+      "Arm Tibarn",
+      "Fallen Tibarn",
+      "F Tibarn",
+      "tibarn3"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u95c7\u30c6\u30a3\u30d0\u30fc\u30f3",
+    "voice": "Joe J. Thomas",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "tellius"
+    ],
+    "chibi": [
+      "fe10"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Yune, the goddess of chaos... I have met her before, back when the world was on the brink of destruction...",
+        "I will never forgive the enemies of the bird tribes...",
+        "When is the next battle? I don't think I can keep my talons out of their necks another instant.",
+        "Let's be off...to crush the vermin!",
+        "To the ends of the land and sky, I will pursue those who caused my people suffering. I will make them pay!"
+      ],
+      "Visit": [
+        "You aren't hiding any beorc of the senate, right?"
+      ],
+      "Level": [
+        "In this state, my rage will not subside!",
+        "Which one is my next prey? Soon, I will grant them release.",
+        "I hardly felt that..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Do not approach! I sense I will not be satisfied until I slay all before me!"
+      ],
+      "Learn Skill": [
+        "Hurry and let me loose on the battlefield! Give me prey!"
+      ],
+      "Confession": [
+        "My heart will not settle, no matter how much I fight. My body burns to its core!\nPeople have worried about me before, but... Now, I cannot contain...\nmy hatred toward them...those beorc vermin! And...\nI have an urge to release it all in a rampage of fury... Is that freedom, or is it chaos?\nWhoever the goddess of chaos is, I will find her and sink my talons into her neck!"
+      ],
+      "Special": [
+        "I'll kill you all.",
+        "Beg forgiveness.",
+        "My fury is beyond control!",
+        "Let's finish this."
+      ],
+      "Status": [
+        "-",
+        "I've finally found that butcher. My fellow laguz will be avenged.",
+        "Keep your distance if you want to live.",
+        "He will pay for the Serenes Massacre. He must.",
+        "Chaos is stronger in me than most laguz.",
+        "As long as he draws breath, I will never be satisfied.",
+        "That song... Do you hear it? The herons...",
+        "If my rage ever turns on you... Promise me you won't hesitate."
+      ],
+      "Map Select": [
+        "What is it?",
+        "No more talk.",
+        "I can't be stopped."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed Tibarn",
+    "SEARCH_NAME": "Rearmed Tibarn",
+    "DISPLAY_NAME": "<:Blue_Beast:1317239339452731402>Rearmed Tibarn",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "tibarn",
+      "tibarn2"
+    ],
+    "prf": {
+      "": "arcanefurybitedef",
+      "eff": "arcanefurybitedef",
+      "atk": "arcanefurybiteatk",
+      "spd": "arcanefurybitespd",
+      "def": "arcanefurybitedef",
+      "res": "arcanefurybiteres"
+    }
+  },
+  "mbyleth7": {
+    "name": "Byleth",
+    "title": "Ashen Nightmare",
+    "description": "A mercenary known as the Ashen Demon. Brandishes tyrannical force in battle as if driven by something mysterious. Appears in Fire Emblem Warriors: Three Hopes.",
+    "origin": "Warriors: Three Hopes",
+    "artist": "Dd",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": false,
+    "id": "1375",
+    "type": false,
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 12,
+      "spd": 9,
+      "def": 9,
+      "res": 6
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 50,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Sothis's Wrath": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Sirius Pulse": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Aria": "5"
+      },
+      "B": {
+        "Magic Gambit 1": "2",
+        "Magic Gambit 2": "3",
+        "Magic Gambit 3": "4",
+        "Demonic Force": "5"
+      },
+      "C": {
+        "Dual Support 1": "2",
+        "Dual Support 2": "3",
+        "Dual Support 3": "4",
+        "Dual Support 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/Byleth_Ashen_Nightmare_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Byleth_Ashen_Nightmare_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Byleth_Ashen_Nightmare_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Byleth_Ashen_Nightmare_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Ashen Nightmare",
+      "Byleth: Ashen Nightmare",
+      "Fallen Male Byleth",
+      "Fallen Byleth Male",
+      "Fallen M Byleth",
+      "Fallen Byleth M",
+      "F Male Byleth",
+      "F Byleth Male",
+      "F M Byleth",
+      "F Byleth M",
+      "mbyleth7",
+      "byleth12"
+    ],
+    "HARD_ALT_NAME": [
+      "Ashen Nightmare",
+      "Byleth: Ashen Nightmare",
+      "Fallen Male Byleth",
+      "Fallen Byleth Male",
+      "Fallen M Byleth",
+      "Fallen Byleth M",
+      "F Male Byleth",
+      "F Byleth Male",
+      "F M Byleth",
+      "F Byleth M",
+      "mbyleth7",
+      "byleth12"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "global",
+    "internal_id": "PID_\u95c7\u30d9\u30ec\u30c8",
+    "voice": "Cassandra Lee Morris",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I am here, but why? I swing this blade... Why?",
+        "Much blood has spilled on the land of F\u00f3dlan. Nothing can fix it, not even the wretched, nothing...",
+        "If time led me here, my presence may be significant.",
+        "Your soul is mysterious in color. Its depths evade me, even with my power.",
+        "Sothis is...gone? I see, she is asleep. It is vexing not to be in control of one's own body."
+      ],
+      "Visit": [
+        "Prostrate yourself before me, just as [F] does."
+      ],
+      "Level": [
+        "Ahahaha... I feel the power welling within me!",
+        "Kneel, wretched creatures! Know your place!",
+        "I have yet to adapt to this body..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Stop your impudent staring! My name is Soth\u2014no... My name is Byleth. I am a mercenary!"
+      ],
+      "Learn Skill": [
+        "This is not enough! I require more! You really think this will satisfy me?"
+      ],
+      "Confession": [
+        "It is not just F\u00f3dlan plagued by battle. It is in all worlds and in all ages.\nWhy does one wish for destruction? It is their nature, as if they wish for endless conflict.\nI will never overlook a challenge. No matter who, I will turn them to ash!\nAnd this is not to spread the flames of war. As progenitor god... Urk... My consciousness is being interrupted...\nRemember... Do not drown yourself in rage, [S]...\nMisused power breeds tragedy, as vengeance leads to more vengeance. Please, do not repeat these mistakes."
+      ],
+      "Special": [
+        "Down!",
+        "Burrowing worms.",
+        "Fool!",
+        "Ahehehe..."
+      ],
+      "Status": [
+        "-",
+        "I offer no name to wretches like you. Prostrate yourself.",
+        "You... Do you wish to turn to dust and vanish?",
+        "Your pacing around me is unnerving. Stop.",
+        "Their descendants do adore this vessel.",
+        "You best not think to damage my vessel.",
+        "I am here, but why?! Ugh! I cannot recall!",
+        "Use me? You wouldn't dare. Or do you have the courage? Ahahaha..."
+      ],
+      "Map Select": [
+        "Hm...",
+        "Very well.",
+        "Send them to an early grave."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Fallen Male Byleth",
+    "SEARCH_NAME": "Fallen Male Byleth",
+    "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Fallen Male Byleth",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "mbyleth",
+      "mbyleth2",
+      "mbyleth3",
+      "mbyleth4",
+      "mbyleth5",
+      "mbyleth6"
+    ],
+    "prf": {
+      "": "sothisswrath",
+      "eff": "sothisswrath",
+      "atk": "sothisswrath",
+      "spd": "sothisswrath",
+      "def": "sothisswrath",
+      "res": "sothisswrath"
+    }
+  },
+  "ivy4": {
+    "name": "Ivy",
+    "title": "Bewitching Ruler",
+    "description": "Ruler of Elusia in a different Elyos. A narcissist who is devoted to the Fell Dragon. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "ecu (\u3048\u304F)",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1376",
+    "type": false,
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 7,
+      "def": 4,
+      "res": 13
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 50,
+      "def": 45,
+      "res": 80
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Stone": "1",
+      "Elstone": "2",
+      "Atlas": "3",
+      "Fell Tome": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Logic": "5"
+    },
+    "passive": {
+      "A": {
+        "Final Say": "5"
+      },
+      "B": {
+        "Atk/Res Snag 1": "2",
+        "Atk/Res Snag 2": "3",
+        "Atk/Res Snag 3": "4",
+        "A/R Detect Aerial": "5"
+      },
+      "C": {
+        "Atk/Res Rein 1": "2",
+        "Atk/Res Rein 2": "3",
+        "Atk/Res Rein 3": "4",
+        "A/R Crux: Ploy": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Ivy_Bewitching_Ruler_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Ivy_Bewitching_Ruler_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Ivy_Bewitching_Ruler_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Ivy_Bewitching_Ruler_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Bewitching Ruler",
+      "Ivy: Bewitching Ruler",
+      "Fallen Ivy",
+      "F Ivy",
+      "ivy4"
+    ],
+    "HARD_ALT_NAME": [
+      "Bewitching Ruler",
+      "Ivy",
+      "Fallen Ivy",
+      "F Ivy",
+      "ivy4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "global",
+    "internal_id": "PID_\u95c7\u30a2\u30a4\u30d3\u30fc",
+    "voice": "Reba Buhr",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I dislike the Divine Dragon, who promoted dreams of peace and was killed before accomplishing anything.",
+        "Emblem Soren is the wisest of all the Emblems. It is befitting for a wise and beautiful ruler such as me.",
+        "Elusia worshiped the Fell Dragon. As long as I did too, I was showered with love... That was enough for me.",
+        "My father? The foolish former king? Oh, yes... I offered him up to Lord Sombron, yet to little effect...",
+        "My beauty is top-class, is it not? You must be happy to have summoned me. I will accept your adoration."
+      ],
+      "Visit": [
+        "Feast your eyes on my beauty and shower me with gratitude. I brought a greeting from [F]."
+      ],
+      "Level": [
+        "Hahaha! Wonderful! Go on then, show me just how much you adore me.",
+        "It seems my beauty is even more polished now. Hand me a mirror, would you? I'd like to take it all in.",
+        "What is this? This is not befitting of me."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Ivy, queen of Elusia. You must be happy that one as beautiful as I has come. Very well. Praise me."
+      ],
+      "Learn Skill": [
+        "You intend to dress me up? That makes me happy. I am fond of those who appreciate me."
+      ],
+      "Confession": [
+        "How boring... I don't know if it is because I am a ruler of a country, but no one will speak to me.\nI, of course, will not allow anyone to gaze upon me with impudence. However, you are special...\nCome close. I grant you permission to appreciate my beauty.\nNo? Instead you wish to encourage me with your words? But of course I will bring results on the battlefield.\nWar has always been constant for me. I devoted everything to resurrect Lord Sombron, erasing all in my way.\nI removed my father and my sister from the picture, and I constrained the other countries...\nHowever, in the end... I remember the battle that devastated the Somniel. Could Elyos be... Am I already...\nNo! That is nonsense. I am here now, as beautiful as ever. Ah! Even my reflection in your eyes is ravishing!"
+      ],
+      "Special": [
+        "Loathsome.",
+        "There is no escape.",
+        "Extol me.",
+        "Am I not beautiful?"
+      ],
+      "Status": [
+        "-",
+        "A ruler must keep their nation and people happy. Is that not so?",
+        "Oh? Have you taken an interest in me? Very well. You may adore me to your heart's content!",
+        "Alas, I am exceptionally beautiful. I always have been.",
+        "You wish to deploy me to battle? No. I must pursue my noble purpose of reviving Lord Sombron.",
+        "Both Kagetsu and Zelkov are already gone. They died serving me.",
+        "The very day the Divine Dragon was no more, I ceased playing the game of pretending to be friends with other nations.",
+        "My younger sister has filthy, lowborn blood. I have sent that child to the guillotine countless times. Wait... Countless times? That's...not right..."
+      ],
+      "Map Select": [
+        "Hehehe.",
+        "You cannot look away.",
+        "Where now?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Fallen Ivy",
+    "SEARCH_NAME": "Fallen Ivy",
+    "DISPLAY_NAME": "<:Colorless_Tome:1317239438602145842>Fallen Ivy",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ivy",
+      "ivy2",
+      "ivy3"
+    ],
+    "prf": {
+      "": "felltome",
+      "eff": "felltome",
+      "atk": "felltome",
+      "spd": "felltome",
+      "def": "felltome",
+      "res": "felltome"
+    }
+  },
+  "miklan": {
+    "name": "Miklan",
+    "title": "Destitute Rebel",
+    "description": "Eldest child of Margrave Gautier of the Holy Kingdom of Faerghus. Was disinherited for not having a Crest and fell into banditry. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Daisuke Izuka",
+    "move": "Armored",
+    "weapon": "Beast",
+    "color": "Blue",
+    "duel": false,
+    "id": "1377",
+    "type": false,
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 22,
+      "atk": 10,
+      "spd": 4,
+      "def": 13,
+      "res": 13
+    },
+    "growth": {
+      "hp": 70,
+      "atk": 90,
+      "spd": 35,
+      "def": 80,
+      "res": 79
+    },
+    "superboon": [
+      "hp",
+      "atk",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Whelp (Armored)": "1",
+      "Yearling (Arm.)": "2",
+      "Adult (Armored)": "3",
+      "Gautier Stone": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {
+        "Earth Boost 1": "1",
+        "Earth Boost 2": "2",
+        "Earth Boost 3": "4"
+      },
+      "B": {
+        "Slick Fighter 1": "3",
+        "Slick Fighter 2": "4",
+        "Slick Fighter 3": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Miklan_Destitute_Rebel_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Miklan_Destitute_Rebel_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Miklan_Destitute_Rebel_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Miklan_Destitute_Rebel_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Destitute Rebel",
+      "Miklan: Destitute Rebel",
+      "Fallen Miklan",
+      "F Miklan",
+      "miklan"
+    ],
+    "HARD_ALT_NAME": [
+      "Destitute Rebel",
+      "Miklan: Destitute Rebel",
+      "Fallen Miklan",
+      "F Miklan",
+      "miklan"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "grail",
+    "internal_id": "PID_\u95c7\u30de\u30a4\u30af\u30e9\u30f3",
+    "voice": "Armen Taylor",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Sylvain... If only he didn't have a Crest either...",
+        "House Gautier has fought to protect its people from the north... Heh. They've just been used like tools!",
+        "I'll slow down the enemy. That much I can do. What? You don't trust me enough to turn your back to me?!",
+        "I'll protect the home of those who acknowledged my strength. It's as simple as that!",
+        "Who cares about Crests...or goddesses! I'll survive by my own strength, whether they like it or not."
+      ],
+      "Visit": [
+        "You'll see. I'll take over and make my stronghold out of [F]'s castle."
+      ],
+      "Level": [
+        "So, you think you can take the lance from me, huh? I'll kill you... I'll kill every last one of you!",
+        "Weaklings... You'll regret this!",
+        "This is no time to worry about someone else! Think of a way to win this!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Who needs the goddess's power?! If I have this lance, it doesn't matter who my enemy is. I'll prove it!"
+      ],
+      "Learn Skill": [
+        "This... This is a pittance compared to the Lance of Ruin."
+      ],
+      "Confession": [
+        "What is it? You come to laugh at me?\nSorry... I should know now, you're not that kind of person...\nIt's not unusual for an heir to be disinherited for lack of a Crest. All 10 Elites are the same...\nBut House Gautier needed this more, as they battled the north with the powers of a Crest and a Hero's Relic.\nI knew that! But, still... I proved what I could do as House Gautier's\u2014as my father's son...\nMaybe I panicked and acted hastily... It's too late now! I have no intention of taking a knee..."
+      ],
+      "Special": [
+        "Graaaargh!",
+        "Hurry up and die already!",
+        "As if I'd let you!",
+        "I'll tear you apart!"
+      ],
+      "Status": [
+        "-",
+        "What is it? You want me to crush you?",
+        "Hm? What are you doing here?",
+        "I was the one who decided to break ties with my family. What do I need them for?",
+        "If only I... If I just had a Crest...",
+        "Aaargh! Damn it!",
+        "Heh... So I've even been rejected by this lance...",
+        "How repulsively naive, entrusting such responsibilities to a monster..."
+      ],
+      "Map Select": [
+        "Mm.",
+        "My body...",
+        "AAARGH!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Fallen Miklan",
+    "SEARCH_NAME": "Fallen Miklan",
+    "DISPLAY_NAME": "<:Blue_Beast:1317239339452731402>Fallen Miklan",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "gautierstone",
+      "eff": "gautierstone",
+      "atk": "gautierstone",
+      "spd": "gautierstone",
+      "def": "gautierstone",
+      "res": "gautierstone"
     }
   }
 }

@@ -264,7 +264,7 @@ async def mythic(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-u0b94309sqwg1.png?width=6753&format=png&auto=webp&s=3d80e01f54206cbb58b67f1d9edcf058dfd50ec6")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-plplvy3tnbyg1.png?width=1080&crop=smart&auto=webp&s=20cb0164fd664cfd989a8e280348457665cd992f")
     
     await embed.send(ctx)
 
@@ -272,7 +272,7 @@ async def remix(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-alfonse-v0-2yk1oc4u8qwg1.png?width=1080&crop=smart&auto=webp&s=efe473e07d27873cbf78994e8ebd99d7801d72f0")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-5mmesy3tnbyg1.png?width=1080&crop=smart&auto=webp&s=835b7c7a6f65342efd912510f1b966a4fb343e67")
     
     await embed.send(ctx)
 

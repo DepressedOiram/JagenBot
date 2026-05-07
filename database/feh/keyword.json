@@ -145,6 +145,7 @@
                     "Kindred Tome"
                 ],
                 "Colorless_Tome": [
+                    "Darkness Tome",
                     "Scrolls of Time"
                 ]
             },
@@ -157,11 +158,13 @@
             "A": [
                 "Atk/Spd Hexedge",
                 "Already Dead",
+                "Final Say",
                 "Slate Illusion",
                 "Tunnel Vision"
             ],
             "B": [],
             "C": [
+                "11th Deadlord",
                 "Blood & Thunder"
             ],
             "X": [],
@@ -264,7 +267,8 @@
                 "Fireflood Charm"
             ],
             "A": [
-                "Dragoon Pillar"
+                "Dragoon Pillar",
+                "Gift of Magic+"
             ],
             "B": [
                 "Preempt Amplify"
@@ -509,11 +513,13 @@
                 "Atk/Def Clear",
                 "Divine Toxin",
                 "Dragoon Pillar",
+                "Gift of Magic+",
                 "Obsidian Tactics",
                 "Unfledged God"
             ],
             "B": [
                 "Atk/Res Unrest",
+                "Spd/Res Unrest",
                 "Full Disarm",
                 "Lull Atk/Def 4",
                 "Lull Spd/Def 4",
@@ -610,6 +616,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Truly Inspired",
@@ -805,6 +812,7 @@
                 "Spd/Def Havoc",
                 "Spd/Res Havoc",
                 "Atk/Res Unrest",
+                "Spd/Res Unrest",
                 "Firestorm Dance 3",
                 "Rockslide Dance 3",
                 "Atk/Spd Link 4",
@@ -883,7 +891,8 @@
                 "Royal Exalt Bow"
             ],
             "Dagger": [
-                "Ni\u00f0avellir Sprig"
+                "Ni\u00f0avellir Sprig",
+                "Thief's Dagger"
             ],
             "Tome": {
                 "Red_Tome": [],
@@ -1244,6 +1253,7 @@
             ],
             "Lance": [
                 "Holy Gradivus",
+                "Petulant Lance",
                 "Rearguard Lance",
                 "Springing Spear"
             ],
@@ -1360,7 +1370,9 @@
                     "Gift of Love"
                 ],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Fell Tome"
+                ]
             },
             "Breath": [],
             "Beast": []
@@ -1446,6 +1458,7 @@
                 "Proper Knight"
             ],
             "B": [
+                "Chaos Torrent",
                 "Heavenly Wings"
             ],
             "C": [
@@ -1813,7 +1826,9 @@
             "Breath": [
                 "Frostbite Breath"
             ],
-            "Beast": []
+            "Beast": [
+                "Wild Tiger Fang"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -1844,6 +1859,7 @@
             "assist": [],
             "special": [],
             "A": [
+                "Final Say",
                 "Slate Illusion",
                 "Superior Talent"
             ],
@@ -2014,6 +2030,7 @@
                 "Tangy Sundae",
                 "Tailwind Shuriken",
                 "Temari+",
+                "Thief's Dagger",
                 "Thief's Honesty",
                 "Tropical Juice+",
                 "Tropical Treats+",
@@ -2340,6 +2357,7 @@
                 "Yune's Protection"
             ],
             "C": [
+                "11th Deadlord",
                 "Budding Flower",
                 "Covetous One",
                 "Glittering Anima",
@@ -2981,7 +2999,9 @@
                 "Red_Tome": [],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Darkness Tome"
+                ]
             },
             "Breath": [
                 "Duskstone",
@@ -3122,6 +3142,7 @@
         "reference_weapon": {
             "Sword": [
                 "Azure Twin Edge",
+                "Blade of Renais",
                 "Bonded Blades"
             ],
             "Lance": [
@@ -3328,6 +3349,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Truly Inspired",
@@ -3465,9 +3487,11 @@
             ],
             "A": [],
             "B": [
-                "Atk/Res Unrest"
+                "Atk/Res Unrest",
+                "Spd/Res Unrest"
             ],
             "C": [
+                "11th Deadlord",
                 "Absolute Closure",
                 "Blood & Thunder",
                 "Severance",
@@ -3757,6 +3781,7 @@
                 "Shadow Breath"
             ],
             "Beast": [
+                "Gautier Stone",
                 "Ravager",
                 "Tempered Antler"
             ]
@@ -3770,7 +3795,9 @@
             "B": [
                 "Bushido Tenet"
             ],
-            "C": [],
+            "C": [
+                "Dream Deliverer+"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -3822,6 +3849,7 @@
             "A": [],
             "B": [
                 "Assured Rebirth+",
+                "Chaos Torrent",
                 "Glacial Seal",
                 "Ice Prince's Seal"
             ],
@@ -3953,6 +3981,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Truly Inspired",
@@ -4415,6 +4444,7 @@
                     "Exotic Fruit Juice"
                 ],
                 "Colorless_Tome": [
+                    "Darkness Tome",
                     "Jokers Wild",
                     "Light of Etruria"
                 ]
@@ -4522,6 +4552,7 @@
             "A": [],
             "B": [],
             "C": [
+                "Dream Deliverer+",
                 "Fell Barrier"
             ],
             "X": [],
@@ -4657,6 +4688,7 @@
             "special": [],
             "A": [],
             "B": [
+                "Chaos Torrent",
                 "Lone Wolf",
                 "Matchless Wolf",
                 "True Lone Wolf"
@@ -4709,6 +4741,7 @@
                 "Lion's Heart"
             ],
             "Lance": [
+                "Petulant Lance",
                 "Reginleif",
                 "Starpoint Lance",
                 "United Bouquet"
@@ -4897,7 +4930,8 @@
             ],
             "C": [
                 "A/S Outcry Dull",
-                "A/D Outcry Dull"
+                "A/D Outcry Dull",
+                "11th Deadlord"
             ],
             "X": [],
             "S": [],
@@ -5381,6 +5415,7 @@
                     "Fell Flambeau"
                 ],
                 "Green_Tome": [
+                    "Sothis's Wrath",
                     "Suttungr's Mys.",
                     "Tiger Spirit",
                     "Winter Star"
@@ -5652,12 +5687,14 @@
                 "Spd/Res Catch 4",
                 "Def/Res Catch 4",
                 "Beyond Reason",
+                "Final Say",
                 "Slate Illusion"
             ],
             "B": [
                 "Spd/Res Shackle",
                 "Def/Res Shackle",
                 "Atk/Res Unrest",
+                "Spd/Res Unrest",
                 "Full Disarm",
                 "Deadly Balance",
                 "Deadly Balance+",
@@ -5678,6 +5715,7 @@
                 "Blood & Thunder",
                 "Divine Talon",
                 "Dream Deliverer",
+                "Dream Deliverer+",
                 "Paranoia",
                 "Severance",
                 "Ties of Crimea"
@@ -5799,6 +5837,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Truly Inspired",
@@ -5894,6 +5933,7 @@
         "icon": "potentfollow",
         "reference_weapon": {
             "Sword": [
+                "Blade of Renais",
                 "Ilian Longsword",
                 "Vague Katti"
             ],
@@ -5931,6 +5971,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Sirius Pulse",
                 "True Bane"
             ],
             "A": [
@@ -6024,7 +6065,9 @@
                 ]
             },
             "Breath": [],
-            "Beast": [],
+            "Beast": [
+                "Gautier Stone"
+            ],
             "captain": []
         },
         "reference_skill": {
@@ -6033,6 +6076,7 @@
             ],
             "special": [],
             "A": [
+                "Gift of Magic+",
                 "True Genius"
             ],
             "B": [
@@ -6074,6 +6118,7 @@
         "icon": "pulsefollow",
         "reference_weapon": {
             "Sword": [
+                "Blade of Renais",
                 "Priming Sword"
             ],
             "Lance": [],
@@ -6195,7 +6240,24 @@
         "description": "Unit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Range: 2 Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe. After-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can only be used if unit has Range = 1.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nThis Style is disabled when unit has another \u3010Style\u3011.\nAfter combat where this\u3010Style\u3011 is used, removes this status.",
         "color": "Colorless",
         "icon": "range2style",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [
+                "Blade of Renais"
+            ],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [
                 "Dragon's Twirl"
@@ -6502,6 +6564,7 @@
             "C": [
                 "Connected World",
                 "Dream Deliverer",
+                "Dream Deliverer+",
                 "Opened Domain",
                 "Opened Domain+"
             ],
@@ -6538,7 +6601,9 @@
                 "Fireflood Charm",
                 "Deluge Charm"
             ],
-            "A": [],
+            "A": [
+                "Gift of Magic+"
+            ],
             "B": [],
             "C": [
                 "Atk/Res Liberate"
@@ -6566,10 +6631,12 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
+                    "Arcane 12's Writ",
                     "Fiery Bolganone"
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [
+                    "Sothis's Wrath",
                     "Stark Naglfar"
                 ],
                 "Colorless_Tome": [
@@ -6625,6 +6692,7 @@
             "Tome": {
                 "Red_Tome": [
                     "Agnea's Arrow",
+                    "Arcane 12's Writ",
                     "Banshee \u0398",
                     "Dark Scripture",
                     "Mirage Rod",
@@ -6654,7 +6722,8 @@
                 "Dosing Fang",
                 "Enticing Dose",
                 "New Year Talon",
-                "Quieting Branch"
+                "Quieting Branch",
+                "Wild Tiger Fang"
             ]
         },
         "reference_skill": {
@@ -6678,6 +6747,7 @@
                 "Atk/Def Snag 4",
                 "Spd/Def Snag 4",
                 "Assured Rebirth+",
+                "Chaos Torrent",
                 "Fruit of Life+",
                 "Full Light & Dark",
                 "Holy Soul of Zofia",
@@ -6908,7 +6978,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Sirius Pulse"
+            ],
             "A": [
                 "Slate Illusion"
             ],
@@ -6956,7 +7028,9 @@
             "Axe": [],
             "Staff": [],
             "Bow": [],
-            "Dagger": [],
+            "Dagger": [
+                "Thief's Dagger"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [
@@ -7073,9 +7147,13 @@
                 "Asura Blades"
             ],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Arcane 12's Writ"
+                ],
                 "Blue_Tome": [],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Sothis's Wrath"
+                ],
                 "Colorless_Tome": []
             },
             "Breath": [],
@@ -7309,7 +7387,9 @@
                     "Spring Dawning"
                 ],
                 "Blue_Tome": [],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Sothis's Wrath"
+                ],
                 "Colorless_Tome": [
                     "Pious Offering"
                 ]
@@ -7317,7 +7397,9 @@
             "Breath": [
                 "Fell Surge"
             ],
-            "Beast": []
+            "Beast": [
+                "Gautier Stone"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -7328,7 +7410,9 @@
                 "Reject Tyranny"
             ],
             "B": [],
-            "C": [],
+            "C": [
+                "11th Deadlord"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -7507,6 +7591,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
                 "Truly Inspired",
@@ -7603,7 +7688,24 @@
         "description": "Unit can move up to 3 spaces in any cardinal direction without being affected by movement obstruction effects from skills. (Cannot move through foes or terrain that blocks movement. Granted movement treated as Warp movement.)",
         "color": "Red",
         "icon": "truecharge",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": [
+                "Gautier Stone"
+            ]
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
