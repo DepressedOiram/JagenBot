@@ -391,7 +391,7 @@ function Character:show_skill()
 end
 
 local sword_skills = {"astra", "luna", "sol"}
-local allow_sword = {"myrmidon", "hero", "swordmaster", "thief", "lord", "thieffighter", "dancer"}
+local allow_sword = {"swordfighter", "forester", "swordmaster", "thief", "lord", "thieffighter", "dancer"}
 
 function Character:get_skill()
     if not self:is_child() then

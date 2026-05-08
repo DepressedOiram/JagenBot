@@ -224275,10 +224275,10 @@
       "X": {}
     },
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/65/Alear_Dragon_Youth_Face.webp/revision/latest?cb=20230718043012",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Alear_Dragon_Youth_BtlFace_D.webp/revision/latest?cb=20230718043007",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/Alear_Dragon_Youth_BtlFace_C.webp/revision/latest?cb=20230718043002",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Alear_Dragon_Youth_BtlFace.webp/revision/latest?cb=20230718042947"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Alear_Fell_Dragon_Child_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/27/Alear_Fell_Dragon_Child_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e6/Alear_Fell_Dragon_Child_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Alear_Fell_Dragon_Child_BtlFace.webp/revision/latest/"
     },
     "resplendent_images": false,
     "ALT_NAME": [
@@ -249614,7 +249614,7 @@
       "atk": 90,
       "spd": 35,
       "def": 80,
-      "res": 79
+      "res": 70
     },
     "superboon": [
       "hp",
