@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-ip687z3tnbyg1.png?width=1080&crop=smart&auto=webp&s=429112c0399f41b5aa2fa406898291ce5f4f7e35")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-may-13th-v0-ps1g0z5e5w0h1.png?width=1080&crop=smart&auto=webp&s=918b528ee93a6d23f0cba8a842df85ba6933e542")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-ip687z3tnbyg1.png?width=1080&crop=smart&auto=webp&s=429112c0399f41b5aa2fa406898291ce5f4f7e35")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-may-13th-v0-ps1g0z5e5w0h1.png?width=1080&crop=smart&auto=webp&s=918b528ee93a6d23f0cba8a842df85ba6933e542")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-ip687z3tnbyg1.png?width=1080&crop=smart&auto=webp&s=429112c0399f41b5aa2fa406898291ce5f4f7e35")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-may-13th-v0-ps1g0z5e5w0h1.png?width=1080&crop=smart&auto=webp&s=918b528ee93a6d23f0cba8a842df85ba6933e542")
     
     await embed.send(ctx)
 
@@ -264,7 +264,7 @@ async def mythic(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-plplvy3tnbyg1.png?width=1080&crop=smart&auto=webp&s=20cb0164fd664cfd989a8e280348457665cd992f")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-may-13th-v0-oz6yq9x06w0h1.png?width=1080&crop=smart&auto=webp&s=b3b31755143acdfb7f6cb52101298de01f0cdbd4")
     
     await embed.send(ctx)
 
@@ -272,7 +272,7 @@ async def remix(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-april-30th-v0-5mmesy3tnbyg1.png?width=1080&crop=smart&auto=webp&s=835b7c7a6f65342efd912510f1b966a4fb343e67")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-may-13th-v0-hqaddz5e5w0h1.png?width=1080&crop=smart&auto=webp&s=066a2724a64c9529a3b10a6a11ba29619f1233f5")
     
     await embed.send(ctx)
 
@@ -299,7 +299,7 @@ async def help_command(ctx):
     embed.add_field("Games", read("text/help_main.txt"), True)
     embed.add_field("Other", read("text/help_other.txt"), True)
     
-    embed.attach("image", "https://raw.githubusercontent.com/izumi-niche/OifeyImg/master/icon/help_image.png?raw")
+    embed.attach("image", "text/help_image.png")
     
     await embed.send(ctx)
     
