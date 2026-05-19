@@ -1982,7 +1982,7 @@
         "emote": false,
         "support": {
             "Supported by": "**Ogma:** C-5|B-10|A-16\n**Marth:** C-5|B-10|A-16\n**Kris:** C-5|B-10|A-16",
-            "Supports": "**Phina:** C-5|B-10|A-16\n**Samto:** C-5|B-10|A-16\n**Ogma:** C-5|B-10|A-16"
+            "Supports": "**Phina:** C-5|B-10|A-16\n**Samuel:** C-5|B-10|A-16\n**Ogma:** C-5|B-10|A-16"
         }
     },
     "norne": {
@@ -2091,7 +2091,7 @@
         "emote": false,
         "support": {
             "Supported by": "**Navarre:** C-5|B-10|A-16\n**Caeda:** C-5|B-11|A-18\n**Kris:** C-5|B-11|A-18",
-            "Supports": "**Navarre:** C-5|B-10|A-16\n**Samto:** C-5|B-11|A-18\n**Barst:** C-5|B-11|A-18\n**Yubello:** C-5|B-11|A-18\n**Yumina:** C-5|B-11|A-18\n**Bord:** C-5|B-11|A-18\n**Cord:** C-5|B-11|A-18"
+            "Supports": "**Navarre:** C-5|B-10|A-16\n**Samuel:** C-5|B-11|A-18\n**Barst:** C-5|B-11|A-18\n**Yubello:** C-5|B-11|A-18\n**Yumina:** C-5|B-11|A-18\n**Bord:** C-5|B-11|A-18\n**Cord:** C-5|B-11|A-18"
         }
     },
     "palla": {
@@ -2489,8 +2489,8 @@
             "Supports": "**Sheena:** C-0|B-3|A-6\n**Arran:** C-3|B-6"
         }
     },
-    "samto": {
-        "name": "Samto",
+    "samuel": {
+        "name": "Samuel",
         "type": "playable",
         "portrait": "samto.png",
         "job": "myrmidon",

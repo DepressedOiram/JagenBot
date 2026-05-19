@@ -398,6 +398,7 @@
                 "Spirited Spear+"
             ],
             "Axe": [
+                "Arcane Cake",
                 "Axe of Dusk",
                 "Binding Reginleif",
                 "Blue Yule Axe",
@@ -486,7 +487,8 @@
         "reference_skill": {
             "assist": [
                 "A Fate Changed!",
-                "Pleasant Night"
+                "Pleasant Night",
+                "Tender Vision"
             ],
             "special": [
                 "Windfire Charm",
@@ -659,7 +661,9 @@
                 "Red_Tome": [],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Uniting Bouquet"
+                ]
             },
             "Breath": [
                 "Ancient Voice",
@@ -1363,7 +1367,9 @@
             "Axe": [],
             "Staff": [],
             "Bow": [],
-            "Dagger": [],
+            "Dagger": [
+                "Bride of Life"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [
@@ -1980,6 +1986,7 @@
                 "Blade of Jehanna",
                 "Blade Royale",
                 "Bone Carver+",
+                "Bride of Life",
                 "Brightwind Fans",
                 "Broadleaf Fan+",
                 "Bunny's Egg+",
@@ -2126,7 +2133,9 @@
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Uniting Bouquet"
+                ]
             },
             "Breath": [
                 "Fell Surge",
@@ -2752,6 +2761,7 @@
             "captain": []
         },
         "reference_hero": {
+            "ash4": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Bridal Ash",
             "elincia6": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Duo Elincia",
             "rhea4": "<:feh_duo:1317239462874578975><:Colorless_Breath:1317239411980767363>Valentines Rhea"
         },
@@ -2888,7 +2898,9 @@
             "assist": [
                 "Future Gaze"
             ],
-            "special": [],
+            "special": [
+                "Sei\u00f0r Cannon"
+            ],
             "A": [
                 "Ninja-Zap",
                 "Swift Slice II"
@@ -3148,7 +3160,9 @@
             "Lance": [
                 "Chosen Lance"
             ],
-            "Axe": [],
+            "Axe": [
+                "Arcane Cake"
+            ],
             "Staff": [
                 "Staff of Yngvi"
             ],
@@ -3175,7 +3189,8 @@
         },
         "reference_skill": {
             "assist": [
-                "Pleasant Night"
+                "Pleasant Night",
+                "Tender Vision"
             ],
             "special": [],
             "A": [
@@ -3773,7 +3788,9 @@
                 "Red_Tome": [],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Uniting Bouquet"
+                ]
             },
             "Breath": [
                 "Flamelick Breath",
@@ -4537,7 +4554,9 @@
                 "Red_Tome": [],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Uniting Bouquet"
+                ]
             },
             "Breath": [],
             "Beast": [
@@ -4879,6 +4898,7 @@
                 "Worldly Lance"
             ],
             "Axe": [
+                "Arcane Cake",
                 "Gerbera Axe",
                 "Praise-Piner Axe",
                 "Twin Star Axe",
@@ -5584,6 +5604,7 @@
                 "Geidriful"
             ],
             "Axe": [
+                "Arcane Cake",
                 "Arthur's Axe",
                 "Axe of Dusk",
                 "Hel's Reaper",
@@ -5670,7 +5691,8 @@
         "reference_skill": {
             "assist": [
                 "Maiden's Solace",
-                "Pleasant Night"
+                "Pleasant Night",
+                "Tender Vision"
             ],
             "special": [
                 "Great Sacrifice",
@@ -5948,7 +5970,8 @@
                 "Royal Exalt Bow"
             ],
             "Dagger": [
-                "Abyssal Blade"
+                "Abyssal Blade",
+                "Bride of Life"
             ],
             "Tome": {
                 "Red_Tome": [],
@@ -5971,6 +5994,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Sei\u00f0r Cannon",
                 "Sirius Pulse",
                 "True Bane"
             ],
@@ -6408,7 +6432,8 @@
         },
         "reference_skill": {
             "assist": [
-                "Pleasant Night"
+                "Pleasant Night",
+                "Tender Vision"
             ],
             "special": [],
             "A": [],
@@ -6418,7 +6443,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "ash4": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Bridal Ash"
+        },
         "HARD_ALT_NAME": []
     },
     "reposition": {
@@ -7752,7 +7779,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Sei\u00f0r Cannon"
+            ],
             "A": [],
             "B": [],
             "C": [

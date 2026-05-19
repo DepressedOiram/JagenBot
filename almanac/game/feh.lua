@@ -336,7 +336,7 @@ function Character:get_info()
     end
 
     if self:is_chosen() then
-        text = text .. string.format("%s**%s Clash**", self:blessing_icon(), self.data.blessing)
+        text = text .. string.format("%s**%s Clash**\n", self:blessing_icon(), self.data.blessing)
     end
     
     -- Check for Duel

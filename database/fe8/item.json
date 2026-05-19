@@ -743,7 +743,7 @@
         },
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (31 - Luck)%"
+            "Backfire Rate": "(31 - Luck)%"
         }
     },
     "handaxe": {

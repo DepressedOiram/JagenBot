@@ -2316,7 +2316,8 @@
         "kronya": "3",
         "gangrel": "3",
         "claude4": "3",
-        "perne": "3"
+        "perne": "3",
+        "eir4": "3"
       }
     },
     "refine": {
@@ -5420,7 +5421,8 @@
         "seidr3": "3",
         "sedgar2": "3",
         "mbyleth6": "3",
-        "ingrid5": "3"
+        "ingrid5": "3",
+        "eir4": "3"
       }
     },
     "refine": {},
@@ -5984,7 +5986,8 @@
         "olivia4": "3",
         "plumeria4": "3",
         "peony4": "3",
-        "ninian5": "3"
+        "ninian5": "3",
+        "peony5": "3"
       }
     },
     "refine": {},
@@ -6193,7 +6196,8 @@
         "mbyleth6": "3",
         "lucina10": "3",
         "lyon6": "3",
-        "canis": "3"
+        "canis": "3",
+        "ash4": "3"
       }
     },
     "refine": {},
@@ -6397,7 +6401,8 @@
         "mbyleth6": "4",
         "lucina10": "4",
         "lyon6": "4",
-        "canis": "4"
+        "canis": "4",
+        "ash4": "4"
       }
     },
     "refine": {},
@@ -7829,7 +7834,8 @@
         "ingrid5": "3",
         "naoise": "3",
         "tibarn3": "3",
-        "miklan": "3"
+        "miklan": "3",
+        "reginn4": "3"
       }
     },
     "refine": {},
@@ -8047,7 +8053,8 @@
         "ingrid5": "4",
         "naoise": "4",
         "tibarn3": "4",
-        "miklan": "4"
+        "miklan": "4",
+        "reginn4": "4"
       }
     },
     "refine": {},
@@ -11411,7 +11418,8 @@
         "chrom6": "5",
         "camilla8": "5",
         "arlen": "4",
-        "nergal": "4"
+        "nergal": "4",
+        "ash4": "4"
       }
     },
     "refine": {},
@@ -15021,7 +15029,8 @@
         "eliwood6": "4",
         "ingrid5": "4",
         "claude8": "4",
-        "lachesis3": "4"
+        "lachesis3": "4",
+        "reginn4": "4"
       },
       "Hone Spd 2": {
         "sigrun": "4",
@@ -17692,7 +17701,8 @@
         "leonardo": "4",
         "alfonse5": "4",
         "askr3": "4",
-        "alfonse6": "4"
+        "alfonse6": "4",
+        "reginn4": "4"
       },
       "Guard 2": {},
       "Guard 1": {}
@@ -49487,7 +49497,8 @@
         "selkie": "5",
         "mila": "5",
         "anna2": "5",
-        "claud": "4"
+        "claud": "4",
+        "ash4": "4"
       },
       "Sabotage Atk 2": {},
       "Sabotage Atk 1": {}
@@ -72643,7 +72654,8 @@
         "deen": "4",
         "mia3": "5",
         "lucina8": "4",
-        "sedgar2": "4"
+        "sedgar2": "4",
+        "eir4": "4"
       },
       "Spd/Def Snag 2": {},
       "Spd/Def Snag 1": {}
@@ -75877,24 +75889,13 @@
       "sigurd2",
       "Sigurd: Destined Duo",
       "Destined Duo",
-      "Duo Sigurd",
-      "Harmonic Sigurd",
-      "Harmonized Sigurd",
-      "Dancer Sigurd",
-      "Duo Siglud",
-      "Harmonic Siglud",
-      "Harmonized Siglud",
       "Dancer Siglud",
-      "Duo Zigludo",
-      "Harmonic Zigludo",
-      "Harmonized Zigludo",
       "Dancer Zigludo",
       "zigludo2",
       "siglud2",
       "D Sigurd",
       "D Siglud",
-      "D Zigludo",
-      "Digurd"
+      "D Zigludo"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -96724,7 +96725,8 @@
     "reference": {
       "Spd Cantrip 3": {
         "mirabilis2": "5",
-        "dorothea": "4"
+        "dorothea": "4",
+        "peony5": "4"
       },
       "Spd Cantrip 2": {},
       "Spd Cantrip 1": {}
@@ -111962,7 +111964,10 @@
       "L Shez Female",
       "L F Shez",
       "L Shez F",
-      "Lhez"
+      "Lhez",
+      "infinite",
+      "Infinite",
+      "Infinite: Sharpest Blades"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -144009,7 +144014,8 @@
       "Shadow Smite 2": {},
       "Shadow Smite 3": {},
       "Shadow Smite 4": {
-        "plumeria4": "5"
+        "plumeria4": "5",
+        "peony5": "5"
       }
     },
     "icon": 2379,
@@ -144896,7 +144902,8 @@
       "Blue Skies 3": {
         "mia6": "4",
         "thorr3": "4",
-        "eliwood6": "4"
+        "eliwood6": "4",
+        "reginn4": "4"
       },
       "Blue Skies 4": {
         "eirika9": "5",
@@ -153516,7 +153523,8 @@
         "fshez5": "5",
         "lute3": "5",
         "lyon6": "5",
-        "canis": "5"
+        "canis": "5",
+        "ash4": "5"
       }
     },
     "icon": false,
@@ -156501,7 +156509,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -156531,7 +156539,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -156652,7 +156660,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -156771,7 +156779,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -156849,7 +156857,7 @@
         "name": "Festive Report",
         "description": "Foes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).\nFoes cannot warp into spaces within 4 spaces of unit (does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains).\nAt start of turn, inflicts\u3010Share Spoils+\u3011 on closest foes and any foe within 2 spaces of those foes through their next actions.\nInflicts Atk/Res-5 on foe, foe cannot make a follow-up attack, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), and reduces damage from foe's attacks by 20% of unit's Res during combat (excluding area-of-effect Specials). When unit's Special triggers, calculates damage using 150% of unit's Res instead of the value of unit's Atk (excluding area-of-effect Specials).\n\u3010Share Spoils+\u3011\nInflicts Atk/Spd/Def/Res-5 on unit during combat and neutralizes \"reduces damage by X%\" effects from unit's non-Special skills (excluding area-of-effect Specials).\nOnce per turn for the entire map, if foe initiates combat and if unit is defeated in combat, grants another action to that foe after combat (this effect has priority over other similar effects aside from Share Spoils; if this status and Share Spoils are both active at the same time, they are both treated as having been triggered; other similar effects aside from Share Spoils are treated as not having triggered).",
         "stats": {
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Passive B",
@@ -158739,7 +158747,8 @@
     "reference": {
       "Blue-Sky Gust": {
         "mia6": "5",
-        "eliwood6": "5"
+        "eliwood6": "5",
+        "reginn4": "5"
       }
     },
     "refine": {},
@@ -161005,7 +161014,8 @@
     ],
     "reference": {
       "A/S Outcry Seize": {
-        "eliwood6": "5"
+        "eliwood6": "5",
+        "reginn4": "5"
       }
     },
     "refine": {},
@@ -161772,7 +161782,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -162074,7 +162084,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -162978,7 +162988,8 @@
     ],
     "reference": {
       "Atk/Res Unrest": {
-        "lyon6": "5"
+        "lyon6": "5",
+        "ash4": "5"
       }
     },
     "refine": {},
@@ -163220,7 +163231,7 @@
         "stats": {
           "mt": "14",
           "rng": "2",
-          "sp": "400"
+          "sp": "300"
         },
         "exclusive": true,
         "slot": "Weapon",
@@ -163725,7 +163736,7 @@
         "stats": {
           "mt": "14",
           "rng": "1",
-          "sp": "300"
+          "sp": "400"
         },
         "exclusive": false,
         "slot": "Weapon",
@@ -163751,6 +163762,534 @@
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
+    "wpn": false
+  },
+  "unitingbouquet": {
+    "name": "Uniting Bouquet",
+    "skill": [
+      {
+        "name": "Uniting Bouquet",
+        "description": "Accelerates Special trigger (cooldown count-1).\nIf a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +5.\nAt start of player phase or enemy phase, grants Atk/Def/Res+6,\u3010Fringe Bonus\u3011,\u3010Bulwark\u3011, and \u3010Imbue\u3011to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Def/Res+16 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), and grants Special cooldown count-X to unit before unit's first attack during combat (X = the number of allies within 3 rows or 3 columns centered on unit; max 3).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Uniting Bouquet": {
+        "ash4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Uniting Bouquet",
+      "Divergent Brides",
+      "Ash: Divergent Brides",
+      "Wedding Ash",
+      "B Ash",
+      "W Ash",
+      "Bride Ash",
+      "Bridal Ash",
+      "Duo Ash",
+      "D Ash",
+      "ash4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg346"
+  },
+  "closeadrbond": {
+    "name": "Close A D R Bond",
+    "skill": [
+      {
+        "name": "Close A/D/R Bond",
+        "description": "Unit can counterattack regardless of foe's range.\nIf unit is within 3 spaces of an ally, grants Atk/Def/Res+10 to unit, neutralizes unit's penalties to Atk/Def/Res, and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Close Counter"
+        ],
+        "exclusive": false,
+        "slot": "Passive A",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Close A/D/R Bond": {
+        "ash4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2698,
+    "HARD_ALT_NAME": [
+      "Close A/D/R Bond"
+    ],
+    "ALT_NAME": [
+      "Close Atk/Def/Res Bond",
+      "Close Attack/Defense/Resistance Bond"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "inauguralvessel": {
+    "name": "Inaugural Vessel",
+    "skill": [
+      {
+        "name": "Inaugural Vessel",
+        "description": "Allies within 2 spaces can move to any space within 2 spaces of unit.\nIf there are 3 or more allies within 3 rows or 3 columns centered on unit, triggers the following: grants weapon-triangle advantage against and inflicts weapon-triangle disadvantage on red, blue, and green foes during combat; neutralizes effects that boost values along with weapon-triangle advantage or reduce values along with weapon-triangle disadvantage (Triangle Adept) on unit and foe.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Def/Res+5, deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally during combat, and unit's or ally's next attack deals damage = 40% of foe's first-attack damage prior to reductions during combat (resets at end of combat; only highest value applied; does not stack).\nUnit makes a guaranteed follow-up attack during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Inaugural Vessel": {
+        "ash4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2699,
+    "HARD_ALT_NAME": [
+      "Inaugural Vessel"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "arcanecake": {
+    "name": "Arcane Cake",
+    "skill": [
+      {
+        "name": "Arcane Cake",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Def/Res+6,\u3010Empathy\u3011, and \"neutralizes foe's bonuses during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Empathy\u3011\nGrants bonus to unit's Atk/Spd/Def/Res = number of types of Bonus effects, excluding stat bonuses, and Penalty effects, excluding stat penalties, active on player team and enemy team during combat (max 7).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Arcane Cake": {
+        "reginn4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Arcane Cake",
+      "Full-Tilt Bride",
+      "Reginn: Full-Tilt Bride",
+      "Wedding Reginn",
+      "B Reginn",
+      "W Reginn",
+      "Bride Reginn",
+      "Bridal Reginn",
+      "Wedding Rearmed Reginn",
+      "B Rearmed Reginn",
+      "W Rearmed Reginn",
+      "Bride Rearmed Reginn",
+      "Bridal Rearmed Reginn",
+      "Rearmed Wedding Reginn",
+      "Rearmed B Reginn",
+      "Rearmed W Reginn",
+      "Rearmed Bride Reginn",
+      "Rearmed Bridal Reginn",
+      "Wedding Rearm Reginn",
+      "B Rearm Reginn",
+      "W Rearm Reginn",
+      "Bride Rearm Reginn",
+      "Bridal Rearm Reginn",
+      "Rearm Bridal Reginn",
+      "Rearm B Reginn",
+      "Rearm W Reginn",
+      "Rearm Bride Reginn",
+      "Rearm Bridal Reginn",
+      "Wedding R Reginn",
+      "B R Reginn",
+      "W R Reginn",
+      "Bride R Reginn",
+      "Bridal R Reginn",
+      "R Wedding Reginn",
+      "R B Reginn",
+      "R W Reginn",
+      "R Bride Reginn",
+      "R Bridal Reginn",
+      "Wedding Arm Reginn",
+      "B Arm Reginn",
+      "W Arm Reginn",
+      "Bride Arm Reginn",
+      "Bridal Arm Reginn",
+      "Arm Wedding Reginn",
+      "Arm B Reginn",
+      "Arm W Reginn",
+      "Arm Bride Reginn",
+      "Arm Bridal Reginn",
+      "reginn4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax193"
+  },
+  "seidrcannon": {
+    "name": "Sei\u00f0r Cannon",
+    "skill": [
+      {
+        "name": "Sei\u00f0r Cannon",
+        "description": "Boosts damage by 80% of unit's Spd and calculates damage using the lower of foe's Def or Res when Special triggers.\nAt start of player phase or enemy phase, grants\u3010Truly Incited\u3011and\u3010Dodge\u3011to unit and allies within 2 spaces of unit for 1 turn.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials) and grants Special cooldown count-X to unit before unit's first attack and before unit's first follow-up attack during combat (on turns 1 through 4, X = 3; otherwise, X = 1).\nOn turns 1 through 4, or if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "cooldown": "4",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sei\u00f0r Cannon": {
+        "reginn4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sei\u00f0r Cannon",
+      "Seidr Cannon",
+      "Seior Cannon"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "riptideguard": {
+    "name": "Riptide Guard",
+    "skill": [
+      {
+        "name": "Riptide Guard",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Guard 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Inflicts Atk/Spd/Def/Res-4 on foe, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; X = 20% of the greater of unit's Spd/Def), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, neutralizes effects that grant \"Special cooldown charge +X\" to foe, and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed foe's maximum Special cooldown)."
+      }
+    ],
+    "reference": {
+      "Riptide Guard": {
+        "reginn4": "5"
+      }
+    },
+    "icon": 2701,
+    "HARD_ALT_NAME": [
+      "Riptide Guard"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "brideoflife": {
+    "name": "Bride of Life",
+    "skill": [
+      {
+        "name": "Bride of Life",
+        "description": "Enables\u3010Canto (Dist.; Max \uff13, Min \uff11)\u3011.\nAccelerates Special trigger (cooldown count-1).\nIf a Rally or movement Assist skill is used by unit, grants another action to unit (once per turn; if another effect that grants action to unit has been activated at the same time, this effect is also considered to have been triggered).\nIf a Rally or movement Assist skill is used by unit or targets unit, restores 20 HP to allies within 2 spaces of both unit and target ally or unit and targeting ally after movement (including unit and that ally), and then neutralizes remaining negative status effects (does not stack even if effect ranges of unit and ally overlap).\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nEffect: \u3010Dagger \uff17\u3011",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Dagger",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Bride of Life": {
+        "eir4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Bride of Life",
+      "Until Death",
+      "Eir: Until Death",
+      "Wedding Eir",
+      "B Eir",
+      "W Eir",
+      "Bride Eir",
+      "Bridal Eir",
+      "eir4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_dg109"
+  },
+  "sddetectaerial": {
+    "name": "S D Detect Aerial",
+    "skill": [
+      {
+        "name": "S/D Detect Aerial",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Spd/Def Snag 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Bow",
+            "Red_Dagger",
+            "Red_Tome",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Blue_Tome",
+            "Green_Bow",
+            "Green_Dagger",
+            "Green_Tome",
+            "Colorless_Bow",
+            "Colorless_Dagger",
+            "Colorless_Tome"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "For foes on the map whose Res < unit's Res at start of combat, inflicts Spd/Def-5, neutralizes foe's bonuses to Spd/Def, and foe suffers +10 damage during combat (excluding area-of-effect Specials).\nInflicts Spd/Def-4 on foe, and unit deals +8 damage during combat (excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "S/D Detect Aerial": {
+        "eir4": "5"
+      }
+    },
+    "icon": 2702,
+    "HARD_ALT_NAME": [
+      "S/D Detect Aerial"
+    ],
+    "ALT_NAME": [
+      "Spd/Def Detect Aerial",
+      "Speed/Defense Detect Aerial"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "exuberantboost": {
+    "name": "Exuberant Boost",
+    "skill": [
+      {
+        "name": "Exuberant Boost",
+        "description": "Disables foe's skills that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials).\nFor unit and certain target allies, grants Atk/Spd/Def/Res+5, deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and grants Special cooldown count-1 to unit or ally before their first attack during combat (target allies are allies within 3 rows or 3 columns centered on unit, or allies on the map with HP \u2265 50% at start of combat; does not stack even if both conditions are met).\nUnit deals +X damage (excluding area-of-effect Specials; X = 6 \u00d7 number of allies on map with HP \u2265 50%, excluding unit; max 18), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per combat; does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce HP to 0).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Exuberant Boost": {
+        "eir4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2703,
+    "HARD_ALT_NAME": [
+      "Exuberant Boost"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "braidedblade": {
+    "name": "Braided Blade",
+    "skill": [
+      {
+        "name": "Braided Blade",
+        "description": "Accelerates Special trigger (cooldown count-1). Unit can move through foes' spaces.\nUnit can move to a space within 2 spaces of any ally within 2 spaces of unit.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, deals +10 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 10 (excluding area-of-effect Specials), and grants Special cooldown count-1 before their first attack during combat.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and grants Special cooldown count-1 before unit's first attack during combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Braided Blade": {
+        "peony5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Braided Blade",
+      "Interwoven Dream",
+      "Peony: Interwoven Dream",
+      "Wedding Peony",
+      "B Peony",
+      "W Peony",
+      "Bride Peony",
+      "Bridal Peony",
+      "peony5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw218"
+  },
+  "tendervision": {
+    "name": "Tender Vision",
+    "skill": [
+      {
+        "name": "Tender Vision",
+        "stats": {
+          "rng": "1",
+          "sp": "400"
+        },
+        "required": [
+          "Dance"
+        ],
+        "slot": "Assist",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants another action to target ally, and if Canto has already been triggered by target ally, re-enables Canto.\nAt start of player phase or enemy phase, grants \u3010Reflex\u3011and\u3010Empathy\u3011to unit and allies within 3 spaces of unit for 1 turn.\nAfter start-of-turn effects trigger on player phase, and after start-of-turn effects trigger on enemy phase (except for in Summoner Duels), for unit and allies within 3 spaces of unit, neutralizes stat penalties and two\u3010Penalty\u3011 effects (does not apply to Penalty effects that are applied at the same time; neutralizes the first applicable Penalty effects on unit's or ally's list of active effects).\n(Cannot target an ally with Sing or Dance. This skill treated as Sing or Dance.)"
+      }
+    ],
+    "reference": {
+      "Tender Vision": {
+        "peony5": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Tender Vision"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "spddefallure": {
+    "name": "Spd Def Allure",
+    "skill": [
+      {
+        "name": "Spd/Def Allure",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Spd Cantrip 3",
+          "Def Cantrip 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Cannot** be used by: ",
+          [
+            "Colorless_Staff"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "When unit is equipped with Sing or Dance as an Assist skill, triggers the following: enables \u3010Canto (Dist. +1; Max \uff14, Min \uff12)\u3011; at start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7,\u3010Sabotage\u3011, \u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011on closest foes and any foe within 2 spaces of those foes through their next actions; inflicts Spd/Def-4 on foe, unit deals +15 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.\n\u3010Canto (Dist. +1; Max \uff14, Min \uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1 (max \uff14; min \uff12; if unit used a movement skill that warped them, unit can move \uff12 space(s).)"
+      }
+    ],
+    "reference": {
+      "Spd/Def Allure": {
+        "peony5": "5"
+      }
+    },
+    "icon": 2702,
+    "HARD_ALT_NAME": [
+      "Spd/Def Allure"
+    ],
+    "ALT_NAME": [
+      "S/D Allure",
+      "Speed/Defense Allure"
+    ],
+    "slot": "Passive B",
     "wpn": false
   }
 }

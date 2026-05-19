@@ -108,7 +108,8 @@
         },
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (31 - Luck)%\nBackfire damage: Calculate damage as if user attacked themselves"
+            "Backfire Rate": "(31 - Luck)%",
+            "Backfire Damage": "Calculate damage as if user attacked themselves. Tripled if Critical."
         }
     },
     "wyrmslayer": {
@@ -614,7 +615,8 @@
         },
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (31 - Luck)%\nBackfire damage: Calculate damage as if user attacked themselves"
+            "Backfire Rate": "(31 - Luck)%",
+            "Backfire Damage": "Calculate damage as if user attacked themselves. Tripled if Critical."
         }
     },
     "braveaxe": {

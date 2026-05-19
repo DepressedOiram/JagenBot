@@ -325,7 +325,9 @@
             "wexp": 2
         },
         "desc": "Exalted Sword of the Creator. Byleth alone can wield it. Enables Sublime Heaven.",
-        "reference": {},
+        "reference": {
+            "Other Effects": "For Non-Byleth Users: Wt: +10, Rng: 1"
+        },
         "weapon": true
     },
     "swordofbegalta": {
@@ -391,7 +393,9 @@
             "wexp": 2
         },
         "desc": "Grants Byleth alone its power and the ability to use Ruptured Heaven.",
-        "reference": {},
+        "reference": {
+            "Other Effects": "For Non-Byleth Users: Wt: +10, Rng: 1"
+        },
         "weapon": true
     },
     "swordofzoltan": {

@@ -756,7 +756,8 @@
         },
         "weapon": true,
         "reference": {
-            "Other Effects": "Unused.\nBackfire rate: Unknown"
+            "Backfire Rate": "Unknown",
+            "Notes": "Unused."
         }
     },
     "veninaxe": {

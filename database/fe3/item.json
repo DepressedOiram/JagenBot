@@ -179,7 +179,7 @@
         "type": "weapon",
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (21 - Luck)%"
+            "Backfire Rate": "(21 - Luck)%"
         }
     },
     "mastersword": {
@@ -482,7 +482,7 @@
         "type": "weapon",
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (21 - Luck)%"
+            "Backfire Rate": "(21 - Luck)%"
         }
     },
     "handaxe": {

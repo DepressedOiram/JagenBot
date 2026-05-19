@@ -186,7 +186,7 @@
         },
         "desc": "Enrages foe.",
         "reference": {
-            "Other Effects": "Infliction rate: (30 - Foe's Resistance)%.\nIf foe has 31 Resistance or more the infliction rate becomes 100%."
+            "Infliction Rate": "(30 - Foe's Resistance)%.\nIf foe has 31 Resistance or more the infliction rate becomes 100%."
         },
         "ALT_NAME": [
             "berserk edge"
@@ -226,7 +226,7 @@
         },
         "desc": "Puts foe to sleep.",
         "reference": {
-            "Other Effects": "Infliction rate: (30 - Foe's Resistance)%.\nIf foe has 31 Resistance or more the infliction rate becomes 100%."
+            "Infliction Rate": "(30 - Foe's Resistance)%.\nIf foe has 31 Resistance or more the infliction rate becomes 100%."
         },
         "weapon": true,
         "ALT_NAME": [
@@ -449,7 +449,7 @@
         "desc": "Silences foe.",
         "reference": {
             "Notes": "Unused.",
-            "Other Effects": "Infliction rate: (30 - Foe's Resistance)%.\nIf foe has 31 Resistance or more the infliction rate becomes 100%."
+            "Infliction Rate": "(30 - Foe's Resistance)%.\nIf foe has 31 Resistance or more the infliction rate becomes 100%."
         },
         "weapon": true
     },
@@ -1578,13 +1578,10 @@
             "price per use": 100,
             "sell": 2500
         },
-        "desc": "Restores HP to an adjacent ally.",
+        "desc": "Restores 10 HP + User's Magic to an adjacent ally.",
         "ALT_NAME": [
             "heal"
         ],
-        "reference": {
-            "Other Effects": "Healing calculation: (10 + Magic)"
-        },
         "weapon": false
     },
     "mendstaff": {
@@ -1604,7 +1601,7 @@
             "mend"
         ],
         "reference": {
-            "Other Effects": "Healing calculation: [20 + (Magic \u00d7 2)]"
+            "Healing Calculation": "20 + (User's Magic \u00d7 2)"
         },
         "weapon": false
     },
@@ -1638,13 +1635,10 @@
             "price per use": 500,
             "sell": 2500
         },
-        "desc": "Restores HP to one ally up to 10 spaces away.",
+        "desc": "Restores 10 HP + User's Magic to one ally up to 10 spaces away.",
         "ALT_NAME": [
             "physic"
         ],
-        "reference": {
-            "Other Effects": "Healing calculation: (10 + Magic)"
-        },
         "weapon": false
     },
     "fortifystaff": {
@@ -1659,10 +1653,7 @@
             "price per use": 1500,
             "sell": 7500
         },
-        "desc": "Restores HP to all allies in a 10 space radius.",
-        "reference": {
-            "Other Effects": "Healing calculation: (10 + Magic)"
-        },
+        "desc": "Restores 10 HP + User's Magic to all allies in a 10 space radius.",
         "ALT_NAME": [
             "reserve",
             "reservestaff",
@@ -1760,7 +1751,7 @@
             "silence"
         ],
         "reference": {
-            "Other Effects": "Infliction rate: If (Magic > Foe's Resistance)"
+            "Infliction Rate": "If (User's Magic > Foe's Resistance)"
         },
         "weapon": false
     },
@@ -1780,7 +1771,7 @@
             "sleep"
         ],
         "reference": {
-            "Other Effects": "Infliction rate: If (Magic > Foe's Resistance)"
+            "Infliction Rate": "If (User's Magic > Foe's Resistance)"
         },
         "weapon": false
     },
@@ -1800,7 +1791,7 @@
             "berserk"
         ],
         "reference": {
-            "Other Effects": "Infliction rate: If (Magic > Foe's Resistance)"
+            "Infliction Rate": "If (User's Magic > Foe's Resistance)"
         },
         "weapon": false
     },

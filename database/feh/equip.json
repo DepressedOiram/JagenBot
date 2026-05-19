@@ -24278,10 +24278,53 @@
     "refine": false
   },
   "jokerswild": {
-    "name": "Jokers Wild",
+    "name": "Jokers Wild (Unrefined)",
     "bonus": {
       "hp": 5,
       "atk": 14
+    },
+    "refine": "Jokers Wild"
+  },
+  "jokerswildeff": {
+    "name": "Jokers Wild (Eff)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14
+    },
+    "refine": false
+  },
+  "jokerswildatk": {
+    "name": "Jokers Wild (Atk)",
+    "bonus": {
+      "hp": 7,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "jokerswildspd": {
+    "name": "Jokers Wild (Spd)",
+    "bonus": {
+      "hp": 7,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "jokerswilddef": {
+    "name": "Jokers Wild (Def)",
+    "bonus": {
+      "hp": 7,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "jokerswildres": {
+    "name": "Jokers Wild (Res)",
+    "bonus": {
+      "hp": 7,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -25224,10 +25267,56 @@
     "refine": false
   },
   "tomeofstorms": {
-    "name": "Tome of Storms",
+    "name": "Tome of Storms (Unrefined)",
     "bonus": {
       "atk": 14,
       "spd": 3
+    },
+    "refine": "Tome of Storms"
+  },
+  "tomeofstormseff": {
+    "name": "Tome of Storms (Eff)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "tomeofstormsatk": {
+    "name": "Tome of Storms (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "tomeofstormsspd": {
+    "name": "Tome of Storms (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 5
+    },
+    "refine": false
+  },
+  "tomeofstormsdef": {
+    "name": "Tome of Storms (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "def": 3
+    },
+    "refine": false
+  },
+  "tomeofstormsres": {
+    "name": "Tome of Storms (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "res": 3
     },
     "refine": false
   },
@@ -25550,10 +25639,56 @@
     "refine": false
   },
   "indignantbow": {
-    "name": "Indignant Bow",
+    "name": "Indignant Bow (Unrefined)",
     "bonus": {
       "atk": 14,
       "res": 3
+    },
+    "refine": "Indignant Bow"
+  },
+  "indignantboweff": {
+    "name": "Indignant Bow (Eff)",
+    "bonus": {
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "indignantbowatk": {
+    "name": "Indignant Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15,
+      "res": 3
+    },
+    "refine": false
+  },
+  "indignantbowspd": {
+    "name": "Indignant Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2,
+      "res": 3
+    },
+    "refine": false
+  },
+  "indignantbowdef": {
+    "name": "Indignant Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3,
+      "res": 3
+    },
+    "refine": false
+  },
+  "indignantbowres": {
+    "name": "Indignant Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 6
     },
     "refine": false
   },
@@ -26116,12 +26251,67 @@
     "refine": false
   },
   "goddessaxe": {
-    "name": "Goddess Axe",
+    "name": "Goddess Axe (Unrefined)",
     "bonus": {
       "atk": 11,
       "spd": -5,
       "def": 5,
       "res": -5
+    },
+    "refine": "Goddess Axe"
+  },
+  "goddessaxeeff": {
+    "name": "Goddess Axe (Eff)",
+    "bonus": {
+      "hp": 8,
+      "atk": 17,
+      "spd": -5,
+      "def": 6,
+      "res": -5
+    },
+    "refine": false
+  },
+  "goddessaxeatk": {
+    "name": "Goddess Axe (+Atk)",
+    "bonus": {
+      "hp": 10,
+      "atk": 19,
+      "spd": -5,
+      "def": 6,
+      "res": -5
+    },
+    "refine": false
+  },
+  "goddessaxespd": {
+    "name": "Goddess Axe (+Spd)",
+    "bonus": {
+      "hp": 10,
+      "atk": 17,
+      "spd": -2,
+      "def": 6,
+      "res": -5
+    },
+    "refine": false
+  },
+  "goddessaxedef": {
+    "name": "Goddess Axe (+Def)",
+    "bonus": {
+      "hp": 10,
+      "atk": 17,
+      "spd": -5,
+      "def": 11,
+      "res": -5
+    },
+    "refine": false
+  },
+  "goddessaxeres": {
+    "name": "Goddess Axe (+Res)",
+    "bonus": {
+      "hp": 10,
+      "atk": 17,
+      "spd": -5,
+      "def": 6,
+      "res": -2
     },
     "refine": false
   },
@@ -27804,9 +27994,51 @@
     "refine": false
   },
   "newdawn": {
-    "name": "New Dawn",
+    "name": "New Dawn (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "New Dawn"
+  },
+  "newdawneff": {
+    "name": "New Dawn (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "newdawnatk": {
+    "name": "New Dawn (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "newdawnspd": {
+    "name": "New Dawn (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "newdawndef": {
+    "name": "New Dawn (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "newdawnres": {
+    "name": "New Dawn (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -28404,9 +28636,52 @@
     "refine": false
   },
   "dazzlingbreath": {
-    "name": "Dazzling Breath",
+    "name": "Dazzling Breath (Unrefined)",
     "bonus": {
       "atk": 19
+    },
+    "refine": "Dazzling Breath"
+  },
+  "dazzlingbreatheff": {
+    "name": "Dazzling Breath (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 19
+    },
+    "refine": false
+  },
+  "dazzlingbreathatk": {
+    "name": "Dazzling Breath (+Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dazzlingbreathspd": {
+    "name": "Dazzling Breath (+Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dazzlingbreathdef": {
+    "name": "Dazzling Breath (+Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "dazzlingbreathres": {
+    "name": "Dazzling Breath (+Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -40562,6 +40837,55 @@
     },
     "refine": false
   },
+  "fimbulvetrmorn": {
+    "name": "Fimbulvetr Morn (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Fimbulvetr Morn"
+  },
+  "fimbulvetrmorneff": {
+    "name": "Fimbulvetr Morn (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "fimbulvetrmornatk": {
+    "name": "Fimbulvetr Morn (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "fimbulvetrmornspd": {
+    "name": "Fimbulvetr Morn (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "fimbulvetrmorndef": {
+    "name": "Fimbulvetr Morn (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "fimbulvetrmornres": {
+    "name": "Fimbulvetr Morn (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -40814,5 +41138,287 @@
       "atk": 14
     },
     "refine": false
+  },
+  "unitingbouquet": {
+    "name": "Uniting Bouquet",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "arcanecake": {
+    "name": "Arcane Cake (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Arcane Cake"
+  },
+  "arcanecakeatk": {
+    "name": "Arcane Cake (+Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanecakespd": {
+    "name": "Arcane Cake (+Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanecakedef": {
+    "name": "Arcane Cake (+Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanecakeres": {
+    "name": "Arcane Cake (+Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brideoflife": {
+    "name": "Bride of Life",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "braidedblade": {
+    "name": "Braided Blade",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "divineyewfelle": {
+    "name": "Divine Yewfelle",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "staffofyngvi": {
+    "name": "Staff of Yngvi",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "rampartbow": {
+    "name": "Rampart Bow",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "helpingdagger": {
+    "name": "Helping Dagger+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Helping Dagger+"
+  },
+  "helpingdaggeratk": {
+    "name": "Helping Dagger+ (+Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "helpingdaggerspd": {
+    "name": "Helping Dagger+ (+Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "helpingdaggerdef": {
+    "name": "Helping Dagger+ (+Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "helpingdaggerres": {
+    "name": "Helping Dagger+ (+Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "campaignblade": {
+    "name": "Campaign Blade+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Campaign Blade+"
+  },
+  "campaignbladeatk": {
+    "name": "Campaign Blade+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "campaignbladespd": {
+    "name": "Campaign Blade+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "campaignbladedef": {
+    "name": "Campaign Blade+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "campaignbladeres": {
+    "name": "Campaign Blade+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "laconicaxe": {
+    "name": "Laconic Axe",
+    "bonus": {
+      "atk": 16
+    }
+  },
+  "jehannadagger": {
+    "name": "Jehanna Dagger+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Jehanna Dagger+"
+  },
+  "jehannadaggeratk": {
+    "name": "Jehanna Dagger+ (+Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "jehannadaggerspd": {
+    "name": "Jehanna Dagger+ (+Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "jehannadaggerdef": {
+    "name": "Jehanna Dagger+ (+Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "jehannadaggerres": {
+    "name": "Jehanna Dagger+ (+Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "swirlinglance": {
+    "name": "Swirling Lance",
+    "bonus": {
+      "atk": 16
+    }
+  },
+  "swirlingscimitar": {
+    "name": "Swirling Scimitar",
+    "bonus": {
+      "atk": 16
+    }
+  },
+  "jehannalance": {
+    "name": "Jehanna Lance+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Jehanna Lance+"
+  },
+  "jehannalanceatk": {
+    "name": "Jehanna Lance+ (+Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "jehannalancespd": {
+    "name": "Jehanna Lance+ (+Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "jehannalancedef": {
+    "name": "Jehanna Lance+ (+Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "jehannalanceres": {
+    "name": "Jehanna Lance+ (+Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "swordofisaach": {
+    "name": "Sword of Isaach",
+    "bonus": {
+      "atk": 16
+    }
+  },
+  "blessedaureola": {
+    "name": "Blessed Aureola",
+    "bonus": {
+      "atk": 14
+    }
   }
 }

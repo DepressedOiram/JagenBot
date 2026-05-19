@@ -100,7 +100,7 @@
         "info": {},
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (21 - Luck)%"
+            "Backfire Rate": "(21 - Luck)%"
         }
     },
     "wyrmslayer": {
@@ -358,7 +358,7 @@
         },
         "info": {},
         "reference": {
-            "Other Effects": "Backfire rate: (21 - Luck)%"
+            "Backfire Rate": "(21 - Luck)%"
         },
         "weapon": true
     },

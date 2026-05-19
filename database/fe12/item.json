@@ -585,7 +585,8 @@
         },
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (21 - Luck/2)%\nBackfire damage: Calculate damage as if user attacked themselves"
+            "Backfire Rate": "(21 - Luck/2)%",
+            "Backfire Damage": "Calculate damage as if user attacked themselves. Tripled if Critical."
         }
     },
     "devilsword": {
@@ -605,7 +606,8 @@
         },
         "weapon": true,
         "reference": {
-            "Other Effects": "Backfire rate: (21 - Luck/2)%\nBackfire damage: Calculate damage as if user attacked themselves"
+            "Backfire Rate": "(21 - Luck/2)%",
+            "Backfire Damage": "Calculate damage as if user attacked themselves. Tripled if Critical."
         }
     },
     "divinestone": {

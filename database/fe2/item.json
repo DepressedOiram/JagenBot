@@ -61,7 +61,7 @@
     "info": {},
     "weapon": true,
     "reference": {
-      "Other Effects": "Backfire chance: (21 - Lck)%\nDoesn't affect Dread Fighters."
+      "Backfire Rate": "(21 - Lck)%\nDoesn't affect Dread Fighters."
     }
   },
   "thundersword": {

@@ -11207,15 +11207,20 @@
     "pool": "global",
     "internal_id": "\u30bb\u30eb\u30b8\u30e5",
     "voice": "Amanda Miller",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "natteun",
+    "resplendent_voice": "Heather Gonzales",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Cherche_Wyvern_Friend_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Cherche_Wyvern_Friend_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Cherche_Wyvern_Friend_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Cherche_Wyvern_Friend_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Cherche_Wyvern_Friend_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d9/Cherche_Wyvern_Friend_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Cherche_Wyvern_Friend_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/12/Cherche_Wyvern_Friend_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "ylisse"
     ],
@@ -11271,7 +11276,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I'll crush you.",
+          "Thought you had a chance?",
+          "Here's your punishment.",
+          "Do not anger me."
+        ],
+        "Status": [
+          "-",
+          "This outfit is a wonderful surprise. Thank you.",
+          "Ah! Are you so eager to see what happens when I get angry?",
+          "The princesses of J\u00f6tunheimr are so powerful. I bet I could learn a lot from them.",
+          "Silly Minerva... She was so surprised to see me in this outfit!",
+          "Oh my, your robe is fraying... Here, let me patch that up for you.",
+          "*chuckle* It seems that all it takes to lighten one's spirits is a change of attire.",
+          "I think I'll treat you to a homemade meal one of these days. Consider it my thanks for the outfit."
+        ],
+        "Map Select": [
+          "Right.",
+          "Oh my...",
+          "Leave it to me."
+        ]
+      }
     },
     "short_name": "Cherche",
     "SEARCH_NAME": "Cherche",
@@ -59474,7 +59507,8 @@
     "alt": false,
     "reference": [
       "eir2",
-      "eir3"
+      "eir3",
+      "eir4"
     ],
     "prf": {
       "": "lyfjabergeff",
@@ -83562,7 +83596,8 @@
     "reference": [
       "peony2",
       "peony3",
-      "peony4"
+      "peony4",
+      "peony5"
     ],
     "prf": {
       "": "flowerofjoyeff",
@@ -86371,7 +86406,8 @@
     "alt": true,
     "reference": [
       "eir",
-      "eir3"
+      "eir3",
+      "eir4"
     ],
     "prf": {
       "": "temarispd",
@@ -102410,17 +102446,8 @@
     "ALT_NAME": [
       "Sigurd: Destined Duo",
       "Destined Duo",
-      "Duo Sigurd",
-      "Harmonic Sigurd",
-      "Harmonized Sigurd",
       "Dancer Sigurd",
-      "Duo Siglud",
-      "Harmonic Siglud",
-      "Harmonized Siglud",
       "Dancer Siglud",
-      "Duo Zigludo",
-      "Harmonic Zigludo",
-      "Harmonized Zigludo",
       "Dancer Zigludo"
     ],
     "HARD_ALT_NAME": [
@@ -102430,18 +102457,8 @@
       "D Sigurd",
       "D Siglud",
       "D Zigludo",
-      "Digurd",
-      "Duo Sigurd",
-      "Harmonic Sigurd",
-      "Harmonized Sigurd",
       "Dancer Sigurd",
-      "Duo Siglud",
-      "Harmonic Siglud",
-      "Harmonized Siglud",
       "Dancer Siglud",
-      "Duo Zigludo",
-      "Harmonic Zigludo",
-      "Harmonized Zigludo",
       "Dancer Zigludo"
     ],
     "gender": "M",
@@ -108640,7 +108657,8 @@
     "alt": false,
     "reference": [
       "reginn2",
-      "reginn3"
+      "reginn3",
+      "reginn4"
     ],
     "prf": {
       "": "lyngheidreff",
@@ -110844,7 +110862,8 @@
     "reference": [
       "peony",
       "peony3",
-      "peony4"
+      "peony4",
+      "peony5"
     ],
     "prf": {
       "": "bondofthealfar",
@@ -134416,7 +134435,8 @@
     "alt": false,
     "reference": [
       "ash2",
-      "ash3"
+      "ash3",
+      "ash4"
     ],
     "prf": {
       "": "hornofopening",
@@ -136727,7 +136747,8 @@
     "alt": true,
     "reference": [
       "reginn",
-      "reginn3"
+      "reginn3",
+      "reginn4"
     ],
     "prf": {
       "": "nidavellirlots",
@@ -156632,7 +156653,8 @@
     "alt": true,
     "reference": [
       "eir",
-      "eir2"
+      "eir2",
+      "eir4"
     ],
     "prf": {
       "": "ymireverliving",
@@ -162047,7 +162069,10 @@
       "Legendary Shez F",
       "Leg Shez F",
       "Legend Shez F",
-      "Legendary Shez"
+      "Legendary Shez",
+      "infinite",
+      "Infinite",
+      "Infinite: Sharpest Blades"
     ],
     "gender": "F",
     "rarity": 5,
@@ -162499,7 +162524,8 @@
     "alt": true,
     "reference": [
       "ash",
-      "ash3"
+      "ash3",
+      "ash4"
     ],
     "prf": {
       "": "heraldinghorn",
@@ -172708,7 +172734,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "\u82b1\u5ac1\u30a2\u30f3\u30ca\u899a\u9192",
     "voice": "Karen Strassman",
     "resplendent": false,
@@ -172723,7 +172749,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -183145,7 +183171,8 @@
     "reference": [
       "peony",
       "peony2",
-      "peony4"
+      "peony4",
+      "peony5"
     ],
     "prf": {
       "": "flowerofcaring",
@@ -207081,7 +207108,8 @@
     "alt": false,
     "reference": [
       "reginn",
-      "reginn2"
+      "reginn2",
+      "reginn4"
     ],
     "prf": {
       "": "dvergrwayfinder",
@@ -210459,7 +210487,7 @@
     "title": "Teatime Ninja",
     "description": "Princess of Firene. She respects the harmony and elegance of flower arranging and tea ceremonies, pondering them with fondness. Appears in Fire Emblem Engage.",
     "origin": "Engage",
-    "artist": "\u3046\u306a\u307f\u3084",
+    "artist": "Unamiya (\u3046\u306a\u307f\u3084)",
     "move": "Infantry",
     "weapon": "Tome",
     "color": "Blue",
@@ -216298,12 +216326,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "helpingdagger",
-      "eff": "helpingdagger",
-      "atk": "helpingdagger",
-      "spd": "helpingdagger",
-      "def": "helpingdagger",
-      "res": "helpingdagger"
+      "": "helpingdaggerspd",
+      "eff": "helpingdaggerspd",
+      "atk": "helpingdaggeratk",
+      "spd": "helpingdaggerspd",
+      "def": "helpingdaggerdef",
+      "res": "helpingdaggerres"
     }
   },
   "chulainn": {
@@ -216472,12 +216500,12 @@
       "chulainn2"
     ],
     "prf": {
-      "": "campaignblade",
-      "eff": "campaignblade",
-      "atk": "campaignblade",
-      "spd": "campaignblade",
-      "def": "campaignblade",
-      "res": "campaignblade"
+      "": "campaignbladedef",
+      "eff": "campaignbladedef",
+      "atk": "campaignbladeatk",
+      "spd": "campaignbladespd",
+      "def": "campaignbladedef",
+      "res": "campaignbladeres"
     }
   },
   "marisa3": {
@@ -216856,12 +216884,12 @@
       "tethys"
     ],
     "prf": {
-      "": "jehannadagger",
-      "eff": "jehannadagger",
-      "atk": "jehannadagger",
-      "spd": "jehannadagger",
-      "def": "jehannadagger",
-      "res": "jehannadagger"
+      "": "jehannadaggerspd",
+      "eff": "jehannadaggerspd",
+      "atk": "jehannadaggeratk",
+      "spd": "jehannadaggerspd",
+      "def": "jehannadaggerdef",
+      "res": "jehannadaggerres"
     }
   },
   "ike8": {
@@ -217418,12 +217446,12 @@
       "saber"
     ],
     "prf": {
-      "": "jehannalance",
-      "eff": "jehannalance",
-      "atk": "jehannalance",
-      "spd": "jehannalance",
-      "def": "jehannalance",
-      "res": "jehannalance"
+      "": "jehannalancedef",
+      "eff": "jehannalancedef",
+      "atk": "jehannalanceatk",
+      "spd": "jehannalancespd",
+      "def": "jehannalancedef",
+      "res": "jehannalanceres"
     }
   },
   "ayra3": {
@@ -233373,7 +233401,8 @@
     "alt": true,
     "reference": [
       "ash",
-      "ash2"
+      "ash2",
+      "ash4"
     ],
     "prf": {
       "": "entwininghorn",
@@ -235198,7 +235227,8 @@
     "reference": [
       "peony",
       "peony2",
-      "peony3"
+      "peony3",
+      "peony5"
     ],
     "prf": {
       "": "spookylantern",
@@ -238713,7 +238743,7 @@
     "move": "Infantry",
     "weapon": "Sword",
     "color": "Red",
-    "duel": false,
+    "duel": "220",
     "id": "1318",
     "type": "chosen",
     "version": "10.0",
@@ -244582,7 +244612,7 @@
     "move": "Infantry",
     "weapon": "Lance",
     "color": "Blue",
-    "duel": false,
+    "duel": "220",
     "id": "1350",
     "type": "chosen",
     "version": "10.2",
@@ -249049,7 +249079,7 @@
     "artist": "Okuma Yugo (\u5927\u718a\u3086\u3046\u3054)",
     "move": "Flying",
     "weapon": "Beast",
-    "color": "Red",
+    "color": "Blue",
     "duel": false,
     "id": "1374",
     "type": "rearmed",
@@ -249746,6 +249776,812 @@
       "spd": "gautierstone",
       "def": "gautierstone",
       "res": "gautierstone"
+    }
+  },
+  "ash4": {
+    "name": "Ash",
+    "title": "Divergent Brides",
+    "description": "Hailing from different worlds, but sharing the same soul, it's Ash and Melíai. Can their hearts and minds come together at the bridal festival?",
+    "origin": "Heroes",
+    "artist": "ekao",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": "220",
+    "id": "1378",
+    "type": "duo",
+    "version": "10.5",
+    "duo": "Grants\u3010Reflex\u3011to unit and allies within 2 spaces of unit for 1 turn.\nApplies\u3010Divine Vein (Stone)\u3011to unit's space and spaces within 2 spaces of unit for 2 turns.\n\u3010Reflex\u3011\nReduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes) and unit's next attack deals damage = total damage reduced from foe's first attack (by any source, including other skills; resets at end of combat). (For 1 turn.)\n\u3010Divine Vein (Stone)\u3011\nApplies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding Røkkr area-of-effect Specials). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain.)",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 9,
+      "spd": 3,
+      "def": 12,
+      "res": 12
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 25,
+      "def": 75,
+      "res": 80
+    },
+    "superboon": [
+      "atk",
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Stone": "1",
+      "Elstone": "2",
+      "Atlas": "3",
+      "Uniting Bouquet": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Comet": "5"
+    },
+    "passive": {
+      "A": {
+        "Close Counter": "4",
+        "Close A/D/R Bond": "5"
+      },
+      "B": {
+        "Sabotage Atk 1": "2",
+        "Sabotage Atk 2": "3",
+        "Sabotage Atk 3": "4",
+        "Atk/Res Unrest": "5"
+      },
+      "C": {
+        "Inaugural Vassal": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Ash_Divergent_Brides_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Ash_Divergent_Brides_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Ash_Divergent_Brides_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Ash_Divergent_Brides_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Divergent Brides",
+      "Ash: Divergent Brides",
+      "Wedding Ash",
+      "B Ash",
+      "W Ash",
+      "Bride Ash",
+      "Bridal Ash",
+      "Duo Ash",
+      "D Ash",
+      "ash4"
+    ],
+    "HARD_ALT_NAME": [
+      "Divergent Brides",
+      "Ash: Divergent Brides",
+      "Wedding Ash",
+      "B Ash",
+      "W Ash",
+      "Bride Ash",
+      "Bridal Ash",
+      "Duo Ash",
+      "D Ash",
+      "ash4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6bd4\u7ffc\u30a2\u30b7\u30e5",
+    "voice": "Lily Emil Lammers",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Ash:** Everything about this bridal festival is simply splendid. It lifts my spirits. I am truly honored to be part of it.",
+        "**Ash:** I sincerely hope that even Mel\u00edai, who has never known the warmth of Father's love, may find happiness.",
+        "**Mel\u00edai:** Look at them! Getting all carried away... What a joke. And this dress... Tch. Why's it have to be so frilly?",
+        "**Mel\u00edai:** How can you even walk in this thing? Ash, be careful or you'll trip and fall on your face!",
+        "**Ash:** Mel\u00edai and I all dressed up... Surely, Father must be happy to see us now."
+      ],
+      "Visit": [
+        "Today is an auspicious day, and, as such, a bridal festival is being held at [F]'s castle."
+      ],
+      "Level": [
+        "**Mel\u00edai:** In sickness and in health\u2014no matter what comes our way\u2014you can count on me!",
+        "**Ash:** I heard the secrets to a long-lasting marriage are give-and-take and cherishing what you have together.",
+        "**Mel\u00edai:** If you don't get off your duff, the other brides are gonna get all the bouquets before us!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "There is no need for haste, Mel\u00edai. There are more than enough bouquets for all. Let me assist you."
+      ],
+      "Learn Skill": [
+        "**Mel\u00edai:** The other brides don't stand a chance. Those bouquets belong to US, Ash!"
+      ],
+      "Confession": [
+        "**Mel\u00edai:** Look at all the bouquets we've got. With this many, we're shoo-ins for the top spot!\n**Ash:** Even if fortune's favor does not smile upon us, I will be content all the same.\n**Mel\u00edai:** Huh?! What are you talkin' about? We didn't come this far just to end up in second place!\n**Ash:** Hehehe. Just seeing you fawn over that beautiful dress warms my heart. That is prize enough.\nAnd I know Father was watching us.\n**Mel\u00edai:** Yeah, right! Don't be silly!\nFather... Were you watching? If you were, then I'm glad I joined in."
+      ],
+      "Special": [
+        "**Duo:** Oath of love!",
+        "**Duo:** Together forever!",
+        "**Ash:** I'll try...",
+        "**Mel\u00edai:** I'll do it!"
+      ],
+      "Status": [
+        "-",
+        "\"That dress is lovely on you!\" \"Quiet.\""
+      ],
+      "Map Select": [
+        "Yeah?",
+        "I shall follow.",
+        "Hurry it up!"
+      ],
+      "Conversation": [
+        "**Ash:** Ahehehe... To think of it! Me, a bride! It is an utterly exciting circumstance! Or perhaps humbling is a better word.",
+        "**Mel\u00edai:** Put a cork in it, would you? What are we supposed to be doing here, anyway?",
+        "**Ash:** Uh-uh, yes. We must seek and find bridal bouquets. Whoever finds the most gets a remarkable reward.",
+        "The reward is a mock ceremony held at a special altar on the grounds, or so I've been told.",
+        "**Mel\u00edai:** A ceremony? With who? Even if we win, who do we want to do this with?",
+        "**Ash:** Now that you mention it, it is true that I have yet to pledge myself to anyone. Have you?",
+        "**Mel\u00edai:** Are you kidding? *sigh* I guess we can give up on this stupid game.",
+        "**Ash:** Well, that is one option, certainly. But I have another idea: we could ask the summoner.",
+        "**Mel\u00edai:** You're going to ask the summoner to fill in for that job? For the both of us?",
+        "**Ash:** Well, yes. We are the same person, are we not? We simply hail from different worlds.",
+        "It is only logical that we have the same partner, isn't it? It sounds like a lot of fun too!",
+        "Picture it...you, me, the summoner all standing before the altar. *sigh* What a beautiful image.",
+        "**Mel\u00edai:** Don't drop into a dream on me. We need to win first.",
+        "**Ash:** I agree. And we will win. Father is no doubt watching over us.",
+        "I want nothing more than for him to see our happiness!",
+        "**Mel\u00edai:** You think he watches us? I...I hope so!",
+        "OK! I'm getting those flowers, and if the others know what's good for 'em, they won't get in my way!"
+      ],
+      "Duo Skill": [
+        "\"I shall...\" \"Love ya!\"",
+        "\"We are...\" \"United!\""
+      ],
+      "Back Unit Supporting": [
+        "Keep it together!",
+        "Don't bite it!"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Bridal Ash",
+    "SEARCH_NAME": "Bridal Ash",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Bridal Ash",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ash",
+      "ash2",
+      "ash3"
+    ],
+    "prf": {
+      "": "unitingbouquet",
+      "eff": "unitingbouquet",
+      "atk": "unitingbouquet",
+      "spd": "unitingbouquet",
+      "def": "unitingbouquet",
+      "res": "unitingbouquet"
+    }
+  },
+  "reginn4": {
+    "name": "Reginn",
+    "title": "Full-Tilt Bride",
+    "description": "Princess of Ni\u00f0avellir, realm of the dvergar. Devotes all her strength to make the bridal festival a fun and fulfilling event.",
+    "origin": "Heroes",
+    "artist": "Yuko (\u5915\u5b50)",
+    "move": "Cavalry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1379",
+    "type": "rearmed",
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 9,
+      "def": 12,
+      "res": 4
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Arcane Cake": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Seiðr Cannon": "5"
+    },
+    "passive": {
+      "A": {
+        "Blue Skies 1": "2",
+        "Blue Skies 2": "3",
+        "Blue Skies 3": "4",
+        "Blue-Sky Gust": "5"
+      },
+      "B": {
+        "Guard 1": "2",
+        "Guard 2": "3",
+        "Guard 3": "4",
+        "Riptide Guard": "5"
+      },
+      "C": {
+        "Hone Spd 1": "2",
+        "Hone Spd 2": "3",
+        "Hone Spd 3": "4",
+        "A/S Outcry Seize": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Reginn_Full-Tilt_Bride_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Reginn_Full-Tilt_Bride_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Reginn_Full-Tilt_Bride_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Reginn_Full-Tilt_Bride_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Full-Tilt Bride",
+      "Reginn: Full-Tilt Bride",
+      "Wedding Reginn",
+      "B Reginn",
+      "W Reginn",
+      "Bride Reginn",
+      "Bridal Reginn",
+      "Wedding Rearmed Reginn",
+      "B Rearmed Reginn",
+      "W Rearmed Reginn",
+      "Bride Rearmed Reginn",
+      "Bridal Rearmed Reginn",
+      "Rearmed Wedding Reginn",
+      "Rearmed B Reginn",
+      "Rearmed W Reginn",
+      "Rearmed Bride Reginn",
+      "Rearmed Bridal Reginn",
+      "Wedding Rearm Reginn",
+      "B Rearm Reginn",
+      "W Rearm Reginn",
+      "Bride Rearm Reginn",
+      "Bridal Rearm Reginn",
+      "Rearm Bridal Reginn",
+      "Rearm B Reginn",
+      "Rearm W Reginn",
+      "Rearm Bride Reginn",
+      "Rearm Bridal Reginn",
+      "Wedding R Reginn",
+      "B R Reginn",
+      "W R Reginn",
+      "Bride R Reginn",
+      "Bridal R Reginn",
+      "R Wedding Reginn",
+      "R B Reginn",
+      "R W Reginn",
+      "R Bride Reginn",
+      "R Bridal Reginn",
+      "Wedding Arm Reginn",
+      "B Arm Reginn",
+      "W Arm Reginn",
+      "Bride Arm Reginn",
+      "Bridal Arm Reginn",
+      "Arm Wedding Reginn",
+      "Arm B Reginn",
+      "Arm W Reginn",
+      "Arm Bride Reginn",
+      "Arm Bridal Reginn",
+      "reginn4"
+    ],
+    "HARD_ALT_NAME": [
+      "Full-Tilt Bride",
+      "Reginn: Full-Tilt Bride",
+      "Wedding Reginn",
+      "B Reginn",
+      "W Reginn",
+      "Bride Reginn",
+      "Bridal Reginn",
+      "Wedding Rearmed Reginn",
+      "B Rearmed Reginn",
+      "W Rearmed Reginn",
+      "Bride Rearmed Reginn",
+      "Bridal Rearmed Reginn",
+      "Rearmed Wedding Reginn",
+      "Rearmed B Reginn",
+      "Rearmed W Reginn",
+      "Rearmed Bride Reginn",
+      "Rearmed Bridal Reginn",
+      "Wedding Rearm Reginn",
+      "B Rearm Reginn",
+      "W Rearm Reginn",
+      "Bride Rearm Reginn",
+      "Bridal Rearm Reginn",
+      "Rearm Bridal Reginn",
+      "Rearm B Reginn",
+      "Rearm W Reginn",
+      "Rearm Bride Reginn",
+      "Rearm Bridal Reginn",
+      "Wedding R Reginn",
+      "B R Reginn",
+      "W R Reginn",
+      "Bride R Reginn",
+      "Bridal R Reginn",
+      "R Wedding Reginn",
+      "R B Reginn",
+      "R W Reginn",
+      "R Bride Reginn",
+      "R Bridal Reginn",
+      "Wedding Arm Reginn",
+      "B Arm Reginn",
+      "W Arm Reginn",
+      "Bride Arm Reginn",
+      "Bridal Arm Reginn",
+      "Arm Wedding Reginn",
+      "Arm B Reginn",
+      "Arm W Reginn",
+      "Arm Bride Reginn",
+      "Arm Bridal Reginn",
+      "reginn4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u9b54\u5668\u82b1\u5ac1\u30ec\u30ae\u30f3",
+    "voice": "Megan Shipman",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "\"I vow to love you for eternity!\" OK, enough practicing... Bridal festival, here I come!",
+        "I want the person I marry to be someone who can rule Ni\u00f0avellir with me.",
+        "I don't remember my parents... So if I get married, I'll work extra hard to fill my home with love!",
+        "Couples that share great meals are bound to be happier, don't ya think? I love food\u2014it helps people connect.",
+        "My brothers, F\u00e1fnir and \u00d3tr... I'm sure they want me to be happy."
+      ],
+      "Visit": [
+        "So, how do I look in this wedding dress? Amazing?! That's what [F] said!"
+      ],
+      "Level": [
+        "Once I'm locked in, I never quit! And becoming a bride won't change that!",
+        "I'm so happy right now. I never want this feeling to go away!",
+        "I promised myself I'd be more proper today. But I got a little too excited..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Reginn from Ni\u00f0avellir. A festival to collect bridal bouquets sounds fun! Let me take a crack at it!"
+      ],
+      "Learn Skill": [
+        "I feel fantastic\u2014like I'm about to burst!"
+      ],
+      "Confession": [
+        "If I get married, I don't want to just follow someone else.\nI want to head into the future at the same pace, side by side, together... Only that will do for me!\nThen, my partner and I could split all the fun and all the tasty foods right down the middle.\nAnd of course, we'd do it with hard things too. Split between two people, we'd be able to overcome anything!\nWhen I meet someone I can do that with, that's when I get to wear my REAL wedding dress.\nThen I'll throw a big celebration and invite Princess Dagr and everyone from Askr!"
+      ],
+      "Special": [
+        "So, am I pretty?",
+        "Together!",
+        "I do!",
+        "I'm so happy!"
+      ],
+      "Status": [
+        "-",
+        "I'm a bride today! Uhh... I wonder where my suitor is...",
+        "Ooh! Oh, was there a stray petal? Thank you.",
+        "Hey, you! Ahem, I mean... Today's the day I need to act graceful and refined.",
+        "I'm happy I get to wear such a pretty dress. *giggle*",
+        "Being with the one you love forever? It sounds wonderful!",
+        "I wonder what my brothers would say if they saw me dressed like this.",
+        "I'd like to promise eternity to someone like...you! *chuckle* Can you imagine?"
+      ],
+      "Map Select": [
+        "Got it!",
+        "Not so sure about that.",
+        "For better or worse."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Bridal Rearmed Reginn",
+    "SEARCH_NAME": "Bridal Rearmed Reginn",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Bridal Rearmed Reginn",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "reginn",
+      "reginn2",
+      "reginn3"
+    ],
+    "prf": {
+      "": "arcanecakespd",
+      "eff": "arcanecakespd",
+      "atk": "arcanecakeatk",
+      "spd": "arcanecakespd",
+      "def": "arcanecakedef",
+      "res": "arcanecakeres"
+    }
+  },
+  "eir4": {
+    "name": "Eir",
+    "title": "Until Death",
+    "description": "Princess of Hel, the realm of the dead, as well as princess of the realm of life. Dons a floral wedding gown at the bridal festival.",
+    "origin": "Heroes",
+    "artist": "hanusu",
+    "move": "Flying",
+    "weapon": "Dagger",
+    "color": "Blue",
+    "duel": false,
+    "id": "1380",
+    "type": false,
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 16,
+      "atk": 11,
+      "spd": 9,
+      "def": 3,
+      "res": 14
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 75,
+      "spd": 90,
+      "def": 30,
+      "res": 80
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "atk",
+      "def"
+    ],
+    "weapons": {
+      "Iron Dagger": "1",
+      "Steel Dagger": "2",
+      "Silver Dagger": "3",
+      "Bride of Life": "5"
+    },
+    "assist": {
+      "Reposition": "3"
+    },
+    "special": {},
+    "passive": {
+      "A": {},
+      "B": {
+        "Spd/Def Snag 1": "2",
+        "Spd/Def Snag 2": "3",
+        "Spd/Def Snag 3": "4",
+        "S/D Detect Aerial": "5"
+      },
+      "C": {
+        "Exuberant Boost": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Eir_Until_Death_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Eir_Until_Death_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Eir_Until_Death_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Eir_Until_Death_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Until Death",
+      "Eir: Until Death",
+      "Wedding Eir",
+      "B Eir",
+      "W Eir",
+      "Bride Eir",
+      "Bridal Eir",
+      "eir4"
+    ],
+    "HARD_ALT_NAME": [
+      "Until Death",
+      "Eir: Until Death",
+      "Wedding Eir",
+      "B Eir",
+      "W Eir",
+      "Bride Eir",
+      "Bridal Eir",
+      "eir4"
+    ],
+    "gender": "F",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u82b1\u5ac1\u30a8\u30a4\u30eb",
+    "voice": "Xanthe Huynh",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Death has ever been by my side. Being a bride is not something I ever considered before.",
+        "The warm radiance of this dress... It gives me a feeling I never had in the realm of the dead\u2014a sense of hope.",
+        "Might I, too, someday begin a new life, walking beside a partner of my own? For now, it's difficult to imagine.",
+        "I was admiring a bride's bouquet, and she shared some flowers with me. Here, have one.",
+        "A dress emanating the joy of life... I am sure it would have made Ymir smile to see it."
+      ],
+      "Visit": [
+        "I am Eir. What...do you think of my dress? We're holding a bridal festival at [F]'s castle."
+      ],
+      "Level": [
+        "Eternal life may be a fantasy, but eternal love\u2014that is something I can believe in.",
+        "Thank goodness my dress wasn't soiled...",
+        "I'm sorry... Smiling doesn't seem to come naturally to me."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Eir. This bridal festival is truly vibrant. I hope I can be of help here."
+      ],
+      "Learn Skill": [
+        "I accept this gesture. I'll do what I can to be of help."
+      ],
+      "Confession": [
+        "Life is finite. There is no such thing as a life that lasts forever. The end always comes.\nBut I want to believe that the feelings of love we have for those dear to us can remain, forever.\nThe future is not created by one person alone. Rather, we build it hand in hand, together.\nPerhaps this festival represents the resolve it takes to walk toward that future alongside the one you cherish.\nI have yet to find someone with whom I can share this journey...\nBut perhaps I will meet that person one day. Someone to walk by my side for as long as there is life in me."
+      ],
+      "Special": [
+        "I swear my love.",
+        "Eternally by your side.",
+        "Do not let go.",
+        "Until death..."
+      ],
+      "Status": [
+        "-",
+        "For me to attend such a bright and joyous festival... Do you feel this is fitting?",
+        "Oh... Is there something wrong with my dress? Thank you.",
+        "I never thought I would be wearing a bridal gown.",
+        "My ideal partner? Hm... It is not something I ever considered before.",
+        "Such genuine smiles... This sharing of vows seems to bring people much joy.",
+        "Do you think there will come a day when I am blessed with finding true happiness?",
+        "I wish to stay by your side for as long as there is life in me."
+      ],
+      "Map Select": [
+        "I will go that way.",
+        "The altar is...",
+        "Take my hand."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Bridal Eir",
+    "SEARCH_NAME": "Bridal Eir",
+    "DISPLAY_NAME": "<:Blue_Dagger:1317239367529529445>Bridal Eir",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "eir",
+      "eir2",
+      "eir3"
+    ],
+    "prf": {
+      "": "brideoflife",
+      "eff": "brideoflife",
+      "atk": "brideoflife",
+      "spd": "brideoflife",
+      "def": "brideoflife",
+      "res": "brideoflife"
+    }
+  },
+  "peony5": {
+    "name": "Peony",
+    "title": "Interwoven Dream",
+    "description": "A lj\u00f3s\u00e1lfr from Lj\u00f3s\u00e1lfheimr, the realm of dreams. Participates in the bridal festival to support the dreams of the brides..",
+    "origin": "Heroes",
+    "artist": "Unamiya (\u3046\u306a\u307f\u3084)",
+    "move": "Flying",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1381",
+    "type": false,
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 9,
+      "def": 4,
+      "res": 7
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 40,
+      "res": 65
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Braided Blade": "5"
+    },
+    "assist": {
+      "Dance": "3",
+      "Tender Vision": "5"
+    },
+    "special": {},
+    "passive": {
+      "A": {},
+      "B": {
+        "Spd Cantrip 1": "2",
+        "Spd Cantrip 2": "3",
+        "Spd Cantrip 3": "4",
+        "Spd/Def Allure": "5"
+      },
+      "C": {
+        "Shadow Smite 1": "2",
+        "Shadow Smite 2": "3",
+        "Shadow Smite 3": "4",
+        "Shadow Smite 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Peony_Interwoven_Dream_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Peony_Interwoven_Dream_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Peony_Interwoven_Dream_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Peony_Interwoven_Dream_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Interwoven Dream",
+      "Peony: Interwoven Dream",
+      "Wedding Peony",
+      "B Peony",
+      "W Peony",
+      "Bride Peony",
+      "Bridal Peony",
+      "peony5"
+    ],
+    "HARD_ALT_NAME": [
+      "Interwoven Dream",
+      "Peony: Interwoven Dream",
+      "Wedding Peony",
+      "B Peony",
+      "W Peony",
+      "Bride Peony",
+      "Bridal Peony",
+      "peony5"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u82b1\u5ac1\u30a8\u30a4\u30eb",
+    "voice": "Ryan Bartley",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "What an amazing festival! I'll do my best to ensure that brides' dreams keep shining forever and ever!",
+        "I feel like there's someone who would've loved to see me in a gown like this...",
+        "I've delivered so many dreams where someone gets to marry the person they love the most.",
+        "Askr is such a beautiful country, isn't it? It'd sure be hard to decide where to go for a honeymoon!",
+        "Even sleepyhead Mirabilis would jump out of bed if she saw me wearing this bridal gown!"
+      ],
+      "Visit": [
+        "I'm Peony, the Sweet Dream. You can find brides' dreams everywhere in [F]'s castle!"
+      ],
+      "Level": [
+        "Sweet dreams are eternal. They'll stay with you forever and ever!",
+        "Creating happiness together with someone special... Yeah, that sounds good to me!",
+        "I must have gotten distracted by how pretty this wedding dress is..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Peony, the Sweet Dream. Look! Isn't this dress wonderful? I wish this dream would last forever."
+      ],
+      "Learn Skill": [
+        "Thank you! It's a perfect gift for a bride!"
+      ],
+      "Confession": [
+        "Becoming the bride of the one you love... It's such a wonderful dream. I want the same thing!\nBut making that dream come true isn't easy, is it? Especially if you haven't met the one destined for you.\nBut you can't give up. You might meet them tomorrow. Or even today!\nMaybe we should focus on improving ourselves so we're ready when they finally appear.\nTwo people work hard to prepare, then meet one day... Hey, this sounds like fighting! Except they fall in love.\nWow, so that's what people mean when they say \"love is a battle\"! Let's do our best, [S]!"
+      ],
+      "Special": [
+        "My love is yours.",
+        "We should be happy!",
+        "Together forever.",
+        "As long as it's you."
+      ],
+      "Status": [
+        "-",
+        "I do.",
+        "Now and always...",
+        "What a marvelous dress! My heart's fluttering so fast I may just float away.",
+        "I feel as if there was someone I wanted to see me like this first, before anyone else...",
+        "I've given people so many dreams in which they become someone's bride.",
+        "They become adults, get married, and...then they forget about us, don't they?",
+        "I swear to you that I will love you forever... Oh, don't worry. I'm just practicing for the real thing."
+      ],
+      "Map Select": [
+        "Got it.",
+        "What do I do?",
+        "Guide me?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Bridal Peony",
+    "SEARCH_NAME": "Bridal Peony",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Bridal Peony",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "peony",
+      "peony2",
+      "peony3",
+      "peony4"
+    ],
+    "prf": {
+      "": "braidedblade",
+      "eff": "braidedblade",
+      "atk": "braidedblade",
+      "spd": "braidedblade",
+      "def": "braidedblade",
+      "res": "braidedblade"
     }
   }
 }
