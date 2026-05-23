@@ -28,7 +28,8 @@
         "ring": "Data for Emblem or Bond rings.",
         "card": "Card Art. Card codes can also be used.",
 		"boss": "Shows data for a boss.",
-		"keyword": "Shows data for keywords used in FEH, including status effects."
+		"keyword": "Shows data for keywords used in FEH, including status effects.",
+		"gambit": "Shows data for gambits."
 	},
 	"args": {
 		"class": "Reclasses the unit to another class.",

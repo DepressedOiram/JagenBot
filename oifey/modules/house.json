@@ -121,6 +121,13 @@
                     "fe16",
                     "Rank"
                 ]
+            },
+            "gambit": {
+                "main": "database/fe16/gambit.json",
+                "lua": [
+                    "fe16",
+                    "Gambit"
+                ]
             }
         }
     }

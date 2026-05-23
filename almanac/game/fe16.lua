@@ -29,6 +29,7 @@ local Item = {}
 local Skill = {}
 local Rank = {}
 local Bat = {}
+local Gambit = {}
 
 ---------------------------------------------------
 -- Inventory --
@@ -865,11 +866,57 @@ function Bat:get(level)
     return result
 end
 
+---------------------------------------------------
+-- Gambit --
+---------------------------------------------------
+Gambit.__index = Gambit
+setmetatable(Gambit, almanac.Workspace)
+
+Gambit.section = almanac.get("database/fe16/gambit.json")
+
+function Gambit:show()
+    local infobox = Infobox:new({title = self.data.name})
+
+    infobox:image("icon", self:gambit_type())
+    infobox:image("thumbnail", self:get_icon())
+    
+    local desc = string.format("Mt %s | Hit: %s | Rng: %s | Uses: %s\n%s",
+    self.data.stats.mt, self.data.stats.hit, self.data.stats.rng, self.data.stats.uses, self.data.desc)
+    
+    infobox:set("desc", desc)
+
+    if not self:is_changed() then
+        self:apply_reference(infobox)
+    end
+        
+    return infobox
+end
+
+function Gambit:apply_reference(infobox)
+    if self.data.reference then
+        for key, value in pairs(self.data.reference) do
+            infobox:insert(key, value, true)
+        end
+    end
+end
+
+function Gambit:get_icon()
+    if self.data.name ~= nil then
+        return string.format("database/fe16/images/gambit/%s_%s_%s.png", self.data.hits, self.data.range, self.data.area)
+    end
+end
+
+function Gambit:gambit_type()
+    return string.format("database/fe16/images/icons/%s.png", self.data.type) 
+end
+
+
 return {
     Character = Character,
     Job = Job,
     Item = Item,
     Skill = Skill,
     Rank = Rank,
-    Bat = Bat
+    Bat = Bat,
+    Gambit = Gambit
 }

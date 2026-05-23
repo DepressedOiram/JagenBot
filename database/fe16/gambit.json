@@ -1,0 +1,967 @@
+{
+    "absolutedefense": {
+        "name": "Absolute Defense",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": "5x3",
+        "area": "triangle",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "A rock solid convoy of exceptional maids. Allies within range gain Def+6. Lasts one turn.",
+        "reference": {
+            "Battalions": "Nuvelle Attendants Co."
+        }
+    },
+    "absorption": {
+        "name": "Absorption",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": 4,
+            "hit": 30,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "Recovers HP equal to 50% of the damage dealt to foes in the area.",
+        "reference": {
+            "Battalions": "Alliance Veteran Duelists | Empire Raiders"
+        }
+    },
+    "annihilation": {
+        "name": "Annihilation",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 15,
+            "hit": 95,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Magic attack. Units hit suffer Res -5 for 1 turn.",
+        "reference": {
+            "Classes": "Golem"
+        }
+    },
+    "armpress": {
+        "name": "Arm Press",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "6x3",
+        "area": "rectangle",
+        "stats": {
+            "mt": 20,
+            "hit": 60,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit suffer Spd -5 for 1 turn.",
+        "reference": {
+            "Classes": "Giant Demonic Beast"
+        }
+    },
+    "assaulttroop": {
+        "name": "Assault Troop",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 4,
+        "area": "line",
+        "stats": {
+            "mt": 10,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Charge attack against foes in the area.",
+        "reference": {
+            "Battalions": "Aegir Astral Knights | Alliance Cavalry | Almyra Cavalry | Almyra Wyvern Co. | Ancient Cavalry | Cichol Wyvern Co. | Dominic Cavalry | Duscur Cavalry | Einherjar | Empire Cavalry | Gaspard Knights | Gloucester Knights | Golden Deer Wyvern Co. | Goneril Valkyries | Holst's Chosen | Holy Knights of Seiros | Jeralt's Mercenaries | Kingdom Knights | Miklan Private Militia | Phantasmal Cavalry | Phantasmal Wyvern Co. | Reaper Knights | Rowe Cavalry"
+        }
+    },
+    "assembly": {
+        "name": "Assembly",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "line",
+        "stats": {
+            "mt": 4,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that moves unit 1 tile backward and pulls target foe into unit's previous space.",
+        "reference": {
+            "Battalions": "Alliance Pegasus Co. | Empire Elite Wyvern Co. | Kingdom Pegasus Co. | Seiros Pegasus Co. | Victor Private Military"
+        }
+    },
+    "aurorabreath": {
+        "name": "Aurora Breath",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "7x4",
+        "area": "rectangle",
+        "stats": {
+            "mt": 20,
+            "hit": 100,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Foes hit are rattled. Does not affect allies.",
+        "reference": {
+            "Classes": "The Immaculate One (Crimson Flower Only)"
+        }
+    },
+    "bagoftricks": {
+        "name": "Bag of Tricks",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 3
+        },
+        "desc": "Set Gambit Counter of all allies within range to 0.",
+        "reference": {
+            "Notes": "Unused."
+        }
+    },
+    "battlegroundcafe": {
+        "name": "Battleground Caf\u00e9",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": "5x3",
+        "area": "triangle",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 3
+        },
+        "desc": "Tea served by the best valets. Allies within range ain Str+4. Lasts one turn.",
+        "reference": {
+            "Battalions": "Nuvelle Chamberlain Co."
+        }
+    },
+    "battlegroundcleanup": {
+        "name": "Battleground Clean Up",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "3x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 15,
+            "hit": 40,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "These top-tier servants will clean up the battlefield. Attack foes within range.",
+        "reference": {
+            "Battalions": "Nuvelle Stewards Co."
+        }
+    },
+    "blaze": {
+        "name": "Blaze",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "5x3",
+        "area": "triangle",
+        "stats": {
+            "mt": 10,
+            "hit": 50,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "Attack that ignites certain terrain in the area into flame.",
+        "reference": {
+            "Battalions": "Alliance Knights | Empire Knights | Empire Pavise Co. | Imperial Guard | Knights of Seiros | Leicester Mercenaries",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "blessing": {
+        "name": "Blessing",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "Affected allies can survive lethal damage with 1 HP once, if HP is > 1.",
+        "reference": {
+            "Battalions": "Alliance Sages | Empire Holy Magic Users | Essar Research Group | Hevring Prayer Troops | Kingdom Priests"
+        }
+    },
+    "brimstonebreath": {
+        "name": "Brimstone Breath",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "6x3",
+        "area": "rectangle",
+        "stats": {
+            "mt": 19,
+            "hit": 85,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit suffer Def -5 for 1 turn. Ignites certain terrain into Flame.",
+        "reference": {
+            "Classes": "Altered Demonic Beast",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "cyclone": {
+        "name": "Cyclone",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 18,
+            "hit": 85,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit cannot move for 1 turn.",
+        "reference": {
+            "Classes": "Giant Wolf"
+        }
+    },
+    "danceofthegoddess": {
+        "name": "Dance of the Goddess",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "Allies in the area can move again.",
+        "reference": {
+            "Battalions": "Blue Lion Dancers | Opera Co. Volunteers"
+        }
+    },
+    "disturbance": {
+        "name": "Disturbance",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "line",
+        "stats": {
+            "mt": 4,
+            "hit": 60,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that rattles foes, preventing them from moving on the next turn.",
+        "reference": {
+            "Battalions": "Alliance Armored Co. | Alliance Brawlers | Alliance Youths | Ancient Infantry | Bandits | Church of Seiros Soldiers | Cliff Bandit Marksmen | Dark Wyvern Co. | Duscur Infantry | Empire Brawlers | Empire Youths | Enhanced Infantry | Gaspard Archers | Gaspard Militia | Iron King's Thieves | Kingdom Brawlers | Kingdom Youths | Mysterious Infantry | Mysterious Wyvern Co. | Phantasmal Archers | Phantasmal Infantry | Pirate Marksmen | Pirates | Rampaging Villagers | Remire Militia | Rogues | Seiros Brawlers | Thief Marksmen | Thieves | West Church Knights | West Church Pegasus Co."
+        }
+    },
+    "flamebreath": {
+        "name": "Flame Breath",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 13,
+            "hit": 90,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit suffer Def -5 for 1 turn. Ignites certain terrain into Flame.",
+        "reference": {
+            "Classes": "Demonic Beast | Experimental Demonic Beast | Flying Demonic Beast",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "flashfirearrows": {
+        "name": "Flash-Fire Arrows",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 4,
+        "area": "line",
+        "stats": {
+            "mt": 7,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that ignites certain terrain in the area into Flame. Effective against fliers.",
+        "reference": {
+            "Battalions": "Alliance Master Archers | Edmund Troops | Empire Snipers | House Rowe Archers",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "fusillade": {
+        "name": "Fusillade",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": 5,
+            "hit": 50,
+            "rng": "2-3",
+            "uses": 2
+        },
+        "desc": "Rain arrows down on the area. Effective against fliers. Range: 2-3.",
+        "reference": {
+            "Battalions": "Alliance Snipers | Almyra Mercenaries | Empire Archers | Kingdom Snipers | Seiros Archers | Varley Archers | West Church Archers"
+        }
+    },
+    "gale": {
+        "name": "Gale",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "7x4",
+        "area": "rectangle",
+        "stats": {
+            "mt": 25,
+            "hit": 90,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Magic attack. Units hit are rattled.",
+        "reference": {
+            "Classes": "Lord of the Desert"
+        }
+    },
+    "groupflames": {
+        "name": "Group Flames",
+        "type": "magicalgambit",
+        "hits": "target",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": 2,
+            "hit": 60,
+            "rng": "1-2",
+            "uses": 1
+        },
+        "desc": "Fire magic that affects a wide area. Range: 1-2.",
+        "reference": {
+            "Battalions": "Empire Magic Corps | Mysterious Magic Corps | Seiros Magic Corps",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "groupice": {
+        "name": "Group Ice",
+        "type": "magicalgambit",
+        "hits": "target",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": 3,
+            "hit": 50,
+            "rng": "1-2",
+            "uses": 1
+        },
+        "desc": "Ice magic that affects a wide area. Range: 1-2.",
+        "reference": {
+            "Battalions": "Kingdom Magic Corps"
+        }
+    },
+    "grouplanceattack": {
+        "name": "Group Lance Attack",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "3x1",
+        "area": "rectangle",
+        "stats": {
+            "mt": 6,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Perform a lance attack in the area.",
+        "reference": {
+            "Battalions": "Alliance Pavise Co. | Empire Pegasus Co. | Enhanced Heavy Co. | Kingdom Heavy Soldiers | Kingdom Lance Co. | Rowe Armored Co."
+        }
+    },
+    "grouplightning": {
+        "name": "Group Lightning",
+        "type": "magicalgambit",
+        "hits": "target",
+        "range": 1,
+        "area": "rectangle",
+        "stats": {
+            "mt": 4,
+            "hit": 40,
+            "rng": "1-2",
+            "uses": 1
+        },
+        "desc": "Lightning magic that affects a wide area. Range: 1-2.",
+        "reference": {
+            "Battalions": "Alliance Magic Corps | West Church Corps | West Church Sages"
+        }
+    },
+    "heavystrike": {
+        "name": "Heavy Strike",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "6x3",
+        "area": "rectangle",
+        "stats": {
+            "mt": 21,
+            "hit": 80,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit are rattled.",
+        "reference": {
+            "Classes": "Wandering Beast"
+        }
+    },
+    "hoarfrost": {
+        "name": "Hoarfrost",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": 2,
+        "area": "farradius",
+        "stats": {
+            "mt": 5,
+            "hit": 70,
+            "rng": "1-8",
+            "uses": "-"
+        },
+        "desc": "Ignores enemy Prt. Heals ally HP. Centered on a point within range.",
+        "reference": {
+            "Classes": "The Immaculate One (Silver Snow Only)",
+            "Notes": "Nullifies foes' protection.\nRestores HP to units of the same affiliation as the user instead of damaging them."
+        }
+    },
+    "impregnablewall": {
+        "name": "Impregnable Wall",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": "3x1",
+        "area": "rectangle",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 5
+        },
+        "desc": "Allies deal and receive only 1 damage for the rest of the turn.",
+        "reference": {
+            "Battalions": "Alliance Wyvern Co. | Empire Armored Co. | Kingdom Armored Co.",
+            "Notes": "Does not protect against Bohr \u03a7, or the instant-KO effects of Lethality and Assassinate."
+        }
+    },
+    "lightbreath": {
+        "name": "Light Breath",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 18,
+            "hit": 85,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Magic attack. Foes hit suffer Str -5 for 1 turn. Does not affect allies.",
+        "reference": {
+            "Classes": "White Beast"
+        }
+    },
+    "lightlancebarrage": {
+        "name": "Light-Lance Barrage",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "6x3",
+        "area": "rectangle",
+        "stats": {
+            "mt": 23,
+            "hit": 80,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Magic attack. Units hit suffer Res -5 for 1 turn.",
+        "reference": {
+            "Classes": "Altered Golem | Guardian Golem"
+        }
+    },
+    "lineoflances": {
+        "name": "Line of Lances",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "3x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 5,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Perform a lance attack in the area. Effective against cavalry.",
+        "reference": {
+            "Battalions": "Duscur Heavy Soldiers | Empire Heavy Soldiers | Royal Guard"
+        }
+    },
+    "linkedhorses": {
+        "name": "Linked Horses",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "3x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 12,
+            "hit": 50,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "A wide charge of cavalry linked by chains.",
+        "reference": {
+            "Battalions": "Black Eagle Cavalry | Blue Lion Knights | Enhanced Cavalry | Golden Deer Cavalry | Kingdom Holy Knights | Rowe Knights"
+        }
+    },
+    "lure": {
+        "name": "Lure",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "line",
+        "stats": {
+            "mt": 4,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that moves adjacent foe to the opposite side of unit.",
+        "reference": {
+            "Battalions": "Alliance Infantry | Ancient Wyvern Co. | Empire Infantry | Galatea Pegasus Co. | Kingdom Infantry"
+        }
+    },
+    "madmelee": {
+        "name": "Mad Melee",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "3x1",
+        "area": "rectangle",
+        "stats": {
+            "mt": 4,
+            "hit": 60,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack foes within range.",
+        "reference": {
+            "Battalions": "Alliance Duelists"
+        }
+    },
+    "onslaught": {
+        "name": "Onslaught",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "line",
+        "stats": {
+            "mt": 8,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that pushes adjacent foe 1 tile away.",
+        "reference": {
+            "Battalions": "Ancient Armored Co. | Bergliez War Group | Black Eagle Heavy Axes | Brigid Mercenaries | Daphnel Duelists | Dark Infantry | Duscur Infantry | Fraldarius Soldiers | Kingdom Brave Lance Co. | Kronya Subordinates | Reaper Infantry | Seiros Armored Co. | Seiros Mercenaries | West Church Mercenaries"
+        }
+    },
+    "poisonbreath": {
+        "name": "Poison Breath",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 15,
+            "hit": 90,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit are poisoned.",
+        "reference": {
+            "Classes": "Wild Demonic Beast"
+        }
+    },
+    "poisontactic": {
+        "name": "Poison Tactic",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "5x3",
+        "area": "triangle",
+        "stats": {
+            "mt": 5,
+            "hit": 60,
+            "rng": 1,
+            "uses": 1
+        },
+        "desc": "Detonate a toxic barrel to inflict poison on foes in the area.",
+        "reference": {
+            "Battalions": "Alliance Guard | Brigid Hunters | Enhanced Wyvern Co. | Golden Deer Archers | Merchant Military | Pallard\u00f3 Bodyguards"
+        }
+    },
+    "poisonedarrows": {
+        "name": "Poisoned Arrows",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 1,
+        "area": "radius",
+        "stats": {
+            "mt": 4,
+            "hit": 60,
+            "rng": "2-3",
+            "uses": 2
+        },
+        "desc": "Rain down arrows that inflict poison on foes. Effective against fliers. Range: 2-3.",
+        "reference": {
+            "Battalions": "Alliance Archers | Sauin Militia"
+        }
+    },
+    "ragingflames": {
+        "name": "Raging Flames",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "5x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 15,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that ignites certain terrain in the area into Flame.",
+        "reference": {
+            "Battalions": "Flame Emperor Co. | Supreme Armored Co.",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "randomshot": {
+        "name": "Random Shot",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": "3x1",
+        "area": "rectangle",
+        "stats": {
+            "mt": 8,
+            "hit": 40,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack foes within range.",
+        "reference": {
+            "Battalions": "Empire Warriors"
+        }
+    },
+    "rapids": {
+        "name": "Rapids",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "7x4",
+        "area": "rectangle",
+        "stats": {
+            "mt": 18,
+            "hit": 65,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Magic attack. Units hit are rattled.",
+        "reference": {
+            "Classes": "Lord of the Lake"
+        }
+    },
+    "recoveryroar": {
+        "name": "Recovery Roar",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 5
+        },
+        "desc": "Cure status effects on all allies within range.",
+        "reference": {
+            "Battalions": "Kingdom Wyvern Co."
+        }
+    },
+    "resonantflames": {
+        "name": "Resonant Flames",
+        "type": "magicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": 6,
+            "hit": 60,
+            "rng": "1-2",
+            "uses": 1
+        },
+        "desc": "Powerful fire magic that affects a wide area. Range: 1-2.",
+        "reference": {
+            "Battalions": "Ancient Sorcerers | Arundel Magic Corps | Empire Magic Users | Mysterious Magic Users | Phantasmal Magic Corps | School of Sorcery Soldiers | Solon Subordinates | Timotheos Magi Corps",
+            "Notes": "Converts grassland, forest, thicket, wasteland, house, edifice, church, and opera hall terrain within its area of effect into flame terrain for one turn."
+        }
+    },
+    "resonantice": {
+        "name": "Resonant Ice",
+        "type": "magicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": 7,
+            "hit": 50,
+            "rng": "1-2",
+            "uses": 1
+        },
+        "desc": "Powerful ice magic that affects a wide area. Range: 1-2.",
+        "reference": {
+            "Battalions": "Blue Lion Magic Corps | Kingdom Magic Users"
+        }
+    },
+    "resonantlightning": {
+        "name": "Resonant Lightning",
+        "type": "magicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": 8,
+            "hit": 40,
+            "rng": "1-2",
+            "uses": 1
+        },
+        "desc": "Powerful lightning magic that affects a wide area. Range: 1-2.",
+        "reference": {
+            "Battalions": "Alliance Magic Users | Dark Magic Corps | Enhanced Sorcerers | Macuil Evil Repelling Co. | Morfis Magic Corps | Ordelia Sorcery Co. | Vestra Sorcery Engineers"
+        }
+    },
+    "resonantwhitemagic": {
+        "name": "Resonant White Magic",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": "3x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 8,
+            "hit": 100,
+            "rng": 1,
+            "uses": 3
+        },
+        "desc": "Heal HP of allies in the area. Range: 1.",
+        "reference": {
+            "Battalions": "Alliance Physicians | Cethleann Monks | Church Soldiers | Seiros Sacred Monks",
+            "Healing Calculation": "8 + (User's Magic \u00f7 3)"
+        }
+    },
+    "retribution": {
+        "name": "Retribution",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": "3x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Allies can counterattack when they are attacked from outside their usual range for 5 turns.",
+        "reference": {
+            "Battalions": "Black Eagles Pegasus Co. | Indech Sword Fighters | Kingdom Archers"
+        }
+    },
+    "reversal": {
+        "name": "Reversal",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "line",
+        "stats": {
+            "mt": 8,
+            "hit": 50,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Attack that causes unit and target foe to swap spaces.",
+        "reference": {
+            "Battalions": "Empire Wyvern Co."
+        }
+    },
+    "sacredshield": {
+        "name": "Sacred Shield",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": "3x1",
+        "area": "rectangle",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 5
+        },
+        "desc": "Allies receive 0 damage from ranged attacks for the rest of the turn.",
+        "reference": {
+            "Battalions": "Kingdom Heavy Knights",
+            "Mistranslation": "Due to a mistranslation, the in-game description states that Allies receive 0 damage from only ranged physical attacks."
+        }
+    },
+    "sandstorm": {
+        "name": "Sandstorm",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 20,
+            "hit": 75,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit cannot move for 1 turn.",
+        "reference": {
+            "Classes": "Giant Crawler"
+        }
+    },
+    "skyfissure": {
+        "name": "Sky Fissure",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 14,
+            "hit": 90,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit cannot move for 1 turn.",
+        "reference": {
+            "Classes": "Giant Bird"
+        }
+    },
+    "stride": {
+        "name": "Stride",
+        "type": "supportgambit",
+        "hits": "ally",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Allies gain Mv +5 until the end of the turn.",
+        "reference": {
+            "Battalions": "Gautier Knights | Kingdom Cavalry | Seiros Holy Monks | Secret Transport Force"
+        }
+    },
+    "thornsofruin": {
+        "name": "Thorns of Ruin",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "4x2",
+        "area": "rectangle",
+        "stats": {
+            "mt": 16,
+            "hit": 80,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit suffer Spd -5 for 1 turn.",
+        "reference": {
+            "Classes": "Black Beast"
+        }
+    },
+    "titanomachy": {
+        "name": "Titanomachy",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "6x3",
+        "area": "rectangle",
+        "stats": {
+            "mt": 22,
+            "hit": 75,
+            "rng": 1,
+            "uses": "-"
+        },
+        "desc": "Units hit suffer Spd -5 for 1 turn.",
+        "reference": {
+            "Classes": "Titanus"
+        }
+    },
+    "umbralsurge": {
+        "name": "Umbral Surge",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": "all",
+        "area": "global",
+        "stats": {
+            "mt": "-",
+            "hit": 100,
+            "rng": "-",
+            "uses": "-"
+        },
+        "desc": "Full-body attack that deals damage = up to 25% of foes' HP. Moves this unit and all foes.",
+        "reference": {
+            "Classes": "Umbral Beast",
+            "Notes": "Moves the unit and each target to a random space on the map.\nInflicts Stirrings of Reason status on user, disabling its ability to counterattack and reducing its critical avoid by -25 for one turn."
+        }
+    },
+    "waveattack": {
+        "name": "Wave Attack",
+        "type": "physicalgambit",
+        "hits": "target",
+        "range": 2,
+        "area": "radius",
+        "stats": {
+            "mt": 13,
+            "hit": 60,
+            "rng": 1,
+            "uses": 2
+        },
+        "desc": "Perform a lance attack in the area. Effective against armored units.",
+        "reference": {
+            "Battalions": "King of Lions Corps"
+        }
+    },
+    "wiltedflower": {
+        "name": "Wilted Flower",
+        "type": "staggeringblow",
+        "hits": "target",
+        "range": 2,
+        "area": "farradius",
+        "stats": {
+            "mt": 5,
+            "hit": 90,
+            "rng": "1-6",
+            "uses": "-"
+        },
+        "desc": "Units hit are rattled. Ignores enemy Prt. Centered on a point within range.",
+        "reference": {
+            "Classes": "Hegemon Husk",
+            "Notes": "Nullifies the enemy's Protection."
+        }
+    }
+}
