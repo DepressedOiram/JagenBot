@@ -77,5 +77,18 @@
     "description": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nFor certain target allies within 3 spaces of unit, if foe initiates combat, reduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; only triggers once per turn; counts as if damage reduction is from a Special). (If support partner is on player team, targets any support partner; otherwise, targets any ally.)",
     "icon": 2659,
     "slot": "Special"
+  },
+  "roy": {
+    "name": "Roy",
+    "stats": {
+      "hp": 3,
+      "atk": 3,
+      "spd": 3,
+      "def": 3,
+      "res": 3
+    },
+    "description": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nGrants HP/Atk/Spd/Def/Res+3.\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf foe initiates combat and if unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per turn; does not stack with other similar effects; when this effect triggers, other similar effects granted to unit are considered triggered and vice-versa).",
+    "icon": 2705,
+    "slot": "Special"
   }
 }

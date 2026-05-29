@@ -1429,7 +1429,8 @@
       "roy2",
       "roy3",
       "roy4",
-      "roy5"
+      "roy5",
+      "roy6"
     ],
     "prf": {
       "": "bindingbladeeff",
@@ -31599,7 +31600,8 @@
       "roy",
       "roy3",
       "roy4",
-      "roy5"
+      "roy5",
+      "roy6"
     ],
     "prf": {
       "": "blazingdurandaleff",
@@ -40680,7 +40682,8 @@
       "roy",
       "roy2",
       "roy4",
-      "roy5"
+      "roy5",
+      "roy6"
     ],
     "prf": {
       "": "gratiares",
@@ -65122,7 +65125,8 @@
       "roy",
       "roy2",
       "roy3",
-      "roy5"
+      "roy5",
+      "roy6"
     ],
     "prf": {
       "": "dragonbindeff",
@@ -146186,7 +146190,8 @@
       "roy",
       "roy2",
       "roy3",
-      "roy4"
+      "roy4",
+      "roy6"
     ],
     "prf": {
       "": "blazingpolearms",
@@ -250582,6 +250587,187 @@
       "spd": "braidedblade",
       "def": "braidedblade",
       "res": "braidedblade"
+    }
+  },
+  "roy6": {
+    "name": "Roy",
+    "title": "Of Binding",
+    "description": "One of the Emblems who were summoned to Elyos. Resides in the Ring of the Young Lion. Appears in Fire Emblem: The Binding Blade / Fire Emblem Engage.",
+    "origin": "The Binding Blade + Engage",
+    "artist": "Susumu Kuroi (\u9ED2\u4E95\u30B9\u30B9\u30E0)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1382",
+    "type": "emblem",
+    "version": "10.5",
+    "duo": false,
+    "harmonized": false,
+    "emblem": "Grants HP/Atk/Spd/Def/Res+3.\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf foe initiates combat and if unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per turn; does not stack with other similar effects; when this effect triggers, other similar effects granted to unit are considered triggered and vice-versa).",
+    "base": {
+      "hp": 18,
+      "atk": 12,
+      "spd": 10,
+      "def": 10,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Young Lion Edge": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Blazing Lion": "5"
+    },
+    "passive": {
+      "A": {
+        "Rise Above 1": "2",
+        "Rise Above 2": "3",
+        "Rise Above 3": "4",
+        "Rise Above 4": "5"
+      },
+      "B": {
+        "Pair Up 1": "2",
+        "Pair Up 2": "3",
+        "Pair Up 3": "4",
+        "Pair Up 4": "5"
+      },
+      "C": {
+        "Atk/Spd Oath 1": "2",
+        "Atk/Spd Oath 2": "3",
+        "Atk/Spd Oath 3": "4",
+        "Atk/Spd Faith": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/Roy_Of_Binding_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Roy_Of_Binding_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Roy_Of_Binding_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Roy_Of_Binding_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of Binding",
+      "Roy: Of Binding",
+      "Emblem Roy",
+      "Engage Roy",
+      "E Roy",
+      "roy6"
+    ],
+    "HARD_ALT_NAME": [
+      "Of Binding",
+      "Roy: Of Binding",
+      "Emblem Roy",
+      "Engage Roy",
+      "E Roy",
+      "roy6"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30ed\u30a4",
+    "voice": "Ray Chase",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe",
+      "elyos"
+    ],
+    "chibi": [
+      "fe6",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "My father in this world looks well. I'm older than he is now, but I can't help feeling like a child around him.",
+        "During my time in Elyos, I was entrusted to Brodia, a kingdom of great military strength.\nSeeing the strategies devised by the kings there taught me a lot.",
+        "Emblem Rings are powerful tools. They can even deter conflict between countries. How do you see them?",
+        "It seems like I'm able to eat again. I'll need to remember my table manners before I dine with the other Heroes.",
+        "Let the flames from my sword aid you in battle. Huh? You want to use them to roast marshmallows? Um..."
+      ],
+      "Visit": [
+        "This castle is a military powerhouse. It's natural you'd receive greetings from [F]."
+      ],
+      "Level": [
+        "This is due to your strategy. That was some impressive leadership.",
+        "You should never waver in your mission. You're on the right track.",
+        "I'm sorry. It was a great strategy, but I failed to do my part. I promise to do better next time."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Emblem Roy. If you're summoning me...that can only mean war has begun. I'll lend you a hand."
+      ],
+      "Learn Skill": [
+        "It always feels great to gain new skills. I hope they give you more strategic options in battle."
+      ],
+      "Confession": [
+        "Thanks for your concern, but I am all right, [S].\nIt's because of your strategy that, yet again, I am unharmed. I appreciate the care you always show me.\nEven in the world I come from, I was among the youngest of the Emblems. My allies often worried about me.\nBut I've long since grown up. My time in Elyos helped me to mature beyond my comrades and Elibean dragons.\nEverything I learned there, all of my experiences... I want to use them to help in this war.\nAs long as you trust me, I can fight any enemy, no matter how strong. I hope you continue to stand with me."
+      ],
+      "Special": [
+        "Blazing Lion!",
+        "I'll guide you!",
+        "Rise up!",
+        "Emblem engage!"
+      ],
+      "Status": [
+        "-",
+        "A war council? I am glad to participate.",
+        "Oh! Is it my armor? Does it need polishing?",
+        "My ring was entrusted to the kingdom of Brodia, a mighty land ruled by a valiant king.",
+        "I look forward to seeing how the Order of Heroes battles. I assume it is quite different from the Divine Dragon's army.",
+        "\"Rise up, Emblem of Binding!\" Just hearing those words empowers me.",
+        "Seeing Father and Mother, and Lilina and the others... It warms my heart that they are doing so well.",
+        "I understand I am not the only Roy among your ranks. Yet, with my strength as an Emblem, I wish to be your sword."
+      ],
+      "Map Select": [
+        "I won't let you down.",
+        "So long as I am with you.",
+        "We're sure to win this!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Roy",
+    "SEARCH_NAME": "Emblem Roy",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Red_Sword:1317239717707911188>Emblem Roy",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "roy",
+      "roy2",
+      "roy3",
+      "roy4",
+      "roy5"
+    ],
+    "prf": {
+      "": "younglionedge",
+      "eff": "younglionedge",
+      "atk": "younglionedge",
+      "spd": "younglionedge",
+      "def": "younglionedge",
+      "res": "younglionedge"
     }
   }
 }

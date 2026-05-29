@@ -7835,7 +7835,8 @@
         "naoise": "3",
         "tibarn3": "3",
         "miklan": "3",
-        "reginn4": "3"
+        "reginn4": "3",
+        "roy6": "3"
       }
     },
     "refine": {},
@@ -8054,7 +8055,8 @@
         "naoise": "4",
         "tibarn3": "4",
         "miklan": "4",
-        "reginn4": "4"
+        "reginn4": "4",
+        "roy6": "4"
       }
     },
     "refine": {},
@@ -64267,7 +64269,8 @@
         "machyua": "4",
         "mbyleth5": "4",
         "ogma3": "4",
-        "ryoma5": "4"
+        "ryoma5": "4",
+        "roy6": "4"
       },
       "Atk/Spd Oath 2": {},
       "Atk/Spd Oath 1": {}
@@ -149998,7 +150001,8 @@
       "Atk/Spd Faith": {
         "machyua": "5",
         "mbyleth5": "5",
-        "ryoma5": "5"
+        "ryoma5": "5",
+        "roy6": "5"
       }
     },
     "icon": 2475,
@@ -153149,7 +153153,8 @@
       "Pair Up 4": {
         "fcorrin9": "5",
         "alfred2": "5",
-        "hortensia3": "5"
+        "hortensia3": "5",
+        "roy6": "5"
       }
     },
     "icon": 2520,
@@ -160614,7 +160619,7 @@
     "name": "True Bane",
     "skill": [
       {
-        "name": "Frozen Mirror",
+        "name": "True Bane",
         "description": "When Special triggers, boosts damage by the greater of foe's Spd or Def.\nFor unit's first attack during combat, if damage dealt prior to damage reduction calculation < foe's HP - 1, sets damage before damage reduction as foe's HP - 1 (excluding certain foes, such as Røkkr).\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials), disables skills of all foes excluding foe in combat, and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow 100%\u3011.\nAt start of turn, grants Atk/Spd\u3010Great Talent\u3011 +2 to unit and allies within 3 rows or 3 columns centered on unit.\nAfter combat, if unit's Special triggered, grants Atk/Spd\u3010Great Talent\u3011+4 to unit and allies within 3 rows or 3 columns centered on unit.\n(This skill grants max of\u3010Great Talent\u3011+20 for unit and\u3010Great Talent\u3011+10 for allies.)",
         "stats": {
           "cooldown": "5",
@@ -163821,7 +163826,7 @@
         "exclusive": false,
         "slot": "Passive A",
         "restriction_weapon": [
-          "**Can only** be used by: ",
+          "**Cannot** be used by: ",
           [
             "Red_Sword",
             "Red_Beast",
@@ -164290,6 +164295,184 @@
       "Speed/Defense Allure"
     ],
     "slot": "Passive B",
+    "wpn": false
+  },
+  "younglionedge": {
+    "name": "Young Lion Edge",
+    "skill": [
+      {
+        "name": "Young Lion Edge",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range.\nFor unit and allies within 3 rows or 3 columns centered on unit, restores 40% of unit's or ally's max HP as their combat begins (triggers after effects that deal damage as combat begins; only highest value applied; does not stack), grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), reduces the effect of \u3010Deep Wounds\u3011by 50%, and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally during combat.\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials) during combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Binding Blade Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nDecreases Spd difference necessary for unit to make a follow-up attack by 10 during combat.\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Young Lion Edge": {
+        "roy6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Young Lion Edge",
+      "Of Binding",
+      "Roy: Of Binding",
+      "Emblem Roy",
+      "Engage Roy",
+      "E Roy",
+      "roy6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw219"
+  },
+  "blazinglion": {
+    "name": "Blazing Lion",
+    "skill": [
+      {
+        "name": "Blazing Lion",
+        "description": "When Special triggers, boosts damage by unit's Spd.\nAt start of player phase or enemy phase, grants \u3010Reflex\u3011and \"increases Spd difference necessary for foe to make a follow-up attack by 10 during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if unit's HP > 1 and foe would reduce unit's HP to 0, unit survives with 1 HP (once per combat; does not stack with other similar effects; when this effect triggers, other similar effects granted to unit are considered triggered and vice-versa).\nIf decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nIf unit initiates combat, applies \u3010Divine Vein (Flame)\u3011on 5 spaces in a line centered on foe's space and on the 5 spaces behind those spaces (based on direction unit is facing) for 1 turn after combat (this effect does not trigger if unit has not triggered Special and unit is defeated during combat).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Blazing Lion": {
+        "roy6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Blazing Lion"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "riseabove": {
+    "name": "Rise Above",
+    "skill": [
+      {
+        "name": "Rise Above 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Grants HP+1 and Atk/Spd/Def/Res+2."
+      },
+      {
+        "name": "Rise Above 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Rise Above 1"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Grants HP+3 and Atk/Spd/Def/Res+5."
+      },
+      {
+        "name": "Rise Above 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Rise Above 2"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Grants HP+5 and Atk/Spd/Def/Res+8."
+      },
+      {
+        "name": "Rise Above 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Rise Above 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Grants HP+7 and Atk/Spd/Def/Res+12.\nUnit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      }
+    ],
+    "reference": {
+      "Rise Above 1": {},
+      "Rise Above 2": {},
+      "Rise Above 3": {},
+      "Rise Above 4": {
+        "roy6": "5"
+      }
+    },
+    "icon": 2704,
+    "HARD_ALT_NAME": [
+      "Rise Above 1",
+      "Rise Above 2",
+      "Rise Above 3",
+      "Rise Above 4",
+      "Rise Above"
+    ],
+    "ALT_NAME": [
+      "Rise Up 1",
+      "Rise Up 2",
+      "Rise Up 3",
+      "Rise Up 4",
+      "Rise Up"
+    ],
+    "slot": "Passive A",
     "wpn": false
   }
 }

@@ -31229,6 +31229,7 @@
   },
   "susumukuroi": {
     "heroes": {
+      "roy6": "<:Red_Sword:1317239717707911188>Emblem Roy",
       "zelestia": "<:Green_Tome:1317239575352971396>Zelestia"
     },
     "name": "Susumu Kuroi (\u9ED2\u4E95\u30B9\u30B9\u30E0)",
@@ -31238,7 +31239,13 @@
       "Zelestia: Loving Leader",
       "Base Zelestia",
       "Normal Zelestia",
-      "zelestia"
+      "zelestia",
+      "Of Binding",
+      "Roy: Of Binding",
+      "Emblem Roy",
+      "Engage Roy",
+      "E Roy",
+      "roy6"
     ]
   },
   "kuren": {

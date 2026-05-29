@@ -1416,7 +1416,8 @@
             "Sword": [
                 "Oath Tyrfing",
                 "Priming Sword",
-                "Teatime's Edge"
+                "Teatime's Edge",
+                "Young Lion Edge"
             ],
             "Lance": [
                 "Apprentice Lance",
@@ -2113,7 +2114,8 @@
         "icon": "deepwounds",
         "reference_weapon": {
             "Sword": [
-                "Final Sword"
+                "Final Sword",
+                "Young Lion Edge"
             ],
             "Lance": [],
             "Axe": [],
@@ -2524,7 +2526,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Blazing Lion"
+            ],
             "A": [
                 "Flared Sparrow",
                 "Flared Mirror",
@@ -5994,6 +5998,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Blazing Lion",
                 "Sei\u00f0r Cannon",
                 "Sirius Pulse",
                 "True Bane"
@@ -6435,7 +6440,9 @@
                 "Pleasant Night",
                 "Tender Vision"
             ],
-            "special": [],
+            "special": [
+                "Blazing Lion"
+            ],
             "A": [],
             "B": [],
             "C": [],
@@ -7386,7 +7393,8 @@
                 "Hoshido Raijinto",
                 "Sisters' Blade",
                 "Sonic Sword",
-                "Sublime Creator"
+                "Sublime Creator",
+                "Young Lion Edge"
             ],
             "Lance": [
                 "Chosen Lance",

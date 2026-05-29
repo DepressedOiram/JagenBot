@@ -26210,7 +26210,13 @@
       "Alfonse: Opening Miracle",
       "Chosen Alfonse",
       "C Alfonse",
-      "alfonse6"
+      "alfonse6",
+      "Of Binding",
+      "Roy: Of Binding",
+      "Emblem Roy",
+      "Engage Roy",
+      "E Roy",
+      "roy6"
     ],
     "HARD_ALT_NAME": [
       "roy",
@@ -26422,7 +26428,13 @@
       "Alfonse: Opening Miracle",
       "Chosen Alfonse",
       "C Alfonse",
-      "alfonse6"
+      "alfonse6",
+      "Of Binding",
+      "Roy: Of Binding",
+      "Emblem Roy",
+      "Engage Roy",
+      "E Roy",
+      "roy6"
     ],
     "heroes": {
       "alfonse": "<:Red_Sword:1317239717707911188>Alfonse",
@@ -26443,7 +26455,8 @@
       "roy2R": "<:Red_Sword:1317239717707911188>Brave Roy (Resplendent)",
       "roy3": "<:Colorless_Bow:1317239404204654703>Valentines Roy",
       "roy4": "<:Red_Sword:1317239717707911188>Legendary Roy",
-      "roy5": "<:Green_Axe:1317239517136031897>Harmonic Roy"
+      "roy5": "<:Green_Axe:1317239517136031897>Harmonic Roy",
+      "roy6": "<:Red_Sword:1317239717707911188>Emblem Roy"
     },
     "name": "Ray Chase"
   },
