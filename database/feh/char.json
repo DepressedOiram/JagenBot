@@ -22964,7 +22964,8 @@
       "alm2",
       "alm3",
       "alm4",
-      "alm5"
+      "alm5",
+      "alm6"
     ],
     "prf": {
       "": "falchiongaideneff",
@@ -48008,15 +48009,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30ea\u30e7\u30a6\u30de",
     "voice": "Matt Mercer",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "motsutsu / Trys Inc.",
+    "resplendent_voice": "Matt Mercer",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2a/Ryoma_Supreme_Samurai_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Ryoma_Supreme_Samurai_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Ryoma_Supreme_Samurai_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Ryoma_Supreme_Samurai_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Ryoma_Supreme_Samurai_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/89/Ryoma_Supreme_Samurai_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Ryoma_Supreme_Samurai_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Ryoma_Supreme_Samurai_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "fates"
     ],
@@ -48072,7 +48078,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I shall close the gate!",
+          "Have at you!",
+          "Face me!",
+          "Witness my blade!"
+        ],
+        "Status": [
+          "Hm.",
+          "I am told this attire is representative of the Emblian Empire... What do you think?",
+          "Hm? Try keeping your eyes forward when you walk, or you may run into something else.",
+          "There are similarities between Askr's relationship with Embla and Hoshido's relationship with Nohr.",
+          "I am impressed by the bonds shared between the siblings of Embla's royal family.",
+          "My father and mother were great monarchs. It is my desire to be a prince they would look upon with pride.",
+          "It does not matter what world we are in, I will not be bested by Xander.",
+          "I shall wield this blade by your side for the ideals we share, no matter where it takes us."
+        ],
+        "Map Select": [
+          "Your aim is clear.",
+          "Give me orders.",
+          "I shall drive them back!"
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Legendary Ryoma",
     "SEARCH_NAME": "Legendary Ryoma",
@@ -55481,7 +55518,8 @@
       "laegjarn2",
       "laegjarn3",
       "laegjarn4",
-      "laegjarn5"
+      "laegjarn5",
+      "laegjarn6"
     ],
     "prf": {
       "": "niueff",
@@ -61277,7 +61315,8 @@
       "laegjarn",
       "laegjarn3",
       "laegjarn4",
-      "laegjarn5"
+      "laegjarn5",
+      "laegjarn6"
     ],
     "prf": {
       "": "wagasaspd",
@@ -68904,7 +68943,8 @@
       "alm",
       "alm3",
       "alm4",
-      "alm5"
+      "alm5",
+      "alm6"
     ],
     "prf": {
       "": "lunaarceff",
@@ -71893,7 +71933,8 @@
       "laegjarn",
       "laegjarn2",
       "laegjarn4",
-      "laegjarn5"
+      "laegjarn5",
+      "laegjarn6"
     ],
     "prf": {
       "": "worldseawaveeff",
@@ -76119,7 +76160,8 @@
       "alm",
       "alm2",
       "alm4",
-      "alm5"
+      "alm5",
+      "alm6"
     ],
     "prf": {
       "": "dracofalchioneff",
@@ -88340,13 +88382,9 @@
       "Alm: Lovebird Duo",
       "Lovebird Duo",
       "Duo Alm",
-      "Harmonic Alm",
-      "Harmonized Alm",
       "Valentines Alm",
       "Valentine Alm",
       "Duo Arum",
-      "Harmonic Arum",
-      "Harmonized Arum",
       "Valentines Arum",
       "Valentine Arum"
     ],
@@ -88358,13 +88396,9 @@
       "V Arum",
       "D Arum",
       "Duo Alm",
-      "Harmonic Alm",
-      "Harmonized Alm",
       "Valentines Alm",
       "Valentine Alm",
       "Duo Arum",
-      "Harmonic Arum",
-      "Harmonized Arum",
       "Valentines Arum",
       "Valentine Arum"
     ],
@@ -88467,7 +88501,8 @@
       "alm",
       "alm2",
       "alm3",
-      "alm5"
+      "alm5",
+      "alm6"
     ],
     "prf": {
       "": "scepterofloveeff",
@@ -95107,8 +95142,6 @@
       "Micaiah: Dawn Wind's Duo",
       "Dawn Wind's Duo",
       "Duo Micaiah",
-      "Harmonic Micaiah",
-      "Harmonized Micaiah",
       "Bridal Micaiah",
       "Groom Micaiah",
       "Bride Micaiah",
@@ -95117,8 +95150,6 @@
     "HARD_ALT_NAME": [
       "Dawn Wind's Duo",
       "Duo Micaiah",
-      "Harmonic Micaiah",
-      "Harmonized Micaiah",
       "Bridal Micaiah",
       "Groom Micaiah",
       "Bride Micaiah",
@@ -106892,12 +106923,12 @@
       "laevatein3"
     ],
     "prf": {
-      "": "twinstaraxe",
-      "eff": "twinstaraxe",
-      "atk": "twinstaraxe",
-      "spd": "twinstaraxe",
-      "def": "twinstaraxe",
-      "res": "twinstaraxe"
+      "": "twinstaraxeeff",
+      "eff": "twinstaraxeeff",
+      "atk": "twinstaraxeatk",
+      "spd": "twinstaraxespd",
+      "def": "twinstaraxedef",
+      "res": "twinstaraxeres"
     }
   },
   "navarre2": {
@@ -111709,12 +111740,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "kiastaff",
-      "eff": "kiastaff",
-      "atk": "kiastaff",
-      "spd": "kiastaff",
-      "def": "kiastaff",
-      "res": "kiastaff"
+      "": "kiastaffeff",
+      "eff": "kiastaffeff",
+      "atk": "kiastaffatk",
+      "spd": "kiastaffspd",
+      "def": "kiastaffdef",
+      "res": "kiastaffres"
     }
   },
   "asbel": {
@@ -114864,12 +114895,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "sparkingtome",
-      "eff": "sparkingtome",
-      "atk": "sparkingtome",
-      "spd": "sparkingtome",
-      "def": "sparkingtome",
-      "res": "sparkingtome"
+      "": "sparkingtomeeff",
+      "eff": "sparkingtomeeff",
+      "atk": "sparkingtomeatk",
+      "spd": "sparkingtomespd",
+      "def": "sparkingtomedef",
+      "res": "sparkingtomeres"
     }
   },
   "lex": {
@@ -115888,12 +115919,12 @@
       "ingrid5"
     ],
     "prf": {
-      "": "luin",
-      "eff": "luin",
-      "atk": "luin",
-      "spd": "luin",
-      "def": "luin",
-      "res": "luin"
+      "": "luineff",
+      "eff": "luineff",
+      "atk": "luinatk",
+      "spd": "luinspd",
+      "def": "luindef",
+      "res": "luinres"
     }
   },
   "marianne": {
@@ -120274,12 +120305,12 @@
     "alt": true,
     "reference": [],
     "prf": {
-      "": "bereftlance",
-      "eff": "bereftlance",
-      "atk": "bereftlance",
-      "spd": "bereftlance",
-      "def": "bereftlance",
-      "res": "bereftlance"
+      "": "bereftlanceeff",
+      "eff": "bereftlanceeff",
+      "atk": "bereftlanceatk",
+      "spd": "bereftlancespd",
+      "def": "bereftlancedef",
+      "res": "bereftlanceres"
     }
   },
   "catria4": {
@@ -120517,12 +120548,12 @@
       "catria5"
     ],
     "prf": {
-      "": "weddingbellaxe",
-      "eff": "weddingbellaxe",
-      "atk": "weddingbellaxe",
-      "spd": "weddingbellaxe",
-      "def": "weddingbellaxe",
-      "res": "weddingbellaxe"
+      "": "weddingbellaxeeff",
+      "eff": "weddingbellaxeeff",
+      "atk": "weddingbellaxeatk",
+      "spd": "weddingbellaxespd",
+      "def": "weddingbellaxedef",
+      "res": "weddingbellaxeres"
     }
   },
   "juno": {
@@ -133037,15 +133068,16 @@
       "laegjarn",
       "laegjarn2",
       "laegjarn3",
-      "laegjarn5"
+      "laegjarn5",
+      "laegjarn6"
     ],
     "prf": {
-      "": "flameofmuspell",
-      "eff": "flameofmuspell",
-      "atk": "flameofmuspell",
-      "spd": "flameofmuspell",
-      "def": "flameofmuspell",
-      "res": "flameofmuspell"
+      "": "flameofmuspelleff",
+      "eff": "flameofmuspelleff",
+      "atk": "flameofmuspellatk",
+      "spd": "flameofmuspellspd",
+      "def": "flameofmuspelldef",
+      "res": "flameofmuspellres"
     }
   },
   "volke": {
@@ -134665,7 +134697,8 @@
       "Thunder": "1",
       "Elthunder": "2",
       "Bl\u00e1rlion": "3",
-      "Bl\u00e1rlion+": "5"
+      "Bl\u00e1rlion+": "5",
+      "Clever Notations": "5"
     },
     "assist": {
       "Draw Back": "3"
@@ -134782,12 +134815,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "blarlionspd",
-      "eff": "blarlionspd",
-      "atk": "blarlionatk",
-      "spd": "blarlionspd",
-      "def": "blarliondef",
-      "res": "blarlionres"
+      "": "clevernotationseff",
+      "eff": "clevernotationseff",
+      "atk": "clevernotationsatk",
+      "spd": "clevernotationsspd",
+      "def": "clevernotationsdef",
+      "res": "clevernotationsres"
     }
   },
   "flavia": {
@@ -137937,12 +137970,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "rapidcrierbow",
-      "eff": "rapidcrierbow",
-      "atk": "rapidcrierbow",
-      "spd": "rapidcrierbow",
-      "def": "rapidcrierbow",
-      "res": "rapidcrierbow"
+      "": "rapidcrierboweff",
+      "eff": "rapidcrierboweff",
+      "atk": "rapidcrierbowatk",
+      "spd": "rapidcrierbowspd",
+      "def": "rapidcrierbowdef",
+      "res": "rapidcrierbowres"
     }
   },
   "riev": {
@@ -148070,12 +148103,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "morphfimbulvetr",
-      "eff": "morphfimbulvetr",
-      "atk": "morphfimbulvetr",
-      "spd": "morphfimbulvetr",
-      "def": "morphfimbulvetr",
-      "res": "morphfimbulvetr"
+      "": "morphfimbulvetreff",
+      "eff": "morphfimbulvetreff",
+      "atk": "morphfimbulvetratk",
+      "spd": "morphfimbulvetrspd",
+      "def": "morphfimbulvetrdef",
+      "res": "morphfimbulvetrres"
     }
   },
   "edelgard5": {
@@ -157987,7 +158020,8 @@
       "laegjarn",
       "laegjarn2",
       "laegjarn3",
-      "laegjarn4"
+      "laegjarn4",
+      "laegjarn6"
     ],
     "prf": {
       "": "flamefrostbow",
@@ -220279,12 +220313,12 @@
       "mae"
     ],
     "prf": {
-      "": "springairegg",
-      "eff": "springairegg",
-      "atk": "springairegg",
-      "spd": "springairegg",
-      "def": "springairegg",
-      "res": "springairegg"
+      "": "springaireggspd",
+      "eff": "springaireggspd",
+      "atk": "springaireggatk",
+      "spd": "springaireggspd",
+      "def": "springaireggdef",
+      "res": "springaireggres"
     }
   },
   "veyle3": {
@@ -220569,7 +220603,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -220633,12 +220667,12 @@
       "lonqu"
     ],
     "prf": {
-      "": "springairaxe",
-      "eff": "springairaxe",
-      "atk": "springairaxe",
-      "spd": "springairaxe",
-      "def": "springairaxe",
-      "res": "springairaxe"
+      "": "springairaxespd",
+      "eff": "springairaxespd",
+      "atk": "springairaxeatk",
+      "spd": "springairaxespd",
+      "def": "springairaxedef",
+      "res": "springairaxeres"
     }
   },
   "alm5": {
@@ -220811,7 +220845,8 @@
       "alm",
       "alm2",
       "alm3",
-      "alm4"
+      "alm4",
+      "alm6"
     ],
     "prf": {
       "": "truebondbow",
@@ -220991,12 +221026,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "arcanemedusa",
-      "eff": "arcanemedusa",
-      "atk": "arcanemedusa",
-      "spd": "arcanemedusa",
-      "def": "arcanemedusa",
-      "res": "arcanemedusa"
+      "": "arcanemedusares",
+      "eff": "arcanemedusares",
+      "atk": "arcanemedusaatk",
+      "spd": "arcanemedusaspd",
+      "def": "arcanemedusadef",
+      "res": "arcanemedusares"
     }
   },
   "jesse": {
@@ -221155,12 +221190,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "hexbladesword",
-      "eff": "hexbladesword",
-      "atk": "hexbladesword",
-      "spd": "hexbladesword",
-      "def": "hexbladesword",
-      "res": "hexbladesword"
+      "": "hexbladeswordspd",
+      "eff": "hexbladeswordspd",
+      "atk": "hexbladeswordatk",
+      "spd": "hexbladeswordspd",
+      "def": "hexbladesworddef",
+      "res": "hexbladeswordres"
     }
   },
   "nomah": {
@@ -221483,12 +221518,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "raudrcrab",
-      "eff": "raudrcrab",
-      "atk": "raudrcrab",
-      "spd": "raudrcrab",
-      "def": "raudrcrab",
-      "res": "raudrcrab"
+      "": "raudrcrabdef",
+      "eff": "raudrcrabdef",
+      "atk": "raudrcrabatk",
+      "spd": "raudrcrabspd",
+      "def": "raudrcrabdef",
+      "res": "raudrcrabres"
     }
   },
   "eirika9": {
@@ -250769,5 +250804,645 @@
       "def": "younglionedge",
       "res": "younglionedge"
     }
+  },
+  "alm6": {
+    "name": "Alm",
+    "title": "For Others' Sake",
+    "description": "At the end of a long journey, Heroes Alm and Eliwood bear a great responsibility as they lead the people with resolve. They appear in Fire Emblem Echoes: Shadows of Valentia / Fire Emblem: The Blazing Blade.",
+    "origin": "Shadows of Valentia + The Blazing Blade",
+    "artist": "Yamada Kotaro (\u5c71\u7530\u5b5d\u592a\u90ce)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1383",
+    "type": "duo",
+    "version": "10.6",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit.\nGrants another action to a certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit on the map who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Blade\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
+    "emblem": false,
+    "base": {
+      "hp": 20,
+      "atk": 10,
+      "spd": 13,
+      "def": 12,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 80,
+      "def": 85,
+      "res": 30
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Ice Falchion": "5" 
+    },
+    "assist": {
+      "Reposition": "3",
+      "Reposition Gait": "5"
+    },
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Shatter Slash": "5"
+    },
+    "passive": {
+      "A": {
+        "Blessed Bow": "5"
+      },
+      "B": {
+        "Atk/Spd Link 1": "2",
+        "Atk/Spd Link 2": "3",
+        "Atk/Spd Link 3": "4",
+        "Atk/Spd Favor": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Null Pulse Follow": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Alm_For_Others_Sake_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Alm_For_Others_Sake_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Alm_For_Others_Sake_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/96/Alm_For_Others_Sake_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "For Others' Sake",
+      "For Others Sake",
+      "Alm: For Others' Sake",
+      "Alm: For Others Sake",
+      "Harmonic Alm",
+      "Harmonized Alm",
+      "Harmonic CYL Alm",
+      "Harmonized CYL Alm",
+      "CYL Harmonic Alm",
+      "CYL Harmonized Alm",
+      "Harmonic Choose Your Legends Alm",
+      "Harmonized Choose Your Legends Alm",
+      "Choose Your Legends Harmonic Alm",
+      "Choose Your Legends Harmonized Alm",
+      "H CYL Alm",
+      "CYL H Alm",
+      "Harmonic Brave Alm",
+      "Harmonized Brave Alm",
+      "Brave Harmonic Alm",
+      "Harmonized Brave Alm",
+      "H B Alm",
+      "B H Alm",
+      "alm6"
+    ],
+    "HARD_ALT_NAME": [
+      "For Others' Sake",
+      "For Others Sake",
+      "Alm: For Others' Sake",
+      "Alm: For Others Sake",
+      "Harmonic Alm",
+      "Harmonized Alm",
+      "Harmonic CYL Alm",
+      "Harmonized CYL Alm",
+      "CYL Harmonic Alm",
+      "CYL Harmonized Alm",
+      "Harmonic Choose Your Legends Alm",
+      "Harmonized Choose Your Legends Alm",
+      "Choose Your Legends Harmonic Alm",
+      "Choose Your Legends Harmonized Alm",
+      "H CYL Alm",
+      "CYL H Alm",
+      "Harmonic Brave Alm",
+      "Harmonized Brave Alm",
+      "Brave Harmonic Alm",
+      "Harmonized Brave Alm",
+      "H B Alm",
+      "B H Alm",
+      "alm6"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u53cc\u754c\u7dcf\u9078\u6319\u30a2\u30eb\u30e0",
+    "voice": "Kylen Deporter + Yuri Lowenthal",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "valentia"
+    ],
+    "chibi": [
+      "fe15",
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Alm:** I believe Valentia should not belong to the gods, but to its people. A place where all can thrive on their own.",
+        "**Alm:** The world should be shaped according to our thoughts and feelings. It should be molded by us.",
+        "**Eliwood:** I see a powerful conviction in Alm's eyes\u2014a pure determination that cannot be swayed by mere words.",
+        "**Eliwood:** So, this is what they call a Brand, is it? You have my gratitude for showing me this, Alm.",
+        "**Alm:** It seems we both shoulder a major responsibility, Eliwood. Perhaps that is why I feel an odd kinship with you."
+      ],
+      "Visit": [
+        "**Alm:** We've come to deliver this gift from [F]'s castle."
+      ],
+      "Level": [
+        "**Alm:** I\u2014 No, WE will not flee from forging our own destiny! My father passed this belief to me and it will live on!",
+        "**Alm:** We must get stronger! It is the only way to reach a future that doesn't require sacrificing those we love.",
+        "**Eliwood:** The roots of suffering are the same no matter the world or realm. Let us do what we can to help, Alm."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Alm. I heard the people's voices calling for me. It seems like he\u2014 Eliwood, did as well."
+      ],
+      "Learn Skill": [
+        "**Eliwood:** I can see why Alm is such an inspiration to people. That may very well be the quality of a king."
+      ],
+      "Confession": [
+        "**Eliwood:** I heard of a battle just like the Scouring with the dragon gods of your world.\nIf you survived, it's no wonder you're considered a hero of the people.\n**Alm:** I only did what I swore I would\u2014 protect the country my father entrusted to me. I'm no hero.\n**Eliwood:** Nor am I. I fought to avenge my father, and to protect my dearest friend and those closest to me.\nMy reasons were ultimately personal.\n**Alm:** The wicked emerge and thrive amidst chaos, while the helpless are thrown to the wolves. I wish that to change.\nFor now, it is only an ideal... Still, I will not give up hope. People need the courage to keep moving forward.\n**Eliwood:** Your words ring true, Alm. Seeing someone of your strength display that determination heartens me.\nI'm glad to have met a comrade like you. Onward, then. Toward our goal."
+      ],
+      "Special": [
+        "**Duo:** We'll end this now!",
+        "**Duo:** Shall we? Let's.",
+        "**Alm:** I shall defeat them!",
+        "**Eliwood:** They will not prevail!"
+      ],
+      "Status": [
+        "Hm-hm.",
+        "\"I shall protect everyone!\" \"That is heartening to hear.\""
+      ],
+      "Map Select": [
+        "All I do is for the people.",
+        "Through thick and thin.",
+        "With composure."
+      ],
+      "Conversation": [
+        "**Alm:** Heh. Look at that. We defeated the thieves without incident!",
+        "**Eliwood:** It's hard to believe there was a village in a place like this. It's thanks to you that we even noticed it, Alm.",
+        "**Alm:** It's because it's similar to the village I grew up in, far from town...",
+        "**Eliwood:** If my memory serves me... You hadn't left until you joined the army, right?",
+        "**Alm:** Yes. I forged ahead having no knowledge of the outside world.",
+        "**Eliwood:** And you became a leader. That must have been difficult.",
+        "**Alm:** Protecting my companions was all I knew how to do.",
+        "And when I became king, I saw, yet again, how much I was lacking.",
+        "**Eliwood:** Everyone has their weaknesses.",
+        "Mine is my frail body.",
+        "**Alm:** So you, too, have your own challenges?",
+        "**Eliwood:** Heh. Yes. I have a lot to learn.",
+        "Which is why, in the Order of Heroes, I wish to grow stronger for the sake of my people.",
+        "**Alm:** Would you mind if I accompany you in that endeavor?",
+        "**Eliwood:** I would like that very much...as long as you don't mind me figuring things out as I go.",
+        "**Alm:** Of course not. I wish to devote all my strength for the sake of building a country where humanity can survive.",
+        "**Eliwood:** Indeed. Let's move forward together, for the sake of the people."
+      ],
+      "Duo Skill": [
+        "\"Don't push too hard.\" \"Thank you.\"",
+        "\"Ready?\" \"Of course.\""
+      ],
+      "Back Unit Supporting": [
+        "Let's hold them off.",
+        "I will aid you."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Harmonic Brave Alm",
+    "SEARCH_NAME": "Harmonic Brave Alm",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Harmonic Brave Alm",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "alm",
+      "alm2",
+      "alm3",
+      "alm4",
+      "alm5"
+    ],
+    "prf": {
+      "": "icefalchion",
+      "eff": "icefalchion",
+      "atk": "icefalchion",
+      "spd": "icefalchion",
+      "def": "icefalchion",
+      "res": "icefalchion"
+    }
+  },
+  "micaiah9": {
+    "name": "Micaiah",
+    "title": "Beyond Conflict",
+    "description": "The maidens Micaiah and Camilla recognize in each other a steadfast heart filled with love for someone precious to them. They appear in Fire Emblem: Radiant Dawn / Fire Emblem Fates.",
+    "origin": "Radiant Dawn + Fates",
+    "artist": "Mai Okuma (\u5927\u718a\u307e\u3044)",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": false,
+    "id": "1384",
+    "type": "duo",
+    "version": "10.6",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit and allies from the same titles as unit.\nGrants another action to a certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit on the map who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Blade\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
+    "emblem": false,
+    "base": {
+      "hp": 17,
+      "atk": 10,
+      "spd": 12,
+      "def": 3,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 50,
+      "def": 35,
+      "res": 90
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Dawning Light": "5" 
+    },
+    "assist": {
+      "Ardent Sacrifice": "3",
+      "Maiden's Solace": "5"
+    },
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Ice Edge": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Res Catch 1": "2",
+        "Atk/Res Catch 2": "3",
+        "Atk/Res Catch 3": "4",
+        "Atk/Res Airspace": "5"
+      },
+      "B": {
+        "Yune's Chirps": "5"
+      },
+      "C": {
+        "Atk/Res Rein 1": "2",
+        "Atk/Res Rein 2": "3",
+        "Atk/Res Rein 3": "4",
+        "A/R Crux: Ploy": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ad/Micaiah_Beyond_Conflict_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/01/Micaiah_Beyond_Conflict_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Micaiah_Beyond_Conflict_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Micaiah_Beyond_Conflict_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Beyond Conflict",
+      "Micaiah: Beyond Conflict",
+      "Harmonic Micaiah",
+      "Harmonized Micaiah",
+      "Harmonic CYL Micaiah",
+      "Harmonized CYL Micaiah",
+      "CYL Harmonic Micaiah",
+      "CYL Harmonized Micaiah",
+      "Harmonic Choose Your Legends Micaiah",
+      "Harmonized Choose Your Legends Micaiah",
+      "Choose Your Legends Harmonic Micaiah",
+      "Choose Your Legends Harmonized Micaiah",
+      "H CYL Micaiah",
+      "CYL H Micaiah",
+      "Harmonic Brave Micaiah",
+      "Harmonized Brave Micaiah",
+      "Brave Harmonic Micaiah",
+      "Harmonized Brave Micaiah",
+      "H B Micaiah",
+      "B H Micaiah",
+      "micaiah9"
+    ],
+    "HARD_ALT_NAME": [
+      "Beyond Conflict",
+      "Micaiah: Beyond Conflict",
+      "Harmonic Micaiah",
+      "Harmonized Micaiah",
+      "Harmonic CYL Micaiah",
+      "Harmonized CYL Micaiah",
+      "CYL Harmonic Micaiah",
+      "CYL Harmonized Micaiah",
+      "Harmonic Choose Your Legends Micaiah",
+      "Harmonized Choose Your Legends Micaiah",
+      "Choose Your Legends Harmonic Micaiah",
+      "Choose Your Legends Harmonized Micaiah",
+      "H CYL Micaiah",
+      "CYL H Micaiah",
+      "Harmonic Brave Micaiah",
+      "Harmonized Brave Micaiah",
+      "Brave Harmonic Micaiah",
+      "Harmonized Brave Micaiah",
+      "H B Micaiah",
+      "B H Micaiah",
+      "micaiah9"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u53cc\u754c\u7dcf\u9078\u6319\u30df\u30ab\u30e4",
+    "voice": "Veronica Taylor + Misty Lee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "tellius"
+    ],
+    "chibi": [
+      "fe10",
+      "fe14"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Micaiah:** I remember how small Sothe's hands used to be. He's grown so quickly.",
+        "**Micaiah:** If it's for Sothe, I don't care what happens to me. He's more precious than anything else...",
+        "**Camilla:** Even if the world stood against me, if it was for my little Corrin...I would destroy everyone.",
+        "**Camilla:** I'm thinking of trying to bake some bread. Do you want to join me, Micaiah? I'll teach you step by step.",
+        "**Micaiah:** You and I are the same, Camilla. We both fight for our homelands and the people important to us..."
+      ],
+      "Visit": [
+        "**Micaiah:** It's a pleasure to meet you. I appreciate everyone's support."
+      ],
+      "Level": [
+        "**Micaiah:** Beyond the darkness and the light... I can see a ray of hope for the future.",
+        "**Micaiah:** Even if it's a losing battle, we'll never give up... We'll fight together!",
+        "**Camilla:** Don't push yourself too hard, Micaiah. I'm here to help you."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I feel like we're similar in some way, Camilla. Perhaps that's why we were summoned together..."
+      ],
+      "Learn Skill": [
+        "**Camilla:** Oh, only for Micaiah? Hehehe, I'm only teasing... We are one and the same now, after all."
+      ],
+      "Confession": [
+        "**Micaiah:** I feared you at first, Camilla, but under the surface, I see the deep affection you have for who you love.\n**Camilla:** It's true... I don't care if the entire world turns against me if it's for the sake of my little Corrin.\n**Micaiah:** I understand how you feel. No matter what happens, with Sothe next to me...I'm not afraid of anything.\n**Camilla:** But there's more you're carrying... I can hear your body and soul screaming. You won't last like this.\n**Micaiah:** I'm willing to suffer, so long as it means saving others and securing their future.\n**Camilla:** Oh, Micaiah... Such actions are reckless. Foolish, even. What about your future?\n**Micaiah:** I\u2014uh... You've made your point. I'll be sure to take care of myself as well... So, will you let go of me now?\n**Camilla:** Haha... Not quite yet. You need someone to ease your pain, just like you do for others. Allow me.\n**Micaiah:** Oh... You're like a big sister to me, Camilla. Thank you."
+      ],
+      "Special": [
+        "**Duo:** Follow my lead!",
+        "**Duo:** Seize...the future!",
+        "**Micaiah:** With hope in our hearts.",
+        "**Camilla:** I will protect them."
+      ],
+      "Status": [
+        "-",
+        "\"Camilla, I must aspire to be bolder, like you.\" \"You're just fine the way you are.\""
+      ],
+      "Map Select": [
+        "Oh my...",
+        "Let me go first...",
+        "Ready to go."
+      ],
+      "Conversation": [
+        "**Camilla:** Hmm...",
+        "**Micaiah:** Is something wrong? You don't look very happy, Camilla.",
+        "**Camilla:** Micaiah... I have been unable to see much of Corrin lately. My duties as queen of Nohr keep me so busy.",
+        "**Micaiah:** Is Corrin someone important to you?",
+        "**Camilla:** Very much so. Corrin is my beloved treasure. The most important person to me.",
+        "**Micaiah:** Oh... You are a passionate person, aren't you? Even though you appear so calm and collected.",
+        "**Camilla:** Appearances are merely that. In truth, I often feel quite lonely.",
+        "Just thinking about not having Corrin by my side brings tears to my eyes.",
+        "That makes me unqualified to be queen, doesn't it? I should try to compose myself.",
+        "**Micaiah:** I don't see it that way. You could be a wonderful queen. Perhaps you already are.",
+        "If you can love everyone in your country as deeply as you love Corrin, then...",
+        "**Camilla:** As deeply as I... Yes. That is my duty...as the queen of Nohr...",
+        "Uh, your words carry wisdom. Thank you, Micaiah. I will strive to do just that.",
+        "**Micaiah:** I don't know if I did anything worthy of your thanks, but...",
+        "If, as ruler of my country, I find I, too, need council, may I come to you?",
+        "**Camilla:** Yes, of course. You're an adorable ruler. I would be pleased to help you.",
+        "**Micaiah:** Adorable? Me? Um... Thank you. I'm happy I can count on you."
+      ],
+      "Duo Skill": [
+        "\"We are\" \"powerful.\"",
+        "\"How adorable.\" \"Huh?!\""
+      ],
+      "Back Unit Supporting": [
+        "I have faith in you.",
+        "You can do this."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Harmonic Brave Micaiah",
+    "SEARCH_NAME": "Harmonic Brave Micaiah",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Green_Tome:1317239575352971396>Harmonic Brave Micaiah",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "micaiah",
+      "micaiah2",
+      "micaiah3",
+      "micaiah4",
+      "micaiah5",
+      "micaiah6",
+      "micaiah7",
+      "micaiah8"
+    ],
+    "prf": {
+      "": "dawninglight",
+      "eff": "dawninglight",
+      "atk": "dawninglight",
+      "spd": "dawninglight",
+      "def": "dawninglight",
+      "res": "dawninglight"
+    }
+  },
+  "laegjarn6": {
+    "name": "Laegjarn",
+    "title": "Flame Miracle",
+    "description": "The eldest princess of M\u00faspell, the Flame Kingdom, and Laevatein's older sister. She fights to save the world with power she takes from the flame god, M\u00faspell.",
+    "origin": "Heroes",
+    "artist": "Maeshima Shigeki (\u524d\u5d8b\u91cd\u6a5f)",
+    "move": "Flying",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": "220",
+    "id": "1385",
+    "type": "chosen",
+    "version": "10.6",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 14,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 75,
+      "res": 30
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Chosen Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Blue Skies 1": "2",
+        "Blue Skies 2": "3",
+        "Blue Skies 3": "4",
+        "Blue-Sky Gust": "5"
+      },
+      "B": {
+        "Wyvern Flight 1": "2",
+        "Wyvern Flight 2": "3",
+        "Wyvern Flight 3": "4",
+        "Blue-Sky Wyvern": "5"
+      },
+      "C": {
+        "Resolving Flame": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Laegjarn_Flame_Miracle_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Laegjarn_Flame_Miracle_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Laegjarn_Flame_Miracle_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Laegjarn_Flame_Miracle_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Flame Miracle",
+      "Laegjarn: Flame Miracle",
+      "Chosen Laegjarn",
+      "C Laegjarn",
+      "laegjarn6"
+    ],
+    "HARD_ALT_NAME": [
+      "Flame Miracle",
+      "Laegjarn: Flame Miracle",
+      "Chosen Laegjarn",
+      "C Laegjarn",
+      "laegjarn6"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u6551\u4e16\u30ec\u30fc\u30ae\u30e3\u30eb\u30f3",
+    "voice": "Abby Trott",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "My spirit is still weak, but there is nothing I won't do for those I hold dear.",
+        "A battle against annihilation... This charge has somehow fallen to me, but I will fight until my last ember.",
+        "Some sacrifices are inevitable. We can shoulder this burden together, if you will allow it.",
+        "The bitter cold will take its toll, but it will never snuff out our kingdom's flame.",
+        "The flames I attained by defeating M\u00faspell... It's strange how natural they feel to me."
+      ],
+      "Visit": [
+        "Formulate a counterstrategy now with precise instructions. This is an order from [F]."
+      ],
+      "Level": [
+        "Our flames will not be quelled!",
+        "I can never let the flame be extinguished.",
+        "I will crawl if I must..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Laegjarn. It doesn't matter who my opponent is... I fight to protect, not to oppress."
+      ],
+      "Learn Skill": [
+        "To save the realms, I will become a flame."
+      ],
+      "Confession": [
+        "M\u00faspell, which once laid ruin to Nifl, is now on the brink of destruction by ice. Is this divine retribution?\nThe kings and generals who wage war should bear the responsibility of their actions, not the people under them.\nSo I will surpass both the flame god and my father to become the fire that prevents annihilation.\nNo matter what, I will grow as strong as I need to be to protect those I care about.\nAs your soldier, I am a flame that brings ruin to your enemies.\nPlease allow me to fight alongside you, [S]."
+      ],
+      "Special": [
+        "With this power...",
+        "For the nine realms!",
+        "Flame god!",
+        "I won't let them fall."
+      ],
+      "Status": [
+        "-",
+        "M\u00faspell, god of flame... I will never abandon reason...",
+        "*react* Are we training for an ambush?",
+        "This is Ragnar\u00f6k. Neither mortals nor gods are able to overcome it... It's the end of everything.",
+        "I'll shoulder the burden of what's been lost. And I will pay the price...",
+        "We were enemies before, weren't we? Hm... We've come so far since then.",
+        "This terror is nothing if endured for those precious to me.",
+        "Thank you. It's because of you that I could withstand the flame."
+      ],
+      "Map Select": [
+        "Understood.",
+        "Do you have a plan?",
+        "Read their movements..."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Chosen Laegjarn",
+    "SEARCH_NAME": "Chosen Laegjarn",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Chosen Laegjarn",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "laegjarn",
+      "laegjarn2",
+      "laegjarn3",
+      "laegjarn4",
+      "laegjarn5"
+    ],
+    "prf": {
+      "": "chosenaxe",
+      "eff": "chosenaxe",
+      "atk": "chosenaxe",
+      "spd": "chosenaxe",
+      "def": "chosenaxe",
+      "res": "chosenaxe"
+    },
+    "blessing": "Fire"
   }
 }

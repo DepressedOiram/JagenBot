@@ -267,6 +267,7 @@
                 "Fireflood Charm"
             ],
             "A": [
+                "Blessed Bow",
                 "Dragoon Pillar",
                 "Gift of Magic+"
             ],
@@ -427,6 +428,7 @@
                 "Gainful Bow+",
                 "Partnership Bow",
                 "Randgr\u00ed\u00f0r",
+                "Rapid-Crier Bow",
                 "Setsuna's Yumi",
                 "Stall-Game Bow+",
                 "Tanngrisnir",
@@ -764,6 +766,7 @@
                 "Bow of Twelve",
                 "Breaker Bow",
                 "Failnaught",
+                "Flame of M\u00faspell",
                 "Fujin-Raijin Yumi"
             ],
             "Dagger": [
@@ -932,6 +935,7 @@
                 "Atk/Spd Mastery",
                 "Atk/Res Mastery",
                 "Atk/Spd Airspace",
+                "Atk/Res Airspace",
                 "Blue Skies 4"
             ],
             "B": [
@@ -1866,6 +1870,7 @@
             "assist": [],
             "special": [],
             "A": [
+                "Blessed Bow",
                 "Final Say",
                 "Slate Illusion",
                 "Superior Talent"
@@ -2290,6 +2295,7 @@
         "icon": "discord",
         "reference_weapon": {
             "Sword": [
+                "Ice Falchion",
                 "Princesses' Edge",
                 "Venin Edge"
             ],
@@ -3170,7 +3176,9 @@
             "Staff": [
                 "Staff of Yngvi"
             ],
-            "Bow": [],
+            "Bow": [
+                "Rapid-Crier Bow"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
@@ -3265,7 +3273,8 @@
                     "Fimbulvetr Morn"
                 ],
                 "Green_Tome": [
-                    "Ereshkigal"
+                    "Ereshkigal",
+                    "Morph Fimbulvetr"
                 ],
                 "Colorless_Tome": []
             },
@@ -3308,6 +3317,7 @@
                     "Retainer's Report"
                 ],
                 "Blue_Tome": [
+                    "Clever Notations",
                     "Divine Whimsy",
                     "Eagle's Egg",
                     "Icy Fimbulvetr",
@@ -3507,7 +3517,8 @@
             "A": [],
             "B": [
                 "Atk/Res Unrest",
-                "Spd/Res Unrest"
+                "Spd/Res Unrest",
+                "Yune's Chirps"
             ],
             "C": [
                 "11th Deadlord",
@@ -4387,7 +4398,9 @@
                     "Sparking Tome"
                 ],
                 "Blue_Tome": [],
-                "Green_Tome": [],
+                "Green_Tome": [
+                    "Morph Fimbulvetr"
+                ],
                 "Colorless_Tome": []
             },
             "Breath": [],
@@ -4770,6 +4783,7 @@
                 "United Bouquet"
             ],
             "Axe": [
+                "Chosen Axe",
                 "Comrade's Axe",
                 "Crusher",
                 "Ebon B\u00f6lverk",
@@ -4880,7 +4894,12 @@
             "sigurd5": "<:feh_emblem:1317239481874780181><:Blue_Lance:1317239378208096338>Emblem Sigurd"
         },
         "HARD_ALT_NAME": [
-            "Tempest"
+            "Tempest",
+            "Movement Increased",
+            "Movement Increase",
+            "Mobility Increase",
+            "Movement +1",
+            "Mov +1"
         ]
     },
     "neutralizebonuses": {
@@ -4926,6 +4945,7 @@
                     "Summer Chilling"
                 ],
                 "Green_Tome": [
+                    "Morph Fimbulvetr",
                     "Spring Hare Egg+"
                 ],
                 "Colorless_Tome": []
@@ -5245,6 +5265,7 @@
             "Bow": [
                 "Deer's Heart",
                 "Gainful Bow+",
+                "Rapid-Crier Bow",
                 "Whitewind Bow+"
             ],
             "Dagger": [
@@ -5319,6 +5340,7 @@
                 "Swirling Lance"
             ],
             "Axe": [
+                "Chosen Axe",
                 "Desert-Tiger Axe",
                 "Tri-Path Splitter",
                 "Twin Star Axe",
@@ -5637,6 +5659,7 @@
                 "Partnership Bow",
                 "Persecution Bow",
                 "Randgr\u00ed\u00f0r",
+                "Rapid-Crier Bow",
                 "Violdrake Bow",
                 "Whitewind Bow+",
                 "Ylisse Ninja Bow"
@@ -5659,6 +5682,7 @@
                 ],
                 "Blue_Tome": [
                     "Bright-Shell Egg",
+                    "Clever Notations",
                     "Daydream Egg",
                     "Devoted Cup+",
                     "Divine Draught",
@@ -5795,7 +5819,8 @@
             "A": [],
             "B": [
                 "Pegasus Rift",
-                "Wyvern Rift"
+                "Wyvern Rift",
+                "Blue-Sky Wyvern"
             ],
             "C": [
                 "Instruct 4"
@@ -5891,7 +5916,8 @@
                 "Ilian Greatlance"
             ],
             "Axe": [
-                "Axe of Dusk"
+                "Axe of Dusk",
+                "Dawning Light"
             ],
             "Staff": [],
             "Bow": [
@@ -5930,11 +5956,12 @@
                 "Tunnel Vision"
             ],
             "B": [
+                "Patience",
+                "Blue-Sky Wyvern",
                 "Potent Disarm",
                 "Potent Assault",
                 "Potent 4",
                 "Potent Finish",
-                "Patience",
                 "Justice Enforcer"
             ],
             "C": [],
@@ -5960,6 +5987,7 @@
         "reference_weapon": {
             "Sword": [
                 "Blade of Renais",
+                "Ice Falchion",
                 "Ilian Longsword",
                 "Vague Katti"
             ],
@@ -5970,6 +5998,7 @@
             "Axe": [],
             "Staff": [],
             "Bow": [
+                "Flame of M\u00faspell",
                 "Keen Coyote Bow",
                 "Royal Exalt Bow"
             ],
@@ -6153,7 +6182,9 @@
             "Lance": [],
             "Axe": [],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "Rapid-Crier Bow"
+            ],
             "Dagger": [
                 "Arcane Slicer"
             ],
@@ -6524,6 +6555,7 @@
             "captain": []
         },
         "reference_hero": {
+            "alm6": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Harmonic Brave Alm",
             "altina2": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Winter Altina",
             "anna5": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Halloween Anna",
             "ayra2":"<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Maid Ayra",
@@ -6547,6 +6579,7 @@
             "lysithea3":"<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Winter Lysithea",
             "marisa3":"<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Jehanna Marisa",
             "mia3": "<:feh_harmonized:1317239586929377371><:Colorless_Dagger:1317239418943438869>Summer Mia",
+            "micaiah9": "<:feh_harmonized:1317239586929377371><:Green_Tome:1317239575352971396>Harmonic Brave Micaiah",
             "myrrh3":"<:feh_harmonized:1317239586929377371><:Colorless_Breath:1317239411980767363>Spring Myrrh",
             "nephenee3":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Festival Nephenee",
             "plumeria4": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Spring Plumeria",
@@ -6668,7 +6701,9 @@
                     "Arcane 12's Writ",
                     "Fiery Bolganone"
                 ],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Clever Notations"
+                ],
                 "Green_Tome": [
                     "Sothis's Wrath",
                     "Stark Naglfar"
@@ -6703,7 +6738,8 @@
         "icon": "sabotage",
         "reference_weapon": {
             "Sword": [
-                "Deliverer's Brand"
+                "Deliverer's Brand",
+                "Ice Falchion"
             ],
             "Lance": [
                 "Disguise Lance",
@@ -6790,7 +6826,8 @@
                 "Pure Storm",
                 "Spoil Rotten",
                 "Vengeful Storm",
-                "Wild at Heart"
+                "Wild at Heart",
+                "Yune's Chirps"
             ],
             "C": [],
             "X": [],
@@ -7142,6 +7179,7 @@
                 "Deluge Charm"
             ],
             "A": [
+                "Blessed Bow",
                 "Dragoon Pillar"
             ],
             "B": [],
@@ -7184,7 +7222,9 @@
                 "Red_Tome": [
                     "Arcane 12's Writ"
                 ],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Clever Notations"
+                ],
                 "Green_Tome": [
                     "Sothis's Wrath"
                 ],
@@ -7265,7 +7305,8 @@
             ],
             "Bow": [
                 "Bow of Love+",
-                "Daniel-Made Bow"
+                "Daniel-Made Bow",
+                "Flame of M\u00faspell"
             ],
             "Dagger": [
                 "Red-Fist Blades"
@@ -7340,6 +7381,7 @@
                 "Proud Spear"
             ],
             "Axe": [
+                "Chosen Axe",
                 "Comrade's Axe"
             ],
             "Staff": [
@@ -7423,6 +7465,7 @@
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [
+                    "Morph Fimbulvetr",
                     "Sothis's Wrath"
                 ],
                 "Colorless_Tome": [
@@ -7442,6 +7485,7 @@
                 "Astra Storm"
             ],
             "A": [
+                "Blessed Bow",
                 "Reject Tyranny"
             ],
             "B": [],
@@ -7593,7 +7637,9 @@
             "Staff": [
                 "Baton of Dusk"
             ],
-            "Bow": [],
+            "Bow": [
+                "Flame of M\u00faspell"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
@@ -7726,7 +7772,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Chosen Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -7771,7 +7819,9 @@
                 "Arcane Thorn"
             ],
             "Axe": [
-                "Comrade's Axe"
+                "Chosen Axe",
+                "Comrade's Axe",
+                "Wedding-Bell Axe"
             ],
             "Staff": [],
             "Bow": [],
