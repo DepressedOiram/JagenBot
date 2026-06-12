@@ -232,7 +232,7 @@ fe7.special["denning"] = denning
 async def calendar(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://fire-emblem-heroes.com/en/img/topics/detail/img_20260511.png")
+    embed.attach("image", "https://fire-emblem-heroes.com/en/img/topics/detail/img_20260611.png")
     
     await embed.send(ctx)
 
@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-zkzfaalxn94h1.png?width=1080&crop=smart&auto=webp&s=f714e863f9a82b788b323d87cb6cf5c315f33aa8")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-t06erfvy2n6h1.png?width=1080&crop=smart&auto=webp&s=8902a0b8240435f82ffa7988e31e2579c0496003")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-zkzfaalxn94h1.png?width=1080&crop=smart&auto=webp&s=f714e863f9a82b788b323d87cb6cf5c315f33aa8")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-t06erfvy2n6h1.png?width=1080&crop=smart&auto=webp&s=8902a0b8240435f82ffa7988e31e2579c0496003")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-zkzfaalxn94h1.png?width=1080&crop=smart&auto=webp&s=f714e863f9a82b788b323d87cb6cf5c315f33aa8")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-t06erfvy2n6h1.png?width=1080&crop=smart&auto=webp&s=8902a0b8240435f82ffa7988e31e2579c0496003")
     
     await embed.send(ctx)
 
@@ -264,7 +264,7 @@ async def mythic(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-phqy4clxn94h1.png?width=1080&crop=smart&auto=webp&s=e30867e8bf18b189f33e13dca10a58e19a4ced28")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-n5qxrrdr1n6h1.png?width=1080&crop=smart&auto=webp&s=276ed8d2c4f877b22d8973e2683227c01e36af65")
     
     await embed.send(ctx)
 
@@ -272,7 +272,7 @@ async def remix(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-jju7pflxn94h1.png?width=1080&crop=smart&auto=webp&s=00733d3fc29955a0e84a17b5d279846699b75425")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-6qzgsndr1n6h1.png?width=1080&crop=smart&auto=webp&s=5cc82f5a3bb7fdd6e5c7522d5aa4878f6c9caed5")
     
     await embed.send(ctx)
 
