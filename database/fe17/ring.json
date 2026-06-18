@@ -3043,6 +3043,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "deirdre",
       "alm",
@@ -3094,6 +3095,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "arden",
       "faye",
@@ -3145,6 +3147,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "azelle",
       "lukas",
@@ -3196,6 +3199,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "quan",
       "silque",
@@ -3247,6 +3251,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "ethlyn",
       "delthea",
@@ -3298,6 +3303,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "ayra",
       "mae",
@@ -3352,6 +3358,7 @@
       "Bond Tiki"
     ],
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "lachesis",
       "genny",
@@ -3403,6 +3410,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "lewyn",
       "saber",
@@ -3454,6 +3462,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "erinys",
       "valbar",
@@ -3505,6 +3514,7 @@
       }
     },
     "parent": "marth",
+    "family": "beginnings",
     "shared": [
       "seliph",
       "conrad",
@@ -3556,6 +3566,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "caeda",
       "alm",
@@ -3607,6 +3618,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "ogma",
       "faye",
@@ -3658,6 +3670,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "navarre",
       "lukas",
@@ -3709,6 +3722,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "merric",
       "silque",
@@ -3760,6 +3774,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "minerva",
       "delthea",
@@ -3811,6 +3826,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "linde",
       "mae",
@@ -3862,6 +3878,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "tikibond",
       "genny",
@@ -3913,6 +3930,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "kris",
       "saber",
@@ -3964,6 +3982,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "katarina",
       "valbar",
@@ -4015,6 +4034,7 @@
       }
     },
     "parent": "sigurd",
+    "family": "holy",
     "shared": [
       "legion",
       "conrad",
@@ -4066,6 +4086,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "caeda",
       "deirdre",
@@ -4117,6 +4138,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "ogma",
       "arden",
@@ -4168,6 +4190,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "navarre",
       "azelle",
@@ -4219,6 +4242,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "merric",
       "quan",
@@ -4270,6 +4294,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "minerva",
       "ethlyn",
@@ -4321,6 +4346,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "linde",
       "ayra",
@@ -4372,6 +4398,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "tikibond",
       "lachesis",
@@ -4423,6 +4450,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "kris",
       "lewyn",
@@ -4474,6 +4502,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "katarina",
       "erinys",
@@ -4525,6 +4554,7 @@
       }
     },
     "parent": "celica",
+    "family": "echoes",
     "shared": [
       "legion",
       "seliph",
@@ -4576,6 +4606,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "caeda",
       "deirdre",
@@ -4627,6 +4658,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "ogma",
       "arden",
@@ -4678,6 +4710,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "navarre",
       "azelle",
@@ -4729,6 +4762,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "merric",
       "quan",
@@ -4780,6 +4814,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "minerva",
       "ethlyn",
@@ -4831,6 +4866,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "linde",
       "ayra",
@@ -4882,6 +4918,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "tikibond",
       "lachesis",
@@ -4933,6 +4970,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "kris",
       "lewyn",
@@ -4984,6 +5022,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "katarina",
       "erinys",
@@ -5035,6 +5074,7 @@
       }
     },
     "parent": "micaiah",
+    "family": "dawn",
     "shared": [
       "legion",
       "seliph",
@@ -5086,6 +5126,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "caeda",
       "deirdre",
@@ -5137,6 +5178,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "ogma",
       "arden",
@@ -5188,6 +5230,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "navarre",
       "azelle",
@@ -5239,6 +5282,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "merric",
       "quan",
@@ -5290,6 +5334,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "minerva",
       "ethlyn",
@@ -5341,6 +5386,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "linde",
       "ayra",
@@ -5392,6 +5438,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "tikibond",
       "lachesis",
@@ -5443,6 +5490,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "kris",
       "lewyn",
@@ -5494,6 +5542,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "katarina",
       "erinys",
@@ -5545,6 +5594,7 @@
       }
     },
     "parent": "roy",
+    "family": "binding",
     "shared": [
       "legion",
       "seliph",
@@ -5596,6 +5646,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "caeda",
       "deirdre",
@@ -5647,6 +5698,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "ogma",
       "arden",
@@ -5698,6 +5750,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "navarre",
       "azelle",
@@ -5749,6 +5802,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "merric",
       "quan",
@@ -5800,6 +5854,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "minerva",
       "ethlyn",
@@ -5851,6 +5906,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "linde",
       "ayra",
@@ -5902,6 +5958,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "tikibond",
       "lachesis",
@@ -5953,6 +6010,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "kris",
       "lewyn",
@@ -6004,6 +6062,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "katarina",
       "erinys",
@@ -6055,6 +6114,7 @@
       }
     },
     "parent": "leif",
+    "family": "genealogy",
     "shared": [
       "legion",
       "seliph",
@@ -6106,6 +6166,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "caeda",
       "deirdre",
@@ -6157,6 +6218,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "ogma",
       "arden",
@@ -6208,6 +6270,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "navarre",
       "azelle",
@@ -6259,6 +6322,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "merric",
       "quan",
@@ -6310,6 +6374,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "minerva",
       "ethlyn",
@@ -6361,6 +6426,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "linde",
       "ayra",
@@ -6412,6 +6478,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "tikibond",
       "lachesis",
@@ -6463,6 +6530,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "kris",
       "lewyn",
@@ -6514,6 +6582,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "katarina",
       "erinys",
@@ -6565,6 +6634,7 @@
       }
     },
     "parent": "lucina",
+    "family": "awakening",
     "shared": [
       "legion",
       "seliph",
@@ -6616,6 +6686,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "caeda",
       "deirdre",
@@ -6667,6 +6738,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "ogma",
       "arden",
@@ -6718,6 +6790,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "navarre",
       "azelle",
@@ -6769,6 +6842,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "merric",
       "quan",
@@ -6820,6 +6894,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "minerva",
       "ethlyn",
@@ -6871,6 +6946,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "linde",
       "ayra",
@@ -6922,6 +6998,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "tikibond",
       "lachesis",
@@ -6973,6 +7050,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "kris",
       "lewyn",
@@ -7024,6 +7102,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "katarina",
       "erinys",
@@ -7075,6 +7154,7 @@
       }
     },
     "parent": "lyn",
+    "family": "blazing",
     "shared": [
       "legion",
       "seliph",
@@ -7126,6 +7206,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "caeda",
       "deirdre",
@@ -7177,6 +7258,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "ogma",
       "arden",
@@ -7228,6 +7310,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "navarre",
       "azelle",
@@ -7279,6 +7362,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "merric",
       "quan",
@@ -7330,6 +7414,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "minerva",
       "ethlyn",
@@ -7381,6 +7466,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "linde",
       "ayra",
@@ -7432,6 +7518,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "tikibond",
       "lachesis",
@@ -7483,6 +7570,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "kris",
       "lewyn",
@@ -7534,6 +7622,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "katarina",
       "erinys",
@@ -7585,6 +7674,7 @@
       }
     },
     "parent": "ike",
+    "family": "radiance",
     "shared": [
       "legion",
       "seliph",
@@ -7639,6 +7729,7 @@
       "Bond Edelgard"
     ],
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "caeda",
       "deirdre",
@@ -7690,6 +7781,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "ogma",
       "arden",
@@ -7741,6 +7833,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "navarre",
       "azelle",
@@ -7793,6 +7886,7 @@
     },
     "ALT_NAME": [],
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "merric",
       "quan",
@@ -7844,6 +7938,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "minerva",
       "ethlyn",
@@ -7895,6 +7990,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "linde",
       "ayra",
@@ -7947,6 +8043,7 @@
     },
     "ALT_NAME": [],
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "tikibond",
       "lachesis",
@@ -7998,6 +8095,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "kris",
       "lewyn",
@@ -8049,6 +8147,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "katarina",
       "erinys",
@@ -8100,6 +8199,7 @@
       }
     },
     "parent": "byleth",
+    "family": "academy",
     "shared": [
       "legion",
       "seliph",
@@ -8151,6 +8251,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "caeda",
       "deirdre",
@@ -8202,6 +8303,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "ogma",
       "arden",
@@ -8253,6 +8355,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "navarre",
       "azelle",
@@ -8304,6 +8407,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "merric",
       "quan",
@@ -8355,6 +8459,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "minerva",
       "ethlyn",
@@ -8406,6 +8511,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "linde",
       "ayra",
@@ -8457,6 +8563,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "tikibond",
       "lachesis",
@@ -8508,6 +8615,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "kris",
       "lewyn",
@@ -8559,6 +8667,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "katarina",
       "erinys",
@@ -8610,6 +8719,7 @@
       }
     },
     "parent": "corrin",
+    "family": "fates",
     "shared": [
       "legion",
       "seliph",
@@ -8661,6 +8771,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "caeda",
       "deirdre",
@@ -8712,6 +8823,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "ogma",
       "arden",
@@ -8763,6 +8875,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "navarre",
       "azelle",
@@ -8814,6 +8927,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "merric",
       "quan",
@@ -8865,6 +8979,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "minerva",
       "ethlyn",
@@ -8916,6 +9031,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "linde",
       "ayra",
@@ -8967,6 +9083,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "tikibond",
       "lachesis",
@@ -9018,6 +9135,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "kris",
       "lewyn",
@@ -9069,6 +9187,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "katarina",
       "erinys",
@@ -9120,6 +9239,7 @@
       }
     },
     "parent": "eirika",
+    "family": "sacred",
     "shared": [
       "legion",
       "seliph",

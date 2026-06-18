@@ -646,10 +646,12 @@ end
 function Ring:show_emblem()
     local infobox = Infobox:new({desc = self.data.desc})
     infobox:image("thumbnail", self:get_portrait())
-    infobox:image("icon", 'https://raw.githubusercontent.com/FELibrary/Assets/main/Engage/emblem%20symbols/' .. self.id .. '.png')
+    infobox:image("icon", string.format(
+        "database/fe17/images/engrave/%s.png", self.data.engrave))
     
     local otherbox = Infobox:new()
-    otherbox:image("icon", 'https://raw.githubusercontent.com/FELibrary/Assets/main/Engage/emblem%20symbols/' .. self.id .. '.png')
+    otherbox:image("icon", string.format(
+        "database/fe17/images/engrave/%s.png", self.data.engrave))
     
     local sync = ""
     local items = ""
@@ -775,7 +777,8 @@ function Ring:show_bond()
     local infobox = Infobox:new({title = self.data.name, desc = self.data.desc})
     infobox:image("thumbnail", self:get_portrait())
     if (self.data.parent) then
-        infobox:image("icon", 'https://raw.githubusercontent.com/FELibrary/Assets/main/Engage/emblem%20symbols/' .. self.data.parent .. '.png')
+        infobox:image("icon", string.format(
+        "database/fe17/images/engrave/%s.png", self.data.family))
     end
     
     for key, value in pairs(self.data.rank) do

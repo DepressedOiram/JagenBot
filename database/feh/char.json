@@ -4050,7 +4050,8 @@
       "alfonse3",
       "alfonse4",
       "alfonse5",
-      "alfonse6"
+      "alfonse6",
+      "alfonse7"
     ],
     "prf": {
       "": "folkvangreff",
@@ -6301,7 +6302,8 @@
       "sharena2",
       "sharena3",
       "sharena4",
-      "sharena5"
+      "sharena5",
+      "sharena6"
     ],
     "prf": {
       "": "fensalireff",
@@ -43333,10 +43335,13 @@
       "Alfonse: Spring Prince",
       "Spring Prince",
       "Spring Alfonse",
+      "Sp Alfonse",
       "Bunny Alfonse",
       "Spring Alfons",
+      "Sp Alfons",
       "Bunny Alfons",
       "Spring Alphonse",
+      "Sp Alphonse",
       "Bunny Alphonse"
     ],
     "HARD_ALT_NAME": [
@@ -43347,10 +43352,13 @@
       "S Alfons",
       "S Alphonse",
       "Spring Alfonse",
+      "Sp Alfonse",
       "Bunny Alfonse",
       "Spring Alfons",
+      "Sp Alfons",
       "Bunny Alfons",
       "Spring Alphonse",
+      "Sp Alphonse",
       "Bunny Alphonse"
     ],
     "gender": "M",
@@ -43434,7 +43442,8 @@
       "alfonse3",
       "alfonse4",
       "alfonse5",
-      "alfonse6"
+      "alfonse6",
+      "alfonse7"
     ],
     "prf": {
       "": "giantspoonspd",
@@ -43512,8 +43521,10 @@
       "Sharena: Spring Princess",
       "Spring Princess",
       "Spring Sharena",
+      "Sp Sharena",
       "Bunny Sharena",
       "Spring Sharon",
+      "Sp Sharon",
       "Bunny Sharon"
     ],
     "HARD_ALT_NAME": [
@@ -43522,8 +43533,10 @@
       "S Sharena",
       "S Sharon",
       "Spring Sharena",
+      "Sp Sharena",
       "Bunny Sharena",
       "Spring Sharon",
+      "Sp Sharon",
       "Bunny Sharon"
     ],
     "gender": "F",
@@ -43606,7 +43619,8 @@
       "sharena",
       "sharena3",
       "sharena4",
-      "sharena5"
+      "sharena5",
+      "sharena6"
     ],
     "prf": {
       "": "muninnseggeff",
@@ -67135,15 +67149,20 @@
     "pool": "special",
     "internal_id": "\u30e9\u30a4",
     "voice": "Armen Taylor",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Hiiragi Akio (\u67ca\u6681\u751f)",
+    "resplendent_voice": "Armen Taylor",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Ranulf_Friend_of_Nations_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Ranulf_Friend_of_Nations_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Ranulf_Friend_of_Nations_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Ranulf_Friend_of_Nations_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Ranulf_Friend_of_Nations_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Ranulf_Friend_of_Nations_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Ranulf_Friend_of_Nations_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Ranulf_Friend_of_Nations_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "tellius"
     ],
@@ -67199,7 +67218,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "Here it comes.",
+          "Let's finish this up.",
+          "End of the trail.",
+          "Ready for this?"
+        ],
+        "Status": [
+          "-",
+          "Well, here I am, wearing the thing you wanted. Satisfied?",
+          "Interested in my tail? Go ahead and touch it.",
+          "The j\u00f6tnar's size is a big advantage on the battlefield.",
+          "Mostly I just like an outfit I can move around in. This one's pretty special, though.",
+          "If laguz and beorc can find common ground, so can j\u00f6tnar and dvergar.",
+          "If Kyza and Lyre saw me in this outfit, I'd never hear the end of it...",
+          "Hey, thanks for all you do. And don't worry\u2014I'll pay you back in kind."
+        ],
+        "Map Select": [
+          "Gotcha.",
+          "Are you ready?",
+          "I'm on it."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Ranulf",
     "SEARCH_NAME": "Ranulf",
@@ -85786,7 +85836,8 @@
       "alfonse2",
       "alfonse4",
       "alfonse5",
-      "alfonse6"
+      "alfonse6",
+      "alfonse7"
     ],
     "prf": {
       "": "imbuedkomaeff",
@@ -106580,12 +106631,12 @@
       "lyn11"
     ],
     "prf": {
-      "": "tailwindshuriken",
-      "eff": "tailwindshuriken",
-      "atk": "tailwindshuriken",
-      "spd": "tailwindshuriken",
-      "def": "tailwindshuriken",
-      "res": "tailwindshuriken"
+      "": "tailwindshurikeneff",
+      "eff": "tailwindshurikeneff",
+      "atk": "tailwindshurikenatk",
+      "spd": "tailwindshurikenspd",
+      "def": "tailwindshurikendef",
+      "res": "tailwindshurikenres"
     }
   },
   "zihark": {
@@ -112233,12 +112284,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "tomeoffury",
-      "eff": "tomeoffury",
-      "atk": "tomeoffury",
-      "spd": "tomeoffury",
-      "def": "tomeoffury",
-      "res": "tomeoffury"
+      "": "tomeoffuryeff",
+      "eff": "tomeoffuryeff",
+      "atk": "tomeoffuryatk",
+      "spd": "tomeoffuryspd",
+      "def": "tomeoffurydef",
+      "res": "tomeoffuryres"
     }
   },
   "veld": {
@@ -114210,7 +114261,8 @@
       "alfonse2",
       "alfonse3",
       "alfonse5",
-      "alfonse6"
+      "alfonse6",
+      "alfonse7"
     ],
     "prf": {
       "": "amitybloomsdef",
@@ -114723,12 +114775,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "silessefrost",
-      "eff": "silessefrost",
-      "atk": "silessefrost",
-      "spd": "silessefrost",
-      "def": "silessefrost",
-      "res": "silessefrost"
+      "": "silessefrosteff",
+      "eff": "silessefrosteff",
+      "atk": "silessefrostatk",
+      "spd": "silessefrostspd",
+      "def": "silessefrostdef",
+      "res": "silessefrostres"
     }
   },
   "azelle": {
@@ -115580,12 +115632,12 @@
       "dedue3"
     ],
     "prf": {
-      "": "taciturnaxe",
-      "eff": "taciturnaxe",
-      "atk": "taciturnaxe",
-      "spd": "taciturnaxe",
-      "def": "taciturnaxe",
-      "res": "taciturnaxe"
+      "": "taciturnaxeeff",
+      "eff": "taciturnaxeeff",
+      "atk": "taciturnaxeatk",
+      "spd": "taciturnaxespd",
+      "def": "taciturnaxedef",
+      "res": "taciturnaxeres"
     }
   },
   "linhardt": {
@@ -122508,12 +122560,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "proudspear",
-      "eff": "proudspear",
-      "atk": "proudspear",
-      "spd": "proudspear",
-      "def": "proudspear",
-      "res": "proudspear"
+      "": "proudspeareff",
+      "eff": "proudspeareff",
+      "atk": "proudspearatk",
+      "spd": "proudspearspd",
+      "def": "proudspeardef",
+      "res": "proudspearres"
     }
   },
   "hilda3": {
@@ -175339,7 +175391,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "\u6c34\u7740\u30a8\u30d5\u30e9\u30e0",
     "voice": "Greg Chun",
     "resplendent": false,
@@ -198592,7 +198644,8 @@
       "sharena",
       "sharena2",
       "sharena4",
-      "sharena5"
+      "sharena5",
+      "sharena6"
     ],
     "prf": {
       "": "unitedbouquet",
@@ -205332,7 +205385,8 @@
       "alfonse2",
       "alfonse3",
       "alfonse4",
-      "alfonse6"
+      "alfonse6",
+      "alfonse7"
     ],
     "prf": {
       "": "majesticglitnir",
@@ -230077,7 +230131,8 @@
     "alt": false,
     "reference": [
       "baldr2",
-      "baldr3"
+      "baldr3",
+      "baldr4"
     ],
     "prf": {
       "": "sunsword",
@@ -230272,7 +230327,9 @@
     "DISPLAY_NAME": "<:Blue_Bow:1317239347577356328>H\u00f6\u00f0r",
     "RANDOM_IGNORE": true,
     "alt": false,
-    "reference": [],
+    "reference": [
+      "hodr2"
+    ],
     "prf": {
       "": "duskrifle",
       "eff": "duskrifle",
@@ -231361,7 +231418,8 @@
       "sharena",
       "sharena2",
       "sharena3",
-      "sharena5"
+      "sharena5",
+      "sharena6"
     ],
     "prf": {
       "": "gladsbok",
@@ -231537,7 +231595,8 @@
     "alt": true,
     "reference": [
       "baldr",
-      "baldr3"
+      "baldr3",
+      "baldr4"
     ],
     "prf": {
       "": "truthseeker",
@@ -235778,7 +235837,8 @@
       "sharena",
       "sharena2",
       "sharena3",
-      "sharena4"
+      "sharena4",
+      "sharena6"
     ],
     "prf": {
       "": "asjaofaskr",
@@ -238942,7 +239002,8 @@
       "alfonse2",
       "alfonse3",
       "alfonse4",
-      "alfonse5"
+      "alfonse5",
+      "alfonse7"
     ],
     "prf": {
       "": "chosensword",
@@ -240901,7 +240962,8 @@
     "alt": false,
     "reference": [
       "baldr",
-      "baldr2"
+      "baldr2",
+      "baldr4"
     ],
     "prf": {
       "": "godlydevices",
@@ -250452,7 +250514,7 @@
   "peony5": {
     "name": "Peony",
     "title": "Interwoven Dream",
-    "description": "A lj\u00f3s\u00e1lfr from Lj\u00f3s\u00e1lfheimr, the realm of dreams. Participates in the bridal festival to support the dreams of the brides..",
+    "description": "A lj\u00f3s\u00e1lfr from Lj\u00f3s\u00e1lfheimr, the realm of dreams. Participates in the bridal festival to support the dreams of the brides.",
     "origin": "Heroes",
     "artist": "Unamiya (\u3046\u306a\u307f\u3084)",
     "move": "Flying",
@@ -251444,5 +251506,892 @@
       "res": "chosenaxe"
     },
     "blessing": "Fire"
+  },
+  "baldr4": {
+    "name": "Baldr",
+    "title": "Eternal Shimmer",
+    "description": "Goddesses from the celestial realm of \u00c1sgar\u00f0r. These sisters shine even brighter in the summer sun.",
+    "origin": "Heroes",
+    "artist": "cuboon",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": "220",
+    "id": "1386",
+    "type": "duo",
+    "version": "10.6",
+    "duo": "Grants\u3010Drain Cancel\u3011and\u3010Cancel Affinity\u3011to unit and allies within 3 spaces of unit for 1 turn.\nIf unit is equipped with their character-specific weapon skill, re-enables the following weapon effects that have already been triggered: effects for unit that will not trigger again for 2 turns after triggering and effects for allies that trigger for player's team only once per map.\n\u3010Drain Cancel\u3011\nGrants Atk/Spd/Def/Res+4 to unit during combat.\nWhen a foe triggers both \"grants the\u3010Bonus\u3011effects active on foe\" and \"neutralizes any \u3010Bonus\u3011active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any\u3010Bonus\u3011effects active on that foe (does not neutralize\u3010Bonus\u3011effects applied at the same time).\n\u3010Cancel Affinity\u3011\nIf unit has weapon-triangle disadvantage, reverses weapon-triangle advantage granted by foe's skills for 1 turn.\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 6,
+      "res": 7
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 50,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Godly Infusions": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Wind Edge": "5"
+    },
+    "passive": {
+      "A": {
+        "Heaven's Ethos": "5"
+      },
+      "B": {
+        "Magic Gambit 1": "2",
+        "Magic Gambit 2": "3",
+        "Magic Gambit 3": "4",
+        "Demonic Force": "5"
+      },
+      "C": {
+        "Strat Assault 1": "2",
+        "Strat Assault 2": "3",
+        "Strat Assault 3": "4",
+        "Strat Assault 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Baldr_Eternal_Shimmer_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Baldr_Eternal_Shimmer_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/46/Baldr_Eternal_Shimmer_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Baldr_Eternal_Shimmer_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Eternal Shimmer",
+      "Baldr: Eternal Shimmer",
+      "Summer Baldr",
+      "S Baldr",
+      "Beach Baldr",
+      "Duo Baldr 2",
+      "D Baldr 2",
+      "baldr4"
+    ],
+    "HARD_ALT_NAME": [
+      "Eternal Shimmer",
+      "Baldr: Eternal Shimmer",
+      "Summer Baldr",
+      "S Baldr",
+      "Beach Baldr",
+      "Duo Baldr 2",
+      "D Baldr 2",
+      "baldr4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6bd4\u7ffc\u30d0\u30eb\u30c9\u30eb2",
+    "voice": "Sam Slade + Mia Paige",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Baldr:** I expected much less, but Midgard's beaches have surprised me. The sun and sea are truly dazzling!",
+        "**V\u00e1li:** Baldr never misses a single day of her training. That's why she has such a flawless figure!",
+        "**Baldr:** A most splendid swimsuit, V\u00e1li—and one wholly befitting a god of \u00c1sgar\u00f0r. You've done very well indeed.",
+        "**V\u00e1li:** I can't believe I get to see Baldr in her swimsuit! I must burn this radiant image of her into my memory!",
+        "**Baldr:** Even the oceans bow to us! V\u00e1li, we will swim to that island across the way in a straight shot without resting."
+      ],
+      "Visit": [
+        "**V\u00e1li:** I'm V\u00e1li, on vacation with my sister Baldr. She looks fantastic, right? I saw [F] staring at her!"
+      ],
+      "Level": [
+        "**Baldr:** Ohohohoho! Even Midgard's sun pales in comparison to our brilliance!",
+        "**V\u00e1li:** Anyone who tries to ruin Baldr's vacation better watch out! I mean it!",
+        "**Mel\u00edai:** Ughhh! How can I face Baldr if I can't even handle a bit of sunlight?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Behold, V\u00e1li\u2014the beach! Now, let us shine brighter than the sun itself!"
+      ],
+      "Learn Skill": [
+        "**Baldr:** Excellent! This will only enhance my my radiance!"
+      ],
+      "Confession": [
+        "**V\u00e1li:** I brought us some drinks. They're made with summer fruits that people say are really popular in Midgard.\n**Baldr:** Thank you, V\u00e1li. Were you also able to find a moment of repose?\n**V\u00e1li:** Oh, yes! Spending a vacation with you is better than anything I could have imagined!\n**Baldr:** Midgard's beaches were magnificent. The bright sun, the endless blue sea... Sand sparkling like flecks of gold...\nEven still, we shine brighter than all of it. Ohohohoho!\n**V\u00e1li:** Oh, Baldr! You are so incredible! Please let me tag along again! I would follow you to the ends of the realms!"
+      ],
+      "Special": [
+        "**Duo:** A brilliant summer!",
+        "**Duo:** Behold. Dazzling, right?",
+        "**Baldr:** I am the star.",
+        "**V\u00e1li:** You measly..."
+      ],
+      "Status": [
+        "-",
+        "\"We shall teach the mortals the true joys of summer!\" \"Yes, Baldr!\""
+      ],
+      "Map Select": [
+        "Hmm?",
+        "Brighter than the sun.",
+        "I can't wait!"
+      ],
+      "Conversation": [
+        "**V\u00e1li:** *wince*",
+        "**Baldr:** What's wrong, V\u00e1li? Pull yourself together!",
+        "**V\u00e1li:** I'm sorry, Baldr. I just got a little dizzy.",
+        "**Baldr:** It must be the heat. Let's find some shade.",
+        "**V\u00e1li:** No... It's not that. It's just that being next to your brilliance, I feel...",
+        "**Baldr:** Ohohoho! Oh, you...",
+        "If that is the case, we should put some distance between us.",
+        "**V\u00e1li:** What?! No. I couldn't stand to leave your side.",
+        "**Baldr:** But I am too brilliant to stand beside, right?",
+        "**V\u00e1li:** Yes, but\u2014 Oh, I know! I can wear these dark-stained glasses...",
+        "*grunt* No, this won't work! I want to burn your radiance, unfiltered, into my memory!",
+        "**Baldr:** Then what is the solution? It is not possible for me to dim my brilliance.",
+        "I make no effort to shine so bright. Rather, it's just something that wells up naturally from within me.",
+        "**V\u00e1li:** Oh, Baldr! You're getting even brighter now! How wonderful!",
+        "*grunt* I will not give in. As your sister, I must remain by your side to support you.",
+        "I will prove that I can endure! This is just a test.",
+        "**Baldr:** Ohohoho! That's my sister. Now, to the ocean!"
+      ],
+      "Duo Skill": [
+        "\"This summer\" \"is Baldr's!\"",
+        "\"Wonderful!\" \"Ohohoho!\""
+      ],
+      "Back Unit Supporting": [
+        "No one matches Baldr!",
+        "Rout those maggots!"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Summer Baldr",
+    "SEARCH_NAME": "Summer Baldr",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Green_Tome:1317239575352971396>Summer Baldr",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "baldr",
+      "baldr2",
+      "baldr3"
+    ],
+    "prf": {
+      "": "godlyinfusions",
+      "eff": "godlyinfusions",
+      "atk": "godlyinfusions",
+      "spd": "godlyinfusions",
+      "def": "godlyinfusions",
+      "res": "godlyinfusions"
+    }
+  },
+  "hodr2": {
+    "name": "H\u00f6\u00f0r",
+    "title": "Twilight Breeze",
+    "description": "A god of the celestial of \u00c1sgar\u00f0r. She enjoys summer, despite feeling nervous wearing a swimsuit.",
+    "origin": "Heroes",
+    "artist": "u_suke (u\u4Ecb)",
+    "move": "Flying",
+    "weapon": "Bow",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1387",
+    "type": "rearmed",
+    "version": "10.6",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 13,
+      "spd": 7,
+      "def": 5,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 60,
+      "def": 45,
+      "res": 90
+    },
+    "superboon": [
+      "def",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Arcane Parasol": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Ice Wall": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Res Catch 1": "2",
+        "Atk/Res Catch 2": "3",
+        "Atk/Res Catch 3": "4",
+        "Atk/Res Airspace": "5"
+      },
+      "B": {
+        "Atk/Def Snag 1": "2",
+        "Atk/Def Snag 2": "3",
+        "Atk/Def Snag 3": "4",
+        "A/D Detect Aerial": "5"
+      },
+      "C": {
+        "Verity Keeper": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Hodr_Twilight_Breeze_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Hodr_Twilight_Breeze_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Hodr_Twilight_Breeze_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Hodr_Twilight_Breeze_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Twilight Breeze",
+      "H\u00f6\u00f0r: Twilight Breeze",
+      "Summer H\u00f6\u00f0r",
+      "S H\u00f6\u00f0r",
+      "Beach H\u00f6\u00f0r",
+      "Summer Rearmed H\u00f6\u00f0r",
+      "S Rearmed H\u00f6\u00f0r",
+      "Beach Rearmed H\u00f6\u00f0r",
+      "Rearmed Summer H\u00f6\u00f0r",
+      "Rearmed S H\u00f6\u00f0r",
+      "Rearmed Beach H\u00f6\u00f0r",
+      "Summer Rearm H\u00f6\u00f0r",
+      "S Rearm H\u00f6\u00f0r",
+      "Beach Rearm H\u00f6\u00f0r",
+      "Rearm Summer H\u00f6\u00f0r",
+      "Rearm S H\u00f6\u00f0r",
+      "Rearm Beach H\u00f6\u00f0r",
+      "Summer R H\u00f6\u00f0r",
+      "S R H\u00f6\u00f0r",
+      "Beach R H\u00f6\u00f0r",
+      "R Summer H\u00f6\u00f0r",
+      "R S H\u00f6\u00f0r",
+      "R Beach H\u00f6\u00f0r",
+      "Summer Arm H\u00f6\u00f0r",
+      "S Arm H\u00f6\u00f0r",
+      "Beach Arm H\u00f6\u00f0r",
+      "Arm Summer H\u00f6\u00f0r",
+      "Arm S H\u00f6\u00f0r",
+      "Arm Beach H\u00f6\u00f0r",
+      "h\u00f6\u00f0r2",
+      "Hodr: Twilight Breeze",
+      "Summer Hodr",
+      "S Hodr",
+      "Beach Hodr",
+      "Summer Rearmed Hodr",
+      "S Rearmed Hodr",
+      "Beach Rearmed Hodr",
+      "Rearmed Summer Hodr",
+      "Rearmed S Hodr",
+      "Rearmed Beach Hodr",
+      "Summer Rearm Hodr",
+      "S Rearm Hodr",
+      "Beach Rearm Hodr",
+      "Rearm Summer Hodr",
+      "Rearm S Hodr",
+      "Rearm Beach Hodr",
+      "Summer R Hodr",
+      "S R Hodr",
+      "Beach R Hodr",
+      "R Summer Hodr",
+      "R S Hodr",
+      "R Beach Hodr",
+      "Summer Arm Hodr",
+      "S Arm Hodr",
+      "Beach Arm Hodr",
+      "Arm Summer Hodr",
+      "Arm S Hodr",
+      "Arm Beach Hodr",
+      "hodr2",
+      "Hoor: Twilight Breeze",
+      "Summer Hoor",
+      "S Hoor",
+      "Beach Hoor",
+      "Summer Rearmed Hoor",
+      "S Rearmed Hoor",
+      "Beach Rearmed Hoor",
+      "Rearmed Summer Hoor",
+      "Rearmed S Hoor",
+      "Rearmed Beach Hoor",
+      "Summer Rearm Hoor",
+      "S Rearm Hoor",
+      "Beach Rearm Hoor",
+      "Rearm Summer Hoor",
+      "Rearm S Hoor",
+      "Rearm Beach Hoor",
+      "Summer R Hoor",
+      "S R Hoor",
+      "Beach R Hoor",
+      "R Summer Hoor",
+      "R S Hoor",
+      "R Beach Hoor",
+      "Summer Arm Hoor",
+      "S Arm Hoor",
+      "Beach Arm Hoor",
+      "Arm Summer Hoor",
+      "Arm S Hoor",
+      "Arm Beach Hoor",
+      "hoor2"
+    ],
+    "HARD_ALT_NAME": [
+      "Twilight Breeze",
+      "H\u00f6\u00f0r: Twilight Breeze",
+      "Summer H\u00f6\u00f0r",
+      "S H\u00f6\u00f0r",
+      "Beach H\u00f6\u00f0r",
+      "Summer Rearmed H\u00f6\u00f0r",
+      "S Rearmed H\u00f6\u00f0r",
+      "Beach Rearmed H\u00f6\u00f0r",
+      "Rearmed Summer H\u00f6\u00f0r",
+      "Rearmed S H\u00f6\u00f0r",
+      "Rearmed Beach H\u00f6\u00f0r",
+      "Summer Rearm H\u00f6\u00f0r",
+      "S Rearm H\u00f6\u00f0r",
+      "Beach Rearm H\u00f6\u00f0r",
+      "Rearm Summer H\u00f6\u00f0r",
+      "Rearm S H\u00f6\u00f0r",
+      "Rearm Beach H\u00f6\u00f0r",
+      "Summer R H\u00f6\u00f0r",
+      "S R H\u00f6\u00f0r",
+      "Beach R H\u00f6\u00f0r",
+      "R Summer H\u00f6\u00f0r",
+      "R S H\u00f6\u00f0r",
+      "R Beach H\u00f6\u00f0r",
+      "Summer Arm H\u00f6\u00f0r",
+      "S Arm H\u00f6\u00f0r",
+      "Beach Arm H\u00f6\u00f0r",
+      "Arm Summer H\u00f6\u00f0r",
+      "Arm S H\u00f6\u00f0r",
+      "Arm Beach H\u00f6\u00f0r",
+      "h\u00f6\u00f0r2",
+      "Hodr: Twilight Breeze",
+      "Summer Hodr",
+      "S Hodr",
+      "Beach Hodr",
+      "Summer Rearmed Hodr",
+      "S Rearmed Hodr",
+      "Beach Rearmed Hodr",
+      "Rearmed Summer Hodr",
+      "Rearmed S Hodr",
+      "Rearmed Beach Hodr",
+      "Summer Rearm Hodr",
+      "S Rearm Hodr",
+      "Beach Rearm Hodr",
+      "Rearm Summer Hodr",
+      "Rearm S Hodr",
+      "Rearm Beach Hodr",
+      "Summer R Hodr",
+      "S R Hodr",
+      "Beach R Hodr",
+      "R Summer Hodr",
+      "R S Hodr",
+      "R Beach Hodr",
+      "Summer Arm Hodr",
+      "S Arm Hodr",
+      "Beach Arm Hodr",
+      "Arm Summer Hodr",
+      "Arm S Hodr",
+      "Arm Beach Hodr",
+      "hodr2",
+      "Hoor: Twilight Breeze",
+      "Summer Hoor",
+      "S Hoor",
+      "Beach Hoor",
+      "Summer Rearmed Hoor",
+      "S Rearmed Hoor",
+      "Beach Rearmed Hoor",
+      "Rearmed Summer Hoor",
+      "Rearmed S Hoor",
+      "Rearmed Beach Hoor",
+      "Summer Rearm Hoor",
+      "S Rearm Hoor",
+      "Beach Rearm Hoor",
+      "Rearm Summer Hoor",
+      "Rearm S Hoor",
+      "Rearm Beach Hoor",
+      "Summer R Hoor",
+      "S R Hoor",
+      "Beach R Hoor",
+      "R Summer Hoor",
+      "R S Hoor",
+      "R Beach Hoor",
+      "Summer Arm Hoor",
+      "S Arm Hoor",
+      "Beach Arm Hoor",
+      "Arm Summer Hoor",
+      "Arm S Hoor",
+      "Arm Beach Hoor",
+      "hoor2"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u9b54\u5668\u6c34\u7740\u30d8\u30ba",
+    "voice": "Emi Lo",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "M-maybe I should have cut my bangs shorter before coming to the beach. I'm not sure...",
+        "I have always wondered about the oceans of Midgard. How they might shimmer in the sunlight...",
+        "Um... I heard you should wait to get into the water if you've just had something to eat...",
+        "Baldr and V\u00e1li look so nice in their swimsuits. I wish I had the confidence to carry myself that way...",
+        "I have never worn anything like this. I feel...a bit embarrassed. Maybe I ought to cover up with something..."
+      ],
+      "Visit": [
+        "I am H\u00f6\u00f0r from \u00c1sgar\u00f0r. I'm here to deliver a summer greeting to you from [F]."
+      ],
+      "Level": [
+        "Relaxing in the shade, listening to the sound of the waves... I find myself enjoying the sea.",
+        "Me? Enjoy this vacation? I... Perhaps I can find my own way to do this...",
+        "I-I knew this was a bad idea... Someone like me, coming here... What was I thinking?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am H\u00f6\u00f0r. I don't usually dress like this..."
+      ],
+      "Learn Skill": [
+        "A summer gift...for me? Are you sure I'm the one who should have this?"
+      ],
+      "Confession": [
+        "Th-thank you for inviting me here, [S].\nI, um... I'm sorry. I cannot speak well. But...I am grateful.\nI am...nothing like my sisters Baldr and V\u00e1li. They are so confident.\nBut I have always wished to visit a beach like this in the summer, at least once.\nNow I realize how beautiful Midgard is. Even a god can find solace here.\nI may not be strong like Baldr, but I will do what I can to help...because this world is worth protecting."
+      ],
+      "Special": [
+        "Why me?",
+        "Can I go now?",
+        "The ocean is cold.",
+        "The sun feels nice..."
+      ],
+      "Status": [
+        "-",
+        "Do I belong here, against such a bright ocean?",
+        "*react* Oh. A cold drink...for me? Are you sure?",
+        "I have never worn anything like this. Does it look correct?",
+        "*react* Sorry for running into you... Everything went dark for a moment.",
+        "My sister shines brighter than anyone on this beach.",
+        "This world and its ocean are so beautiful... I wish to protect it.",
+        "I'm sorry my presence will keep you from enjoying the sea. Oh? Is that not true?"
+      ],
+      "Map Select": [
+        "Yes.",
+        "Can I?",
+        "The sand is so hot."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Summer Rearmed H\u00f6\u00f0r",
+    "SEARCH_NAME": "Summer Rearmed H\u00f6\u00f0r",
+    "DISPLAY_NAME": "<:Colorless_Bow:1317239404204654703>Summer Rearmed H\u00f6\u00f0r",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "hodr"
+    ],
+    "prf": {
+      "": "arcaneparasolres",
+      "eff": "arcaneparasolres",
+      "atk": "arcaneparasolatk",
+      "spd": "arcaneparasolspd",
+      "def": "arcaneparasoldef",
+      "res": "arcaneparasolres"
+    }
+  },
+  "sharena6": {
+    "name": "Sharena",
+    "title": "Sea of Hope",
+    "description": "Princess of the Kingdom of Askr who is always cheerful and energetic. She enjoys the best summer ever beside the tropical sea.",
+    "origin": "Heroes",
+    "artist": "Fuwaomu (\u3075\u308F\u304A\u3080)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1388",
+    "type": false,
+    "version": "10.6",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 10,
+      "res": 9
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Deluxe BBQ": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Specter": "5"
+      },
+      "B": {
+        "Speedtaker 1": "2",
+        "Speedtaker 2": "3",
+        "Speedtaker 3": "4",
+        "A/S Taker Burst": "5"
+      },
+      "C": {
+        "Truly Yours": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Sharena_Sea_of_Hope_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Sharena_Sea_of_Hope_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Sharena_Sea_of_Hope_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Sharena_Sea_of_Hope_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Sea of Hope",
+      "Sharena: Sea of Hope",
+      "Summer Sharena",
+      "Su Sharena",
+      "S Sharena 2",
+      "Beach Sharena",
+      "sharena6"
+    ],
+    "HARD_ALT_NAME": [
+      "Sea of Hope",
+      "Sharena: Sea of Hope",
+      "Summer Sharena",
+      "Su Sharena",
+      "S Sharena 2",
+      "Beach Sharena",
+      "sharena6"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6c34\u7740\u30b7\u30e3\u30ed\u30f3",
+    "voice": "Julie Maddalena Kliewer",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Look, everyone's hanging out at the beach. This is a great opportunity to get to know each other better!",
+        "I just can't get over how amazing Askr's beaches are. The way the sun sparkles on the water... I love it!",
+        "On hot, sunny days like this, I just want to go run and play in the sand. It makes me feel just like a kid, hehe!",
+        "I'm wearing a new swimsuit for this vacation! What do you think? It's cute, isn't it?",
+        "My mother and I chose Alfonse's swimsuit. We didn't trust him to do it himself! What do you think?"
+      ],
+      "Visit": [
+        "I'm Sharena, princess of Askr. Are you enjoying the beautiful summer weather like [F]?"
+      ],
+      "Level": [
+        "It's so fun being on vacation with Heroes! I know this will be a special memory that stays with me forever.",
+        "If I want to make this summer the best one ever, I've gotta get myself fired up even more!",
+        "Oops, maybe I got a little too excited. I feel a bit dizzy..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "At last, summer is here! It's time to put on our swimsuits and bask in the sunshine of the season!"
+      ],
+      "Learn Skill": [
+        "This really helps! Not even the blazing summer heat can stop me now!"
+      ],
+      "Confession": [
+        "Hey, I brought you some sunscreen, [S]!\nThe sunlight's pretty strong today. Lounging in the shade of a big beach umbrella may not be a bad idea!\nIt's thanks to all the Heroes that we're able to relax and enjoy ourselves like this.\nIf not for them, a vacation would be the furthest thing from our minds. We could have even lost Askr itself.\nSo we should be grateful for days like today. We're fortunate to have them!\nAll right, put on this sunscreen and let's hop into the water! Our summer's just getting started!"
+      ],
+      "Special": [
+        "Bright, aren't I?",
+        "The big blue!",
+        "How summer sparkles...",
+        "Back to the sea with you!"
+      ],
+      "Status": [
+        "-",
+        "Greetings! Are you in the mood for some freshly grilled food?",
+        "*startle* Hey! I bet you couldn't wait to do that, huh?",
+        "The Heroes brought me all these ingredients to play with!",
+        "Leave it to me! I've mastered how to enjoy the summer!",
+        "Bright blue ocean, white sandy beaches, smiles glittering in the sunlight... It's perfect, don't you think?",
+        "This summer is one of a kind, so come on, let's enjoy it to the fullest!",
+        "Summer's just getting started! Your Sharena is all powered-up! So, whaddaya say we aim for the horizon together!"
+      ],
+      "Map Select": [
+        "Let's go!",
+        "Want a taste?",
+        "I'm with you."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Summer Sharena",
+    "SEARCH_NAME": "Summer Sharena",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Summer Sharena",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "sharena",
+      "sharena2",
+      "sharena3",
+      "sharena4",
+      "sharena5"
+    ],
+    "prf": {
+      "": "deluxebbq",
+      "eff": "deluxebbq",
+      "atk": "deluxebbq",
+      "spd": "deluxebbq",
+      "def": "deluxebbq",
+      "res": "deluxebbq"
+    }
+  },
+  "alfonse7": {
+    "name": "Alfonse",
+    "title": "Sunlit Spirit",
+    "description": "Prince of the Kingdom of Askr who fights for his homeland. He visits the seaside this summer with his sister, Sharena.",
+    "origin": "Heroes",
+    "artist": "nekomochi (\u30cd\u30b3\u30e2\u30c1) / Trys Inc.",
+    "move": "Cavalry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1389",
+    "type": false,
+    "version": "10.6",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 10,
+      "spd": 3,
+      "def": 14,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 30,
+      "def": 80,
+      "res": 75
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "res"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Beach Umbrella": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Bonfire": "4",
+      "Ascendant King": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "1",
+        "Atk/Def Clash 2": "2",
+        "Atk/Def Clash 3": "4"
+      },
+      "B": {},
+      "C": {
+        "Fortify Def 1": "2",
+        "Fortify Def 2": "3",
+        "Fortify Def 3": "4",
+        "A/D Outcry Dull": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Alfonse_Sunlit_Spirit_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Alfonse_Sunlit_Spirit_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Alfonse_Sunlit_Spirit_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Alfonse_Sunlit_Spirit_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Sunlit Spirit",
+      "Alfonse: Sunlit Spirit",
+      "Summer Alfonse",
+      "Su Alfonse",
+      "S Alfonse 2",
+      "Beach Alfonse",
+      "alfonse7"
+    ],
+    "HARD_ALT_NAME": [
+      "Sunlit Spirit",
+      "Alfonse: Sunlit Spirit",
+      "Summer Alfonse",
+      "Su Alfonse",
+      "S Alfonse 2",
+      "Beach Alfonse",
+      "alfonse7"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6c34\u7740\u30a2\u30eb\u30d5\u30a9\u30f3\u30b9",
+    "voice": "Ray Chase",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "If I want to stay cool in this heat, wearing my armor simply isn't an option.",
+        "Look at this beautiful beach, lit by the sun and everyone's beaming smiles. It is our duty to keep it\u2014them\u2014safe.",
+        "Whew... Training in the sun isn't bad, is it? Despite all the sweat, the benefits feel much greater!",
+        "Sharena chose a swimsuit for me. I suppose she didn't trust me to do it myself. Haha, perhaps she was right.",
+        "This summer has been quite hot. Are you certain you've been staying hydrated, [S]?"
+      ],
+      "Visit": [
+        "I am Alfonse, prince of Askr. I come with a summer letter, entrusted to me by [F]."
+      ],
+      "Level": [
+        "We strive for a world without war\u2014so that leisurely beach days like this are never out of reach for anyone.",
+        "I feel it is safe to say that this vacation means a great deal to everyone gathered here.",
+        "The sunlight is unbearably strong... It's good to know one's limits so as not to overextend oneself."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Alfonse, prince of Askr. It's a beautiful day here at the beach. A day of sun, friendship, and peace."
+      ],
+      "Learn Skill": [
+        "This is for me? You have my thanks. The summer continues to be a source of gifts of all types."
+      ],
+      "Confession": [
+        "How have you been finding your vacation, [S]?\nHaha, that smile tells me everything I need to know.\nWe've known each other for some time now, but I believe this is our first occasion to relax together like this.\nIn an ideal scenario, we'd be coming to the beach after having reclaimed peace for our country.\nBut even if this is only a brief moment of respite, it has renewed my determination to protect Askr.\nThat's why I'd like to reiterate how much your support means to me, [S].\nWhen our peace is truly secured, we will gather here once more."
+      ],
+      "Special": [
+        "I'll protect the beach!",
+        "Cool off!",
+        "A moment in the sun!",
+        "To the ocean with you!"
+      ],
+      "Status": [
+        "*chuckle*",
+        "It's nice to relax and read in the shade of an umbrella.",
+        "Huh?! Oh, a drink for me?",
+        "I'm burning every detail of this view into my memory. I want to bring joy like this to my people one day.",
+        "My sister Sharena is quite talented, if I do say so. She made my necklace by hand.",
+        "I want to improve at fighting on the beach. It's so difficult to keep my footing in the sand.",
+        "I'm happy everyone is enjoying themselves. I hope we can do this again next year too.",
+        "We've had such fun today, I hardly noticed the sun set. Shall we all head home?"
+      ],
+      "Map Select": [
+        "Indeed.",
+        "Are we to swim?",
+        "Together."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Summer Alfonse",
+    "SEARCH_NAME": "Summer Alfonse",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Summer Alfonse",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "alfonse",
+      "alfonse2",
+      "alfonse3",
+      "alfonse4",
+      "alfonse5",
+      "alfonse6"
+    ],
+    "prf": {
+      "": "beachumbrella",
+      "eff": "beachumbrella",
+      "atk": "beachumbrella",
+      "spd": "beachumbrella",
+      "def": "beachumbrella",
+      "res": "beachumbrella"
+    }
   }
 }

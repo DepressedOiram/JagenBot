@@ -245,6 +245,7 @@
                 "Priming Sword"
             ],
             "Lance": [
+                "Beach Umbrella",
                 "Rearguard Lance"
             ],
             "Axe": [],
@@ -389,6 +390,7 @@
                 "Suave Blade"
             ],
             "Lance": [
+                "Beach Umbrella",
                 "Chosen Lance",
                 "Geidriful",
                 "Penitent Lance",
@@ -546,7 +548,8 @@
                 "A/D Outcry Seize",
                 "Atk/Spd Liberate",
                 "Atk/Res Liberate",
-                "Covetous One"
+                "Covetous One",
+                "Truly Yours"
             ],
             "X": [
                 "Lull Echo",
@@ -556,6 +559,7 @@
             "captain": []
         },
         "reference_hero": {
+            "baldr4": "<:feh_duo:1317239462874578975><:Green_Tome:1317239575352971396>Summer Baldr",
             "freyja3": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Halloween Freyja",
             "thorr2": "<:feh_duo:1317239462874578975><:Blue_Tome:1317239386491977749>Summer Th\u00f3rr"
         },
@@ -735,7 +739,8 @@
             "captain": []
         },
         "reference_hero": {
-            "baldr3": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>New Year Baldr"
+            "baldr3": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>New Year Baldr",
+            "baldr4": "<:feh_duo:1317239462874578975><:Green_Tome:1317239575352971396>Summer Baldr"
         },
         "HARD_ALT_NAME": [
             "Cancel Affinity"
@@ -1390,7 +1395,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Heaven's Ethos"
+            ],
             "B": [
                 "Collapsed Star",
                 "Stellar Brace"
@@ -2172,7 +2179,8 @@
                 "Uplift Imbue A/S",
                 "Divine Nectar",
                 "Fell Barrier",
-                "Nectar's Magic"
+                "Nectar's Magic",
+                "Verity Keeper"
             ],
             "X": [],
             "S": [],
@@ -2180,6 +2188,35 @@
         },
         "reference_hero": {},
         "HARD_ALT_NAME": []
+    },
+    "defliberate": {
+        "name": "Def Liberate",
+        "description": "Grants bonus to Def during combat = number of\u3010Bonus\u3011effects active on unit, excluding stat bonuses, + 4 (max 8).",
+        "color": "Green",
+        "icon": "defliberate",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [
+                "Beach Umbrella"
+            ],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Def Liberate"
+        ]
     },
     "defshackle": {
         "name": "Def Shackle",
@@ -2925,7 +2962,8 @@
                 "Absolute Closure",
                 "Severance",
                 "Severance+",
-                "The True Dromi"
+                "The True Dromi",
+                "Truly Yours"
             ],
             "X": [],
             "S": [],
@@ -3065,7 +3103,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "baldr4": "<:feh_duo:1317239462874578975><:Green_Tome:1317239575352971396>Summer Baldr"
+        },
         "HARD_ALT_NAME": []
     },
     "dualstrike": {
@@ -3215,7 +3255,8 @@
             ],
             "C": [
                 "Divine God Fang",
-                "Just like Mother"
+                "Just like Mother",
+                "Truly Yours"
             ],
             "X": [],
             "S": [],
@@ -3352,7 +3393,8 @@
             "special": [],
             "A": [
                 "Heaven's Stead",
-                "Heaven's Stead N"
+                "Heaven's Stead N",
+                "Heaven's Ethos"
             ],
             "B": [
                 "D/R Cantrip 3",
@@ -4138,6 +4180,7 @@
                 "Blue_Tome": [],
                 "Green_Tome": [
                     "Enraptured God",
+                    "Godly Infusions",
                     "Vengeful God"
                 ],
                 "Colorless_Tome": []
@@ -4159,10 +4202,12 @@
                 "Self-Mastery"
             ],
             "B": [
-                "Speedtaker 4"
+                "Speedtaker 4",
+                "A/S Taker Burst"
             ],
             "C": [
-                "Instruct 4"
+                "Instruct 4",
+                "Truly Yours"
             ],
             "X": [],
             "S": [],
@@ -5768,7 +5813,8 @@
                 "Dream Deliverer+",
                 "Paranoia",
                 "Severance",
-                "Ties of Crimea"
+                "Ties of Crimea",
+                "Truly Yours"
             ],
             "X": [
                 "Sly Echo"
@@ -5987,6 +6033,7 @@
         "reference_weapon": {
             "Sword": [
                 "Blade of Renais",
+                "Deluxe BBQ",
                 "Ice Falchion",
                 "Ilian Longsword",
                 "Vague Katti"
@@ -6101,6 +6148,7 @@
             ],
             "Lance": [
                 "Arcane Thorn",
+                "Beach Umbrella",
                 "Rearguard Lance"
             ],
             "Axe": [],
@@ -7465,6 +7513,7 @@
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [
+                    "Godly Infusions",
                     "Morph Fimbulvetr",
                     "Sothis's Wrath"
                 ],
@@ -7722,6 +7771,7 @@
             "A": [
                 "Heaven's Stead",
                 "Heaven's Stead N",
+                "Heaven's Ethos",
                 "Peerless Beauty"
             ],
             "B": [],
