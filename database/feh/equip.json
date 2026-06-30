@@ -19125,7 +19125,7 @@
     "refine": "Flower of Sorrow"
   },
   "flowerofsorrowatk": {
-    "name": "Flower of Sorrow (+Atk)",
+    "name": "Flower of Sorrow (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -19133,7 +19133,7 @@
     "refine": false
   },
   "flowerofsorrowspd": {
-    "name": "Flower of Sorrow (+Spd)",
+    "name": "Flower of Sorrow (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -19142,7 +19142,7 @@
     "refine": false
   },
   "flowerofsorrowdef": {
-    "name": "Flower of Sorrow (+Def)",
+    "name": "Flower of Sorrow (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -19151,7 +19151,7 @@
     "refine": false
   },
   "flowerofsorrowres": {
-    "name": "Flower of Sorrow (+Res)",
+    "name": "Flower of Sorrow (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -19859,7 +19859,7 @@
     "refine": "Mirage Rod"
   },
   "miragerodatk": {
-    "name": "Mirage Rod (+Atk)",
+    "name": "Mirage Rod (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -19867,7 +19867,7 @@
     "refine": false
   },
   "miragerodspd": {
-    "name": "Mirage Rod (+Spd)",
+    "name": "Mirage Rod (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -19876,7 +19876,7 @@
     "refine": false
   },
   "mirageroddef": {
-    "name": "Mirage Rod (+Def)",
+    "name": "Mirage Rod (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -19885,7 +19885,7 @@
     "refine": false
   },
   "miragerodres": {
-    "name": "Mirage Rod (+Res)",
+    "name": "Mirage Rod (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -20352,7 +20352,7 @@
     "refine": "Constant Dagger"
   },
   "constantdaggeratk": {
-    "name": "Constant Dagger (+Atk)",
+    "name": "Constant Dagger (Atk)",
     "bonus": {
       "atk": 15,
       "spd": 3,
@@ -20361,7 +20361,7 @@
     "refine": false
   },
   "constantdaggerspd": {
-    "name": "Constant Dagger (+Spd)",
+    "name": "Constant Dagger (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 5,
@@ -20370,7 +20370,7 @@
     "refine": false
   },
   "constantdaggerdef": {
-    "name": "Constant Dagger (+Def)",
+    "name": "Constant Dagger (Def)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -20380,7 +20380,7 @@
     "refine": false
   },
   "constantdaggerres": {
-    "name": "Constant Dagger (+Res)",
+    "name": "Constant Dagger (Res)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -20563,7 +20563,7 @@
     "refine": "Crusher"
   },
   "crusheratk": {
-    "name": "Crusher (+Atk)",
+    "name": "Crusher (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -20571,7 +20571,7 @@
     "refine": false
   },
   "crusherspd": {
-    "name": "Crusher (+Spd)",
+    "name": "Crusher (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -20580,7 +20580,7 @@
     "refine": false
   },
   "crusherdef": {
-    "name": "Crusher (+Def)",
+    "name": "Crusher (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -20589,7 +20589,7 @@
     "refine": false
   },
   "crusherres": {
-    "name": "Crusher (+Res)",
+    "name": "Crusher (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -20655,7 +20655,7 @@
     "refine": "Persecution Bow"
   },
   "persecutionbowatk": {
-    "name": "Persecution Bow (+Atk)",
+    "name": "Persecution Bow (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -20663,7 +20663,7 @@
     "refine": false
   },
   "persecutionbowspd": {
-    "name": "Persecution Bow (+Spd)",
+    "name": "Persecution Bow (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -20672,7 +20672,7 @@
     "refine": false
   },
   "persecutionbowdef": {
-    "name": "Persecution Bow (+Def)",
+    "name": "Persecution Bow (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -20681,7 +20681,7 @@
     "refine": false
   },
   "persecutionbowres": {
-    "name": "Persecution Bow (+Res)",
+    "name": "Persecution Bow (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -20711,7 +20711,7 @@
     "refine": "Hades \u03a9"
   },
   "hadesoatk": {
-    "name": "Hades \u03a9 (+Atk)",
+    "name": "Hades \u03a9 (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -20719,7 +20719,7 @@
     "refine": false
   },
   "hadesospd": {
-    "name": "Hades \u03a9 (+Spd)",
+    "name": "Hades \u03a9 (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -20728,7 +20728,7 @@
     "refine": false
   },
   "hadesodef": {
-    "name": "Hades \u03a9 (+Def)",
+    "name": "Hades \u03a9 (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -20737,7 +20737,7 @@
     "refine": false
   },
   "hadesores": {
-    "name": "Hades \u03a9 (+Res)",
+    "name": "Hades \u03a9 (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -21013,7 +21013,7 @@
     "refine": "Rinkah's Club"
   },
   "rinkahsclubatk": {
-    "name": "Rinkah's Club (+Atk)",
+    "name": "Rinkah's Club (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -21021,7 +21021,7 @@
     "refine": false
   },
   "rinkahsclubspd": {
-    "name": "Rinkah's Club (+Spd)",
+    "name": "Rinkah's Club (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -21030,7 +21030,7 @@
     "refine": false
   },
   "rinkahsclubdef": {
-    "name": "Rinkah's Club (+Def)",
+    "name": "Rinkah's Club (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -21039,7 +21039,7 @@
     "refine": false
   },
   "rinkahsclubres": {
-    "name": "Rinkah's Club (+Res)",
+    "name": "Rinkah's Club (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -21114,7 +21114,7 @@
     "refine": "Astral Breath"
   },
   "astralbreathatk": {
-    "name": "Astral Breath (+Atk)",
+    "name": "Astral Breath (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -21123,7 +21123,7 @@
     "refine": false
   },
   "astralbreathspd": {
-    "name": "Astral Breath (+Spd)",
+    "name": "Astral Breath (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -21132,7 +21132,7 @@
     "refine": false
   },
   "astralbreathdef": {
-    "name": "Astral Breath (+Def)",
+    "name": "Astral Breath (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -21142,7 +21142,7 @@
     "refine": false
   },
   "astralbreathres": {
-    "name": "Astral Breath (+Res)",
+    "name": "Astral Breath (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -21168,7 +21168,7 @@
     "refine": "Feather Sword"
   },
   "featherswordatk": {
-    "name": "Feather Sword (+Atk)",
+    "name": "Feather Sword (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -21176,7 +21176,7 @@
     "refine": false
   },
   "featherswordspd": {
-    "name": "Feather Sword (+Spd)",
+    "name": "Feather Sword (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -21185,7 +21185,7 @@
     "refine": false
   },
   "feathersworddef": {
-    "name": "Feather Sword (+Def)",
+    "name": "Feather Sword (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -21194,7 +21194,7 @@
     "refine": false
   },
   "featherswordres": {
-    "name": "Feather Sword (+Res)",
+    "name": "Feather Sword (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -21225,7 +21225,7 @@
     "refine": "Dragoon Axe"
   },
   "dragoonaxeatk": {
-    "name": "Dragoon Axe (+Atk)",
+    "name": "Dragoon Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -21233,7 +21233,7 @@
     "refine": false
   },
   "dragoonaxespd": {
-    "name": "Dragoon Axe (+Spd)",
+    "name": "Dragoon Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -21242,7 +21242,7 @@
     "refine": false
   },
   "dragoonaxedef": {
-    "name": "Dragoon Axe (+Def)",
+    "name": "Dragoon Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -21251,7 +21251,7 @@
     "refine": false
   },
   "dragoonaxeres": {
-    "name": "Dragoon Axe (+Res)",
+    "name": "Dragoon Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -21275,7 +21275,7 @@
     "refine": "Winds of Change"
   },
   "windsofchangeatk": {
-    "name": "Winds of Change (+Atk)",
+    "name": "Winds of Change (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -21283,7 +21283,7 @@
     "refine": false
   },
   "windsofchangespd": {
-    "name": "Winds of Change (+Spd)",
+    "name": "Winds of Change (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -21292,7 +21292,7 @@
     "refine": false
   },
   "windsofchangedef": {
-    "name": "Winds of Change (+Def)",
+    "name": "Winds of Change (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -21301,7 +21301,7 @@
     "refine": false
   },
   "windsofchangeres": {
-    "name": "Winds of Change (+Res)",
+    "name": "Winds of Change (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -21574,7 +21574,7 @@
     "refine": "Gurgurant"
   },
   "gurgurantatk": {
-    "name": "Gurgurant (+Atk)",
+    "name": "Gurgurant (Atk)",
     "bonus": {
       "atk": 18,
       "def": 3,
@@ -21583,7 +21583,7 @@
     "refine": false
   },
   "gurgurantspd": {
-    "name": "Gurgurant (+Spd)",
+    "name": "Gurgurant (Spd)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -21593,7 +21593,7 @@
     "refine": false
   },
   "gurgurantdef": {
-    "name": "Gurgurant (+Def)",
+    "name": "Gurgurant (Def)",
     "bonus": {
       "atk": 16,
       "def": 7,
@@ -21602,7 +21602,7 @@
     "refine": false
   },
   "gurgurantres": {
-    "name": "Gurgurant (+Res)",
+    "name": "Gurgurant (Res)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -21628,7 +21628,7 @@
     "refine": "Dark Scripture"
   },
   "darkscriptureatk": {
-    "name": "Dark Scripture (+Atk)",
+    "name": "Dark Scripture (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -21636,7 +21636,7 @@
     "refine": false
   },
   "darkscripturespd": {
-    "name": "Dark Scripture (+Spd)",
+    "name": "Dark Scripture (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -21645,7 +21645,7 @@
     "refine": false
   },
   "darkscripturedef": {
-    "name": "Dark Scripture (+Def)",
+    "name": "Dark Scripture (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -21654,7 +21654,7 @@
     "refine": false
   },
   "darkscriptureres": {
-    "name": "Dark Scripture (+Res)",
+    "name": "Dark Scripture (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -21727,7 +21727,7 @@
     "refine": "Brutal Breath"
   },
   "brutalbreathatk": {
-    "name": "Brutal Breath (+Atk)",
+    "name": "Brutal Breath (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -21736,7 +21736,7 @@
     "refine": false
   },
   "brutalbreathspd": {
-    "name": "Brutal Breath (+Spd)",
+    "name": "Brutal Breath (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -21745,7 +21745,7 @@
     "refine": false
   },
   "brutalbreathdef": {
-    "name": "Brutal Breath (+Def)",
+    "name": "Brutal Breath (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -21755,7 +21755,7 @@
     "refine": false
   },
   "brutalbreathres": {
-    "name": "Brutal Breath (+Res)",
+    "name": "Brutal Breath (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -21865,7 +21865,7 @@
     "refine": "Joyful Vows"
   },
    "joyfulvowsatk": {
-    "name": "Joyful Vows (+Atk)",
+    "name": "Joyful Vows (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -21873,7 +21873,7 @@
     "refine": false
   },
   "joyfulvowsspd": {
-    "name": "Joyful Vows (+Spd)",
+    "name": "Joyful Vows (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -21882,7 +21882,7 @@
     "refine": false
   },
   "joyfulvowsdef": {
-    "name": "Joyful Vows (+Def)",
+    "name": "Joyful Vows (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -21891,7 +21891,7 @@
     "refine": false
   },
   "joyfulvowsres": {
-    "name": "Joyful Vows (+Res)",
+    "name": "Joyful Vows (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -21914,7 +21914,7 @@
     "refine": "Bride's Fang"
   },
   "bridesfangatk": {
-    "name": "Bride's Fang (+Atk)",
+    "name": "Bride's Fang (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -21922,7 +21922,7 @@
     "refine": false
   },
   "bridesfangspd": {
-    "name": "Bride's Fang (+Spd)",
+    "name": "Bride's Fang (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -21931,7 +21931,7 @@
     "refine": false
   },
   "bridesfangdef": {
-    "name": "Bride's Fang (+Def)",
+    "name": "Bride's Fang (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -21940,7 +21940,7 @@
     "refine": false
   },
   "bridesfangres": {
-    "name": "Bride's Fang (+Res)",
+    "name": "Bride's Fang (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -22331,7 +22331,7 @@
     "refine": "Levin Dagger"
   },
   "levindaggeratk": {
-    "name": "Levin Dagger (+Atk)",
+    "name": "Levin Dagger (Atk)",
     "bonus": {
       "atk": 15,
       "res": 3,
@@ -22340,7 +22340,7 @@
     "refine": false
   },
   "levindaggerspd": {
-    "name": "Levin Dagger (+Spd)",
+    "name": "Levin Dagger (Spd)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -22350,7 +22350,7 @@
     "refine": false
   },
   "levindaggerdef": {
-    "name": "Levin Dagger (+Def)",
+    "name": "Levin Dagger (Def)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -22360,7 +22360,7 @@
     "refine": false
   },
   "levindaggerres": {
-    "name": "Levin Dagger (+Res)",
+    "name": "Levin Dagger (Res)",
     "bonus": {
       "atk": 14,
       "res": 6,
@@ -23299,7 +23299,7 @@
     "refine": false
   },
   "gateanchoraxeatk": {
-    "name": "Gate-Anchor Axe (+Atk)",
+    "name": "Gate-Anchor Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -23307,7 +23307,7 @@
     "refine": false
   },
   "gateanchoraxespd": {
-    "name": "Gate-Anchor Axe (+Spd)",
+    "name": "Gate-Anchor Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -23316,7 +23316,7 @@
     "refine": false
   },
   "gateanchoraxedef": {
-    "name": "Gate-Anchor Axe (+Def)",
+    "name": "Gate-Anchor Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -23325,7 +23325,7 @@
     "refine": false
   },
   "gateanchoraxeres": {
-    "name": "Gate-Anchor Axe (+Res)",
+    "name": "Gate-Anchor Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -23433,7 +23433,7 @@
     "refine": false
   },
   "skypirateclawatk": {
-    "name": "Sky-Pirate Claw (+Atk)",
+    "name": "Sky-Pirate Claw (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -23441,7 +23441,7 @@
     "refine": false
   },
   "skypirateclawspd": {
-    "name": "Sky-Pirate Claw (+Spd)",
+    "name": "Sky-Pirate Claw (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -23450,7 +23450,7 @@
     "refine": false
   },
   "skypirateclawdef": {
-    "name": "Sky-Pirate Claw (+Def)",
+    "name": "Sky-Pirate Claw (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -23459,7 +23459,7 @@
     "refine": false
   },
   "skypirateclawres": {
-    "name": "Sky-Pirate Claw (+Res)",
+    "name": "Sky-Pirate Claw (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -23624,7 +23624,7 @@
     "refine": "Daniel-Made Bow"
   },
   "danielmadebowatk": {
-    "name": "Daniel-Made Bow (+Atk)",
+    "name": "Daniel-Made Bow (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -23632,7 +23632,7 @@
     "refine": false
   },
   "danielmadebowspd": {
-    "name": "Daniel-Made Bow (+Spd)",
+    "name": "Daniel-Made Bow (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -23641,7 +23641,7 @@
     "refine": false
   },
   "danielmadebowdef": {
-    "name": "Daniel-Made Bow (+Def)",
+    "name": "Daniel-Made Bow (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -23650,7 +23650,7 @@
     "refine": false
   },
   "danielmadebowres": {
-    "name": "Daniel-Made Bow (+Res)",
+    "name": "Daniel-Made Bow (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -23727,7 +23727,7 @@
     "refine": "Primordial Breath"
   },
   "primordialbreathatk": {
-    "name": "Primordial Breath (+Atk)",
+    "name": "Primordial Breath (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -23735,7 +23735,7 @@
     "refine": false
   },
   "primordialbreathspd": {
-    "name": "Primordial Breath (+Spd)",
+    "name": "Primordial Breath (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -23744,7 +23744,7 @@
     "refine": false
   },
   "primordialbreathdef": {
-    "name": "Primordial Breath (+Def)",
+    "name": "Primordial Breath (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -23753,7 +23753,7 @@
     "refine": false
   },
   "primordialbreathres": {
-    "name": "Primordial Breath (+Res)",
+    "name": "Primordial Breath (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -24053,7 +24053,7 @@
     "refine": false
   },
   "talreganaxeatk": {
-    "name": "Talregan Axe (+Atk)",
+    "name": "Talregan Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -24061,7 +24061,7 @@
     "refine": false
   },
   "talreganaxespd": {
-    "name": "Talregan Axe (+Spd)",
+    "name": "Talregan Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -24070,7 +24070,7 @@
     "refine": false
   },
   "talreganaxedef": {
-    "name": "Talregan Axe (+Def)",
+    "name": "Talregan Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -24079,7 +24079,7 @@
     "refine": false
   },
   "talreganaxeres": {
-    "name": "Talregan Axe (+Res)",
+    "name": "Talregan Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -24344,7 +24344,7 @@
     "refine": false
   },
   "frostfirebreathatk": {
-    "name": "Frostfire Breath (+Atk)",
+    "name": "Frostfire Breath (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -24352,7 +24352,7 @@
     "refine": false
   },
   "frostfirebreathspd": {
-    "name": "Frostfire Breath (+Spd)",
+    "name": "Frostfire Breath (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -24361,7 +24361,7 @@
     "refine": false
   },
   "frostfirebreathdef": {
-    "name": "Frostfire Breath (+Def)",
+    "name": "Frostfire Breath (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -24370,7 +24370,7 @@
     "refine": false
   },
   "frostfirebreathres": {
-    "name": "Frostfire Breath (+Res)",
+    "name": "Frostfire Breath (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -24394,7 +24394,7 @@
     "refine": false
   },
   "moonlessbreathatk": {
-    "name": "Moonless Breath (+Atk)",
+    "name": "Moonless Breath (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -24402,7 +24402,7 @@
     "refine": false
   },
   "moonlessbreathspd": {
-    "name": "Moonless Breath (+Spd)",
+    "name": "Moonless Breath (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -24411,7 +24411,7 @@
     "refine": false
   },
   "moonlessbreathdef": {
-    "name": "Moonless Breath (+Def)",
+    "name": "Moonless Breath (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -24420,7 +24420,7 @@
     "refine": false
   },
   "moonlessbreathres": {
-    "name": "Moonless Breath (+Res)",
+    "name": "Moonless Breath (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -24530,7 +24530,7 @@
     "refine": false
   },
   "thunderbrandatk": {
-    "name": "Thunderbrand (+Atk)",
+    "name": "Thunderbrand (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -24539,7 +24539,7 @@
     "refine": false
   },
   "thunderbrandspd": {
-    "name": "Thunderbrand (+Spd)",
+    "name": "Thunderbrand (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -24548,7 +24548,7 @@
     "refine": false
   },
   "thunderbranddef": {
-    "name": "Thunderbrand (+Def)",
+    "name": "Thunderbrand (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -24558,7 +24558,7 @@
     "refine": false
   },
   "thunderbrandres": {
-    "name": "Thunderbrand (+Res)",
+    "name": "Thunderbrand (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -24640,7 +24640,7 @@
     "refine": false
   },
   "spearofassalatk": {
-    "name": "Spear of Assal (+Atk)",
+    "name": "Spear of Assal (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5,
@@ -24649,7 +24649,7 @@
     "refine": false
   },
   "spearofassalspd": {
-    "name": "Spear of Assal (+Spd)",
+    "name": "Spear of Assal (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -24658,7 +24658,7 @@
     "refine": false
   },
   "spearofassaldef": {
-    "name": "Spear of Assal (+Def)",
+    "name": "Spear of Assal (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -24668,7 +24668,7 @@
     "refine": false
   },
   "spearofassalres": {
-    "name": "Spear of Assal (+Res)",
+    "name": "Spear of Assal (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -24892,7 +24892,7 @@
     "refine": false
   },
   "twinstaraxeatk": {
-    "name": "Twin Star Axe (+Atk)",
+    "name": "Twin Star Axe (Atk)",
     "bonus": {
       "hp": 5,
       "atk": 18,
@@ -24903,7 +24903,7 @@
     "refine": false
   },
   "twinstaraxespd": {
-    "name": "Twin Star Axe (+Spd)",
+    "name": "Twin Star Axe (Spd)",
     "bonus": {
       "hp": 5,
       "atk": 16,
@@ -24914,7 +24914,7 @@
     "refine": false
   },
   "twinstaraxedef": {
-    "name": "Twin Star Axe (+Def)",
+    "name": "Twin Star Axe (Def)",
     "bonus": {
       "hp": 5,
       "atk": 16,
@@ -24925,7 +24925,7 @@
     "refine": false
   },
   "twinstaraxeres": {
-    "name": "Twin Star Axe (+Res)",
+    "name": "Twin Star Axe (Res)",
     "bonus": {
       "hp": 5,
       "atk": 16,
@@ -25057,7 +25057,7 @@
     "refine": false
   },
   "tigerroaraxeatk": {
-    "name": "Tiger-Roar Axe (+Atk)",
+    "name": "Tiger-Roar Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -25065,7 +25065,7 @@
     "refine": false
   },
   "tigerroaraxespd": {
-    "name": "Tiger-Roar Axe (+Spd)",
+    "name": "Tiger-Roar Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -25074,7 +25074,7 @@
     "refine": false
   },
   "tigerroaraxedef": {
-    "name": "Tiger-Roar Axe (+Def)",
+    "name": "Tiger-Roar Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -25083,7 +25083,7 @@
     "refine": false
   },
   "tigerroaraxeres": {
-    "name": "Tiger-Roar Axe (+Res)",
+    "name": "Tiger-Roar Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -25269,7 +25269,7 @@
     "refine": "Lynghei\u00f0r"
   },
   "lyngheidratk": {
-    "name": "Lynghei\u00f0r (+Atk)",
+    "name": "Lynghei\u00f0r (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -25278,7 +25278,7 @@
     "refine": false
   },
   "lyngheidrspd": {
-    "name": "Lynghei\u00f0r (+Spd)",
+    "name": "Lynghei\u00f0r (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -25287,7 +25287,7 @@
     "refine": false
   },
   "lyngheidrdef": {
-    "name": "Lynghei\u00f0r (+Def)",
+    "name": "Lynghei\u00f0r (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -25297,7 +25297,7 @@
     "refine": false
   },
   "lyngheidrres": {
-    "name": "Lynghei\u00f0r (+Res)",
+    "name": "Lynghei\u00f0r (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -25333,7 +25333,7 @@
     "refine": false
   },
   "obsidianlanceatk": {
-    "name": "Obsidian Lance (+Atk)",
+    "name": "Obsidian Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -25341,7 +25341,7 @@
     "refine": false
   },
   "obsidianlancespd": {
-    "name": "Obsidian Lance (+Spd)",
+    "name": "Obsidian Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -25351,7 +25351,7 @@
     "refine": false
   },
   "obsidianlancedef": {
-    "name": "Obsidian Lance (+Def)",
+    "name": "Obsidian Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 7,
@@ -25360,7 +25360,7 @@
     "refine": false
   },
   "obsidianlanceres": {
-    "name": "Obsidian Lance (+Res)",
+    "name": "Obsidian Lance (Res)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -25557,10 +25557,56 @@
     "refine": false
   },
   "hrist": {
-    "name": "Hrist",
+    "name": "Hrist (Unrefined)",
     "bonus": {
       "atk": 14,
       "spd": 3
+    },
+    "refine": "Hrist"
+  },
+  "hristeff": {
+    "name": "Hrist (Eff)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "hristatk": {
+    "name": "Hrist (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "hristspd": {
+    "name": "Hrist (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 5
+    },
+    "refine": false
+  },
+  "hristdef": {
+    "name": "Hrist (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "def": 3
+    },
+    "refine": false
+  },
+  "hristres": {
+    "name": "Hrist (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "res": 3
     },
     "refine": false
   },
@@ -25586,7 +25632,7 @@
     "refine": "Studied Forblaze"
   },
   "studiedforblazeatk": {
-    "name": "Studied Forblaze (+Atk)",
+    "name": "Studied Forblaze (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -25594,7 +25640,7 @@
     "refine": false
   },
   "studiedforblazespd": {
-    "name": "Studied Forblaze (+Spd)",
+    "name": "Studied Forblaze (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -25603,7 +25649,7 @@
     "refine": false
   },
   "studiedforblazedef": {
-    "name": "Studied Forblaze (+Def)",
+    "name": "Studied Forblaze (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -25612,7 +25658,7 @@
     "refine": false
   },
   "studiedforblazeres": {
-    "name": "Studied Forblaze (+Res)",
+    "name": "Studied Forblaze (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -25661,7 +25707,7 @@
     "refine": false
   },
   "resolvedfangatk": {
-    "name": "Resolved Fang (+Atk)",
+    "name": "Resolved Fang (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5,
@@ -25670,7 +25716,7 @@
     "refine": false
   },
   "resolvedfangspd": {
-    "name": "Resolved Fang (+Spd)",
+    "name": "Resolved Fang (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -25680,7 +25726,7 @@
     "refine": false
   },
   "resolvedfangdef": {
-    "name": "Resolved Fang (+Def)",
+    "name": "Resolved Fang (Def)",
     "bonus": {
       "atk": 14,
       "def": 7,
@@ -25689,7 +25735,7 @@
     "refine": false
   },
   "resolvedfangres": {
-    "name": "Resolved Fang (+Res)",
+    "name": "Resolved Fang (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -26144,7 +26190,7 @@
     "refine": "Aurora Breath"
   },
   "aurorabreathatk": {
-    "name": "Aurora Breath (+Atk)",
+    "name": "Aurora Breath (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -26152,7 +26198,7 @@
     "refine": false
   },
   "aurorabreathspd": {
-    "name": "Aurora Breath (+Spd)",
+    "name": "Aurora Breath (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -26161,7 +26207,7 @@
     "refine": false
   },
   "aurorabreathdef": {
-    "name": "Aurora Breath (+Def)",
+    "name": "Aurora Breath (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -26170,7 +26216,7 @@
     "refine": false
   },
   "aurorabreathres": {
-    "name": "Aurora Breath (+Res)",
+    "name": "Aurora Breath (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -26440,7 +26486,7 @@
     "refine": false
   },
   "silessefrostatk": {
-    "name": "Silesse Frost (+Atk)",
+    "name": "Silesse Frost (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -26448,7 +26494,7 @@
     "refine": false
   },
   "silessefrostspd": {
-    "name": "Silesse Frost (+Spd)",
+    "name": "Silesse Frost (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -26457,7 +26503,7 @@
     "refine": false
   },
   "silessefrostdef": {
-    "name": "Silesse Frost (+Def)",
+    "name": "Silesse Frost (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -26466,7 +26512,7 @@
     "refine": false
   },
   "silessefrostres": {
-    "name": "Silesse Frost (+Res)",
+    "name": "Silesse Frost (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -26483,7 +26529,7 @@
     "refine": "Skinfaxi"
   },
   "skinfaxiatk": {
-    "name": "Skinfaxi (+Atk)",
+    "name": "Skinfaxi (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5,
@@ -26492,7 +26538,7 @@
     "refine": false
   },
   "skinfaxispd": {
-    "name": "Skinfaxi (+Spd)",
+    "name": "Skinfaxi (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -26501,7 +26547,7 @@
     "refine": false
   },
   "skinfaxidef": {
-    "name": "Skinfaxi (+Def)",
+    "name": "Skinfaxi (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -26511,7 +26557,7 @@
     "refine": false
   },
   "skinfaxires": {
-    "name": "Skinfaxi (+Res)",
+    "name": "Skinfaxi (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -26551,7 +26597,7 @@
     "refine": false
   },
   "goddessaxeatk": {
-    "name": "Goddess Axe (+Atk)",
+    "name": "Goddess Axe (Atk)",
     "bonus": {
       "hp": 10,
       "atk": 19,
@@ -26562,7 +26608,7 @@
     "refine": false
   },
   "goddessaxespd": {
-    "name": "Goddess Axe (+Spd)",
+    "name": "Goddess Axe (Spd)",
     "bonus": {
       "hp": 10,
       "atk": 17,
@@ -26573,7 +26619,7 @@
     "refine": false
   },
   "goddessaxedef": {
-    "name": "Goddess Axe (+Def)",
+    "name": "Goddess Axe (Def)",
     "bonus": {
       "hp": 10,
       "atk": 17,
@@ -26584,7 +26630,7 @@
     "refine": false
   },
   "goddessaxeres": {
-    "name": "Goddess Axe (+Res)",
+    "name": "Goddess Axe (Res)",
     "bonus": {
       "hp": 10,
       "atk": 17,
@@ -26765,7 +26811,7 @@
     "refine": false
   },
   "luinatk": {
-    "name": "L\u00fain (+Atk)",
+    "name": "L\u00fain (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -26773,7 +26819,7 @@
     "refine": false
   },
   "luinspd": {
-    "name": "L\u00fain (+Spd)",
+    "name": "L\u00fain (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -26782,7 +26828,7 @@
     "refine": false
   },
   "luindef": {
-    "name": "L\u00fain (+Def)",
+    "name": "L\u00fain (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -26791,7 +26837,7 @@
     "refine": false
   },
   "luinres": {
-    "name": "L\u00fain (+Res)",
+    "name": "L\u00fain (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -26891,9 +26937,51 @@
     "refine": false
   },
   "icyfimbulvetr": {
-    "name": "Icy Fimbulvetr",
+    "name": "Icy Fimbulvetr (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Icy Fimbulvetr"
+  },
+  "icyfimbulvetreff": {
+    "name": "Icy Fimbulvetr (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "icyfimbulvetratk": {
+    "name": "Icy Fimbulvetr (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "icyfimbulvetrspd": {
+    "name": "Icy Fimbulvetr (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "icyfimbulvetrdef": {
+    "name": "Icy Fimbulvetr (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "icyfimbulvetrres": {
+    "name": "Icy Fimbulvetr (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -27209,7 +27297,7 @@
     "refine": false
   },
   "bladeofrenaisatk": {
-    "name": "Blade of Renais (+Atk)",
+    "name": "Blade of Renais (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -27217,7 +27305,7 @@
     "refine": false
   },
   "bladeofrenaisspd": {
-    "name": "Blade of Renais (+Spd)",
+    "name": "Blade of Renais (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -27226,7 +27314,7 @@
     "refine": false
   },
   "bladeofrenaisdef": {
-    "name": "Blade of Renais (+Def)",
+    "name": "Blade of Renais (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -27235,7 +27323,7 @@
     "refine": false
   },
   "bladeofrenaisres": {
-    "name": "Blade of Renais (+Res)",
+    "name": "Blade of Renais (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -27430,7 +27518,7 @@
     "refine": false
   },
   "bereftlanceatk": {
-    "name": "Bereft Lance (+Atk)",
+    "name": "Bereft Lance (Atk)",
     "bonus": {
       "atk": 18,
       "def": 3,
@@ -27439,7 +27527,7 @@
     "refine": false
   },
   "bereftlancespd": {
-    "name": "Bereft Lance (+Spd)",
+    "name": "Bereft Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -27449,7 +27537,7 @@
     "refine": false
   },
   "bereftlancedef": {
-    "name": "Bereft Lance (+Def)",
+    "name": "Bereft Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 7,
@@ -27458,7 +27546,7 @@
     "refine": false
   },
   "bereftlanceres": {
-    "name": "Bereft Lance (+Res)",
+    "name": "Bereft Lance (Res)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -27475,9 +27563,51 @@
     "refine": false
   },
   "tomeofdespair": {
-    "name": "Tome of Despair",
+    "name": "Tome of Despair (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Tome of Despair"
+  },
+  "tomeofdespaireff": {
+    "name": "Tome of Despair (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "tomeofdespairatk": {
+    "name": "Tome of Despair (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "tomeofdespairspd": {
+    "name": "Tome of Despair (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "tomeofdespairdef": {
+    "name": "Tome of Despair (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "tomeofdespairres": {
+    "name": "Tome of Despair (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -27504,7 +27634,7 @@
     "refine": false
   },
   "weddingbellaxeatk": {
-    "name": "Wedding-Bell Axe (+Atk)",
+    "name": "Wedding-Bell Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -27512,7 +27642,7 @@
     "refine": false
   },
   "weddingbellaxespd": {
-    "name": "Wedding-Bell Axe (+Spd)",
+    "name": "Wedding-Bell Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -27521,7 +27651,7 @@
     "refine": false
   },
   "weddingbellaxedef": {
-    "name": "Wedding-Bell Axe (+Def)",
+    "name": "Wedding-Bell Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -27530,7 +27660,7 @@
     "refine": false
   },
   "weddingbellaxeres": {
-    "name": "Wedding-Bell Axe (+Res)",
+    "name": "Wedding-Bell Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -28796,7 +28926,7 @@
     "refine": false
   },
   "autolofnheidratk": {
-    "name": "Auto-Lofnhei\u00f0r (+Atk)",
+    "name": "Auto-Lofnhei\u00f0r (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -28804,7 +28934,7 @@
     "refine": false
   },
   "autolofnheidrspd": {
-    "name": "Auto-Lofnhei\u00f0r (+Spd)",
+    "name": "Auto-Lofnhei\u00f0r (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -28813,7 +28943,7 @@
     "refine": false
   },
   "autolofnheidrdef": {
-    "name": "Auto-Lofnhei\u00f0r (+Def)",
+    "name": "Auto-Lofnhei\u00f0r (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -28822,7 +28952,7 @@
     "refine": false
   },
   "autolofnheidrres": {
-    "name": "Auto-Lofnhei\u00f0r (+Res)",
+    "name": "Auto-Lofnhei\u00f0r (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -29148,7 +29278,7 @@
     "refine": false
   },
   "dazzlingbreathatk": {
-    "name": "Dazzling Breath (+Atk)",
+    "name": "Dazzling Breath (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -29156,7 +29286,7 @@
     "refine": false
   },
   "dazzlingbreathspd": {
-    "name": "Dazzling Breath (+Spd)",
+    "name": "Dazzling Breath (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -29165,7 +29295,7 @@
     "refine": false
   },
   "dazzlingbreathdef": {
-    "name": "Dazzling Breath (+Def)",
+    "name": "Dazzling Breath (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -29174,7 +29304,7 @@
     "refine": false
   },
   "dazzlingbreathres": {
-    "name": "Dazzling Breath (+Res)",
+    "name": "Dazzling Breath (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -29306,7 +29436,7 @@
     "refine": false
   },
   "wargodmjolniratk": {
-    "name": "War-God Mj\u00f6lnir (+Atk)",
+    "name": "War-God Mj\u00f6lnir (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -29314,7 +29444,7 @@
     "refine": false
   },
   "wargodmjolnirspd": {
-    "name": "War-God Mj\u00f6lnir (+Spd)",
+    "name": "War-God Mj\u00f6lnir (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -29323,7 +29453,7 @@
     "refine": false
   },
   "wargodmjolnirdef": {
-    "name": "War-God Mj\u00f6lnir (+Def)",
+    "name": "War-God Mj\u00f6lnir (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -29332,7 +29462,7 @@
     "refine": false
   },
   "wargodmjolnirres": {
-    "name": "War-God Mj\u00f6lnir (+Res)",
+    "name": "War-God Mj\u00f6lnir (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -29583,7 +29713,7 @@
     "refine": false
   },
   "grimbrokkratk": {
-    "name": "Grim Brokkr (+Atk)",
+    "name": "Grim Brokkr (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -29591,7 +29721,7 @@
     "refine": false
   },
   "grimbrokkrspd": {
-    "name": "Grim Brokkr (+Spd)",
+    "name": "Grim Brokkr (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -29600,7 +29730,7 @@
     "refine": false
   },
   "grimbrokkrdef": {
-    "name": "Grim Brokkr (+Def)",
+    "name": "Grim Brokkr (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -29609,7 +29739,7 @@
     "refine": false
   },
   "grimbrokkrres": {
-    "name": "Grim Brokkr (+Res)",
+    "name": "Grim Brokkr (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -29790,7 +29920,7 @@
     "refine": false
   },
   "hornofopeningatk": {
-    "name": "Horn of Opening (+Atk)",
+    "name": "Horn of Opening (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -29798,7 +29928,7 @@
     "refine": false
   },
   "hornofopeningspd": {
-    "name": "Horn of Opening (+Spd)",
+    "name": "Horn of Opening (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -29807,7 +29937,7 @@
     "refine": false
   },
   "hornofopeningdef": {
-    "name": "Horn of Opening (+Def)",
+    "name": "Horn of Opening (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -29816,7 +29946,7 @@
     "refine": false
   },
   "hornofopeningres": {
-    "name": "Horn of Opening (+Res)",
+    "name": "Horn of Opening (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -29988,7 +30118,7 @@
     "refine": false
   },
   "professorialguideatk": {
-    "name": "Professorial Guide (+Atk)",
+    "name": "Professorial Guide (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -29996,7 +30126,7 @@
     "refine": false
   },
   "professorialguidespd": {
-    "name": "Professorial Guide (+Spd)",
+    "name": "Professorial Guide (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -30005,7 +30135,7 @@
     "refine": false
   },
   "professorialguidedef": {
-    "name": "Professorial Guide (+Def)",
+    "name": "Professorial Guide (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -30014,7 +30144,7 @@
     "refine": false
   },
   "professorialguideres": {
-    "name": "Professorial Guide (+Res)",
+    "name": "Professorial Guide (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -30826,7 +30956,7 @@
     "refine": false
   },
   "wingliftedspearatk": {
-    "name": "Wing-Lifted Spear (+Atk)",
+    "name": "Wing-Lifted Spear (Atk)",
     "bonus": {
       "atk": 21,
       "hp": 5
@@ -30834,7 +30964,7 @@
     "refine": false
   },
   "wingliftedspearspd": {
-    "name": "Wing-Lifted Spear (+Spd)",
+    "name": "Wing-Lifted Spear (Spd)",
     "bonus": {
       "atk": 19,
       "spd": 3,
@@ -30843,7 +30973,7 @@
     "refine": false
   },
   "wingliftedspeardef": {
-    "name": "Wing-Lifted Spear (+Def)",
+    "name": "Wing-Lifted Spear (Def)",
     "bonus": {
       "atk": 19,
       "def": 4,
@@ -30852,7 +30982,7 @@
     "refine": false
   },
   "wingliftedspearres": {
-    "name": "Wing-Lifted Spear (+Res)",
+    "name": "Wing-Lifted Spear (Res)",
     "bonus": {
       "atk": 19,
       "res": 4,
@@ -31479,7 +31609,7 @@
     "refine": false
   },
   "wildtigerfangatk": {
-    "name": "Wild Tiger Fang (+Atk)",
+    "name": "Wild Tiger Fang (Atk)",
     "bonus": {
       "atk": 19,
       "hp": 5
@@ -31487,7 +31617,7 @@
     "refine": false
   },
   "wildtigerfangspd": {
-    "name": "Wild Tiger Fang (+Spd)",
+    "name": "Wild Tiger Fang (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 3,
@@ -31496,7 +31626,7 @@
     "refine": false
   },
   "wildtigerfangdef": {
-    "name": "Wild Tiger Fang (+Def)",
+    "name": "Wild Tiger Fang (Def)",
     "bonus": {
       "atk": 17,
       "def": 4,
@@ -31505,7 +31635,7 @@
     "refine": false
   },
   "wildtigerfangres": {
-    "name": "Wild Tiger Fang (+Res)",
+    "name": "Wild Tiger Fang (Res)",
     "bonus": {
       "atk": 17,
       "res": 4,
@@ -31619,9 +31749,52 @@
     "refine": false
   },
   "godlybreath": {
-    "name": "Godly Breath",
+    "name": "Godly Breath (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Godly Breath"
+  },
+  "godlybreatheff": {
+    "name": "Godly Breath (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "godlybreathatk": {
+    "name": "Godly Breath (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "godlybreathspd": {
+    "name": "Godly Breath (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "godlybreathdef": {
+    "name": "Godly Breath (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "godlybreathres": {
+    "name": "Godly Breath (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -31866,7 +32039,7 @@
     "refine": false
   },
   "ebonbolverkatk": {
-    "name": "Ebon B\u00f6lverk (+Atk)",
+    "name": "Ebon B\u00f6lverk (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -31874,7 +32047,7 @@
     "refine": false
   },
   "ebonbolverkspd": {
-    "name": "Ebon B\u00f6lverk (+Spd)",
+    "name": "Ebon B\u00f6lverk (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -31883,7 +32056,7 @@
     "refine": false
   },
   "ebonbolverkdef": {
-    "name": "Ebon B\u00f6lverk (+Def)",
+    "name": "Ebon B\u00f6lverk (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -31892,7 +32065,7 @@
     "refine": false
   },
   "ebonbolverkres": {
-    "name": "Ebon B\u00f6lverk (+Res)",
+    "name": "Ebon B\u00f6lverk (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -32388,7 +32561,7 @@
     "refine": false
   },
   "holytidetyrfingatk": {
-    "name": "Holytide Tyrfing (+Atk)",
+    "name": "Holytide Tyrfing (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -32396,7 +32569,7 @@
     "refine": false
   },
   "holytidetyrfingspd": {
-    "name": "Holytide Tyrfing (+Spd)",
+    "name": "Holytide Tyrfing (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -32405,7 +32578,7 @@
     "refine": false
   },
   "holytidetyrfingdef": {
-    "name": "Holytide Tyrfing (+Def)",
+    "name": "Holytide Tyrfing (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -32414,7 +32587,7 @@
     "refine": false
   },
   "holytidetyrfingres": {
-    "name": "Holytide Tyrfing (+Res)",
+    "name": "Holytide Tyrfing (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -32438,7 +32611,7 @@
     "refine": false
   },
   "geirdrifulatk": {
-    "name": "Geirdriful (+Atk)",
+    "name": "Geirdriful (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -32446,7 +32619,7 @@
     "refine": false
   },
   "geirdrifulspd": {
-    "name": "Geirdriful (+Spd)",
+    "name": "Geirdriful (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -32455,7 +32628,7 @@
     "refine": false
   },
   "geirdrifuldef": {
-    "name": "Geirdriful (+Def)",
+    "name": "Geirdriful (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -32464,7 +32637,7 @@
     "refine": false
   },
   "geirdrifulres": {
-    "name": "Geirdriful (+Res)",
+    "name": "Geirdriful (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -32494,7 +32667,7 @@
     "refine": false
   },
   "innerwellspringatk": {
-    "name": "Inner Wellspring (+Atk)",
+    "name": "Inner Wellspring (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -32502,7 +32675,7 @@
     "refine": false
   },
   "innerwellspringspd": {
-    "name": "Inner Wellspring (+Spd)",
+    "name": "Inner Wellspring (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -32511,7 +32684,7 @@
     "refine": false
   },
   "innerwellspringdef": {
-    "name": "Inner Wellspring (+Def)",
+    "name": "Inner Wellspring (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -32520,7 +32693,7 @@
     "refine": false
   },
   "innerwellspringres": {
-    "name": "Inner Wellspring (+Res)",
+    "name": "Inner Wellspring (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -32544,7 +32717,7 @@
     "refine": false
   },
   "remotebreathatk": {
-    "name": "Remote Breath (+Atk)",
+    "name": "Remote Breath (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -32552,7 +32725,7 @@
     "refine": false
   },
   "remotebreathspd": {
-    "name": "Remote Breath (+Spd)",
+    "name": "Remote Breath (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -32561,7 +32734,7 @@
     "refine": false
   },
   "remotebreathdef": {
-    "name": "Remote Breath (+Def)",
+    "name": "Remote Breath (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -32570,7 +32743,7 @@
     "refine": false
   },
   "remotebreathres": {
-    "name": "Remote Breath (+Res)",
+    "name": "Remote Breath (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -32579,9 +32752,51 @@
     "refine": false
   },
   "spiritforestwrit": {
-    "name": "Spirit Forest Writ",
+    "name": "Spirit Forest Writ (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Spirit Forest Writ"
+  },
+  "spiritforestwriteff": {
+    "name": "Spirit Forest Writ (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "spiritforestwritatk": {
+    "name": "Spirit Forest Writ (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "spiritforestwritspd": {
+    "name": "Spirit Forest Writ (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "spiritforestwritdef": {
+    "name": "Spirit Forest Writ (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "spiritforestwritres": {
+    "name": "Spirit Forest Writ (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -35399,7 +35614,7 @@
     "refine": false
   },
   "dreamhornatk": {
-    "name": "Dream Horn (+Atk)",
+    "name": "Dream Horn (Atk)",
     "bonus": {
       "atk": 14,
       "hp": 5
@@ -35407,7 +35622,7 @@
     "refine": false
   },
   "dreamhornspd": {
-    "name": "Dream Horn (+Spd)",
+    "name": "Dream Horn (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -35416,7 +35631,7 @@
     "refine": false
   },
   "dreamhorndef": {
-    "name": "Dream Horn (+Def)",
+    "name": "Dream Horn (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -35425,7 +35640,7 @@
     "refine": false
   },
   "dreamhornres": {
-    "name": "Dream Horn (+Res)",
+    "name": "Dream Horn (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -35679,7 +35894,7 @@
     "refine": false
   },
   "veninedgeatk": {
-    "name": "Venin Edge (+Atk)",
+    "name": "Venin Edge (Atk)",
     "bonus": {
       "atk": 18,
       "def": 3,
@@ -35688,7 +35903,7 @@
     "refine": false
   },
   "veninedgespd": {
-    "name": "Venin Edge (+Spd)",
+    "name": "Venin Edge (Spd)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -35698,7 +35913,7 @@
     "refine": false
   },
   "veninedgedef": {
-    "name": "Venin Edge (+Def)",
+    "name": "Venin Edge (Def)",
     "bonus": {
       "atk": 16,
       "def": 7,
@@ -35707,7 +35922,7 @@
     "refine": false
   },
   "veninedgeres": {
-    "name": "Venin Edge (+Res)",
+    "name": "Venin Edge (Res)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -35731,7 +35946,7 @@
     "refine": false
   },
   "randgridratk": {
-    "name": "Randgr\u00ed\u00f0r (+Atk)",
+    "name": "Randgr\u00ed\u00f0r (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -35739,7 +35954,7 @@
     "refine": false
   },
   "randgridrspd": {
-    "name": "Randgr\u00ed\u00f0r (+Spd)",
+    "name": "Randgr\u00ed\u00f0r (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -35748,7 +35963,7 @@
     "refine": false
   },
   "randgridrdef": {
-    "name": "Randgr\u00ed\u00f0r (+Def)",
+    "name": "Randgr\u00ed\u00f0r (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -35757,7 +35972,7 @@
     "refine": false
   },
   "randgridrres": {
-    "name": "Randgr\u00ed\u00f0r (+Res)",
+    "name": "Randgr\u00ed\u00f0r (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -35781,7 +35996,7 @@
     "refine": false
   },
   "mareetasswordatk": {
-    "name": "Mareeta's Sword (+Atk)",
+    "name": "Mareeta's Sword (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -35789,7 +36004,7 @@
     "refine": false
   },
   "mareetasswordspd": {
-    "name": "Mareeta's Sword (+Spd)",
+    "name": "Mareeta's Sword (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -35798,7 +36013,7 @@
     "refine": false
   },
   "mareetassworddef": {
-    "name": "Mareeta's Sword (+Def)",
+    "name": "Mareeta's Sword (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -35807,7 +36022,7 @@
     "refine": false
   },
   "mareetasswordres": {
-    "name": "Mareeta's Sword (+Res)",
+    "name": "Mareeta's Sword (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -35831,7 +36046,7 @@
     "refine": false
   },
   "vougeatk": {
-    "name": "Vouge (+Atk)",
+    "name": "Vouge (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -35839,7 +36054,7 @@
     "refine": false
   },
   "vougespd": {
-    "name": "Vouge (+Spd)",
+    "name": "Vouge (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -35848,7 +36063,7 @@
     "refine": false
   },
   "vougedef": {
-    "name": "Vouge (+Def)",
+    "name": "Vouge (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -35857,7 +36072,7 @@
     "refine": false
   },
   "vougeres": {
-    "name": "Vouge (+Res)",
+    "name": "Vouge (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -35881,7 +36096,7 @@
     "refine": false
   },
   "larceisedgeatk": {
-    "name": "Larcei's Edge (+Atk)",
+    "name": "Larcei's Edge (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -35889,7 +36104,7 @@
     "refine": false
   },
   "larceisedgespd": {
-    "name": "Larcei's Edge (+Spd)",
+    "name": "Larcei's Edge (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -35898,7 +36113,7 @@
     "refine": false
   },
   "larceisedgedef": {
-    "name": "Larcei's Edge (+Def)",
+    "name": "Larcei's Edge (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -35907,7 +36122,7 @@
     "refine": false
   },
   "larceisedgeres": {
-    "name": "Larcei's Edge (+Res)",
+    "name": "Larcei's Edge (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -35933,7 +36148,7 @@
     "refine": false
   },
   "balmungatk": {
-    "name": "Balmung (+Atk)",
+    "name": "Balmung (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -35942,7 +36157,7 @@
     "refine": false
   },
   "balmungspd": {
-    "name": "Balmung (+Spd)",
+    "name": "Balmung (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -35951,7 +36166,7 @@
     "refine": false
   },
   "balmungdef": {
-    "name": "Balmung (+Def)",
+    "name": "Balmung (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -35961,7 +36176,7 @@
     "refine": false
   },
   "balmungres": {
-    "name": "Balmung (+Res)",
+    "name": "Balmung (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -35988,7 +36203,7 @@
     "refine": false
   },
   "earthlygaebolgatk": {
-    "name": "Earthly G\u00e1e Bolg (+Atk)",
+    "name": "Earthly G\u00e1e Bolg (Atk)",
     "bonus": {
       "atk": 18,
       "def": 3,
@@ -35997,7 +36212,7 @@
     "refine": false
   },
   "earthlygaebolgspd": {
-    "name": "Earthly G\u00e1e Bolg (+Spd)",
+    "name": "Earthly G\u00e1e Bolg (Spd)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -36007,7 +36222,7 @@
     "refine": false
   },
   "earthlygaebolgdef": {
-    "name": "Earthly G\u00e1e Bolg (+Def)",
+    "name": "Earthly G\u00e1e Bolg (Def)",
     "bonus": {
       "atk": 16,
       "def": 7,
@@ -36016,7 +36231,7 @@
     "refine": false
   },
   "earthlygaebolgres": {
-    "name": "Earthly G\u00e1e Bolg (+Res)",
+    "name": "Earthly G\u00e1e Bolg (Res)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -36042,7 +36257,7 @@
     "refine": false
   },
   "flowerofplentyatk": {
-    "name": "Flower of Plenty (+Atk)",
+    "name": "Flower of Plenty (Atk)",
     "bonus": {
       "atk": 15,
       "res": 3,
@@ -36051,7 +36266,7 @@
     "refine": false
   },
   "flowerofplentyspd": {
-    "name": "Flower of Plenty (+Spd)",
+    "name": "Flower of Plenty (Spd)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -36061,7 +36276,7 @@
     "refine": false
   },
   "flowerofplentydef": {
-    "name": "Flower of Plenty (+Def)",
+    "name": "Flower of Plenty (Def)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -36071,7 +36286,7 @@
     "refine": false
   },
   "flowerofplentyres": {
-    "name": "Flower of Plenty (+Res)",
+    "name": "Flower of Plenty (Res)",
     "bonus": {
       "atk": 14,
       "res": 6,
@@ -36096,7 +36311,7 @@
     "refine": false
   },
   "windsofsilesseatk": {
-    "name": "Winds of Silesse (+Atk)",
+    "name": "Winds of Silesse (Atk)",
     "bonus": {
       "atk": 15,
       "spd": 3,
@@ -36105,7 +36320,7 @@
     "refine": false
   },
   "windsofsilessespd": {
-    "name": "Winds of Silesse (+Spd)",
+    "name": "Winds of Silesse (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 5,
@@ -36114,7 +36329,7 @@
     "refine": false
   },
   "windsofsilessedef": {
-    "name": "Winds of Silesse (+Def)",
+    "name": "Winds of Silesse (Def)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -36124,7 +36339,7 @@
     "refine": false
   },
   "windsofsilesseres": {
-    "name": "Winds of Silesse (+Res)",
+    "name": "Winds of Silesse (Res)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -36149,7 +36364,7 @@
     "refine": false
   },
   "bunbunbatonatk": {
-    "name": "Bun-Bun Baton (+Atk)",
+    "name": "Bun-Bun Baton (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36157,7 +36372,7 @@
     "refine": false
   },
   "bunbunbatonspd": {
-    "name": "Bun-Bun Baton (+Spd)",
+    "name": "Bun-Bun Baton (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36166,7 +36381,7 @@
     "refine": false
   },
   "bunbunbatondef": {
-    "name": "Bun-Bun Baton (+Def)",
+    "name": "Bun-Bun Baton (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -36175,7 +36390,7 @@
     "refine": false
   },
   "bunbunbatonres": {
-    "name": "Bun-Bun Baton (+Res)",
+    "name": "Bun-Bun Baton (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -36198,7 +36413,7 @@
     "refine": false
   },
   "eagleseggatk": {
-    "name": "Eagle's Egg (+Atk)",
+    "name": "Eagle's Egg (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -36206,7 +36421,7 @@
     "refine": false
   },
   "eagleseggspd": {
-    "name": "Eagle's Egg (+Spd)",
+    "name": "Eagle's Egg (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -36215,7 +36430,7 @@
     "refine": false
   },
   "eagleseggdef": {
-    "name": "Eagle's Egg (+Def)",
+    "name": "Eagle's Egg (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -36224,7 +36439,7 @@
     "refine": false
   },
   "eagleseggres": {
-    "name": "Eagle's Egg (+Res)",
+    "name": "Eagle's Egg (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -36250,7 +36465,7 @@
     "refine": false
   },
   "zephyrbreathatk": {
-    "name": "Zephyr Breath (+Atk)",
+    "name": "Zephyr Breath (Atk)",
     "bonus": {
       "atk": 18,
       "res": 3,
@@ -36259,7 +36474,7 @@
     "refine": false
   },
   "zephyrbreathspd": {
-    "name": "Zephyr Breath (+Spd)",
+    "name": "Zephyr Breath (Spd)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36269,7 +36484,7 @@
     "refine": false
   },
   "zephyrbreathdef": {
-    "name": "Zephyr Breath (+Def)",
+    "name": "Zephyr Breath (Def)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36279,7 +36494,7 @@
     "refine": false
   },
   "zephyrbreathres": {
-    "name": "Zephyr Breath (+Res)",
+    "name": "Zephyr Breath (Res)",
     "bonus": {
       "atk": 16,
       "res": 7,
@@ -36302,7 +36517,7 @@
     "refine": false
   },
   "voidtomeatk": {
-    "name": "Void Tome (+Atk)",
+    "name": "Void Tome (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 2
@@ -36310,7 +36525,7 @@
     "refine": false
   },
   "voidtomespd": {
-    "name": "Void Tome (+Spd)",
+    "name": "Void Tome (Spd)",
     "bonus": {
       "atk": 17,
       "spd": 2,
@@ -36319,7 +36534,7 @@
     "refine": false
   },
   "voidtomedef": {
-    "name": "Void Tome (+Def)",
+    "name": "Void Tome (Def)",
     "bonus": {
       "atk": 17,
       "def": 3,
@@ -36328,7 +36543,7 @@
     "refine": false
   },
   "voidtomeres": {
-    "name": "Void Tome (+Res)",
+    "name": "Void Tome (Res)",
     "bonus": {
       "atk": 17,
       "res": 3,
@@ -36352,7 +36567,7 @@
     "refine": false
   },
   "prizedlanceatk": {
-    "name": "Prized Lance (+Atk)",
+    "name": "Prized Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36360,7 +36575,7 @@
     "refine": false
   },
   "prizedlancespd": {
-    "name": "Prized Lance (+Spd)",
+    "name": "Prized Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36369,7 +36584,7 @@
     "refine": false
   },
   "prizedlancedef": {
-    "name": "Prized Lance (+Def)",
+    "name": "Prized Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -36378,7 +36593,7 @@
     "refine": false
   },
   "prizedlanceres": {
-    "name": "Prized Lance (+Res)",
+    "name": "Prized Lance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -36404,7 +36619,7 @@
     "refine": false
   },
   "nightmarehornatk": {
-    "name": "Nightmare Horn (+Atk)",
+    "name": "Nightmare Horn (Atk)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36413,7 +36628,7 @@
     "refine": false
   },
   "nightmarehornspd": {
-    "name": "Nightmare Horn (+Spd)",
+    "name": "Nightmare Horn (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 6,
@@ -36422,7 +36637,7 @@
     "refine": false
   },
   "nightmarehorndef": {
-    "name": "Nightmare Horn (+Def)",
+    "name": "Nightmare Horn (Def)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -36432,7 +36647,7 @@
     "refine": false
   },
   "nightmarehornres": {
-    "name": "Nightmare Horn (+Res)",
+    "name": "Nightmare Horn (Res)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -36457,7 +36672,7 @@
     "refine": false
   },
   "helsreaperatk": {
-    "name": "Hel's Reaper (+Atk)",
+    "name": "Hel's Reaper (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36465,7 +36680,7 @@
     "refine": false
   },
   "helsreaperspd": {
-    "name": "Hel's Reaper (+Spd)",
+    "name": "Hel's Reaper (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36474,7 +36689,7 @@
     "refine": false
   },
   "helsreaperdef": {
-    "name": "Hel's Reaper (+Def)",
+    "name": "Hel's Reaper (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -36483,7 +36698,7 @@
     "refine": false
   },
   "helsreaperres": {
-    "name": "Hel's Reaper (+Res)",
+    "name": "Hel's Reaper (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -36509,7 +36724,7 @@
     "refine": false
   },
   "virtuoustyrfingatk": {
-    "name": "Virtuous Tyrfing (+Atk)",
+    "name": "Virtuous Tyrfing (Atk)",
     "bonus": {
       "atk": 18,
       "res": 3,
@@ -36518,7 +36733,7 @@
     "refine": false
   },
   "virtuoustyrfingspd": {
-    "name": "Virtuous Tyrfing (+Spd)",
+    "name": "Virtuous Tyrfing (Spd)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36528,7 +36743,7 @@
     "refine": false
   },
   "virtuoustyrfingdef": {
-    "name": "Virtuous Tyrfing (+Def)",
+    "name": "Virtuous Tyrfing (Def)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36538,7 +36753,7 @@
     "refine": false
   },
   "virtuoustyrfingres": {
-    "name": "Virtuous Tyrfing (+Res)",
+    "name": "Virtuous Tyrfing (Res)",
     "bonus": {
       "atk": 16,
       "res": 7,
@@ -36564,7 +36779,7 @@
     "refine": false
   },
   "flowerofeaseatk": {
-    "name": "Flower of Ease (+Atk)",
+    "name": "Flower of Ease (Atk)",
     "bonus": {
       "atk": 18,
       "res": 3,
@@ -36573,7 +36788,7 @@
     "refine": false
   },
   "flowerofeasespd": {
-    "name": "Flower of Ease (+Spd)",
+    "name": "Flower of Ease (Spd)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36583,7 +36798,7 @@
     "refine": false
   },
   "flowerofeasedef": {
-    "name": "Flower of Ease (+Def)",
+    "name": "Flower of Ease (Def)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36593,7 +36808,7 @@
     "refine": false
   },
   "flowerofeaseres": {
-    "name": "Flower of Ease (+Res)",
+    "name": "Flower of Ease (Res)",
     "bonus": {
       "atk": 16,
       "res": 7,
@@ -36619,7 +36834,7 @@
     "refine": false
   },
   "miragefalchionatk": {
-    "name": "Mirage Falchion (+Atk)",
+    "name": "Mirage Falchion (Atk)",
     "bonus": {
       "atk": 18,
       "def": 3,
@@ -36628,7 +36843,7 @@
     "refine": false
   },
   "miragefalchionspd": {
-    "name": "Mirage Falchion (+Spd)",
+    "name": "Mirage Falchion (Spd)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -36638,7 +36853,7 @@
     "refine": false
   },
   "miragefalchiondef": {
-    "name": "Mirage Falchion (+Def)",
+    "name": "Mirage Falchion (Def)",
     "bonus": {
       "atk": 16,
       "def": 7,
@@ -36647,7 +36862,7 @@
     "refine": false
   },
   "miragefalchionres": {
-    "name": "Mirage Falchion (+Res)",
+    "name": "Mirage Falchion (Res)",
     "bonus": {
       "atk": 16,
       "def": 3,
@@ -36672,7 +36887,7 @@
     "refine": false
   },
   "genesisfalchionatk": {
-    "name": "Genesis Falchion (+Atk)",
+    "name": "Genesis Falchion (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36680,7 +36895,7 @@
     "refine": false
   },
   "genesisfalchionspd": {
-    "name": "Genesis Falchion (+Spd)",
+    "name": "Genesis Falchion (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36689,7 +36904,7 @@
     "refine": false
   },
   "genesisfalchiondef": {
-    "name": "Genesis Falchion (+Def)",
+    "name": "Genesis Falchion (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -36698,7 +36913,7 @@
     "refine": false
   },
   "genesisfalchionres": {
-    "name": "Genesis Falchion (+Res)",
+    "name": "Genesis Falchion (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -36722,7 +36937,7 @@
     "refine": false
   },
   "bindingreginleifatk": {
-    "name": "Binding Reginleif (+Atk)",
+    "name": "Binding Reginleif (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36730,7 +36945,7 @@
     "refine": false
   },
   "bindingreginleifspd": {
-    "name": "Binding Reginleif (+Spd)",
+    "name": "Binding Reginleif (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36739,7 +36954,7 @@
     "refine": false
   },
   "bindingreginleifdef": {
-    "name": "Binding Reginleif (+Def)",
+    "name": "Binding Reginleif (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -36748,7 +36963,7 @@
     "refine": false
   },
   "bindingreginleifres": {
-    "name": "Binding Reginleif (+Res)",
+    "name": "Binding Reginleif (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -36773,7 +36988,7 @@
     "refine": false
   },
   "charginghornatk": {
-    "name": "Charging Horn (+Atk)",
+    "name": "Charging Horn (Atk)",
     "bonus": {
       "atk": 15,
       "def": 3,
@@ -36782,7 +36997,7 @@
     "refine": false
   },
   "charginghornspd": {
-    "name": "Charging Horn (+Spd)",
+    "name": "Charging Horn (Spd)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -36792,7 +37007,7 @@
     "refine": false
   },
   "charginghorndef": {
-    "name": "Charging Horn (+Def)",
+    "name": "Charging Horn (Def)",
     "bonus": {
       "atk": 14,
       "def": 6,
@@ -36801,7 +37016,7 @@
     "refine": false
   },
   "charginghornres": {
-    "name": "Charging Horn (+Res)",
+    "name": "Charging Horn (Res)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -36827,7 +37042,7 @@
     "refine": false
   },
   "phantasmtomeatk": {
-    "name": "Phantasm Tome (+Atk)",
+    "name": "Phantasm Tome (Atk)",
     "bonus": {
       "atk": 15,
       "spd": 3,
@@ -36836,7 +37051,7 @@
     "refine": false
   },
   "phantasmtomespd": {
-    "name": "Phantasm Tome (+Spd)",
+    "name": "Phantasm Tome (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 5,
@@ -36845,7 +37060,7 @@
     "refine": false
   },
   "phantasmtomedef": {
-    "name": "Phantasm Tome (+Def)",
+    "name": "Phantasm Tome (Def)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -36855,7 +37070,7 @@
     "refine": false
   },
   "phantasmtomeres": {
-    "name": "Phantasm Tome (+Res)",
+    "name": "Phantasm Tome (Res)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -36880,7 +37095,7 @@
     "refine": false
   },
   "areadbharatk": {
-    "name": "Areadbhar (+Atk)",
+    "name": "Areadbhar (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36888,7 +37103,7 @@
     "refine": false
   },
   "areadbharspd": {
-    "name": "Areadbhar (+Spd)",
+    "name": "Areadbhar (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -36897,7 +37112,7 @@
     "refine": false
   },
   "areadbhardef": {
-    "name": "Areadbhar (+Def)",
+    "name": "Areadbhar (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -36906,7 +37121,7 @@
     "refine": false
   },
   "areadbharres": {
-    "name": "Areadbhar (+Res)",
+    "name": "Areadbhar (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -36932,7 +37147,7 @@
     "refine": false
   },
   "mirageaxeatk": {
-    "name": "Mirage Axe (+Atk)",
+    "name": "Mirage Axe (Atk)",
     "bonus": {
       "atk": 18,
       "res": 3,
@@ -36941,7 +37156,7 @@
     "refine": false
   },
   "mirageaxespd": {
-    "name": "Mirage Axe (+Spd)",
+    "name": "Mirage Axe (Spd)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36951,7 +37166,7 @@
     "refine": false
   },
   "mirageaxedef": {
-    "name": "Mirage Axe (+Def)",
+    "name": "Mirage Axe (Def)",
     "bonus": {
       "atk": 16,
       "res": 3,
@@ -36961,7 +37176,7 @@
     "refine": false
   },
   "mirageaxeres": {
-    "name": "Mirage Axe (+Res)",
+    "name": "Mirage Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 7,
@@ -36985,7 +37200,7 @@
     "refine": false
   },
   "deserttigeraxeatk": {
-    "name": "Desert-Tiger Axe (+Atk)",
+    "name": "Desert-Tiger Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -36993,7 +37208,7 @@
     "refine": false
   },
   "deserttigeraxespd": {
-    "name": "Desert-Tiger Axe (+Spd)",
+    "name": "Desert-Tiger Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -37002,7 +37217,7 @@
     "refine": false
   },
   "deserttigeraxedef": {
-    "name": "Desert-Tiger Axe (+Def)",
+    "name": "Desert-Tiger Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -37011,7 +37226,7 @@
     "refine": false
   },
   "deserttigeraxeres": {
-    "name": "Desert-Tiger Axe (+Res)",
+    "name": "Desert-Tiger Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -37037,7 +37252,7 @@
     "refine": false
   },
   "fatherssonaxeatk": {
-    "name": "Father's-Son Axe (+Atk)",
+    "name": "Father's-Son Axe (Atk)",
     "bonus": {
       "atk": 12,
       "spd": -5,
@@ -37046,7 +37261,7 @@
     "refine": false
   },
   "fatherssonaxespd": {
-    "name": "Father's-Son Axe (+Spd)",
+    "name": "Father's-Son Axe (Spd)",
     "bonus": {
       "atk": 10,
       "spd": -2,
@@ -37055,7 +37270,7 @@
     "refine": false
   },
   "fatherssonaxedef": {
-    "name": "Father's-Son Axe (+Def)",
+    "name": "Father's-Son Axe (Def)",
     "bonus": {
       "atk": 10,
       "spd": -5,
@@ -37065,7 +37280,7 @@
     "refine": false
   },
   "fatherssonaxeres": {
-    "name": "Father's-Son Axe (+Res)",
+    "name": "Father's-Son Axe (Res)",
     "bonus": {
       "atk": 10,
       "spd": -5,
@@ -37082,7 +37297,7 @@
     "refine": "Seashell Bowl+"
   },
   "seashellbowlatk": {
-    "name": "Seashell Bowl+ (+Atk)",
+    "name": "Seashell Bowl+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37090,7 +37305,7 @@
     "refine": false
   },
   "seashellbowlspd": {
-    "name": "Seashell Bowl+ (+Spd)",
+    "name": "Seashell Bowl+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37099,7 +37314,7 @@
     "refine": false
   },
   "seashellbowldef": {
-    "name": "Seashell Bowl+ (+Def)",
+    "name": "Seashell Bowl+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37108,7 +37323,7 @@
     "refine": false
   },
   "seashellbowlres": {
-    "name": "Seashell Bowl+ (+Res)",
+    "name": "Seashell Bowl+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37124,7 +37339,7 @@
     "refine": "Arcane Darkbow"
   },
   "arcanedarkbowatk": {
-    "name": "Arcane Darkbow (+Atk)",
+    "name": "Arcane Darkbow (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -37132,7 +37347,7 @@
     "refine": false
   },
   "arcanedarkbowspd": {
-    "name": "Arcane Darkbow (+Spd)",
+    "name": "Arcane Darkbow (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -37141,7 +37356,7 @@
     "refine": false
   },
   "arcanedarkbowdef": {
-    "name": "Arcane Darkbow (+Def)",
+    "name": "Arcane Darkbow (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -37150,7 +37365,7 @@
     "refine": false
   },
   "arcanedarkbowres": {
-    "name": "Arcane Darkbow (+Res)",
+    "name": "Arcane Darkbow (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -37166,7 +37381,7 @@
     "refine": "Arcane Nihility"
   },
   "arcanenihilityatk": {
-    "name": "Arcane Nihility (+Atk)",
+    "name": "Arcane Nihility (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -37174,7 +37389,7 @@
     "refine": false
   },
   "arcanenihilityspd": {
-    "name": "Arcane Nihility (+Spd)",
+    "name": "Arcane Nihility (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -37183,7 +37398,7 @@
     "refine": false
   },
   "arcanenihilitydef": {
-    "name": "Arcane Nihility (+Def)",
+    "name": "Arcane Nihility (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -37192,7 +37407,7 @@
     "refine": false
   },
   "arcanenihilityres": {
-    "name": "Arcane Nihility (+Res)",
+    "name": "Arcane Nihility (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -37208,7 +37423,7 @@
     "refine": "Defier's Sword+"
   },
   "defiersswordatk": {
-    "name": "Defier's Sword+ (+Atk)",
+    "name": "Defier's Sword+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -37216,7 +37431,7 @@
     "refine": false
   },
   "defiersswordspd": {
-    "name": "Defier's Sword+ (+Spd)",
+    "name": "Defier's Sword+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -37225,7 +37440,7 @@
     "refine": false
   },
   "defierssworddef": {
-    "name": "Defier's Sword+ (+Def)",
+    "name": "Defier's Sword+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -37234,7 +37449,7 @@
     "refine": false
   },
   "defiersswordres": {
-    "name": "Defier's Sword+ (+Res)",
+    "name": "Defier's Sword+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -37250,7 +37465,7 @@
     "refine": "Teacake Tower+"
   },
   "teacaketoweratk": {
-    "name": "Teacake Tower+ (+Atk)",
+    "name": "Teacake Tower+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37258,7 +37473,7 @@
     "refine": false
   },
   "teacaketowerspd": {
-    "name": "Teacake Tower+ (+Spd)",
+    "name": "Teacake Tower+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37267,7 +37482,7 @@
     "refine": false
   },
   "teacaketowerdef": {
-    "name": "Teacake Tower+ (+Def)",
+    "name": "Teacake Tower+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37276,7 +37491,7 @@
     "refine": false
   },
   "teacaketowerres": {
-    "name": "Teacake Tower+ (+Res)",
+    "name": "Teacake Tower+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37292,7 +37507,7 @@
     "refine": "Teatime Set+"
   },
   "teatimesetatk": {
-    "name": "Teatime Set+ (+Atk)",
+    "name": "Teatime Set+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37300,7 +37515,7 @@
     "refine": false
   },
   "teatimesetspd": {
-    "name": "Teatime Set+ (+Spd)",
+    "name": "Teatime Set+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37309,7 +37524,7 @@
     "refine": false
   },
   "teatimesetdef": {
-    "name": "Teatime Set+ (+Def)",
+    "name": "Teatime Set+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37318,7 +37533,7 @@
     "refine": false
   },
   "teatimesetres": {
-    "name": "Teatime Set+ (+Res)",
+    "name": "Teatime Set+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37342,7 +37557,7 @@
     "refine": false
   },
   "thraciakinglanceatk": {
-    "name": "Thracia Kinglance (+Atk)",
+    "name": "Thracia Kinglance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -37350,7 +37565,7 @@
     "refine": false
   },
   "thraciakinglancespd": {
-    "name": "Thracia Kinglance (+Spd)",
+    "name": "Thracia Kinglance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -37359,7 +37574,7 @@
     "refine": false
   },
   "thraciakinglancedef": {
-    "name": "Thracia Kinglance (+Def)",
+    "name": "Thracia Kinglance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -37368,7 +37583,7 @@
     "refine": false
   },
   "thraciakinglanceres": {
-    "name": "Thracia Kinglance (+Res)",
+    "name": "Thracia Kinglance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -37392,7 +37607,7 @@
     "refine": false
   },
   "westernaxeatk": {
-    "name": "Western Axe (+Atk)",
+    "name": "Western Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -37400,7 +37615,7 @@
     "refine": false
   },
   "westernaxespd": {
-    "name": "Western Axe (+Spd)",
+    "name": "Western Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -37409,7 +37624,7 @@
     "refine": false
   },
   "westernaxedef": {
-    "name": "Western Axe (+Def)",
+    "name": "Western Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -37418,7 +37633,7 @@
     "refine": false
   },
   "westernaxeres": {
-    "name": "Western Axe (+Res)",
+    "name": "Western Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -37434,7 +37649,7 @@
     "refine": "Wind Tribe Club+"
   },
   "windtribeclubatk": {
-    "name": "Wind Tribe Club+ (+Atk)",
+    "name": "Wind Tribe Club+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -37442,7 +37657,7 @@
     "refine": false
   },
   "windtribeclubspd": {
-    "name": "Wind Tribe Club+ (+Spd)",
+    "name": "Wind Tribe Club+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -37451,7 +37666,7 @@
     "refine": false
   },
   "windtribeclubdef": {
-    "name": "Wind Tribe Club+ (+Def)",
+    "name": "Wind Tribe Club+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -37460,7 +37675,7 @@
     "refine": false
   },
   "windtribeclubres": {
-    "name": "Wind Tribe Club+ (+Res)",
+    "name": "Wind Tribe Club+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -37476,7 +37691,7 @@
     "refine": "Whitewind Bow+"
   },
   "whitewindbowatk": {
-    "name": "Whitewind Bow+ (+Atk)",
+    "name": "Whitewind Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37484,7 +37699,7 @@
     "refine": false
   },
   "whitewindbowspd": {
-    "name": "Whitewind Bow+ (+Spd)",
+    "name": "Whitewind Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37493,7 +37708,7 @@
     "refine": false
   },
   "whitewindbowdef": {
-    "name": "Whitewind Bow+ (+Def)",
+    "name": "Whitewind Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37502,7 +37717,7 @@
     "refine": false
   },
   "whitewindbowres": {
-    "name": "Whitewind Bow+ (+Res)",
+    "name": "Whitewind Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37518,7 +37733,7 @@
     "refine": "Protection Edge+"
   },
   "protectionedgeatk": {
-    "name": "Protection Edge+ (+Atk)",
+    "name": "Protection Edge+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -37526,7 +37741,7 @@
     "refine": false
   },
   "protectionedgespd": {
-    "name": "Protection Edge+ (+Spd)",
+    "name": "Protection Edge+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -37535,7 +37750,7 @@
     "refine": false
   },
   "protectionedgedef": {
-    "name": "Protection Edge+ (+Def)",
+    "name": "Protection Edge+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -37544,7 +37759,7 @@
     "refine": false
   },
   "protectionedgeres": {
-    "name": "Protection Edge+ (+Res)",
+    "name": "Protection Edge+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -37560,7 +37775,7 @@
     "refine": "Miasma Dagger+"
   },
   "miasmadaggeratk": {
-    "name": "Miasma Dagger+ (+Atk)",
+    "name": "Miasma Dagger+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37568,7 +37783,7 @@
     "refine": false
   },
   "miasmadaggerspd": {
-    "name": "Miasma Dagger+ (+Spd)",
+    "name": "Miasma Dagger+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37577,7 +37792,7 @@
     "refine": false
   },
   "miasmadaggerdef": {
-    "name": "Miasma Dagger+ (+Def)",
+    "name": "Miasma Dagger+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37586,7 +37801,7 @@
     "refine": false
   },
   "miasmadaggerres": {
-    "name": "Miasma Dagger+ (+Res)",
+    "name": "Miasma Dagger+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37602,7 +37817,7 @@
     "refine": "Arcane Euphoria"
   },
   "arcaneeuphoriaatk": {
-    "name": "Arcane Euphoria (+Atk)",
+    "name": "Arcane Euphoria (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -37610,7 +37825,7 @@
     "refine": false
   },
   "arcaneeuphoriaspd": {
-    "name": "Arcane Euphoria (+Spd)",
+    "name": "Arcane Euphoria (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -37619,7 +37834,7 @@
     "refine": false
   },
   "arcaneeuphoriadef": {
-    "name": "Arcane Euphoria (+Def)",
+    "name": "Arcane Euphoria (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -37628,7 +37843,7 @@
     "refine": false
   },
   "arcaneeuphoriares": {
-    "name": "Arcane Euphoria (+Res)",
+    "name": "Arcane Euphoria (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -37644,7 +37859,7 @@
     "refine": "Pumpkin Stem+"
   },
   "pumpkinstematk": {
-    "name": "Pumpkin Stem+ (+Atk)",
+    "name": "Pumpkin Stem+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37652,7 +37867,7 @@
     "refine": false
   },
   "pumpkinstemspd": {
-    "name": "Pumpkin Stem+ (+Spd)",
+    "name": "Pumpkin Stem+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37661,7 +37876,7 @@
     "refine": false
   },
   "pumpkinstemdef": {
-    "name": "Pumpkin Stem+ (+Def)",
+    "name": "Pumpkin Stem+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37670,7 +37885,7 @@
     "refine": false
   },
   "pumpkinstemres": {
-    "name": "Pumpkin Stem+ (+Res)",
+    "name": "Pumpkin Stem+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37686,7 +37901,7 @@
     "refine": "Farmer's Tool+"
   },
   "farmerstoolatk": {
-    "name": "Farmer's Tool+ (+Atk)",
+    "name": "Farmer's Tool+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -37694,7 +37909,7 @@
     "refine": false
   },
   "farmerstoolspd": {
-    "name": "Farmer's Tool+ (+Spd)",
+    "name": "Farmer's Tool+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -37703,7 +37918,7 @@
     "refine": false
   },
   "farmerstooldef": {
-    "name": "Farmer's Tool+ (+Def)",
+    "name": "Farmer's Tool+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -37712,7 +37927,7 @@
     "refine": false
   },
   "farmerstoolres": {
-    "name": "Farmer's Tool+ (+Res)",
+    "name": "Farmer's Tool+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -37728,7 +37943,7 @@
     "refine": "Arc. Caliburnus"
   },
   "arccaliburnusatk": {
-    "name": "Arc. Caliburnus (+Atk)",
+    "name": "Arc. Caliburnus (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -37736,7 +37951,7 @@
     "refine": false
   },
   "arccaliburnusspd": {
-    "name": "Arc. Caliburnus (+Spd)",
+    "name": "Arc. Caliburnus (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -37745,7 +37960,7 @@
     "refine": false
   },
   "arccaliburnusdef": {
-    "name": "Arc. Caliburnus (+Def)",
+    "name": "Arc. Caliburnus (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -37754,7 +37969,7 @@
     "refine": false
   },
   "arccaliburnusres": {
-    "name": "Arc. Caliburnus (+Res)",
+    "name": "Arc. Caliburnus (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -37770,7 +37985,7 @@
     "refine": "Rau\u00f0rdeer+"
   },
   "raurdeeratk": {
-    "name": "Rau\u00f0rdeer+ (+Atk)",
+    "name": "Rau\u00f0rdeer+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37778,7 +37993,7 @@
     "refine": false
   },
   "raurdeerspd": {
-    "name": "Rau\u00f0rdeer+ (+Spd)",
+    "name": "Rau\u00f0rdeer+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37787,7 +38002,7 @@
     "refine": false
   },
   "raurdeerdef": {
-    "name": "Rau\u00f0rdeer+ (+Def)",
+    "name": "Rau\u00f0rdeer+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37796,7 +38011,7 @@
     "refine": false
   },
   "raurdeerres": {
-    "name": "Rau\u00f0rdeer+ (+Res)",
+    "name": "Rau\u00f0rdeer+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37812,7 +38027,7 @@
     "refine": "Bl\u00e1rdeer+"
   },
   "blardeeratk": {
-    "name": "Bl\u00e1rdeer+ (+Atk)",
+    "name": "Bl\u00e1rdeer+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -37820,7 +38035,7 @@
     "refine": false
   },
   "blardeerspd": {
-    "name": "Bl\u00e1rdeer+ (+Spd)",
+    "name": "Bl\u00e1rdeer+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -37829,7 +38044,7 @@
     "refine": false
   },
   "blardeerdef": {
-    "name": "Bl\u00e1rdeer+ (+Def)",
+    "name": "Bl\u00e1rdeer+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -37838,7 +38053,7 @@
     "refine": false
   },
   "blardeerres": {
-    "name": "Bl\u00e1rdeer+ (+Res)",
+    "name": "Bl\u00e1rdeer+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -37861,7 +38076,7 @@
     "refine": false
   },
   "wildcatdaggeratk": {
-    "name": "Wildcat Dagger (+Atk)",
+    "name": "Wildcat Dagger (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -37869,7 +38084,7 @@
     "refine": false
   },
   "wildcatdaggerspd": {
-    "name": "Wildcat Dagger (+Spd)",
+    "name": "Wildcat Dagger (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -37878,7 +38093,7 @@
     "refine": false
   },
   "wildcatdaggerdef": {
-    "name": "Wildcat Dagger (+Def)",
+    "name": "Wildcat Dagger (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -37887,7 +38102,7 @@
     "refine": false
   },
   "wildcatdaggerres": {
-    "name": "Wildcat Dagger (+Res)",
+    "name": "Wildcat Dagger (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -37911,7 +38126,7 @@
     "refine": false
   },
   "hyperionlanceatk": {
-    "name": "Hyperion Lance (+Atk)",
+    "name": "Hyperion Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -37919,7 +38134,7 @@
     "refine": false
   },
   "hyperionlancespd": {
-    "name": "Hyperion Lance (+Spd)",
+    "name": "Hyperion Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -37928,7 +38143,7 @@
     "refine": false
   },
   "hyperionlancedef": {
-    "name": "Hyperion Lance (+Def)",
+    "name": "Hyperion Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -37937,7 +38152,7 @@
     "refine": false
   },
   "hyperionlanceres": {
-    "name": "Hyperion Lance (+Res)",
+    "name": "Hyperion Lance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -37961,7 +38176,7 @@
     "refine": false
   },
   "flamebattleaxeatk": {
-    "name": "Flame Battleaxe (+Atk)",
+    "name": "Flame Battleaxe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -37969,7 +38184,7 @@
     "refine": false
   },
   "flamebattleaxespd": {
-    "name": "Flame Battleaxe (+Spd)",
+    "name": "Flame Battleaxe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -37978,7 +38193,7 @@
     "refine": false
   },
   "flamebattleaxedef": {
-    "name": "Flame Battleaxe (+Def)",
+    "name": "Flame Battleaxe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -37987,7 +38202,7 @@
     "refine": false
   },
   "flamebattleaxeres": {
-    "name": "Flame Battleaxe (+Res)",
+    "name": "Flame Battleaxe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -38013,7 +38228,7 @@
     "refine": false
   },
   "brilliantrapieratk": {
-    "name": "Brilliant Rapier (+Atk)",
+    "name": "Brilliant Rapier (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -38022,7 +38237,7 @@
     "refine": false
   },
   "brilliantrapierspd": {
-    "name": "Brilliant Rapier (+Spd)",
+    "name": "Brilliant Rapier (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -38031,7 +38246,7 @@
     "refine": false
   },
   "brilliantrapierdef": {
-    "name": "Brilliant Rapier (+Def)",
+    "name": "Brilliant Rapier (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -38041,7 +38256,7 @@
     "refine": false
   },
   "brilliantrapierres": {
-    "name": "Brilliant Rapier (+Res)",
+    "name": "Brilliant Rapier (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -38058,7 +38273,7 @@
     "refine": "Wooden Tackle+"
   },
   "woodentackleatk": {
-    "name": "Wooden Tackle+ (+Atk)",
+    "name": "Wooden Tackle+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -38066,7 +38281,7 @@
     "refine": false
   },
   "woodentacklespd": {
-    "name": "Wooden Tackle+ (+Spd)",
+    "name": "Wooden Tackle+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -38075,7 +38290,7 @@
     "refine": false
   },
   "woodentackledef": {
-    "name": "Wooden Tackle+ (+Def)",
+    "name": "Wooden Tackle+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -38084,7 +38299,7 @@
     "refine": false
   },
   "woodentackleres": {
-    "name": "Wooden Tackle+ (+Res)",
+    "name": "Wooden Tackle+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -38100,7 +38315,7 @@
     "refine": "Arcane Void"
   },
   "arcanevoidatk": {
-    "name": "Arcane Void (+Atk)",
+    "name": "Arcane Void (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -38108,7 +38323,7 @@
     "refine": false
   },
   "arcanevoidspd": {
-    "name": "Arcane Void (+Spd)",
+    "name": "Arcane Void (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -38117,7 +38332,7 @@
     "refine": false
   },
   "arcanevoiddef": {
-    "name": "Arcane Void (+Def)",
+    "name": "Arcane Void (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -38126,7 +38341,7 @@
     "refine": false
   },
   "arcanevoidres": {
-    "name": "Arcane Void (+Res)",
+    "name": "Arcane Void (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -38142,7 +38357,7 @@
     "refine": "Halting Bow+"
   },
   "haltingbowatk": {
-    "name": "Halting Bow+ (+Atk)",
+    "name": "Halting Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38150,7 +38365,7 @@
     "refine": false
   },
   "haltingbowspd": {
-    "name": "Halting Bow+ (+Spd)",
+    "name": "Halting Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38159,7 +38374,7 @@
     "refine": false
   },
   "haltingbowdef": {
-    "name": "Halting Bow+ (+Def)",
+    "name": "Halting Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38168,7 +38383,7 @@
     "refine": false
   },
   "haltingbowres": {
-    "name": "Halting Bow+ (+Res)",
+    "name": "Halting Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38194,7 +38409,7 @@
     "refine": false
   },
   "miragefeatheratk": {
-    "name": "Mirage Feather (+Atk)",
+    "name": "Mirage Feather (Atk)",
     "bonus": {
       "atk": 18,
       "spd": 3,
@@ -38203,7 +38418,7 @@
     "refine": false
   },
   "miragefeatherspd": {
-    "name": "Mirage Feather (+Spd)",
+    "name": "Mirage Feather (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 6,
@@ -38212,7 +38427,7 @@
     "refine": false
   },
   "miragefeatherdef": {
-    "name": "Mirage Feather (+Def)",
+    "name": "Mirage Feather (Def)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -38222,7 +38437,7 @@
     "refine": false
   },
   "miragefeatherres": {
-    "name": "Mirage Feather (+Res)",
+    "name": "Mirage Feather (Res)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -38300,7 +38515,7 @@
     "refine": "Hv\u00edtrdeer+"
   },
   "hvitrdeeratk": {
-    "name": "Hv\u00edtrdeer+ (+Atk)",
+    "name": "Hv\u00edtrdeer+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38308,7 +38523,7 @@
     "refine": false
   },
   "hvitrdeerspd": {
-    "name": "Hv\u00edtrdeer+ (+Spd)",
+    "name": "Hv\u00edtrdeer+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38317,7 +38532,7 @@
     "refine": false
   },
   "hvitrdeerdef": {
-    "name": "Hv\u00edtrdeer+ (+Def)",
+    "name": "Hv\u00edtrdeer+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38326,7 +38541,7 @@
     "refine": false
   },
   "hvitrdeerres": {
-    "name": "Hv\u00edtrdeer+ (+Res)",
+    "name": "Hv\u00edtrdeer+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38342,7 +38557,7 @@
     "refine": "Arcane \u00derima"
   },
   "arcaneprimaatk": {
-    "name": "Arcane \u00derima (+Atk)",
+    "name": "Arcane \u00derima (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -38350,7 +38565,7 @@
     "refine": false
   },
   "arcaneprimaspd": {
-    "name": "Arcane \u00derima (+Spd)",
+    "name": "Arcane \u00derima (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -38359,7 +38574,7 @@
     "refine": false
   },
   "arcaneprimadef": {
-    "name": "Arcane \u00derima (+Def)",
+    "name": "Arcane \u00derima (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -38368,7 +38583,7 @@
     "refine": false
   },
   "arcaneprimares": {
-    "name": "Arcane \u00derima (+Res)",
+    "name": "Arcane \u00derima (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -38384,7 +38599,7 @@
     "refine": "Sacaen-Wolf Bow"
   },
   "sacaenwolfbowatk": {
-    "name": "Sacaen-Wolf Bow (+Atk)",
+    "name": "Sacaen-Wolf Bow (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -38392,7 +38607,7 @@
     "refine": false
   },
   "sacaenwolfbowspd": {
-    "name": "Sacaen-Wolf Bow (+Spd)",
+    "name": "Sacaen-Wolf Bow (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -38401,7 +38616,7 @@
     "refine": false
   },
   "sacaenwolfbowdef": {
-    "name": "Sacaen-Wolf Bow (+Def)",
+    "name": "Sacaen-Wolf Bow (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -38410,7 +38625,7 @@
     "refine": false
   },
   "sacaenwolfbowres": {
-    "name": "Sacaen-Wolf Bow (+Res)",
+    "name": "Sacaen-Wolf Bow (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -38440,7 +38655,7 @@
     "refine": "Golden Yule Bow+"
   },
   "goldenyulebowatk": {
-    "name": "Golden Yule Bow+ (+Atk)",
+    "name": "Golden Yule Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38448,7 +38663,7 @@
     "refine": false
   },
   "goldenyulebowspd": {
-    "name": "Golden Yule Bow+ (+Spd)",
+    "name": "Golden Yule Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38457,7 +38672,7 @@
     "refine": false
   },
   "goldenyulebowdef": {
-    "name": "Golden Yule Bow+ (+Def)",
+    "name": "Golden Yule Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38466,7 +38681,7 @@
     "refine": false
   },
   "goldenyulebowres": {
-    "name": "Golden Yule Bow+ (+Res)",
+    "name": "Golden Yule Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38510,7 +38725,7 @@
     "refine": "New-Sun Stone+"
   },
   "newsunstoneatk": {
-    "name": "New-Sun Stone+ (+Atk)",
+    "name": "New-Sun Stone+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -38518,7 +38733,7 @@
     "refine": false
   },
   "newsunstonespd": {
-    "name": "New-Sun Stone+ (+Spd)",
+    "name": "New-Sun Stone+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -38527,7 +38742,7 @@
     "refine": false
   },
   "newsunstonedef": {
-    "name": "New-Sun Stone+ (+Def)",
+    "name": "New-Sun Stone+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -38536,7 +38751,7 @@
     "refine": false
   },
   "newsunstoneres": {
-    "name": "New-Sun Stone+ (+Res)",
+    "name": "New-Sun Stone+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -38552,7 +38767,7 @@
     "refine": "Dragon's Stone+"
   },
   "dragonsstoneatk": {
-    "name": "Dragon's Stone+ (+Atk)",
+    "name": "Dragon's Stone+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -38560,7 +38775,7 @@
     "refine": false
   },
   "dragonsstonespd": {
-    "name": "Dragon's Stone+ (+Spd)",
+    "name": "Dragon's Stone+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -38569,7 +38784,7 @@
     "refine": false
   },
   "dragonsstonedef": {
-    "name": "Dragon's Stone+ (+Def)",
+    "name": "Dragon's Stone+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -38578,7 +38793,7 @@
     "refine": false
   },
   "dragonsstoneres": {
-    "name": "Dragon's Stone+ (+Res)",
+    "name": "Dragon's Stone+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -38615,7 +38830,7 @@
     "refine": "Lucrative Bow+"
   },
   "lucrativebowatk": {
-    "name": "Lucrative Bow+ (+Atk)",
+    "name": "Lucrative Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38623,7 +38838,7 @@
     "refine": false
   },
   "lucrativebowspd": {
-    "name": "Lucrative Bow+ (+Spd)",
+    "name": "Lucrative Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38632,7 +38847,7 @@
     "refine": false
   },
   "lucrativebowdef": {
-    "name": "Lucrative Bow+ (+Def)",
+    "name": "Lucrative Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38641,7 +38856,7 @@
     "refine": false
   },
   "lucrativebowres": {
-    "name": "Lucrative Bow+ (+Res)",
+    "name": "Lucrative Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38671,7 +38886,7 @@
     "refine": "Rau\u00f0rlantern+"
   },
   "raudrlanternatk": {
-    "name": "Rau\u00f0rlantern+ (+Atk)",
+    "name": "Rau\u00f0rlantern+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38679,7 +38894,7 @@
     "refine": false
   },
   "raudrlanternspd": {
-    "name": "Rau\u00f0rlantern+ (+Spd)",
+    "name": "Rau\u00f0rlantern+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38688,7 +38903,7 @@
     "refine": false
   },
   "raudrlanterndef": {
-    "name": "Rau\u00f0rlantern+ (+Def)",
+    "name": "Rau\u00f0rlantern+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38697,7 +38912,7 @@
     "refine": false
   },
   "raudrlanternres": {
-    "name": "Rau\u00f0rlantern+ (+Res)",
+    "name": "Rau\u00f0rlantern+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38765,7 +38980,7 @@
     "refine": "Vulture Bow+"
   },
   "vulturebowatk": {
-    "name": "Vulture Bow+ (+Atk)",
+    "name": "Vulture Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38773,7 +38988,7 @@
     "refine": false
   },
   "vulturebowspd": {
-    "name": "Vulture Bow+ (+Spd)",
+    "name": "Vulture Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38782,7 +38997,7 @@
     "refine": false
   },
   "vulturebowdef": {
-    "name": "Vulture Bow+ (+Def)",
+    "name": "Vulture Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38791,7 +39006,7 @@
     "refine": false
   },
   "vulturebowres": {
-    "name": "Vulture Bow+ (+Res)",
+    "name": "Vulture Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38814,7 +39029,14 @@
     "refine": false
   },
   "sunlight": {
-    "name": "Sunlight+",
+    "name": "Sunlight+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Sunlight+"
+  },
+  "sunlighteff": {
+    "name": "Sunlight+ (Eff)",
     "bonus": {
       "atk": 12
     },
@@ -38835,7 +39057,7 @@
     "refine": "Lucky Bow"
   },
   "luckybowatk": {
-    "name": "Lucky Bow (+Atk)",
+    "name": "Lucky Bow (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -38843,7 +39065,7 @@
     "refine": false
   },
   "luckybowspd": {
-    "name": "Lucky Bow (+Spd)",
+    "name": "Lucky Bow (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -38852,7 +39074,7 @@
     "refine": false
   },
   "luckybowdef": {
-    "name": "Lucky Bow (+Def)",
+    "name": "Lucky Bow (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -38861,7 +39083,7 @@
     "refine": false
   },
   "luckybowres": {
-    "name": "Lucky Bow (+Res)",
+    "name": "Lucky Bow (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -38913,7 +39135,7 @@
     "refine": "Carrot Bow+"
   },
   "carrotbowatk": {
-    "name": "Carrot Bow+ (+Atk)",
+    "name": "Carrot Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -38921,7 +39143,7 @@
     "refine": false
   },
   "carrotbowspd": {
-    "name": "Carrot Bow+ (+Spd)",
+    "name": "Carrot Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -38930,7 +39152,7 @@
     "refine": false
   },
   "carrotbowdef": {
-    "name": "Carrot Bow+ (+Def)",
+    "name": "Carrot Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -38939,7 +39161,7 @@
     "refine": false
   },
   "carrotbowres": {
-    "name": "Carrot Bow+ (+Res)",
+    "name": "Carrot Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -38970,7 +39192,7 @@
     "refine": "Arcane Charmer"
   },
   "arcanecharmeratk": {
-    "name": "Arcane Charmer (+Atk)",
+    "name": "Arcane Charmer (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -38978,7 +39200,7 @@
     "refine": false
   },
   "arcanecharmerspd": {
-    "name": "Arcane Charmer (+Spd)",
+    "name": "Arcane Charmer (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -38987,7 +39209,7 @@
     "refine": false
   },
   "arcanecharmerdef": {
-    "name": "Arcane Charmer (+Def)",
+    "name": "Arcane Charmer (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -38996,7 +39218,7 @@
     "refine": false
   },
   "arcanecharmerres": {
-    "name": "Arcane Charmer (+Res)",
+    "name": "Arcane Charmer (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -39026,7 +39248,7 @@
     "refine": "Reversal Blade+"
   },
   "reversalbladeatk": {
-    "name": "Reversal Blade+ (+Atk)",
+    "name": "Reversal Blade+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -39034,7 +39256,7 @@
     "refine": false
   },
   "reversalbladespd": {
-    "name": "Reversal Blade+ (+Spd)",
+    "name": "Reversal Blade+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -39043,7 +39265,7 @@
     "refine": false
   },
   "reversalbladedef": {
-    "name": "Reversal Blade+ (+Def)",
+    "name": "Reversal Blade+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -39052,7 +39274,7 @@
     "refine": false
   },
   "reversalbladeres": {
-    "name": "Reversal Blade+ (+Res)",
+    "name": "Reversal Blade+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -39068,7 +39290,7 @@
     "refine": "Devoted Basket+"
   },
   "devotedbasketatk": {
-    "name": "Devoted Basket+ (+Atk)",
+    "name": "Devoted Basket+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -39076,7 +39298,7 @@
     "refine": false
   },
   "devotedbasketspd": {
-    "name": "Devoted Basket+ (+Spd)",
+    "name": "Devoted Basket+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -39085,7 +39307,7 @@
     "refine": false
   },
   "devotedbasketdef": {
-    "name": "Devoted Basket+ (+Def)",
+    "name": "Devoted Basket+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -39094,7 +39316,7 @@
     "refine": false
   },
   "devotedbasketres": {
-    "name": "Devoted Basket+ (+Res)",
+    "name": "Devoted Basket+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -39110,7 +39332,7 @@
     "refine": "Axe of Devotion+"
   },
   "axeofdevotionatk": {
-    "name": "Axe of Devotion+ (+Atk)",
+    "name": "Axe of Devotion+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -39118,7 +39340,7 @@
     "refine": false
   },
   "axeofdevotionspd": {
-    "name": "Axe of Devotion+ (+Spd)",
+    "name": "Axe of Devotion+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -39127,7 +39349,7 @@
     "refine": false
   },
   "axeofdevotiondef": {
-    "name": "Axe of Devotion+ (+Def)",
+    "name": "Axe of Devotion+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -39136,7 +39358,7 @@
     "refine": false
   },
   "axeofdevotionres": {
-    "name": "Axe of Devotion+ (+Res)",
+    "name": "Axe of Devotion+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -39173,7 +39395,7 @@
     "refine": "Airborne Spear"
   },
   "airbornespearatk": {
-    "name": "Airborne Spear (+Atk)",
+    "name": "Airborne Spear (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -39181,7 +39403,7 @@
     "refine": false
   },
   "airbornespearspd": {
-    "name": "Airborne Spear (+Spd)",
+    "name": "Airborne Spear (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -39190,7 +39412,7 @@
     "refine": false
   },
   "airbornespeardef": {
-    "name": "Airborne Spear (+Def)",
+    "name": "Airborne Spear (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -39199,7 +39421,7 @@
     "refine": false
   },
   "airbornespearres": {
-    "name": "Airborne Spear (+Res)",
+    "name": "Airborne Spear (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -39237,7 +39459,7 @@
     "refine": "Nabata Lance+"
   },
   "nabatalanceatk": {
-    "name": "Nabata Lance+ (+Atk)",
+    "name": "Nabata Lance+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -39245,7 +39467,7 @@
     "refine": false
   },
   "nabatalancespd": {
-    "name": "Nabata Lance+ (+Spd)",
+    "name": "Nabata Lance+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -39254,7 +39476,7 @@
     "refine": false
   },
   "nabatalancedef": {
-    "name": "Nabata Lance+ (+Def)",
+    "name": "Nabata Lance+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -39263,7 +39485,7 @@
     "refine": false
   },
   "nabatalanceres": {
-    "name": "Nabata Lance+ (+Res)",
+    "name": "Nabata Lance+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -39286,7 +39508,7 @@
     "refine": "Nabata Beacon+"
   },
   "nabatabeaconatk": {
-    "name": "Nabata Beacon+ (+Atk)",
+    "name": "Nabata Beacon+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -39294,7 +39516,7 @@
     "refine": false
   },
   "nabatabeaconspd": {
-    "name": "Nabata Beacon+ (+Spd)",
+    "name": "Nabata Beacon+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -39303,7 +39525,7 @@
     "refine": false
   },
   "nabatabeacondef": {
-    "name": "Nabata Beacon+ (+Def)",
+    "name": "Nabata Beacon+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -39312,7 +39534,7 @@
     "refine": false
   },
   "nabatabeaconres": {
-    "name": "Nabata Beacon+ (+Res)",
+    "name": "Nabata Beacon+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -39342,7 +39564,7 @@
     "refine": "Stoutheart Lance"
   },
   "stoutheartlanceatk": {
-    "name": "Stoutheart Lance (+Atk)",
+    "name": "Stoutheart Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -39350,7 +39572,7 @@
     "refine": false
   },
   "stoutheartlancespd": {
-    "name": "Stoutheart Lance (+Spd)",
+    "name": "Stoutheart Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -39359,7 +39581,7 @@
     "refine": false
   },
   "stoutheartlancedef": {
-    "name": "Stoutheart Lance (+Def)",
+    "name": "Stoutheart Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -39368,7 +39590,7 @@
     "refine": false
   },
   "stoutheartlanceres": {
-    "name": "Stoutheart Lance (+Res)",
+    "name": "Stoutheart Lance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -39414,7 +39636,7 @@
     "refine": "Clever Dagger+"
   },
   "cleverdaggeratk": {
-    "name": "Clever Dagger+ (+Atk)",
+    "name": "Clever Dagger+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -39422,7 +39644,7 @@
     "refine": false
   },
   "cleverdaggerspd": {
-    "name": "Clever Dagger+ (+Spd)",
+    "name": "Clever Dagger+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -39431,7 +39653,7 @@
     "refine": false
   },
   "cleverdaggerdef": {
-    "name": "Clever Dagger+ (+Def)",
+    "name": "Clever Dagger+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -39440,7 +39662,7 @@
     "refine": false
   },
   "cleverdaggerres": {
-    "name": "Clever Dagger+ (+Res)",
+    "name": "Clever Dagger+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -39456,7 +39678,7 @@
     "refine": "Arcane Thunder"
   },
   "arcanethunderatk": {
-    "name": "Arcane Thunder (+Atk)",
+    "name": "Arcane Thunder (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -39464,7 +39686,7 @@
     "refine": false
   },
   "arcanethunderspd": {
-    "name": "Arcane Thunder (+Spd)",
+    "name": "Arcane Thunder (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -39473,7 +39695,7 @@
     "refine": false
   },
   "arcanethunderdef": {
-    "name": "Arcane Thunder (+Def)",
+    "name": "Arcane Thunder (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -39482,7 +39704,7 @@
     "refine": false
   },
   "arcanethunderres": {
-    "name": "Arcane Thunder (+Res)",
+    "name": "Arcane Thunder (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -39498,7 +39720,7 @@
     "refine": "Arcane Fellstone"
   },
   "arcanefellstoneatk": {
-    "name": "Arcane Fellstone (+Atk)",
+    "name": "Arcane Fellstone (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -39506,7 +39728,7 @@
     "refine": false
   },
   "arcanefellstonespd": {
-    "name": "Arcane Fellstone (+Spd)",
+    "name": "Arcane Fellstone (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -39515,7 +39737,7 @@
     "refine": false
   },
   "arcanefellstonedef": {
-    "name": "Arcane Fellstone (+Def)",
+    "name": "Arcane Fellstone (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -39524,7 +39746,7 @@
     "refine": false
   },
   "arcanefellstoneres": {
-    "name": "Arcane Fellstone (+Res)",
+    "name": "Arcane Fellstone (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -39583,7 +39805,7 @@
     "refine": "Dragonbloom+"
   },
   "dragonbloomatk": {
-    "name": "Dragonbloom+ (+Atk)",
+    "name": "Dragonbloom+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -39591,7 +39813,7 @@
     "refine": false
   },
   "dragonbloomspd": {
-    "name": "Dragonbloom+ (+Spd)",
+    "name": "Dragonbloom+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -39600,7 +39822,7 @@
     "refine": false
   },
   "dragonbloomdef": {
-    "name": "Dragonbloom+ (+Def)",
+    "name": "Dragonbloom+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -39609,7 +39831,7 @@
     "refine": false
   },
   "dragonbloomres": {
-    "name": "Dragonbloom+ (+Res)",
+    "name": "Dragonbloom+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -39632,7 +39854,7 @@
     "refine": "Harp Bow+"
   },
   "harpbowatk": {
-    "name": "Harp Bow+ (+Atk)",
+    "name": "Harp Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -39640,7 +39862,7 @@
     "refine": false
   },
   "harpbowspd": {
-    "name": "Harp Bow+ (+Spd)",
+    "name": "Harp Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -39649,7 +39871,7 @@
     "refine": false
   },
   "harpbowdef": {
-    "name": "Harp Bow+ (+Def)",
+    "name": "Harp Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -39658,7 +39880,7 @@
     "refine": false
   },
   "harpbowres": {
-    "name": "Harp Bow+ (+Res)",
+    "name": "Harp Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -39737,7 +39959,7 @@
     "refine": "Arcane Tempest"
   },
   "arcanetempestatk": {
-    "name": "Arcane Tempest (+Atk)",
+    "name": "Arcane Tempest (Atk)",
     "bonus": {
       "atk": 15,
       "hp": 2
@@ -39745,7 +39967,7 @@
     "refine": false
   },
   "arcanetempestspd": {
-    "name": "Arcane Tempest (+Spd)",
+    "name": "Arcane Tempest (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 2,
@@ -39754,7 +39976,7 @@
     "refine": false
   },
   "arcanetempestdef": {
-    "name": "Arcane Tempest (+Def)",
+    "name": "Arcane Tempest (Def)",
     "bonus": {
       "atk": 14,
       "def": 3,
@@ -39763,7 +39985,7 @@
     "refine": false
   },
   "arcanetempestres": {
-    "name": "Arcane Tempest (+Res)",
+    "name": "Arcane Tempest (Res)",
     "bonus": {
       "atk": 14,
       "res": 3,
@@ -39786,7 +40008,7 @@
     "refine": "Doubler Bow+"
   },
   "doublerbowatk": {
-    "name": "Doubler Bow+ (+Atk)",
+    "name": "Doubler Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -39794,7 +40016,7 @@
     "refine": false
   },
   "doublerbowspd": {
-    "name": "Doubler Bow+ (+Spd)",
+    "name": "Doubler Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -39803,7 +40025,7 @@
     "refine": false
   },
   "doublerbowdef": {
-    "name": "Doubler Bow+ (+Def)",
+    "name": "Doubler Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -39812,7 +40034,7 @@
     "refine": false
   },
   "doublerbowres": {
-    "name": "Doubler Bow+ (+Res)",
+    "name": "Doubler Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -39828,7 +40050,7 @@
     "refine": "Null Spear+"
   },
   "nullspearatk": {
-    "name": "Null Spear+ (+Atk)",
+    "name": "Null Spear+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -39836,7 +40058,7 @@
     "refine": false
   },
   "nullspearspd": {
-    "name": "Null Spear+ (+Spd)",
+    "name": "Null Spear+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -39845,7 +40067,7 @@
     "refine": false
   },
   "nullspeardef": {
-    "name": "Null Spear+ (+Def)",
+    "name": "Null Spear+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -39854,7 +40076,7 @@
     "refine": false
   },
   "nullspearres": {
-    "name": "Null Spear+ (+Res)",
+    "name": "Null Spear+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -39891,7 +40113,7 @@
     "refine": "Sea Tambourine+"
   },
   "seatambourineatk": {
-    "name": "Sea Tambourine+ (+Atk)",
+    "name": "Sea Tambourine+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -39899,7 +40121,7 @@
     "refine": false
   },
   "seatambourinespd": {
-    "name": "Sea Tambourine+ (+Spd)",
+    "name": "Sea Tambourine+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -39908,7 +40130,7 @@
     "refine": false
   },
   "seatambourinedef": {
-    "name": "Sea Tambourine+ (+Def)",
+    "name": "Sea Tambourine+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -39917,7 +40139,7 @@
     "refine": false
   },
   "seatambourineres": {
-    "name": "Sea Tambourine+ (+Res)",
+    "name": "Sea Tambourine+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -39933,7 +40155,7 @@
     "refine": "Tropical Conch+"
   },
   "tropicalconchatk": {
-    "name": "Tropical Conch+ (+Atk)",
+    "name": "Tropical Conch+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -39941,7 +40163,7 @@
     "refine": false
   },
   "tropicalconchspd": {
-    "name": "Tropical Conch+ (+Spd)",
+    "name": "Tropical Conch+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -39950,7 +40172,7 @@
     "refine": false
   },
   "tropicalconchdef": {
-    "name": "Tropical Conch+ (+Def)",
+    "name": "Tropical Conch+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -39959,7 +40181,7 @@
     "refine": false
   },
   "tropicalconchres": {
-    "name": "Tropical Conch+ (+Res)",
+    "name": "Tropical Conch+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -40096,7 +40318,7 @@
     "refine": "Small Spade+"
   },
   "smallspadeatk": {
-    "name": "Small Spade+ (+Atk)",
+    "name": "Small Spade+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -40104,7 +40326,7 @@
     "refine": false
   },
   "smallspadespd": {
-    "name": "Small Spade+ (+Spd)",
+    "name": "Small Spade+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -40113,7 +40335,7 @@
     "refine": false
   },
   "smallspadedef": {
-    "name": "Small Spade+ (+Def)",
+    "name": "Small Spade+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -40122,7 +40344,7 @@
     "refine": false
   },
   "smallspaderes": {
-    "name": "Small Spade+ (+Res)",
+    "name": "Small Spade+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -40145,7 +40367,7 @@
     "refine": "Anchor Axe+"
   },
   "anchoraxeatk": {
-    "name": "Anchor Axe+ (+Atk)",
+    "name": "Anchor Axe+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -40153,7 +40375,7 @@
     "refine": false
   },
   "anchoraxespd": {
-    "name": "Anchor Axe+ (+Spd)",
+    "name": "Anchor Axe+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -40162,7 +40384,7 @@
     "refine": false
   },
   "anchoraxedef": {
-    "name": "Anchor Axe+ (+Def)",
+    "name": "Anchor Axe+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -40171,7 +40393,7 @@
     "refine": false
   },
   "anchoraxeres": {
-    "name": "Anchor Axe+ (+Res)",
+    "name": "Anchor Axe+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -40201,7 +40423,7 @@
     "refine": "Pursual Lance+"
   },
   "pursuallanceatk": {
-    "name": "Pursual Lance+ (+Atk)",
+    "name": "Pursual Lance+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -40209,7 +40431,7 @@
     "refine": false
   },
   "pursuallancespd": {
-    "name": "Pursual Lance+ (+Spd)",
+    "name": "Pursual Lance+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -40218,7 +40440,7 @@
     "refine": false
   },
   "pursuallancedef": {
-    "name": "Pursual Lance+ (+Def)",
+    "name": "Pursual Lance+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -40227,7 +40449,7 @@
     "refine": false
   },
   "pursuallanceres": {
-    "name": "Pursual Lance+ (+Res)",
+    "name": "Pursual Lance+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -40287,7 +40509,7 @@
     "refine": false
   },
   "mercenarylanceatk": {
-    "name": "Mercenary Lance (+Atk)",
+    "name": "Mercenary Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -40295,7 +40517,7 @@
     "refine": false
   },
   "mercenarylancespd": {
-    "name": "Mercenary Lance (+Spd)",
+    "name": "Mercenary Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -40304,7 +40526,7 @@
     "refine": false
   },
   "mercenarylancedef": {
-    "name": "Mercenary Lance (+Def)",
+    "name": "Mercenary Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -40313,7 +40535,7 @@
     "refine": false
   },
   "mercenarylanceres": {
-    "name": "Mercenary Lance (+Res)",
+    "name": "Mercenary Lance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -40337,7 +40559,7 @@
     "refine": false
   },
   "tigereyeaxeatk": {
-    "name": "Tiger-Eye Axe (+Atk)",
+    "name": "Tiger-Eye Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -40345,7 +40567,7 @@
     "refine": false
   },
   "tigereyeaxespd": {
-    "name": "Tiger-Eye Axe (+Spd)",
+    "name": "Tiger-Eye Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -40354,7 +40576,7 @@
     "refine": false
   },
   "tigereyeaxedef": {
-    "name": "Tiger-Eye Axe (+Def)",
+    "name": "Tiger-Eye Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -40363,7 +40585,7 @@
     "refine": false
   },
   "tigereyeaxeres": {
-    "name": "Tiger-Eye Axe (+Res)",
+    "name": "Tiger-Eye Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -40403,7 +40625,7 @@
     "refine": "Juicy Bucketful+"
   },
   "juicybucketfulatk": {
-    "name": "Juicy Bucketful+ (+Atk)",
+    "name": "Juicy Bucketful+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -40411,7 +40633,7 @@
     "refine": false
   },
   "juicybucketfulspd": {
-    "name": "Juicy Bucketful+ (+Spd)",
+    "name": "Juicy Bucketful+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -40420,7 +40642,7 @@
     "refine": false
   },
   "juicybucketfuldef": {
-    "name": "Juicy Bucketful+ (+Def)",
+    "name": "Juicy Bucketful+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -40429,7 +40651,7 @@
     "refine": false
   },
   "juicybucketfulres": {
-    "name": "Juicy Bucketful+ (+Res)",
+    "name": "Juicy Bucketful+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -40445,7 +40667,7 @@
     "refine": "Stall-Game Bow+"
   },
   "stallgamebowatk": {
-    "name": "Stall-Game Bow+ (+Atk)",
+    "name": "Stall-Game Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -40453,7 +40675,7 @@
     "refine": false
   },
   "stallgamebowspd": {
-    "name": "Stall-Game Bow+ (+Spd)",
+    "name": "Stall-Game Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -40462,7 +40684,7 @@
     "refine": false
   },
   "stallgamebowdef": {
-    "name": "Stall-Game Bow+ (+Def)",
+    "name": "Stall-Game Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -40471,7 +40693,7 @@
     "refine": false
   },
   "stallgamebowres": {
-    "name": "Stall-Game Bow+ (+Res)",
+    "name": "Stall-Game Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -40550,7 +40772,7 @@
     "refine": "Ice Dagger+"
   },
   "icedaggeratk": {
-    "name": "Ice Dagger+ (+Atk)",
+    "name": "Ice Dagger+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -40558,7 +40780,7 @@
     "refine": false
   },
   "icedaggerspd": {
-    "name": "Ice Dagger+ (+Spd)",
+    "name": "Ice Dagger+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -40567,7 +40789,7 @@
     "refine": false
   },
   "icedaggerdef": {
-    "name": "Ice Dagger+ (+Def)",
+    "name": "Ice Dagger+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -40576,7 +40798,7 @@
     "refine": false
   },
   "icedaggerres": {
-    "name": "Ice Dagger+ (+Res)",
+    "name": "Ice Dagger+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -40592,7 +40814,7 @@
     "refine": "Ice Dragonstone+"
   },
   "icedragonstoneatk": {
-    "name": "Ice Dragonstone+ (+Atk)",
+    "name": "Ice Dragonstone+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -40600,7 +40822,7 @@
     "refine": false
   },
   "icedragonstonespd": {
-    "name": "Ice Dragonstone+ (+Spd)",
+    "name": "Ice Dragonstone+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -40609,7 +40831,7 @@
     "refine": false
   },
   "icedragonstonedef": {
-    "name": "Ice Dragonstone+ (+Def)",
+    "name": "Ice Dragonstone+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -40618,7 +40840,7 @@
     "refine": false
   },
   "icedragonstoneres": {
-    "name": "Ice Dragonstone+ (+Res)",
+    "name": "Ice Dragonstone+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -40685,7 +40907,7 @@
     "refine": false
   },
   "crimsonlanceatk": {
-    "name": "Crimson Lance (+Atk)",
+    "name": "Crimson Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -40693,7 +40915,7 @@
     "refine": false
   },
   "crimsonlancespd": {
-    "name": "Crimson Lance (+Spd)",
+    "name": "Crimson Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -40702,7 +40924,7 @@
     "refine": false
   },
   "crimsonlancedef": {
-    "name": "Crimson Lance (+Def)",
+    "name": "Crimson Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -40711,7 +40933,7 @@
     "refine": false
   },
   "crimsonlanceres": {
-    "name": "Crimson Lance (+Res)",
+    "name": "Crimson Lance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -40854,7 +41076,7 @@
     "refine": "Bl\u00e1rvulture+"
   },
   "blarvultureatk": {
-    "name": "Bl\u00e1rvulture+ (+Atk)",
+    "name": "Bl\u00e1rvulture+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -40862,7 +41084,7 @@
     "refine": false
   },
   "blarvulturespd": {
-    "name": "Bl\u00e1rvulture+ (+Spd)",
+    "name": "Bl\u00e1rvulture+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -40871,7 +41093,7 @@
     "refine": false
   },
   "blarvulturedef": {
-    "name": "Bl\u00e1rvulture+ (+Def)",
+    "name": "Bl\u00e1rvulture+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -40880,7 +41102,7 @@
     "refine": false
   },
   "blarvultureres": {
-    "name": "Bl\u00e1rvulture+ (+Res)",
+    "name": "Bl\u00e1rvulture+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -40896,7 +41118,7 @@
     "refine": "Up-Front Axe+"
   },
   "upfrontaxeatk": {
-    "name": "Up-Front Axe+ (+Atk)",
+    "name": "Up-Front Axe+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -40904,7 +41126,7 @@
     "refine": false
   },
   "upfrontaxespd": {
-    "name": "Up-Front Axe+ (+Spd)",
+    "name": "Up-Front Axe+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -40913,7 +41135,7 @@
     "refine": false
   },
   "upfrontaxedef": {
-    "name": "Up-Front Axe+ (+Def)",
+    "name": "Up-Front Axe+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -40922,7 +41144,7 @@
     "refine": false
   },
   "upfrontaxeres": {
-    "name": "Up-Front Axe+ (+Res)",
+    "name": "Up-Front Axe+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -40945,7 +41167,7 @@
     "refine": "Gainful Dagger+"
   },
   "gainfuldaggeratk": {
-    "name": "Gainful Dagger+ (+Atk)",
+    "name": "Gainful Dagger+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -40953,7 +41175,7 @@
     "refine": false
   },
   "gainfuldaggerspd": {
-    "name": "Gainful Dagger+ (+Spd)",
+    "name": "Gainful Dagger+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -40962,7 +41184,7 @@
     "refine": false
   },
   "gainfuldaggerdef": {
-    "name": "Gainful Dagger+ (+Def)",
+    "name": "Gainful Dagger+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -40971,7 +41193,7 @@
     "refine": false
   },
   "gainfuldaggerres": {
-    "name": "Gainful Dagger+ (+Res)",
+    "name": "Gainful Dagger+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -41009,7 +41231,7 @@
     "refine": false
   },
   "heavenlyicicleatk": {
-    "name": "Heavenly Icicle (+Atk)",
+    "name": "Heavenly Icicle (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -41017,7 +41239,7 @@
     "refine": false
   },
   "heavenlyiciclespd": {
-    "name": "Heavenly Icicle (+Spd)",
+    "name": "Heavenly Icicle (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -41026,7 +41248,7 @@
     "refine": false
   },
   "heavenlyicicledef": {
-    "name": "Heavenly Icicle (+Def)",
+    "name": "Heavenly Icicle (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -41035,7 +41257,7 @@
     "refine": false
   },
   "heavenlyicicleres": {
-    "name": "Heavenly Icicle (+Res)",
+    "name": "Heavenly Icicle (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -41128,7 +41350,7 @@
     "refine": "Reversal Lance+"
   },
   "reversallanceatk": {
-    "name": "Reversal Lance+ (+Atk)",
+    "name": "Reversal Lance+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41136,7 +41358,7 @@
     "refine": false
   },
   "reversallancespd": {
-    "name": "Reversal Lance+ (+Spd)",
+    "name": "Reversal Lance+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41145,7 +41367,7 @@
     "refine": false
   },
   "reversallancedef": {
-    "name": "Reversal Lance+ (+Def)",
+    "name": "Reversal Lance+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41154,7 +41376,7 @@
     "refine": false
   },
   "reversallanceres": {
-    "name": "Reversal Lance+ (+Res)",
+    "name": "Reversal Lance+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41170,7 +41392,7 @@
     "refine": "Doubler Lance+"
   },
   "doublerlanceatk": {
-    "name": "Doubler Lance+ (+Atk)",
+    "name": "Doubler Lance+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41178,7 +41400,7 @@
     "refine": false
   },
   "doublerlancespd": {
-    "name": "Doubler Lance+ (+Spd)",
+    "name": "Doubler Lance+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41187,7 +41409,7 @@
     "refine": false
   },
   "doublerlancedef": {
-    "name": "Doubler Lance+ (+Def)",
+    "name": "Doubler Lance+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41196,7 +41418,7 @@
     "refine": false
   },
   "doublerlanceres": {
-    "name": "Doubler Lance+ (+Res)",
+    "name": "Doubler Lance+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41262,7 +41484,7 @@
     "refine": "Doubler Sword+"
   },
   "doublerswordatk": {
-    "name": "Doubler Sword+ (+Atk)",
+    "name": "Doubler Sword+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41270,7 +41492,7 @@
     "refine": false
   },
   "doublerswordspd": {
-    "name": "Doubler Sword+ (+Spd)",
+    "name": "Doubler Sword+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41279,7 +41501,7 @@
     "refine": false
   },
   "doublersworddef": {
-    "name": "Doubler Sword+ (+Def)",
+    "name": "Doubler Sword+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41288,7 +41510,7 @@
     "refine": false
   },
   "doublerswordres": {
-    "name": "Doubler Sword+ (+Res)",
+    "name": "Doubler Sword+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41425,7 +41647,7 @@
     "refine": "Pursual Axe+"
   },
   "pursualaxeatk": {
-    "name": "Pursual Axe+ (+Atk)",
+    "name": "Pursual Axe+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41433,7 +41655,7 @@
     "refine": false
   },
   "pursualaxespd": {
-    "name": "Pursual Axe+ (+Spd)",
+    "name": "Pursual Axe+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41442,7 +41664,7 @@
     "refine": false
   },
   "pursualaxedef": {
-    "name": "Pursual Axe+ (+Def)",
+    "name": "Pursual Axe+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41451,7 +41673,7 @@
     "refine": false
   },
   "pursualaxeres": {
-    "name": "Pursual Axe+ (+Res)",
+    "name": "Pursual Axe+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41467,7 +41689,7 @@
     "refine": "Campaign Lance+"
   },
   "campaignlanceatk": {
-    "name": "Campaign Lance+ (+Atk)",
+    "name": "Campaign Lance+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41475,7 +41697,7 @@
     "refine": false
   },
   "campaignlancespd": {
-    "name": "Campaign Lance+ (+Spd)",
+    "name": "Campaign Lance+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41484,7 +41706,7 @@
     "refine": false
   },
   "campaignlancedef": {
-    "name": "Campaign Lance+ (+Def)",
+    "name": "Campaign Lance+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41493,7 +41715,7 @@
     "refine": false
   },
   "campaignlanceres": {
-    "name": "Campaign Lance+ (+Res)",
+    "name": "Campaign Lance+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41601,7 +41823,7 @@
     "refine": "Snaking Bow+"
   },
   "snakingbowatk": {
-    "name": "Snaking Bow+ (+Atk)",
+    "name": "Snaking Bow+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -41609,7 +41831,7 @@
     "refine": false
   },
   "snakingbowspd": {
-    "name": "Snaking Bow+ (+Spd)",
+    "name": "Snaking Bow+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -41618,7 +41840,7 @@
     "refine": false
   },
   "snakingbowdef": {
-    "name": "Snaking Bow+ (+Def)",
+    "name": "Snaking Bow+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -41627,7 +41849,7 @@
     "refine": false
   },
   "snakingbowres": {
-    "name": "Snaking Bow+ (+Res)",
+    "name": "Snaking Bow+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -41713,7 +41935,7 @@
     "refine": "Helping Dagger+"
   },
   "helpingdaggeratk": {
-    "name": "Helping Dagger+ (+Atk)",
+    "name": "Helping Dagger+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -41721,7 +41943,7 @@
     "refine": false
   },
   "helpingdaggerspd": {
-    "name": "Helping Dagger+ (+Spd)",
+    "name": "Helping Dagger+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -41730,7 +41952,7 @@
     "refine": false
   },
   "helpingdaggerdef": {
-    "name": "Helping Dagger+ (+Def)",
+    "name": "Helping Dagger+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -41739,7 +41961,7 @@
     "refine": false
   },
   "helpingdaggerres": {
-    "name": "Helping Dagger+ (+Res)",
+    "name": "Helping Dagger+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -41755,7 +41977,7 @@
     "refine": "Campaign Blade+"
   },
   "campaignbladeatk": {
-    "name": "Campaign Blade+ (+Atk)",
+    "name": "Campaign Blade+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41763,7 +41985,7 @@
     "refine": false
   },
   "campaignbladespd": {
-    "name": "Campaign Blade+ (+Spd)",
+    "name": "Campaign Blade+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41772,7 +41994,7 @@
     "refine": false
   },
   "campaignbladedef": {
-    "name": "Campaign Blade+ (+Def)",
+    "name": "Campaign Blade+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41781,7 +42003,7 @@
     "refine": false
   },
   "campaignbladeres": {
-    "name": "Campaign Blade+ (+Res)",
+    "name": "Campaign Blade+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41803,7 +42025,7 @@
     "refine": "Jehanna Dagger+"
   },
   "jehannadaggeratk": {
-    "name": "Jehanna Dagger+ (+Atk)",
+    "name": "Jehanna Dagger+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -41811,7 +42033,7 @@
     "refine": false
   },
   "jehannadaggerspd": {
-    "name": "Jehanna Dagger+ (+Spd)",
+    "name": "Jehanna Dagger+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -41820,7 +42042,7 @@
     "refine": false
   },
   "jehannadaggerdef": {
-    "name": "Jehanna Dagger+ (+Def)",
+    "name": "Jehanna Dagger+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -41829,7 +42051,7 @@
     "refine": false
   },
   "jehannadaggerres": {
-    "name": "Jehanna Dagger+ (+Res)",
+    "name": "Jehanna Dagger+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -41857,7 +42079,7 @@
     "refine": "Jehanna Lance+"
   },
   "jehannalanceatk": {
-    "name": "Jehanna Lance+ (+Atk)",
+    "name": "Jehanna Lance+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -41865,7 +42087,7 @@
     "refine": false
   },
   "jehannalancespd": {
-    "name": "Jehanna Lance+ (+Spd)",
+    "name": "Jehanna Lance+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -41874,7 +42096,7 @@
     "refine": false
   },
   "jehannalancedef": {
-    "name": "Jehanna Lance+ (+Def)",
+    "name": "Jehanna Lance+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -41883,7 +42105,7 @@
     "refine": false
   },
   "jehannalanceres": {
-    "name": "Jehanna Lance+ (+Res)",
+    "name": "Jehanna Lance+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -41919,7 +42141,7 @@
     "refine": false
   },
   "aeriallongswordatk": {
-    "name": "Aerial Longsword (+Atk)",
+    "name": "Aerial Longsword (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -41927,7 +42149,7 @@
     "refine": false
   },
   "aeriallongswordspd": {
-    "name": "Aerial Longsword (+Spd)",
+    "name": "Aerial Longsword (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -41936,7 +42158,7 @@
     "refine": false
   },
   "aeriallongsworddef": {
-    "name": "Aerial Longsword (+Def)",
+    "name": "Aerial Longsword (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -41945,7 +42167,7 @@
     "refine": false
   },
   "aeriallongswordres": {
-    "name": "Aerial Longsword (+Res)",
+    "name": "Aerial Longsword (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -42038,7 +42260,7 @@
     "refine": "Devoted Cup+"
   },
   "devotedcupatk": {
-    "name": "Devoted Cup+ (+Atk)",
+    "name": "Devoted Cup+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -42046,7 +42268,7 @@
     "refine": false
   },
   "devotedcupspd": {
-    "name": "Devoted Cup+ (+Spd)",
+    "name": "Devoted Cup+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -42055,7 +42277,7 @@
     "refine": false
   },
   "devotedcupdef": {
-    "name": "Devoted Cup+ (+Def)",
+    "name": "Devoted Cup+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -42064,7 +42286,7 @@
     "refine": false
   },
   "devotedcupres": {
-    "name": "Devoted Cup+ (+Res)",
+    "name": "Devoted Cup+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -42136,7 +42358,7 @@
     "refine": "Gronnlantern+"
   },
   "gronnlanternatk": {
-    "name": "Gronnlantern+ (+Atk)",
+    "name": "Gronnlantern+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -42144,7 +42366,7 @@
     "refine": false
   },
   "gronnlanternspd": {
-    "name": "Gronnlantern+ (+Spd)",
+    "name": "Gronnlantern+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -42153,7 +42375,7 @@
     "refine": false
   },
   "gronnlanterndef": {
-    "name": "Gronnlantern+ (+Def)",
+    "name": "Gronnlantern+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -42162,7 +42384,7 @@
     "refine": false
   },
   "gronnlanternres": {
-    "name": "Gronnlantern+ (+Res)",
+    "name": "Gronnlantern+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -42207,7 +42429,7 @@
     "refine": "Spring-Air Egg+"
   },
   "springaireggatk": {
-    "name": "Spring-Air Egg+ (+Atk)",
+    "name": "Spring-Air Egg+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -42215,7 +42437,7 @@
     "refine": false
   },
   "springaireggspd": {
-    "name": "Spring-Air Egg+ (+Spd)",
+    "name": "Spring-Air Egg+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -42224,7 +42446,7 @@
     "refine": false
   },
   "springaireggdef": {
-    "name": "Spring-Air Egg+ (+Def)",
+    "name": "Spring-Air Egg+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -42233,7 +42455,7 @@
     "refine": false
   },
   "springaireggres": {
-    "name": "Spring-Air Egg+ (+Res)",
+    "name": "Spring-Air Egg+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -42258,7 +42480,7 @@
     "refine": "Spring-Air Axe+"
   },
   "springairaxeatk": {
-    "name": "Spring-Air Axe+ (+Atk)",
+    "name": "Spring-Air Axe+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -42266,7 +42488,7 @@
     "refine": false
   },
   "springairaxespd": {
-    "name": "Spring-Air Axe+ (+Spd)",
+    "name": "Spring-Air Axe+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -42275,7 +42497,7 @@
     "refine": false
   },
   "springairaxedef": {
-    "name": "Spring-Air Axe+ (+Def)",
+    "name": "Spring-Air Axe+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -42284,7 +42506,7 @@
     "refine": false
   },
   "springairaxeres": {
-    "name": "Spring-Air Axe+ (+Res)",
+    "name": "Spring-Air Axe+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -42349,7 +42571,7 @@
     "refine": "Hexblade Sword+"
   },
   "hexbladeswordatk": {
-    "name": "Hexblade Sword+ (+Atk)",
+    "name": "Hexblade Sword+ (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -42357,7 +42579,7 @@
     "refine": false
   },
   "hexbladeswordspd": {
-    "name": "Hexblade Sword+ (+Spd)",
+    "name": "Hexblade Sword+ (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -42366,7 +42588,7 @@
     "refine": false
   },
   "hexbladesworddef": {
-    "name": "Hexblade Sword+ (+Def)",
+    "name": "Hexblade Sword+ (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -42375,7 +42597,7 @@
     "refine": false
   },
   "hexbladeswordres": {
-    "name": "Hexblade Sword+ (+Res)",
+    "name": "Hexblade Sword+ (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -42398,7 +42620,7 @@
     "refine": "Rau\u00f0rcrab+"
   },
   "raudrcrabatk": {
-    "name": "Rau\u00f0rcrab+ (+Atk)",
+    "name": "Rau\u00f0rcrab+ (Atk)",
     "bonus": {
       "atk": 13,
       "hp": 2
@@ -42406,7 +42628,7 @@
     "refine": false
   },
   "raudrcrabspd": {
-    "name": "Rau\u00f0rcrab+ (+Spd)",
+    "name": "Rau\u00f0rcrab+ (Spd)",
     "bonus": {
       "atk": 12,
       "spd": 2,
@@ -42415,7 +42637,7 @@
     "refine": false
   },
   "raudrcrabdef": {
-    "name": "Rau\u00f0rcrab+ (+Def)",
+    "name": "Rau\u00f0rcrab+ (Def)",
     "bonus": {
       "atk": 12,
       "def": 3,
@@ -42424,7 +42646,7 @@
     "refine": false
   },
   "raudrcrabres": {
-    "name": "Rau\u00f0rcrab+ (+Res)",
+    "name": "Rau\u00f0rcrab+ (Res)",
     "bonus": {
       "atk": 12,
       "res": 3,
@@ -42455,7 +42677,7 @@
     "refine": false
   },
   "taciturnaxeatk": {
-    "name": "Taciturn Axe (+Atk)",
+    "name": "Taciturn Axe (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -42463,7 +42685,7 @@
     "refine": false
   },
   "taciturnaxespd": {
-    "name": "Taciturn Axe (+Spd)",
+    "name": "Taciturn Axe (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -42472,7 +42694,7 @@
     "refine": false
   },
   "taciturnaxedef": {
-    "name": "Taciturn Axe (+Def)",
+    "name": "Taciturn Axe (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -42481,7 +42703,7 @@
     "refine": false
   },
   "taciturnaxeres": {
-    "name": "Taciturn Axe (+Res)",
+    "name": "Taciturn Axe (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -42554,7 +42776,7 @@
     "refine": false
   },
   "proudspearatk": {
-    "name": "Proud Spear (+Atk)",
+    "name": "Proud Spear (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -42562,7 +42784,7 @@
     "refine": false
   },
   "proudspearspd": {
-    "name": "Proud Spear (+Spd)",
+    "name": "Proud Spear (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -42571,7 +42793,7 @@
     "refine": false
   },
   "proudspeardef": {
-    "name": "Proud Spear (+Def)",
+    "name": "Proud Spear (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -42580,7 +42802,7 @@
     "refine": false
   },
   "proudspearres": {
-    "name": "Proud Spear (+Res)",
+    "name": "Proud Spear (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -42674,6 +42896,258 @@
     },
     "refine": false
   },
+  "noblebow": {
+    "name": "Noble Bow (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Noble Bow"
+  },
+  "nobleboweff": {
+    "name": "Noble Bow (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "noblebowatk": {
+    "name": "Noble Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "noblebowspd": {
+    "name": "Noble Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "noblebowdef": {
+    "name": "Noble Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "noblebowres": {
+    "name": "Noble Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "tomeofgrief": {
+    "name": "Tome of Grief (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Tome of Grief"
+  },
+  "tomeofgriefeff": {
+    "name": "Tome of Grief (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "tomeofgriefatk": {
+    "name": "Tome of Grief (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "tomeofgriefspd": {
+    "name": "Tome of Grief (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "tomeofgriefdef": {
+    "name": "Tome of Grief (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "tomeofgriefres": {
+    "name": "Tome of Grief (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "arcanecrest": {
+    "name": "Arcane Crest (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Arcane Crest"
+  },
+  "arcanecrestatk": {
+    "name": "Arcane Crest (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanecrestspd": {
+    "name": "Arcane Crest (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanecrestdef": {
+    "name": "Arcane Crest (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanecrestres": {
+    "name": "Arcane Crest (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "fellchildsarts": {
+    "name": "Fell Child's Arts",
+    "bonus": {
+      "atk": 11
+    },
+    "refine": false
+  },
+  "fellchildsblade": {
+    "name": "Fell Child's Blade",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "martyrsstaff": {
+    "name": "Martyr's Staff",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "ironhreidmarr": {
+    "name": "Iron Hrei\u00f0marr",
+    "bonus": {
+      "atk": 19
+    },
+    "refine": false
+  },
+  "lovingbouquets": {
+    "name": "Loving Bouquets",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "brilliantbrident": {
+    "name": "Brilliant Brident",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "bridalbouquet": {
+    "name": "Bridal Bouquet+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Bridal Bouquet+"
+  },
+  "bridalbouquetatk": {
+    "name": "Bridal Bouquet+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "bridalbouquetspd": {
+    "name": "Bridal Bouquet+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "bridalbouquetdef": {
+    "name": "Bridal Bouquet+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "bridalbouquetres": {
+    "name": "Bridal Bouquet+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "legacyaxe": {
+    "name": "Legacy Axe",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "bouquetbaton": {
+    "name": "Bouquet Baton+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Bouquet Baton+"
+  },
+  "bouquetbatoneff": {
+    "name": "Bouquet Baton+ (Eff)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": false
+  },
+  "finalsword": {
+    "name": "Final Sword",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -42690,7 +43164,7 @@
     "refine": false
   },
   "petulantlanceatk": {
-    "name": "Petulant Lance (+Atk)",
+    "name": "Petulant Lance (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -42698,7 +43172,7 @@
     "refine": false
   },
   "petulantlancespd": {
-    "name": "Petulant Lance (+Spd)",
+    "name": "Petulant Lance (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -42707,7 +43181,7 @@
     "refine": false
   },
   "petulantlancedef": {
-    "name": "Petulant Lance (+Def)",
+    "name": "Petulant Lance (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -42716,7 +43190,7 @@
     "refine": false
   },
   "petulantlanceres": {
-    "name": "Petulant Lance (+Res)",
+    "name": "Petulant Lance (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,
@@ -42872,7 +43346,7 @@
     "refine": "Arcane Fury Bite"
   },
   "arcanefurybiteatk": {
-    "name": "Arcane Fury Bite (+Atk)",
+    "name": "Arcane Fury Bite (Atk)",
     "bonus": {
       "atk": 16,
       "hp": 5
@@ -42880,7 +43354,7 @@
     "refine": false
   },
   "arcanefurybitespd": {
-    "name": "Arcane Fury Bite (+Spd)",
+    "name": "Arcane Fury Bite (Spd)",
     "bonus": {
       "atk": 14,
       "spd": 3,
@@ -42889,7 +43363,7 @@
     "refine": false
   },
   "arcanefurybitedef": {
-    "name": "Arcane Fury Bite (+Def)",
+    "name": "Arcane Fury Bite (Def)",
     "bonus": {
       "atk": 14,
       "def": 4,
@@ -42898,7 +43372,7 @@
     "refine": false
   },
   "arcanefurybiteres": {
-    "name": "Arcane Fury Bite (+Res)",
+    "name": "Arcane Fury Bite (Res)",
     "bonus": {
       "atk": 14,
       "res": 4,
@@ -42942,7 +43416,7 @@
     "refine": "Arcane Cake"
   },
   "arcanecakeatk": {
-    "name": "Arcane Cake (+Atk)",
+    "name": "Arcane Cake (Atk)",
     "bonus": {
       "atk": 18,
       "hp": 5
@@ -42950,7 +43424,7 @@
     "refine": false
   },
   "arcanecakespd": {
-    "name": "Arcane Cake (+Spd)",
+    "name": "Arcane Cake (Spd)",
     "bonus": {
       "atk": 16,
       "spd": 3,
@@ -42959,7 +43433,7 @@
     "refine": false
   },
   "arcanecakedef": {
-    "name": "Arcane Cake (+Def)",
+    "name": "Arcane Cake (Def)",
     "bonus": {
       "atk": 16,
       "def": 4,
@@ -42968,7 +43442,7 @@
     "refine": false
   },
   "arcanecakeres": {
-    "name": "Arcane Cake (+Res)",
+    "name": "Arcane Cake (Res)",
     "bonus": {
       "atk": 16,
       "res": 4,

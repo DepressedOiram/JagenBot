@@ -7845,7 +7845,8 @@
         "reginn4": "3",
         "roy6": "3",
         "alm6": "3",
-        "alfonse7": "3"
+        "alfonse7": "3",
+        "jormungandr": "3"
       }
     },
     "refine": {},
@@ -8067,7 +8068,8 @@
         "miklan": "4",
         "reginn4": "4",
         "roy6": "4",
-        "alm6": "4"
+        "alm6": "4",
+        "jormungandr": "4"
       }
     },
     "refine": {},
@@ -12522,7 +12524,8 @@
         "lukas2": "5",
         "mbyleth4": "4",
         "myrrh5": "4",
-        "marni": "4"
+        "marni": "4",
+        "jormungandr": "4"
       },
       "Wary Fighter 2": {},
       "Wary Fighter 1": {}
@@ -96843,7 +96846,8 @@
         "blackknight2": "5",
         "hector6": "5",
         "gatekeeper2": "4",
-        "louis": "4"
+        "louis": "4",
+        "jormungandr": "4"
       },
       "D/R Far Save 2": {},
       "D/R Far Save 1": {}
@@ -128714,7 +128718,13 @@
         "yuliya": "5"
       }
     },
-    "refine": {},
+    "refine": {
+      "special": [
+        "Calculates damage from staff like other weapons.",
+        "Foe cannot counterattack."
+      ],
+      "description": false
+    },
     "icon": false,
     "HARD_ALT_NAME": [
       "Normal Yuliya",
@@ -147490,7 +147500,13 @@
         "lana": "5"
       }
     },
-    "refine": {},
+    "refine": {
+      "special": [
+        "Calculates damage from staff like other weapons.",
+        "Foe cannot counterattack."
+      ],
+      "description": false
+    },
     "icon": false,
     "HARD_ALT_NAME": [
       "bouqeutbaton",
@@ -150077,7 +150093,13 @@
         "linoan": "5"
       }
     },
-    "refine": {},
+    "refine": {
+      "special": [
+        "Calculates damage from staff like other weapons.",
+        "Foe cannot counterattack."
+      ],
+      "description": false
+    },
     "icon": false,
     "HARD_ALT_NAME": [
       "inthefold",
@@ -154850,8 +154872,8 @@
       "Gullveig: Hidden in Time",
       "Ninja Gullveig",
       "N Gullveig",
-      "Duo Gullveig",
-      "D Gullveig",
+      "Duo Gullveig 2",
+      "D Gullveig 2",
       "gullveig4"
     ],
     "ALT_NAME": [],
@@ -155678,6 +155700,10 @@
       "Harmonized Brave Ike",
       "H B Ike",
       "B H Ike",
+      "Harmonic Braver Ike",
+      "Harmonized Braver Ike",
+      "Braver Harmonic Ike",
+      "Braver Harmonized Ike",
       "ike9"
     ],
     "ALT_NAME": [],
@@ -155863,9 +155889,14 @@
       "Harmonic Brave Lyn",
       "Harmonized Brave Lyn",
       "Brave Harmonic Lyn",
-      "Harmonized Brave Lyn",
+      "Brave Harmonized Lyn",
       "H B Lyn",
       "B H Lyn",
+      "Harmonic Braver Lyn",
+      "Harmonized Braver Lyn",
+      "Braver Harmonic Lyn",
+      "Braver Harmonized Lyn",
+      "Braver Lyn",
       "lyn11"
     ],
     "ALT_NAME": [],
@@ -159875,9 +159906,14 @@
       "Harmonic Brave Celica",
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
-      "Harmonized Brave Celica",
+      "Brave Harmonized Celica",
       "H B Celica",
       "B H Celica",
+      "Harmonic Braver Celica",
+      "Harmonized Braver Celica",
+      "Braver Harmonic Celica",
+      "Braver Harmonized Celica",
+      "Braver Celica",
       "celica8"
     ],
     "ALT_NAME": [],
@@ -159996,6 +160032,7 @@
     "icon": false,
     "HARD_ALT_NAME": [
       "Heroic Maltet",
+      "Into the Fray",
       "Hector: Into the Fray",
       "Harmonic Hector",
       "Harmonized Hector",
@@ -160012,9 +160049,14 @@
       "Harmonic Brave Hector",
       "Harmonized Brave Hector",
       "Brave Harmonic Hector",
-      "Harmonized Brave Hector",
+      "Brave Harmonized Hector",
       "H B Hector",
       "B H Hector",
+      "Harmonic Braver Hector",
+      "Harmonized Braver Hector",
+      "Braver Harmonic Hector",
+      "Braver Harmonized Hector",
+      "Braver Hector",
       "hector8"
     ],
     "ALT_NAME": [],
@@ -160053,7 +160095,8 @@
     "reference": {
       "Armored Flare": {
         "hector8": "5",
-        "edelgard9": "5"
+        "edelgard9": "5",
+        "jormungandr": "5"
       }
     },
     "icon": false,
@@ -164691,9 +164734,14 @@
       "Harmonic Brave Alm",
       "Harmonized Brave Alm",
       "Brave Harmonic Alm",
-      "Harmonized Brave Alm",
+      "Brave Harmonized Alm",
       "H B Alm",
       "B H Alm",
+      "Harmonic Braver Alm",
+      "Harmonized Braver Alm",
+      "Braver Harmonic Alm",
+      "Braver Harmonized Alm",
+      "Braver Alm",
       "alm6"
     ],
     "ALT_NAME": [],
@@ -164810,9 +164858,14 @@
       "Harmonic Brave Micaiah",
       "Harmonized Brave Micaiah",
       "Brave Harmonic Micaiah",
-      "Harmonized Brave Micaiah",
+      "Brave Harmonized Micaiah",
       "H B Micaiah",
       "B H Micaiah",
+      "Harmonic Braver Micaiah",
+      "Harmonized Braver Micaiah",
+      "Braver Harmonic Micaiah",
+      "Braver Harmonized Micaiah",
+      "Braver Micaiah",
       "micaiah9"
     ],
     "ALT_NAME": [],
@@ -165065,13 +165118,30 @@
       }
     ],
     "reference": {
-      "Serpent's Fang": {}
+      "Serpent's Fang": {
+        "jormungandr": "5"
+      }
     },
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
       "Serpent's Fang",
-      "Serpents Fang"
+      "Serpents Fang",
+      "Dormant God",
+      "J\u00f6rmungandr: Dormant God",
+      "Base J\u00f6rmungandr",
+      "Normal J\u00f6rmungandr",
+      "Regular J\u00f6rmungandr",
+      "Mythic J\u00f6rmungandr",
+      "M J\u00f6rmungandr",
+      "j\u00f6rmungandr",
+      "Jormungandr: Dormant God",
+      "Base Jormungandr",
+      "Normal Jormungandr",
+      "Regular Jormungandr",
+      "Mythic Jormungandr",
+      "M Jormungandr",
+      "jormungandr"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -165471,7 +165541,12 @@
             "Colorless_Beast"
           ]
         ],
-        "restriction_movement": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
         "description": "At start of turn, grants Atk/Spd\u3010Great Talent\u3011+1 to unit.\nAfter combat, if unit attacked, grants Atk/Spd\u3010Great Talent\u3011+4 to unit.\nInflicts Spd/Def-4 on foe, neutralizes unit's penalties to Atk/Spd, unit deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and grants Special cooldown count-1 to unit before unit's first attack during combat.\n(This skill grants max of\u3010Great Talent\u3011+20.)\n\u3010Great Talent\u3011\nAdds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects)."
       }
     ],
@@ -165559,5 +165634,117 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_lc214"
+  },
+  "relax": {
+    "name": "Relax",
+    "skill": [
+      {
+        "name": "Relax",
+        "description": "Grants HP+5.\nIf unit can transform, transformation effects gain \"if unit is within 2 spaces of a beast or dragon ally, or if number of adjacent allies other than beast or dragon allies \u2264 2\" as a trigger condition (in addition to existing conditions).\nIf defending in Aether Raids, at the start of enemy turn 1, if conditions for transforming are met, unit transforms.\nAt start of player phase or enemy phase, grants\u3010Relax\u3011and\u3010Imbue\u3011to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+9 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and grants Special cooldown count-2 to unit before foe's first attack during combat.\n\u3010Relax\u3011\nGrants Atk/Spd/Def/Res+4 to unit, grants an additional bonus to unit's Atk/Spd/Def/Res = highest penalty on each stat between allies within 2 spaces of unit (calculates each stat bonus independently), neutralizes penalties on unit, and reduces damage from foe's attacks by 7 during combat (including area-of-effect Specials; excluding Røkkr area-of-effect Specials).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "hp": 5
+        }
+      }
+    ],
+    "reference": {
+      "Relax": {
+        "jormungandr": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2722,
+    "HARD_ALT_NAME": [
+      "Relax"
+    ],
+    "ALT_NAME": [
+      "Relax (Passive)"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "ironfighter": {
+    "name": "Iron Fighter",
+    "skill": [
+      {
+        "name": "Iron Fighter",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Wary Fighter 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "Inflicts Atk/Def/Res-4 on foe, deals damage = 25% of unit's Def (excluding area-of-effect Specials), reduces damage from foe's attacks by 25% of unit's Def (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat.\nIf foe initiates combat and unit's Def ≥ foe's Def+5, and if the number of spaces from unit's space to foe's space is \u2265 4 or if it is unit's first combat initiated by foe this turn where the number of spaces from unit's space to foe's space is \u2264 3, reduces damage from foe's follow-up attack to a maximum of 1 during combat."
+      }
+    ],
+    "reference": {
+      "Iron Fighter": {
+        "jormungandr": "5"
+      }
+    },
+    "icon": 2723,
+    "HARD_ALT_NAME": [
+      "Iron Fighter"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "drbriarfsave": {
+    "name": "D R Briar F Save",
+    "skill": [
+      {
+        "name": "D/R Briar F Save",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "D/R Far Save 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "If foe with Range = 2 initiates combat against an ally within 2 spaces of unit, triggers \u3010Savior\u3011on unit.\nIf foe's Range = 2, grants Def/Res+4 to unit during combat, and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and unit's next attack deals damage = 40% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack).\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects.\nSavior will not trigger if ally is on terrain that unit cannot move to or if multiple units are able to use Savior during the same combat. If Savior triggers, after-combat movement effects do not occur."
+      }
+    ],
+    "reference": {
+      "D/R Briar F Save": {
+        "jormungandr": "5"
+      }
+    },
+    "icon": 2724,
+    "HARD_ALT_NAME": [
+      "D/R Briar F Save"
+    ],
+    "ALT_NAME": [
+      "D/R Briar Far Save",
+      "Def/Res Briar F Save",
+      "Def/Res Briar Far Save",
+      "Defense/Resistance Briar F Save",
+      "Defense/Resistance Briar Far Save"
+    ],
+    "slot": "Passive C",
+    "wpn": false
   }
 }

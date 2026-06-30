@@ -6534,6 +6534,30 @@
         },
         "HARD_ALT_NAME": []
     },
+    "relax": {
+        "name": "Relax",
+        "description": "Grants Atk/Spd/Def/Res+4 to unit, grants an additional bonus to unit's Atk/Spd/Def/Res = highest penalty on each stat between allies within 2 spaces of unit (calculates each stat bonus independently), neutralizes penalties on unit, and reduces damage from foe's attacks by 7 during combat (including area-of-effect Specials; excluding Røkkr area-of-effect Specials).",
+        "color": "Colorless",
+        "icon": "relax",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Relax"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Relax (Keyword",
+            "Relax (Status)"
+        ]
+    },
     "reposition": {
         "name": "Reposition",
         "description": "Range = 1. Target moves to opposite side of unit.",

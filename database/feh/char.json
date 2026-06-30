@@ -110023,12 +110023,12 @@
       "bernadetta4"
     ],
     "prf": {
-      "": "hrist",
-      "eff": "hrist",
-      "atk": "hrist",
-      "spd": "hrist",
-      "def": "hrist",
-      "res": "hrist"
+      "": "hristeff",
+      "eff": "hristeff",
+      "atk": "hristatk",
+      "spd": "hristspd",
+      "def": "hristdef",
+      "res": "hristres"
     }
   },
   "hilda2": {
@@ -116142,12 +116142,12 @@
       "marianne3"
     ],
     "prf": {
-      "": "icyfimbulvetr",
-      "eff": "icyfimbulvetr",
-      "atk": "icyfimbulvetr",
-      "spd": "icyfimbulvetr",
-      "def": "icyfimbulvetr",
-      "res": "icyfimbulvetr"
+      "": "icyfimbulvetreff",
+      "eff": "icyfimbulvetreff",
+      "atk": "icyfimbulvetratk",
+      "spd": "icyfimbulvetrspd",
+      "def": "icyfimbulvetrdef",
+      "res": "icyfimbulvetrres"
     }
   },
   "solon": {
@@ -117704,12 +117704,12 @@
       "louise2"
     ],
     "prf": {
-      "": "noblebow",
-      "eff": "noblebow",
-      "atk": "noblebow",
-      "spd": "noblebow",
-      "def": "noblebow",
-      "res": "noblebow"
+      "": "nobleboweff",
+      "eff": "nobleboweff",
+      "atk": "noblebowatk",
+      "spd": "noblebowspd",
+      "def": "noblebowdef",
+      "res": "noblebowres"
     }
   },
   "pent": {
@@ -119971,12 +119971,12 @@
       "mmorgan"
     ],
     "prf": {
-      "": "tomeofdespair",
-      "eff": "tomeofdespair",
-      "atk": "tomeofdespair",
-      "spd": "tomeofdespair",
-      "def": "tomeofdespair",
-      "res": "tomeofdespair"
+      "": "tomeofdespaireff",
+      "eff": "tomeofdespaireff",
+      "atk": "tomeofdespairatk",
+      "spd": "tomeofdespairspd",
+      "def": "tomeofdespairdef",
+      "res": "tomeofdespairres"
     }
   },
   "fmorgan2": {
@@ -125575,12 +125575,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "tomeofgrief",
-      "eff": "tomeofgrief",
-      "atk": "tomeofgrief",
-      "spd": "tomeofgrief",
-      "def": "tomeofgrief",
-      "res": "tomeofgrief"
+      "": "tomeofgriefeff",
+      "eff": "tomeofgriefeff",
+      "atk": "tomeofgriefatk",
+      "spd": "tomeofgriefspd",
+      "def": "tomeofgriefdef",
+      "res": "tomeofgriefres"
     }
   },
   "ullr": {
@@ -147177,12 +147177,12 @@
       "myrrh5"
     ],
     "prf": {
-      "": "godlybreath",
-      "eff": "godlybreath",
-      "atk": "godlybreath",
-      "spd": "godlybreath",
-      "def": "godlybreath",
-      "res": "godlybreath"
+      "": "godlybreatheff",
+      "eff": "godlybreatheff",
+      "atk": "godlybreathatk",
+      "spd": "godlybreathspd",
+      "def": "godlybreathdef",
+      "res": "godlybreathres"
     }
   },
   "letizia": {
@@ -153376,12 +153376,12 @@
       "deirdre"
     ],
     "prf": {
-      "": "spiritforestwrit",
-      "eff": "spiritforestwrit",
-      "atk": "spiritforestwrit",
-      "spd": "spiritforestwrit",
-      "def": "spiritforestwrit",
-      "res": "spiritforestwrit"
+      "": "spiritforestwriteff",
+      "eff": "spiritforestwriteff",
+      "atk": "spiritforestwritatk",
+      "spd": "spiritforestwritspd",
+      "def": "spiritforestwritdef",
+      "res": "spiritforestwritres"
     }
   },
   "tana4": {
@@ -224137,12 +224137,12 @@
       "dedue2"
     ],
     "prf": {
-      "": "arcanecrest",
-      "eff": "arcanecrest",
-      "atk": "arcanecrest",
-      "spd": "arcanecrest",
-      "def": "arcanecrest",
-      "res": "arcanecrest"
+      "": "arcanecrestdef",
+      "eff": "arcanecrestdef",
+      "atk": "arcanecrestatk",
+      "spd": "arcanecrestspd",
+      "def": "arcanecrestdef",
+      "res": "arcanecrestres"
     }
   },
   "falear4": {
@@ -225444,12 +225444,12 @@
       "tine"
     ],
     "prf": {
-      "": "bridalbouquet",
-      "eff": "bridalbouquet",
-      "atk": "bridalbouquet",
-      "spd": "bridalbouquet",
-      "def": "bridalbouquet",
-      "res": "bridalbouquet"
+      "": "bridalbouquetspd",
+      "eff": "bridalbouquetspd",
+      "atk": "bridalbouquetatk",
+      "spd": "bridalbouquetspd",
+      "def": "bridalbouquetdef",
+      "res": "bridalbouquetres"
     }
   },
   "seliph4": {
@@ -225822,12 +225822,12 @@
     "alt": true,
     "reference": [],
     "prf": {
-      "": "bouquetbaton",
-      "eff": "bouquetbaton",
-      "atk": "bouquetbaton",
-      "spd": "bouquetbaton",
-      "def": "bouquetbaton",
-      "res": "bouquetbaton"
+      "": "bouquetbatoneff",
+      "eff": "bouquetbatoneff",
+      "atk": "bouquetbatoneff",
+      "spd": "bouquetbatoneff",
+      "def": "bouquetbatoneff",
+      "res": "bouquetbatoneff"
     }
   },
   "blackknight3": {
@@ -236978,8 +236978,8 @@
       "Gullveig: Hidden in Time",
       "Ninja Gullveig",
       "N Gullveig",
-      "Duo Gullveig",
-      "D Gullveig",
+      "Duo Gullveig 2",
+      "D Gullveig 2",
       "gullveig4"
     ],
     "HARD_ALT_NAME": [
@@ -236987,8 +236987,8 @@
       "Gullveig: Hidden in Time",
       "Ninja Gullveig",
       "N Gullveig",
-      "Duo Gullveig",
-      "D Gullveig",
+      "Duo Gullveig 2",
+      "D Gullveig 2",
       "gullveig4"
     ],
     "gender": "F",
@@ -238295,6 +238295,10 @@
       "Harmonized Brave Ike",
       "H B Ike",
       "B H Ike",
+      "Harmonic Braver Ike",
+      "Harmonized Braver Ike",
+      "Braver Harmonic Ike",
+      "Braver Harmonized Ike",
       "ike9"
     ],
     "HARD_ALT_NAME": [
@@ -238318,6 +238322,10 @@
       "Harmonized Brave Ike",
       "H B Ike",
       "B H Ike",
+      "Harmonic Braver Ike",
+      "Harmonized Braver Ike",
+      "Braver Harmonic Ike",
+      "Braver Harmonized Ike",
       "ike9"
     ],
     "gender": "M",
@@ -238521,9 +238529,14 @@
       "Harmonic Brave Lyn",
       "Harmonized Brave Lyn",
       "Brave Harmonic Lyn",
-      "Harmonized Brave Lyn",
+      "Brave Harmonized Lyn",
       "H B Lyn",
       "B H Lyn",
+      "Harmonic Braver Lyn",
+      "Harmonized Braver Lyn",
+      "Braver Harmonic Lyn",
+      "Braver Harmonized Lyn",
+      "Braver Lyn",
       "lyn11"
     ],
     "HARD_ALT_NAME": [
@@ -238544,9 +238557,14 @@
       "Harmonic Brave Lyn",
       "Harmonized Brave Lyn",
       "Brave Harmonic Lyn",
-      "Harmonized Brave Lyn",
+      "Brave Harmonized Lyn",
       "H B Lyn",
       "B H Lyn",
+      "Harmonic Braver Lyn",
+      "Harmonized Braver Lyn",
+      "Braver Harmonic Lyn",
+      "Braver Harmonized Lyn",
+      "Braver Lyn",
       "lyn11"
     ],
     "gender": "F",
@@ -244342,9 +244360,14 @@
       "Harmonic Brave Celica",
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
-      "Harmonized Brave Celica",
+      "Brave Harmonized Celica",
       "H B Celica",
       "B H Celica",
+      "Harmonic Braver Celica",
+      "Harmonized Braver Celica",
+      "Braver Harmonic Celica",
+      "Braver Harmonized Celica",
+      "Braver Celica",
       "celica8"
     ],
     "HARD_ALT_NAME": [
@@ -244363,9 +244386,14 @@
       "Harmonic Brave Celica",
       "Harmonized Brave Celica",
       "Brave Harmonic Celica",
-      "Harmonized Brave Celica",
+      "Brave Harmonized Celica",
       "H B Celica",
       "B H Celica",
+      "Harmonic Braver Celica",
+      "Harmonized Braver Celica",
+      "Braver Harmonic Celica",
+      "Braver Harmonized Celica",
+      "Braver Celica",
       "celica8"
     ],
     "gender": "F",
@@ -244517,11 +244545,7 @@
       "Silver Lance": "3",
       "Heroic Maltet": "5" 
     },
-    "assist": {
-      "Rally Defense": "3",
-      "Rally Def/Res": "4",
-      "Rally Def/Res+": "5"
-    },
+    "assist": {},
     "special": {
       "Glowing Ember": "3",
       "Ignis": "4",
@@ -244570,9 +244594,14 @@
       "Harmonic Brave Hector",
       "Harmonized Brave Hector",
       "Brave Harmonic Hector",
-      "Harmonized Brave Hector",
+      "Brave Harmonized Hector",
       "H B Hector",
       "B H Hector",
+      "Harmonic Braver Hector",
+      "Harmonized Braver Hector",
+      "Braver Harmonic Hector",
+      "Braver Harmonized Hector",
+      "Braver Hector",
       "hector8"
     ],
     "HARD_ALT_NAME": [
@@ -244593,9 +244622,14 @@
       "Harmonic Brave Hector",
       "Harmonized Brave Hector",
       "Brave Harmonic Hector",
-      "Harmonized Brave Hector",
+      "Brave Harmonized Hector",
       "H B Hector",
       "B H Hector",
+      "Harmonic Braver Hector",
+      "Harmonized Braver Hector",
+      "Braver Harmonic Hector",
+      "Braver Harmonized Hector",
+      "Braver Hector",
       "hector8"
     ],
     "gender": "M",
@@ -250964,9 +250998,14 @@
       "Harmonic Brave Alm",
       "Harmonized Brave Alm",
       "Brave Harmonic Alm",
-      "Harmonized Brave Alm",
+      "Brave Harmonized Alm",
       "H B Alm",
       "B H Alm",
+      "Harmonic Braver Alm",
+      "Harmonized Braver Alm",
+      "Braver Harmonic Alm",
+      "Braver Harmonized Alm",
+      "Braver Alm",
       "alm6"
     ],
     "HARD_ALT_NAME": [
@@ -250989,9 +251028,14 @@
       "Harmonic Brave Alm",
       "Harmonized Brave Alm",
       "Brave Harmonic Alm",
-      "Harmonized Brave Alm",
+      "Brave Harmonized Alm",
       "H B Alm",
       "B H Alm",
+      "Harmonic Braver Alm",
+      "Harmonized Braver Alm",
+      "Braver Harmonic Alm",
+      "Braver Harmonized Alm",
+      "Braver Alm",
       "alm6"
     ],
     "gender": "M",
@@ -251195,9 +251239,14 @@
       "Harmonic Brave Micaiah",
       "Harmonized Brave Micaiah",
       "Brave Harmonic Micaiah",
-      "Harmonized Brave Micaiah",
+      "Brave Harmonized Micaiah",
       "H B Micaiah",
       "B H Micaiah",
+      "Harmonic Braver Micaiah",
+      "Harmonized Braver Micaiah",
+      "Braver Harmonic Micaiah",
+      "Braver Harmonized Micaiah",
+      "Braver Micaiah",
       "micaiah9"
     ],
     "HARD_ALT_NAME": [
@@ -251218,9 +251267,14 @@
       "Harmonic Brave Micaiah",
       "Harmonized Brave Micaiah",
       "Brave Harmonic Micaiah",
-      "Harmonized Brave Micaiah",
+      "Brave Harmonized Micaiah",
       "H B Micaiah",
       "B H Micaiah",
+      "Harmonic Braver Micaiah",
+      "Harmonized Braver Micaiah",
+      "Braver Harmonic Micaiah",
+      "Braver Harmonized Micaiah",
+      "Braver Micaiah",
       "micaiah9"
     ],
     "gender": "F",
@@ -252392,6 +252446,198 @@
       "spd": "beachumbrella",
       "def": "beachumbrella",
       "res": "beachumbrella"
+    }
+  },
+  "jormungandr": {
+    "name": "J\u00f6rmungandr",
+    "title": "Dormant God",
+    "description": "God of rest and indolence. She wishes for humans to live their lives in leisure.",
+    "origin": "Heroes",
+    "artist": "Yoshiku (\u56db\u3005\u4e5d)",
+    "move": "Armored",
+    "weapon": "Beast",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1390",
+    "type": "legendary",
+    "version": "10.6",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 24,
+      "atk": 14,
+      "spd": 3,
+      "def": 10,
+      "res": 11
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 75,
+      "spd": 35,
+      "def": 90,
+      "res": 85
+    },
+    "superboon": [
+      "def"
+    ],
+    "superbane": [
+      "atk"
+    ],
+    "weapons": {
+      "Whelp (Armored)": "1",
+      "Yearling (Arm.)": "2",
+      "Adult (Armored)": "3",
+      "Serpent's Fang": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Armored Flare": "5"
+    },
+    "passive": {
+      "A": {
+        "Relax": "5"
+      },
+      "B": {
+        "Wary Fighter 1": "2",
+        "Wary Fighter 2": "3",
+        "Wary Fighter 3": "4",
+        "Iron Fighter": "5"
+      },
+      "C": {
+        "D/R Far Save 1": "2",
+        "D/R Far Save 2": "3",
+        "D/R Far Save 3": "4",
+        "D/R Briar F Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Jormungandr_Dormant_God_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Jormungandr_Dormant_God_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Jormungandr_Dormant_God_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Jormungandr_Dormant_God_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Dormant God",
+      "J\u00f6rmungandr: Dormant God",
+      "Base J\u00f6rmungandr",
+      "Normal J\u00f6rmungandr",
+      "Regular J\u00f6rmungandr",
+      "Mythic J\u00f6rmungandr",
+      "M J\u00f6rmungandr",
+      "j\u00f6rmungandr",
+      "Jormungandr: Dormant God",
+      "Base Jormungandr",
+      "Normal Jormungandr",
+      "Regular Jormungandr",
+      "Mythic Jormungandr",
+      "M Jormungandr",
+      "jormungandr"
+    ],
+    "HARD_ALT_NAME": [
+      "Dormant God",
+      "J\u00f6rmungandr: Dormant God",
+      "Base J\u00f6rmungandr",
+      "Normal J\u00f6rmungandr",
+      "Regular J\u00f6rmungandr",
+      "Mythic J\u00f6rmungandr",
+      "M J\u00f6rmungandr",
+      "j\u00f6rmungandr",
+      "Jormungandr: Dormant God",
+      "Base Jormungandr",
+      "Normal Jormungandr",
+      "Regular Jormungandr",
+      "Mythic Jormungandr",
+      "M Jormungandr",
+      "jormungandr"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u30e8\u30eb\u30e0\u30f3\u30ac\u30f3\u30c9\u5473\u65b9",
+    "voice": "Jennifer Sun Bell",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Askr is sooo wonderful... Perhaps I'll dig myself a cozy hole for a nap. You don't mind, do you?",
+        "*yawn* So...sleepy... Huh? What was I doing again?",
+        "Th\u00f3rr is far too hard on mortals. My wish for them is to live carefree. Tell me, which of us do you like more?",
+        "Try not to work too hard. You should relaaax and unwind...",
+        "Who, me? I'm not doing anything. That's right, nooothing at all."
+      ],
+      "Visit": [
+        "It was a lot of work bringing you this letter. *yawn* Hm? Oh, uh...it's from [F]."
+      ],
+      "Level": [
+        "Hoo-wee... I really tuckered myself out. But it was worth it for you, [S].",
+        "This requires quite a lot of effort, don't you think?",
+        "Is it really worth working so hard? Why don't we take a break?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am J\u00f6rmungandr. I'm not a war god like Th\u00f3rr. Rather, I'm the god of relaxation. Try to unwind, OK?"
+      ],
+      "Learn Skill": [
+        "Thank you, but there's no need to be so considerate. Thinking about others too much is really draining."
+      ],
+      "Confession": [
+        "Facing your foe in battle or avoiding the fight altogether... Which do you prefer, [S]?\nTh\u00f3rr will tell you that, win or lose, battles lead to growth and strength. Run and you can't grow stronger.\nBut I see things differently... Why fight if you don't have to? Strength's not the most important thing, after all.\nEven without it, we can live happy, comfortable lives. Take it from me\u2014 relaxation is true bliss."
+      ],
+      "Special": [
+        "I guess I'll try.",
+        "Just relax.",
+        "Let's unwind.",
+        "Nice and easy."
+      ],
+      "Status": [
+        "-",
+        "I am J\u00f6rmungandr. What I want is simply to relax...",
+        "Hmm? Sorry about that. I guess I zoned out.",
+        "Ugh... What is it with \"talking\"? It's a lot of work, don't you think\u2014moving your mouth to make sounds...",
+        "Th\u00f3rr, Th\u00f3rr... She tries so hard. Isn't it tiring?",
+        "The desire to live an easy life... So honest. So human.",
+        "Ah, my pillow is so soft... Just hugging it puts me to sleep.",
+        "No need to try. Feel free to relax as much as you want."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Mind if I wait?",
+        "Time to decompress."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "J\u00f6rmungandr",
+    "SEARCH_NAME": "J\u00f6rmungandr",
+    "DISPLAY_NAME": "<:Colorless_Beast:1317239395534901248>J\u00f6rmungandr",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "serpentsfang",
+      "eff": "serpentsfang",
+      "atk": "serpentsfang",
+      "spd": "serpentsfang",
+      "def": "serpentsfang",
+      "res": "serpentsfang"
+    },
+    "blessing": "Astra",
+    "boost": {
+      "hp": 5,
+      "def": 5
     }
   }
 }

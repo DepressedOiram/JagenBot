@@ -1682,7 +1682,10 @@
                     "mag": 1
                 }
             }
-        }
+        },
+        "ALT_NAME": [
+            "felicia2"
+        ]
     },
     "flora": {
         "name": "Flora",
@@ -2868,7 +2871,10 @@
                     "skl": 2
                 }
             }
-        }
+        },
+        "ALT_NAME": [
+            "jakob2"
+        ]
     },
     "kana": {
         "name": "Kana",

@@ -4229,6 +4229,10 @@
     "forge": 0,
     "type": "tome",
     "equip": {
+      "stats": {
+        "def": -5,
+        "res": -5
+      },
       "doubling_speed": -5
     }
   },
