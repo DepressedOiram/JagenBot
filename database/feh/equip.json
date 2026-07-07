@@ -25745,9 +25745,52 @@
     "refine": false
   },
   "renewedfang": {
-    "name": "Renewed Fang",
+    "name": "Renewed Fang (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Renewed Fang"
+  },
+  "renewedfangeff": {
+    "name": "Renewed Fang (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 14
+    },
+    "refine": false
+  },
+  "renewedfangatk": {
+    "name": "Renewed Fang (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "renewedfangspd": {
+    "name": "Renewed Fang (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "renewedfangdef": {
+    "name": "Renewed Fang (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14,
+      "def": 4
+    },
+    "refine": false
+  },
+  "renewedfangres": {
+    "name": "Renewed Fang (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14,
+      "res": 4
     },
     "refine": false
   },
@@ -27612,9 +27655,52 @@
     "refine": false
   },
   "twincrestpower": {
-    "name": "Twin-Crest Power",
+    "name": "Twin-Crest Power (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Twin-Crest Power"
+  },
+  "twincrestpowereff": {
+    "name": "Twin-Crest Power (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 14
+    },
+    "refine": false
+  },
+  "twincrestpoweratk": {
+    "name": "Twin-Crest Power (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "twincrestpowerspd": {
+    "name": "Twin-Crest Power (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "twincrestpowerdef": {
+    "name": "Twin-Crest Power (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14,
+      "def": 4
+    },
+    "refine": false
+  },
+  "twincrestpowerres": {
+    "name": "Twin-Crest Power (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 14,
+      "res": 4
     },
     "refine": false
   },
@@ -27711,9 +27797,51 @@
     "refine": false
   },
   "rosequartzbow": {
-    "name": "Rose-Quartz Bow",
+    "name": "Rose-Quartz Bow (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Rose-Quartz Bow"
+  },
+  "rosequartzboweff": {
+    "name": "Rose-Quartz Bow (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "rosequartzbowatk": {
+    "name": "Rose-Quartz Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "rosequartzbowspd": {
+    "name": "Rose-Quartz Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "rosequartzbowdef": {
+    "name": "Rose-Quartz Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "rosequartzbowres": {
+    "name": "Rose-Quartz Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -27823,9 +27951,64 @@
     "refine": false
   },
   "ladyblade": {
-    "name": "Ladyblade",
+    "name": "Ladyblade (Unrefined)",
     "bonus": {
       "atk": 11,
+      "spd": -5
+    },
+    "refine": "Ladyblade"
+  },
+  "ladybladeeff": {
+    "name": "Ladyblade (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "def": 5,
+      "res": 5,
+      "spd": -5
+    },
+    "refine": false
+  },
+  "ladybladeatk": {
+    "name": "Ladyblade (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18,
+      "def": 5,
+      "res": 5,
+      "spd": -5
+    },
+    "refine": false
+  },
+  "ladybladespd": {
+    "name": "Ladyblade (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 5,
+      "res": 5,
+      "spd": -2
+    },
+    "refine": false
+  },
+  "ladybladedef": {
+    "name": "Ladyblade (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 8,
+      "res": 5,
+      "spd": -5
+    },
+    "refine": false
+  },
+  "ladybladeres": {
+    "name": "Ladyblade (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 5,
+      "res": 8,
       "spd": -5
     },
     "refine": false
@@ -30344,9 +30527,51 @@
     "refine": false
   },
   "bladeofjehanna": {
-    "name": "Blade of Jehanna",
+    "name": "Blade of Jehanna (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Blade of Jehanna"
+  },
+  "bladeofjehannaeff": {
+    "name": "Blade of Jehanna (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "bladeofjehannaatk": {
+    "name": "Blade of Jehanna (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "bladeofjehannaspd": {
+    "name": "Blade of Jehanna (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "bladeofjehannadef": {
+    "name": "Blade of Jehanna (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "bladeofjehannares": {
+    "name": "Blade of Jehanna (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -30877,10 +31102,56 @@
     "refine": false
   },
   "sellspelltome": {
-    "name": "Sell-Spell Tome",
+    "name": "Sell-Spell Tome (Unrefined)",
     "bonus": {
       "atk": 14,
       "spd": 3
+    },
+    "refine": "Sell-Spell Tome"
+  },
+  "sellspelltomeeff": {
+    "name": "Sell-Spell Tome (Eff)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "sellspelltomeatk": {
+    "name": "Sell-Spell Tome (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "sellspelltomespd": {
+    "name": "Sell-Spell Tome (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 5
+    },
+    "refine": false
+  },
+  "sellspelltomedef": {
+    "name": "Sell-Spell Tome (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "def": 3
+    },
+    "refine": false
+  },
+  "sellspelltomeres": {
+    "name": "Sell-Spell Tome (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "res": 3
     },
     "refine": false
   },
@@ -35484,9 +35755,51 @@
     "refine": false
   },
   "heidr": {
-    "name": "Hei\u00f0r",
+    "name": "Hei\u00f0r (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Hei\u00f0r"
+  },
+  "heidreff": {
+    "name": "Hei\u00f0r (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "heidratk": {
+    "name": "Hei\u00f0r (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "heidrspd": {
+    "name": "Hei\u00f0r (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "heidrdef": {
+    "name": "Hei\u00f0r (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "heidrres": {
+    "name": "Hei\u00f0r (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -35549,9 +35862,51 @@
     "refine": false
   },
   "radiantaureola": {
-    "name": "Radiant Aureola",
+    "name": "Radiant Aureola (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Radiant Aureola"
+  },
+  "radiantaureolaeff": {
+    "name": "Radiant Aureola (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "radiantaureolaatk": {
+    "name": "Radiant Aureola (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "radiantaureolaspd": {
+    "name": "Radiant Aureola (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "radiantaureoladef": {
+    "name": "Radiant Aureola (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "radiantaureolares": {
+    "name": "Radiant Aureola (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -43148,6 +43503,364 @@
     },
     "refine": false
   },
+  "generaltobe": {
+    "name": "General-to-Be (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "General-to-Be"
+  },
+  "generaltobeeff": {
+    "name": "General-to-Be (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "generaltobeatk": {
+    "name": "General-to-Be (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "generaltobespd": {
+    "name": "General-to-Be (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "generaltobedef": {
+    "name": "General-to-Be (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "generaltoberes": {
+    "name": "General-to-Be (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "visionofdaein": {
+    "name": "Vision of Daein (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Vision of Daein"
+  },
+  "visionofdaeineff": {
+    "name": "Vision of Daein (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "visionofdaeinatk": {
+    "name": "Vision of Daein (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "visionofdaeinspd": {
+    "name": "Vision of Daein (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "visionofdaeindef": {
+    "name": "Vision of Daein (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "visionofdaeinres": {
+    "name": "Vision of Daein (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "kindredtome": {
+    "name": "Kindred Tome",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "arcanehexbow": {
+    "name": "Arcane Hex Bow (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Arcane Hex Bow"
+  },
+  "arcanehexbowatk": {
+    "name": "Arcane Hex Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "arcanehexbowspd": {
+    "name": "Arcane Hex Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "arcanehexbowdef": {
+    "name": "Arcane Hex Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "arcanehexbowres": {
+    "name": "Arcane Hex Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "obstinatebreath": {
+    "name": "Obstinate Breath+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Obstinate Breath+"
+  },
+  "obstinatebreathatk": {
+    "name": "Obstinate Breath+ (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "obstinatebreathspd": {
+    "name": "Obstinate Breath+ (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "obstinatebreathdef": {
+    "name": "Obstinate Breath+ (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "obstinatebreathres": {
+    "name": "Obstinate Breath+ (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "despairingbreath": {
+    "name": "Despairing Breath",
+    "bonus": {
+      "atk": 16,
+      "res": 3
+    },
+    "refine": false
+  },
+  "raudrsparrow": {
+    "name": "Rau\u00f0rsparrow+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Rau\u00f0rsparrow+"
+  },
+  "raudrsparrowatk": {
+    "name": "Rau\u00f0rsparrow+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "raudrsparrowspd": {
+    "name": "Rau\u00f0rsparrow+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "raudrsparrowdef": {
+    "name": "Rau\u00f0rsparrow+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "raudrsparrowres": {
+    "name": "Rau\u00f0rsparrow+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "gjallarhorn": {
+    "name": "Gjallarhorn",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "piousoffering": {
+    "name": "Pious Offering",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "fanninfoliage": {
+    "name": "Fannin' Foliage+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Fannin' Foliage+"
+  },
+  "fanninfoliageatk": {
+    "name": "Fannin' Foliage+ (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "fanninfoliagespd": {
+    "name": "Fannin' Foliage+ (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "fanninfoliagedef": {
+    "name": "Fannin' Foliage+ (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "fanninfoliageres": {
+    "name": "Fannin' Foliage+ (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "bouncinball": {
+    "name": "Bouncin' Ball",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "haulinharpoon": {
+    "name": "Haulin' Harpoon",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "tropicaljuice": {
+    "name": "Tropical Juice+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Tropical Juice+"
+  },
+  "tropicaljuiceatk": {
+    "name": "Tropical Juice+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "tropicaljuicespd": {
+    "name": "Tropical Juice+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "tropicaljuicedef": {
+    "name": "Tropical Juice+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "tropicaljuiceres": {
+    "name": "Tropical Juice+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "maidenstome": {
+    "name": "Maiden's Tome",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -43608,6 +44321,141 @@
     "name": "Beach Umbrella",
     "bonus": {
       "atk": 16
+    },
+    "refine": false
+  },
+  "herosgreataxe": {
+    "name": "Hero's Greataxe (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Hero's Greataxe"
+  },
+  "herosgreataxeeff": {
+    "name": "Hero's Greataxe (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "herosgreataxeatk": {
+    "name": "Hero's Greataxe (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "herosgreataxespd": {
+    "name": "Hero's Greataxe (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "herosgreataxedef": {
+    "name": "Hero's Greataxe (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "herosgreataxeres": {
+    "name": "Hero's Greataxe (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeoftroubles": {
+    "name": "Axe of Troubles (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Axe of Troubles"
+  },
+  "axeoftroubleseff": {
+    "name": "Axe of Troubles (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "axeoftroublesatk": {
+    "name": "Axe of Troubles (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeoftroublesspd": {
+    "name": "Axe of Troubles (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeoftroublesdef": {
+    "name": "Axe of Troubles (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeoftroublesres": {
+    "name": "Axe of Troubles (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "guidinglance": {
+    "name": "Guiding Lance",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "dourbaton": {
+    "name": "Dour Baton",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "greilflag": {
+    "name": "Greil Flag",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "chiseledantler": {
+    "name": "Chiseled Antler",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "groa": {
+    "name": "Gr\u00f3a",
+    "bonus": {
+      "atk": 14
     },
     "refine": false
   }

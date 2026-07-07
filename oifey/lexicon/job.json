@@ -49,6 +49,11 @@
         "Forrest Knight"
     ],
     "Hero": [
+        "Forrest",
+        "Forester"
+    ],
+    "Forester": [
+        "Hero",
         "Forrest"
     ],
     "Master of Arms": [

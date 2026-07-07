@@ -146,6 +146,7 @@
                 ],
                 "Colorless_Tome": [
                     "Darkness Tome",
+                    "Dour Baton",
                     "Scrolls of Time"
                 ]
             },
@@ -159,6 +160,7 @@
                 "Atk/Spd Hexedge",
                 "Already Dead",
                 "Final Say",
+                "Long-Dead",
                 "Slate Illusion",
                 "Tunnel Vision"
             ],
@@ -486,11 +488,14 @@
                 "Razing Breath",
                 "Zephyr Breath"
             ],
-            "Beast": []
+            "Beast": [
+                "Chiseled Antler"
+            ]
         },
         "reference_skill": {
             "assist": [
                 "A Fate Changed!",
+                "Gold Serpent+",
                 "Pleasant Night",
                 "Tender Vision"
             ],
@@ -684,7 +689,9 @@
             "B": [],
             "C": [
                 "Atk/Spd Faith",
+                "A/S Tenet Hone",
                 "Spd/Res Faith",
+                "D/R Tenet Hone",
                 "Darkling Guard II"
             ],
             "X": [],
@@ -809,6 +816,7 @@
                 "Draw Back Gait",
                 "Reposition Gait",
                 "Gold Serpent",
+                "Gold Serpent+",
                 "Tender Dream"
             ],
             "special": [
@@ -900,6 +908,7 @@
                 "Salvage"
             ],
             "Bow": [
+                "Rose-Quartz Bow",
                 "Royal Exalt Bow"
             ],
             "Dagger": [
@@ -1382,7 +1391,8 @@
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [
-                    "Gift of Love"
+                    "Gift of Love",
+                    "Gr\u00f3a"
                 ],
                 "Green_Tome": [],
                 "Colorless_Tome": [
@@ -1459,6 +1469,7 @@
                 "Bound by Ice"
             ],
             "Beast": [
+                "Chiseled Antler",
                 "Horn of the Land"
             ]
         },
@@ -2166,6 +2177,7 @@
             "special": [
                 "Aether's Course",
                 "Aether's Path",
+                "Aether's Route",
                 "Life Unending II"
             ],
             "A": [],
@@ -2356,6 +2368,7 @@
             ],
             "Dagger": [
                 "Abyssal Blade",
+                "Blade of Jehanna",
                 "Constant Dagger",
                 "Hidden Blade"
             ],
@@ -2411,6 +2424,7 @@
                 "Yune's Protection"
             ],
             "C": [
+                "Pulse Follow Con",
                 "11th Deadlord",
                 "Budding Flower",
                 "Covetous One",
@@ -2611,6 +2625,7 @@
             "captain": []
         },
         "reference_hero": {
+            "fbyleth6": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Trainer Byleth",
             "heidrun2": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>New Year Hei\u00f0r\u00fan"
         },
         "HARD_ALT_NAME": [
@@ -2946,6 +2961,7 @@
                 "Future Gaze"
             ],
             "special": [
+                "Divine Rumble",
                 "Sei\u00f0r Cannon"
             ],
             "A": [
@@ -3089,7 +3105,24 @@
         "description": "Grants Atk/Spd/Def/Res+4 to unit during combat.\nWhen a foe triggers both \"grants the\u3010Bonus\u3011 effects active on foe\" and \"neutralizes any \u3010Bonus\u3011active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any\u3010Bonus\u3011effects active on that foe (does not neutralize\u3010Bonus\u3011 effects applied at the same time).",
         "color": "Green",
         "icon": "draincancel",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": [
+                "Chiseled Antler"
+            ]
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -3133,7 +3166,8 @@
         },
         "reference_skill": {
             "assist": [
-                "Gold Serpent"
+                "Gold Serpent",
+                "Gold Serpent+"
             ],
             "special": [],
             "A": [],
@@ -3349,6 +3383,7 @@
                 "Abyssal Blade",
                 "Asura Blades",
                 "Athame",
+                "Blade of Jehanna",
                 "Covert Duality",
                 "Spy's Shuriken"
             ],
@@ -3361,6 +3396,7 @@
                     "Clever Notations",
                     "Divine Whimsy",
                     "Eagle's Egg",
+                    "Gr\u00f3a",
                     "Icy Fimbulvetr",
                     "Instructor's Opus",
                     "Tome of Storms"
@@ -3420,6 +3456,7 @@
                 "Def/Res Ploy 3",
                 "Preempt: Ploy",
                 "Pulse Up: Ploy",
+                "Pulse Follow Con",
                 "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
@@ -3594,7 +3631,9 @@
                 "Red_Tome": [],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Radiant Aureola"
+                ]
             },
             "Breath": [
                 "Awakening Voice"
@@ -4165,8 +4204,12 @@
         "description": "Adds value of Great Talent (+X) to specified stats (until end of battle; max value of X is determined by the stat reaching the limit of 99, each stat calculated separately and cannot exceed max value for each skill; stat increases are not treated as Bonus effects).",
         "color": "Colorless",
         "reference_weapon": {
-            "Sword": [],
-            "Lance": [],
+            "Sword": [
+                "Greil Flag"
+            ],
+            "Lance": [
+                "Guiding Lance"
+            ],
             "Axe": [],
             "Staff": [],
             "Bow": [
@@ -5169,7 +5212,9 @@
             "Bow": [
                 "Howling Bow"
             ],
-            "Dagger": [],
+            "Dagger": [
+                "Blade of Jehanna"
+            ],
             "Tome": {
                 "Red_Tome": [
                     "Dark Scripture",
@@ -5252,7 +5297,9 @@
                 "Green_Tome": [
                     "Tome of Reglay"
                 ],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Radiant Aureola"
+                ]
             },
             "Breath": [
                 "Ancient Voice",
@@ -5412,6 +5459,7 @@
                 "Frostfire Breath"
             ],
             "Beast": [
+                "Chiseled Antler",
                 "Tempered Antler"
             ]
         },
@@ -5739,6 +5787,7 @@
                 ],
                 "Green_Tome": [
                     "Chaos Manifest",
+                    "Hei\u00f0r",
                     "Kindred Tome",
                     "K\u00f6rmt",
                     "Light of Dawn",
@@ -5967,7 +6016,8 @@
             ],
             "Staff": [],
             "Bow": [
-                "Lady's Bow"
+                "Lady's Bow",
+                "Rose-Quartz Bow"
             ],
             "Dagger": [],
             "Tome": {
@@ -6063,7 +6113,8 @@
                     "Gla\u00f0sb\u00f3k"
                 ],
                 "Colorless_Tome": [
-                    "Bitter Winter"
+                    "Bitter Winter",
+                    "Dour Baton"
                 ]
             },
             "Breath": [],
@@ -6075,6 +6126,7 @@
             "assist": [],
             "special": [
                 "Blazing Lion",
+                "Divine Rumble",
                 "Sei\u00f0r Cannon",
                 "Sirius Pulse",
                 "True Bane"
@@ -6093,7 +6145,8 @@
                 "Yngvi Ascendant+"
             ],
             "C": [
-                "Budding Flower"
+                "Budding Flower",
+                "New Way II"
             ],
             "X": [
                 "Puissant Echo"
@@ -6104,6 +6157,7 @@
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Potent 100",
+            "Potent 100%",
             "Potent Follow 100%"
         ]
     },
@@ -6217,6 +6271,27 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "profsguidanceskill": {
+        "name": "Prof's Guidance Skill",
+        "description": "While unit lives, unit gets 2\u00d7 SP after combat or after using an Assist skill (only highest value applied; does not stack).\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and grants Special cooldown count-1 after combat.",
+        "color": "Colorless",
+        "icon": "profsguidanceskill",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Divine Rumble"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "pulsefollow": {
         "name": "Pulse Follow",
         "description": "Grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.",
@@ -6231,7 +6306,8 @@
             "Axe": [],
             "Staff": [],
             "Bow": [
-                "Rapid-Crier Bow"
+                "Rapid-Crier Bow",
+                "Rose-Quartz Bow"
             ],
             "Dagger": [
                 "Arcane Slicer"
@@ -6245,7 +6321,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Long-Dead"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -6293,7 +6380,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Aether's Route"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Radiant Hero"
@@ -6632,6 +6730,7 @@
             "anna5": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Halloween Anna",
             "ayra2":"<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Maid Ayra",
             "azura6": "<:feh_harmonized:1317239586929377371><:Green_Tome:1317239575352971396>Hatari Azura",
+            "fbyleth6": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Trainer Byleth",
             "caeda4": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Summer Caeda",
             "catria4":"<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Bridal Catria",
             "celica7": "<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Summer Celica",
@@ -6713,6 +6812,7 @@
         },
         "reference_hero": {
             "anna5": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Halloween Anna",
+            "fbyleth6": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Trainer Byleth",
             "dorothea3": "<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Plegian Dorothea",
             "edelgard5": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Summer Edelgard",
             "goldmary": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary",
@@ -6845,12 +6945,14 @@
                 "Blue_Tome": [
                     "Ancient Trickery",
                     "Argent Aura",
+                    "Gr\u00f3a",
                     "Instructor's Opus",
                     "Total War Tome"
                 ],
                 "Green_Tome": [
                     "Grafcalibur",
                     "Grim Brokkr",
+                    "Hei\u00f0r",
                     "Nova"
                 ],
                 "Colorless_Tome": [
@@ -7245,7 +7347,9 @@
             "Beast": []
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Gold Serpent+"
+            ],
             "special": [
                 "Windfire Charm",
                 "Deluge Charm"
@@ -7298,6 +7402,7 @@
                     "Clever Notations"
                 ],
                 "Green_Tome": [
+                    "Hei\u00f0r",
                     "Sothis's Wrath"
                 ],
                 "Colorless_Tome": []
@@ -7513,6 +7618,7 @@
             "Lance": [
                 "Chosen Lance",
                 "Godly Devices",
+                "Guiding Lance",
                 "Holy Gradivus"
             ],
             "Axe": [
@@ -7598,7 +7704,9 @@
             "Beast": []
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Gold Serpent+"
+            ],
             "special": [
                 "Future and Past",
                 "Light Is Time"
@@ -7622,7 +7730,24 @@
         "description": "Inflicts Atk/Spd/Def/Res-4 during combat. Neutralizes unit's skills during allies' combat through unit's next action.",
         "color": "Blue",
         "icon": "timesgrip",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [
+                    "Gr\u00f3a"
+                ],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -7733,7 +7858,8 @@
             "assist": [
                 "Dragon's Dance II",
                 "Future Sight",
-                "Gold Serpent"
+                "Gold Serpent",
+                "Gold Serpent+"
             ],
             "special": [],
             "A": [],
@@ -7866,7 +7992,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Long-Dead"
+            ],
             "B": [],
             "C": [
                 "Strat Assault 4",

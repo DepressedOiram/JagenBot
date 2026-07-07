@@ -14209,7 +14209,8 @@
       "tharja4",
       "tharja5",
       "tharja6",
-      "tharja7"
+      "tharja7",
+      "tharja8"
     ],
     "prf": {
       "": "tharjashexeff",
@@ -23790,7 +23791,8 @@
       "ike6",
       "ike7",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "ragnelleff",
@@ -31404,7 +31406,8 @@
       "ike6",
       "ike7",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "urvaneff",
@@ -37490,7 +37493,8 @@
       "tharja4",
       "tharja5",
       "tharja6",
-      "tharja7"
+      "tharja7",
+      "tharja8"
     ],
     "prf": {
       "": "candelabrares",
@@ -40522,7 +40526,8 @@
       "ike6",
       "ike7",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "ragnelleff",
@@ -47737,7 +47742,8 @@
       "tharja4",
       "tharja5",
       "tharja6",
-      "tharja7"
+      "tharja7",
+      "tharja8"
     ],
     "prf": {
       "": "muspellfireposyeff",
@@ -49789,15 +49795,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30d8\u30af\u30c8\u30eb",
     "voice": "Patrick Seitz",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "DAI-XT.",
+    "resplendent_voice": "Patrick Seitz",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Hector_Marquess_of_Ostia_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/94/Hector_Marquess_of_Ostia_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a2/Hector_Marquess_of_Ostia_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Hector_Marquess_of_Ostia_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Hector_Marquess_of_Ostia_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Hector_Marquess_of_Ostia_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Hector_Marquess_of_Ostia_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Hector_Marquess_of_Ostia_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "elibe"
     ],
@@ -49853,7 +49864,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "You die here.",
+          "Death will claim you!",
+          "It's over!",
+          "I will crush you."
+        ],
+        "Status": [
+          "Gloomy.",
+          "Hold. You think this outfit suits me?! Are you serious?",
+          "Whoa! There is etiquette for when you greet someone. I suggest you learn it.",
+          "If you're afraid of death, you'll never accomplish anything. I am not afraid, nor will I ever be.",
+          "No one follows a lord who stays forever in their ivory tower.",
+          "I want nothing to do with those people of Hel. They are gloomy. Hah, frightening...",
+          "I would gladly give my life for my brother or Eliwood.",
+          "You have no need to fear. I will protect you, no matter what comes."
+        ],
+        "Map Select": [
+          "Got it.",
+          "Hm?",
+          "I will stop them!"
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Legendary Hector",
     "SEARCH_NAME": "Legendary Hector",
@@ -63431,7 +63473,8 @@
       "ike6",
       "ike7",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "heartsbladespd",
@@ -74563,7 +74606,8 @@
       "fbyleth2",
       "fbyleth3",
       "fbyleth4",
-      "fbyleth5"
+      "fbyleth5",
+      "fbyleth6"
     ],
     "prf": {
       "": "creatorswordeff",
@@ -94411,7 +94455,8 @@
       "ike6",
       "ike7",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "chaosragnelleff",
@@ -98354,45 +98399,24 @@
     "ALT_NAME": [
       "Byleth: Fell Star's Duo",
       "Fell Star's Duo",
-      "Duo Byleth",
-      "Harmonic Byleth",
-      "Harmonized Byleth",
       "Summer Byleth",
       "Duo Beleth",
-      "Harmonic Beleth",
-      "Harmonized Beleth",
       "Summer Beleth",
       "Duo Female Byleth",
-      "Harmonic Female Byleth",
-      "Harmonized Female Byleth",
       "Summer Female Byleth",
       "Duo Byleth Female",
-      "Harmonic Byleth Female",
-      "Harmonized Byleth Female",
       "Summer Byleth Female",
       "Duo F Byleth",
-      "Harmonic F Byleth",
-      "Harmonized F Byleth",
       "Summer F Byleth",
       "Duo Byleth F",
-      "Harmonic Byleth F",
-      "Harmonized Byleth F",
       "Summer Byleth F",
       "Duo Female Beleth",
-      "Harmonic Female Beleth",
-      "Harmonized Female Beleth",
       "Summer Female Beleth",
       "Duo Beleth Female",
-      "Harmonic Beleth Female",
-      "Harmonized Beleth Female",
       "Summer Beleth Female",
       "Duo F Beleth",
-      "Harmonic F Beleth",
-      "Harmonized F Beleth",
       "Summer F Beleth",
       "Duo Beleth F",
-      "Harmonic Beleth F",
-      "Harmonized Beleth F",
       "Summer Beleth F"
     ],
     "HARD_ALT_NAME": [
@@ -98407,9 +98431,7 @@
       "beleth3",
       "Fell Star's Duo",
       "S Byleth",
-      "D Byleth",
       "S Beleth",
-      "D Beleth",
       "S Female Byleth",
       "D Female Byleth",
       "S Byleth Female",
@@ -98427,48 +98449,24 @@
       "S Beleth F",
       "D Beleth F",
       "Syleth",
-      "Dyleth",
       "Duo Female Byleth",
-      "Duo Byleth",
-      "Harmonic Byleth",
-      "Harmonized Byleth",
       "Summer Byleth",
-      "Duo Beleth",
-      "Harmonic Beleth",
-      "Harmonized Beleth",
       "Summer Beleth",
-      "Harmonic Female Byleth",
-      "Harmonized Female Byleth",
       "Summer Female Byleth",
       "Duo Byleth Female",
-      "Harmonic Byleth Female",
-      "Harmonized Byleth Female",
       "Summer Byleth Female",
       "Duo F Byleth",
-      "Harmonic F Byleth",
-      "Harmonized F Byleth",
       "Summer F Byleth",
       "Duo Byleth F",
-      "Harmonic Byleth F",
-      "Harmonized Byleth F",
       "Summer Byleth F",
       "Duo Female Beleth",
-      "Harmonic Female Beleth",
-      "Harmonized Female Beleth",
       "Summer Female Beleth",
       "Duo Beleth Female",
-      "Harmonic Beleth Female",
-      "Harmonized Beleth Female",
       "Summer Beleth Female",
       "Duo F Beleth",
-      "Harmonic F Beleth",
-      "Harmonized F Beleth",
       "Summer F Beleth",
       "Duo Beleth F",
-      "Harmonic Beleth F",
-      "Harmonized Beleth F",
-      "Summer Beleth F",
-      "Duo Byleth"
+      "Summer Beleth F"
     ],
     "gender": "F",
     "rarity": 5,
@@ -98569,7 +98567,8 @@
       "fbyleth",
       "fbyleth3",
       "fbyleth4",
-      "fbyleth5"
+      "fbyleth5",
+      "fbyleth6"
     ],
     "prf": {
       "": "sunspercussorseff",
@@ -111284,12 +111283,12 @@
       "velouria"
     ],
     "prf": {
-      "": "renewedfang",
-      "eff": "renewedfang",
-      "atk": "renewedfang",
-      "spd": "renewedfang",
-      "def": "renewedfang",
-      "res": "renewedfang"
+      "": "renewedfangeff",
+      "eff": "renewedfangeff",
+      "atk": "renewedfangatk",
+      "spd": "renewedfangspd",
+      "def": "renewedfangdef",
+      "res": "renewedfangres"
     }
   },
   "kaden2": {
@@ -113150,7 +113149,8 @@
       "tharja3",
       "tharja5",
       "tharja6",
-      "tharja7"
+      "tharja7",
+      "tharja8"
     ],
     "prf": {
       "": "plegiantorchspd",
@@ -118048,12 +118048,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "generaltobe",
-      "eff": "generaltobe",
-      "atk": "generaltobe",
-      "spd": "generaltobe",
-      "def": "generaltobe",
-      "res": "generaltobe"
+      "": "generaltobeeff",
+      "eff": "generaltobeeff",
+      "atk": "generaltobeatk",
+      "spd": "generaltobespd",
+      "def": "generaltobedef",
+      "res": "generaltoberes"
     }
   },
   "sonia": {
@@ -119751,12 +119751,12 @@
       "edelgard9"
     ],
     "prf": {
-      "": "twincrestpower",
-      "eff": "twincrestpower",
-      "atk": "twincrestpower",
-      "spd": "twincrestpower",
-      "def": "twincrestpower",
-      "res": "twincrestpower"
+      "": "twincrestpowereff",
+      "eff": "twincrestpowereff",
+      "atk": "twincrestpoweratk",
+      "spd": "twincrestpowerspd",
+      "def": "twincrestpowerdef",
+      "res": "twincrestpowerres"
     }
   },
   "mmorgan2": {
@@ -120961,12 +120961,12 @@
       "shanna"
     ],
     "prf": {
-      "": "rosequartzbow",
-      "eff": "rosequartzbow",
-      "atk": "rosequartzbow",
-      "spd": "rosequartzbow",
-      "def": "rosequartzbow",
-      "res": "rosequartzbow"
+      "": "rosequartzboweff",
+      "eff": "rosequartzboweff",
+      "atk": "rosequartzbowatk",
+      "spd": "rosequartzbowspd",
+      "def": "rosequartzbowdef",
+      "res": "rosequartzbowres"
     }
   },
   "saul2": {
@@ -121880,12 +121880,12 @@
       "palla5"
     ],
     "prf": {
-      "": "ladyblade",
-      "eff": "ladyblade",
-      "atk": "ladyblade",
-      "spd": "ladyblade",
-      "def": "ladyblade",
-      "res": "ladyblade"
+      "": "ladybladeeff",
+      "eff": "ladybladeeff",
+      "atk": "ladybladeatk",
+      "spd": "ladybladespd",
+      "def": "ladybladedef",
+      "res": "ladybladeres"
     }
   },
   "luthier": {
@@ -127493,12 +127493,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "visionofdaein",
-      "eff": "visionofdaein",
-      "atk": "visionofdaein",
-      "spd": "visionofdaein",
-      "def": "visionofdaein",
-      "res": "visionofdaein"
+      "": "visionofdaeineff",
+      "eff": "visionofdaeineff",
+      "atk": "visionofdaeinatk",
+      "spd": "visionofdaeinspd",
+      "def": "visionofdaeindef",
+      "res": "visionofdaeinres"
     }
   },
   "micaiah5": {
@@ -134968,7 +134968,7 @@
     "RANDOM_POOL": [
       "ylisse"
     ],
-"chibi": [
+    "chibi": [
       "fe13"
     ],
     "quotes": {
@@ -135077,7 +135077,8 @@
       "Iron Axe": "1",
       "Steel Axe": "2",
       "Spirited Axe": "3",
-      "Spirited Axe+": "5"
+      "Spirited Axe+": "5",
+      "Hero's Greataxe": "5"
     },
     "assist": {},
     "special": {
@@ -135189,12 +135190,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "spiritedaxedef",
-      "eff": "spiritedaxedef",
-      "atk": "spiritedaxeatk",
-      "spd": "spiritedaxespd",
-      "def": "spiritedaxedef",
-      "res": "spiritedaxeres"
+      "": "herosgreataxeeff",
+      "eff": "herosgreataxeeff",
+      "atk": "herosgreataxeatk",
+      "spd": "herosgreataxespd",
+      "def": "herosgreataxedef",
+      "res": "herosgreataxeres"
     }
   },
   "yenfay": {
@@ -136465,7 +136466,8 @@
       "fbyleth",
       "fbyleth2",
       "fbyleth4",
-      "fbyleth5"
+      "fbyleth5",
+      "fbyleth6"
     ],
     "prf": {
       "": "professorialguideeff",
@@ -137533,12 +137535,12 @@
       "joshua2"
     ],
     "prf": {
-      "": "bladeofjehanna",
-      "eff": "bladeofjehanna",
-      "atk": "bladeofjehanna",
-      "spd": "bladeofjehanna",
-      "def": "bladeofjehanna",
-      "res": "bladeofjehanna"
+      "": "bladeofjehannaeff",
+      "eff": "bladeofjehannaeff",
+      "atk": "bladeofjehannaatk",
+      "spd": "bladeofjehannaspd",
+      "def": "bladeofjehannadef",
+      "res": "bladeofjehannares"
     }
   },
   "rennac": {
@@ -140573,12 +140575,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "sellspelltome",
-      "eff": "sellspelltome",
-      "atk": "sellspelltome",
-      "spd": "sellspelltome",
-      "def": "sellspelltome",
-      "res": "sellspelltome"
+      "": "sellspelltomeeff",
+      "eff": "sellspelltomeeff",
+      "atk": "sellspelltomeatk",
+      "spd": "sellspelltomespd",
+      "def": "sellspelltomedef",
+      "res": "sellspelltomeres"
     }
   },
   "niime": {
@@ -140763,7 +140765,7 @@
     "title": "Master Thief",
     "description": "Mysterious girl who always seems to show up where there's treasure to be found. In truth, she is a thief known for outsmarting rich nobles. Appears in Fire Emblem: The Binding Blade.",
     "origin": "The Binding Blade",
-    "artist": "kiyu  / Trys Inc.",
+    "artist": "kiyu / Trys Inc.",
     "move": "Infantry",
     "weapon": "Dagger",
     "color": "Green",
@@ -143400,7 +143402,8 @@
       "ike5",
       "ike7",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "sturdywarsword",
@@ -151031,7 +151034,8 @@
       "Iron Axe": "1",
       "Steel Axe": "2",
       "Vulture Axe": "3",
-      "Vulture Axe+": "5"
+      "Vulture Axe+": "5",
+      "Axe of Troubles": "5"
     },
     "assist": {},
     "special": {
@@ -151142,12 +151146,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "vultureaxespd",
-      "eff": "vultureaxespd",
-      "atk": "vultureaxeatk",
-      "spd": "vultureaxespd",
-      "def": "vultureaxedef",
-      "res": "vultureaxeres"
+      "": "axeoftroubleseff",
+      "eff": "axeoftroubleseff",
+      "atk": "axeoftroublesatk",
+      "spd": "axeoftroublesspd",
+      "def": "axeoftroublesdef",
+      "res": "axeoftroublesres"
     }
   },
   "askr": {
@@ -153012,16 +153016,17 @@
       "Back Unit Supporting": false,
       "resplendent": false
     },
-    "short_name": "Brave Byleth",
+    "short_name": "Brave Female Byleth",
     "SEARCH_NAME": "Brave Female Byleth",
-    "DISPLAY_NAME": "<:Colorless_Tome:1317239438602145842>Brave Byleth",
+    "DISPLAY_NAME": "<:Colorless_Tome:1317239438602145842>Brave Female Byleth",
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
       "fbyleth",
       "fbyleth2",
       "fbyleth3",
-      "fbyleth5"
+      "fbyleth5",
+      "fbyleth6"
     ],
     "prf": {
       "": "innerwellspringeff",
@@ -171488,25 +171493,38 @@
       "X": {}
     },
     "ALT_NAME": [
-      "Ner\u00feuz: God of the Land",
       "God of the Land",
+      "Ner\u00feuz: God of the Land",
       "Base Ner\u00feuz",
       "Normal Ner\u00feuz",
+      "ner\u00feuz",
+      "Nerpuz: God of the Land",
       "Base Nerpuz",
-      "Normal Nerthuz",
+      "Normal Nerpuz",
       "Mythic Nerpuz",
-      "Mythic Nerthuz"
+      "nerpuz",
+      "Nerthuz: God of the Land",
+      "Base Nerthuz",
+      "Normal Nerthuz",
+      "Mythic Nerthuz",
+      "nerthuz"
     ],
     "HARD_ALT_NAME": [
-      "nerpuz1",
       "God of the Land",
-      "Base Nerpuz",
-      "Normal Nerthuz",
-      "Mythic Nerpuz",
-      "Mythic Nerthuz",
-      "Ner\u00feuz",
+      "Ner\u00feuz: God of the Land",
       "Base Ner\u00feuz",
-      "Normal Ner\u00feuz"
+      "Normal Ner\u00feuz",
+      "ner\u00feuz",
+      "Nerpuz: God of the Land",
+      "Base Nerpuz",
+      "Normal Nerpuz",
+      "Mythic Nerpuz",
+      "nerpuz",
+      "Nerthuz: God of the Land",
+      "Base Nerthuz",
+      "Normal Nerthuz",
+      "Mythic Nerthuz",
+      "nerthuz"
     ],
     "gender": "N",
     "rarity": 5,
@@ -171969,7 +171987,8 @@
       "fbyleth",
       "fbyleth2",
       "fbyleth3",
-      "fbyleth4"
+      "fbyleth4",
+      "fbyleth6"
     ],
     "prf": {
       "": "captainssword",
@@ -173807,7 +173826,8 @@
     "assist": {
       "Rally Attack": "3",
       "Rally Atk/Spd": "4",
-      "Gold Serpent": "5"
+      "Gold Serpent": "5",
+      "Gold Serpent+": "5"
     },
     "special": {},
     "passive": {
@@ -173821,7 +173841,11 @@
         "Null Follow-Up 1": "2",
         "Null Follow-Up 2": "3",
         "Null Follow-Up 3": "4",
-        "Mag. Null Follow": "5"
+        "Mag. Null Follow": "5",
+        "Atk/Spd Link 1": "2",
+        "Atk/Spd Link 2": "3",
+        "Atk/Spd Link 3": "4",
+        "Atk/Spd Favor": "5"
       },
       "C": {
         "Panic Smoke 1": "2",
@@ -173925,12 +173949,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "heidr",
-      "eff": "heidr",
-      "atk": "heidr",
-      "spd": "heidr",
-      "def": "heidr",
-      "res": "heidr"
+      "": "heidreff",
+      "eff": "heidreff",
+      "atk": "heidratk",
+      "spd": "heidrspd",
+      "def": "heidrdef",
+      "res": "heidrres"
     }
   },
   "fir3": {
@@ -175723,10 +175747,15 @@
         "Null C-Disrupt 1": "2",
         "Null C-Disrupt 2": "3",
         "Null C-Disrupt 3": "4",
-        "Null C-Disrupt 4": "5"
+        "Null C-Disrupt 4": "5",
+        "Sabotage Res 1": "2",
+        "Sabotage Res 2": "3",
+        "Sabotage Res 3": "4",
+        "Spd/Res Unrest": "5"
       },
       "C": {
-        "Bern's New Way": "5"
+        "Bern's New Way": "5",
+        "New Way II": "5"
       },
       "X": {}
     },
@@ -175833,12 +175862,12 @@
       "guinivere"
     ],
     "prf": {
-      "": "radiantaureola",
-      "eff": "radiantaureola",
-      "atk": "radiantaureola",
-      "spd": "radiantaureola",
-      "def": "radiantaureola",
-      "res": "radiantaureola"
+      "": "radiantaureolaeff",
+      "eff": "radiantaureolaeff",
+      "atk": "radiantaureolaatk",
+      "spd": "radiantaureolaspd",
+      "def": "radiantaureoladef",
+      "res": "radiantaureolares"
     }
   },
   "ymir2": {
@@ -176291,7 +176320,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "970",
     "voice": "Reba Buhr",
     "resplendent": false,
@@ -176533,7 +176562,8 @@
       "tharja3",
       "tharja4",
       "tharja6",
-      "tharja7"
+      "tharja7",
+      "tharja8"
     ],
     "prf": {
       "": "seashellbowlspd",
@@ -195571,7 +195601,8 @@
       "ike5",
       "ike6",
       "ike8",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "emblemragnell",
@@ -203838,7 +203869,8 @@
     "reference": [
       "eikthyrnir2",
       "eikthyrnir3",
-      "eikthyrnir4"
+      "eikthyrnir4",
+      "eikthyrnir5"
     ],
     "prf": {
       "": "quietingantler",
@@ -210564,7 +210596,8 @@
       "tharja3",
       "tharja4",
       "tharja5",
-      "tharja7"
+      "tharja7",
+      "tharja8"
     ],
     "prf": {
       "": "scrollofcurses",
@@ -214530,7 +214563,8 @@
     "reference": [
       "eikthyrnir",
       "eikthyrnir3",
-      "eikthyrnir4"
+      "eikthyrnir4",
+      "eikthyrnir5"
     ],
     "prf": {
       "": "deliveringantler",
@@ -217156,7 +217190,8 @@
       "ike5",
       "ike6",
       "ike7",
-      "ike9"
+      "ike9",
+      "ike10"
     ],
     "prf": {
       "": "swirlinglance",
@@ -226184,7 +226219,8 @@
       "tharja3",
       "tharja4",
       "tharja5",
-      "tharja6"
+      "tharja6",
+      "tharja8"
     ],
     "prf": {
       "": "kindredtome",
@@ -226367,12 +226403,12 @@
       "noire3"
     ],
     "prf": {
-      "": "arcanehexbow",
-      "eff": "arcanehexbow",
-      "atk": "arcanehexbow",
-      "spd": "arcanehexbow",
-      "def": "arcanehexbow",
-      "res": "arcanehexbow"
+      "": "arcanehexbowspd",
+      "eff": "arcanehexbowspd",
+      "atk": "arcanehexbowatk",
+      "spd": "arcanehexbowspd",
+      "def": "arcanehexbowdef",
+      "res": "arcanehexbowres"
     }
   },
   "mgrima": {
@@ -226557,12 +226593,12 @@
       "mrobin8"
     ],
     "prf": {
-      "": "obstinatebreath",
-      "eff": "obstinatebreath",
-      "atk": "obstinatebreath",
-      "spd": "obstinatebreath",
-      "def": "obstinatebreath",
-      "res": "obstinatebreath"
+      "": "obstinatebreathres",
+      "eff": "obstinatebreathres",
+      "atk": "obstinatebreathatk",
+      "spd": "obstinatebreathspd",
+      "def": "obstinatebreathdef",
+      "res": "obstinatebreathres"
     }
   },
   "fgrima": {
@@ -226918,12 +226954,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "raudrsparrow",
-      "eff": "raudrsparrow",
-      "atk": "raudrsparrow",
-      "spd": "raudrsparrow",
-      "def": "raudrsparrow",
-      "res": "raudrsparrow"
+      "": "raudrsparrowres",
+      "eff": "raudrsparrowres",
+      "atk": "raudrsparrowatk",
+      "spd": "raudrsparrowspd",
+      "def": "raudrsparrowdef",
+      "res": "raudrsparrowres"
     }
   },
   "celica7": {
@@ -227293,12 +227329,12 @@
       "palla4"
     ],
     "prf": {
-      "": "fanninfoliage",
-      "eff": "fanninfoliage",
-      "atk": "fanninfoliage",
-      "spd": "fanninfoliage",
-      "def": "fanninfoliage",
-      "res": "fanninfoliage"
+      "": "fanninfoliageatk",
+      "eff": "fanninfoliageatk",
+      "atk": "fanninfoliageatk",
+      "spd": "fanninfoliagespd",
+      "def": "fanninfoliagedef",
+      "res": "fanninfoliageres"
     }
   },
   "nino6": {
@@ -227812,12 +227848,12 @@
       "fogado"
     ],
     "prf": {
-      "": "tropicaljuice",
-      "eff": "tropicaljuice",
-      "atk": "tropicaljuice",
-      "spd": "tropicaljuice",
-      "def": "tropicaljuice",
-      "res": "tropicaljuice"
+      "": "tropicaljuicespd",
+      "eff": "tropicaljuicespd",
+      "atk": "tropicaljuiceatk",
+      "spd": "tropicaljuicespd",
+      "def": "tropicaljuicedef",
+      "res": "tropicaljuiceres"
     }
   },
   "micaiah8": {
@@ -228764,7 +228800,8 @@
     "reference": [
       "eikthyrnir",
       "eikthyrnir2",
-      "eikthyrnir4"
+      "eikthyrnir4",
+      "eikthyrnir5"
     ],
     "prf": {
       "": "oceanfitantler",
@@ -231816,7 +231853,8 @@
     "reference": [
       "eikthyrnir",
       "eikthyrnir2",
-      "eikthyrnir3"
+      "eikthyrnir3",
+      "eikthyrnir5"
     ],
     "prf": {
       "": "temperedantler",
@@ -238425,7 +238463,8 @@
       "ike5",
       "ike6",
       "ike7",
-      "ike8"
+      "ike8",
+      "ike10"
     ],
     "prf": {
       "": "urvanbrilliance",
@@ -250191,7 +250230,9 @@
     "resplendent_images": false,
     "ALT_NAME": [
       "Full-Tilt Bride",
+      "Full Tilt Bride",
       "Reginn: Full-Tilt Bride",
+      "Reginn: Full Tilt Bride",
       "Wedding Reginn",
       "B Reginn",
       "W Reginn",
@@ -252638,6 +252679,969 @@
     "boost": {
       "hp": 5,
       "def": 5
+    }
+  },
+  "fbyleth6": {
+    "name": "Byleth",
+    "title": "Cheer Power",
+    "description": "Professor Byleth and Princess Corrin join hands to liven up the fitness festival with all their might. They appear in Fire Emblem: Three Houses / Fates.",
+    "origin": "Three Houses + Fates",
+    "artist": "Kakage (\u304b\u304b\u3052)",
+    "move": "Infantry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1391",
+    "type": "duo",
+    "version": "10.7",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011and \u3010Resonance: Shields\u3011to unit and allies from the same titles as unit.\nApplies\u3010Divine Vein (Vert)\u3011on unit's space and spaces within 3 spaces of unit for 2 turns.\n\u3010Resonance: Blade\u3011\nGrants Atk/Spd+4 during combat for 1 turn.\n\u3010Resonance: Shields\u3011\nGrants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\"\n\u3010Divine Vein (Vert)\u3011\nApplies the following effects on space for foes:\nFoe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains).\nInflicts\u3010Canto Control\u3011on foes that trigger Canto in this space through their next action.\nInflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).\n(Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)\n\u3010Canto Control\u3011\nIf unit's Range = 1, unit can move 1 space when Canto triggers. If unit's Range = 2, their action ends when Canto triggers.",
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 12,
+      "spd": 9,
+      "def": 11,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 70,
+      "res": 45
+    },
+    "superboon": [
+      "spd",
+      "def",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Guiding Lance": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Divine Rumble": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Specter": "5"
+      },
+      "B": {
+        "Velocity 1": "2",
+        "Velocity 2": "3",
+        "Velocity 3": "4",
+        "Counter Dull": "5"
+      },
+      "C": {
+        "Atk/Spd Oath 1": "2",
+        "Atk/Spd Oath 2": "3",
+        "Atk/Spd Oath 3": "4",
+        "A/S Tenet Hone": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Byleth_Cheer_Power_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Byleth_Cheer_Power_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Byleth_Cheer_Power_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Byleth_Cheer_Power_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Cheer Power",
+      "Byleth: Cheer Power",
+      "Harmonic Byleth F",
+      "Harmonic Byleth Female",
+      "Harmonic F Byleth",
+      "Harmonic Female Byleth",
+      "Harmonized Byleth F",
+      "Harmonized Byleth Female",
+      "Harmonized F Byleth",
+      "Harmonized Female Byleth",
+      "H Byleth F",
+      "H F Byleth",
+      "Trainer Byleth",
+      "Trainer Female Byleth",
+      "Trainer F Byleth",
+      "Trainer Byleth Female",
+      "Trainer Byleth F",
+      "T Byleth",
+      "T F Byleth",
+      "T Byleth F",
+      "Athletic Wear Byleth",
+      "Athletic Wear Female Byleth",
+      "Athletic Wear F Byleth",
+      "Athletic Wear Byleth Female",
+      "Athletic Wear Byleth F",
+      "Athletic-Wear Byleth",
+      "Athletic-Wear Female Byleth",
+      "Athletic-Wear F Byleth",
+      "Athletic-Wear Byleth Female",
+      "Athletic-Wear Byleth F",
+      "AW Byleth",
+      "AW Byleth F",
+      "AW F Byleth",
+      "Fitness Byleth",
+      "Fitness Female Byleth",
+      "Fitness F Byleth",
+      "Fitness Byleth Female",
+      "Fitness Byleth F",
+      "F F Byleth 2",
+      "F Byleth F 2",
+      "Workout Byleth",
+      "Workout Female Byleth",
+      "Workout F Byleth",
+      "Workout Byleth Female",
+      "Workout Byleth F",
+      "W F Byleth",
+      "W Byleth F",
+      "Exercise Byleth",
+      "Exercise Female Byleth",
+      "Exercise F Byleth",
+      "Exercise Byleth Female",
+      "Exercise Byleth F",
+      "E F Byleth",
+      "E Byleth F",
+      "byleth13",
+      "fbyleth6"
+    ],
+    "HARD_ALT_NAME": [
+      "Cheer Power",
+      "Byleth: Cheer Power",
+      "Harmonic Byleth F",
+      "Harmonic Byleth Female",
+      "Harmonic F Byleth",
+      "Harmonic Female Byleth",
+      "Harmonized Byleth F",
+      "Harmonized Byleth Female",
+      "Harmonized F Byleth",
+      "Harmonized Female Byleth",
+      "H Byleth F",
+      "H F Byleth",
+      "Trainer Byleth",
+      "Trainer Female Byleth",
+      "Trainer F Byleth",
+      "Trainer Byleth Female",
+      "Trainer Byleth F",
+      "T Byleth",
+      "T F Byleth",
+      "T Byleth F",
+      "Athletic Wear Byleth",
+      "Athletic Wear Female Byleth",
+      "Athletic Wear F Byleth",
+      "Athletic Wear Byleth Female",
+      "Athletic Wear Byleth F",
+      "Athletic-Wear Byleth",
+      "Athletic-Wear Female Byleth",
+      "Athletic-Wear F Byleth",
+      "Athletic-Wear Byleth Female",
+      "Athletic-Wear Byleth F",
+      "AW Byleth",
+      "AW Byleth F",
+      "AW F Byleth",
+      "Fitness Byleth",
+      "Fitness Female Byleth",
+      "Fitness F Byleth",
+      "Fitness Byleth Female",
+      "Fitness Byleth F",
+      "F F Byleth 2",
+      "F Byleth F 2",
+      "Workout Byleth",
+      "Workout Female Byleth",
+      "Workout F Byleth",
+      "Workout Byleth Female",
+      "Workout Byleth F",
+      "W F Byleth",
+      "W Byleth F",
+      "Exercise Byleth",
+      "Exercise Female Byleth",
+      "Exercise F Byleth",
+      "Exercise Byleth Female",
+      "Exercise Byleth F",
+      "E F Byleth",
+      "E Byleth F",
+      "byleth13",
+      "fbyleth6"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u53cc\u754c\u30d9\u30ec\u30b9",
+    "voice": "Jeannie Tirado + Marcella Lentz-Pope",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan",
+      "fe14"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Corrin:** It's my duty to root for everyone! I want to liven up the games with my voice!",
+        "**Byleth:** In athletics, we can exceed our limits when someone cheers us on. It's just like a rally on the battlefield.",
+        "**Byleth:** Speak louder, Corrin! The more you project your voice, the more passion you can convey!",
+        "**Byleth:** It's quite nice to see you out of armor for a change, Corrin. It suits you.",
+        "**Corrin:** The students seem very motivated by you, Byleth. They trust and respect you so much, don't they?"
+      ],
+      "Visit": [
+        "**Corrin:** My name is Corrin. Byleth and I are here with words of encouragement from [F]!"
+      ],
+      "Level": [
+        "**Corrin:** I'll root for everyone at the top of my lungs! I just know all of their hard work will pay off!",
+        "**Byleth:** Genuine encouragement will certainly give someone the strength they need.",
+        "**Corrin:** I suppose my voice wasn't loud enough..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Byleth, a professor from Garreg Mach. Corrin and I are here to enliven the fitness festival. Let's give it our all!"
+      ],
+      "Learn Skill": [
+        "**Corrin:** Thank you so much! I can cheer even more passionately with this!"
+      ],
+      "Confession": [
+        "**Byleth:** Your cheering was spectacular, Corrin. Your voice was so loud, and your words were so spirited.\n**Corrin:** Thank you! It makes me happy to know I was helpful to everyone!\n**Byleth:** I felt all my passion and strength become one at this fitness festival.\nPerhaps all of our efforts were worth it in the end.\n**Corrin:** I felt that energy from everyone else as well. I believe this fitness festival was a huge success!\n**Byleth:** I, too, learned how much cheering on others vitalizes their spirits. I'm glad you enjoyed it as well, Corrin."
+      ],
+      "Special": [
+        "**Duo:** Facing forward!",
+        "**Duo:** Higher! OK!",
+        "**Byleth:** Stay focused!",
+        "**Corrin:** Do your best!"
+      ],
+      "Status": [
+        "-",
+        "\"Will you help me?\" \"If you're sure you want my help, then yes. Happily.\""
+      ],
+      "Map Select": [
+        "Keep those arms straight...",
+        "Supervising...",
+        "Nice and loud!"
+      ],
+      "Conversation": [
+        "**Corrin:** Go, fight, win! Go, fight, win!",
+        "**Byleth:** Are you practicing a cheer?",
+        "**Corrin:** Byleth?!",
+        "**Byleth:** Apologies for the startle. I've been searching for you.",
+        "You wanted to see me?",
+        "**Corrin:** Yes. I can't seem to get this routine down.",
+        "When I'm cheering for others, I sometimes lose my balance.",
+        "**Byleth:** I see. It must be your center of gravity and your footwork.",
+        "The moves you are attempting are like dance steps. You may be more used to wielding a weapon.",
+        "**Corrin:** I see. So I'm not focusing on the right thing...",
+        "Well, if it's like a dance, maybe I should ask Azura...",
+        "**Byleth:** Gaining core strength may be helpful.",
+        "If you'd like, you could run laps with everyone else. Though, I will not force you...",
+        "**Corrin:** If you say it will help, then I would like that very much!",
+        "I want to be able to cheer everyone on while they train!",
+        "**Byleth:** Understood. Then shall we work together to achieve that?",
+        "**Corrin:** Yes! I look forward to working with you, Professor!"
+      ],
+      "Duo Skill": [
+        "\"Let us guide them.\" \"Yes!\"",
+        "\"Demonstrate.\" \"Allow me.\""
+      ],
+      "Back Unit Supporting": [
+        "You got this!",
+        "I'm cheering for you!"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Trainer Byleth",
+    "SEARCH_NAME": "Trainer Byleth",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Trainer Byleth",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "fbyleth",
+      "fbyleth2",
+      "fbyleth3",
+      "fbyleth4",
+      "fbyleth5"
+    ],
+    "prf": {
+      "": "guidinglance",
+      "eff": "guidinglance",
+      "atk": "guidinglance",
+      "spd": "guidinglance",
+      "def": "guidinglance",
+      "res": "guidinglance"
+    }
+  },
+  "tharja8": {
+    "name": "Tharja",
+    "title": "Dour Cheer",
+    "description": "A dark mage of Plegia who cheers on others at the fitness festival beneath sunlight unfamiliar to her. Appears in Fire Emblem Awakening.",
+    "origin": "Awakening",
+    "artist": "Sencha (\u714e\u8336)",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1392",
+    "type": false,
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 17,
+      "atk": 11,
+      "spd": 9,
+      "def": 3,
+      "res": 14
+    },
+    "growth": {
+      "hp": 45,
+      "atk": 80,
+      "spd": 90,
+      "def": 30,
+      "res": 75
+    },
+    "superboon": [
+      "hp",
+      "spd"
+    ],
+    "superbane": [
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Stone": "1",
+      "Elstone": "2",
+      "Atlas": "3",
+      "Dour Baton": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Comet": "5"
+    },
+    "passive": {
+      "A": {
+        "Long-Dead": "5"
+      },
+      "B": {
+        "Sabotage Spd 1": "2",
+        "Sabotage Spd 2": "3",
+        "Sabotage Spd 3": "4",
+        "Spd/Res Unrest": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Pulse Follow Con": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Tharja_Dour_Cheer_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Tharja_Dour_Cheer_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Tharja_Dour_Cheer_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Tharja_Dour_Cheer_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Dour Cheer",
+      "Tharja: Dour Cheer",
+      "Trainer Tharja",
+      "T Tharja",
+      "Athletic Wear Tharja",
+      "Athletic-Wear Tharja",
+      "AW Tharja",
+      "Fitness Tharja",
+      "F Tharja",
+      "Workout Tharja",
+      "W Tharja",
+      "Exercise Tharja",
+      "E Tharja",
+      "tharja8"
+    ],
+    "HARD_ALT_NAME": [
+      "Dour Cheer",
+      "Tharja: Dour Cheer",
+      "Trainer Tharja",
+      "T Tharja",
+      "Athletic Wear Tharja",
+      "Athletic-Wear Tharja",
+      "AW Tharja",
+      "Fitness Tharja",
+      "F Tharja",
+      "Workout Tharja",
+      "W Tharja 2",
+      "Exercise Tharja",
+      "E Tharja",
+      "tharja8"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u904b\u52d5\u7740\u30b5\u30fc\u30ea\u30e3",
+    "voice": "Stephanie Sheh",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "ylisse"
+    ],
+    "chibi": [
+      "fe13"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "You want ME to do the cheering? Talk about a bad choice. Bad enough to make me want to hex you.",
+        "Plegia is a desert kingdom. The sun would certainly burn me to a crisp if I wore an outfit like this.",
+        "Teehee, I'll do my best to support you! Urk... Why are you looking at me like that?",
+        "What's so great about running and jumping around in this heat? It perplexes me.",
+        "Rather than rooting for our allies to win, wouldn't it be much faster to curse our enemies to lose?"
+      ],
+      "Visit": [
+        "Why must this castle be so close to the fitness festival? A thousand hexes upon you, [F]!"
+      ],
+      "Level": [
+        "You can do it! Huzzah! My passionate cheering will ensure our victory!",
+        "Ugh, this is such a nuisance. I will curse anyone who gets in my way.",
+        "The sun... It burns... I fear this might be the end of me..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Tharja from Plegia. I'll place a curse on whoever designed this wretched outfit."
+      ],
+      "Learn Skill": [
+        "Hooray! Now I can cheer everyone on even more! Teehee! Ugh... How long do I have to keep this up?"
+      ],
+      "Confession": [
+        "My duty as a dark mage is to drain the life force from people...\nAnd you expect me to cheer them on? This must be some kind of tasteless joke.\nNow go bother someone else\u2014huh? Did you say Robin might be here, at this fitness festival?\nF-forget what I said! Heehee, oh how I love cheering! You can do it! Gooo!\nI hope my cheering can lift your spirits as well, my dear summoner!\nWhat was that? You think I'm overdoing it? Hmph. Just for that, I'm going to cheer even harder!"
+      ],
+      "Special": [
+        "Fight!",
+        "Huzzah!",
+        "Run!",
+        "I'm watching you."
+      ],
+      "Status": [
+        "-",
+        "You want me to exercise and cheer? Why?",
+        "Ugh! What is it? You want me to cheer you on or something?",
+        "I will cheer everyone on perfectly!",
+        "You can do it! Gooo... You really thought I would keep this up?",
+        "A dark mage has no use for a healthy mind and body.",
+        "So this is what it's come to? Then I will cast a curse so no one can see me.",
+        "I will be here, resting. Care to join me?"
+      ],
+      "Map Select": [
+        "*exaggerated exhale*",
+        "Why me?",
+        "Is this punishment?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Trainer Tharja",
+    "SEARCH_NAME": "Trainer Tharja",
+    "DISPLAY_NAME": "<:Colorless_Tome:1317239438602145842>Trainer Tharja",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "tharja",
+      "tharja2",
+      "tharja3",
+      "tharja4",
+      "tharja5",
+      "tharja6",
+      "tharja7"
+    ],
+    "prf": {
+      "": "dourbaton",
+      "eff": "dourbaton",
+      "atk": "dourbaton",
+      "spd": "dourbaton",
+      "def": "dourbaton",
+      "res": "dourbaton"
+    }
+  },
+  "ike10": {
+    "name": "Ike",
+    "title": "Full-Tilt Merc",
+    "description": "Leader of the Greil Mercenaries. He challenges himself in various events at the fitness festival. Appears in Fire Emblem: Path of Radiance.",
+    "origin": "Path of Radiance",
+    "artist": "kiyu / Trys Inc.",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1393",
+    "type": false,
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 21,
+      "atk": 10,
+      "spd": 5,
+      "def": 12,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 30,
+      "def": 85,
+      "res": 80
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "spd"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Greil Flag": "5"
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4",
+      "Aether's Route": "5"
+    },
+    "passive": {
+      "A": {
+        "Rise Above 1": "2",
+        "Rise Above 2": "3",
+        "Rise Above 3": "4",
+        "Rise Above 4": "5"
+      },
+      "B": {
+        "Quick Riposte 1": "2",
+        "Quick Riposte 2": "3",
+        "Quick Riposte 3": "4",
+        "Patience": "5"
+      },
+      "C": {
+        "Def/Res Oath 1": "2",
+        "Def/Res Oath 2": "3",
+        "Def/Res Oath 3": "4",
+        "D/R Tenet Hone": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Ike_Full-Tilt_Merc_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Ike_Full-Tilt_Merc_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Ike_Full-Tilt_Merc_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Ike_Full-Tilt_Merc_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Full-Tilt Merc",
+      "Full Tilt Merc",
+      "Ike: Full-Tilt Merc",
+      "Ike: Full Tilt Merc",
+      "Trainer Ike",
+      "T Ike",
+      "Athletic Wear Ike",
+      "Athletic-Wear Ike",
+      "AW Ike",
+      "Fitness Ike",
+      "F Ike 2",
+      "Workout Ike",
+      "W Ike",
+      "Exercise Ike",
+      "E Ike 2",
+      "ike10"
+    ],
+    "HARD_ALT_NAME": [
+      "Full-Tilt Merc",
+      "Full Tilt Merc",
+      "Ike: Full-Tilt Merc",
+      "Ike: Full Tilt Merc",
+      "Trainer Ike",
+      "T Ike",
+      "Athletic Wear Ike",
+      "Athletic-Wear Ike",
+      "AW Ike",
+      "Fitness Ike",
+      "F Ike 2",
+      "Workout Ike",
+      "W Ike",
+      "Exercise Ike",
+      "E Ike 2",
+      "ike10"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u904b\u52d5\u7740\u30a2\u30a4\u30af",
+    "voice": "Greg Chun",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "tellius"
+    ],
+    "chibi": [
+      "fe9"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Sprints, long jump, shot put... Think there's a contest for eating meat? Heh, probably not...",
+        "A mercenary's weapon is their partner. My father trained me well, so I have confidence in mine.",
+        "Soren said long-distance races and sprints aren't the same at all, but I'm not sure what he meant.",
+        "No need to check on me! I'm focused on winning the next competition I enter.",
+        "This outfit is comfortable. You think I could get clothes like these for everyone in my crew?"
+      ],
+      "Visit": [
+        "I'm Ike of the Greil Mercenaries. I'm participating in the fitness festival at [F]'s castle."
+      ],
+      "Level": [
+        "I feel great right now\u2014like I could win any competition I enter.",
+        "Even if it's just a festival, I'm still aiming for the top.",
+        "I won't whine about it. The results don't lie."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "This is a big help. I can focus on competing now."
+      ],
+      "Learn Skill": [
+        "Thank you! It's a perfect gift for a bride!"
+      ],
+      "Confession": [
+        "So, how was my running?\nAt first, my only intent was to win, so I ran every day to improve. But I eventually saw things differently.\nThe time spent running was a chance to reflect on myself, which is more valuable than a win or loss.\nThat alone made joining this festival worth it.\nIf there's another event like this, let me know\u2014I'll try to accomplish even more than I did this time."
+      ],
+      "Special": [
+        "I'll go first!",
+        "Don't overdo it!",
+        "I won't hold back.",
+        "Too slow!"
+      ],
+      "Status": [
+        "-",
+        "This outfit is comfortable. I like it.",
+        "Huh? You have water for me? Thank you.",
+        "Rest is important after exercise. I hear if you hydrate, eat, and sleep too, it's even better!",
+        "Everyday training is vital for anyone who wields a weapon.",
+        "There are training methods here that we're unfamiliar with...",
+        "I have a feeling I'll get along with Eik\u00feyrnir. Maybe I'll ask him to train the rest of the crew!",
+        "A good warm-up is key. I'll help any Hero who needs it."
+      ],
+      "Map Select": [
+        "Got it.",
+        "For my next workout...",
+        "Ready for anything."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Trainer Ike",
+    "SEARCH_NAME": "Trainer Ike",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Trainer Ike",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ike",
+      "ike2",
+      "ike3",
+      "ike4",
+      "ike5",
+      "ike6",
+      "ike7",
+      "ike8",
+      "ike9"
+    ],
+    "prf": {
+      "": "greilflag",
+      "eff": "greilflag",
+      "atk": "greilflag",
+      "spd": "greilflag",
+      "def": "greilflag",
+      "res": "greilflag"
+    }
+  },
+  "eikthyrnir5": {
+    "name": "Eik\u00feyrnir",
+    "title": "Chiseled Trainer",
+    "description": "A member of Yggdrasill's Healing Hands who acts as a coach for Heroes at the fitness festival.",
+    "origin": "Heroes",
+    "artist": "P-POCO",
+    "move": "Cavalry",
+    "weapon": "Beast",
+    "color": "Blue",
+    "duel": false,
+    "id": "1394",
+    "type": false,
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 24,
+      "atk": 10,
+      "spd": 3,
+      "def": 10,
+      "res": 7
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 90,
+      "spd": 30,
+      "def": 90,
+      "res": 55
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Whelp (Cavalry)": "1",
+      "Yearling (Cavalry)": "2",
+      "Adult (Cavalry)": "3",
+      "Chiseled Antler": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Mighty Growl": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "1",
+        "Atk/Def Clash 2": "2",
+        "Atk/Def Clash 3": "4"
+      },
+      "B": {},
+      "C": {
+        "C Feud 1": "2",
+        "C Feud 2": "3",
+        "C Feud 3": "4",
+        "Preempt Screech": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Eikthyrnir_Chiseled_Trainer_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Eikthyrnir_Chiseled_Trainer_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Eikthyrnir_Chiseled_Trainer_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Eikthyrnir_Chiseled_Trainer_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Chiseled Trainer",
+      "Eik\u00feyrnir: Chiseled Trainer",
+      "Trainer Eik\u00feyrnir",
+      "T Eik\u00feyrnir",
+      "Athletic Wear Eik\u00feyrnir",
+      "Athletic-Wear Eik\u00feyrnir",
+      "AW Eik\u00feyrnir",
+      "Fitness Eik\u00feyrnir",
+      "F Eik\u00feyrnir",
+      "Workout Eik\u00feyrnir",
+      "W Eik\u00feyrnir 2",
+      "Exercise Eik\u00feyrnir",
+      "E Eik\u00feyrnir",
+      "eik\u00feyrnir5",
+      "Eikthyrnir: Chiseled Trainer",
+      "Trainer Eikthyrnir",
+      "T Eikthyrnir",
+      "Athletic Wear Eikthyrnir",
+      "Athletic-Wear Eikthyrnir",
+      "AW Eikthyrnir",
+      "Fitness Eikthyrnir",
+      "F Eikthyrnir",
+      "Workout Eikthyrnir",
+      "W Eikthyrnir 2",
+      "Exercise Eikthyrnir",
+      "E Eikthyrnir",
+      "eikthyrnir5",
+      "Eik: Chiseled Trainer",
+      "Trainer Eik",
+      "T Eik",
+      "Athletic Wear Eik",
+      "Athletic-Wear Eik",
+      "AW Eik",
+      "Fitness Eik",
+      "F Eik",
+      "Workout Eik",
+      "W Eik 2",
+      "Exercise Eik",
+      "E Eik",
+      "eik5",
+      "Eiki: Chiseled Trainer",
+      "Trainer Eiki",
+      "T Eiki",
+      "Athletic Wear Eiki",
+      "Athletic-Wear Eiki",
+      "AW Eiki",
+      "Fitness Eiki",
+      "F Eiki",
+      "Workout Eiki",
+      "W Eiki 2",
+      "Exercise Eiki",
+      "E Eiki",
+      "eiki5"
+    ],
+    "HARD_ALT_NAME": [
+      "Chiseled Trainer",
+      "Eik\u00feyrnir: Chiseled Trainer",
+      "Trainer Eik\u00feyrnir",
+      "T Eik\u00feyrnir",
+      "Athletic Wear Eik\u00feyrnir",
+      "Athletic-Wear Eik\u00feyrnir",
+      "AW Eik\u00feyrnir",
+      "Fitness Eik\u00feyrnir",
+      "F Eik\u00feyrnir",
+      "Workout Eik\u00feyrnir",
+      "W Eik\u00feyrnir 2",
+      "Exercise Eik\u00feyrnir",
+      "E Eik\u00feyrnir",
+      "eik\u00feyrnir5",
+      "Eikthyrnir: Chiseled Trainer",
+      "Trainer Eikthyrnir",
+      "T Eikthyrnir",
+      "Athletic Wear Eikthyrnir",
+      "Athletic-Wear Eikthyrnir",
+      "AW Eikthyrnir",
+      "Fitness Eikthyrnir",
+      "F Eikthyrnir",
+      "Workout Eikthyrnir",
+      "W Eikthyrnir 2",
+      "Exercise Eikthyrnir",
+      "E Eikthyrnir",
+      "eikthyrnir5",
+      "Eik: Chiseled Trainer",
+      "Trainer Eik",
+      "T Eik",
+      "Athletic Wear Eik",
+      "Athletic-Wear Eik",
+      "AW Eik",
+      "Fitness Eik",
+      "F Eik",
+      "Workout Eik",
+      "W Eik 2",
+      "Exercise Eik",
+      "E Eik",
+      "eik5",
+      "Eiki: Chiseled Trainer",
+      "Trainer Eiki",
+      "T Eiki",
+      "Athletic Wear Eiki",
+      "Athletic-Wear Eiki",
+      "AW Eiki",
+      "Fitness Eiki",
+      "F Eiki",
+      "Workout Eiki",
+      "W Eiki 2",
+      "Exercise Eiki",
+      "E Eiki",
+      "eiki5"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u904b\u52d5\u7740\u30a8\u30a4\u30af\u30b9",
+    "voice": "Howard Wang",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Regardless of the activity, developing the body comes first. Muscle is the foundation of everything.",
+        "Our bodies are our treasures. Keeping them healthy and strong is what allows us to live our lives.",
+        "Muscle development is not enough. The Heroes will do well to remember that rest and nutrition are also vital.",
+        "Our strength grows with our ambition. I will help anyone who is motivated.",
+        "Heavy armor is unnecessary. The body must be forged, made into steel. Then no blade can pierce it."
+      ],
+      "Visit": [
+        "I am Eik\u00feyrnir. The fitness festival has created a lot of excitement at [F]'s castle."
+      ],
+      "Level": [
+        "There is no end to training. I will assist any on their journey.",
+        "My muscles can be measured by the effort I put into building them.",
+        "This was...a challenge. I have not trained my body hard enough!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Eik\u00feyrnir, and I have come to this fitness festival to assist the Heroes with their training."
+      ],
+      "Learn Skill": [
+        "Yes. I can see the effects of my training."
+      ],
+      "Confession": [
+        "The body and the mind must be honed to achieve our goals.\nThis fitness festival is the perfect place for us to grow both physically and mentally.\nAll right. We'll begin the training with the Heroes doing push-ups!"
+      ],
+      "Special": [
+        "With a steady breath.",
+        "Going the distance!",
+        "The key is training.",
+        "Muscles need care!"
+      ],
+      "Status": [
+        "-",
+        "We may be Heroes, but still, our bodies must be nurtured, made healthy.",
+        "Hm? Someone has fallen? I am on my way.",
+        "Proper training is dependent on each Hero's needs. They must know their limits.",
+        "Though I am here to guide other Heroes, there is so much I am learning from them.",
+        "The people in Askr will do well not to forget that nutrition and rest are vital after training.",
+        "I can see the efforts everyone here has put into developing their bodies.",
+        "Is it time to train? I am happy to assist others so they do not get injured."
+      ],
+      "Map Select": [
+        "It is time.",
+        "For the well-being of all.",
+        "I shall forge the path."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Trainer Eik\u00feyrnir",
+    "SEARCH_NAME": "Trainer Eik\u00feyrnir",
+    "DISPLAY_NAME": "<:Green_Beast:1317239527953141870>Trainer Eik\u00feyrnir",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "eikthyrnir",
+      "eikthyrnir2",
+      "eikthyrnir3",
+      "eikthyrnir4"
+    ],
+    "prf": {
+      "": "chiseledantler",
+      "eff": "chiseledantler",
+      "atk": "chiseledantler",
+      "spd": "chiseledantler",
+      "def": "chiseledantler",
+      "res": "chiseledantler"
     }
   }
 }

@@ -6201,7 +6201,8 @@
         "lyon6": "3",
         "canis": "3",
         "ash4": "3",
-        "baldr4": "3"
+        "baldr4": "3",
+        "tharja8": "3"
       }
     },
     "refine": {},
@@ -6407,7 +6408,8 @@
         "lyon6": "4",
         "canis": "4",
         "ash4": "4",
-        "baldr4": "4"
+        "baldr4": "4",
+        "tharja8": "4"
       }
     },
     "refine": {},
@@ -6836,7 +6838,8 @@
         "chulainn2": "3",
         "zelkov": "3",
         "celine4": "3",
-        "sothe4": "3"
+        "sothe4": "3",
+        "ike10": "3"
       }
     },
     "refine": {},
@@ -7111,7 +7114,8 @@
         "chulainn2": "4",
         "zelkov": "4",
         "celine4": "4",
-        "sothe4": "4"
+        "sothe4": "4",
+        "ike10": "4"
       }
     },
     "refine": {},
@@ -7846,7 +7850,8 @@
         "roy6": "3",
         "alm6": "3",
         "alfonse7": "3",
-        "jormungandr": "3"
+        "jormungandr": "3",
+        "eikthyrnir5": "3"
       }
     },
     "refine": {},
@@ -8069,7 +8074,8 @@
         "reginn4": "4",
         "roy6": "4",
         "alm6": "4",
-        "jormungandr": "4"
+        "jormungandr": "4",
+        "eikthyrnir5": "4"
       }
     },
     "refine": {},
@@ -12429,7 +12435,8 @@
         "plumeria2": "5",
         "ike9": "4",
         "edelgard8": "4",
-        "hector8": "4"
+        "hector8": "4",
+        "ike10": "4"
       },
       "Quick Riposte 2": {},
       "Quick Riposte 1": {}
@@ -42641,7 +42648,8 @@
         "mbyleth6": "4",
         "lucina10": "4",
         "ingrid5": "4",
-        "alm6": "4"
+        "alm6": "4",
+        "heidr": "4"
       },
       "Atk/Spd Link 2": {},
       "Atk/Spd Link 1": {}
@@ -49315,7 +49323,9 @@
         "eikthyrnir2": "3",
         "lethe3": "3",
         "yarne3": "3",
-        "eikthyrnir3": "3"
+        "eikthyrnir3": "3",
+        "eikthyrnir4": "3",
+        "eikthyrnir5": "3"
       }
     },
     "refine": {},
@@ -51394,7 +51404,8 @@
         "arval": "4",
         "soren6": "4",
         "ivy3": "4",
-        "lyon6": "4"
+        "lyon6": "4",
+        "guinivere2": "4"
       },
       "Sabotage Res 2": {},
       "Sabotage Res 1": {}
@@ -57496,7 +57507,8 @@
         "lute3": "4",
         "lyon6": "4",
         "gotoh": "4",
-        "alm6": "4"
+        "alm6": "4",
+        "tharja8": "4"
       },
       "Time's Pulse 2": {},
       "Time's Pulse 1": {}
@@ -61818,7 +61830,8 @@
         "selkie2": "5",
         "elimine": "4",
         "tharja7": "4",
-        "canis": "4"
+        "canis": "4",
+        "tharja8": "4"
       },
       "Sabotage Spd 2": {},
       "Sabotage Spd 1": {}
@@ -64845,7 +64858,8 @@
       },
       "Def/Res Oath 3": {
         "alfonse3": "5",
-        "caeda6": "4"
+        "caeda6": "4",
+        "ike10": "4"
       },
       "Def/Res Oath 2": {},
       "Def/Res Oath 1": {}
@@ -73269,45 +73283,23 @@
       "byleth3",
       "Byleth: Fell Star's Duo",
       "Fell Star's Duo",
-      "Duo Byleth",
-      "Harmonic Byleth",
-      "Harmonized Byleth",
       "Summer Byleth",
-      "Duo Beleth",
-      "Harmonic Beleth",
-      "Harmonized Beleth",
       "Summer Beleth",
       "Duo Female Byleth",
-      "Harmonic Female Byleth",
-      "Harmonized Female Byleth",
       "Summer Female Byleth",
       "Duo Byleth Female",
-      "Harmonic Byleth Female",
-      "Harmonized Byleth Female",
       "Summer Byleth Female",
       "Duo F Byleth",
-      "Harmonic F Byleth",
-      "Harmonized F Byleth",
       "Summer F Byleth",
       "Duo Byleth F",
-      "Harmonic Byleth F",
-      "Harmonized Byleth F",
       "Summer Byleth F",
       "Duo Female Beleth",
-      "Harmonic Female Beleth",
-      "Harmonized Female Beleth",
       "Summer Female Beleth",
       "Duo Beleth Female",
-      "Harmonic Beleth Female",
-      "Harmonized Beleth Female",
       "Summer Beleth Female",
       "Duo F Beleth",
-      "Harmonic F Beleth",
-      "Harmonized F Beleth",
       "Summer F Beleth",
       "Duo Beleth F",
-      "Harmonic Beleth F",
-      "Harmonized Beleth F",
       "Summer Beleth F",
       "belethf2",
       "fbeleth2",
@@ -73319,9 +73311,7 @@
       "femalebyleth2",
       "beleth3",
       "S Byleth",
-      "D Byleth",
       "S Beleth",
-      "D Beleth",
       "S Female Byleth",
       "D Female Byleth",
       "S Byleth Female",
@@ -73338,8 +73328,7 @@
       "D F Beleth",
       "S Beleth F",
       "D Beleth F",
-      "Syleth",
-      "Dyleth"
+      "Syleth"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -86992,8 +86981,13 @@
         "shanna2": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Spd+6,\u3010Potent Follow\u3011, and \u3010Pulse Follow\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+10 to unit during combat, and also, if\u3010Potent Follow X%\u3011has triggered and X ≤ 99, then X = 100."
+      ],
+      "description": "Enables\u3010Canto (\uff12)\u3011. Effective against flying foes. Grants Atk+3.\nGrants Atk/Spd+6 and Def/Res+5 to unit, unit deals +20 damage (including area-of-effect Specials), and reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and also, if unit initiates combat, unit can make a follow-up attack before foe's next attack during combat."
+    },
+    "icon": 2727,
     "HARD_ALT_NAME": [
       "shanna2",
       "Shanna: Bridal Novice",
@@ -96115,14 +96109,7 @@
     },
     "icon": false,
     "HARD_ALT_NAME": [
-      "spiritedaxe+",
-      "basilio",
-      "Basilio: Feroxi West-Khan",
-      "Feroxi West-Khan",
-      "Base Basilio",
-      "Normal Basilio",
-      "basilio1",
-      "Basilio"
+      "spiritedaxe+"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -96929,7 +96916,8 @@
         "elm": "4",
         "lyn10": "4",
         "nerpuz": "4",
-        "tibarn3": "4"
+        "tibarn3": "4",
+        "eikthyrnir5": "4"
       },
       "C Feud 2": {},
       "C Feud 1": {}
@@ -97541,8 +97529,13 @@
         "joshua3": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "At start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Exposure\u3011,\u3010Discord\u3011, and a penalty that neutralizes non-Special \"if foe would reduce unit's HP to 0, unit survives with 1 HP\" effects on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+10 to unit and unit deals +20 damage during combat (including area-of-effect Specials)."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1).\nGrants Atk/Spd+6 and Def/Res+5 to unit, neutralizes foe's bonuses to Spd/Def, reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nIf foe in combat is in a cardinal direction of unit, foe cannot counterattack and disables skills of all foes excluding foe in combat during combat.\nIf foe in combat is not in a cardinal direction of unit, deals damage = 20% of foe's Atk (including area-of-effect Specials) and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nEffect: \u3010Dagger \uff17\u3011"
+    },
+    "icon": 2728,
     "HARD_ALT_NAME": [
       "joshua3",
       "Joshua: Resolute Tempest",
@@ -99116,8 +99109,13 @@
         "hugh": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Grants weapon-triangle advantage against colorless foes, and inflicts weapon-triangle disadvantage on colorless foes during combat.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, unit or ally deals +X damage (excluding area-of-effect Specials; for unit, X = 20; for allies, X = 10), and grants Special cooldown count-1 before first attack during combat.\nNeutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat."
+      ],
+      "description": "Grants Spd+3. Grants bonus to unit's Atk/Spd/Def/Res based on the number of times unit has been enhanced using Dragonflowers (five or more times grants +12, four times grants +11, three times grants +10, and two or fewer times grants +9), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials).\nIf unit has been enhanced using Dragonflowers three or more times, grants additional bonus to unit's Atk/Spd/Def/Res during combat = highest bonus on each stat between unit and allies on the map (calculates each stat bonus independently)."
+    },
+    "icon": 2729,
     "HARD_ALT_NAME": [
       "hugh",
       "Hugh: Worldly Mage",
@@ -104607,14 +104605,7 @@
     },
     "icon": false,
     "HARD_ALT_NAME": [
-      "vultureaxe+",
-      "brigandboss",
-      "Brigand Boss: Known Criminal",
-      "Known Criminal",
-      "Base Brigand Boss",
-      "Normal Brigand Boss",
-      "brigandboss1",
-      "Brigand Boss"
+      "vultureaxe+"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -107981,7 +107972,8 @@
         "sigurd6": "4",
         "naoise": "4",
         "tibarn3": "4",
-        "alfonse7": "4"
+        "alfonse7": "4",
+        "eikthyrnir5": "4"
       },
       "Atk/Def Clash 2": {},
       "Atk/Def Clash 1": {}
@@ -114675,13 +114667,21 @@
     },
     "icon": 2621,
     "HARD_ALT_NAME": [
-      "nerpuz",
       "Ner\u00feuz: God of the Land",
       "God of the Land",
       "Base Ner\u00feuz",
       "Normal Ner\u00feuz",
-      "nerpuz1",
-      "Ner\u00feuz"
+      "ner\u00feuz",
+      "Nerpuz: God of the Land",
+      "Base Nerpuz",
+      "Normal Nerpuz",
+      "Mythic Nerpuz",
+      "nerpuz",
+      "Nerthuz: God of the Land",
+      "Base Nerthuz",
+      "Normal Nerthuz",
+      "Mythic Nerthuz",
+      "nerthuz"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -118769,8 +118769,13 @@
         "heidr": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Grants Atk/Spd/Def/Res+10 to unit and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if unit initiates combat, unit can make a follow-up attack before foe's next attack."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1).\nIf a Rally or movement Assist skill is used by unit or targets unit, inflicts Atk/Spd/Def/Res-6, \u3010Guard\u3011,\u3010Sabotage\u3011, and\u3010Spd Shackle\u3011on foes within 3 rows or 3 columns centered on unit and target ally or unit and targeting ally after movement through their next actions.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 40% (excluding area-of-effect Specials), and reduces damage from foe's attacks by an additional 7 during combat (excluding area-of-effect Specials)."
+    },
+    "icon": 2726,
     "HARD_ALT_NAME": [
       "Hei\u00f0r: Innocent Goddess",
       "Innocent Goddess",
@@ -118850,11 +118855,11 @@
     "wpn": "wep_rd058"
   },
   "goldserpent": {
-    "name": "Gold Serpent",
+    "name": "Gold Serpent+",
     "skill": [
       {
         "name": "Gold Serpent",
-        "description": "Grants the following effects to unit and target ally for 1 turn: from turn 1 on, grants Atk/Spd+X (X = number of turns \u00d7 2; max 8); from turn 2 on, Enables\u3010Canto (\uff11)\u3011.; from turn 3 on, grants\u3010Treachery\u3011; and from turn 4 on, grants\u3010Dual Strike\u3011. Grants another action to unit. (Additional action and effects other than stat bonuses granted once per turn only. This skill treated as a Rally Assist skill.)\n\u3010Canto (\uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff11 space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than \uff11 space(s).)\n\u3010Treachery\u3011\nUnit deals additional damage = total bonuses on unit for 1 turn.\n\u3010Dual Strike\u3011\nIf unit initiates combat and is adjacent to an ally with Dual Strike (excluding unit), unit attacks twice. (That turn only. Does not stack.)",
+        "description": "Grants the following effects to unit and target ally for 1 turn: from turn 1 on, grants Atk/Spd+X (X = number of turns \u00d7 2; max 8); from turn 2 on, Enables\u3010Canto (\uff11)\u3011.; from turn 3 on, grants\u3010Treachery\u3011; and from turn 4 on, grants\u3010Dual Strike\u3011. Grants another action to unit. (Additional action and effects other than stat bonuses granted once per turn only. This skill treated as a Rally Assist skill.)",
         "stats": {
           "rng": "1",
           "sp": "400"
@@ -118867,16 +118872,37 @@
         "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
+      },
+      {
+        "name": "Gold Serpent+",
+        "description": "This skill treated as a Rally Assist skill.\nGrants the following effects to unit and target ally for 1 turn: from turn 1 on, grants Atk/Spd+X (X = number of turns \u00d7 3; max 9), enables \u3010Canto (\uff11)\u3011, and grants \"unit can move 1 extra space (that turn only; does not stack)\"; from turn 2 on, grants\u3010Treachery\u3011and \u3010Spd Liberate\u3011; and from turn 3 on, grants \u3010Dual Strike\u3011and\u3010Time's Gate\u3011. Grants another action to unit. (Additional action and effects other than stat bonuses granted once per turn only.)\nUnit can move through foes' spaces.\nIf the total value of unit's bonuses = 0 during combat, unit deals +Y damage (excluding area-of-effect Specials; Y = highest total bonuses among allies on the map with \u3010Treachery\u3011active).",
+        "stats": {
+          "rng": "1",
+          "sp": "400"
+        },
+        "required": [
+          "Gold Serpent"
+        ],
+        "exclusive": true,
+        "slot": "Assist",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
       }
     ],
     "reference": {
-      "Gold Serpent": {
+      "Gold Serpent+": {
         "heidr": "5"
-      }
+      },
+      "Gold Serpent": {}
     },
     "refine": {},
     "icon": false,
-    "HARD_ALT_NAME": [],
+    "HARD_ALT_NAME": [
+      "Gold Serpent II",
+      "Gold Serpent+",
+      "Gold Serpent 2"
+    ],
     "ALT_NAME": [],
     "slot": "Assist",
     "wpn": false
@@ -119446,8 +119472,13 @@
         "guinivere2": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "At start of player phase or enemy phase, grants Atk/Spd/Res+6,\u3010Fire Emblem\u3011, and \"neutralizes penalties on unit during combat\" to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+10 to unit and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nIf foe uses magic, grants Atk+10 to unit during combat, and also, if foe initiates combat, unit can counterattack before foe's first attack."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1). Effective against magic foes.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials)."
+    },
+    "icon": 2725,
     "HARD_ALT_NAME": [
       "guinivere2",
       "Guinivere: Queen of Bern",
@@ -119468,7 +119499,7 @@
     "wpn": "wep_mg323"
   },
   "bernsnewway": {
-    "name": "Bern's New Way",
+    "name": "New Way II",
     "skill": [
       {
         "name": "Bern's New Way",
@@ -119481,17 +119512,43 @@
         "restriction_weapon": false,
         "restriction_movement": false,
         "bonus": {}
+      },
+      {
+        "name": "New Way II",
+        "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +5.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, unit or ally deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and grants Special cooldown count-1 to unit or ally before their first attack during combat, and restores 10 HP after combat.\nGrants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack) and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
       }
     ],
     "reference": {
+      "New Way II": {
+        "guinivere2": "5"
+      },
       "Bern's New Way": {
         "guinivere2": "5"
       }
     },
     "refine": {},
-    "icon": "1939",
-    "HARD_ALT_NAME": [],
-    "ALT_NAME": [],
+    "icon": 2732,
+    "HARD_ALT_NAME": [
+      "New Way II",
+      "New Way+",
+      "New Way 2"
+    ],
+    "ALT_NAME": [
+      "Bern's New Way II",
+      "Bern's New Way+",
+      "Bern's New Way 2",
+      "Berns New Way II",
+      "Berns New Way+",
+      "Berns New Way 2"
+    ],
     "slot": "Passive C",
     "wpn": false
   },
@@ -146371,7 +146428,8 @@
     ],
     "reference": {
       "Preempt Screech": {
-        "elm": "5"
+        "elm": "5",
+        "eikthyrnir5": "5"
       }
     },
     "refine": {},
@@ -152224,7 +152282,8 @@
         "mbyleth6": "5",
         "lucina10": "5",
         "ingrid5": "5",
-        "alm6": "5"
+        "alm6": "5",
+        "heidr": "5"
       }
     },
     "refine": {},
@@ -153591,7 +153650,8 @@
         "lute3": "5",
         "lyon6": "5",
         "canis": "5",
-        "ash4": "5"
+        "ash4": "5",
+        "tharja8": "5"
       }
     },
     "icon": false,
@@ -155834,7 +155894,8 @@
       "Patience": {
         "ike9": "5",
         "edelgard8": "5",
-        "hector8": "5"
+        "hector8": "5",
+        "ike10": "5"
       }
     },
     "icon": 2568,
@@ -163069,11 +163130,9 @@
         "slot": "Passive B",
         "restriction_weapon": false,
         "restriction_movement": [
-          "**Cannot** be used by: ",
+          "**Can only** be used by: ",
           [
-            "Cavalry",
-            "Armored",
-            "Flying"
+            "Infantry"
           ]
         ],
         "bonus": {}
@@ -163376,11 +163435,9 @@
         "slot": "Passive B",
         "restriction_weapon": false,
         "restriction_movement": [
-          "**Cannot** be used by: ",
+          "**Can only** be used by: ",
           [
-            "Cavalry",
-            "Armored",
-            "Flying"
+            "Infantry"
           ]
         ],
         "bonus": {}
@@ -163388,7 +163445,9 @@
     ],
     "reference": {
       "Spd/Res Unrest": {
-        "canis": "5"
+        "canis": "5",
+        "guinivere2": "5",
+        "tharja8": "5"
       }
     },
     "refine": {},
@@ -164010,7 +164069,9 @@
     "HARD_ALT_NAME": [
       "Arcane Cake",
       "Full-Tilt Bride",
+      "Full Tilt Bride",
       "Reginn: Full-Tilt Bride",
+      "Reginn: Full Tilt Bride",
       "Wedding Reginn",
       "B Reginn",
       "W Reginn",
@@ -164544,7 +164605,8 @@
       "Rise Above 2": {},
       "Rise Above 3": {},
       "Rise Above 4": {
-        "roy6": "5"
+        "roy6": "5",
+        "ike10": "5"
       }
     },
     "icon": 2704,
@@ -165746,5 +165808,717 @@
     ],
     "slot": "Passive C",
     "wpn": false
+  },
+  "herosgreataxe": {
+    "name": "Hero s Greataxe",
+    "skill": [
+      {
+        "name": "Hero's Greataxe",
+        "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally, and grants Special cooldown charge +1 per attack during combat (only highest value applied; does not stack).\nNeutralizes foe's bonuses to Atk/Def and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Hero's Greataxe": {
+        "basilio": "5"
+      }
+    },
+    "refine": {
+      "special": [
+        "Grants Atk/Spd/Def/Res+5 to unit, unit deals +20 damage (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat, and restores 7 HP to unit after combat."
+      ],
+      "description": "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally, and grants Special cooldown charge +1 per attack during combat (only highest value applied; does not stack).\nNeutralizes foe's bonuses to Atk/Def and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials)."
+    },
+    "icon": 2730,
+    "HARD_ALT_NAME": [
+      "Hero's Greataxe",
+      "Heros Greataxe",
+      "basilio",
+      "Basilio: Feroxi West-Khan",
+      "Feroxi West-Khan",
+      "Base Basilio",
+      "Normal Basilio",
+      "basilio1",
+      "Basilio"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax195"
+  },
+  "axeoftroubles": {
+    "name": "Axe of Troubles",
+    "skill": [
+      {
+        "name": "Axe of Troubles",
+        "description": "Grants Atk/Spd/Def/Res+5 to unit, unit deals +20 damage (excluding area-of-effect Specials), grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and restores 7 HP to unit when unit deals damage to foe during combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Axe of Troubles": {
+        "brigandboss": "5"
+      }
+    },
+    "refine": {
+      "special": [
+        "For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5 and foe suffers a guaranteed follow-up attack during combat, and also, if foe has bonuses, inflicts a penalty on foe's Atk/Spd/Def/Res and grants a bonus to foe's combat target's Atk/Spd/Def/Res during combat = current bonus on each of foe's stats (calculates each stat bonus and penalty independently).\nReduces damage from foe's attacks by 15 (excluding area-of-effect Specials) and foe cannot make a follow-up attack during combat."
+      ],
+      "description": "Grants Atk/Spd/Def/Res+5 to unit, unit deals +20 damage (excluding area-of-effect Specials), grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and restores 7 HP to unit when unit deals damage to foe during combat."
+    },
+    "icon": 2731,
+    "HARD_ALT_NAME": [
+      "Axe of Troubles",
+      "brigandboss",
+      "Brigand Boss: Known Criminal",
+      "Known Criminal",
+      "Base Brigand Boss",
+      "Normal Brigand Boss",
+      "brigandboss1",
+      "Brigand Boss"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax196"
+  },
+  "guidinglance": {
+    "name": "Guiding Lance",
+    "skill": [
+      {
+        "name": "Guiding Lance",
+        "description": "Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range.\nAt start of turn, grants Atk/Spd \u3010Great Talent\u3011+2 to unit and allies within 3 rows or 3 columns centered on unit.\nAfter combat, if unit attacked, grants Atk/Spd \u3010Great Talent\u3011+4 to unit and allies within 3 rows or 3 columns centered on unit.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Sublime Heaven Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 3 spaces away (unit cannot attack adjacent foes).\nGrants Special cooldown count-1 to unit before unit's first attack during combat. If foe uses dragon or beast damage and unit's Special triggers, deals damage = 20% of unit's Atk (excluding area-of-effect Specials).\nCannot move through spaces within 3 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1 or foe can counterattack regardless of unit's range.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. Once used, this Style cannot be used for two turns.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n(This skill grants max of\u3010Great Talent\u3011+20 for unit and\u3010Great Talent\u3011+10 for allies.)",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Guiding Lance": {
+        "fbyleth6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Guiding Lance",
+      "Cheer Power",
+      "Byleth: Cheer Power",
+      "Harmonic Byleth F",
+      "Harmonic Byleth Female",
+      "Harmonic F Byleth",
+      "Harmonic Female Byleth",
+      "Harmonized Byleth F",
+      "Harmonized Byleth Female",
+      "Harmonized F Byleth",
+      "Harmonized Female Byleth",
+      "H Byleth F",
+      "H F Byleth",
+      "Trainer Byleth",
+      "Trainer Female Byleth",
+      "Trainer F Byleth",
+      "Trainer Byleth Female",
+      "Trainer Byleth F",
+      "T Byleth",
+      "T F Byleth",
+      "T Byleth F",
+      "Athletic Wear Byleth",
+      "Athletic Wear Female Byleth",
+      "Athletic Wear F Byleth",
+      "Athletic Wear Byleth Female",
+      "Athletic Wear Byleth F",
+      "Athletic-Wear Byleth",
+      "Athletic-Wear Female Byleth",
+      "Athletic-Wear F Byleth",
+      "Athletic-Wear Byleth Female",
+      "Athletic-Wear Byleth F",
+      "AW Byleth",
+      "AW Byleth F",
+      "AW F Byleth",
+      "Fitness Byleth",
+      "Fitness Female Byleth",
+      "Fitness F Byleth",
+      "Fitness Byleth Female",
+      "Fitness Byleth F",
+      "F F Byleth 2",
+      "F Byleth F 2",
+      "Workout Byleth",
+      "Workout Female Byleth",
+      "Workout F Byleth",
+      "Workout Byleth Female",
+      "Workout Byleth F",
+      "W F Byleth",
+      "W Byleth F",
+      "Exercise Byleth",
+      "Exercise Female Byleth",
+      "Exercise F Byleth",
+      "Exercise Byleth Female",
+      "Exercise Byleth F",
+      "E F Byleth",
+      "E Byleth F",
+      "byleth13",
+      "fbyleth6"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc215"
+  },
+  "divinerumble": {
+    "name": "Divine Rumble",
+    "skill": [
+      {
+        "name": "Divine Rumble",
+        "description": "When Special triggers, boosts damage by unit's Spd.\nAt start of turn, and at start of enemy phase (except for in Summoner Duels), for unit and allies within 3 spaces of unit, grants \u3010Prof's Guidance Skill\u3011and\u3010Dodge\u3011for 1 turn, and if Special cooldown count is at its maximum value, grants Special cooldown count-1.\nIf foe initiates combat and unit's Spd > foe's Spd, unit can counterattack before foe's first attack during combat.\nReduces damage from foe's first attack by X% (if unit initiates combat or during unit's first combat initiated by foe each turn, X = 80; otherwise, X = 40; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and reduces damage from foe's follow-up attack by 40% during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\n\u3010Prof's Guidance Skill\u3011\nWhile unit lives, unit gets 2\u00d7 SP after combat or after using an Assist skill (only highest value applied; does not stack).\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and grants Special cooldown count-1 after combat.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Dragon Fang"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Divine Rumble": {
+        "fbyleth6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Divine Rumble"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "counterdull": {
+    "name": "Counter Dull",
+    "skill": [
+      {
+        "name": "Counter Dull",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Velocity 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Blue_Lance",
+            "Green_Axe"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +7.\nReduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials).\nInflicts Atk/Spd/Def-4 on foe, neutralizes foe's bonuses, deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials), and neutralizes effects that prevent unit's counterattacks during combat."
+      }
+    ],
+    "reference": {
+      "Counter Dull": {
+        "fbyleth6": "5"
+      }
+    },
+    "icon": 2733,
+    "HARD_ALT_NAME": [
+      "Counter Dull"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "astenethone": {
+    "name": "A S Tenet Hone",
+    "skill": [
+      {
+        "name": "A/S Tenet Hone",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Spd Oath 3"
+        ],
+        "description": "At start of player phase or enemy phase, grants \u3010Bulwark\u3011to unit for 1 turn, and grants Atk/Spd+6 and \"neutralizes penalties on unit during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk/Spd = number of allies within 3 rows or 3 columns centered on unit \u00d7 2 (max 6), unit deals +5 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\n\u3010Bulwark\u3011\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).",
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ]
+      }
+    ],
+    "reference": {
+      "A/S Tenet Hone": {
+        "fbyleth6": "5"
+      }
+    },
+    "icon": 2734,
+    "HARD_ALT_NAME": [
+      "A/S Tenet Hone"
+    ],
+    "ALT_NAME": [
+      "Attack/Speed Tenet Hone",
+      "Atk/Spd Tenet Hone"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "dourbaton": {
+    "name": "Dour Baton",
+    "skill": [
+      {
+        "name": "Dour Baton",
+        "description": "Accelerates Special trigger (cooldown count-1).\nFor unit, allies within 3 spaces of unit, and allies on the map with\u3010Anathema\u3011active, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), neutralizes foe's bonuses, and grants Special cooldown count-Y to unit or ally before their first attack during combat (Y = number of allies on the map, excluding unit, with \u3010Anathema\u3011active; max 3 for unit; max 2 for allies) (effects do not stack even if ally conditions overlap).\nGrants bonus to unit's Atk = unit's maximum Special cooldown count value \u00d7 4, reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow 100%\u3011 during combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Dour Baton": {
+        "tharja8": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Dour Baton",
+      "Dour Cheer",
+      "Tharja: Dour Cheer",
+      "Trainer Tharja",
+      "T Tharja",
+      "Athletic Wear Tharja",
+      "Athletic-Wear Tharja",
+      "AW Tharja",
+      "Fitness Tharja",
+      "F Tharja",
+      "Workout Tharja",
+      "W Tharja",
+      "Exercise Tharja",
+      "E Tharja",
+      "tharja8"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg347"
+  },
+  "longdead": {
+    "name": "Long Dead",
+    "skill": [
+      {
+        "name": "Long-Dead",
+        "description": "Grants Atk/Spd/Def/Res+9.\nAt start of player phase or enemy phase, grants\u3010Anathema\u3011,\u3010Pulse Follow\u3011, and \u3010True Charge\u3011to unit and allies within 3 spaces of unit for 1 turn.\nUnit deals +X \u00d7 3 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X \u00d7 20% (excluding area-of-effect Specials), and reduces damage from foe's attacks by an additional X \u00d7 3 during combat (excluding area-of-effect Specials), and also, if X \u2265 2, foe cannot trigger Specials during combat (excluding area-of-effect Specials).\nAfter combat, restores X \u00d7 3 HP to unit.\n(X = number of allies on the map with \u3010Anathema\u3011active, excluding unit; max 3.)",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {
+          "atk": 9,
+          "spd": 9,
+          "def": 9,
+          "res": 9
+        }
+      }
+    ],
+    "reference": {
+      "Long-Dead": {
+        "tharja8": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2736,
+    "HARD_ALT_NAME": [
+      "Long-Dead",
+      "Long Dead"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "pulsefollowcon": {
+    "name": "Pulse Follow Con",
+    "skill": [
+      {
+        "name": "Pulse Follow Con",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Time's Pulse 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "At start of player phase or enemy phase, if any foes within 3 rows or 3 columns centered on unit have Res < unit's Res+5, inflicts \u3010Exposure\u3011and\u3010Discord\u3011on those foes through their next actions.\nGrants bonus to unit's Atk/Spd = unit's max Special cooldown count value + 2, reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat."
+      }
+    ],
+    "reference": {
+      "Pulse Follow Con": {
+        "tharja8": "5"
+      }
+    },
+    "icon": 2737,
+    "HARD_ALT_NAME": [
+      "Pulse Follow Con"
+    ],
+    "ALT_NAME": [
+      "Con Pulse Follow"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "greilflag": {
+    "name": "Greil Flag",
+    "skill": [
+      {
+        "name": "Greil Flag",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn, grants Atk/Def/Res \u3010Great Talent\u3011+2 to unit and allies within 3 rows or 3 columns centered on unit.\nAfter combat, if unit attacked, grants Atk/Def/Res\u3010Great Talent\u3011+4 to unit and allies within 3 rows or 3 columns centered on unit.\nGrants Atk/Spd/Def/Res+15 to unit, neutralizes foe's bonuses to Atk/Def, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.\n(This skill grants max of\u3010Great Talent\u3011+20 for unit and \u3010Great Talent\u3011+10 for allies.)",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Greil Flag": {
+        "ike10": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Greil Flag",
+      "Full-Tilt Merc",
+      "Full Tilt Merc",
+      "Ike: Full-Tilt Merc",
+      "Ike: Full Tilt Merc",
+      "Trainer Ike",
+      "T Ike",
+      "Athletic Wear Ike",
+      "Athletic-Wear Ike",
+      "AW Ike",
+      "Fitness Ike",
+      "F Ike 2",
+      "Workout Ike",
+      "W Ike",
+      "Exercise Ike",
+      "E Ike 2",
+      "ike10"
+    ],
+    "ALT_NAME": [
+      "Deluxe Barbeque"
+    ],
+    "slot": "Weapon",
+    "wpn": "wep_sw222"
+  },
+  "aethersroute": {
+    "name": "Aether s Route",
+    "skill": [
+      {
+        "name": "Aether's Route",
+        "description": "When Special triggers, boosts damage by the greater of unit's or foe's Def and restores 50% of unit's maximum HP.\nAt start of player phase or enemy phase, grants\u3010Radiant Hero\u3011and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nFoe can make a follow-up attack before unit's next attack during combat.\nNeutralizes effects that inflict \"Special cooldown charge -X\" on unit, reduces the effect of\u3010Deep Wounds\u3011by 50%, neutralizes effects that prevent unit's counterattacks, and reduces damage from foe's attacks by 40%, but if unit receives consecutive attacks, reduces damage from foe's second attack onward by 70% during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Sol",
+          "Luna"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Aether's Route": {
+        "ike10": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Aether's Route",
+      "Aethers Route"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "drtenethone": {
+    "name": "D R Tenet Hone",
+    "skill": [
+      {
+        "name": "D/R Tenet Hone",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Def/Res Oath 3"
+        ],
+        "description": "At start of player phase or enemy phase, grants \u3010Bulwark\u3011to unit for 1 turn, and grants Def/Res+6 and \"neutralizes penalties on unit during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 2 (max 6), unit deals +5 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\n\u3010Bulwark\u3011\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).",
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ]
+      }
+    ],
+    "reference": {
+      "D/R Tenet Hone": {
+        "ike10": "5"
+      }
+    },
+    "icon": 2735,
+    "HARD_ALT_NAME": [
+      "D/R Tenet Hone"
+    ],
+    "ALT_NAME": [
+      "Defense/Resistance Tenet Hone",
+      "Def/Res Tenet Hone"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "chiseledantler": {
+    "name": "Chiseled Antler",
+    "skill": [
+      {
+        "name": "Chiseled Antler",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Def+6,\u3010Drain Cancel\u3011, and\u3010Null Panic\u3011to unit and allies within 2 spaces of unit for 1 turn.\nIf unit or allies within 2 spaces of unit have bonuses to Atk/Spd/Def/Res after start-of-turn skills trigger, or, if defending in Aether Raids, after start-of-turn skills trigger at the start of turn 1 of enemy phase, grants an additional +3 to each corresponding stat for unit and those allies for 1 turn (calculates each stat bonus independently; max 10).\nGrants Atk/Def/Res+16 to unit, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 50% of X (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 50% of X (excluding area-of-effect Specials; X = highest total bonuses among unit and allies within 3 rows or 3 columns centered on unit), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2 to unit, inflicts Atk/Def-Y on foe during combat (Y = number of spaces from start position to end position of whoever initiated combat + 3; max 6), and also, if Y \u2265 5, reduces damage from foe's first attack by 30% during combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Beast",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Chiseled Antler": {
+        "eikthyrnir5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Chiseled Antler",
+      "Chiseled Trainer",
+      "Eik\u00feyrnir: Chiseled Trainer",
+      "Trainer Eik\u00feyrnir",
+      "T Eik\u00feyrnir",
+      "Athletic Wear Eik\u00feyrnir",
+      "Athletic-Wear Eik\u00feyrnir",
+      "AW Eik\u00feyrnir",
+      "Fitness Eik\u00feyrnir",
+      "F Eik\u00feyrnir",
+      "Workout Eik\u00feyrnir",
+      "W Eik\u00feyrnir 2",
+      "Exercise Eik\u00feyrnir",
+      "E Eik\u00feyrnir",
+      "eik\u00feyrnir5",
+      "Eikthyrnir: Chiseled Trainer",
+      "Trainer Eikthyrnir",
+      "T Eikthyrnir",
+      "Athletic Wear Eikthyrnir",
+      "Athletic-Wear Eikthyrnir",
+      "AW Eikthyrnir",
+      "Fitness Eikthyrnir",
+      "F Eikthyrnir",
+      "Workout Eikthyrnir",
+      "W Eikthyrnir 2",
+      "Exercise Eikthyrnir",
+      "E Eikthyrnir",
+      "eikthyrnir5",
+      "Eik: Chiseled Trainer",
+      "Trainer Eik",
+      "T Eik",
+      "Athletic Wear Eik",
+      "Athletic-Wear Eik",
+      "AW Eik",
+      "Fitness Eik",
+      "F Eik",
+      "Workout Eik",
+      "W Eik 2",
+      "Exercise Eik",
+      "E Eik",
+      "eik5",
+      "Eiki: Chiseled Trainer",
+      "Trainer Eiki",
+      "T Eiki",
+      "Athletic Wear Eiki",
+      "Athletic-Wear Eiki",
+      "AW Eiki",
+      "Fitness Eiki",
+      "F Eiki",
+      "Workout Eiki",
+      "W Eiki 2",
+      "Exercise Eiki",
+      "E Eiki",
+      "eiki5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "mightygrowl": {
+    "name": "Mighty Growl",
+    "skill": [
+      {
+        "name": "Mighty Growl",
+        "description": "When Special triggers, boosts damage by unit's Def.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (X = highest bonus on each stat between unit and allies on the map; calculates each stat bonus independently), and grants Special cooldown count-Y to unit or ally before their first attack during combat (for unit, Y = highest total bonuses among unit and allies on the map \u00f7 12; for allies Y = highest total bonuses among unit and allies on the map \u00f718; rounded down).\nIf unit's Atk at start of combat \u2265 foe's Atk-5, inflicts Atk/Def-7 on foe during combat.\nIf unit's Def at start of combat \u2265 foe's Def-5, inflicts Atk/Def-7 on foe during combat.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials) and unit makes a guaranteed follow-up attack during combat.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Mighty Growl": {
+        "eikthyrnir5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Mighty Growl"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "groa": {
+    "name": "Gr\u00f3a",
+    "skill": [
+      {
+        "name": "Gr\u00f3a",
+        "description": "Enables\u3010Canto (Dist.; Max \uff13, Min \uff11)\u3011. Accelerates Special trigger (cooldown count-1).\nAfter unit acts (if Canto triggers, after Canto), inflicts\u3010Time's Grip\u3011on closest foes and inflicts Spd/Res-7,\u3010Sabotage\u3011, and\u3010Exposure\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nAfter Canto (including cases where action is ended due to Canto Control), if unit has used an Assist skill on the current turn, grants another action to unit, and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (including area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials), and also, if unit initiates combat, unit can make a follow-up attack before foe's next attack.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Gr\u00f3a": {}
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg516"
   }
 }
