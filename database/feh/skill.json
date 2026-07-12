@@ -7450,7 +7450,8 @@
         "lamia": "3",
         "mbyleth7": "3",
         "ivy4": "3",
-        "sharena6": "3"
+        "sharena6": "3",
+        "fbyleth6": "3"
       }
     },
     "refine": {},
@@ -7669,7 +7670,8 @@
         "lamia": "4",
         "mbyleth7": "4",
         "ivy4": "4",
-        "sharena6": "4"
+        "sharena6": "4",
+        "fbyleth6": "4"
       }
     },
     "refine": {},
@@ -64309,7 +64311,8 @@
         "mbyleth5": "4",
         "ogma3": "4",
         "ryoma5": "4",
-        "roy6": "4"
+        "roy6": "4",
+        "fbyleth6": "4"
       },
       "Atk/Spd Oath 2": {},
       "Atk/Spd Oath 1": {}
@@ -84999,7 +85002,8 @@
         "mbyleth6": "4",
         "celica8": "4",
         "lucina10": "4",
-        "sharena6": "4"
+        "sharena6": "4",
+        "fbyleth6": "4"
       },
       "Atk/Spd Ideal 2": {},
       "Atk/Spd Ideal 1": {}
@@ -108089,7 +108093,8 @@
         "mbyleth5": "4",
         "elincia6": "4",
         "fjorm7": "4",
-        "lamia": "5"
+        "lamia": "5",
+        "fbyleth6": "4"
       },
       "Velocity 2": {},
       "Velocity 1": {}
@@ -160022,7 +160027,8 @@
     "reference": {
       "Swift Specter": {
         "celica8": "5",
-        "sharena6": "5"
+        "sharena6": "5",
+        "fbyleth6": "5"
       }
     },
     "refine": {},
