@@ -361,7 +361,8 @@
         "reference_skill": {
             "assist": [],
             "special": [
-                "Bond Blast"
+                "Bond Blast",
+                "Covenant Blast"
             ],
             "A": [],
             "B": [],
@@ -545,6 +546,7 @@
                 "Fair Fight",
                 "Fallen Star II",
                 "Haunting Choker",
+                "Maiden of Light",
                 "Pure Atrocity",
                 "Stellar Brace"
             ],
@@ -685,7 +687,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Emblems' Marvel"
+            ],
             "B": [],
             "C": [
                 "Atk/Spd Faith",
@@ -1492,6 +1496,7 @@
             ],
             "C": [
                 "Brutal Tempest",
+                "Thunder Specter",
                 "Entwined Onrush",
                 "Forever Yours",
                 "The Heir to Light"
@@ -1792,7 +1797,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [
+                "Maiden of Light"
+            ],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -2245,7 +2261,8 @@
             ],
             "Axe": [
                 "Arena Axe+",
-                "Black Eagle Axe"
+                "Black Eagle Axe",
+                "Shackle Axe+"
             ],
             "Staff": [],
             "Bow": [
@@ -2546,7 +2563,20 @@
             ],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Covenant Blast"
+            ],
+            "A": [
+                "Emblems' Marvel"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -3064,6 +3094,7 @@
         "icon": "draconichex",
         "reference_weapon": {
             "Sword": [
+                "Arcane Caladbolg",
                 "Sword of Fate"
             ],
             "Lance": [],
@@ -3285,7 +3316,8 @@
             "B": [
                 "Atk/Spd Favor",
                 "Atk/Def Favor",
-                "Atk/Res Favor"
+                "Atk/Res Favor",
+                "Maiden of Light"
             ],
             "C": [
                 "Divine God Fang",
@@ -3788,7 +3820,18 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Covenant Blast"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Spd Increase"
@@ -4534,6 +4577,7 @@
         "icon": "hexblade",
         "reference_weapon": {
             "Sword": [
+                "Arcane Caladbolg",
                 "Hexblade Sword+",
                 "Lands Sword"
             ],
@@ -5848,6 +5892,7 @@
                 "Haunting Choker",
                 "Killing Intent",
                 "Killing Intent+",
+                "Maiden of Light",
                 "Moonlit Slumber",
                 "Ruler of Nihility"
             ],
@@ -6126,6 +6171,7 @@
             "assist": [],
             "special": [
                 "Blazing Lion",
+                "Covenant Blast",
                 "Divine Rumble",
                 "Sei\u00f0r Cannon",
                 "Sirius Pulse",
@@ -6516,7 +6562,9 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Emblems' Marvel"
+            ],
             "B": [],
             "C": [
                 "Fell Barrier"
@@ -6668,6 +6716,7 @@
             "B": [],
             "C": [
                 "Shadow Shift 4",
+                "Shadow Shift X",
                 "The Heir to Light"
             ],
             "X": [],
@@ -7385,7 +7434,8 @@
                 "Shackle Lance+"
             ],
             "Axe": [
-                "Arena Axe+"
+                "Arena Axe+",
+                "Shackle Axe+"
             ],
             "Staff": [],
             "Bow": [
@@ -7712,7 +7762,9 @@
                 "Light Is Time"
             ],
             "A": [],
-            "B": [],
+            "B": [
+                "Maiden of Light"
+            ],
             "C": [],
             "X": [],
             "S": [],

@@ -45821,15 +45821,20 @@
     "pool": "special",
     "internal_id": "\u30ab\u30f3\u30ca\u5973",
     "voice": "Claudia Lenz",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Hayama Eishi (\u8449\u5c71\u3048\u3044\u3057)",
+    "resplendent_voice": "Claudia Lenz",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/78/Kana_Dragon_Princess_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4a/Kana_Dragon_Princess_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Kana_Dragon_Princess_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Kana_Dragon_Princess_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Kana_Dragon_Princess_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Kana_Dragon_Princess_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Kana_Dragon_Princess_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Kana_Dragon_Princess_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "fates"
     ],
@@ -45885,7 +45890,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "Freeze!",
+          "You'll catch a cold!",
+          "Pretty chilly, huh?",
+          "Not gonna beat me!"
+        ],
+        "Status": [
+          "-",
+          "This is what people wear in the Kingdom of Ice! It's nice, isn't it?",
+          "*startled yelp* Wow, your fingers are like ice!",
+          "Everyone in Nifl is so great! They always find time to play with me.",
+          "I love the snow. We should build an ice house next time we visit Nifl!",
+          "Did you hear my tummy rumbling? It must be time for snacks, right?",
+          "Papa said he was too busy to play with me. This stinks...",
+          "I'm really happy that you know you can count on me!"
+        ],
+        "Map Select": [
+          "OK!",
+          "Brrrr...",
+          "Be right back!"
+        ]
+      }
     },
     "short_name": "Female Kana",
     "SEARCH_NAME": "Female Kana",
@@ -177774,7 +177807,8 @@
     "reference": [
       "malear2",
       "malear3",
-      "malear4"
+      "malear4",
+      "malear5"
     ],
     "prf": {
       "": "liberation",
@@ -193658,7 +193692,8 @@
     "reference": [
       "malear",
       "malear3",
-      "malear4"
+      "malear4",
+      "malear5"
     ],
     "prf": {
       "": "divineonesarts",
@@ -213782,7 +213817,8 @@
     "reference": [
       "malear",
       "malear2",
-      "malear4"
+      "malear4",
+      "malear5"
     ],
     "prf": {
       "": "winteryarts",
@@ -224533,7 +224569,8 @@
     "reference": [
       "malear",
       "malear2",
-      "malear3"
+      "malear3",
+      "malear5"
     ],
     "prf": {
       "": "fellchildsblade",
@@ -253642,6 +253679,941 @@
       "spd": "chiseledantler",
       "def": "chiseledantler",
       "res": "chiseledantler"
+    }
+  },
+  "groa": {
+    "name": "Gr\u00f3a",
+    "title": "Future Daughter",
+    "description": "Sei\u00f0r's daughter from the future. She seeks help from the present Sei\u00f0r to find her twin sister, Alv\u00edg.",
+    "origin": "Heroes",
+    "artist": "Hitowa (\u3072\u3068\u548c)",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Blue",
+    "duel": false,
+    "id": "1395",
+    "type": "legendary",
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 10,
+      "res": 4
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 50,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Light": "1",
+      "Ellight": "2",
+      "Shine": "3",
+      "Gróa": "5"
+    },
+    "assist": {
+      "Reposition": "3"
+    },
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Logic": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Aria": "5"
+      },
+      "B": {
+        "Maiden of Light": "5"
+      },
+      "C": {
+        "Shadow Shift 1": "2",
+        "Shadow Shift 2": "3",
+        "Shadow Shift 3": "4",
+        "Shadow Shift X": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Groa_Future_Daughter_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Groa_Future_Daughter_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Groa_Future_Daughter_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a3/Groa_Future_Daughter_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Future Daughter",
+      "Gr\u00f3a: Future Daughter",
+      "Base Gr\u00f3a",
+      "Normal Gr\u00f3a",
+      "Regular Gr\u00f3a",
+      "Mythic Gr\u00f3a",
+      "M Gr\u00f3a",
+      "gr\u00f3a",
+      "Groa: Future Daughter",
+      "Base Groa",
+      "Normal Groa",
+      "Regular Groa",
+      "Mythic Groa",
+      "M Groa",
+      "groa"
+    ],
+    "HARD_ALT_NAME": [
+      "Future Daughter",
+      "Gr\u00f3a: Future Daughter",
+      "Base Gr\u00f3a",
+      "Normal Gr\u00f3a",
+      "Regular Gr\u00f3a",
+      "Mythic Gr\u00f3a",
+      "M Gr\u00f3a",
+      "gr\u00f3a",
+      "Groa: Future Daughter",
+      "Base Groa",
+      "Normal Groa",
+      "Regular Groa",
+      "Mythic Groa",
+      "M Groa",
+      "groa"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u30b0\u30ed\u30a2\u5473\u65b9",
+    "voice": "Alice Himora",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I must find Alv\u00edg, no matter what, for Mother's sake as much as hers.",
+        "The future realm of light is truly spectacular...all thanks to Mother.",
+        "Mother... Not only did she grant you a revelation, but she performed the goddess's ritual... She is so bold!",
+        "I would like to walk around and see the castles of Askr. Will you show them to me?",
+        "I caught a glimpse of myself in the mirror... Tell me, do you think I resemble Mother, or..."
+      ],
+      "Visit": [
+        "Are you who I have been looking for? I came to bring you greetings from [F]'s castle."
+      ],
+      "Level": [
+        "As Mother's daughter, I am proud of this.",
+        "I must be capable of at least this much. I am a goddess of Vanaheimr...",
+        "Oh... This is...unexpected, you must know!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "A pleasure. You can call me...Gr\u00f3a. I am Sei\u00f0r's daughter."
+      ],
+      "Learn Skill": [
+        "I find you...kind. I believe you to be a truly compassionate person."
+      ],
+      "Confession": [
+        "I am happy to see Mother just as she was in the past. Though, of course, I do not know this version of her...\nI was born in the future, but no matter the time, she is a goddess I look up to.\nAnd just as Mother is precious to me, so too are you, [S].\nPlease, continue to dote on us goddesses, will you? Mmhmh..."
+      ],
+      "Special": [
+        "For Mother...",
+        "Here I go!",
+        "Apologies!",
+        "Please. Move."
+      ],
+      "Status": [
+        "-",
+        "I am...Gr\u00f3a. It is a pleasure to make your acquaintance.",
+        "*surprise* I assure you your fated partner is another!",
+        "I have traveled from a future you will learn of.",
+        "My si\u2014mother\u2014is very kind. Her love is boundless.",
+        "Will I one day give the gift of revelation to a chosen mortal partner? What a thought!",
+        "Visiting this past...brings back many memories.",
+        "I hope we get along as well as you and Mother do. *chuckle* I-I do not wish to be rude..."
+      ],
+      "Map Select": [
+        "Yes.",
+        "What shall I do?",
+        "I will go."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Gr\u00f3a",
+    "SEARCH_NAME": "Gr\u00f3a",
+    "DISPLAY_NAME": "<:Blue_Tome:1317239386491977749>Gr\u00f3a",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "groa",
+      "eff": "groa",
+      "atk": "groa",
+      "spd": "groa",
+      "def": "groa",
+      "res": "groa"
+    },
+    "blessing": "Light",
+    "boost": {
+      "hp": 5,
+      "atk": 3
+    }
+  },
+  "malear5": {
+    "name": "Alear",
+    "title": "And Sommie!",
+    "description": "A young dragon. He races across the battlefield with Sommie, the guardian spirit of the Somniel. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Meka (\u3081\u304b)",
+    "move": "Infantry",
+    "weapon": "Breath",
+    "color": "Red",
+    "duel": false,
+    "id": "1396",
+    "type": "aided",
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 7,
+      "res": 5
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 85,
+      "res": 60
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Fire Breath": "1",
+      "Fire Breath+": "2",
+      "Flametongue": "3",
+      "Divine Aide Arts": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Dragon's Briar": "5"
+    },
+    "passive": {
+      "A": {
+        "Emblems' Marvel": "5"
+      },
+      "B": {
+        "Pair Up 1": "2",
+        "Pair Up 2": "3",
+        "Pair Up 3": "4",
+        "Pair Up 4": "5"
+      },
+      "C": {
+        "Odd Tempest 1": "2",
+        "Odd Tempest 2": "3",
+        "Odd Tempest 3": "4",
+        "Thunder Specter": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Alear_And_Sommie_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e8/Alear_And_Sommie_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Alear_And_Sommie_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Alear_And_Sommie_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
+    ],
+    "HARD_ALT_NAME": [
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u304a\u4f9b\u30ea\u30e5\u30fc\u30eb\u7537",
+    "voice": "Brandon McInnis",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "There, there, Sommie. I'm so glad you're here with me. Let's stay together, even when we leave.",
+        "Whenever I see a sparkling object, I can't help but think it's a bond fragment... But those are rare in Askr.",
+        "Sommie's here to help! You'd be surprised. Sommie even has the power to move the Somniel.",
+        "Sommie's not as heavy as you might think. It's like carrying around a couple peaches.",
+        "Hmm... When I'm dressed like this, I tend to let my guard down. I need to stay more focused."
+      ],
+      "Visit": [
+        "I'm Alear and this is Sommie, who seems happy to see you. We brought a gift from [F]."
+      ],
+      "Level": [
+        "I have Sommie to thank for this strength!",
+        "This is great, huh, Sommie? We've grown even stronger together.",
+        "Let's just do our best next time, OK, Sommie?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am the Divine Dragon Alear. I\u2014 Oh, I mean Sommie and I look forward to traveling with you."
+      ],
+      "Learn Skill": [
+        "Hahaha... Sommie is happy about this too! Now...to master this new power..."
+      ],
+      "Confession": [
+        "I was training with Sommie today, and we're determined to do our best in every battle from here on out!\nI fought in the wars in Elyos, but this is Sommie's first time in battle... I was worried at first...\nBut thanks to your leadership, there have been no issues completing our mission.\nYou know, Sommie would never have been able to experience seeing just how big the world is without you.\nI want to thank you for summoning us both. For today, you can pet Sommie all you want...\nSoft, huh? Plus, the more pets, the more bond fragments...\nBut that's just Sommie. I can't offer anything like that. But I can repay you with my dedication to your efforts."
+      ],
+      "Special": [
+        "Ready for this?",
+        "I won't look away!",
+        "I pinky promised.",
+        "Engaged with Sommie!"
+      ],
+      "Status": [
+        "-",
+        "Isn't it cute how Sommie always follows me around?",
+        "Oh, uh... You must be wondering about these clothes. Vander prepared them for me.",
+        "I imagined these clothes would be easier to fight in.",
+        "The floating island of the Somniel, with its orchard and cafe, was a haven for everyone.",
+        "I feel like gathering materials, but I don't see anything lying around here...",
+        "I wonder if it's all right that I brought the guardian spirit here...",
+        "Do you want to pet Sommie? Go on. The happier Sommie is, the more bond fragments you'll get."
+      ],
+      "Map Select": [
+        "Right away.",
+        "I'm with you.",
+        "Let's go, Sommie."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Aided Alear",
+    "SEARCH_NAME": "Aided Alear",
+    "DISPLAY_NAME": "<:Red_Breath:1317239692189630504>Aided Alear",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "malear",
+      "malear2",
+      "malear3",
+      "malear4"
+    ],
+    "prf": {
+      "": "divineaidearts",
+      "eff": "divineaidearts",
+      "atk": "divineaidearts",
+      "spd": "divineaidearts",
+      "def": "divineaidearts",
+      "res": "divineaidearts"
+    }
+  },
+  "falear5": {
+    "name": "Alear",
+    "title": "Casual Duelist",
+    "description": "A young dragon. She throws herself into battle, dressing as she did at the Somniel and carrying a legendary sword. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "yujin (\u3086\u3046\u3058\u3093)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1397",
+    "type": "rearmed",
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 10,
+      "res": 9
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Arcane Caladbolg": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Covenant Blast": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Life": "5"
+      },
+      "B": {
+        "Speedtaker 1": "2",
+        "Speedtaker 2": "3",
+        "Speedtaker 3": "4",
+        "A/S Taker Burst": "5"
+      },
+      "C": {
+        "Even Tempest 1": "2",
+        "Even Tempest 2": "3",
+        "Even Tempest 3": "4",
+        "Thunder Specter": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Alear_Casual_Duelist_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Alear_Casual_Duelist_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Alear_Casual_Duelist_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Alear_Casual_Duelist_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Casual Duelist",
+      "Alear: Casual Duelist",
+      "Rearmed Alear",
+      "Rearm Alear",
+      "R Alear",
+      "Arm Alear",
+      "falear5",
+      "Rearmed Female Alear",
+      "Rearm Female Alear",
+      "R Female Alear",
+      "Arm Female Alear",
+      "Rearmed Alear Female",
+      "Rearm Alear Female",
+      "R Alear Female",
+      "Arm Alear Female",
+      "Rearmed F Alear",
+      "Rearm F Alear",
+      "R F Alear",
+      "Arm F Alear",
+      "Rearmed Alear F",
+      "Rearm Alear F",
+      "R Alear F",
+      "Arm Alear F",
+      "alear10"
+    ],
+    "HARD_ALT_NAME": [
+      "Casual Duelist",
+      "Alear: Casual Duelist",
+      "Rearmed Alear",
+      "Rearm Alear",
+      "R Alear",
+      "Arm Alear",
+      "falear5",
+      "Rearmed Female Alear",
+      "Rearm Female Alear",
+      "R Female Alear",
+      "Arm Female Alear",
+      "Rearmed Alear Female",
+      "Rearm Alear Female",
+      "R Alear Female",
+      "Arm Alear Female",
+      "Rearmed F Alear",
+      "Rearm F Alear",
+      "R F Alear",
+      "Arm F Alear",
+      "Rearmed Alear F",
+      "Rearm Alear F",
+      "R Alear F",
+      "Arm Alear F",
+      "alear10"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u30ea\u30e5\u30fc\u30eb\u5973",
+    "voice": "Laura Stahl",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Carrying a sword this large takes a lot of stamina. It reminds me of strength training back on the Somniel.",
+        "I heard this sword is a time-honored heirloom of the Mage Dragon tribe used in the war a thousand years ago.",
+        "People relaxed in all kinds of casual clothes on the Somniel. What do you wear when you want to unwind?",
+        "I hope the whole world becomes a place where my friends can live peacefully and without war.",
+        "I can sleep anywhere, but I miss the altar where I slept for a thousand years. The stars shone so brightly..."
+      ],
+      "Visit": [
+        "What a wonderful base! It's just as [F] described it."
+      ],
+      "Level": [
+        "I'm so happy, if I was on the Somniel I'd be leaping around the plaza right now!",
+        "My swordplay has gotten rather elegant. I wonder if this blade is to thank for that.",
+        "I could be doing much better. I need to focus and work harder!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am the Divine Dragon Alear. I may look rather casual, but rest assured, I'm armed with a powerful weapon."
+      ],
+      "Learn Skill": [
+        "Caladbolg is shining with the radiance of a new power... I can't thank you enough!"
+      ],
+      "Confession": [
+        "Oh! Uh...hello, Summoner. I'm sorry, I must have dozed off. I tend to feel a little too relaxed here.\nThis place feels a bit like the Somniel... It even has a place floating in the sky...\nBoth are places where I can live in peace with my friends. And best of all...they're both great places to nap!\nI guess you could call Askr my second home.\nOh! You feel the same? How wonderful!\nI'm so happy we could all find a second home here even though we're all from different worlds.\nWe must protect this place, no matter what, so that it can stay that way for generations to come."
+      ],
+      "Special": [
+        "Ready yourself.",
+        "I won't falter!",
+        "I'll fulfill this role!",
+        "A thousand-year dream!"
+      ],
+      "Status": [
+        "-",
+        "Please, allow me to use this new strength at your side.",
+        "*yawn* Sorry, I must have dozed off. People wake me up quite a lot.",
+        "I can't wait to see all of Askr's beauty\u2014flowers, mountains, snow, sand...",
+        "*giggle* A ring would look great on you. Or, do you prefer bracelets?",
+        "I've been alive a long time, many years of which I've spent asleep. All the while, I've been in great care.",
+        "Emblems, please be with me in this world too. Stand by me until the end...",
+        "As a Divine Dragon, I'm not just a pretty face. I will garner results befitting this new strength, even if it stains me with blood."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Here until the end.",
+        "I'll do my best."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed Alear",
+    "SEARCH_NAME": "Rearmed Alear",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Rearmed Alear",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "falear",
+      "falear2",
+      "falear3",
+      "falear4"
+    ],
+    "prf": {
+      "": "arcanecaladbolgspd",
+      "eff": "arcanecaladbolgspd",
+      "atk": "arcanecaladbolgatk",
+      "spd": "arcanecaladbolgspd",
+      "def": "arcanecaladbolgdef",
+      "res": "arcanecaladbolgres"
+    }
+  },
+  "jade": {
+    "name": "Jade",
+    "title": "Iron Wall",
+    "description": "A knight of Brodia and Diamant's retainer. She is a calm and composed warrior who writes stories as part of her daily routine. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Noma Takafumi (\u91ce\u9593\u5d07\u53f2)",
+    "move": "Armored",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1398",
+    "type": false,
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 29,
+      "atk": 9,
+      "spd": 6,
+      "def": 10,
+      "res": 8
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 90,
+      "spd": 40,
+      "def": 90,
+      "res": 70
+    },
+    "superboon": [
+      "atk",
+      "def",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Forged Axe": "3",
+      "Forged Axe+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Ideal 1": "1",
+        "Atk/Def Ideal 2": "2",
+        "Atk/Def Ideal 3": "4"
+      },
+      "B": {
+        "Wily Fighter 1": "3",
+        "Wily Fighter 2": "4",
+        "Wily Fighter 3": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Jade_Iron_Wall_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Jade_Iron_Wall_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Jade_Iron_Wall_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Jade_Iron_Wall_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Iron Wall",
+      "Jade: Iron Wall",
+      "Base Jade",
+      "Normal Jade",
+      "Regular Jade",
+      "jade"
+    ],
+    "HARD_ALT_NAME": [
+      "Iron Wall",
+      "Jade: Iron Wall",
+      "Base Jade",
+      "Normal Jade",
+      "Regular Jade",
+      "jade"
+    ],
+    "gender": "F",
+    "rarity": 3,
+    "pool": "global",
+    "internal_id": "PID_\u30b8\u30a7\u30fc\u30c7",
+    "voice": "Katelyn Gault",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I started writing comedy because no tragedy, no matter how well written, can ever capture the reality of war.",
+        "After I proved my ability by winning Brodia's fighting tourney, I was appointed Prince Diamant's retainer.",
+        "I used to be a guard at a mine. They called me \"Iron Wall Jade.\" So, if you need something guarded, just say so.",
+        "I was all set to meditate, but you are so intriguing. Maybe I'll write a play with a summoner as the protagonist...",
+        "My lord was amused by my work in chapter 19 of The Adventures of Amber the Deliberate Dummy."
+      ],
+      "Visit": [
+        "The knight visited another realm and offered a greeting of friendship from [F]."
+      ],
+      "Level": [
+        "The knight achieved growth beyond that of any mundane description.",
+        "The knight showed moderate growth.",
+        "The knight failed to grow very much."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Jade, a royal knight of Brodia. My exploits and the stories I tell are in the service of my lord, Diamant."
+      ],
+      "Learn Skill": [
+        "A refreshing feeling, like successfully identifying a valuable ore."
+      ],
+      "Confession": [
+        "Have you ever had a dream while aware that it was a dream?\nI do, often. I fly through the skies of my dreams and sometimes decide to turn cows or sheep strange colors.\nSometimes, when I'm meditating, I slip into that liminal state. Huh? Yes, it's meditating, not dozing off.\nEh, you're probably right. Haha.\nI know I seem stern, but I'm amused. My stomach is nearly in knots! I swear I haven't laughed so hard in years.\nYou've given me an idea for a play. Once I write it, I'd be quite happy if you read it before anyone else."
+      ],
+      "Special": [
+        "Nothing short of victory!",
+        "The final blow.",
+        "What a delight.",
+        "Such a nice story."
+      ],
+      "Status": [
+        "Hmm...",
+        "I, \"Iron Wall\" Jade, swear to protect Prince Diamant in this world.",
+        "Huh?! I was meditating and did not notice I had a visitor... State your business.",
+        "Summoner, you have poked the knight's heavy armor. Is your finger ok?",
+        "Tell me about yourself. It should prove useful for my writing.",
+        "Just because I never smile does not mean I am not in a good mood.",
+        "Where is Amber? I imagine he's getting himself into more adventures?",
+        "I always wrote fun stories in Brodia. I look forward to writing more in this world too."
+      ],
+      "Map Select": [
+        "Yes.",
+        "I was meditating.",
+        "Tell me where to go."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Jade",
+    "SEARCH_NAME": "Jade",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Jade",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "forgedaxedef",
+      "eff": "forgedaxedef",
+      "atk": "forgedaxeatk",
+      "spd": "forgedaxespd",
+      "def": "forgedaxedef",
+      "res": "forgedaxeres"
+    }
+  },
+  "boucheron": {
+    "name": "Boucheron",
+    "title": "Big Softy",
+    "description": "Royal knight of Firene and retainer to Prince Alfred. He is a gentle giant with a naturally muscular build. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Suekane Kumiko (\u30b9\u30a8\u30ab\u30cd\u30af\u30df\u30b3)",
+    "move": "Infantry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1399",
+    "type": false,
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 22,
+      "atk": 10,
+      "spd": 9,
+      "def": 9,
+      "res": 8
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 85,
+      "spd": 90,
+      "def": 60,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Shackle Axe": "3",
+      "Shackle Axe+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Frenzy 1": "3",
+        "Frenzy 2": "4",
+        "Frenzy 3": "5"
+      },
+      "C": {
+        "Infantry Pulse 1": "1",
+        "Infantry Pulse 2": "2",
+        "Infantry Pulse 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Boucheron_Big_Softy_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Boucheron_Big_Softy_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Boucheron_Big_Softy_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Boucheron_Big_Softy_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
+    ],
+    "HARD_ALT_NAME": [
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "grail",
+    "internal_id": "PID_\u30d6\u30b7\u30e5\u30ed\u30f3",
+    "voice": "Joe Hernandez",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "It is incredibly moving to see heroes forced apart in other realms being reunited here.",
+        "Prince Alfred and I have been friends since childhood. I would remain by his side even if I weren't his retainer.",
+        "You've been running back and forth for a bit. Are you training? People around me were always training...",
+        "I rode in carriages growing up and am a lousy navigator. I'm studying Askr's geography to learn my way around.",
+        "Summoner, tell me if you're feeling overwhelmed. It can help to talk through your troubles with others."
+      ],
+      "Visit": [
+        "I arrived without getting lost! I'm a bit choked up about it. I bring a greeting from [F]."
+      ],
+      "Level": [
+        "I never imagined I would achieve so much. I'm...almost moved to tears.",
+        "I've gotten a bit stronger, haven't I? I'm rather proud of myself.",
+        "Ugh...I feel so pathetic. I feel like I could cry..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Boucheron of Firene, reporting for duty. Could you kindly point the way to Prince Alfred's quarters?"
+      ],
+      "Learn Skill": [
+        "I'm so moved... I promise not to cry... I will do my level best to live up to your expectations."
+      ],
+      "Confession": [
+        "I'm so relieved I found you. I got lost on my way back from fishing.\nWalking together like this reminds me of when I was summoned. I thought I heard someone calling my name...\nI turned toward the sound and suddenly found myself in Askr. That voice was yours wasn't it?\nI am forever getting lost, so I truly appreciate you guiding me here.\nAs bewildering as it all is, I am very pleased to be of aid to my lord, the Divine Dragon, and all my comrades.\nShould you ever lose your way on the battlefield, I promise I will be there to clear the path for you."
+      ],
+      "Special": [
+        "Scatter like petals!",
+        "This is going to hurt!",
+        "So moving!",
+        "Stand strong!"
+      ],
+      "Status": [
+        "-",
+        "I, Boucheron, am here to serve.",
+        "Oh! What's that? No, I don't work out that often.",
+        "I hate to admit it, but I've already gotten lost many times in the castle.",
+        "Haaa... Askr is lovely. The greenery, the river water, it's all so pure and refreshing.",
+        "Where is Prince Alfred? I must be by his side to make up for my time away.",
+        "*sniffle* A book in the library made me cry. Honestly, even just remembering it brings tears to my eyes.",
+        "You must be under a great deal of stress, commanding so many heroes. If you ever have any troubles, I am always here to talk."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Boucheron, reporting.",
+        "Which way to the destination?"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Boucheron",
+    "SEARCH_NAME": "Boucheron",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Boucheron",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "shackleaxespd",
+      "eff": "shackleaxespd",
+      "atk": "shackleaxeatk",
+      "spd": "shackleaxespd",
+      "def": "shackleaxedef",
+      "res": "shackleaxeres"
     }
   }
 }

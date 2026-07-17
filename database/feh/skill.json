@@ -5424,7 +5424,8 @@
         "mbyleth6": "3",
         "ingrid5": "3",
         "eir4": "3",
-        "alm6": "3"
+        "alm6": "3",
+        "groa": "3"
       }
     },
     "refine": {},
@@ -6202,7 +6203,8 @@
         "canis": "3",
         "ash4": "3",
         "baldr4": "3",
-        "tharja8": "3"
+        "tharja8": "3",
+        "falear5": "3"
       }
     },
     "refine": {},
@@ -6409,7 +6411,8 @@
         "canis": "4",
         "ash4": "4",
         "baldr4": "4",
-        "tharja8": "4"
+        "tharja8": "4",
+        "falear5": "4"
       }
     },
     "refine": {},
@@ -7451,7 +7454,9 @@
         "mbyleth7": "3",
         "ivy4": "3",
         "sharena6": "3",
-        "fbyleth6": "3"
+        "fbyleth6": "3",
+        "groa": "3",
+        "boucheron": "3"
       }
     },
     "refine": {},
@@ -7671,7 +7676,9 @@
         "mbyleth7": "4",
         "ivy4": "4",
         "sharena6": "4",
-        "fbyleth6": "4"
+        "fbyleth6": "4",
+        "groa": "4",
+        "boucheron": "4"
       }
     },
     "refine": {},
@@ -7853,7 +7860,9 @@
         "alm6": "3",
         "alfonse7": "3",
         "jormungandr": "3",
-        "eikthyrnir5": "3"
+        "eikthyrnir5": "3",
+        "malear5": "3",
+        "jade": "3"
       }
     },
     "refine": {},
@@ -8077,7 +8086,9 @@
         "roy6": "4",
         "alm6": "4",
         "jormungandr": "4",
-        "eikthyrnir5": "4"
+        "eikthyrnir5": "4",
+        "malear5": "4",
+        "jade": "4"
       }
     },
     "refine": {},
@@ -22393,7 +22404,8 @@
         "nils": "5",
         "xander3": "5",
         "fargus": "5",
-        "xane3": "4"
+        "xane3": "4",
+        "boucheron": "4"
       },
       "Infantry Pulse 2": {},
       "Infantry Pulse 1": {}
@@ -31639,7 +31651,8 @@
         "celine4": "4",
         "eirika10": "4",
         "canis": "4",
-        "mbyleth7": "4"
+        "mbyleth7": "4",
+        "groa": "4"
       },
       "Atk/Spd Bond 2": {},
       "Atk/Spd Bond 1": {}
@@ -78333,7 +78346,8 @@
         "larcei3": "4",
         "felix4": "4",
         "celica8": "4",
-        "felix5": "4"
+        "felix5": "4",
+        "malear5": "4"
       },
       "Odd Tempest 2": {},
       "Odd Tempest 1": {}
@@ -84573,7 +84587,8 @@
         "lapis3": "4",
         "diamant3": "4",
         "stefan": "4",
-        "ike9": "4"
+        "ike9": "4",
+        "falear5": "4"
       },
       "Even Tempest 2": {},
       "Even Tempest 1": {}
@@ -85003,7 +85018,8 @@
         "celica8": "4",
         "lucina10": "4",
         "sharena6": "4",
-        "fbyleth6": "4"
+        "fbyleth6": "4",
+        "falear5": "4"
       },
       "Atk/Spd Ideal 2": {},
       "Atk/Spd Ideal 1": {}
@@ -86634,7 +86650,8 @@
         "cervantes": "5",
         "etie": "5",
         "kellam": "4",
-        "fargus": "4"
+        "fargus": "4",
+        "jade": "4"
       },
       "Atk/Def Ideal 2": {},
       "Atk/Def Ideal 1": {}
@@ -90265,7 +90282,8 @@
     "reference": {
       "Frenzy 3": {
         "charlotte": "5",
-        "larcei2": "5"
+        "larcei2": "5",
+        "boucheron": "5"
       },
       "Frenzy 2": {},
       "Frenzy 1": {}
@@ -99474,7 +99492,8 @@
       },
       "Wily Fighter 3": {
         "idunn3": "5",
-        "wallace": "5"
+        "wallace": "5",
+        "jade": "5"
       },
       "Wily Fighter 2": {},
       "Wily Fighter 1": {}
@@ -136546,7 +136565,8 @@
       "Shadow Shift 1": {},
       "Shadow Shift 2": {},
       "Shadow Shift 3": {
-        "dorothea5": "4"
+        "dorothea5": "4",
+        "groa": "4"
       },
       "Shadow Shift 4": {
         "reginn3": "5",
@@ -140818,7 +140838,8 @@
       "Speedtaker 1": {},
       "Speedtaker 2": {},
       "Speedtaker 3": {
-        "sharena6": "4"
+        "sharena6": "4",
+        "falear5": "4"
       },
       "Speedtaker 4": {
         "lyn9": "5",
@@ -151233,7 +151254,8 @@
         "celine4": "5",
         "eirika10": "5",
         "canis": "5",
-        "mbyleth7": "5"
+        "mbyleth7": "5",
+        "groa": "5"
       }
     },
     "icon": 2493,
@@ -153280,7 +153302,8 @@
         "fcorrin9": "5",
         "alfred2": "5",
         "hortensia3": "5",
-        "roy6": "5"
+        "roy6": "5",
+        "malear5": "5"
       }
     },
     "icon": 2520,
@@ -156444,7 +156467,8 @@
       "Logic": {
         "lysithea5": "5",
         "eirika10": "5",
-        "ivy4": "5"
+        "ivy4": "5",
+        "groa": "5"
       }
     },
     "icon": false,
@@ -165620,7 +165644,8 @@
     ],
     "reference": {
       "A/S Taker Burst": {
-        "sharena6": "5"
+        "sharena6": "5",
+        "falear5": "5"
       }
     },
     "icon": 2720,
@@ -166286,9 +166311,7 @@
       "E Ike 2",
       "ike10"
     ],
-    "ALT_NAME": [
-      "Deluxe Barbeque"
-    ],
+    "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_sw222"
   },
@@ -166518,13 +166541,482 @@
       }
     ],
     "reference": {
-      "Gr\u00f3a": {}
+      "Gr\u00f3a": {
+        "groa": "5"
+      }
     },
     "refine": {},
     "icon": false,
-    "HARD_ALT_NAME": [],
+    "HARD_ALT_NAME": [
+      "Gr\u00f3a",
+      "Groa",
+      "Future Daughter",
+      "Gr\u00f3a: Future Daughter",
+      "Base Gr\u00f3a",
+      "Normal Gr\u00f3a",
+      "Regular Gr\u00f3a",
+      "Mythic Gr\u00f3a",
+      "M Gr\u00f3a",
+      "gr\u00f3a",
+      "Groa: Future Daughter",
+      "Base Groa",
+      "Normal Groa",
+      "Regular Groa",
+      "Mythic Groa",
+      "M Groa",
+      "groa"
+    ],
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_mg516"
+  },
+  "maidenoflight": {
+    "name": "Maiden of Light",
+    "skill": [
+      {
+        "name": "Maiden of Light",
+        "description": "Unit can move through foes' spaces.\nIf a Rally or movement Assist skill is used by unit, grants\u3010Coax\u3011to target ally for 1 turn.\nIf a Rally or movement Assist skill is used by unit or targets unit, grants Atk/Spd+6, \u3010Empathy\u3011, and\u3010Time's Gate\u3011to unit, target or targeting ally, and allies within 2 spaces of unit and target or targeting ally after movement for 1 turn, and grants Special cooldown-1 to unit and those allies (once per turn).\nFor unit and allies with the\u3010Coax\u3011effect active on the map, deals +X damage during combat (X = highest total Atk+Spd bonuses among unit and allies with the\u3010Coax\u3011 effect active + 10; excluding area-of-effect Specials), and if Savior has not triggered, attacks twice during combat.\nFor allies with the\u3010Empathy\u3011effect active but without the\u3010Coax\u3011effect active on the map, deals +10 damage during combat (excluding area-of-effect Specials).\nInflicts Atk/Spd/Res-5 on foes, reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack).",
+        "stats": {
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Maiden of Light": {
+        "groa": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2738,
+    "HARD_ALT_NAME": [
+      "Maiden of Light"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "shadowshiftx": {
+    "name": "Shadow Shift X",
+    "skill": [
+      {
+        "name": "Shadow Shift X",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Shadow Shift 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "When Canto triggers, enables unit to use \u3010Reposition\u3011on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+4 during combat and restores 7 HP after combat.\nUnit deals +5 damage (excluding area-of-effect Specials) and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      }
+    ],
+    "reference": {
+      "Shadow Shift X": {
+        "groa": "5"
+      }
+    },
+    "icon": 2739,
+    "HARD_ALT_NAME": [
+      "Shadow Shift X"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "divineaidearts": {
+    "name": "Divine Aide Arts",
+    "skill": [
+      {
+        "name": "Divine Aide Arts",
+        "description": "Accelerates Special trigger (cooldown count-1).\nUnit attacks twice (even if foe initiates combat, unit attacks twice). If foe's Range = 2, calculates damage using the lower of foe's Def or Res.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally, and increases the Spd difference necessary for foe to make a follow-up attack by 10 during combat.\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.",
+        "stats": {
+          "mt": "11",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Breath",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Divine Aide Arts": {
+        "malear5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Divine Aide Arts",
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "dragonsbriar": {
+    "name": "Dragon s Briar",
+    "skill": [
+      {
+        "name": "Dragon's Briar",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "slot": "Special",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Breath",
+            "Blue_Breath",
+            "Green_Breath",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "When Special triggers, boosts damage by unit's Def.\nReduces damage from foe's attacks by 40% (twice per combat, excluding area-of-effect Specials) and unit's next attack deals damage = 40% of foe's first-attack damage prior to reductions during combat (resets at end of combat; only highest value applied; does not stack)."
+      }
+    ],
+    "reference": {
+      "Dragon's Briar": {
+        "malear5": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Dragon's Briar"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "emblemsmarvel": {
+    "name": "Emblems  Marvel",
+    "skill": [
+      {
+        "name": "Emblems' Marvel",
+        "description": "Unit can counterattack regardless of foe's range.\nAt start of player phase or enemy phase, grants \u3010Divinely Inspiring\u3011,\u3010Bulwark\u3011, and \"reduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials)\" to unit and allies within 3 spaces of unit for 1 turn.\nIf the number of allies within 3 spaces of unit \u2265 3, after start-of-turn effects trigger on enemy phase or after combat initiated by foe, neutralizes any penalties on unit (excludes Penalty effects being applied at the same time).Grants Atk/Spd/Def/Res+9 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage dealt to unit by X during combat (including from area-of-effect Specials; excluding Røkkr area-of-effect Specials; if this skill's effect that only triggers for player's team once per map has already been triggered at start of combat, X = 20; otherwise, X = 10).\nIf the number of allies within 3 spaces of unit \u2265 3 and foe initiates combat, if unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP, and after combat, restores 99 HP to unit (effect only triggers for player's team once per map and does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce unit's HP to 0; when any other such effect triggers on a unit granted this effect, this effect will trigger too).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Emblems' Marvel": {
+        "malear5": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2740,
+    "HARD_ALT_NAME": [
+      "Emblems' Marvel",
+      "Emblems Marvel"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "thunderspecter": {
+    "name": "Thunder Specter",
+    "skill": [
+      {
+        "name": "Thunder Specter",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Odd Tempest 3",
+          "Even Tempest 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Flying"
+          ]
+        ],
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAt start of turn, unit can move 1 extra space (that turn only; does not stack).\nGrants Atk/Spd/Def/Res+X to unit (X = 2 \u00d7 number of spaces from start position to end position of whoever initiated combat; max 6), unit deals +5 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      }
+    ],
+    "reference": {
+      "Thunder Specter": {
+        "malear5": "5",
+        "falear5": "5"
+      }
+    },
+    "icon": 2741,
+    "HARD_ALT_NAME": [
+      "Thunder Specter"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "arcanecaladbolg": {
+    "name": "Arcane Caladbolg",
+    "skill": [
+      {
+        "name": "Arcane Caladbolg",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Spd+6,\u3010Draconic Hex\u3011, and\u3010Hexblade\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Draconic Hex\u3011\nInflicts Atk/Spd/Def/Res-5 on foe during combat and inflicts penalty on each of those stats = 5 - current penalty on each of those stats during combat for 1 turn (min 0; calculates each stat penalty independently).\n\u3010Hexblade\u3011\nCalculates damage using the lower of foe's Def or Res during combat for 1 turn (including damage dealt by Specials before combat).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Arcane Caladbolg": {
+        "falear5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Arcane Caladbolg",
+      "Casual Duelist",
+      "Alear: Casual Duelist",
+      "Rearmed Alear",
+      "Rearm Alear",
+      "R Alear",
+      "Arm Alear",
+      "falear5",
+      "Rearmed Female Alear",
+      "Rearm Female Alear",
+      "R Female Alear",
+      "Arm Female Alear",
+      "Rearmed Alear Female",
+      "Rearm Alear Female",
+      "R Alear Female",
+      "Arm Alear Female",
+      "Rearmed F Alear",
+      "Rearm F Alear",
+      "R F Alear",
+      "Arm F Alear",
+      "Rearmed Alear F",
+      "Rearm Alear F",
+      "R Alear F",
+      "Arm Alear F",
+      "alear10"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw223"
+  },
+  "covenantblast": {
+    "name": "Covenant Blast",
+    "skill": [
+      {
+        "name": "Covenant Blast",
+        "description": "When Special triggers, boosts damage by unit's Spd.\nUnit can counterattack regardless of foe's range.\nAt start of player phase or, if defending in Aether Raids, at the start of turn 1 of enemy phase, if there is no support partner on the map, grants\u3010Bonded\u3011to allies with the highest Atk at start of battle (\"at start of battle\" excludes increases to Atk granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.).\nAt start of player phase or enemy phase, grants\u3010Divinely Inspiring\u3011and \"increases Spd difference necessary for foe to make a follow-up attack by 10 during combat\" to unit and allies within 3 spaces of unit for 1 turn.\nFor support partner and for allies with the \u3010Bonded\u3011effect active, reduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials; counts as if damage reduction is from a Special; this effect triggers only once per turn if foe initiates combat and the number of spaces from ally's space to foe's space \u2264 3; this effect triggers any number of times if ally initiates combat or if foe initiates combat and the number of spaces from ally's space to foe's space \u2265 4).\nReduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Astra"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Covenant Blast": {
+        "falear5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Covenant Blast"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "swiftlife": {
+    "name": "Swift Life",
+    "skill": [
+      {
+        "name": "Swift Life",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Spd Ideal 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Grants HP+7.\nAt start of combat, if unit's HP \u2265 25% or unit is within 3 spaces of an ally, grants Atk/Spd+9 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.\nAt start of combat, if unit's HP \u2265 25% and unit is within 3 spaces of an ally, grants an additional Atk/Spd+3 to unit during combat.\nAt start of combat, if unit's HP \u2265 25% or unit is within 3 spaces of an ally, restores 7 HP to unit after combat.",
+        "bonus": {
+          "hp": 5
+        }
+      }
+    ],
+    "reference": {
+      "Swift Life": {
+        "falear5": "5"
+      }
+    },
+    "icon": 2742,
+    "HARD_ALT_NAME": [
+      "Swift Life"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "forgedaxe": {
+    "name": "Forged Axe+",
+    "skill": [
+      {
+        "name": "Forged Axe+",
+        "description": "At start of player phase or enemy phase, grants Atk/Def+6 to unit and allies within 3 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 50% of X during combat (excluding area-of-effect Specials; X = highest total bonuses among unit and allies within 3 spaces of unit).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Forged Axe+": {
+        "jade": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "forgedaxe",
+      "Iron Wall",
+      "Jade: Iron Wall",
+      "Base Jade",
+      "Normal Jade",
+      "Regular Jade",
+      "jade"
+    ],
+    "ALT_NAME": [
+      "reforgedaxe"
+    ],
+    "slot": "Weapon",
+    "wpn": "wep_ax197"
+  },
+  "shackleaxe": {
+    "name": "Shackle Axe+",
+    "skill": [
+      {
+        "name": "Shackle Axe+",
+        "description": "At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +20 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).\n\u3010Spd Shackle\u3011\nInflicts penalty on unit's Spd during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).\n\u3010Def Shackle\u3011\nInflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Shackle Axe+": {
+        "boucheron": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "shackleaxe",
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax198"
   }
 }

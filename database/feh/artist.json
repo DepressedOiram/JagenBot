@@ -11570,7 +11570,7 @@
       "deltheaR": "<:Blue_Tome:1317239386491977749>Delthea (Resplendent)",
       "dorothy": "<:Colorless_Bow:1317239404204654703>Dorothy",
       "gray": "<:Red_Sword:1317239717707911188>Gray",
-      "kana2": "<:Blue_Breath:1317239355835813939>Male Kana",
+      "mkana": "<:Blue_Breath:1317239355835813939>Male Kana",
       "kiragi": "<:Colorless_Bow:1317239404204654703>Kiragi",
       "laevatein2": "<:Colorless_Staff:1317239426866483261>New Year Laevatein",
       "larum": "<:Colorless_Dagger:1317239418943438869>Larum",
@@ -17153,7 +17153,26 @@
       "Normal Shura",
       "Base Shura",
       "Regular Shura",
-      "shura"
+      "shura",
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
     ],
     "HARD_ALT_NAME": [
       "Child Minerva",
@@ -17345,9 +17364,29 @@
       "Normal Shura",
       "Base Shura",
       "Regular Shura",
-      "shura"
+      "shura",
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
     ],
     "heroes": {
+      "malear5": "<:Red_Breath:1317239692189630504>Aided Alear",
       "cain": "<:Red_Sword:1317239717707911188>Cain",
       "caspar": "<:Green_Axe:1317239517136031897>Caspar",
       "caspar2": "<:Green_Axe:1317239517136031897>Summer Caspar",
@@ -18236,7 +18275,7 @@
       "delthea": "<:Blue_Tome:1317239386491977749>Delthea",
       "delthea3": "<:Blue_Tome:1317239386491977749>Spring Delthea",
       "est": "<:Blue_Lance:1317239378208096338>Est",
-      "kana": "<:Green_Breath:1317239551693164595>Female Kana",
+      "fkana": "<:Green_Breath:1317239551693164595>Female Kana",
       "lachesis": "<:Colorless_Staff:1317239426866483261>Lachesis",
       "lachesis2": "<:Green_Dagger:1317239563697127456>Dancer Lachesis",
       "lana": "<:Colorless_Staff:1317239426866483261>Bridal Lana",
@@ -22864,7 +22903,7 @@
     ],
     "heroes": {
       "faeR": "<:Green_Breath:1317239551693164595>Fae (Resplendent)",
-      "kana4": "<:Blue_Breath:1317239355835813939>New Year Female Kana",
+      "fkana2": "<:Blue_Breath:1317239355835813939>New Year Female Kana",
       "lachesisR": "<:Colorless_Staff:1317239426866483261>Lachesis (Resplendent)",
       "veyle2": "<:Colorless_Tome:1317239438602145842>Fallen Veyle"
     },
@@ -24345,7 +24384,13 @@
       "Normal Boyd",
       "Base Boyd",
       "Regular Boyd",
-      "boyd"
+      "boyd",
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
     ],
     "HARD_ALT_NAME": [
       "Normal Sirius",
@@ -24542,9 +24587,16 @@
       "Normal Boyd",
       "Base Boyd",
       "Regular Boyd",
-      "boyd"
+      "boyd",
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
     ],
     "heroes": {
+      "boucheron": "<:Green_Axe:1317239517136031897>Boucheron",
       "boyd": "<:Green_Axe:1317239517136031897>Boyd",
       "camus": "<:Blue_Lance:1317239378208096338>Camus",
       "diamant": "<:Red_Sword:1317239717707911188>Diamant",
@@ -25288,7 +25340,7 @@
     "heroes": {
       "donnelR": "<:Blue_Lance:1317239378208096338>Donnel (Resplendent)",
       "hayato": "<:Red_Tome:1317239730714316800>Hayato",
-      "kana3": "<:Red_Breath:1317239692189630504>New Year Male Kana"
+      "mkana2": "<:Red_Breath:1317239692189630504>New Year Male Kana"
     },
     "name": "TAPIOCA (TAPI\u5ca1)"
   },
@@ -31374,7 +31426,8 @@
   },
   "hayamaeishi": {
     "heroes": {
-      "malear3": "<:Blue_Breath:1317239355835813939>Winter Alear"
+      "malear3": "<:Blue_Breath:1317239355835813939>Winter Alear",
+      "fkanaR": "<:Green_Breath:1317239551693164595>Female Kana (Resplendent)" 
     },
     "name": "Hayama Eishi (\u8449\u5C71\u3048\u3044\u3057)",
     "ALT_NAME": [
@@ -31391,7 +31444,11 @@
       "Gifted Dragons",
       "Alear: Gifted Dragons",
       "W Alear",
-      "alear6"
+      "alear6",
+      "Resplendent Female Kana",
+      "Resp Female Kana",
+      "R Female Kana",
+      "Female Kana (Resplendent)"
     ]
   },
   "hachihito": {
@@ -31544,7 +31601,7 @@
     },
     "name": "Tetsubuta (\u3066\u3064\u3076\u305F)",
     "ALT_NAME": [
-      "u3066\u3064\u3076\u305F",
+      "\u3066\u3064\u3076\u305F",
       "Resplendent Female Morgan",
       "Resp Female Morgan",
       "R Female Morgan",
@@ -31984,6 +32041,7 @@
   },
   "hitowa": {
     "heroes": {
+      "groa": "<:Blue_Tome:1317239386491977749>Gr\u00f3a",
       "lena2": "<:Colorless_Staff:1317239426866483261>Fallen Lena",
       "peony4": "<:Blue_Tome:1317239386491977749>Halloween Peony",
       "thorr3": "<:Blue_Lance:1317239378208096338>Spring Th\u00f3rr"
@@ -32017,7 +32075,22 @@
       "Spring Thorr",
       "Sp Thorr",
       "Easter Thorr",
-      "thorr3"
+      "thorr3",
+      "Future Daughter",
+      "Gr\u00f3a: Future Daughter",
+      "Base Gr\u00f3a",
+      "Normal Gr\u00f3a",
+      "Regular Gr\u00f3a",
+      "Mythic Gr\u00f3a",
+      "M Gr\u00f3a",
+      "gr\u00f3a",
+      "Groa: Future Daughter",
+      "Base Groa",
+      "Normal Groa",
+      "Regular Groa",
+      "Mythic Groa",
+      "M Groa",
+      "groa"
     ]
   },
   "rokuwatatomoe": {
@@ -32321,6 +32394,7 @@
   },
   "nomatakafumi": {
     "heroes": {
+      "jade": "<:Green_Axe:1317239517136031897>Jade",
       "lute3": "<:Red_Tome:1317239730714316800>Aided Lute"
     },
     "name": "Noma Takafumi (\u91ce\u9593\u5d07\u53f2)",
@@ -32331,7 +32405,13 @@
       "Aided Lute",
       "A Lute",
       "Aide Lute",
-      "lute3"
+      "lute3",
+      "Iron Wall",
+      "Jade: Iron Wall",
+      "Base Jade",
+      "Normal Jade",
+      "Regular Jade",
+      "jade"
     ]
   },
   "aoirameki": {
@@ -32451,6 +32531,39 @@
       "Resp Cherche",
       "R Cherche",
       "Cherche (Resplendent)"
+    ]
+  },
+  "yujin": {
+    "heroes": {
+      "falear5": "<:Red_Sword:1317239717707911188>Rearmed Alear"
+    },
+    "name": "yujin (\u3086\u3046\u3058\u3093)",
+    "ALT_NAME": [
+      "\u3086\u3046\u3058\u3093",
+      "Casual Duelist",
+      "Alear: Casual Duelist",
+      "Rearmed Alear",
+      "Rearm Alear",
+      "R Alear",
+      "Arm Alear",
+      "falear5",
+      "Rearmed Female Alear",
+      "Rearm Female Alear",
+      "R Female Alear",
+      "Arm Female Alear",
+      "Rearmed Alear Female",
+      "Rearm Alear Female",
+      "R Alear Female",
+      "Arm Alear Female",
+      "Rearmed F Alear",
+      "Rearm F Alear",
+      "R F Alear",
+      "Arm F Alear",
+      "Rearmed Alear F",
+      "Rearm Alear F",
+      "R Alear F",
+      "Arm Alear F",
+      "alear10"
     ]
   }
 }

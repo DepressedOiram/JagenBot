@@ -1149,7 +1149,22 @@
       "N Gullveig",
       "Duo Gullveig 2",
       "D Gullveig 2",
-      "gullveig4"
+      "gullveig4",
+      "Future Daughter",
+      "Gr\u00f3a: Future Daughter",
+      "Base Gr\u00f3a",
+      "Normal Gr\u00f3a",
+      "Regular Gr\u00f3a",
+      "Mythic Gr\u00f3a",
+      "M Gr\u00f3a",
+      "gr\u00f3a",
+      "Groa: Future Daughter",
+      "Base Groa",
+      "Normal Groa",
+      "Regular Groa",
+      "Mythic Groa",
+      "M Groa",
+      "groa"
     ],
     "HARD_ALT_NAME": [
       "seidr2",
@@ -1197,9 +1212,25 @@
       "N Gullveig",
       "Duo Gullveig 2",
       "D Gullveig 2",
-      "gullveig4"
+      "gullveig4",
+      "Future Daughter",
+      "Gr\u00f3a: Future Daughter",
+      "Base Gr\u00f3a",
+      "Normal Gr\u00f3a",
+      "Regular Gr\u00f3a",
+      "Mythic Gr\u00f3a",
+      "M Gr\u00f3a",
+      "gr\u00f3a",
+      "Groa: Future Daughter",
+      "Base Groa",
+      "Normal Groa",
+      "Regular Groa",
+      "Mythic Groa",
+      "M Groa",
+      "groa"
     ],
     "heroes": {
+      "groa": "<:Blue_Tome:1317239386491977749>Gr\u00f3a",
       "gullveig": "<:Colorless_Tome:1317239438602145842>Gullveig",
       "gullveig2": "<:Blue_Tome:1317239386491977749>Brave Gullveig",
       "gullveig3": "<:Red_Tome:1317239730714316800>Summer Gullveig",
@@ -2701,7 +2732,26 @@
       "D Alear",
       "D Toothpaste",
       "D Pepsi",
-      "D Colgate"
+      "D Colgate",
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
     ],
     "HARD_ALT_NAME": [
       "Harvest Cheney",
@@ -2780,13 +2830,33 @@
       "D Alear",
       "D Toothpaste",
       "D Pepsi",
-      "D Colgate"
+      "D Colgate",
+      "And Sommie!",
+      "Alear: And Sommie!",
+      "Aided Alear",
+      "A Alear",
+      "Aide Alear",
+      "malear5",
+      "Aided Male Alear",
+      "A Male Alear",
+      "Aide Male Alear",
+      "Aided Alear Male",
+      "A Alear Male",
+      "Aide Alear Male",
+      "Aided M Alear",
+      "A M Alear",
+      "Aide M Alear",
+      "Aided Alear M",
+      "A Alear M",
+      "Aide Alear M",
+      "alear9"
     ],
     "heroes": {
       "malear": " <:Red_Sword:1317239717707911188>Male Alear",
       "malear2": "<:Colorless_Breath:1317239411980767363>Legendary Male Alear",
       "malear3": "<:Blue_Breath:1317239355835813939>Winter Alear",
       "malear4": "<:Red_Sword:1317239717707911188>Fallen Male Alear",
+      "malear5": "<:Red_Breath:1317239692189630504>Aided Alear",
       "xane": "<:Colorless_Tome:1317239438602145842>Halloween Xane",
       "xane2": "<:Colorless_Staff:1317239426866483261>Hatarian Xane",
       "xane3": "<:Blue_Tome:1317239386491977749>Ancient Xane"
@@ -7051,7 +7121,11 @@
       "H Nah",
       "Harvest Nah",
       "Spooky Nah",
-      "nah2"
+      "nah2",
+      "Resplendent Female Kana",
+      "Resp Female Kana",
+      "R Female Kana",
+      "Female Kana (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Female Kanna",
@@ -7132,12 +7206,17 @@
       "H Nah",
       "Harvest Nah",
       "Spooky Nah",
-      "nah2"
+      "nah2",
+      "Resplendent Female Kana",
+      "Resp Female Kana",
+      "R Female Kana",
+      "Female Kana (Resplendent)"
     ],
     "heroes": {
       "genny": "<:Colorless_Staff:1317239426866483261>Genny",
       "genny2": "<:Colorless_Staff:1317239426866483261>Picnic Genny",
       "fkana": "<:Green_Breath:1317239551693164595>Female Kana",
+      "fkanaR": "<:Green_Breath:1317239551693164595>Female Kana (Resplendent)",
       "fkana2": "<:Blue_Breath:1317239355835813939>New Year Female Kana",
       "nah2": "<:Green_Breath:1317239551693164595>Halloween Nah"
     },
@@ -16508,7 +16587,13 @@
       "Bridal Tanis",
       "Groom Tanis",
       "Bride Tanis",
-      "Wedding Tanis"
+      "Wedding Tanis",
+      "Iron Wall",
+      "Jade: Iron Wall",
+      "Base Jade",
+      "Normal Jade",
+      "Regular Jade",
+      "jade"
     ],
     "HARD_ALT_NAME": [
       "tanith",
@@ -16534,9 +16619,16 @@
       "Bridal Tanis",
       "Groom Tanis",
       "Bride Tanis",
-      "Wedding Tanis"
+      "Wedding Tanis",
+      "Iron Wall",
+      "Jade: Iron Wall",
+      "Base Jade",
+      "Normal Jade",
+      "Regular Jade",
+      "jade"
     ],
     "heroes": {
+      "jade": "<:Green_Axe:1317239517136031897>Jade",
       "tanith": "<:Red_Sword:1317239717707911188>Tanith",
       "tanith2": "<:Blue_Lance:1317239378208096338>Bridal Tanith"
     },
@@ -18523,7 +18615,31 @@
       "V Veyle",
       "Duo Veyle",
       "D Veyle",
-      "veyle4"
+      "veyle4",
+      "Casual Duelist",
+      "Alear: Casual Duelist",
+      "Rearmed Alear",
+      "Rearm Alear",
+      "R Alear",
+      "Arm Alear",
+      "falear5",
+      "Rearmed Female Alear",
+      "Rearm Female Alear",
+      "R Female Alear",
+      "Arm Female Alear",
+      "Rearmed Alear Female",
+      "Rearm Alear Female",
+      "R Alear Female",
+      "Arm Alear Female",
+      "Rearmed F Alear",
+      "Rearm F Alear",
+      "R F Alear",
+      "Arm F Alear",
+      "Rearmed Alear F",
+      "Rearm Alear F",
+      "R Alear F",
+      "Arm Alear F",
+      "alear10"
     ],
     "HARD_ALT_NAME": [
       "tanya",
@@ -18718,13 +18834,38 @@
       "V Veyle",
       "Duo Veyle",
       "D Veyle",
-      "veyle4"
+      "veyle4",
+      "Casual Duelist",
+      "Alear: Casual Duelist",
+      "Rearmed Alear",
+      "Rearm Alear",
+      "R Alear",
+      "Arm Alear",
+      "falear5",
+      "Rearmed Female Alear",
+      "Rearm Female Alear",
+      "R Female Alear",
+      "Arm Female Alear",
+      "Rearmed Alear Female",
+      "Rearm Alear Female",
+      "R Alear Female",
+      "Arm Alear Female",
+      "Rearmed F Alear",
+      "Rearm F Alear",
+      "R F Alear",
+      "Arm F Alear",
+      "Rearmed Alear F",
+      "Rearm Alear F",
+      "R Alear F",
+      "Arm Alear F",
+      "alear10"
     ],
     "heroes": {
       "falear": "<:Red_Sword:1317239717707911188>Alear",
       "falear2": "<:Green_Breath:1317239551693164595>Legendary Alear",
       "falear3": "<:Colorless_Breath:1317239411980767363>Summer Alear",
       "falear4": "<:Green_Breath:1317239551693164595>Fallen Female Alear",
+      "falear5": "<:Red_Sword:1317239717707911188>Rearmed Alear",
       "malear3": "<:Blue_Breath:1317239355835813939>Winter Alear",
       "tanya": "<:Colorless_Bow:1317239404204654703>Tanya",
       "veyle4": "<:Green_Tome:1317239575352971396>Valentines Veyle"
@@ -35515,6 +35656,28 @@
       "Mythic Jormungandr",
       "M Jormungandr",
       "jormungandr"
+    ]
+  },
+  "joehernandez": {
+    "heroes": {
+      "boucheron": "<:Green_Axe:1317239517136031897>Boucheron"
+    },
+    "name": "Joe Hernandez",
+    "ALT_NAME": [
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
+    ],
+    "HARD_ALT_NAME": [
+      "Big Softy",
+      "Boucheron: Big Softy",
+      "Base Boucheron",
+      "Normal Boucheron",
+      "Regular Boucheron",
+      "boucheron"
     ]
   }
 }
