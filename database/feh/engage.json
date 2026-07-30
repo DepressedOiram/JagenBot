@@ -90,5 +90,12 @@
     "description": "Enhanced Engaged Special\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nGrants HP/Atk/Spd/Def/Res+3.\nWhen Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf foe initiates combat and if unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per turn; does not stack with other similar effects; when this effect triggers, other similar effects granted to unit are considered triggered and vice-versa).",
     "icon": 2705,
     "slot": "Special"
+  },
+  "leif": {
+    "name": "Leif",
+    "stats": false,
+    "description": "When Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf foe initiates combat, triggers the following effects when determining weapon triangle: if foe is counted as red and unit is green, unit is counted as blue; if foe is counted as blue and unit is red, unit is counted as green; if foe is counted as green and unit is blue, unit is counted as red (if number of spaces from unit's space to foe's space \u2264 3, this effect triggers in up to 1 combat instance per turn; otherwise, this effect triggers any number of times. Does not affect skill effects that trigger based on attribute, such as \"if in combat against a red foe\").\nIf foe initiates combat, neutralizes effects that boost values along with weapon-triangle advantage or reduce values along with weapon-triangle disadvantage (Triangle Adept) on unit and foe.",
+    "icon": false,
+    "slot": "Special"
   }
 }

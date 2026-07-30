@@ -44806,7 +44806,8 @@
     "reference": [
       "leif2",
       "leif3",
-      "leif4"
+      "leif4",
+      "leif5"
     ],
     "prf": {
       "": "lightbrandeff",
@@ -81380,7 +81381,8 @@
     "reference": [
       "leif",
       "leif3",
-      "leif4"
+      "leif4",
+      "leif5"
     ],
     "prf": {
       "": "meisterbogeneff",
@@ -112842,12 +112844,12 @@
       "katarina"
     ],
     "prf": {
-      "": "fellflambeau",
-      "eff": "fellflambeau",
-      "atk": "fellflambeau",
-      "spd": "fellflambeau",
-      "def": "fellflambeau",
-      "res": "fellflambeau"
+      "": "fellflambeaueff",
+      "eff": "fellflambeaueff",
+      "atk": "fellflambeauatk",
+      "spd": "fellflambeauspd",
+      "def": "fellflambeaudef",
+      "res": "fellflambeaures"
     }
   },
   "raphael2": {
@@ -117566,12 +117568,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "hotshotlance",
-      "eff": "hotshotlance",
-      "atk": "hotshotlance",
-      "spd": "hotshotlance",
-      "def": "hotshotlance",
-      "res": "hotshotlance"
+      "": "hotshotlanceeff",
+      "eff": "hotshotlanceeff",
+      "atk": "hotshotlanceatk",
+      "spd": "hotshotlancespd",
+      "def": "hotshotlancedef",
+      "res": "hotshotlanceres"
     }
   },
   "louise": {
@@ -120221,12 +120223,12 @@
       "fmorgan"
     ],
     "prf": {
-      "": "axeofdespair",
-      "eff": "axeofdespair",
-      "atk": "axeofdespair",
-      "spd": "axeofdespair",
-      "def": "axeofdespair",
-      "res": "axeofdespair"
+      "": "axeofdespaireff",
+      "eff": "axeofdespaireff",
+      "atk": "axeofdespairatk",
+      "spd": "axeofdespairspd",
+      "def": "axeofdespairdef",
+      "res": "axeofdespairres"
     }
   },
   "orson": {
@@ -125124,12 +125126,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "ginnungagap",
-      "eff": "ginnungagap",
-      "atk": "ginnungagap",
-      "spd": "ginnungagap",
-      "def": "ginnungagap",
-      "res": "ginnungagap"
+      "": "ginnungagapeff",
+      "eff": "ginnungagapeff",
+      "atk": "ginnungagapatk",
+      "spd": "ginnungagapspd",
+      "def": "ginnungagapdef",
+      "res": "ginnungagapres"
     }
   },
   "orochi": {
@@ -127929,7 +127931,8 @@
     "reference": [
       "leif",
       "leif2",
-      "leif4"
+      "leif4",
+      "leif5"
     ],
     "prf": {
       "": "bowoftwelve",
@@ -131805,12 +131808,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "howlingbow",
-      "eff": "howlingbow",
-      "atk": "howlingbow",
-      "spd": "howlingbow",
-      "def": "howlingbow",
-      "res": "howlingbow"
+      "": "howlingboweff",
+      "eff": "howlingboweff",
+      "atk": "howlingbowatk",
+      "spd": "howlingbowspd",
+      "def": "howlingbowdef",
+      "res": "howlingbowres"
     }
   },
   "fae3": {
@@ -148268,15 +148271,12 @@
     "ALT_NAME": [
       "Edelgard: Sun Empresses",
       "Sun Empresses",
-      "Duo Edelgard",
       "Harmonic Edelgard",
       "Harmonized Edelgard",
       "Summer Edelgard",
-      "Duo Edelgardr",
       "Harmonic Edelgardr",
       "Harmonized Edelgardr",
       "Summer Edelgardr",
-      "Duo Edel",
       "Harmonic Edel",
       "Harmonized Edel",
       "Summer Edel"
@@ -148286,23 +148286,17 @@
       "edelgardr5",
       "Sun Empresses",
       "S Edelgard",
-      "D Edelgard",
       "H Edelgard",
       "S Edelgardr",
-      "D Edelgardr",
       "H Edelgardr",
       "S Edel",
-      "D Edel",
       "H Edel",
       "Harmonic Edelgard",
-      "Duo Edelgard",
       "Harmonized Edelgard",
       "Summer Edelgard",
-      "Duo Edelgardr",
       "Harmonic Edelgardr",
       "Harmonized Edelgardr",
       "Summer Edelgardr",
-      "Duo Edel",
       "Harmonic Edel",
       "Harmonized Edel",
       "Summer Edel"
@@ -229186,7 +229180,8 @@
     "reference": [
       "leif",
       "leif2",
-      "leif3"
+      "leif3",
+      "leif5"
     ],
     "prf": {
       "": "bowofloyalty",
@@ -230975,12 +230970,12 @@
       "celine4"
     ],
     "prf": {
-      "": "teapot",
-      "eff": "teapot",
-      "atk": "teapot",
-      "spd": "teapot",
-      "def": "teapot",
-      "res": "teapot"
+      "": "teapotspd",
+      "eff": "teapotspd",
+      "atk": "teapotatk",
+      "spd": "teapotspd",
+      "def": "teapotdef",
+      "res": "teapotres"
     }
   },
   "veronica6": {
@@ -231322,12 +231317,12 @@
       "finn"
     ],
     "prf": {
-      "": "servingknife",
-      "eff": "servingknife",
-      "atk": "servingknife",
-      "spd": "servingknife",
-      "def": "servingknife",
-      "res": "servingknife"
+      "": "servingknifedef",
+      "eff": "servingknifedef",
+      "atk": "servingknifeatk",
+      "spd": "servingknifespd",
+      "def": "servingknifedef",
+      "res": "servingkniferes"
     }
   },
   "sharena4": {
@@ -252855,6 +252850,14 @@
       "Exercise Byleth F",
       "E F Byleth",
       "E Byleth F",
+      "Cheer Byleth",
+      "Cheer Female Byleth",
+      "Cheer F Byleth",
+      "Cheer Byleth Female",
+      "Cheer Byleth F",
+      "C Byleth",
+      "C F Byleth",
+      "C Byleth F",
       "byleth13",
       "fbyleth6"
     ],
@@ -254618,6 +254621,186 @@
       "spd": "shackleaxespd",
       "def": "shackleaxedef",
       "res": "shackleaxeres"
+    }
+  },
+  "leif5": {
+    "name": "Leif",
+    "title": "Of Genealogy",
+    "description": "One of the Emblems who were summoned to Elyos. Resides in the Ring of the Sage Lord. Appears in Fire Emblem: Thracia 776 / Engage.",
+    "origin": "Thracia 776 + Engage",
+    "artist": "Kita Senri (\u5317\u5343\u91cc)",
+    "move": "Infantry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1400",
+    "type": "emblem",
+    "version": "10.7",
+    "duo": false,
+    "harmonized": false,
+    "emblem": "When Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf foe initiates combat, triggers the following effects when determining weapon triangle: if foe is counted as red and unit is green, unit is counted as blue; if foe is counted as blue and unit is red, unit is counted as green; if foe is counted as green and unit is blue, unit is counted as red (if number of spaces from unit's space to foe's space \u2264 3, this effect triggers in up to 1 combat instance per turn; otherwise, this effect triggers any number of times. Does not affect skill effects that trigger based on attribute, such as \"if in combat against a red foe\").\nIf foe initiates combat, neutralizes effects that boost values along with weapon-triangle advantage or reduce values along with weapon-triangle disadvantage (Triangle Adept) on unit and foe.",
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 10,
+      "def": 11,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Sage Lord's Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Quadruple Hit": "5"
+    },
+    "passive": {
+      "A": {
+        "Arms Shield 1": "2",
+        "Arms Shield 2": "3",
+        "Arms Shield 3": "4",
+        "Arms Shield 4": "5"
+      },
+      "B": {
+        "Velocity 1": "2",
+        "Velocity 2": "3",
+        "Velocity 3": "4",
+        "Counter Dull": "5"
+      },
+      "C": {
+        "Odd Tempest 1": "2",
+        "Odd Tempest 2": "3",
+        "Odd Tempest 3": "4",
+        "Thunder Specter": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Leif_Of_Genealogy_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Leif_Of_Genealogy_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Leif_Of_Genealogy_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Leif_Of_Genealogy_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of Genealogy",
+      "Leif: Of Genealogy",
+      "Emblem Leif",
+      "Engage Leif",
+      "E Leif",
+      "leif5"
+    ],
+    "HARD_ALT_NAME": [
+      "Of Genealogy",
+      "Leif: Of Genealogy",
+      "Emblem Leif",
+      "Engage Leif",
+      "E Leif",
+      "leif5"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30ea\u30fc\u30d5",
+    "voice": "Nicolas Roye",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "jugdral",
+      "elyos"
+    ],
+    "chibi": [
+      "fe5",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "It feels strange to meet Lord Seliph in this form. Yet even after an eternity in Elyos, I still consider him a brother.",
+        "While in Elyos, I was in Lythos Castle. Twice I fell into the enemy's hands... I felt such relief upon truly returning.",
+        "I wish my old comrades could see me like this. I'd like to repay them for helping to found the new Thracia.",
+        "I'm so glad I get to eat again. It is not often I grow tired, but rest and a nice meal really do help beat fatigue.",
+        "My white armor matches my ring. Perhaps if my armor was like my father's, it would've been black."
+      ],
+      "Visit": [
+        "There are powerful warriors gathered here too? Still, we could learn from those at [F]'s."
+      ],
+      "Level": [
+        "I'm making excellent progress. I wish to try various combat styles.",
+        "Even in this form, I find myself hoping to become just like the crusaders.",
+        "This is not a failure. Maintaining the status quo is its own reward."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Emblem Leif. To be needed in this land fills me with gratitude. I will aid you in restoring true peace."
+      ],
+      "Learn Skill": [
+        "Thank you. I'll continue to charge into battle so as to meet your expectations."
+      ],
+      "Confession": [
+        "I am proud to wield my axe for one so honorable. An Emblem's power depends on its user, after all.\nWhen summoned, I braced for the worst, but my fears were for naught when I saw your expression.\nI could tell that you are someone who truly fights for peace.\nTime and time again, I lamented my lack of power. The unrest in my homeland, the war in Elyos...\nMany perished in those dire days. However, thanks to my comrades, I learned that none can stand alone.\nIt's my turn to teach that lesson. With my axe, I bring the strength to cast away all that assails you.\nI shall conduct myself in a manner befitting the name \"Sage Lord.\""
+      ],
+      "Special": [
+        "Quadruple Hit!",
+        "Guided by the Emblems!",
+        "Liberation!",
+        "Emblem engage!"
+      ],
+      "Status": [
+        "Oh.",
+        "Need a battle plan? Leave it to me!",
+        "Huh? I'm...not injured. But if you push yourself too hard you could be. So be careful.",
+        "My ring was at Lythos Castle in Elyos. And so was my uncle, Emblem Sigurd.",
+        "Now that I can eat and drink again, there is a beverage I used to like...",
+        "\"Free us, Emblem of Genealogy...\" That's the invocation that once summoned me.",
+        "I wonder what Finn and Nanna would say if they saw me like this...",
+        "Although I've come from the holy land of Lythos, and call the kingdom of Leonster my home... I think I may grow to like it here in Askr."
+      ],
+      "Map Select": [
+        "Leave it to me!",
+        "I am ready.",
+        "To battle."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Leif",
+    "SEARCH_NAME": "Emblem Leif",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Green_Axe:1317239517136031897>Emblem Leif",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "leif",
+      "leif2",
+      "leif3",
+      "leif4"
+    ],
+    "prf": {
+      "": "sagelordsaxe",
+      "eff": "sagelordsaxe",
+      "atk": "sagelordsaxe",
+      "spd": "sagelordsaxe",
+      "def": "sagelordsaxe",
+      "res": "sagelordsaxe"
     }
   }
 }

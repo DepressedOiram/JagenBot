@@ -26224,9 +26224,51 @@
     "refine": false
   },
   "fellflambeau": {
-    "name": "Fell Flambeau",
+    "name": "Fell Flambeau (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Fell Flambeau"
+  },
+  "fellflambeaueff": {
+    "name": "Fell Flambeau (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "fellflambeauatk": {
+    "name": "Fell Flambeau (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "fellflambeauspd": {
+    "name": "Fell Flambeau (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "fellflambeaudef": {
+    "name": "Fell Flambeau (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "fellflambeaures": {
+    "name": "Fell Flambeau (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -27316,9 +27358,52 @@
     "refine": false
   },
   "hotshotlance": {
-    "name": "Hotshot Lance",
+    "name": "Hotshot Lance (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Hotshot Lance"
+  },
+  "hotshotlanceeff": {
+    "name": "Hotshot Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "hotshotlanceatk": {
+    "name": "Hotshot Lance (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hotshotlancespd": {
+    "name": "Hotshot Lance (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hotshotlancedef": {
+    "name": "Hotshot Lance (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hotshotlanceres": {
+    "name": "Hotshot Lance (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -27731,9 +27816,52 @@
     "refine": false
   },
   "axeofdespair": {
-    "name": "Axe of Despair",
+    "name": "Axe of Despair (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Axe of Despair"
+  },
+  "axeofdespaireff": {
+    "name": "Axe of Despair (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "axeofdespairatk": {
+    "name": "Axe of Despair (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeofdespairspd": {
+    "name": "Axe of Despair (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeofdespairef": {
+    "name": "Axe of Despair (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "axeofdespairres": {
+    "name": "Axe of Despair (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -28639,10 +28767,56 @@
     "refine": false
   },
   "ginnungagap": {
-    "name": "Ginnungagap",
+    "name": "Ginnungagap (Unrefined)",
     "bonus": {
       "atk": 14,
       "spd": 3
+    },
+    "refine": "Ginnungagap"
+  },
+  "ginnungagapeff": {
+    "name": "Ginnungagap (Eff)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "ginnungagapatk": {
+    "name": "Ginnungagap (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "ginnungagapspd": {
+    "name": "Ginnungagap (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 5
+    },
+    "refine": false
+  },
+  "ginnungagapdef": {
+    "name": "Ginnungagap (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "def": 3
+    },
+    "refine": false
+  },
+  "ginnungagapres": {
+    "name": "Ginnungagap (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 3,
+      "res": 3
     },
     "refine": false
   },
@@ -44408,6 +44582,202 @@
     },
     "refine": false
   },
+  "howlingbow": {
+    "name": "Howling Bow (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Howling Bow"
+  },
+  "howlingboweff": {
+    "name": "Howling Bow (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "howlingbowatk": {
+    "name": "Howling Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "howlingbowspd": {
+    "name": "Howling Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "howlingbowdef": {
+    "name": "Howling Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "howlingbowres": {
+    "name": "Howling Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "silverspoon": {
+    "name": "Silver Spoon",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "teatimelance": {
+    "name": "Teatime Lance",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "teapot": {
+    "name": "Teapot+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Teapot+"
+  },
+  "teapotatk": {
+    "name": "Teapot+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "teapotspd": {
+    "name": "Teapot+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "teapotdef": {
+    "name": "Teapot+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "teapotres": {
+    "name": "Teapot+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "princessteapot": {
+    "name": "Princess Teapot",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "servingknife": {
+    "name": "Serving Knife+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Serving Knife+"
+  },
+  "servingknifeatk": {
+    "name": "Serving Knife+ (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "servingknifespd": {
+    "name": "Serving Knife+ (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "servingknifedef": {
+    "name": "Serving Knife+ (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "servingkniferes": {
+    "name": "Serving Knife+ (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "gladsbok": {
+    "name": "Gla\u00f0sb\u00f3k",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "truthseeker": {
+    "name": "Truth Seeker",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "temperedantler": {
+    "name": "Tempered Antler",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "sublimecreator": {
+    "name": "Sublime Creator",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "crypticvalaskjalf": {
+    "name": "Cryptic Valaskjalf",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "fortifiedaxe": {
+    "name": "Fortified Axe",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -45136,6 +45506,13 @@
       "atk": 14,
       "res": 4,
       "hp": 5
+    },
+    "refine": false
+  },
+  "sagelordsaxe": {
+    "name": "Sage Lord's Axe",
+    "bonus": {
+      "atk": 16
     },
     "refine": false
   }

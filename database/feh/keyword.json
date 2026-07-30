@@ -5430,7 +5430,9 @@
             "assist": [
                 "Future Focus"
             ],
-            "special": [],
+            "special": [
+                "Quadruple Hit"
+            ],
             "A": [
                 "Prof's Guidance"
             ],
@@ -7673,7 +7675,8 @@
             ],
             "Axe": [
                 "Bolt Axe",
-                "Lionheart Axe"
+                "Lionheart Axe",
+                "Sage Lord's Axe"
             ],
             "Staff": [
                 "Budding Staff"
@@ -8092,6 +8095,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Quadruple Hit",
                 "Sei\u00f0r Cannon"
             ],
             "A": [],

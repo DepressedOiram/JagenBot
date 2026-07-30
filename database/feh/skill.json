@@ -6204,7 +6204,8 @@
         "ash4": "3",
         "baldr4": "3",
         "tharja8": "3",
-        "falear5": "3"
+        "falear5": "3",
+        "leif5": "3"
       }
     },
     "refine": {},
@@ -6412,7 +6413,8 @@
         "ash4": "4",
         "baldr4": "4",
         "tharja8": "4",
-        "falear5": "4"
+        "falear5": "4",
+        "leif5": "4"
       }
     },
     "refine": {},
@@ -78347,7 +78349,8 @@
         "felix4": "4",
         "celica8": "4",
         "felix5": "4",
-        "malear5": "4"
+        "malear5": "4",
+        "leif5": "4"
       },
       "Odd Tempest 2": {},
       "Odd Tempest 1": {}
@@ -103449,28 +103452,22 @@
       "edelgard5",
       "Edelgard: Sun Empresses",
       "Sun Empresses",
-      "Duo Edelgard",
       "Harmonic Edelgard",
       "Harmonized Edelgard",
       "Summer Edelgard",
-      "Duo Edelgardr",
       "Harmonic Edelgardr",
       "Harmonized Edelgardr",
       "Summer Edelgardr",
-      "Duo Edel",
       "Harmonic Edel",
       "Harmonized Edel",
       "Summer Edel",
       "edel5",
       "edelgardr5",
       "S Edelgard",
-      "D Edelgard",
       "H Edelgard",
       "S Edelgardr",
-      "D Edelgardr",
       "H Edelgardr",
       "S Edel",
-      "D Edel",
       "H Edel"
     ],
     "ALT_NAME": [],
@@ -108113,7 +108110,8 @@
         "elincia6": "4",
         "fjorm7": "4",
         "lamia": "5",
-        "fbyleth6": "4"
+        "fbyleth6": "4",
+        "leif5": "4"
       },
       "Velocity 2": {},
       "Velocity 1": {}
@@ -165840,6 +165838,79 @@
     "slot": "Passive C",
     "wpn": false
   },
+  "squadacedd": {
+    "name": "Squad Ace DD",
+    "skill": [
+      {
+        "name": "Squad Ace DD 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+2.",
+        "bonus": {
+          "atk": 2,
+          "spd": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace DD 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace DD 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+3.",
+        "bonus": {
+          "atk": 3,
+          "spd": 3,
+          "res": 3
+        }
+      },
+      {
+        "name": "Squad Ace DD 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace DD 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Spd/Res+4.",
+        "bonus": {
+          "atk": 4,
+          "spd": 4,
+          "res": 4
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace DD 1": {},
+      "Squad Ace DD 2": {},
+      "Squad Ace DD 3": {}
+    },
+    "icon": 2208,
+    "HARD_ALT_NAME": [
+      "Squad Ace DD 1",
+      "Squad Ace DD 2",
+      "Squad Ace DD 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
   "herosgreataxe": {
     "name": "Hero s Greataxe",
     "skill": [
@@ -166010,6 +166081,14 @@
       "Exercise Byleth F",
       "E F Byleth",
       "E Byleth F",
+      "Cheer Byleth",
+      "Cheer Female Byleth",
+      "Cheer F Byleth",
+      "Cheer Byleth Female",
+      "Cheer Byleth F",
+      "C Byleth",
+      "C F Byleth",
+      "C Byleth F",
       "byleth13",
       "fbyleth6"
     ],
@@ -166082,7 +166161,8 @@
     ],
     "reference": {
       "Counter Dull": {
-        "fbyleth6": "5"
+        "fbyleth6": "5",
+        "leif5": "5"
       }
     },
     "icon": 2733,
@@ -166802,7 +166882,8 @@
     "reference": {
       "Thunder Specter": {
         "malear5": "5",
-        "falear5": "5"
+        "falear5": "5",
+        "leif5": "5"
       }
     },
     "icon": 2741,
@@ -167018,5 +167099,230 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_ax198"
+  },
+  "sagelordsaxe": {
+    "name": "Sage Lord's Axe",
+    "skill": [
+      {
+        "name": "Sage Lord's Axe",
+        "description": "Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range.\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally, grants Special cooldown count-Y to unit or ally and inflicts Special cooldown count+Y on foe before unit's or ally's first attack during combat (if unit or ally has weapon-triangle advantage, Y = 2; otherwise, Y = 1; effects on foe's Special cooldown count trigger only if foe's attack can trigger foe's Special; cannot exceed the foe's maximum Special cooldown).\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Light Brand Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nDecreases Spd difference necessary for unit to make a follow-up attack by 10 and calculates damage using the lower of foe's Def or Res during combat (excluding area-of-effect Specials).\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sage Lord's Axe": {
+        "leif5": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sage Lord's Axe",
+      "Sage Lords Axe",
+      "Of Genealogy",
+      "Leif: Of Genealogy",
+      "Emblem Leif",
+      "Engage Leif",
+      "E Leif",
+      "leif5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax199"
+  },
+  "quadruplehit": {
+    "name": "Quadruple Hit",
+    "skill": [
+      {
+        "name": "Quadruple Hit",
+        "description": "When Special triggers, boosts damage by unit's Spd.\nAt start of player phase or enemy phase, grants \u3010Truly Incited\u3011and \u3010Null Follow-Up\u3011 to unit and allies within 2 spaces for 1 turn.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials) and unit attacks twice during combat.\nIf foe initiates combat, triggers the following effects when determining weapon triangle: if foe is counted as red, unit is counted as blue; if foe is counted as green, unit is counted as red; if foe is counted as colorless, grants weapon-triangle advantage to unit and inflicts weapon-triangle disadvantage on foe (if number of spaces from unit's space to foe's space \u2264 3, this effect triggers in up to 2 combat instances per turn; otherwise, this effect triggers any number of times. Does not affect skill effects that trigger based on attribute, such as \"if in combat against a red foe\").\nIf foe initiates combat, neutralizes effects that boost values along with weapon-triangle advantage or reduce values along with weapon-triangle disadvantage (Triangle Adept) on unit and foe.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Astra"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Quadruple Hit": {
+        "leif5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Quadruple Hit"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "armsshield": {
+    "name": "Arms Shield",
+    "skill": [
+      {
+        "name": "Arms Shield 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Bow",
+            "Red_Dagger",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Bow",
+            "Green_Dagger",
+            "Colorless_Beast",
+            "Colorless_Bow",
+            "Colorless_Dagger"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If foe initiates combat or if unit's HP \u2265 25% at start of combat, grants Atk/Spd/Def+2 to unit, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; if unit has weapon-triangle advantage, X = 3; if unit has weapon-triangle disadvantage, X = 1; if neither, X = 2)."
+      },
+      {
+        "name": "Arms Shield 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Arms Shield 1"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Bow",
+            "Red_Dagger",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Bow",
+            "Green_Dagger",
+            "Colorless_Beast",
+            "Colorless_Bow",
+            "Colorless_Dagger"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If foe initiates combat or if unit's HP \u2265 25% at start of combat, grants Atk/Spd/Def+4 to unit, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; if unit has weapon-triangle advantage, X = 6; if unit has weapon-triangle disadvantage, X = 2; if neither, X = 4)."
+      },
+      {
+        "name": "Arms Shield 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Arms Shield 2"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Bow",
+            "Red_Dagger",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Bow",
+            "Green_Dagger",
+            "Colorless_Beast",
+            "Colorless_Bow",
+            "Colorless_Dagger"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If foe initiates combat or if unit's HP \u2265 25% at start of combat, grants Atk/Spd/Def+7 to unit, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; if unit has weapon-triangle advantage, X = 10; if unit has weapon-triangle disadvantage, X = 4; if neither, X = 7)."
+      },
+      {
+        "name": "Arms Shield 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Arms Shield 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Bow",
+            "Red_Dagger",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Bow",
+            "Green_Dagger",
+            "Colorless_Beast",
+            "Colorless_Bow",
+            "Colorless_Dagger"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If foe initiates combat or if unit's HP \u2265 25% at start of combat, grants Atk/Spd/Def+10 to unit, neutralizes penalties on unit, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; if unit has weapon-triangle advantage, X = 15; if unit has weapon-triangle disadvantage, X = 5; if neither, X = 10), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack)."
+      }
+    ],
+    "reference": {
+      "Arms Shield 1": {},
+      "Arms Shield 2": {},
+      "Arms Shield 3": {},
+      "Arms Shield 4": {
+        "leif5": "5"
+      }
+    },
+    "icon": 2743,
+    "HARD_ALT_NAME": [
+      "Arms Shield 1",
+      "Arms Shield 2",
+      "Arms Shield 3",
+      "Arms Shield 4",
+      "Arms Shield"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
   }
 }

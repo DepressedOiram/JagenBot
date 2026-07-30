@@ -232,7 +232,7 @@ fe7.special["denning"] = denning
 async def calendar(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/gmkum55cnich1.jpeg")
+    embed.attach("image", "https://preview.redd.it/july-august-2026-calendar-v0-gmkum55cnich1.jpeg?width=1080&crop=smart&auto=webp&s=75680bedcf0c9e93c485e47702a9c22feafea6a2")
     
     await embed.send(ctx)
 
@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-hvjzc1yzl7ah1.png?width=1080&crop=smart&auto=webp&s=4b7e5ea4401f5839169ce789d6839c265973f121")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-july-29th-v0-1smmrzaih6gh1.png?width=1080&crop=smart&auto=webp&s=58ff660e439cd623804599ae1e7918a57dc89b24")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-hvjzc1yzl7ah1.png?width=1080&crop=smart&auto=webp&s=4b7e5ea4401f5839169ce789d6839c265973f121")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-july-29th-v0-1smmrzaih6gh1.png?width=1080&crop=smart&auto=webp&s=58ff660e439cd623804599ae1e7918a57dc89b24")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-and-chosen-fjorm-v0-hvjzc1yzl7ah1.png?width=1080&crop=smart&auto=webp&s=4b7e5ea4401f5839169ce789d6839c265973f121")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-july-29th-v0-1smmrzaih6gh1.png?width=1080&crop=smart&auto=webp&s=58ff660e439cd623804599ae1e7918a57dc89b24")
     
     await embed.send(ctx)
 
