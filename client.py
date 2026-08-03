@@ -10,8 +10,9 @@ random_status = [
     "Acting as the decoy",
     "@Jagen calendar",
     "@Jagen legendary",
-    "@Jagen revival",
-    "@Jagen weekly"
+    "@Jagen mythic",
+    "@Jagen emblem",
+    "@Jagen revival"
 ]
 
 discord.utils.setup_logging()
