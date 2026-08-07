@@ -3390,7 +3390,8 @@
         "orochi": "3",
         "ilyana3": "3",
         "limstella": "3",
-        "griss": "3"
+        "griss": "3",
+        "caeda7": "3"
       }
     },
     "refine": {
@@ -5425,7 +5426,8 @@
         "ingrid5": "3",
         "eir4": "3",
         "alm6": "3",
-        "groa": "3"
+        "groa": "3",
+        "chrom10": "3"
       }
     },
     "refine": {},
@@ -5587,7 +5589,8 @@
         "ursula2": "5",
         "ytiki5": "5",
         "heather": "3",
-        "lucia2": "3"
+        "lucia2": "3",
+        "frobin9": "3"
       }
     },
     "refine": {},
@@ -6205,7 +6208,8 @@
         "baldr4": "3",
         "tharja8": "3",
         "falear5": "3",
-        "leif5": "3"
+        "leif5": "3",
+        "caeda7": "3"
       }
     },
     "refine": {},
@@ -6414,7 +6418,8 @@
         "baldr4": "4",
         "tharja8": "4",
         "falear5": "4",
-        "leif5": "4"
+        "leif5": "4",
+        "caeda7": "4"
       }
     },
     "refine": {},
@@ -7458,7 +7463,9 @@
         "sharena6": "3",
         "fbyleth6": "3",
         "groa": "3",
-        "boucheron": "3"
+        "boucheron": "3",
+        "marth9": "3",
+        "frobin9": "3"
       }
     },
     "refine": {},
@@ -7570,7 +7577,8 @@
         "seliph4": "4",
         "lapis3": "4",
         "ingrid4": "4",
-        "hinoka6": "4"
+        "hinoka6": "4",
+        "marth9": "4"
       }
     },
     "refine": {},
@@ -7680,7 +7688,8 @@
         "sharena6": "4",
         "fbyleth6": "4",
         "groa": "4",
-        "boucheron": "4"
+        "boucheron": "4",
+        "frobin9": "4"
       }
     },
     "refine": {},
@@ -8648,7 +8657,8 @@
         "igrene3": "3",
         "heidrun2": "3",
         "chrom9": "3",
-        "ninian5": "3"
+        "ninian5": "3",
+        "chrom10": "3"
       }
     },
     "refine": {},
@@ -8738,7 +8748,8 @@
         "igrene3": "4",
         "heidrun2": "4",
         "chrom9": "4",
-        "ninian5": "4"
+        "ninian5": "4",
+        "chrom10": "4"
       }
     },
     "refine": {},
@@ -11541,7 +11552,8 @@
         "machyua": "4",
         "diamant3": "4",
         "ash3": "4",
-        "elincia6": "4"
+        "elincia6": "4",
+        "marth9": "4"
       }
     },
     "refine": {},
@@ -12265,7 +12277,8 @@
         "eirika2": "5",
         "lyn5": "5",
         "gunnthra2": "5",
-        "ishtar2": "5"
+        "ishtar2": "5",
+        "chrom10": "4"
       },
       "Desperation 2": {},
       "Desperation 1": {}
@@ -14402,7 +14415,8 @@
         "perne": "1",
         "vali": "2",
         "vali2": "2",
-        "mia6": "2"
+        "mia6": "2",
+        "frobin9": "2"
       }
     },
     "refine": {},
@@ -14945,7 +14959,8 @@
         "severa2": "5",
         "celica7": "4",
         "larachel5": "4",
-        "sigurd6": "4"
+        "sigurd6": "4",
+        "chrom10": "4"
       },
       "Hone Atk 2": {
         "gunter": "2",
@@ -30079,7 +30094,8 @@
         "sothe": "5",
         "vali": "4",
         "vali2": "4",
-        "mia6": "4"
+        "mia6": "4",
+        "frobin9": "4"
       },
       "Spur Atk/Spd 1": {}
     },
@@ -52556,7 +52572,8 @@
     ],
     "reference": {
       "AR-O Atk/Def 3": {
-        "lukas2": "5"
+        "lukas2": "5",
+        "chrom10": "4"
       },
       "AR-O Atk/Def 2": {},
       "AR-O Atk/Def 1": {}
@@ -54115,7 +54132,8 @@
     ],
     "reference": {
       "AR-O Atk/Spd 3": {
-        "naga": "5"
+        "naga": "5",
+        "frobin9": "4"
       },
       "AR-O Atk/Spd 2": {},
       "AR-O Atk/Spd 1": {}
@@ -57525,7 +57543,8 @@
         "lyon6": "4",
         "gotoh": "4",
         "alm6": "4",
-        "tharja8": "4"
+        "tharja8": "4",
+        "marth9": "4"
       },
       "Time's Pulse 2": {},
       "Time's Pulse 1": {}
@@ -63679,12 +63698,8 @@
       "Tanngrisnir",
       "Marth: Royal Altean Duo",
       "Royal Altean Duo",
-      "Harmonic Marth",
-      "Harmonized Marth",
       "Winter Marth",
       "Christmas Marth",
-      "Harmonic Mars",
-      "Harmonized Mars",
       "Winter Mars",
       "Christmas Mars",
       "marth4"
@@ -77285,7 +77300,8 @@
         "ashe3": "5",
         "azelle": "5",
         "ytiki5": "5",
-        "lucia2": "5"
+        "lucia2": "5",
+        "frobin9": "5"
       },
       "Rally Up Spd": {
         "seth2": "4"
@@ -83531,7 +83547,8 @@
         "fogado2": "4",
         "celine3": "4",
         "sedgar2": "4",
-        "hilda6": "4"
+        "hilda6": "4",
+        "caeda7": "4"
       },
       "Atk/Spd Catch 2": {},
       "Atk/Spd Catch 1": {}
@@ -88332,8 +88349,13 @@
         "ashe2": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Enables\u3010Canto (Rem. +1; Min \uff12)\u3011. Accelerates Special trigger (cooldown count-1).\nDuring combat, grants Atk/Spd/Def/Res+10 to unit and disables skills of all foes, excluding foe in combat."
+      ],
+      "description": "Grants Atk+3.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+3 to unit or ally, grants Special cooldown charge +1 to unit or ally per attack (only highest value applied; does not stack), and inflicts Atk/Spd/Def/Res-3 on foe during combat, and also, if foe has bonuses, inflicts a penalty on foe's Atk/Spd/Def/Res and grants a bonus to unit's or ally's Atk/Spd/Def/Res = current bonus on each of that foe's stats during combat (calculates each stat bonus and penalty independently).\nUnit deals +20 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials)."
+    },
+    "icon": 2746,
     "HARD_ALT_NAME": [
       "ashe2",
       "Ashe: Fabled Sea Knight",
@@ -97624,14 +97646,7 @@
     },
     "icon": false,
     "HARD_ALT_NAME": [
-      "quickdagger+",
-      "colm",
-      "Colm: Capable Thief",
-      "Capable Thief",
-      "Base Colm",
-      "Normal Colm",
-      "colm1",
-      "Colm"
+      "quickdagger+"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -100272,8 +100287,13 @@
         "mareeta3": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Grants Atk/Spd/Def/Res+10 to unit and unit deals +20 damage during combat (excluding area-of-effect Specials). If decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1).\nFor unit and allies within 3 rows or 3 columns centered on unit, at start of turn and after combat, grants Special cooldown count-1.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5 during combat, and also, when unit's or ally's Special triggers, unit or ally deals +20 damage during combat (excluding area-of-effect Specials).\nReduces damage from foe's attacks by 15 (excluding area-of-effect Specials) and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat."
+    },
+    "icon": 2747,
     "HARD_ALT_NAME": [
       "mareeta3",
       "Mareeta: Astra Awakened",
@@ -101363,8 +101383,13 @@
         "tine": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "At start of player phase or enemy phase, grants \u3010Desperation\u3011,\u3010Atk Liberate\u3011, and \u3010Spd Liberate\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+10 to unit and unit deals +20 damage during combat (excluding area-of-effect Specials)."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn, grants Special cooldown count-2 to unit.\nGrants Atk/Spd+6 and Def/Res+5 to unit and neutralizes foe's \"reduces damage by X%\" effects from foe's non-Special skills during combat (excluding area-of-effect Specials). When unit's Special triggers, deals damage = unit's max Special cooldown count value \u00d7 8 (excluding area-of-effect Specials)."
+    },
+    "icon": 2748,
     "HARD_ALT_NAME": [
       "tine",
       "Tine: Rumbling Thunder",
@@ -106099,8 +106124,13 @@
         "jeralt": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Enables\u3010Canto (Rem. +1; Min \uff12)\u3011.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +20 damage (excluding area-of-effect Specials), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack). If unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown)."
+      ],
+      "description": "Grants Atk+3.\nAt start of turn and after unit acts (if Canto triggers, after Canto), inflicts Atk/Spd/Def-7, \u3010Panic\u3011, and\u3010Sabotage\u3011on foes on the enemy team with the highest Atk, Spd, and Def and foes within 2 spaces of those foes through their next actions.\nInflicts Atk/Def-6 and Spd-5 on foe, reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat."
+    },
+    "icon": 2749,
     "HARD_ALT_NAME": [
       "jeralt",
       "Jeralt: Blade Breaker",
@@ -155721,7 +155751,8 @@
     "reference": {
       "Null Uplift A/S": {
         "vali": "5",
-        "mia6": "5"
+        "mia6": "5",
+        "frobin9": "5"
       }
     },
     "refine": {},
@@ -156466,7 +156497,8 @@
         "lysithea5": "5",
         "eirika10": "5",
         "ivy4": "5",
-        "groa": "5"
+        "groa": "5",
+        "frobin9": "5"
       }
     },
     "icon": false,
@@ -158711,7 +158743,8 @@
     ],
     "reference": {
       "Atk/Spd Airspace": {
-        "hilda6": "5"
+        "hilda6": "5",
+        "caeda7": "5"
       }
     },
     "icon": 2613,
@@ -161589,7 +161622,8 @@
     "reference": {
       "A/D Outcry Dull": {
         "lowen": "5",
-        "alfonse7": "5"
+        "alfonse7": "5",
+        "chrom10": "5"
       }
     },
     "refine": {},
@@ -164893,7 +164927,8 @@
     ],
     "reference": {
       "Null Pulse Follow": {
-        "alm6": "5"
+        "alm6": "5",
+        "marth9": "5"
       }
     },
     "icon": 2712,
@@ -167111,7 +167146,7 @@
           "rng": "1",
           "sp": "300"
         },
-        "exclusive": false,
+        "exclusive": true,
         "slot": "Weapon",
         "weapon_type": "Green_Axe",
         "restriction_weapon": false,
@@ -167323,6 +167358,948 @@
     ],
     "ALT_NAME": [],
     "slot": "Passive A",
+    "wpn": false
+  },
+  "squadacede": {
+    "name": "Squad Ace DE",
+    "skill": [
+      {
+        "name": "Squad Ace DE 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+2.",
+        "bonus": {
+          "atk": 2,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace DE 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace DE 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+3.",
+        "bonus": {
+          "atk": 3,
+          "def": 3,
+          "res": 3
+        }
+      },
+      {
+        "name": "Squad Ace DE 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace DE 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Atk/Def/Res+4.",
+        "bonus": {
+          "atk": 4,
+          "def": 4,
+          "res": 4
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace DE 1": {},
+      "Squad Ace DE 2": {},
+      "Squad Ace DE 3": {}
+    },
+    "icon": 2209,
+    "HARD_ALT_NAME": [
+      "Squad Ace DE 1",
+      "Squad Ace DE 2",
+      "Squad Ace DE 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
+  "enterprising": {
+    "name": "Enterprising",
+    "skill": [
+      {
+        "name": "Enterprising",
+        "description": "If captain initiates combat, grants bonus to captain's Atk/Spd/Def/Res during combat = number of Bonus effects active on target \u00d7 3, excluding stat bonuses.",
+        "stats": {
+          "sp": 0
+        },
+        "slot": "Captain Skill"
+      }
+    ],
+    "reference": {},
+    "icon": 2745,
+    "HARD_ALT_NAME": [
+      "Enterprising"
+    ],
+    "ALT_NAME": [],
+    "slot": "Captain Skill",
+    "wpn": false
+  },
+  "larkdagger": {
+    "name": "Lark Dagger",
+    "skill": [
+      {
+        "name": "Lark Dagger",
+        "description": "At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Exposure\u3011, and\u3010Discord\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+5 to unit, inflicts penalty on foe's Spd/Def = highest penalty on each stat between target and foes within 2 spaces of target (calculates each stat penalty independently), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nEffect:\u3010Dagger \uff17\u3011",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Dagger",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Lark Dagger": {
+        "colm": "5"
+      }
+    },
+    "refine": {
+      "special": [
+        "Grants Atk/Spd/Def/Res+5 to unit, neutralizes unit's penalties to Atk/Spd, unit deals +20 damage (excluding area-of-effect Specials), and grants Special cooldown count-1 to unit before unit's first attack during combat."
+      ],
+      "description": "At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Exposure\u3011, and\u3010Discord\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+5 to unit, inflicts penalty on foe's Spd/Def = highest penalty on each stat between target and foes within 2 spaces of target (calculates each stat penalty independently), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nEffect:\u3010Dagger \uff17\u3011"
+    },
+    "icon": 2750,
+    "HARD_ALT_NAME": [
+      "Lark Dagger",
+      "colm",
+      "Colm: Capable Thief",
+      "Capable Thief",
+      "Base Colm",
+      "Normal Colm",
+      "colm1",
+      "Colm"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_dg110"
+  },
+  "lineagelantern": {
+    "name": "Lineage Lantern",
+    "skill": [
+      {
+        "name": "Lineage Lantern",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against dragon foes.\nAt start of player phase or enemy phase, grants\u3010Future Witness\u3011and \"unit can move to a space adjacent to any ally within 2 spaces\" to unit and allies within 3 spaces of unit for 1 turn.\nFor allies with Fire Emblem active, when Canto triggers, if ally is within 6 spaces of unit, ally can move to a space within 2 spaces of unit, even if that movement exceeds the Canto distance limit.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Lineage Lantern": {
+        "marth9": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Lineage Lantern",
+      "Timeless Warmth",
+      "Marth: Timeless Warmth",
+      "Harmonic Marth",
+      "Harmonized Marth",
+      "Bath Marth",
+      "Spa Marth",
+      "Hot Spring Marth",
+      "Hot Springs Marth",
+      "B Marth 2",
+      "S Marth",
+      "HS Marth",
+      "marth9"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw224"
+  },
+  "trueemblem": {
+    "name": "True Emblem",
+    "skill": [
+      {
+        "name": "True Emblem",
+        "description": "When Special triggers, boosts damage by unit's Spd.\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills).\nFoes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).At start of player phase or enemy phase, grants Atk/Spd/Def/Res+7,\u3010Fire Emblem\u3011, \u3010Spd Liberate\u3011, and\u3010Null Panic\u3011to unit and allies within 3 spaces of unit for 1 turn.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials) and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit during combat.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Draconic Aura"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "True Emblem": {
+        "marth9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "True Emblem"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "dasdbond": {
+    "name": "D A S D Bond",
+    "skill": [
+      {
+        "name": "D A/S/D Bond",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Distant Counter"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "Unit can counterattack regardless of foe's range.\nIf unit is within 3 spaces of an ally, grants Atk/Spd/Def+10 to unit, neutralizes unit's penalties to Atk/Spd/Def, and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      }
+    ],
+    "reference": {
+      "D A/S/D Bond": {
+        "marth9": "5"
+      }
+    },
+    "icon": 2751,
+    "HARD_ALT_NAME": [
+      "D A/S/D Bond"
+    ],
+    "ALT_NAME": [
+      "Distant A/S/D Bond",
+      "D Atk/Spd/Def Bond",
+      "Distant Atk/Spd/Def Bond",
+      "D Attack/Speed/Defense Bond",
+      "Distant Attack/Speed/Defense Bond"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "bindingbarrier": {
+    "name": "Binding Barrier",
+    "skill": [
+      {
+        "name": "Binding Barrier",
+        "description": "Inflicts Atk/Spd/Def-5 on foe, deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials), restores 7 HP to unit when unit deals damage to foe, and grants effects based on the total value of bonuses on the 3 allies with the highest bonus totals (excluding unit) during combat: If value \u2265 20, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011; if value \u2265 40, if foe initiates combat, unit can counterattack before foe's first attack; and if value \u2265 60, neutralizes effects that prevent unit's counterattacks, and also, if it is unit's first combat initiated by foe that turn, unit can make a follow-up attack before foe's next attack.",
+        "stats": {
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Binding Barrier": {
+        "marth9": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2752,
+    "HARD_ALT_NAME": [
+      "Binding Barrier"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "arcaneduckpail": {
+    "name": "Arcane Duck Pail",
+    "skill": [
+      {
+        "name": "Arcane Duck Pail",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn or after unit acts or triggers Canto, inflicts Spd/Res-7,\u3010Exposure\u3011, and \u3010Discord\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "300"
+        },
+        "exclusive": false,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Arcane Duck Pail": {
+        "frobin9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Arcane Duck Pail",
+      "Onsen Tactician",
+      "Robin: Onsen Tactician",
+      "Bath Robin",
+      "Bath Female Robin",
+      "Bath F Robin",
+      "Bath Robin Female",
+      "Bath Robin F",
+      "B Robin 2",
+      "B F Robin 2",
+      "B Robin F 2",
+      "Spa Robin",
+      "Spa Female Robin",
+      "Spa F Robin",
+      "Spa Robin Female",
+      "Spa Robin F",
+      "S Robin 2",
+      "S Robin F 2",
+      "S F Robin 2",
+      "Hot Spring Robin",
+      "Hot Spring Female Robin",
+      "Hot Spring F Robin",
+      "Hot Spring Robin Female",
+      "Hot Spring Robin F",
+      "Hot Springs Robin",
+      "Hot Springs Female Robin",
+      "Hot Springs F Robin",
+      "Hot Springs Robin Female",
+      "Hot Springs Robin F",
+      "HS Robin",
+      "HS Robin F",
+      "HS F Robin",
+      "Bath Rearmed Robin",
+      "Spa Rearmed Robin",
+      "Hot Spring Rearmed Robin",
+      "Hot Springs Rearmed Robin",
+      "B Rearmed Robin",
+      "S Rearmed Robin",
+      "HS Rearmed Robin",
+      "Bath Rearmed Female Robin",
+      "Spa Rearmed Female Robin",
+      "Hot Spring Rearmed Female Robin",
+      "Hot Springs Rearmed Female Robin",
+      "B Rearmed Female Robin",
+      "S Rearmed Female Robin",
+      "HS Rearmed Female Robin",
+      "Bath Rearmed F Robin",
+      "Spa Rearmed F Robin",
+      "Hot Spring Rearmed F Robin",
+      "Hot Springs Rearmed F Robin",
+      "B Rearmed F Robin",
+      "S Rearmed F Robin",
+      "HS Rearmed F Robin",
+      "Bath Rearmed Robin Female",
+      "Spa Rearmed Robin Female",
+      "Hot Spring Rearmed Robin Female",
+      "Hot Springs Rearmed Robin Female",
+      "B Rearmed Robin Female",
+      "S Rearmed Robin Female",
+      "HS Rearmed Robin Female",
+      "Bath Rearmed Robin F",
+      "Spa Rearmed Robin F",
+      "Hot Spring Rearmed Robin F",
+      "Hot Springs Rearmed Robin F",
+      "B Rearmed Robin F",
+      "S Rearmed Robin F",
+      "HS Rearmed Robin F",
+      "Rearmed Bath Robin",
+      "Rearmed Spa Robin",
+      "Rearmed Hot Spring Robin",
+      "Rearmed Hot Springs Robin",
+      "Rearmed B Robin",
+      "Rearmed S Robin",
+      "Rearmed HS Robin",
+      "Rearmed Bath Female Robin",
+      "Rearmed Spa Female Robin",
+      "Rearmed Hot Spring Female Robin",
+      "Rearmed Hot Springs Female Robin",
+      "Rearmed B Female Robin",
+      "Rearmed S Female Robin",
+      "Rearmed HS Female Robin",
+      "Rearmed Bath F Robin",
+      "Rearmed Spa F Robin",
+      "Rearmed Hot Spring F Robin",
+      "Rearmed Hot Springs F Robin",
+      "Rearmed B F Robin",
+      "Rearmed S F Robin",
+      "Rearmed HS F Robin",
+      "Rearmed Bath Robin Female",
+      "Rearmed Spa Robin Female",
+      "Rearmed Hot Spring Robin Female",
+      "Rearmed Hot Springs Robin Female",
+      "Rearmed B Robin Female",
+      "Rearmed S Robin Female",
+      "Rearmed HS Robin Female",
+      "Rearmed Bath Robin F",
+      "Rearmed Spa Robin F",
+      "Rearmed Hot Spring Robin F",
+      "Rearmed Hot Springs Robin F",
+      "Rearmed B Robin F",
+      "Rearmed S Robin F",
+      "Rearmed HS Robin F",
+      "Bath Rearm Robin",
+      "Spa Rearm Robin",
+      "Hot Spring Rearm Robin",
+      "Hot Springs Rearm Robin",
+      "B Rearm Robin",
+      "S Rearm Robin",
+      "HS Rearm Robin",
+      "Bath Rearm Female Robin",
+      "Spa Rearm Female Robin",
+      "Hot Spring Rearm Female Robin",
+      "Hot Springs Rearm Female Robin",
+      "B Rearm Female Robin",
+      "S Rearm Female Robin",
+      "HS Rearm Female Robin",
+      "Bath Rearm F Robin",
+      "Spa Rearm F Robin",
+      "Hot Spring Rearm F Robin",
+      "Hot Springs Rearm F Robin",
+      "B Rearm F Robin",
+      "S Rearm F Robin",
+      "HS Rearm F Robin",
+      "Bath Rearm Robin Female",
+      "Spa Rearm Robin Female",
+      "Hot Spring Rearm Robin Female",
+      "Hot Springs Rearm Robin Female",
+      "B Rearm Robin Female",
+      "S Rearm Robin Female",
+      "HS Rearm Robin Female",
+      "Bath Rearm Robin F",
+      "Spa Rearm Robin F",
+      "Hot Spring Rearm Robin F",
+      "Hot Springs Rearm Robin F",
+      "B Rearm Robin F",
+      "S Rearm Robin F",
+      "HS Rearm Robin F",
+      "Rearm Bath Robin",
+      "Rearm Spa Robin",
+      "Rearm Hot Spring Robin",
+      "Rearm Hot Springs Robin",
+      "Rearm B Robin",
+      "Rearm S Robin",
+      "Rearm HS Robin",
+      "Rearm Bath Female Robin",
+      "Rearm Spa Female Robin",
+      "Rearm Hot Spring Female Robin",
+      "Rearm Hot Springs Female Robin",
+      "Rearm B Female Robin",
+      "Rearm S Female Robin",
+      "Rearm HS Female Robin",
+      "Rearm Bath F Robin",
+      "Rearm Spa F Robin",
+      "Rearm Hot Spring F Robin",
+      "Rearm Hot Springs F Robin",
+      "Rearm B F Robin",
+      "Rearm S F Robin",
+      "Rearm HS F Robin",
+      "Rearm Bath Robin Female",
+      "Rearm Spa Robin Female",
+      "Rearm Hot Spring Robin Female",
+      "Rearm Hot Springs Robin Female",
+      "Rearm B Robin Female",
+      "Rearm S Robin Female",
+      "Rearm HS Robin Female",
+      "Rearm Bath Robin F",
+      "Rearm Spa Robin F",
+      "Rearm Hot Spring Robin F",
+      "Rearm Hot Springs Robin F",
+      "Rearm B Robin F",
+      "Rearm S Robin F",
+      "Rearm HS Robin F",
+      "Bath R Robin",
+      "Spa R Robin",
+      "Hot Spring R Robin",
+      "Hot Springs R Robin",
+      "B R Robin",
+      "S R Robin",
+      "HS R Robin",
+      "Bath R Female Robin",
+      "Spa R Female Robin",
+      "Hot Spring R Female Robin",
+      "Hot Springs R Female Robin",
+      "B R Female Robin",
+      "S R Female Robin",
+      "HS R Female Robin",
+      "Bath R F Robin",
+      "Spa R F Robin",
+      "Hot Spring R F Robin",
+      "Hot Springs R F Robin",
+      "B R F Robin",
+      "S R F Robin",
+      "HS R F Robin",
+      "Bath R Robin Female",
+      "Spa R Robin Female",
+      "Hot Spring R Robin Female",
+      "Hot Springs R Robin Female",
+      "B R Robin Female",
+      "S R Robin Female",
+      "HS R Robin Female",
+      "Bath R Robin F",
+      "Spa R Robin F",
+      "Hot Spring R Robin F",
+      "Hot Springs R Robin F",
+      "B R Robin F",
+      "S R Robin F",
+      "HS R Robin F",
+      "R Bath Robin",
+      "R Spa Robin",
+      "R Hot Spring Robin",
+      "R Hot Springs Robin",
+      "R B Robin",
+      "R S Robin",
+      "R HS Robin",
+      "R Bath Female Robin",
+      "R Spa Female Robin",
+      "R Hot Spring Female Robin",
+      "R Hot Springs Female Robin",
+      "R B Female Robin",
+      "R S Female Robin",
+      "R HS Female Robin",
+      "R Bath F Robin",
+      "R Spa F Robin",
+      "R Hot Spring F Robin",
+      "R Hot Springs F Robin",
+      "R B F Robin",
+      "R S F Robin",
+      "R HS F Robin",
+      "R Bath Robin Female",
+      "R Spa Robin Female",
+      "R Hot Spring Robin Female",
+      "R Hot Springs Robin Female",
+      "R B Robin Female",
+      "R S Robin Female",
+      "R HS Robin Female",
+      "R Bath Robin F",
+      "R Spa Robin F",
+      "R Hot Spring Robin F",
+      "R Hot Springs Robin F",
+      "R B Robin F",
+      "R S Robin F",
+      "R HS Robin F",
+      "Bath Arm Robin",
+      "Spa Arm Robin",
+      "Hot Spring Arm Robin",
+      "Hot Springs Arm Robin",
+      "B Arm Robin",
+      "S Arm Robin",
+      "HS Arm Robin",
+      "Bath Arm Female Robin",
+      "Spa Arm Female Robin",
+      "Hot Spring Arm Female Robin",
+      "Hot Springs Arm Female Robin",
+      "B Arm Female Robin",
+      "S Arm Female Robin",
+      "HS Arm Female Robin",
+      "Bath Arm F Robin",
+      "Spa Arm F Robin",
+      "Hot Spring Arm F Robin",
+      "Hot Springs Arm F Robin",
+      "B Arm F Robin",
+      "S Arm F Robin",
+      "HS Arm F Robin",
+      "Bath Arm Robin Female",
+      "Spa Arm Robin Female",
+      "Hot Spring Arm Robin Female",
+      "Hot Springs Arm Robin Female",
+      "B Arm Robin Female",
+      "S Arm Robin Female",
+      "HS Arm Robin Female",
+      "Bath Arm Robin F",
+      "Spa Arm Robin F",
+      "Hot Spring Arm Robin F",
+      "Hot Springs Arm Robin F",
+      "B Arm Robin F",
+      "S Arm Robin F",
+      "HS Arm Robin F",
+      "Arm Bath Robin",
+      "Arm Spa Robin",
+      "Arm Hot Spring Robin",
+      "Arm Hot Springs Robin",
+      "Arm B Robin",
+      "Arm S Robin",
+      "Arm HS Robin",
+      "Arm Bath Female Robin",
+      "Arm Spa Female Robin",
+      "Arm Hot Spring Female Robin",
+      "Arm Hot Springs Female Robin",
+      "Arm B Female Robin",
+      "Arm S Female Robin",
+      "Arm HS Female Robin",
+      "Arm Bath F Robin",
+      "Arm Spa F Robin",
+      "Arm Hot Spring F Robin",
+      "Arm Hot Springs F Robin",
+      "Arm B F Robin",
+      "Arm S F Robin",
+      "Arm HS F Robin",
+      "Arm Bath Robin Female",
+      "Arm Spa Robin Female",
+      "Arm Hot Spring Robin Female",
+      "Arm Hot Springs Robin Female",
+      "Arm B Robin Female",
+      "Arm S Robin Female",
+      "Arm HS Robin Female",
+      "Arm Bath Robin F",
+      "Arm Spa Robin F",
+      "Arm Hot Spring Robin F",
+      "Arm Hot Springs Robin F",
+      "Arm B Robin F",
+      "Arm S Robin F",
+      "Arm HS Robin F",
+      "robin17",
+      "frobin9"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg348"
+  },
+  "asforesightnix": {
+    "name": "A S Foresight Nix",
+    "skill": [
+      {
+        "name": "A/S Foresight Nix",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "AR-O Atk/Spd 3",
+          "AR-D Atk/Spd 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "At start of turn, grants\u3010Null Foresight Snare\u3011 to unit for 1 turn.\nIf a Rally or movement Assist skill is used by unit or targets unit, grants\u3010Null Foresight Snare\u3011 to allies within 3 spaces of both unit and target ally or unit and targeting ally (including unit and that ally) after movement for 1 turn.\nIf unit initiates combat or is within 3 spaces of an ally, grants bonus to unit's Atk/Spd = number of Bonus effects active on foe + 10 (max 14; excluding stat bonuses), unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's first attack by X (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; if Foresight Snare is active on foe, X = 15; otherwise, X = 7), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Null Foresight Snare\u3011\nNeutralizes effects of foe's\u3010Foresight Snare\u3011."
+      }
+    ],
+    "reference": {
+      "A/S Foresight Nix": {
+        "frobin9": "5"
+      }
+    },
+    "icon": 2753,
+    "HARD_ALT_NAME": [
+      "A/S Foresight Nix"
+    ],
+    "ALT_NAME": [
+      "Atk/Spd Foresight Nix",
+      "Attack/Speed Foresight Nix"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "perfectplan": {
+    "name": "Perfect Plan",
+    "skill": [
+      {
+        "name": "Perfect Plan",
+        "description": "Enables Canto (2).\nAt start of turn or after unit acts or triggers Canto, grants\u3010Rally Spectrum\u3011to unit and allies within 2 spaces of unit and inflicts \u3010Hush Spectrum\u3011on closest foes and foes within 2 spaces of those foes through their next actions. After Canto (including cases where action is ended due to Canto Control), if unit used an Assist skill on the current turn, grants another action to unit, and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nFor unit and allies on the map with \u3010Rally Spectrum\u3011active, if it is unit's or ally's first combat they initiate this turn and target foe's first combat initiated against them this turn, if foe has\u3010Hush Spectrum\u3011active, reduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\nInflicts Atk/Spd/Res-5 on foe and unit deals +X \u00d7 5 damage (max 25; excluding area-of-effect Specials), and reduces damage from foe's attacks by X \u00d7 3 during combat (max 15; excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties). If decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Perfect Plan": {
+        "frobin9": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2752,
+    "HARD_ALT_NAME": [
+      "Perfect Plan"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "hotspringpail": {
+    "name": "Hot Spring Pail",
+    "skill": [
+      {
+        "name": "Hot-Spring Pail",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against sword, lance, axe, colorless bow, and armored foes.\nAt start of player phase or enemy phase, grants Atk/Spd+6,\u3010Empathy\u3011, and\u3010Null Follow-Up\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials). If decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nIf it is unit's first combat initiated by unit against a foe that is armored or uses a sword, lance, axe, or colorless bow this turn, or it is unit's first combat initiated by such a foe this turn, reduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Hot-Spring Pail": {
+        "caeda7": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Hot-Spring Pail",
+      "Hot Spring Pail",
+      "Cleansed Princess",
+      "Caeda: Cleansed Princess",
+      "Bath Caeda",
+      "Spa Caeda",
+      "Hot Spring Caeda",
+      "Hot Springs Caeda",
+      "B Caeda 2",
+      "S Caeda 2",
+      "HS Caeda",
+      "caeda7"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg611"
+  },
+  "truelove": {
+    "name": "True Love",
+    "skill": [
+      {
+        "name": "True Love",
+        "description": "Unit can move through foes' spaces.\nUnit can move to a space within 2 spaces of any ally within 2 spaces of unit.\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5 and foe cannot counterattack during combat, and also, if foe has bonuses, inflicts a penalty foe's Atk/Spd/Def/Res and grants a bonus to foe's combat targets' Atk/Spd/Def/Res during combat = current bonus on each of foe's stats (calculates each stat bonus and penalty independently).\nInflicts Atk/Spd/Res-5 on foe, deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials), and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.",
+        "stats": {
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "True Love": {
+        "caeda7": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2755,
+    "HARD_ALT_NAME": [
+      "True Love"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "hotspringsign": {
+    "name": "Hot Spring Sign",
+    "skill": [
+      {
+        "name": "Hot-Spring Sign",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's Special cooldown count is at its maximum value, grants Special cooldown count-2 to unit; if unit's Special cooldown count is at its maximum value - 1, grants Special cooldown count-1 to unit.\nAt start of turn or after unit acts or triggers Canto, inflicts Spd/Def-7,\u3010Exposure\u3011, \u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+X to unit (X = number of Bonus effects and Penalty effects active on unit \u00d7 2, excluding stat bonuses and stat penalties, + 10), unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Hot-Spring Sign": {
+        "chrom10": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Hot-Spring Sign",
+      "Hot Spring Sign",
+      "Revitalized Fate",
+      "Chrom: Revitalized Fate",
+      "Bath Chrom",
+      "Spa Chrom",
+      "Hot Spring Chrom",
+      "Hot Springs Chrom",
+      "B Chrom 2",
+      "S Chrom 2",
+      "HS Chrom",
+      "chrom10"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc216"
+  },
+  "toconquerfate": {
+    "name": "To Conquer Fate",
+    "skill": [
+      {
+        "name": "To Conquer Fate",
+        "stats": {
+          "rng": "1",
+          "sp": "500"
+        },
+        "required": [
+          "Reposition"
+        ],
+        "slot": "Assist",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Moves target ally to opposite side of unit. Grants\u3010Change of Fate\u3011and\u3010Dual Strike\u3011to unit and target ally for 1 turn, grants Special cooldown count-1 to unit and target ally, and grants any Bonus active on unit to target ally, and any active on target ally to unit (once per turn; granted bonuses exclude stat bonuses inverted by Panic).\nAfter Canto, if unit has used an Assist skill on the current turn, grants another action to unit, and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nRegarding\u3010Dual Strike\u3011granted to player army, the effect will now trigger even if the following condition is met: \"if unit initiates combat and is within 2 spaces of an ally with Dual Strike (excluding unit).\""
+      }
+    ],
+    "reference": {
+      "To Conquer Fate": {
+        "chrom10": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "To Conquer Fate"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "adforesightnix": {
+    "name": "A D Foresight Nix",
+    "skill": [
+      {
+        "name": "A/D Foresight Nix",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "AR-O Atk/Def 3",
+          "AR-D Atk/Def 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "At start of turn, grants\u3010Null Foresight Snare\u3011 to unit for 1 turn.\nIf a Rally or movement Assist skill is used by unit or targets unit, grants\u3010Null Foresight Snare\u3011 to allies within 3 spaces of both unit and target ally or unit and targeting ally (including unit and that ally) after movement for 1 turn.\nIf unit initiates combat or is within 3 spaces of an ally, grants bonus to unit's Atk/Def = number of Bonus effects active on foe + 10 (max 14; excluding stat bonuses), unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's first attack by X (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes; if Foresight Snare is active on foe, X = 15; otherwise, X = 7), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Null Foresight Snare\u3011\nNeutralizes effects of foe's\u3010Foresight Snare\u3011."
+      }
+    ],
+    "reference": {
+      "A/D Foresight Nix": {
+        "chrom10": "5"
+      }
+    },
+    "icon": 2756,
+    "HARD_ALT_NAME": [
+      "A/D Foresight Nix"
+    ],
+    "ALT_NAME": [
+      "Atk/Def Foresight Nix",
+      "Attack/Defense Foresight Nix"
+    ],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "riptidedespair": {
+    "name": "Riptide Despair",
+    "skill": [
+      {
+        "name": "Riptide Despair",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Desperation 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Inflicts Atk/Spd/Def/Res-4 on foe, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; X = 20% of the greater of unit's Spd or Def), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat. If unit initiates combat, unit can make a follow-up attack before foe's next attack."
+      }
+    ],
+    "reference": {
+      "Riptide Despair": {
+        "chrom10": "5"
+      }
+    },
+    "icon": 2757,
+    "HARD_ALT_NAME": [
+      "Riptide Despair"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
     "wpn": false
   }
 }

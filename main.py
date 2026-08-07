@@ -276,6 +276,14 @@ async def remix(ctx):
     
     await embed.send(ctx)
 
+@maji.commands.classic("weekly")
+async def remix(ctx):
+    embed = maji.Embed()
+    
+    embed.attach("image", "https://preview.redd.it/weekly-revival-summoning-focus-schedule-august-2026-to-v0-uzcb8lr3s7hh1.png?width=1080&crop=smart&auto=webp&s=7e1025165d318f678c6126be60c4142946b9e2d3")
+    
+    await embed.send(ctx)
+
 # help command
 @maji.commands.classic("help")
 async def help_command(ctx):

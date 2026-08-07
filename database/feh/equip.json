@@ -28365,9 +28365,52 @@
     "refine": false
   },
   "divineseaspear": {
-    "name": "Divine Sea Spear",
+    "name": "Divine Sea Spear (Unrefined)",
     "bonus": {
       "atk": 19
+    },
+    "refine": "Divine Sea Spear"
+  },
+  "divineseaspeareff": {
+    "name": "Divine Sea Spear (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 19
+    },
+    "refine": false
+  },
+  "divineseaspearatk": {
+    "name": "Divine Sea Spear (Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "divineseaspearspd": {
+    "name": "Divine Sea Spear (Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "divineseaspeardef": {
+    "name": "Divine Sea Spear (Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "divineseaspearres": {
+    "name": "Divine Sea Spear (Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -31787,9 +31830,52 @@
     "refine": false
   },
   "ascendingblade": {
-    "name": "Ascending Blade",
+    "name": "Ascending Blade (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Ascending Blade"
+  },
+  "ascendingbladeeff": {
+    "name": "Ascending Blade (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "ascendingbladeatk": {
+    "name": "Ascending Blade (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "ascendingbladespd": {
+    "name": "Ascending Blade (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "ascendingbladedef": {
+    "name": "Ascending Blade (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "ascendingbladeres": {
+    "name": "Ascending Blade (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -32120,9 +32206,51 @@
     "refine": false
   },
   "thunderertome": {
-    "name": "Thunderer Tome",
+    "name": "Thunderer Tome (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Thunderer Tome"
+  },
+  "thunderertomeeff": {
+    "name": "Thunderer Tome (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "thunderertomeatk": {
+    "name": "Thunderer Tome (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "thunderertomespd": {
+    "name": "Thunderer Tome (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "thunderertomedef": {
+    "name": "Thunderer Tome (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "thunderertomeres": {
+    "name": "Thunderer Tome (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -33266,9 +33394,52 @@
     "refine": false
   },
   "breakerlance": {
-    "name": "Breaker Lance",
+    "name": "Breaker Lance (Unrefined)",
     "bonus": {
       "atk": 19
+    },
+    "refine": "Breaker Lance"
+  },
+  "breakerlanceeff": {
+    "name": "Breaker Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 19
+    },
+    "refine": false
+  },
+  "breakerlanceatk": {
+    "name": "Breaker Lance (Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "breakerlancespd": {
+    "name": "Breaker Lance (Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "breakerlancedef": {
+    "name": "Breaker Lance (Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "breakerlanceres": {
+    "name": "Breaker Lance (Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -45511,6 +45682,118 @@
   },
   "sagelordsaxe": {
     "name": "Sage Lord's Axe",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "larkdagger": {
+    "name": "Lark Dagger (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Lark Dagger"
+  },
+  "larkdaggereff": {
+    "name": "Lark Dagger (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "larkdaggeratk": {
+    "name": "Lark Dagger (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "larkdaggerspd": {
+    "name": "Lark Dagger (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "larkdaggerdef": {
+    "name": "Lark Dagger (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "larkdaggerres": {
+    "name": "Lark Dagger (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "lineagelantern": {
+    "name": "Lineage Lantern",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "arcaneduckpail": {
+    "name": "Arcane Duck Pail (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Arcane Duck Pail"
+  },
+  "arcaneduckpailatk": {
+    "name": "Arcane Duck Pail (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "arcaneduckpailspd": {
+    "name": "Arcane Duck Pail (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "arcaneduckpaildef": {
+    "name": "Arcane Duck Pail (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "arcaneduckpailres": {
+    "name": "Arcane Duck Pail (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "hotspringpail": {
+    "name": "Hot-Spring Pail",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "hotspringsign": {
+    "name": "Hot-Spring Sign",
     "bonus": {
       "atk": 16
     },

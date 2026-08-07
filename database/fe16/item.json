@@ -1913,7 +1913,9 @@
             "uses": 2,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Lorenz (A)\nConstance (A+)\nDorothea (A+)"
+        },
         "weapon": true
     },
     "blizzard": {
@@ -1929,7 +1931,9 @@
             "uses": 5,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Bernadetta (D)\nIgnatz (D)\nIngrid (D)\nMarianne (D)\nShamir (D)"
+        },
         "weapon": true
     },
     "bolganone": {
@@ -1944,7 +1948,9 @@
             "uses": 5,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Alois (C)\nBalthus (C)\nByleth (C)\nCaspar (C)\nCatherine (C)\nDedue (C)\nEdelgard (C)\nLeonie (C)\nManuela (C)\nMercedes (C)\nRaphael (C)\nSylvain (C)\nFerdinand (B)\nLinhardt (B)\nSeteth (B)"
+        },
         "weapon": true
     },
     "bolting": {
@@ -1960,7 +1966,9 @@
             "uses": 2,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Constance (A)\nHilda (A)\nManuela (A)"
+        },
         "weapon": true
     },
     "cuttinggale": {
@@ -1976,7 +1984,9 @@
             "uses": 6,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Annette (C)\nAshe (C)\nCyril (C)\nFlayn (C)\nIgnatz (C)\nLinhardt (C)\nSeteth (C)\nYuri (C)\nClaude (B)\nMarianne (B)"
+        },
         "weapon": true
     },
     "excalibur": {
@@ -1992,7 +2002,9 @@
             "uses": 4,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Annette (A)\nClaude (A)\nFlayn (A)\nLinhardt (A)\nSeteth (A)\nYuri (A)"
+        },
         "weapon": true
     },
     "fimbulvetr": {
@@ -2008,7 +2020,9 @@
             "uses": 3,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Constance (B)\nBernadetta (A)\nIgnatz (A)\nIngrid (A)\nMarianne (A)\nShamir (A)"
+        },
         "weapon": true
     },
     "fire": {
@@ -2023,7 +2037,9 @@
             "uses": 10,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Constance (Innate)\nAlois (D)\nAnna (D)\nBalthus (D)\nCaspar (D)\nCatherine (D)\nDedue (D)\nEdelgard (D)\nLeonie (D)\nLorenz (D)\nMercedes (D)\nRaphael (D)\nSylvain (D)\nFerdinand (D+)\nLinhardt (D+)"
+        },
         "weapon": true
     },
     "meteor": {
@@ -2038,7 +2054,9 @@
             "uses": 1,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Anna (A)\nDorothea (A)\nHanneman (A+)"
+        },
         "weapon": true
     },
     "ragnarok": {
@@ -2054,7 +2072,9 @@
             "uses": 3,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Lorenz (B)\nBalthus (A)\nByleth (A)\nDedue (A)\nHanneman (A)\nLeonie (A)\nMercedes (A)\nSylvain (A)"
+        },
         "weapon": true
     },
     "sagittae": {
@@ -2070,7 +2090,9 @@
             "uses": 10,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Hanneman (Innate)\nClaude (C)\nConstance (C)\nLorenz (C)\nPetra (C)\nShamir (C)\nAnnette (B)\nDorothea (B)\nSylvain (B)\nYuri (B)"
+        },
         "weapon": true
     },
     "thoron": {
@@ -2086,7 +2108,9 @@
             "uses": 4,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Bernadetta (C)\nDimitri (C)\nDorothea (C)\nFelix (C)\nFerdinand (C)\nGilbert (C)\nHilda (C)\nIngrid (C)\nJeritza (C)\nMarianne (C)\nHanneman (B)"
+        },
         "weapon": true
     },
     "thunder": {
@@ -2102,7 +2126,9 @@
             "uses": 8,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Dorothea (Innate)\nJeritza (Innate)\nDimiri (D)\nFelix (D)\nFerdinand (D)\nGilbert (D)\nHilda (D)\nManuela (D)\nAnna (D+)\nBernadetta (D+)\nByleth (D+)\nMercedes (D+)"
+        },
         "weapon": true
     },
     "wind": {
@@ -2118,7 +2144,9 @@
             "uses": 12,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Annette (Innate)\nHanneman (Innate)\nAshe (D)\nClaude (D)\nCyril (D)\nFlayn (D)\nLinhardt (D)\nPetra (D)\nSeteth (D)\nYuri (D)\nShamir (D+)"
+        },
         "weapon": true
     },
     "bansheetheta": {
@@ -2134,7 +2162,10 @@
             "uses": 5,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Hapi (C)\nHubert (C)"
+        },
+
         "weapon": true
     },
     "bohrx": {
@@ -2164,7 +2195,9 @@
             "uses": 3,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Lysithea (B)\nHubert (A)"
+        },
         "weapon": true
     },
     "deathgamma": {
@@ -2180,7 +2213,9 @@
             "uses": 4,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Hapi (B)\nHubert (B)\nJeritza (B)"
+        },
         "weapon": true
     },
     "hadesomega": {
@@ -2196,7 +2231,9 @@
             "uses": 2,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Edelgard (A)\nHapi (A)\nLysithea (A)"
+        },
         "weapon": true
     },
     "lunalambda": {
@@ -2211,7 +2248,9 @@
             "uses": 2,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Lysithea (C)\nEdelgard (B)"
+        },
         "weapon": true
     },
     "miasmadelta": {
@@ -2226,7 +2265,10 @@
             "uses": 10,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Hapi (Innate)\nHubert (Innate)\nLysithea (Innate)",
+            "Skill": "<:fe16_123:1317720935289196585>Miasma"
+        },
         "weapon": true
     },
     "mirebeta": {
@@ -2241,7 +2283,9 @@
             "uses": 8,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Hubert (D+)"
+        },
         "ALT_NAME": [
             "Mire"
         ],
@@ -2274,7 +2318,9 @@
             "uses": 8,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_reason:1318452333708967987>Learned By": "Hapi (D+)\nLysithea (D+)"
+        },
         "ALT_NAME": [
             "Swarm"
         ],
@@ -2292,7 +2338,9 @@
             "uses": 2,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Flayn (A)\nMercedes (A)"
+        },
         "weapon": true
     },
     "heal": {
@@ -2307,7 +2355,10 @@
             "uses": 10,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Flayn (Innate)\nLinhardt (D)\nManuela (D)\nMarianne (D)\nMercedes (D)\nRhea (D)\nFaith (D)",
+            "Skill": "<:fe16_124:1317720959242731610>Heal"
+        },
         "weapon": true
     },
     "physic": {
@@ -2322,7 +2373,9 @@
             "uses": 5,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Ashe (C)\nBernadetta (C)\nDorothea (C)\nHapi (C)\nIgnatz (C)\nIngrid (C)\nLeonie (C)\nLinhardt (C)\nMarianne (C)\nMercedes (C)\nShamir (C)\nSylvain (C)"
+        },
         "weapon": true
     },
     "recover": {
@@ -2337,7 +2390,9 @@
             "uses": 5,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Alois (C)\nAnnette (C)\nByleth (C)\nCaspar (C)\nCatherine (C)\nClaude (C)\nCyril (C)\nDedue (C)\nDimitri (C)\nEdelgard (C)\nFelix (C)\nHanneman (C)\nHilda (C)\nHubert (C)\nLorenz (C)\nRaphael (C)\nSeteth (C)\nYuri (C)"
+        },
         "weapon": true
     },
     "rescue": {
@@ -2351,7 +2406,9 @@
             "uses": 3,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Anna (B)\nConstance (B)\nFlayn (B)\nBernadetta (A)"
+        },
         "weapon": true
     },
     "restore": {
@@ -2365,7 +2422,9 @@
             "uses": 10,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Flayn (Innate)\nJeritza (C)\nPetra (C)\nFelix (B)\nFerdinand (B)\nLeonie (B)\nLinhardt (B)\nMercedes (B)\nBalthus (B+)"
+        },
         "weapon": true
     },
     "silence": {
@@ -2379,7 +2438,9 @@
             "uses": 3,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Manuela (B)\nMarianne (B)\nYuri (B)\nClaude (A)"
+        },
         "weapon": true
     },
     "ward": {
@@ -2393,7 +2454,9 @@
             "uses": 5,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Manuela (Innate)\nAnna (C)\nConstance (C)\nFerdinand (C)\nGilbert (C)\nHanneman (B)\nIgnatz (B)\nLorenz (B)"
+        },
         "weapon": true
     },
     "warp": {
@@ -2407,7 +2470,9 @@
             "uses": 1,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Lysithea (B)\nHapi (A)\nLinhardt (A)\nManuela (A)"
+        },
         "weapon": true
     },
     "abraxas": {
@@ -2424,7 +2489,9 @@
             "uses": 2,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Annette (A)\nConstance (A)\nLysithea (A)"
+        },
         "weapon": true
     },
     "aura": {
@@ -2441,7 +2508,9 @@
             "uses": 3,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Byleth (A)\nDimitri (A)\nMarianne (A)\n Yuri (A)"
+        },
         "weapon": true
     },
     "nosferatu": {
@@ -2457,7 +2526,9 @@
             "uses": 12,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Flayn (Innate)\nLinhardt (Innate)\nManuela (Innate)\nMarianne (Innate)\nRhea (Innate)\nFaith (D+)"
+        },
         "weapon": true
     },
     "seraphim": {
@@ -2474,7 +2545,9 @@
             "uses": 8,
             "wexp": 2
         },
-        "reference": {},
+        "reference": {
+            "<:fe16_faith:1318452345306218536>Learned By": "Lysithea (C)\nBalthus (C+)\nEdelgard (B)\nHapi (B)\nIngrid (B)\nSylvain (B)"
+        },
         "weapon": true
     },
     "accuracyring": {
