@@ -5427,7 +5427,8 @@
         "eir4": "3",
         "alm6": "3",
         "groa": "3",
-        "chrom10": "3"
+        "chrom10": "3",
+        "sylvain4": "3"
       }
     },
     "refine": {},
@@ -5920,7 +5921,8 @@
         "azura7": "3",
         "dorothea": "3",
         "tethys2": "3",
-        "azura8": "3"
+        "azura8": "3",
+        "azura9": "3"
       }
     },
     "refine": {},
@@ -7465,7 +7467,8 @@
         "groa": "3",
         "boucheron": "3",
         "marth9": "3",
-        "frobin9": "3"
+        "frobin9": "3",
+        "tsubasa2": "3"
       }
     },
     "refine": {},
@@ -7689,7 +7692,8 @@
         "fbyleth6": "4",
         "groa": "4",
         "boucheron": "4",
-        "frobin9": "4"
+        "frobin9": "4",
+        "tsubasa2": "4"
       }
     },
     "refine": {},
@@ -7873,7 +7877,8 @@
         "jormungandr": "3",
         "eikthyrnir5": "3",
         "malear5": "3",
-        "jade": "3"
+        "jade": "3",
+        "sylvain4": "3"
       }
     },
     "refine": {},
@@ -8099,7 +8104,8 @@
         "jormungandr": "4",
         "eikthyrnir5": "4",
         "malear5": "4",
-        "jade": "4"
+        "jade": "4",
+        "sylvain4": "4"
       }
     },
     "refine": {},
@@ -8268,7 +8274,8 @@
         "dorothea5": "3",
         "sombron": "3",
         "micaiah9": "3",
-        "hodr2": "3"
+        "hodr2": "3",
+        "rodrigue": "3"
       }
     },
     "refine": {},
@@ -8479,7 +8486,8 @@
         "dorothea5": "4",
         "sombron": "4",
         "micaiah9": "4",
-        "hodr2": "4"
+        "hodr2": "4",
+        "rodrigue": "4"
       }
     },
     "refine": {},
@@ -8925,7 +8933,8 @@
         "sigurd5": "3",
         "hapi2": "3",
         "seidr3": "3",
-        "sigurd6": "3"
+        "sigurd6": "3",
+        "sigurd7": "3"
       }
     },
     "refine": {},
@@ -9013,7 +9022,8 @@
         "sigurd5": "4",
         "hapi2": "4",
         "seidr3": "4",
-        "sigurd6": "4"
+        "sigurd6": "4",
+        "sigurd7": "4"
       }
     },
     "refine": {},
@@ -12367,7 +12377,8 @@
         "seliph": "5",
         "altena": "5",
         "validar": "5",
-        "caspar": "4"
+        "caspar": "4",
+        "sigurd7": "4"
       },
       "Brash Assault 2": {},
       "Brash Assault 1": {}
@@ -26591,7 +26602,8 @@
         "heimdallr": "4",
         "alfador": "4",
         "heimdallr2": "4",
-        "veyle4": "4"
+        "veyle4": "4",
+        "rodrigue": "4"
       },
       "Atk/Res Bond 2": {},
       "Atk/Res Bond 1": {}
@@ -29933,7 +29945,8 @@
         "larachel": "3",
         "saias": "3",
         "riev": "3",
-        "xane3": "3"
+        "xane3": "3",
+        "rodrigue": "3"
       }
     },
     "refine": {
@@ -37356,7 +37369,8 @@
     ],
     "reference": {
       "Def Feint 3": {
-        "innes2": "5"
+        "innes2": "5",
+        "sylvain4": "4"
       },
       "Def Feint 2": {},
       "Def Feint 1": {}
@@ -65951,7 +65965,8 @@
     "reference": {
       "Blade Session 3": {
         "larachel4": "5",
-        "tsubasa": "5"
+        "tsubasa": "5",
+        "tsubasa2": "4"
       },
       "Blade Session 2": {},
       "Blade Session 1": {}
@@ -66015,7 +66030,8 @@
     ],
     "reference": {
       "Shield Session 3": {
-        "mamori": "5"
+        "mamori": "5",
+        "azura9": "4"
       },
       "Shield Session 2": {},
       "Shield Session 1": {}
@@ -72837,7 +72853,8 @@
         "mrobin6": "5",
         "selena3": "5",
         "veronica6": "4",
-        "celine4": "4"
+        "celine4": "4",
+        "azura9": "4"
       },
       "Spd/Res Snag 2": {},
       "Spd/Res Snag 1": {}
@@ -106510,7 +106527,8 @@
         "lapis3": "4",
         "nerpuz4": "4",
         "sharena5": "4",
-        "lachesis3": "4"
+        "lachesis3": "4",
+        "sylvain4": "4"
       },
       "Atk/Spd Clash 2": {},
       "Atk/Spd Clash 1": {}
@@ -108023,7 +108041,8 @@
         "naoise": "4",
         "tibarn3": "4",
         "alfonse7": "4",
-        "eikthyrnir5": "4"
+        "eikthyrnir5": "4",
+        "sigurd7": "4"
       },
       "Atk/Def Clash 2": {},
       "Atk/Def Clash 1": {}
@@ -121591,7 +121610,7 @@
     "slot": "Special",
     "wpn": false
   },
-  "vallstone": {
+  "vallastone": {
     "name": "Vallastone",
     "skill": [
       {
@@ -129369,7 +129388,9 @@
       "Magic Gambit 2": {},
       "Magic Gambit 3": {
         "mbyleth7": "4",
-        "baldr4": "4"
+        "baldr4": "4",
+        "tsubasa2": "4",
+        "rodrigue": "5"
       },
       "Magic Gambit 4": {
         "mrobin8": "5"
@@ -136594,7 +136615,8 @@
       "Shadow Shift 2": {},
       "Shadow Shift 3": {
         "dorothea5": "4",
-        "groa": "4"
+        "groa": "4",
+        "sigurd7": "4"
       },
       "Shadow Shift 4": {
         "reginn3": "5",
@@ -144173,7 +144195,9 @@
     "reference": {
       "Shadow Smite 1": {},
       "Shadow Smite 2": {},
-      "Shadow Smite 3": {},
+      "Shadow Smite 3": {
+        "azura9": "4"
+      },
       "Shadow Smite 4": {
         "plumeria4": "5",
         "peony5": "5"
@@ -156498,7 +156522,8 @@
         "eirika10": "5",
         "ivy4": "5",
         "groa": "5",
-        "frobin9": "5"
+        "frobin9": "5",
+        "tsubasa2": "5"
       }
     },
     "icon": false,
@@ -159697,7 +159722,8 @@
     ],
     "reference": {
       "S/R Detect Aerial": {
-        "celine4": "5"
+        "celine4": "5",
+        "azura9": "5"
       }
     },
     "icon": 2631,
@@ -162249,7 +162275,8 @@
     "reference": {
       "Shatter Slash": {
         "ingrid5": "5",
-        "alm6": "5"
+        "alm6": "5",
+        "sylvain4": "5"
       }
     },
     "refine": {},
@@ -162596,7 +162623,8 @@
     ],
     "reference": {
       "A/D Rival Break": {
-        "sigurd6": "5"
+        "sigurd6": "5",
+        "sigurd7": "5"
       }
     },
     "icon": 2673,
@@ -162745,7 +162773,8 @@
     ],
     "reference": {
       "A/S Rival Break": {
-        "lachesis3": "5"
+        "lachesis3": "5",
+        "sylvain4": "5"
       }
     },
     "icon": 2675,
@@ -166741,7 +166770,8 @@
     ],
     "reference": {
       "Shadow Shift X": {
-        "groa": "5"
+        "groa": "5",
+        "sigurd7": "5"
       }
     },
     "icon": 2739,
@@ -168301,5 +168331,562 @@
     "ALT_NAME": [],
     "slot": "Passive B",
     "wpn": false
+  },
+  "mirageexcalibur": {
+    "name": "Mirage Excalibur",
+    "skill": [
+      {
+        "name": "Mirage Excalibur",
+        "description": "Enables\u3010Canto (\uff12)\u3011. Effective against flying foes.\nAccelerates Special trigger (cooldown count-1).\nFor allies within 2 spaces of unit, if ally initiates combat, enables\u3010Cadenza\u3011against any foe within a distance of X after combat (excluding after\u3010Cadenza\u3011; X = ally's attack range +1; up to twice per turn for whole team).\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials). If unit's HP > 1 and foe would reduce unit's HP to 0, unit survives with 1 HP (once per combat; does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce HP to 0).\nRestores 7 HP to unit after combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Mirage Excalibur": {
+        "tsubasa2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Mirage Excalibur",
+      "Summoned Girl",
+      "Tsubasa: Summoned Girl",
+      "Brave Tsubasa",
+      "CYL Tsubasa",
+      "B Tsubasa",
+      "Choose Your Legends Tsubasa",
+      "tsubasa2"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "jamsession": {
+    "name": "Jam Session",
+    "skill": [
+      {
+        "name": "Jam Session",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Blade Session 3",
+          "Shield Session 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Grants Atk/Spd+X to unit (X= number of allies who have already acted at least once on the current turn \u00d7 2, + 10; max 14), unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack) during combat.\nIf unit has already acted at least once on the current turn, grants Atk/Spd/Def/Res+4 to allies within 3 spaces of unit during their combat."
+      }
+    ],
+    "reference": {
+      "Jam Session": {
+        "tsubasa2": "5"
+      }
+    },
+    "icon": 2758,
+    "HARD_ALT_NAME": [
+      "Jam Session"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "demonicshackle": {
+    "name": "Demonic Shackle",
+    "skill": [
+      {
+        "name": "Demonic Shackle",
+        "description": "At start of turn, and after unit acts (if Canto triggers, after Canto), inflicts\u3010Res Shackle\u3011 on closest foes and foes within 2 spaces of those foes through their next actions.\nInflicts Spd/Res-4 on foe, unit deals damage = unit's max Special cooldown count value \u00d7 5 (excluding area-of-effect Specials), reduces damage from foe's attacks by unit's max Special cooldown count value \u00d7 3 (excluding area-of-effect Specials), and grants Special cooldown count-1 to unit before unit's first attack during combat.",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Magic Gambit 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive B",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Tome",
+            "Blue_Tome",
+            "Green_Tome",
+            "Colorless_Tome"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Demonic Shackle": {
+        "tsubasa2": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2759,
+    "HARD_ALT_NAME": [
+      "Demonic Shackle"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "illsoarhigher": {
+    "name": "I ll Soar Higher ",
+    "skill": [
+      {
+        "name": "I'll Soar Higher!",
+        "description": "Warp movement granted by this skill is not affected by movement obstruction effects from skills.\nAllies within 2 spaces of unit can move to any space within 2 spaces of unit.\nUnit can move to a space within 2 spaces of any ally within 2 spaces.\nIf unit has already acted at least once on the current turn, allies can move to any space within 2 spaces of unit.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5 during combat.\nUnit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "I'll Soar Higher!": {
+        "tsubasa2": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2760,
+    "HARD_ALT_NAME": [
+      "I'll Soar Higher!"
+    ],
+    "ALT_NAME": [
+      "Ill Soar Higher!",
+      "I'll Soar Higher",
+      "Ill Soar Higher"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "threefoldhymn": {
+    "name": "Threefold Hymn",
+    "skill": [
+      {
+        "name": "Threefold Hymn",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14, Min \uff12)\u3011. Accelerates Special trigger (cooldown count-1).\nIf a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +5.\nGrants weapon-triangle advantage against colorless foes, and inflicts weapon-triangle disadvantage on colorless foes during combat.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5) and Special cooldown count-1 before unit's or ally's first attack during combat, and also, if unit or ally initiates combat and has weapon-triangle advantage, boosts unit's or ally's Atk by 20% and reduces foe's Atk by 20% during combat.\nUnit deals +25 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Threefold Hymn": {
+        "azura9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Threefold Hymn",
+      "Lady of Reflection",
+      "Azura: Lady of Reflection",
+      "Brave Azura",
+      "CYL Azura",
+      "B Azura",
+      "Choose Your Legends Azura",
+      "azura9"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg349"
+  },
+  "yourstoclimb": {
+    "name": "Yours to Climb",
+    "skill": [
+      {
+        "name": "Yours to Climb",
+        "stats": {
+          "rng": "1",
+          "sp": "500"
+        },
+        "required": [
+          "Sing"
+        ],
+        "slot": "Assist",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "If target ally has already acted, grants another action to target ally, and if Canto has already been triggered, re-enables Canto.\nIf target ally can take an action, grants \u3010Perform\u3011to target ally for 1 turn.\nAlso, grants\u3010Draconic Hex\u3011and \"unit can move 1 extra space\" to target ally for 1 turn (does not stack).\nAfter Canto (including cases where action is ended due to Canto Control), if unit has used an Assist skill on the current turn, grants another action to unit, and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Yours to Climb Style \u2014\u2014\u2014\u2014\u2014\nUnit can use Assist skills on allies within 5 spaces of unit and within 3 rows or 3 columns centered on unit regardless of distance.\nUnit cannot move and remaining movement granted from Canto is treated as 0. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n(Cannot target an ally with Sing or Dance. This skill treated as Sing or Dance.)"
+      }
+    ],
+    "reference": {
+      "Yours to Climb": {
+        "azura9": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Yours to Climb"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "rhythmsession": {
+    "name": "Rhythm Session",
+    "skill": [
+      {
+        "name": "Rhythm Session",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Blade Session 3",
+          "Shield Session 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "When unit is equipped with Sing or Dance as an Assist skill, triggers the following: grants Atk/Spd/Def/Res+10, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), neutralizes effects that grant \"Special cooldown charge +X\" to foe, and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack); if unit has already acted at least once on the current turn, grants Atk/Spd/Def/Res+4 to allies within 3 rows or 3 columns centered on unit during combat"
+      }
+    ],
+    "reference": {
+      "Rhythm Session": {
+        "azura9": "5"
+      }
+    },
+    "icon": 2761,
+    "HARD_ALT_NAME": [
+      "Rhythm Session"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "shadowrushx": {
+    "name": "Shadow Rush X",
+    "skill": [
+      {
+        "name": "Shadow Rush X",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Shadow Smite 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "When Canto triggers, enables unit to use \u3010Smite\u3011on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+4 during combat and restores 7 HP after combat.\nUnit deals +5 damage (excluding area-of-effect Specials) and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      }
+    ],
+    "reference": {
+      "Shadow Rush X": {
+        "azura9": "5"
+      }
+    },
+    "icon": 2762,
+    "HARD_ALT_NAME": [
+      "Shadow Rush X"
+    ],
+    "ALT_NAME": [
+      "Shadow Smite X"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "sacredambition": {
+    "name": "Sacred Ambition",
+    "skill": [
+      {
+        "name": "Sacred Ambition",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants\u3010Truly Incited\u3011,\u3010Def Liberate\u3011, and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (including area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).\nIf unit initiates combat after moving to a different space, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat; if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (X = number of spaces from start position to end position; max 3).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sacred Ambition": {
+        "sigurd7": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sacred Ambition",
+      "Legacy of Justice",
+      "Sigurd: Legacy of Justice",
+      "Brave Sigurd",
+      "CYL Sigurd",
+      "B Sigurd 2",
+      "Choose Your Legends Sigurd",
+      "sigurd7"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw225"
+  },
+  "crusadersheir": {
+    "name": "Crusader s Heir",
+    "skill": [
+      {
+        "name": "Crusader's Heir",
+        "description": "If unit's Special is ready, before combat this unit initiates, foes in an area near target take damage equal to 1.5 \u00d7 (unit's Atk minus foe's Def or Res).\nAt the start of turn, grants\u3010Gallop\u3011to unit.\nReduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials).\nIf unit's area-of-effect Special triggered before this combat, unit's Special was ready at start of combat, or unit has triggered\u3010Cadenza\u3011, unit's first follow-up deals damage = 80% of unit's Def during combat.\nAfter combat and after\u3010Cadenza\u3011combat, if unit's Special triggered before initial combat, enables\u3010Cadenza\u3011against any foe within a distance equal to the range of unit's area-of-effect Special (up to twice per turn; does not trigger after\u3010Cadenza\u3011if \u3010Cadenza\u3011is used against foes outside the range of unit's area-of-effect Special).\nAfter combat, if unit's Special triggered, grants \"unit can move 1 extra space\" and neutralizes Stall for allies on the map (excluding unit; that turn only; does not stack).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Blazing Light"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Crusader's Heir": {
+        "sigurd7": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Crusader's Heir"
+    ],
+    "ALT_NAME": [
+      "Crusaders Heir"
+    ],
+    "slot": "Special",
+    "wpn": false
+  },
+  "norisk": {
+    "name": "No Risk   ",
+    "skill": [
+      {
+        "name": "No Risk...",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Brash Assault 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "If unit's Spd \u2265 30 at start of battle, inflicts Atk/Def/Res-4 on foe, deals damage = 20% of unit's Def (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Def (excluding area-of-effect Specials), and unit's next attack deals damage = 40% of foe's first-attack damage prior to reductions during combat (resets at end of combat; only highest value applied; does not stack), and also, if unit's Def > foe's Def, triggers \u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 100; otherwise, X = 50; \"at start of battle\" excludes increases to Spd granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.)"
+      }
+    ],
+    "reference": {
+      "No Risk...": {
+        "sigurd7": "5"
+      }
+    },
+    "icon": 2763,
+    "HARD_ALT_NAME": [
+      "No Risk..."
+    ],
+    "ALT_NAME": [
+      "No Risk"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "lanceofruin": {
+    "name": "Lance of Ruin",
+    "skill": [
+      {
+        "name": "Lance of Ruin",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of turn or after unit acts (if Canto triggers, after Canto), inflicts Atk/Spd/Def-7, \u3010Frozen\u3011, and\u3010Sabotage\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Ruined Sky Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nUnit deals +10 damage during combat (excluding area-of-effect Specials). Grants weapon-triangle advantage against flying foes and inflicts weapon-triangle disadvantage on flying foes during combat.\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Lance of Ruin": {
+        "sylvain4": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Lance of Ruin",
+      "Ladies' Knight",
+      "Sylvain: Ladies' Knight",
+      "Brave Sylvain",
+      "CYL Sylvain",
+      "B Sylvain",
+      "Choose Your Legends Sylvain",
+      "Ladies Knight",
+      "Sylvain: Ladies Knight",
+      "sylvain4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc217"
+  },
+  "spddefunion": {
+    "name": "Spd Def Union",
+    "skill": [
+      {
+        "name": "Spd/Def Union",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Spd Feint 3",
+          "Def Feint 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Cannot** be used by: ",
+          [
+            "Colorless_Staff"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "At start of player phase or enemy phase, grants\u3010Union\u3011to unit for 1 turn.\nFor unit and allies on the map with the \u3010Union\u3011effect active, deals +X damage (excluding area-of-effect Specials; X = number of allies on the map with the【Union】effect active, including unit, \u00d7 3; max 12), neutralizes effects that inflict \"Special cooldown charge -X\" on unit or ally, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nInflicts Spd/Def-4 on foe, unit deals +10 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "Spd/Def Union": {
+        "sylvain4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2764,
+    "HARD_ALT_NAME": [
+      "Spd/Def Union"
+    ],
+    "ALT_NAME": [
+      "S/D Union",
+      "Speed/Defense Union"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "philanderer": {
+    "name": "Philanderer",
+    "skill": [
+      {
+        "name": "Philanderer",
+        "description": "If a Rally or movement Assist skill is used by unit, grants\u3010Bonded\u3011to target ally.\nIf unit initiates combat, grants\u3010Bonded\u3011to allies within 3 spaces of unit after combat.\nAfter Canto, if allies with the\u3010Bonded\u3011effect active are on the map, grants another action to unit, and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nAfter ally with the\u3010Bonded\u3011effect active takes their action within 3 spaces of unit (unless their end of action is caused by skill effects), if unit has already acted, grants another action to unit and re-enables Canto (once per turn; counted separately from the usage limit for the effect mentioned above; if another effect that grants action to unit has been activated at the same time, this effect is also considered to have been triggered.)\nFor unit, allies with the\u3010Bonded\u3011effect active, and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and also, if unit's or ally's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's or ally's follow-up attacks during combat.\nIf decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Philanderer": {
+        "sylvain4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2765,
+    "HARD_ALT_NAME": [
+      "Philanderer"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "masterfulaura": {
+    "name": "Masterful Aura",
+    "skill": [
+      {
+        "name": "Masterful Aura",
+        "description": "Enables\u3010Canto (Dist.; Max \uff13, Min \uff11)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Res+6,\u3010Fringe Bonus\u3011, and \"Special cooldown charge +1 per attack during combat (only highest value applied; does not stack)\" to unit and allies within 2 spaces of unit for 1 turn.\nAt start of enemy phase, grants\u3010Magic Twin Save\u3011 to unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 (excluding area-of-effect Specials) during combat.\nIf unit triggers Savior, calculates damage from foe's attacks at 50% during combat (excluding area-of-effect Specials; this calculation stacks with other effects that calculate damage at X% such as Potent Follow).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Aegis Shield Style \u2014\u2014\u2014\u2014\u2014\nCalculates damage from foe's attacks at 50% (excluding area-of-effect Specials; this calculation stacks with other effects that calculate damage at X% such as Potent Follow) and triggers\u3010Potent Follow 100%\u3011during combat.\nOnce used, this Style cannot be used for two turns.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Masterful Aura": {
+        "rodrigue": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Masterful Aura",
+      "Faerghus Shield",
+      "Rodrigue: Faerghus Shield",
+      "Normal Rodrigue",
+      "Base Rodrigue",
+      "Regular Rodrigue",
+      "rodrigue"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg517"
   }
 }

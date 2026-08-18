@@ -669,31 +669,38 @@ function Character:flower_limit()
     
     local flower = 5
 
-    -- Heroes released after or during CYL7
-    if id <= 1276 then
+    -- Heroes released after or during CYL10
+    if id <= 1404 then
         flower = flower + 5
 
-        if id <= 1130 then
+        -- Heroes released after or during CYL9
+        if id <= 1276 then
             flower = flower + 5
-        
-            -- Heroes released after or during CYL6
-            if id <= 985 then
+
+            -- Heroes released after or during CYL8
+            if id <= 1130 then
                 flower = flower + 5
             
-                if id <= 838 then
+                -- Heroes released after or during CYL7
+                if id <= 985 then
                     flower = flower + 5
-                    
-                    -- Heroes released after or during CYL5
-                    if id <= 694 then
+                
+                    -- Heroes released after or during CYL6
+                    if id <= 838 then
                         flower = flower + 5
                         
-                        -- Heroes released after or during CYL4
-                        if id <= 553 then
+                        -- Heroes released after or during CYL5
+                        if id <= 694 then
                             flower = flower + 5
                             
-                            -- Gen 1 Heroes that are also infantry
-                            if id <= 338 and self.data.move == "Infantry" then
+                            -- Heroes released after or during CYL4
+                            if id <= 553 then
                                 flower = flower + 5
+                                
+                                -- Gen 1 Heroes that are also infantry
+                                if id <= 338 and self.data.move == "Infantry" then
+                                    flower = flower + 5
+                                end
                             end
                         end
                     end
@@ -1366,7 +1373,7 @@ function Quotes:show()
     quote_page("Castle", pack:get("bond"), {"Summon", "Introduction", "Castle Hall", "Learn Skill", "Visit"})
     quote_page("Status", pack:get("bubble"), {"Status"})
     quote_page("Conversation", pack:get("pairup"), {"Conversation"})
-    quote_page("Battle", pack:get("manual"), {"Special", "Level", "Map Select", "Back Unit Supporting", "Duo Skill"})
+    quote_page("Battle", pack:get("manual"), {"Special", "Level", "Map Select", "Special Map Select","Back Unit Supporting", "Duo Skill"})
     quote_page("Confession", pack:get("star"), {"Confession"})
     
     if self:has_resplendent() then

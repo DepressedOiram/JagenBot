@@ -65,7 +65,7 @@
     ],
     "heroes": {
       "dagr": "<:Green_Axe:1317239517136031897>Dagr",
-      "dagr2": "<:Green_Bow:1317239539936268340>New Years Dagr",
+      "dagr2": "<:Green_Bow:1317239539936268340>New Year Dagr",
       "dagr3": "<:Red_Sword:1317239717707911188>Wind Dagr",
       "dagr4": "<:Red_Sword:1317239717707911188>Aided Dagr"
     },
@@ -489,7 +489,7 @@
       "laegjarn2": "<:Blue_Lance:1317239378208096338>New Year Laegjarn",
       "laegjarn3": "<:Blue_Tome:1317239386491977749>Summer Laegjarn",
       "laegjarn4": "<:Colorless_Bow:1317239404204654703>Ascended Laegjarn",
-      "laegjarn5": "<:Blue_Bow:1317239347577356328>Duo Laegjarn",
+      "laegjarn5": "<:Blue_Bow:1317239347577356328>Ninja Laegjarn",
       "laegjarn6": "<:Green_Axe:1317239517136031897>Chosen Laegjarn",
       "nanna": "<:Colorless_Staff:1317239426866483261>Nanna",
       "nanna2": "<:Colorless_Staff:1317239426866483261>Scion Nanna",
@@ -1123,10 +1123,10 @@
       "lucina10": "<:Red_Bow:1317239680571543592>Emblem Lucina",
       "lyn11": "<:Colorless_Bow:1317239404204654703>Harmonic Brave Lyn",
       "marth9": "<:Red_Sword:1317239717707911188>Bath Marth",
-      "mia3": "<:Colorless_Dagger:1317239418943438869>Harmonic Mia",
+      "mia3": "<:Colorless_Dagger:1317239418943438869>Summer Mia",
       "pallaR": "<:Red_Sword:1317239717707911188>Palla (Resplendent)",
       "palla2": "<:Red_Dagger:1317239717707911188>Spring Palla",
-      "palla3": "<:Blue_Lance:1317239378208096338>Duo Palla",
+      "palla3": "<:Blue_Lance:1317239378208096338>Young Palla",
       "palla4": "<:Red_Sword:1317239717707911188>Valentian Palla",
       "palla5": "<:Green_Axe:1317239517136031897>Summer Palla"
     },
@@ -1459,7 +1459,7 @@
     "heroes": {
       "dorothea": "<:Blue_Tome:1317239386491977749>Dorothea",
       "dorothea2": "<:Colorless_Dagger:1317239418943438869>Summer Dorothea",
-      "dorothea3": "<:Red_Tome:1317239730714316800>Harmonic Dorothea",
+      "dorothea3": "<:Red_Tome:1317239730714316800>Plegian Dorothea",
       "dorothea4": "<:Red_Tome:1317239730714316800>Winter Dorothea",
       "dorothea5": "<:Green_Tome:1317239575352971396>Spring Dorothea",
       "ethlyn": "<:Colorless_Staff:1317239426866483261>Ethlyn",
@@ -1468,10 +1468,10 @@
       "karla": "<:Red_Sword:1317239717707911188>Karla",
       "karlaR": "<:Red_Sword:1317239717707911188>Karla (Resplendent)",
       "karla2": "<:Blue_Lance:1317239378208096338>Hatarian Karla",
-      "karla3": "<:Green_Axe:1317239517136031897>Harmonic Karla",
+      "karla3": "<:Green_Axe:1317239517136031897>Spring Karla",
       "shamir": "<:Green_Bow:1317239539936268340>Shamir",
       "shamir2": "<:Green_Axe:1317239517136031897>Ninja Shamir",
-      "shamir3": "<:Blue_Bow:1317239347577356328>Duo Shamir"
+      "shamir3": "<:Blue_Bow:1317239347577356328>Summer Shamir"
     },
     "name": "Allegra Clark"
   },
@@ -3440,7 +3440,7 @@
     "heroes": {
       "charlotte": "<:Green_Axe:1317239517136031897>Charlotte",
       "charlotte2": "<:Blue_Lance:1317239378208096338>Bridal Charlotte",
-      "elise4": "<:Colorless_Staff:1317239426866483261>Duo Elise",
+      "elise4": "<:Colorless_Staff:1317239426866483261>Valentines Elise",
       "est": "<:Blue_Lance:1317239378208096338>Est",
       "estR": "<:Blue_Lance:1317239378208096338>Est (Resplendent)",
       "est2": "<:Blue_Tome:1317239386491977749>Spring Est",
@@ -3452,12 +3452,12 @@
       "ninian3": "<:Blue_Breath:1317239355835813939>Fallen Ninian",
       "ninian4": "<:Green_Breath:1317239551693164595>Legendary Ninian",
       "ninian5": "<:Colorless_Breath:1317239411980767363>Entwined Ninian",
-      "palla3": "<:Blue_Lance:1317239378208096338>Duo Palla",
+      "palla3": "<:Blue_Lance:1317239378208096338>Young Palla",
       "sakura": "<:Colorless_Staff:1317239426866483261>Sakura",
       "sakura2": "<:Colorless_Dagger:1317239418943438869>Halloween Sakura",
       "sakura3": "<:Colorless_Staff:1317239426866483261>Bath Sakura",
       "sakura4": "<:Colorless_Staff:1317239426866483261>Legendary Sakura",
-      "ytiki5": "<:Blue_Breath:1317239355835813939>Harmonic Young Tiki"
+      "ytiki5": "<:Blue_Breath:1317239355835813939>Halloween Young Tiki"
     },
     "name": "Brianna Knickerbocker"
   },
@@ -3582,12 +3582,12 @@
     "heroes": {
       "ayra": "<:Red_Sword:1317239717707911188>Ayra",
       "ayraR": "<:Red_Sword:1317239717707911188>Ayra (Resplendent)",
-      "ayra2": "<:Red_Sword:1317239717707911188>Harmonic Ayra",
+      "ayra2": "<:Red_Sword:1317239717707911188>Maid Ayra",
       "ayra3": "<:Red_Sword:1317239717707911188>Legendary Ayra",
       "lute": "<:Blue_Tome:1317239386491977749>Lute",
       "lute2": "<:Blue_Tome:1317239386491977749>Summer Lute",
       "lute3": "<:Red_Tome:1317239730714316800>Aided Lute",
-      "lysithea3": "<:Colorless_Tome:1317239438602145842>Harmonic Lysithea"
+      "lysithea3": "<:Colorless_Tome:1317239438602145842>Winter Lysithea"
     },
     "name": "Brina Palencia"
   },
@@ -5098,7 +5098,7 @@
       "rhea4": "<:Colorless_Breath:1317239411980767363>Valentines Rhea",
       "sothis": "<:Red_Breath:1317239692189630504>Sothis",
       "sothis2": "<:Green_Breath:1317239551693164595>Winter Sothis",
-      "sothis3": "<:Blue_Breath:1317239355835813939>Duo Sothis"
+      "sothis3": "<:Blue_Breath:1317239355835813939>Halloween Sothis"
     },
     "name": "Cassandra Lee Morris"
   },
@@ -5325,7 +5325,7 @@
     "heroes": {
       "hilda": "<:Green_Axe:1317239517136031897>Fodlan Hilda",
       "hilda2": "<:Blue_Lance:1317239378208096338>Winter Fodlan Hilda",
-      "hilda3": "<:Colorless_Staff:1317239426866483261>Duo Fodlan Hilda",
+      "hilda3": "<:Colorless_Staff:1317239426866483261>Summer Fodlan Hilda",
       "hilda5": "<:Green_Axe:1317239517136031897>Ascended Fodlan Hilda",
       "hilda6": "<:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda"
     },
@@ -5522,7 +5522,14 @@
       "B Caeda 2",
       "S Caeda 2",
       "HS Caeda",
-      "caeda7"
+      "caeda7",
+      "Summoned Girl",
+      "Tsubasa: Summoned Girl",
+      "Brave Tsubasa",
+      "CYL Tsubasa",
+      "B Tsubasa",
+      "Choose Your Legends Tsubasa",
+      "tsubasa2"
     ],
     "HARD_ALT_NAME": [
       "Base Gwendolyn",
@@ -5797,7 +5804,14 @@
       "B Caeda 2",
       "S Caeda 2",
       "HS Caeda",
-      "caeda7"
+      "caeda7",
+      "Summoned Girl",
+      "Tsubasa: Summoned Girl",
+      "Brave Tsubasa",
+      "CYL Tsubasa",
+      "B Tsubasa",
+      "Choose Your Legends Tsubasa",
+      "tsubasa2"
     ],
     "heroes": {
       "fbyleth2": "<:Red_Tome:1317239730714316800>Summer Byleth",
@@ -5805,7 +5819,7 @@
       "caedaR": "<:Red_Sword:1317239717707911188>Caeda (Resplendent)",
       "caeda2": "<:Blue_Tome:1317239386491977749>Bridal Caeda",
       "caeda3": "<:Red_Sword:1317239717707911188>Young Caeda",
-      "caeda4": "<:Green_Axe:1317239517136031897>Harmonic Caeda",
+      "caeda4": "<:Green_Axe:1317239517136031897>Summer Caeda",
       "caeda5": "<:Blue_Lance:1317239378208096338>Legendary Caeda",
       "caeda6": "<:Blue_Lance:1317239378208096338>Attuned Caeda",
       "caeda7": "<:Green_Tome:1317239575352971396>Bath Caeda",
@@ -5822,7 +5836,8 @@
       "rhea3": "<:Colorless_Breath:1317239411980767363>Fallen Rhea",
       "rhea4": "<:Colorless_Breath:1317239411980767363>Valentines Rhea",
       "seiros": "<:Blue_Breath:1317239355835813939>Seiros",
-      "tsubasa": "<:Blue_Lance:1317239378208096338>Tsubasa"
+      "tsubasa": "<:Blue_Lance:1317239378208096338>Tsubasa",
+      "tsubasa2": "<:Green_Tome:1317239575352971396>Brave Tsubasa"
     },
     "name": "Cherami Leigh"
   },
@@ -6556,7 +6571,7 @@
     "heroes": {
       "ignatz": "<:Colorless_Bow:1317239404204654703>Ignatz",
       "ignatz2": "<:Colorless_Bow:1317239404204654703>Winter Ignatz",
-      "leif3": "<:Colorless_Bow:1317239404204654703>Harmonic Leif",
+      "leif3": "<:Colorless_Bow:1317239404204654703>Scion Leif",
       "roderick": "<:Blue_Lance:1317239378208096338>Roderick",
       "seliph": "<:Red_Sword:1317239717707911188>Seliph",
       "seliphR": "<:Red_Sword:1317239717707911188>Seliph (Resplendent)",
@@ -7100,7 +7115,7 @@
       "hinokaR": "<:Blue_Lance:1317239378208096338>Hinoka (Resplendent)",
       "hinoka2": "<:Colorless_Bow:1317239404204654703>Bow Hinoka",
       "hinoka3": "<:Green_Dagger:1317239563697127456>Bath Hinoka",
-      "hinoka4": "<:Green_Bow:1317239539936268340>Duo Hinoka",
+      "hinoka4": "<:Green_Bow:1317239539936268340>Pirate Hinoka",
       "hinoka5": "<:Red_Bow:1317239680571543592>Legendary Hinoka",
       "hinoka6": "<:Blue_Lance:1317239378208096338>Rearmed Hinoka",
       "libra": "<:Green_Axe:1317239517136031897>Libra",
@@ -7699,7 +7714,7 @@
       "catriaR": "<:Blue_Lance:1317239378208096338>Catria (Resplendent)",
       "catria2": "<:Blue_Tome:1317239386491977749>Spring Catria",
       "catria3": "<:Red_Sword:1317239717707911188>Valentian Catria",
-      "catria4": "<:Green_Axe:1317239517136031897>Harmonic Catria",
+      "catria4": "<:Green_Axe:1317239517136031897>Bridal Catria",
       "catria5": "<:Blue_Bow:1317239347577356328>Wind Catria",
       "felicia": "<:Colorless_Dagger:1317239418943438869>Felicia",
       "felicia2": "<:Green_Axe:1317239517136031897>Picnic Felicia",
@@ -7708,7 +7723,7 @@
       "marisaR": "<:Red_Sword:1317239717707911188>Marisa (Resplendent)",
       "marisa2": "<:Blue_Lance:1317239378208096338>Spring Marisa",
       "marisa3": "<:Green_Axe:1317239517136031897>Jehanna Marisa",
-      "palla3": "<:Blue_Lance:1317239378208096338>Duo Palla",
+      "palla3": "<:Blue_Lance:1317239378208096338>Young Palla",
       "setsuna": "<:Colorless_Bow:1317239404204654703>Setsuna"
     },
     "name": "Connor Kelley"
@@ -9195,7 +9210,7 @@
       "grima1"
     ],
     "heroes": {
-      "chrom6": "<:Red_Bow:1317239680571543592>Duo Chrom",
+      "chrom6": "<:Red_Bow:1317239680571543592>Valentines Chrom",
       "michalis": "<:Green_Axe:1317239517136031897>Michalis",
       "michalis2": "<:Blue_Lance:1317239378208096338>Spring Michalis",
       "mrobin": "<:Blue_Tome:1317239386491977749>Male Robin",
@@ -9679,7 +9694,7 @@
       "Summer Mercie"
     ],
     "heroes": {
-      "ayra2": "<:Red_Sword:1317239717707911188>Harmonic Ayra",
+      "ayra2": "<:Red_Sword:1317239717707911188>Maid Ayra",
       "mercedes": "<:Colorless_Staff:1317239426866483261>Mercedes",
       "mercedes2": "<:Red_Tome:1317239730714316800>Summer Mercedes",
       "rinea": "<:Blue_Tome:1317239386491977749>Dancer Rinea"
@@ -9802,7 +9817,7 @@
     ],
     "heroes": {
       "askr": "<:Colorless_Beast:1317239395534901248>Askr",
-      "askr2": "<:Colorless_Tome:1317239438602145842>Duo Askr",
+      "askr2": "<:Colorless_Tome:1317239438602145842>New Year Askr",
       "askr3": "<:Colorless_Beast:1317239395534901248>Halloween Askr"
     },
     "name": "Dustin Rubin"
@@ -10002,7 +10017,7 @@
       "gustav2": "<:Green_Axe:1317239517136031897>Fallen Gustav",
       "klein": "<:Colorless_Bow:1317239404204654703>Klein",
       "lif": "<:Red_Sword:1317239717707911188>L\u00edf",
-      "lif2": "<:Red_Tome:1317239730714316800>Duo L\u00edf",
+      "lif2": "<:Red_Tome:1317239730714316800>Valentines L\u00edf",
       "lif3": "<:Red_Sword:1317239717707911188>Rearmed L\u00edf",
       "luke": "<:Red_Sword:1317239717707911188>Luke",
       "veld": "<:Red_Tome:1317239730714316800>Veld"
@@ -10521,7 +10536,7 @@
       "celica8"
     ],
     "heroes": {
-      "alm4": "<:Green_Axe:1317239517136031897>Duo Alm",
+      "alm4": "<:Green_Axe:1317239517136031897>Valentines Alm",
       "celica": "<:Red_Tome:1317239730714316800>Celica",
       "celicaR": "<:Red_Tome:1317239730714316800>Celica (Resplendent)",
       "celica2": "<:Red_Sword:1317239717707911188>Fallen Celica",
@@ -10535,7 +10550,7 @@
       "myrrh": "<:Green_Breath:1317239551693164595>Myrrh",
       "myrrhR": "<:Green_Breath:1317239551693164595>Myrrh (Resplendent)",
       "myrrh2": "<:Red_Breath:1317239692189630504>Halloween Myrrh",
-      "myrrh3": "<:Colorless_Breath:1317239411980767363>Harmonic Myrrh",
+      "myrrh3": "<:Colorless_Breath:1317239411980767363>Spring Myrrh",
       "myrrh4": "<:Blue_Breath:1317239355835813939>Legendary Myrrh",
       "myrrh5": "<:Colorless_Breath:1317239411980767363>Valentines Myrrh"
     },
@@ -10611,7 +10626,11 @@
       "CYL Bernie",
       "B Bernie",
       "Choose Your Legends Bernie",
-      "bernie4"
+      "bernie4",
+      "Resplendent Bernadetta",
+      "Resp Bernadetta",
+      "R Bernadetta",
+      "Bernadetta (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "deirdre",
@@ -10707,10 +10726,15 @@
       "CYL Bernie",
       "B Bernie",
       "Choose Your Legends Bernie",
-      "bernie4"
+      "bernie4",
+      "Resplendent Bernadetta",
+      "Resp Bernadetta",
+      "R Bernadetta",
+      "Bernadetta (Resplendent)"
     ],
     "heroes": {
       "bernadetta": "<:Colorless_Bow:1317239404204654703>Bernadetta",
+      "bernadettaR": "<:Colorless_Bow:1317239404204654703>Bernadetta (Resplendent)",
       "bernadetta2": "<:Green_Tome:1317239575352971396>Winter Bernadetta",
       "bernadetta3": "<:Blue_Bow:1317239347577356328>Spring Bernadetta",
       "bernadetta4": "<:Blue_Bow:1317239347577356328>Brave Bernadetta",
@@ -10718,7 +10742,7 @@
       "deirdreR": "<:Green_Tome:1317239575352971396>Deirdre (Resplendent)",
       "deirdre2": "<:Blue_Tome:1317239386491977749>Legendary Deirdre",
       "goldmary": "<:Blue_Lance:1317239378208096338>Summer Goldmary",
-      "sigurd2": "<:Red_Tome:1317239730714316800>Duo Sigurd"
+      "sigurd2": "<:Red_Tome:1317239730714316800>Dancer Sigurd"
     },
     "name": "Erica Mendez"
   },
@@ -10791,7 +10815,7 @@
       "Legend Guinevere"
     ],
     "heroes": {
-      "dagr2": "<:Green_Bow:1317239539936268340>Duo Dagr",
+      "dagr2": "<:Green_Bow:1317239539936268340>New Year Dagr",
       "guinivere": "<:Blue_Tome:1317239386491977749>Guinivere",
       "guinivere2": "<:Colorless_Tome:1317239438602145842>Legendary Guinivere",
       "nott": "<:Blue_Lance:1317239378208096338>N\u00f3tt"
@@ -10868,7 +10892,7 @@
       "loki": "<:Colorless_Staff:1317239426866483261>Loki",
       "loki2": "<:Colorless_Bow:1317239404204654703>Spring Loki",
       "loki3": "<:Colorless_Staff:1317239426866483261>Mythic Loki",
-      "thorr2": "<:Blue_Tome:1317239386491977749>Duo Th\u00f3rr"
+      "thorr2": "<:Blue_Tome:1317239386491977749>Summer Th\u00f3rr"
     },
     "name": "Erika Ishii"
   },
@@ -11054,7 +11078,7 @@
     ],
     "heroes": {
       "ymir": "<:Green_Breath:1317239551693164595>Ymir",
-      "ymir2": "<:Colorless_Tome:1317239438602145842>Duo Ymir"
+      "ymir2": "<:Colorless_Tome:1317239438602145842>Summer Ymir"
     },
     "name": "Erin Yvette"
   },
@@ -11147,7 +11171,7 @@
       "petra2"
     ],
     "heroes": {
-      "dorothea3": "<:Red_Tome:1317239730714316800>Harmonic Dorothea",
+      "dorothea3": "<:Red_Tome:1317239730714316800>Plegian Dorothea",
       "lene": "<:Red_Sword:1317239717707911188>Lene",
       "petra": "<:Blue_Dagger:1317239367529529445>Petra",
       "petra2": "<:Red_Bow:1317239680571543592>Summer Petra"
@@ -11500,7 +11524,7 @@
       "Legend Marx"
     ],
     "heroes": {
-      "veronica3": "<:Green_Axe:1317239517136031897>Harmonic Veronica",
+      "veronica3": "<:Green_Axe:1317239517136031897>Pirate Veronica",
       "xander": "<:Red_Sword:1317239717707911188>Xander",
       "xander2": "<:Blue_Lance:1317239378208096338>Spring Xander",
       "xander3": "<:Green_Axe:1317239517136031897>Summer Xander",
@@ -11650,7 +11674,14 @@
       "Duo Sigurd 2",
       "D Sigurd 2",
       "30 Sigurd",
-      "sigurd6"
+      "sigurd6",
+      "Legacy of Justice",
+      "Sigurd: Legacy of Justice",
+      "Brave Sigurd",
+      "CYL Sigurd",
+      "B Sigurd 2",
+      "Choose Your Legends Sigurd",
+      "sigurd7"
     ],
     "HARD_ALT_NAME": [
       "Butler Sigurd",
@@ -11735,17 +11766,25 @@
       "Duo Sigurd",
       "D Sigurd 2",
       "30 Sigurd",
-      "sigurd6"
+      "sigurd6",
+      "Legacy of Justice",
+      "Sigurd: Legacy of Justice",
+      "Brave Sigurd",
+      "CYL Sigurd",
+      "B Sigurd 2",
+      "Choose Your Legends Sigurd",
+      "sigurd7"
     ],
     "heroes": {
       "clive": "<:Blue_Lance:1317239378208096338>Clive",
       "sigurd": "<:Red_Sword:1317239717707911188>Sigurd",
       "sigurdR": "<:Red_Sword:1317239717707911188>Sigurd (Resplendent)",
-      "sigurd2": "<:Red_Tome:1317239730714316800>Duo Sigurd",
+      "sigurd2": "<:Red_Tome:1317239730714316800>Dancer Sigurd",
       "sigurd3": "<:Red_Sword:1317239717707911188>Legendary Sigurd",
       "sigurd4": "<:Blue_Tome:1317239386491977749>Butler Sigurd",
       "sigurd5": "<:Blue_Lance:1317239378208096338>Emblem Sigurd",
-      "sigurd6": "<:Red_Sword:1317239717707911188>Duo Sigurd"
+      "sigurd6": "<:Red_Sword:1317239717707911188>Duo Sigurd",
+      "sigurd7": "<:Red_Sword:1317239717707911188>Brave Sigurd"
     },
     "name": "Grant George"
   },
@@ -12245,7 +12284,7 @@
       "ike10"
     ],
     "heroes": {
-      "eirika5": "<:Red_Sword:1317239717707911188>Duo Eirika",
+      "eirika5": "<:Red_Sword:1317239717707911188>Young Eirika",
       "eldigan": "<:Red_Sword:1317239717707911188>Eldigan",
       "eldiganR": "<:Red_Sword:1317239717707911188>Eldigan (Resplendent)",
       "eldigan2": "<:Blue_Lance:1317239378208096338>Dancer Eldigan",
@@ -12267,7 +12306,7 @@
       "ike3R": "<:Red_Sword:1317239717707911188>Legendary Ike (Resplendent)",
       "ike4": "<:Red_Sword:1317239717707911188>Valentines Ike",
       "ike5": "<:Red_Sword:1317239717707911188>Fallen Ike",
-      "ike6": "<:Red_Sword:1317239717707911188>Duo Ike",
+      "ike6": "<:Red_Sword:1317239717707911188>Young Ike",
       "ike7": "<:Red_Sword:1317239717707911188>Emblem Ike",
       "ike8": "<:Blue_Lance:1317239378208096338>Jehanna Ike",
       "ike9": "<:Green_Axe:1317239517136031897>Harmonic Brave Ike",
@@ -12623,50 +12662,13 @@
     ],
     "heroes": {
       "canis": "<:Red_Tome:1317239730714316800>Rearmed Canis",
-      "linde3": "<:Red_Tome:1317239730714316800>Harmonic Linde",
+      "linde3": "<:Red_Tome:1317239730714316800>Khadein Linde",
       "mirabilis": "<:Red_Sword:1317239717707911188>Mirabilis",
       "mirabilis2": "<:Blue_Dagger:1317239367529529445>Winter Mirabilis",
       "mirabilis3": "<:Blue_Tome:1317239386491977749>Spring Mirabilis",
       "sara": "<:Colorless_Staff:1317239426866483261>Sara"
     },
     "name": "Heather Halley"
-  },
-  "heatherhogan": {
-    "ALT_NAME": [
-      "Laegjarn: Flame and Frost",
-      "Flame and Frost",
-      "Duo Laegjarn",
-      "Harmonic Laegjarn",
-      "Harmonized Laegjarn",
-      "Ninja Laegjarn",
-      "Duo Laeg",
-      "Harmonic Laeg",
-      "Harmonized Laeg",
-      "Ninja Laeg"
-    ],
-    "HARD_ALT_NAME": [
-      "laegjarn5",
-      "Duo Laegjarn",
-      "laeg5",
-      "Flame and Frost",
-      "N Laegjarn",
-      "D Laegjarn",
-      "N Laeg",
-      "D Laeg",
-      "Naegjarn",
-      "Daegjarn",
-      "Harmonic Laegjarn",
-      "Harmonized Laegjarn",
-      "Ninja Laegjarn",
-      "Duo Laeg",
-      "Harmonic Laeg",
-      "Harmonized Laeg",
-      "Ninja Laeg"
-    ],
-    "heroes": {
-      "laegjarn5": "<:Blue_Bow:1317239347577356328>Duo Laegjarn"
-    },
-    "name": "Heather Hogan"
   },
   "heatherwatson": {
     "ALT_NAME": [
@@ -12707,6 +12709,16 @@
       "Ice Ascendant",
       "Ascended Fjorm",
       "Bloom Fjorm",
+      "Laegjarn: Flame and Frost",
+      "Flame and Frost",
+      "Duo Laegjarn",
+      "Harmonic Laegjarn",
+      "Harmonized Laegjarn",
+      "Ninja Laegjarn",
+      "Duo Laeg",
+      "Harmonic Laeg",
+      "Harmonized Laeg",
+      "Ninja Laeg"
       "Fjorm: Seaside Thaw",
       "Summer Fjorm",
       "Seaside Thaw",
@@ -12788,6 +12800,23 @@
       "Ice Ascendant",
       "A Fjorm",
       "Bloom Fjorm",
+      "laegjarn5",
+      "Duo Laegjarn",
+      "laeg5",
+      "Flame and Frost",
+      "N Laegjarn",
+      "D Laegjarn",
+      "N Laeg",
+      "D Laeg",
+      "Naegjarn",
+      "Daegjarn",
+      "Harmonic Laegjarn",
+      "Harmonized Laegjarn",
+      "Ninja Laegjarn",
+      "Duo Laeg",
+      "Harmonic Laeg",
+      "Harmonized Laeg",
+      "Ninja Laeg"
       "S Fjorm",
       "fjorm5",
       "Summer Fjorm",
@@ -12818,6 +12847,7 @@
       "fjorm5": "<:Red_Sword:1317239717707911188>Summer Fjorm",
       "fjorm6": "<:Blue_Lance:1317239378208096338>Ice Fjorm",
       "fjorm7": "<:Blue_Lance:1317239378208096338>Chosen Fjorm",
+      "laegjarn5": "<:Blue_Bow:1317239347577356328>Ninja Laegjarn",
       "tailtiu": "<:Blue_Tome:1317239386491977749>Tailtiu",
       "tailtiuR": "<:Blue_Tome:1317239386491977749>Tailtiu (Resplendent)",
       "tailtiu2": "<:Green_Tome:1317239575352971396>Maid Tailtiu"
@@ -13437,7 +13467,13 @@
       "Resplendent Haar",
       "Resp Haar",
       "R Haar",
-      "Haar (Resplendent)"
+      "Haar (Resplendent)",
+      "Faerghus Shield",
+      "Rodrigue: Faerghus Shield",
+      "Normal Rodrigue",
+      "Base Rodrigue",
+      "Regular Rodrigue",
+      "rodrigue"
     ],
     "HARD_ALT_NAME": [
       "caineghis",
@@ -13471,13 +13507,20 @@
       "Resplendent Haar",
       "Resp Haar",
       "R Haar",
-      "Haar (Resplendent)"
+      "Haar (Resplendent)",
+      "Faerghus Shield",
+      "Rodrigue: Faerghus Shield",
+      "Normal Rodrigue",
+      "Base Rodrigue",
+      "Regular Rodrigue",
+      "rodrigue"
     ],
     "heroes": {
       "caineghis": "<:Colorless_Beast:1317239395534901248>Caineghis",
       "haar": "<:Green_Axe:1317239517136031897>Haar",
       "haarR": "<:Green_Axe:1317239517136031897>Haar (Resplendent)",
-      "haar2": "<:Red_Sword:1317239717707911188>Ninja Haar"
+      "haar2": "<:Red_Sword:1317239717707911188>Ninja Haar",
+      "rodrigue": "<:Blue_Tome:1317239386491977749>Rodrigue"
     },
     "name": "Jake Eberle"
   },
@@ -13672,7 +13715,7 @@
       "lysithea": "<:Red_Tome:1317239730714316800>Lysithea",
       "lysithea2": "<:Red_Tome:1317239730714316800>Brave Lysithea",
       "lysithea2R": "<:Red_Tome:1317239730714316800>Brave Lysithea (Resplendent)",
-      "lysithea3": "<:Colorless_Tome:1317239438602145842>Harmonic Lysithea",
+      "lysithea3": "<:Colorless_Tome:1317239438602145842>Winter Lysithea",
       "lysithea4": "<:Colorless_Tome:1317239438602145842>Maid Lysithea",
       "lysithea5": "<:Green_Tome:1317239575352971396>Rearmed Lysithea"
     },
@@ -14673,7 +14716,16 @@
       "Spring Flingster",
       "Sylvain: Consummate Flirt",
       "Mad Dog",
-      "Easter Sylvain"
+      "Easter Sylvain",
+      "Ladies' Knight",
+      "Sylvain: Ladies' Knight",
+      "Brave Sylvain",
+      "CYL Sylvain",
+      "B Sylvain",
+      "Choose Your Legends Sylvain",
+      "Ladies Knight",
+      "Sylvain: Ladies Knight",
+      "sylvain4"
     ],
     "HARD_ALT_NAME": [
       "F Linus",
@@ -14701,14 +14753,24 @@
       "Spring Flingster",
       "Mad Dog",
       "Easter Sylvain",
-      "linus2"
+      "linus2",
+      "Ladies' Knight",
+      "Sylvain: Ladies' Knight",
+      "Brave Sylvain",
+      "CYL Sylvain",
+      "B Sylvain",
+      "Choose Your Legends Sylvain",
+      "Ladies Knight",
+      "Sylvain: Ladies Knight",
+      "sylvain4"
     ],
     "heroes": {
       "linus": "<:Green_Axe:1317239517136031897>Linus",
       "linus2": "<:Green_Axe:1317239517136031897>Fallen Linus",
       "sylvain": "<:Green_Axe:1317239517136031897>Sylvain",
       "sylvain2": "<:Green_Tome:1317239575352971396>Summer Sylvain",
-      "sylvain3": "<:Blue_Lance:1317239378208096338>Spring Sylvain"
+      "sylvain3": "<:Blue_Lance:1317239378208096338>Spring Sylvain",
+      "sylvain4": "<:Blue_Lance:1317239378208096338>Brave Sylvain"
     },
     "name": "Joe Brogie"
   },
@@ -15172,7 +15234,7 @@
     "heroes": {
       "dozla": "<:Colorless_Dagger:1317239418943438869>Halloween Dozla",
       "duma": "<:Colorless_Breath:1317239411980767363>Duma",
-      "duma2": "<:Red_Breath:1317239692189630504>Duo Duma"
+      "duma2": "<:Red_Breath:1317239692189630504>Halloween Duma"
     },
     "name": "Josh Petersdorf"
   },
@@ -15410,6 +15472,23 @@
       "Resp Selena",
       "R Selena",
       "Selena (Resplendent)",
+      "Spring Wings",
+      "Chlo\u00e9: Spring Wings",
+      "Spring Chlo\u00e9",
+      "S Chlo\u00e9",
+      "Easter Chlo\u00e9",
+      "chlo\u00e92",
+      "Chloe: Spring Wings",
+      "Spring Chloe",
+      "S Chloe",
+      "Easter Chloe",
+      "Harmonic Chloe",
+      "Harmonized Chloe",
+      "H Chloe",
+      "Harmonic Chlo\u00e9",
+      "Harmonized Chlo\u00e9",
+      "H Chlo\u00e9",
+      "chloe2"
       "Festival Harmony",
       "Nephenee: Festival Harmony",
       "Festival Nephenee",
@@ -15642,6 +15721,23 @@
       "Resp Selena",
       "R Selena",
       "Selena (Resplendent)",
+      "Spring Wings",
+      "Chlo\u00e9: Spring Wings",
+      "Spring Chlo\u00e9",
+      "S Chlo\u00e9",
+      "Easter Chlo\u00e9",
+      "chlo\u00e92",
+      "Chloe: Spring Wings",
+      "Spring Chloe",
+      "S Chloe",
+      "Easter Chloe",
+      "Harmonic Chloe",
+      "Harmonized Chloe",
+      "H Chloe",
+      "Harmonic Chlo\u00e9",
+      "Harmonized Chlo\u00e9",
+      "H Chlo\u00e9",
+      "chloe2"
       "Festival Harmony",
       "Nephenee: Festival Harmony",
       "Festival Nephenee",
@@ -15671,11 +15767,12 @@
     ],
     "heroes": {
       "caeldori": "<:Blue_Lance:1317239378208096338>Caeldori",
+      "chloe2": "<:Red_Tome:1317239730714316800>Spring Chlo\u00e9",
       "cordelia": "<:Blue_Lance:1317239378208096338>Cordelia",
       "cordeliaR": "<:Blue_Lance:1317239378208096338>Cordelia (Resplendent)",
       "cordelia2": "<:Colorless_Bow:1317239404204654703>Bridal Cordelia",
       "cordelia3": "<:Blue_Lance:1317239378208096338>Summer Cordelia",
-      "cordelia4": "<:Blue_Lance:1317239378208096338>Harmonic Cordelia",
+      "cordelia4": "<:Blue_Lance:1317239378208096338>Winter Cordelia",
       "flora": "<:Red_Dagger:1317239717707911188>Flora",
       "floraR": "<:Red_Dagger:1317239717707911188>Flora (Resplendent)",
       "flora2": "<:Red_Dagger:1317239717707911188>Picnic Flora",
@@ -15683,7 +15780,7 @@
       "linde": "<:Blue_Tome:1317239386491977749>Linde",
       "lindeR": "<:Blue_Tome:1317239386491977749>Linde (Resplendent)",
       "linde2": "<:Colorless_Dagger:1317239418943438869>Summer Linde",
-      "linde3": "<:Red_Tome:1317239730714316800>Harmonic Linde",
+      "linde3": "<:Red_Tome:1317239730714316800>Khadein Linde",
       "nephenee": "<:Blue_Lance:1317239378208096338>Nephenee",
       "nepheneeR": "<:Blue_Lance:1317239378208096338>Nephenee (Resplendent)",
       "nephenee2": "<:Colorless_Bow:1317239404204654703>Dancer Nephenee",
@@ -16063,12 +16160,12 @@
       "sharena6"
     ],
     "heroes": {
-      "alfonse3": "<:Blue_Tome:1317239386491977749>Duo Alfonse",
+      "alfonse3": "<:Blue_Tome:1317239386491977749>New Year Alfonse",
       "florina": "<:Blue_Lance:1317239378208096338>Florina",
       "florinaR": "<:Blue_Lance:1317239378208096338>Florina (Resplendent)",
       "florina2": "<:Colorless_Bow:1317239404204654703>Ascended Florina",
       "hilda6": "<:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda",
-      "hector5": "<:Red_Sword:1317239717707911188>Duo Hector",
+      "hector5": "<:Red_Sword:1317239717707911188>Halloween Hector",
       "lilina": "<:Red_Tome:1317239730714316800>Lilina",
       "lilinaR": "<:Red_Tome:1317239730714316800>Lilina (Resplendent)",
       "lilina2": "<:Green_Tome:1317239575352971396>Valentines Lilina",
@@ -16076,7 +16173,7 @@
       "lilina4": "<:Red_Tome:1317239730714316800>Legendary Lilina",
       "lilina5": "<:Blue_Tome:1317239386491977749>Bridal Lilina",
       "lilina6": "<:Green_Tome:1317239575352971396>Rearmed Lilina",
-      "lyn7": "<:Colorless_Dagger:1317239418943438869>Duo Lyn",
+      "lyn7": "<:Colorless_Dagger:1317239418943438869>Ninja Lyn",
       "sharena": "<:Blue_Lance:1317239378208096338>Sharena",
       "sharena2": "<:Green_Tome:1317239575352971396>Spring Sharena",
       "sharena3": "<:Blue_Lance:1317239378208096338>Bridal Sharena",
@@ -16745,7 +16842,14 @@
       "I Thea",
       "I F Thea",
       "I T Thea",
-      "thea2"
+      "thea2",
+      "Summoned Girl",
+      "Tsubasa: Summoned Girl",
+      "Brave Tsubasa",
+      "CYL Tsubasa",
+      "B Tsubasa",
+      "Choose Your Legends Tsubasa",
+      "tsubasa2"
     ],
     "HARD_ALT_NAME": [
       "thea",
@@ -16830,16 +16934,24 @@
       "I Thea",
       "I F Thea",
       "I T Thea",
-      "thea2"
+      "thea2",
+      "Summoned Girl",
+      "Tsubasa: Summoned Girl",
+      "Brave Tsubasa",
+      "CYL Tsubasa",
+      "B Tsubasa",
+      "Choose Your Legends Tsubasa",
+      "tsubasa2"
     ],
     "heroes": {
-      "catria4": "<:Green_Axe:1317239517136031897>Harmonic Catria",
+      "catria4": "<:Green_Axe:1317239517136031897>Bridal Catria",
       "mareeta": "<:Red_Sword:1317239717707911188>Mareeta",
       "mareeta2": "<:Red_Sword:1317239717707911188>Fallen Mareeta",
       "mareeta3": "<:Red_Sword:1317239717707911188>Ascended Mareeta",
       "thea": "<:Blue_Lance:1317239378208096338>Thea",
       "thea2": "<:Red_Sword:1317239717707911188>Ice Thea",
-      "tsubasa": "<:Blue_Lance:1317239378208096338>Tsubasa"
+      "tsubasa": "<:Blue_Lance:1317239378208096338>Tsubasa",
+      "tsubasa2": "<:Green_Tome:1317239575352971396>Brave Tsubasa"
     },
     "name": "Kayli Mills"
   },
@@ -17459,7 +17571,7 @@
       "eirika2": "<:Red_Tome:1317239730714316800>Mage Eirika",
       "eirika3": "<:Red_Sword:1317239717707911188>Legendary Eirika",
       "eirika4": "<:Colorless_Staff:1317239426866483261>Winter Eirika",
-      "eirika5": "<:Red_Sword:1317239717707911188>Duo Eirika",
+      "eirika5": "<:Red_Sword:1317239717707911188>Young Eirika",
       "eirika6": "<:Blue_Lance:1317239378208096338>Brave Eirika",
       "eirika7": "<:Green_Tome:1317239575352971396>Summer Eirika",
       "eirika8": "<:Green_Axe:1317239517136031897>Attuned Eirika",
@@ -17773,9 +17885,9 @@
     ],
     "heroes": {
       "altina": "<:Red_Sword:1317239717707911188>Altina",
-      "altina2": "<:Red_Sword:1317239717707911188>Harmonic Altina",
+      "altina2": "<:Red_Sword:1317239717707911188>Winter Altina",
       "altina3": "<:Green_Axe:1317239517136031897>Nabata Altina",
-      "edelgard5": "<:Red_Sword:1317239717707911188>Harmonic Edelgard",
+      "edelgard5": "<:Red_Sword:1317239717707911188>Summer Edelgard",
       "igrene": "<:Red_Bow:1317239680571543592>Igrene",
       "igrene2": "<:Colorless_Dagger:1317239418943438869>Ninja Igrene",
       "igrene3": "<:Blue_Bow:1317239347577356328>Nabata Igrene"
@@ -18085,7 +18197,7 @@
       "almR": "<:Red_Sword:1317239717707911188>Alm (Resplendent)",
       "alm2": "<:Colorless_Bow:1317239404204654703>Legendary Alm",
       "alm3": "<:Red_Sword:1317239717707911188>Brave Alm",
-      "alm4": "<:Green_Axe:1317239517136031897>Duo Alm",
+      "alm4": "<:Green_Axe:1317239517136031897>Valentines Alm",
       "gatekeeper": "<:Green_Tome:1317239575352971396>Brave Gatekeeper",
       "soren": "<:Green_Tome:1317239575352971396>Soren",
       "sorenR": "<:Green_Tome:1317239575352971396>Soren (Resplendent)",
@@ -18308,7 +18420,7 @@
     ],
     "heroes": {
       "thorr": "<:Green_Axe:1317239517136031897>Th\u00f3rr",
-      "thorr2": "<:Blue_Tome:1317239386491977749>Duo Th\u00f3rr",
+      "thorr2": "<:Blue_Tome:1317239386491977749>Summer Th\u00f3rr",
       "thorr3": "<:Blue_Lance:1317239378208096338>Spring Th\u00f3rr"
     },
     "name": "Laila Berzins"
@@ -18532,7 +18644,7 @@
     ],
     "heroes": {
       "catherine": "<:Red_Sword:1317239717707911188>Catherine",
-      "shamir3": "<:Blue_Bow:1317239347577356328>Duo Shamir",
+      "shamir3": "<:Blue_Bow:1317239347577356328>Summer Shamir",
       "silvia": "<:Red_Sword:1317239717707911188>Silvia",
       "yunaka": "<:Colorless_Dagger:1317239418943438869>Aided Yunaka",
       "yunaka2": "<:Colorless_Dagger:1317239418943438869>Winter Yunaka",
@@ -20413,7 +20525,7 @@
       "triandra3"
     ],
     "heroes": {
-      "peony2": "<:Green_Tome:1317239575352971396>Duo Peony",
+      "peony2": "<:Green_Tome:1317239575352971396>New Year Peony",
       "selkie": "<:Blue_Beast:1317239339452731402>Selkie",
       "selkie2": "<:Colorless_Beast:1317239395534901248>New Year Selkie",
       "triandra": "<:Green_Tome:1317239575352971396>Triandra",
@@ -20961,12 +21073,12 @@
       "amelia": "<:Green_Axe:1317239517136031897>Amelia",
       "ameliaR": "<:Green_Axe:1317239517136031897>Amelia (Resplendent)",
       "amelia2": "<:Blue_Lance:1317239378208096338>Ascended Amelia",
-      "fcorrin6": "<:Green_Tome:1317239575352971396>Duo Corrin",
+      "fcorrin6": "<:Green_Tome:1317239575352971396>Ninja Corrin",
       "elise": "<:Colorless_Staff:1317239426866483261>Elise",
       "eliseR": "<:Colorless_Staff:1317239426866483261>Elise (Resplendent)",
       "elise2": "<:Green_Tome:1317239575352971396>Summer Elise",
       "elise3": "<:Red_Dagger:1317239717707911188>Bath Elise",
-      "elise4": "<:Colorless_Staff:1317239426866483261>Duo Elise",
+      "elise4": "<:Colorless_Staff:1317239426866483261>Valentines Elise",
       "elise5": "<:Colorless_Staff:1317239426866483261>Young Elise",
       "elise6": "<:Colorless_Staff:1317239426866483261>Legendary Elise",
       "fir": "<:Red_Sword:1317239717707911188>Fir",
@@ -20976,7 +21088,7 @@
       "fir4": "<:Red_Sword:1317239717707911188>Ferox Fir",
       "nina": "<:Colorless_Bow:1317239404204654703>Nina",
       "ninaR": "<:Colorless_Bow:1317239404204654703>Nina (Resplendent)",
-      "nina2": "<:Colorless_Dagger:1317239418943438869>Duo Nina"
+      "nina2": "<:Colorless_Dagger:1317239418943438869>Thief Nina"
     },
     "name": "Liv Strander"
   },
@@ -21191,7 +21303,7 @@
       "larcei": "<:Red_Sword:1317239717707911188>Larcei",
       "larcei2": "<:Green_Axe:1317239517136031897>Scion Larcei",
       "larcei3": "<:Blue_Lance:1317239378208096338>Bridal Larcei",
-      "lif2": "<:Red_Tome:1317239730714316800>Duo L\u00edf",
+      "lif2": "<:Red_Tome:1317239730714316800>Valentines L\u00edf",
       "thrasir": "<:Green_Tome:1317239575352971396>Thrasir"
     },
     "name": "Lizzie Freeman"
@@ -22263,7 +22375,7 @@
       "fcorrin3": "<:Green_Breath:1317239551693164595>Adrift Female Corrin",
       "fcorrin4": "<:Colorless_Breath:1317239411980767363>Fallen Female Corrin",
       "fcorrin5": "<:Colorless_Breath:1317239411980767363>Legendary Corrin",
-      "fcorrin6": "<:Green_Tome:1317239575352971396>Duo Corrin",
+      "fcorrin6": "<:Green_Tome:1317239575352971396>Ninja Corrin",
       "fcorrin7": "<:Blue_Breath:1317239355835813939>Halloween Female Corrin",
       "fcorrin8": "<:Colorless_Breath:1317239411980767363>Brave Female Corrin",
       "fcorrin9": "<:Red_Sword:1317239717707911188>Emblem Corrin",
@@ -23178,7 +23290,7 @@
       "chrom4": "<:Red_Sword:1317239717707911188>Horse Chrom",
       "chrom4R": "<:Red_Sword:1317239717707911188>Horse Chrom (Resplendent)",
       "chrom5": "<:Blue_Bow:1317239347577356328>Legendary Chrom",
-      "chrom6": "<:Red_Bow:1317239680571543592>Duo Chrom",
+      "chrom6": "<:Red_Bow:1317239680571543592>Valentines Chrom",
       "chrom7": "<:Blue_Lance:1317239378208096338>Brave Chrom",
       "chrom8": "<:Red_Sword:1317239717707911188>Rearmed Chrom",
       "chrom9": "<:Colorless_Bow:1317239404204654703>Ferox Chrom",
@@ -23565,7 +23677,7 @@
       "embla2"
     ],
     "heroes": {
-      "askr2": "<:Colorless_Tome:1317239438602145842>Duo Askr",
+      "askr2": "<:Colorless_Tome:1317239438602145842>New Year Askr",
       "embla": "<:Red_Beast:1317239666944114688>Embla",
       "embla2": "<:Colorless_Beast:1317239395534901248>Bridal Embla"
     },
@@ -24465,14 +24577,14 @@
       "ytiki3": "<:Blue_Breath:1317239355835813939>Legendary Young Tiki",
       "ytiki3R": "<:Blue_Breath:1317239355835813939>Legendary Young Tiki",
       "ytiki4": "<:Colorless_Breath:1317239411980767363>Fallen Young Tiki",
-      "ytiki5": "<:Blue_Breath:1317239355835813939>Harmonic Young Tiki",
+      "ytiki5": "<:Blue_Breath:1317239355835813939>Halloween Young Tiki",
       "ytiki6": "<:Red_Breath:1317239692189630504>Ascended Young Tiki",
       "ytiki7": "<:Green_Breath:1317239551693164595>Attuned Young Tiki",
       "atiki": "<:Red_Breath:1317239692189630504>Adult Tiki",
       "atikiR": "<:Red_Breath:1317239692189630504>Adult Tiki (Resplendent)",
       "atiki2": "<:Green_Axe:1317239517136031897>Summer Adult Tiki",
       "atiki3": "<:Green_Breath:1317239551693164595>Brave Adult Tiki",
-      "atiki4": "<:Colorless_Breath:1317239411980767363>Harmonic Adult Tiki",
+      "atiki4": "<:Colorless_Breath:1317239411980767363>Bridal Adult Tiki",
       "atiki5": "<:Colorless_Breath:1317239411980767363>Mythic Adult Tiki"
     },
     "name": "Mela Lee"
@@ -24685,7 +24797,7 @@
       "tana": "<:Blue_Lance:1317239378208096338>Tana",
       "tanaR": "<:Blue_Lance:1317239378208096338>Tana (Resplendent)",
       "tana3": "<:Blue_Lance:1317239378208096338>Young Tana",
-      "tana4": "<:Green_Dagger:1317239563697127456>Harmonic Tana",
+      "tana4": "<:Green_Dagger:1317239563697127456>Flame Tana",
       "tana5": "<:Colorless_Bow:1317239404204654703>Rearmed Tana",
       "tana6": "<:Red_Sword:1317239717707911188>New Year Tana"
     },
@@ -25724,7 +25836,7 @@
       "camilla8": "<:Red_Tome:1317239730714316800>Ninja Camilla",
       "camilla9": "<:Green_Tome:1317239575352971396>Legendary Camilla",
       "camilla10": "<:Green_Axe:1317239517136031897>Young Camilla",
-      "hinoka4": "<:Green_Bow:1317239539936268340>Duo Hinoka",
+      "hinoka4": "<:Green_Bow:1317239539936268340>Pirate Hinoka",
       "ivy3": "<:Red_Tome:1317239730714316800>Winter Ivy",
       "micaiah9": "<:Green_Tome:1317239575352971396>Harmonic Brave Micaiah",
       "titania": "<:Green_Axe:1317239517136031897>Titania",
@@ -25827,7 +25939,7 @@
     ],
     "heroes": {
       "anna5": "<:feh_harmonized:1124846369136459878><:Green_Axe:1317239517136031897>Halloween Anna",
-      "duma2": "<:Red_Breath:1317239692189630504>Duo Duma",
+      "duma2": "<:Red_Breath:1317239692189630504>Halloween Duma",
       "mila": "<:Colorless_Breath:1317239411980767363>Mila"
     },
     "name": "Monica Rial"
@@ -26261,10 +26373,10 @@
       "leif": "<:Red_Sword:1317239717707911188>Leif",
       "leifR": "<:Red_Sword:1317239717707911188>Leif (Resplendent)",
       "leif2": "<:Colorless_Bow:1317239404204654703>Legendary Leif",
-      "leif3": "<:Colorless_Bow:1317239404204654703>Harmonic Leif",
+      "leif3": "<:Colorless_Bow:1317239404204654703>Scion Leif",
       "leif4": "<:Green_Bow:1317239539936268340>Attuned Leif",
       "leif5": "<:Green_Axe:1317239517136031897>Emblem Leif",
-      "micaiah4": "<:Colorless_Tome:1317239438602145842>Duo Micaiah",
+      "micaiah4": "<:Colorless_Tome:1317239438602145842>Bridal Micaiah",
       "sothe": "<:Colorless_Dagger:1317239418943438869>Sothe",
       "sotheR": "<:Colorless_Dagger:1317239418943438869>Sothe (Resplendent)",
       "sothe2": "<:Green_Dagger:1317239563697127456>Thief Sothe",
@@ -26550,7 +26662,7 @@
       "plumeria4"
     ],
     "heroes": {
-      "caeda4": "<:Green_Axe:1317239517136031897>Harmonic Caeda",
+      "caeda4": "<:Green_Axe:1317239517136031897>Summer Caeda",
       "plumeria": "<:Red_Tome:1317239730714316800>Plumeria",
       "plumeria2": "<:Colorless_Bow:1317239404204654703>New Year Plumeria",
       "plumeria3": "<:Blue_Tome:1317239386491977749>Rearmed Plumeria",
@@ -26914,7 +27026,7 @@
       "hector3R": "<:Green_Axe:1317239517136031897>Legendary Hector (Resplendent)",
       "hector4": "<:Blue_Lance:1317239378208096338>Brave Hector",
       "hector4R": "<:Blue_Lance:1317239378208096338>Brave Hector (Resplendent)",
-      "hector5": "<:Red_Sword:1317239717707911188>Duo Hector",
+      "hector5": "<:Red_Sword:1317239717707911188>Halloween Hector",
       "hector6": "<:Green_Axe:1317239517136031897>Young Hector",
       "hector7": "<:Red_Sword:1317239717707911188>Attuned Hector",
       "hector8": "<:Blue_Lance:1317239378208096338>Harmonic Brave Hector",
@@ -27283,7 +27395,7 @@
       "celine4"
     ],
     "heroes": {
-      "azura6": "<:Green_Tome:1317239575352971396>Harmonic Azura",
+      "azura6": "<:Green_Tome:1317239575352971396>Hatari Azura",
       "celine": "<:Green_Tome:1317239575352971396>C\u00e9line",
       "celine2": "<:Blue_Tome:1317239386491977749>Ninja C\u00e9line",
       "celine3": "<:Red_Tome:1317239730714316800>Maid C\u00e9line",
@@ -27834,7 +27946,7 @@
     "heroes": {
       "alfonse": "<:Red_Sword:1317239717707911188>Alfonse",
       "alfonse2": "<:Green_Axe:1317239517136031897>Spring Alfonse",
-      "alfonse3": "<:Blue_Tome:1317239386491977749>Duo Alfonse",
+      "alfonse3": "<:Blue_Tome:1317239386491977749>New Year Alfonse",
       "alfonse4": "<:Green_Tome:1317239575352971396>Valentines Alfonse",
       "alfonse5": "<:Green_Axe:1317239517136031897>Brave Alfonse",
       "alfonse6": "<:Red_Sword:1317239717707911188>Chosen Alfonse",
@@ -27851,7 +27963,7 @@
       "roy2R": "<:Red_Sword:1317239717707911188>Brave Roy (Resplendent)",
       "roy3": "<:Colorless_Bow:1317239404204654703>Valentines Roy",
       "roy4": "<:Red_Sword:1317239717707911188>Legendary Roy",
-      "roy5": "<:Green_Axe:1317239517136031897>Harmonic Roy",
+      "roy5": "<:Green_Axe:1317239517136031897>Groom Roy",
       "roy6": "<:Red_Sword:1317239717707911188>Emblem Roy"
     },
     "name": "Ray Chase"
@@ -28135,7 +28247,14 @@
       "Ilia Azura",
       "I Azura",
       "Ilian Azura",
-      "azura8"
+      "azura8",
+      "Lady of Reflection",
+      "Azura: Lady of Reflection",
+      "Brave Azura",
+      "CYL Azura",
+      "B Azura",
+      "Choose Your Legends Azura",
+      "azura9"
     ],
     "HARD_ALT_NAME": [
       "azura",
@@ -28212,7 +28331,14 @@
       "Ilia Azura",
       "I Azura",
       "Ilian Azura",
-      "azura8"
+      "azura8",
+      "Lady of Reflection",
+      "Azura: Lady of Reflection",
+      "Brave Azura",
+      "CYL Azura",
+      "B Azura",
+      "Choose Your Legends Azura",
+      "azura9"
     ],
     "heroes": {
       "azura": "<:Blue_Lance:1317239378208096338>Azura",
@@ -28221,9 +28347,10 @@
       "azura3": "<:Green_Axe:1317239517136031897>New Year Azura",
       "azura4": "<:Green_Tome:1317239575352971396>Adrift Azura",
       "azura5": "<:Blue_Tome:1317239386491977749>Legendary Azura",
-      "azura6": "<:Green_Tome:1317239575352971396>Harmonic Azura",
+      "azura6": "<:Green_Tome:1317239575352971396>Hatari Azura",
       "azura7": "<:Green_Axe:1317239517136031897>Attuned Azura",
-      "azura8": "<:Blue_Lance:1317239378208096338>Ilia Azura"
+      "azura8": "<:Blue_Lance:1317239378208096338>Ilia Azura",
+      "azura9": "<:Colorless_Tome:1317239438602145842>Brave Azura"
     },
     "name": "Rena Strober"
   },
@@ -28750,7 +28877,7 @@
       "Summer Wayu"
     ],
     "heroes": {
-      "mia3": "<:Colorless_Dagger:1317239418943438869>Harmonic Mia",
+      "mia3": "<:Colorless_Dagger:1317239418943438869>Summer Mia",
       "niime": "<:Colorless_Tome:1317239438602145842>Niime"
     },
     "name": "Robin Bell"
@@ -29006,11 +29133,11 @@
       "ilyana2": "<:Blue_Tome:1317239386491977749>Halloween Ilyana",
       "ilyana3": "<:Green_Tome:1317239575352971396>Young Ilyana",
       "peony": "<:Blue_Tome:1317239386491977749>Peony",
-      "peony2": "<:Green_Tome:1317239575352971396>Duo Peony",
+      "peony2": "<:Green_Tome:1317239575352971396>New Year Peony",
       "peony3": "<:Green_Axe:1317239517136031897>Attuned Peony",
       "peony4": "<:Blue_Tome:1317239386491977749>Halloween Peony",
       "peony5": "<:Red_Sword:1317239717707911188>Bridal Peony",
-      "tana4": "<:Green_Dagger:1317239563697127456>Harmonic Tana"
+      "tana4": "<:Green_Dagger:1317239563697127456>Flame Tana"
     },
     "name": "Ryan Bartley"
   },
@@ -29349,7 +29476,7 @@
       "sanaki3"
     ],
     "heroes": {
-      "altina2": "<:Red_Sword:1317239717707911188>Harmonic Altina",
+      "altina2": "<:Red_Sword:1317239717707911188>Winter Altina",
       "arete": "<:Red_Tome:1317239730714316800>Arete",
       "rinkah": "<:Green_Axe:1317239517136031897>Rinkah",
       "rinkah2": "<:Red_Sword:1317239717707911188>Flame Rinkah",
@@ -29647,14 +29774,14 @@
       "faeR": "<:Green_Breath:1317239551693164595>Fae (Resplendent)",
       "fae2": "<:Green_Breath:1317239551693164595>Winter Fae",
       "fae3": "<:Blue_Breath:1317239355835813939>Legendary Fae",
-      "idunn2": "<:Red_Breath:1317239692189630504>Duo Idunn",
+      "idunn2": "<:Red_Breath:1317239692189630504>Spring Idunn",
       "kagero": "<:Colorless_Dagger:1317239418943438869>Kagero",
       "kageroR": "<:Colorless_Dagger:1317239418943438869>Kagero (Resplendent)",
       "kagero2": "<:Colorless_Dagger:1317239418943438869>Spring Kagero",
       "kagero3": "<:Green_Dagger:1317239563697127456>Halloween Kagero",
       "kagero4": "<:Colorless_Dagger:1317239418943438869>Wind Kagero",
       "midori": "<:Red_Bow:1317239680571543592>Midori",
-      "nina2": "<:Colorless_Dagger:1317239418943438869>Duo Nina",
+      "nina2": "<:Colorless_Dagger:1317239418943438869>Thief Nina",
       "nino": "<:Green_Tome:1317239575352971396>Nino",
       "ninoR": "<:Green_Tome:1317239575352971396>Nino (Resplendent)",
       "nino2": "<:Green_Tome:1317239575352971396>Pegasus Nino",
@@ -29836,7 +29963,7 @@
       "Laevatein (Resplendent)"
     ],
     "heroes": {
-      "ike6": "<:Red_Sword:1317239717707911188>Duo Ike",
+      "ike6": "<:Red_Sword:1317239717707911188>Young Ike",
       "laevatein": "<:Red_Sword:1317239717707911188>Laevatein",
       "laevateinR": "<:Red_Sword:1317239717707911188>Laevatein (Resplendent)",
       "laevatein2": "<:Colorless_Staff:1317239426866483261>New Year Laevatein",
@@ -30225,7 +30352,7 @@
       "kjelle": "<:Blue_Lance:1317239378208096338>Kjelle",
       "rhajat": "<:Green_Tome:1317239575352971396>Rhajat",
       "rhajatR": "<:Green_Tome:1317239575352971396>Rhajat (Resplendent)",
-      "sonya2": "<:Green_Tome:1317239575352971396>Harmonic Sonya",
+      "sonya2": "<:Green_Tome:1317239575352971396>Spring Sonya",
       "tharja": "<:Red_Tome:1317239730714316800>Tharja",
       "tharjaR": "<:Red_Tome:1317239730714316800>Tharja (Resplendent)",
       "tharja2": "<:Red_Tome:1317239730714316800>Winter Tharja",
@@ -30331,7 +30458,7 @@
       "freyja": "<:Green_Beast:1317239527953141870>Freyja",
       "freyja2": "<:Colorless_Beast:1317239395534901248>Summer Freyja",
       "freyja3": "<:Colorless_Tome:1317239438602145842>Halloween Freyja",
-      "karla3": "<:Green_Axe:1317239517136031897>Harmonic Karla"
+      "karla3": "<:Green_Axe:1317239517136031897>Spring Karla"
     },
     "name": "Stephanie Southerland"
   },
@@ -30840,7 +30967,7 @@
       "edelgard3": "<:Green_Axe:1317239517136031897>Brave Edelgard",
       "edelgard3R": "<:Green_Axe:1317239517136031897>Brave Edelgard (Resplendent)",
       "edelgard4": "<:Colorless_Beast:1317239395534901248>Fallen Edelgard",
-      "edelgard5": "<:Red_Sword:1317239717707911188>Harmonic Edelgard",
+      "edelgard5": "<:Red_Sword:1317239717707911188>Summer Edelgard",
       "edelgard6": "<:Blue_Lance:1317239378208096338>Winter Edelgard",
       "edelgard7": "<:Green_Axe:1317239517136031897>Valentines Edelgard",
       "edelgard8": "<:Green_Axe:1317239517136031897>Emblem Edelgard",
@@ -30920,7 +31047,7 @@
       "olwen2": "<:Green_Tome:1317239575352971396>Green Olwen",
       "sonya": "<:Green_Tome:1317239575352971396>Sonya",
       "sonyaR": "<:Green_Tome:1317239575352971396>Sonya (Resplendent)",
-      "sonya2": "<:Green_Tome:1317239575352971396>Harmonic Sonya",
+      "sonya2": "<:Green_Tome:1317239575352971396>Spring Sonya",
       "sonya3": "<:Green_Tome:1317239575352971396>Rearmed Sonya"
     },
     "name": "Tara Sands"
@@ -31949,10 +32076,10 @@
       "dorcas": "<:Green_Axe:1317239517136031897>Dorcas",
       "flameemperor": "<:Green_Axe:1317239517136031897>Flame Emperor",
       "idunn": "<:Red_Breath:1317239692189630504>Idunn",
-      "idunn2": "<:Red_Breath:1317239692189630504>Duo Idunn",
+      "idunn2": "<:Red_Breath:1317239692189630504>Spring Idunn",
       "lucina": "<:Red_Sword:1317239717707911188>Lucina",
       "lyn3": "<:Colorless_Bow:1317239404204654703>Brave Lyn",
-      "myrrh3": "<:Colorless_Breath:1317239411980767363>Harmonic Myrrh",
+      "myrrh3": "<:Colorless_Breath:1317239411980767363>Spring Myrrh",
       "nah": "<:Red_Breath:1317239692189630504>Nah",
       "palla": "<:Red_Sword:1317239717707911188>Palla",
       "silas": "<:Blue_Lance:1317239378208096338>Silas",
@@ -32353,7 +32480,7 @@
       "micaiah2": "<:Red_Tome:1317239730714316800>Dancer Micaiah",
       "micaiah3": "<:Green_Tome:1317239575352971396>Brave Micaiah",
       "micaiah3R": "<:Green_Tome:1317239575352971396>Brave Micaiah (Resplendent)",
-      "micaiah4": "<:Colorless_Tome:1317239438602145842>Duo Micaiah",
+      "micaiah4": "<:Colorless_Tome:1317239438602145842>Bridal Micaiah",
       "micaiah5": "<:Colorless_Tome:1317239438602145842>Legendary Micaiah",
       "micaiah6": "<:Colorless_Tome:1317239438602145842>Summer Micaiah",
       "micaiah7": "<:Green_Tome:1317239575352971396>Attuned Micaiah",
@@ -33157,7 +33284,7 @@
       "lyn5": "<:Green_Bow:1317239539936268340>Legendary Lyn",
       "lyn5R": "<:Green_Bow:1317239539936268340>Legendary Lyn (Resplendent)",
       "lyn6": "<:Blue_Bow:1317239347577356328>Summer Lyn",
-      "lyn7": "<:Colorless_Dagger:1317239418943438869>Duo Lyn",
+      "lyn7": "<:Colorless_Dagger:1317239418943438869>Ninja Lyn",
       "lyn8": "<:Blue_Lance:1317239378208096338>Flame Lyn",
       "lyn9": "<:Green_Bow:1317239539936268340>Emblem Lyn",
       "lyn10": "<:Green_Beast:1317239527953141870>Mythic Lyn",
@@ -33165,7 +33292,7 @@
       "maria": "<:Colorless_Staff:1317239426866483261>Maria",
       "maria2": "<:Green_Axe:1317239517136031897>Spring Maria",
       "maria3": "<:Colorless_Staff:1317239426866483261>Fallen Maria",
-      "mark": "<:Blue_Tome:1317239386491977749>Duo Mark",
+      "mark": "<:Blue_Tome:1317239386491977749>Young Mark",
       "sophia": "<:Red_Tome:1317239730714316800>Sophia",
       "sophiaR": "<:Red_Tome:1317239730714316800>Sophia (Resplendent)",
       "sophia2": "<:Blue_Tome:1317239386491977749>Halloween Sophia",
@@ -33173,7 +33300,7 @@
       "veronica": "<:Colorless_Staff:1317239426866483261>Brave Veronica",
       "veronicaR": "<:Colorless_Staff:1317239426866483261>Brave Veronica (Resplendent)",
       "veronica2": "<:Green_Tome:1317239575352971396>Spring Veronica",
-      "veronica3": "<:Green_Axe:1317239517136031897>Harmonic Veronica",
+      "veronica3": "<:Green_Axe:1317239517136031897>Pirate Veronica",
       "veronica4": "<:Blue_Tome:1317239386491977749>Valentines Veronica",
       "veronica5": "<:Red_Tome:1317239730714316800>Legendary Veronica",
       "veronica6": "<:Colorless_Tome:1317239438602145842>Maid Veronica"
@@ -33474,11 +33601,11 @@
       "eir2": "<:Red_Dagger:1317239717707911188>New Year Eir",
       "eir3": "<:Green_Dagger:1317239563697127456>Ascended Eir",
       "eir4": "<:Blue_Dagger:1317239367529529445>Bridal Eir",
-      "hilda3": "<:Colorless_Staff:1317239426866483261>Duo Fodlan Hilda",
+      "hilda3": "<:Colorless_Staff:1317239426866483261>Summer Fodlan Hilda",
       "marianne": "<:Blue_Tome:1317239386491977749>Marianne",
       "marianne2": "<:Colorless_Tome:1317239438602145842>Brave Marianne",
       "marianne3": "<:Red_Tome:1317239730714316800>Rearmed Marianne",
-      "ymir2": "<:Colorless_Tome:1317239438602145842>Duo Ymir"
+      "ymir2": "<:Colorless_Tome:1317239438602145842>Summer Ymir"
     },
     "name": "Xanthe Huynh"
   },
@@ -34358,7 +34485,7 @@
       "mbyleth4": "<:Red_Sword:1317239717707911188>Winter Byleth",
       "mbyleth5": "<:Red_Sword:1317239717707911188>Brave Male Byleth",
       "mbyleth6": "<:Blue_Tome:1317239386491977749>Emblem Byleth",
-      "sothis3": "<:Blue_Breath:1317239355835813939>Duo Sothis"
+      "sothis3": "<:Blue_Breath:1317239355835813939>Halloween Sothis"
     },
     "name": "Zach Aguilar"
   },

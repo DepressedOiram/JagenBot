@@ -370,7 +370,9 @@
             ],
             "A": [],
             "B": [],
-            "C": [],
+            "C": [
+                "Philanderer"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -393,6 +395,7 @@
                 "Laevatein",
                 "Pledged Blade+",
                 "Priming Sword",
+                "Sacred Ambition",
                 "Spirited Sword+",
                 "Suave Blade"
             ],
@@ -716,9 +719,47 @@
             ]
         },
         "reference_hero": {
-            "elincia6": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Duo Eirika",
+            "elincia6": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Young Eirika",
             "goldmary": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary"
         },
+        "HARD_ALT_NAME": []
+    },
+    "cadenza": {
+        "name": "Cadenza",
+        "description": "After combat initiated by unit (after post-combat skills are triggered; before post-action skills and Canto are triggered; Penalty effects that last through unit's action are neutralized), unit can attack foe again once, within a specified distance, regardless of unit's Range.\nUnit suffers a counterattack if any of the following conditions are met: foe can counterattack regardless of unit's Range, unit's Range = foe's Range, or foe's Range is the same as the distance between unit and foe. Skill effect's Range is determined by unit's weapon's Range. Unit's space before movement and unit's remaining movement referenced by the skill remain the same as before Cadenza. Unit cannot move, use Style, or attack structures; unit's area-of-effect Specials cannot be triggered, and after-combat movement effects do not occur. If unit uses Cadenza on foe that is within range of another Cadenza effect, Cadenza is treated as if having been triggered, including the other effect. Only highest value applied; does not stack. Does not trigger when affected by effects of Foresight Snare or traps in Aether Raids. Cadenza can be used only once per turn for player team in Summoner Duels. Does not trigger in Pawns of Loki.",
+        "color": "Red",
+        "icon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [
+                    "Mirage Excalibur"
+                ],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Crusader's Heir"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
         "HARD_ALT_NAME": []
     },
     "cancelaffinity": {
@@ -768,7 +809,7 @@
             "Cancel Affinity"
         ]
     },
-    "canto\uff11": {
+    "canto1": {
         "name": "Canto (\uff11)",
         "description": "After an attack, Assist skill, or structure destruction, unit can move \uff11 space(s).",
         "color": "Colorless",
@@ -878,10 +919,12 @@
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Canto 1",
-            "Canto (1)"
+            "Canto (1)",
+            "Canto \uff11",
+            "Canto (\uff11)"
         ]
     },
-    "canto\uff12": {
+    "canto2": {
         "name": "Canto (\uff12)",
         "description": "After an attack, Assist skill, or structure destruction, unit can move \uff12 space(s).",
         "color": "Colorless",
@@ -938,7 +981,8 @@
                     "Icy Fimbulvetr"
                 ],
                 "Green_Tome": [
-                    "Grim Brokkr"
+                    "Grim Brokkr",
+                    "Mirage Excalibur"
                 ],
                 "Colorless_Tome": []
             },
@@ -996,10 +1040,12 @@
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Canto 2",
-            "Canto (2)"
+            "Canto (2)",
+            "Canto \uff12",
+            "Canto (\uff12)"
         ]
     },
-    "canto\uff13": {
+    "canto3": {
         "name": "Canto (\uff13)",
         "description": "After an attack, Assist skill, or structure destruction, unit can move \uff13 space(s).",
         "color": "Colorless",
@@ -1032,7 +1078,9 @@
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Canto 3",
-            "Canto (3)"
+            "Canto (3)",
+            "Canto \uff13",
+            "Canto (\uff13)"
         ]
     },
     "cantocontrol": {
@@ -1411,7 +1459,8 @@
                 "Red_Tome": [],
                 "Blue_Tome": [
                     "Gift of Love",
-                    "Gr\u00f3a"
+                    "Gr\u00f3a",
+                    "Masterful Aura"
                 ],
                 "Green_Tome": [],
                 "Colorless_Tome": [
@@ -1456,6 +1505,7 @@
             "Sword": [
                 "Oath Tyrfing",
                 "Priming Sword",
+                "Sacred Ambition",
                 "Teatime's Edge",
                 "Young Lion Edge"
             ],
@@ -1463,7 +1513,8 @@
                 "Apprentice Lance",
                 "Chosen Lance",
                 "Haulin' Harpoon",
-                "Ilian Greatlance"
+                "Ilian Greatlance",
+                "Lance of Ruin"
             ],
             "Axe": [
                 "Axe of Dusk",
@@ -1526,6 +1577,36 @@
         "HARD_ALT_NAME": [
             "Canto Dist +1; Max 4",
             "Canto (Dist +1; Max 4)"
+        ]
+    },
+    "cantodistmax4min2": {
+        "name": "Canto (Dist.; Max \uff14, Min \uff12)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position unit moved prior to taking action (max \uff14 min \uff12; if unit used a movement skill that warped them, unit can move \uff12 space(s).)",
+        "color": "Colorless",
+        "icon": "canto",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": [
+                    "Threefold Hymn"
+                ]
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Canto Dist; Max 4; Min 2",
+            "Canto (Dist; Max 4, Min 2)"
         ]
     },
     "cantodist2max5": {
@@ -2239,7 +2320,9 @@
         "color": "Green",
         "icon": "defliberate",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "Sacred Ambition"
+            ],
             "Lance": [
                 "Beach Umbrella"
             ],
@@ -3139,7 +3222,8 @@
         },
         "reference_skill": {
             "assist": [
-                "Songful Essence"
+                "Songful Essence",
+                "Yours to Climb"
             ],
             "special": [],
             "A": [],
@@ -3964,7 +4048,9 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Masterful Aura"
+                ],
                 "Green_Tome": [],
                 "Colorless_Tome": [
                     "Uniting Bouquet"
@@ -4011,7 +4097,9 @@
             "Sword": [
                 "Deliverer's Brand"
             ],
-            "Lance": [],
+            "Lance": [
+                "Lance of Ruin"
+            ],
             "Axe": [
                 "Black Eagle Axe",
                 "Ilian Battleaxe"
@@ -4129,6 +4217,7 @@
             "assist": [],
             "special": [
                 "Ascendant King",
+                "Crusader's Heir",
                 "Holy-Knight Glow"
             ],
             "A": [],
@@ -4923,7 +5012,24 @@
         "description": "If a magic, staff, or dragon foe initiates combat against an ally within 2 spaces of unit, triggers Savior on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable \"Savior\" effects to trigger, Savior will not trigger).\nIf foe uses magic, staff, or dragon damage, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), and any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat during combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
         "color": "Colorless",
         "icon": "magictwinsave",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [
+                    "Masterful Aura"
+                ],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -5009,10 +5115,12 @@
                 "Call to Flame",
                 "Changing Waters",
                 "Gray Waves",
-                "Gray Waves II"
+                "Gray Waves II",
+                "Yours to Climb"
             ],
             "special": [
                 "Chivalric Aura",
+                "Crusader's Heir",
                 "Holy-Knight Aura",
                 "Holy-Knight II"
             ],
@@ -5055,7 +5163,7 @@
             ]
         },
         "reference_hero": {
-            "ayra2": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Harmonic Ayra",
+            "ayra2": "<:feh_harmonized:1317239586929377371><:Red_Sword:1317239717707911188>Maid Ayra",
             "ephraim5": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>Duo Ephraim",
             "hapi2": "<:feh_duo:1317239462874578975><:Blue_Tome:1317239386491977749>Summer Hapi",
             "ingrid4": "<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Maid Ingrid",
@@ -5955,6 +6063,7 @@
                 "Atk/Res Unrest",
                 "Spd/Res Unrest",
                 "Full Disarm",
+                "Demonic Shackle",
                 "Deadly Balance",
                 "Deadly Balance+",
                 "Divine Brawn",
@@ -6002,6 +6111,27 @@
             "tiki10": "<:feh_harmonized:1317239586929377371><:Colorless_Breath:1317239411980767363>Bridal Adult Tiki",
             "ymir2": "<:feh_duo:1317239462874578975><:Colorless_Tome:1317239438602145842>Summer Ymir"
         }
+    },
+    "perform": {
+        "name": "Perform",
+        "description": "After unit acts (if Canto triggers, after Canto; including cases where action is ended due to Canto Control), grants another action to unit, and if Canto has already been triggered, re-enables Canto (does not trigger when another effect that grants another action to unit has been triggered).\nAfter the above effect has been triggered, cancels Perform granted to your army (including Pair Up cohorts).\n(This status cannot be granted to Heroes with Sing or Dance.)",
+        "color": "Blue",
+        "icon": "perform",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [
+                "Yours to Climb"
+            ],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
     },
     "phantom": {
         "name": "Phantom",
@@ -6169,6 +6299,7 @@
                 "Tunnel Vision"
             ],
             "B": [
+                "No Risk...",
                 "Patience",
                 "Blue-Sky Wyvern",
                 "Potent Disarm",
@@ -6225,7 +6356,8 @@
                 "Red_Tome": [],
                 "Blue_Tome": [
                     "Gift of Love",
-                    "Instructor's Opus"
+                    "Instructor's Opus",
+                    "Masterful Aura"
                 ],
                 "Green_Tome": [
                     "Gla\u00f0sb\u00f3k",
@@ -6268,7 +6400,9 @@
             ],
             "C": [
                 "Budding Flower",
-                "New Way II"
+                "I'll Soar Higher!",
+                "New Way II",
+                "Philanderer"
             ],
             "X": [
                 "Puissant Echo"
@@ -7020,7 +7154,8 @@
             "A": [],
             "B": [
                 "Spd/Res Shackle",
-                "Def/Res Shackle"
+                "Def/Res Shackle",
+                "Demonic Shackle"
             ],
             "C": [],
             "X": [],
@@ -7042,6 +7177,7 @@
             ],
             "Lance": [
                 "Disguise Lance",
+                "Lance of Ruin",
                 "Teatime Lance"
             ],
             "Axe": [
@@ -7441,6 +7577,7 @@
             "B": [],
             "C": [
                 "Shadow Smite 4",
+                "Shadow Rush X",
                 "Covetous One"
             ],
             "X": [],
@@ -7714,6 +7851,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Crusader's Heir",
                 "Holy-Knight Glow"
             ],
             "A": [],
@@ -7751,7 +7889,8 @@
                 "Chosen Lance",
                 "Godly Devices",
                 "Guiding Lance",
-                "Holy Gradivus"
+                "Holy Gradivus",
+                "Lance of Ruin"
             ],
             "Axe": [
                 "Bolt Axe",
@@ -7774,7 +7913,9 @@
                     "Dark Faith",
                     "Spring Dawning"
                 ],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Masterful Aura"
+                ],
                 "Green_Tome": [
                     "Godly Infusions",
                     "Morph Fimbulvetr",
@@ -7792,7 +7933,9 @@
             ]
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Yours to Climb"
+            ],
             "special": [
                 "Astra Storm"
             ],
@@ -8150,7 +8293,8 @@
         "reference_weapon": {
             "Sword": [
                 "Ilian Longsword",
-                "Oath Tyrfing"
+                "Oath Tyrfing",
+                "Sacred Ambition"
             ],
             "Lance": [
                 "Arcane Thorn"
@@ -8231,6 +8375,27 @@
                 "Severance",
                 "Severance+"
             ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
+    "union": {
+        "name": "Union",
+        "description": "Grants Atk/Spd/Def/Res+X to unit during combat (X = number of allies on the map with Union active, including unit, \u00d7 2; max 8).\nIf a Rally or movement Assist skill is used by unit or targets unit, grants Union to target ally or targeting ally for 1 turn.\nIf unit initiates combat, grants Union to allies within 3 spaces of unit after combat for 1 turn.\nIf ally within 3 spaces of unit initiates combat, grants Union to that ally after their combat for 1 turn.",
+        "color": "Red",
+        "icon": "union",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [
+                "Spd/Def Union"
+            ],
+            "C": [],
             "X": [],
             "S": [],
             "captain": []
