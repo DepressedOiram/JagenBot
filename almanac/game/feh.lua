@@ -1458,9 +1458,7 @@ Keyword.section = almanac.get("database/feh/keyword.json")
 
 function Keyword:show()
     local pagebox = Pagebox:new()
-    local descbox = Infobox:new({title = self.data.name})
-    local descbox_desc = string.format("%s", self.data.description)
-    descbox:insert("", descbox_desc)
+    local descbox = Infobox:new({title = self.data.name, desc = self.data.description})
     descbox:image("thumbnail", self:get_portrait())
     
     pagebox:page(descbox)
