@@ -722,9 +722,6 @@ Skill.section = almanac.get("database/fe16/skill.json")
 function Skill:get_name()
     local name = self.data.name
     
-    -- Hide Prowess bc it's too big and ppl only type [Something] Lv. 3
-    local start_index, end_index = string.find(name, " Prowess ", 1, true)
-    
     if start_index ~= nil then
         name = name:sub(1, start_index) .. name:sub(end_index, #name)
     end

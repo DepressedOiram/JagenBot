@@ -51,7 +51,11 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 1 Inheritance)"
     },
-    "icon": "5"
+    "icon": "5",
+    "ALT_NAME": [
+      "Str 1",
+      "Str +1"
+    ]
   },
   "strength2": {
     "name": "Strength +2",
@@ -60,7 +64,11 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 2 Inheritance)"
     },
-    "icon": "6"
+    "icon": "6",
+    "ALT_NAME": [
+      "Str 2",
+      "Str +2"
+    ]
   },
   "strength3": {
     "name": "Strength +3",
@@ -69,7 +77,11 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 9 Inheritance)"
     },
-    "icon": "7"
+    "icon": "7",
+    "ALT_NAME": [
+      "Str 3",
+      "Str +3"
+    ]
   },
   "strength4": {
     "name": "Strength +4",
@@ -78,7 +90,11 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 14 Inheritance)"
     },
-    "icon": "8"
+    "icon": "8",
+    "ALT_NAME": [
+      "Str 4",
+      "Str +4"
+    ]
   },
   "strength5": {
     "name": "Strength +5",
@@ -87,7 +103,11 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 17 Inheritance)"
     },
-    "icon": "9"
+    "icon": "9",
+    "ALT_NAME": [
+      "Str 5",
+      "Str +5"
+    ]
   },
   "strength6": {
     "name": "Strength +6",
@@ -96,7 +116,11 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 19 Inheritance)"
     },
-    "icon": "10"
+    "icon": "10",
+    "ALT_NAME": [
+      "Str 6",
+      "Str +6"
+    ]
   },
   "dexterity1": {
     "name": "Dexterity +1",
@@ -105,7 +129,11 @@
     "reference": {
       "Emblem Ring": "Lucina (Lv. 1 Inheritance)"
     },
-    "icon": "11"
+    "icon": "11",
+    "ALT_NAME": [
+      "Dex 1",
+      "Dex +1"
+    ]
   },
   "dexterity2": {
     "name": "Dexterity +2",
@@ -114,7 +142,11 @@
     "reference": {
       "Emblem Ring": "Lucina (Lv. 2 Inheritance)"
     },
-    "icon": "12"
+    "icon": "12",
+    "ALT_NAME": [
+      "Dex 2",
+      "Dex +2"
+    ]
   },
   "dexterity3": {
     "name": "Dexterity +3",
@@ -123,7 +155,11 @@
     "reference": {
       "Emblem Ring": "Lucina (Lv. 9 Inheritance)"
     },
-    "icon": "13"
+    "icon": "13",
+    "ALT_NAME": [
+      "Dex 3",
+      "Dex +3"
+    ]
   },
   "dexterity4": {
     "name": "Dexterity +4",
@@ -132,7 +168,11 @@
     "reference": {
       "Emblem Ring": "Lucina (Lv. 16 Inheritance)"
     },
-    "icon": "14"
+    "icon": "14",
+    "ALT_NAME": [
+      "Dex 4",
+      "Dex +4"
+    ]
   },
   "dexterity5": {
     "name": "Dexterity +5",
@@ -141,7 +181,11 @@
     "reference": {
       "Emblem Ring": "Lucina (Lv. 19 Inheritance)"
     },
-    "icon": "15"
+    "icon": "15",
+    "ALT_NAME": [
+      "Dex 5",
+      "Dex +5"
+    ]
   },
   "speed1": {
     "name": "Speed +1",
@@ -150,7 +194,11 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 1 Inheritance)"
     },
-    "icon": "16"
+    "icon": "16",
+    "ALT_NAME": [
+      "Spd 1",
+      "Spd +1"
+    ]
   },
   "speed2": {
     "name": "Speed +2",
@@ -159,7 +207,11 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 2 Inheritance)"
     },
-    "icon": "17"
+    "icon": "17",
+    "ALT_NAME": [
+      "Spd 2",
+      "Spd +2"
+    ]
   },
   "speed3": {
     "name": "Speed +3",
@@ -168,7 +220,11 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 9 Inheritance)"
     },
-    "icon": "18"
+    "icon": "18",
+    "ALT_NAME": [
+      "Spd 3",
+      "Spd +3"
+    ]
   },
   "speed4": {
     "name": "Speed +4",
@@ -177,7 +233,11 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 16 Inheritance)"
     },
-    "icon": "19"
+    "icon": "19",
+    "ALT_NAME": [
+      "Spd 4",
+      "Spd +4"
+    ]
   },
   "speed5": {
     "name": "Speed +5",
@@ -186,7 +246,11 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 19 Inheritance)"
     },
-    "icon": "20"
+    "icon": "20",
+    "ALT_NAME": [
+      "Spd 5",
+      "Spd +5"
+    ]
   },
   "luck2": {
     "name": "Luck +2",
@@ -195,7 +259,11 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 1 Inheritance)"
     },
-    "icon": "21"
+    "icon": "21",
+    "ALT_NAME": [
+      "Lck 2",
+      "Lck +2"
+    ]
   },
   "luck4": {
     "name": "Luck +4",
@@ -204,7 +272,11 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 2 Inheritance)"
     },
-    "icon": "22"
+    "icon": "22",
+    "ALT_NAME": [
+      "Lck 4",
+      "Lck +4"
+    ]
   },
   "luck6": {
     "name": "Luck +6",
@@ -213,7 +285,11 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 8 Inheritance)"
     },
-    "icon": "23"
+    "icon": "23",
+    "ALT_NAME": [
+      "Lck 6",
+      "Lck +6"
+    ]
   },
   "luck8": {
     "name": "Luck +8",
@@ -222,7 +298,11 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 16 Inheritance)"
     },
-    "icon": "24"
+    "icon": "24",
+    "ALT_NAME": [
+      "Lck 8",
+      "Lck +8"
+    ]
   },
   "luck10": {
     "name": "Luck +10",
@@ -231,7 +311,11 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 17 Inheritance)"
     },
-    "icon": "25"
+    "icon": "25",
+    "ALT_NAME": [
+      "Lck 10",
+      "Lck +10"
+    ]
   },
   "luck12": {
     "name": "Luck +12",
@@ -240,7 +324,11 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 19 Inheritance)"
     },
-    "icon": "26"
+    "icon": "26",
+    "ALT_NAME": [
+      "Lck 12",
+      "Lck +12"
+    ]
   },
   "defense1": {
     "name": "Defense +1",
@@ -249,7 +337,11 @@
     "reference": {
       "Emblem Ring": "Ike (Lv. 1 Inheritance)"
     },
-    "icon": "27"
+    "icon": "27",
+    "ALT_NAME": [
+      "Def 1",
+      "Def +1"
+    ]
   },
   "defense2": {
     "name": "Defense +2",
@@ -258,7 +350,11 @@
     "reference": {
       "Emblem Ring": "Ike (Lv. 2 Inheritance)"
     },
-    "icon": "28"
+    "icon": "28",
+    "ALT_NAME": [
+      "Def 2",
+      "Def +2"
+    ]
   },
   "defense3": {
     "name": "Defense +3",
@@ -267,7 +363,11 @@
     "reference": {
       "Emblem Ring": "Ike (Lv. 8 Inheritance)"
     },
-    "icon": "29"
+    "icon": "29",
+    "ALT_NAME": [
+      "Def 3",
+      "Def +3"
+    ]
   },
   "defense4": {
     "name": "Defense +4",
@@ -276,7 +376,11 @@
     "reference": {
       "Emblem Ring": "Ike (Lv. 16 Inheritance)"
     },
-    "icon": "30"
+    "icon": "30",
+    "ALT_NAME": [
+      "Def 4",
+      "Def +4"
+    ]
   },
   "defense5": {
     "name": "Defense +5",
@@ -285,7 +389,11 @@
     "reference": {
       "Emblem Ring": "Ike (Lv. 19 Inheritance)"
     },
-    "icon": "31"
+    "icon": "31",
+    "ALT_NAME": [
+      "Def 5",
+      "Def +5"
+    ]
   },
   "magic2": {
     "name": "Magic +2",
@@ -294,7 +402,11 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 1 Inheritance)"
     },
-    "icon": "32"
+    "icon": "32",
+    "ALT_NAME": [
+      "Mag 2",
+      "Mag +2"
+    ]
   },
   "magic3": {
     "name": "Magic +3",
@@ -303,7 +415,11 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 2 Inheritance)"
     },
-    "icon": "33"
+    "icon": "33",
+    "ALT_NAME": [
+      "Mag 3",
+      "Mag +3"
+    ]
   },
   "magic4": {
     "name": "Magic +4",
@@ -312,7 +428,11 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 13 Inheritance)"
     },
-    "icon": "34"
+    "icon": "34",
+    "ALT_NAME": [
+      "Mag 4",
+      "Mag +4"
+    ]
   },
   "magic5": {
     "name": "Magic +5",
@@ -321,7 +441,11 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 19 Inheritance)"
     },
-    "icon": "35"
+    "icon": "35",
+    "ALT_NAME": [
+      "Mag 5",
+      "Mag +5"
+    ]
   },
   "resistance2": {
     "name": "Resistance +2",
@@ -330,7 +454,11 @@
     "reference": {
       "Emblem Ring": "Micaiah (Lv. 1 Inheritance)"
     },
-    "icon": "36"
+    "icon": "36",
+    "ALT_NAME": [
+      "Res 2",
+      "Res +2"
+    ]
   },
   "resistance3": {
     "name": "Resistance +3",
@@ -339,7 +467,11 @@
     "reference": {
       "Emblem Ring": "Micaiah (Lv. 4 Inheritance)"
     },
-    "icon": "37"
+    "icon": "37",
+    "ALT_NAME": [
+      "Res 3",
+      "Res +3"
+    ]
   },
   "resistance4": {
     "name": "Resistance +4",
@@ -348,7 +480,11 @@
     "reference": {
       "Emblem Ring": "Micaiah (Lv. 14 Inheritance)"
     },
-    "icon": "38"
+    "icon": "38",
+    "ALT_NAME": [
+      "Res 4",
+      "Res +4"
+    ]
   },
   "resistance5": {
     "name": "Resistance +5",
@@ -357,7 +493,11 @@
     "reference": {
       "Emblem Ring": "Micaiah (Lv. 19 Inheritance)"
     },
-    "icon": "39"
+    "icon": "39",
+    "ALT_NAME": [
+      "Res 5",
+      "Res +5"
+    ]
   },
   "build3": {
     "name": "Build +3",
@@ -366,7 +506,11 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 1 Inheritance)"
     },
-    "icon": "40"
+    "icon": "40",
+    "ALT_NAME": [
+      "Bld 3",
+      "Bld +3"
+    ]
   },
   "build4": {
     "name": "Build +4",
@@ -375,7 +519,11 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 6 Inheritance)"
     },
-    "icon": "41"
+    "icon": "41",
+    "ALT_NAME": [
+      "Bld 4",
+      "Bld +4"
+    ]
   },
   "build5": {
     "name": "Build +5",
@@ -384,14 +532,22 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 14 Inheritance)"
     },
-    "icon": "42"
+    "icon": "42",
+    "ALT_NAME": [
+      "Bld 5",
+      "Bld +5"
+    ]
   },
   "movement1": {
     "name": "Movement +1",
     "desc": "Grants Mov+1.",
     "cost": 0,
     "reference": {},
-    "icon": "43"
+    "icon": "43",
+    "ALT_NAME": [
+      "Mov 1",
+      "Mov +1"
+    ]
   },
   "poisonstrike": {
     "name": "Poison Strike",
@@ -461,35 +617,50 @@
     "desc": "If unit initiates combat, inflicts Str-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
     "cost": 0,
     "reference": {},
-    "icon": "53"
+    "icon": "53",
+    "ALT_NAME": [
+      "Seal Str"
+    ]
   },
   "sealmagic": {
     "name": "Seal Magic",
     "desc": "If unit initiates combat, inflicts Mag-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
     "cost": 0,
     "reference": {},
-    "icon": "54"
+    "icon": "54",
+    "ALT_NAME": [
+      "Seal Mag"
+    ]
   },
   "sealdefense": {
     "name": "Seal Defense",
     "desc": "If unit initiates combat, inflicts Def-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
     "cost": 0,
     "reference": {},
-    "icon": "55"
+    "icon": "55",
+    "ALT_NAME": [
+      "Seal Def"
+    ]
   },
   "sealspeed": {
     "name": "Seal Speed",
     "desc": "If unit initiates combat, inflicts Spd-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
     "cost": 0,
     "reference": {},
-    "icon": "56"
+    "icon": "56",
+    "ALT_NAME": [
+      "Seal Spd"
+    ]
   },
   "sealresistance": {
     "name": "Seal Resistance",
     "desc": "If unit initiates combat, inflicts Res-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
     "cost": 0,
     "reference": {},
-    "icon": "57"
+    "icon": "57",
+    "ALT_NAME": [
+      "Seal Res"
+    ]
   },
   "fiercestance": {
     "name": "Fierce Stance",
@@ -524,7 +695,11 @@
     "desc": "Unit deals +10 damage and takes +10 damage during combat.",
     "cost": 0,
     "reference": {},
-    "icon": "62"
+    "icon": "62",
+    "ALT_NAME": [
+      "Life & Death",
+      "Life Death"
+    ]
   },
   "triangleadept": {
     "name": "Triangle Adept",
@@ -657,21 +832,30 @@
     "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 70% of damage to unit.",
     "cost": 0,
     "reference": {},
-    "icon": "81"
+    "icon": "81",
+    "ALT_NAME": [
+      "Fell Barrier Plus"
+    ]
   },
   "fellbarrier++": {
     "name": "Fell Barrier++",
     "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 85% of damage to unit.",
     "cost": 0,
     "reference": {},
-    "icon": "82"
+    "icon": "82",
+    "ALT_NAME": [
+      "Fell Barrier Plus Plus"
+    ]
   },
   "fellbarrier+++": {
     "name": "Fell Barrier+++",
     "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents all damage to unit.",
     "cost": 0,
     "reference": {},
-    "icon": "83"
+    "icon": "83",
+    "ALT_NAME": [
+      "Fell Barrier Plus Plus Plus"
+    ]
   },
   "darkbarrier": {
     "name": "Dark Barrier",
@@ -685,21 +869,30 @@
     "desc": "A barrier created by Dark Emblems. Prevents 40% of damage to unit.",
     "cost": 0,
     "reference": {},
-    "icon": "85"
+    "icon": "85",
+    "ALT_NAME": [
+      "Dark Barrier Plus"
+    ]
   },
   "darkbarrier++": {
     "name": "Dark Barrier++",
     "desc": "A barrier created by Dark Emblems. Prevents 60% of damage to unit.",
     "cost": 0,
     "reference": {},
-    "icon": "86"
+    "icon": "86",
+    "ALT_NAME": [
+      "Dark Barrier Plus Plus"
+    ]
   },
   "darkbarrier+++": {
     "name": "Dark Barrier+++",
     "desc": "A barrier created by Dark Emblems. Prevents 80% of damage to unit.",
     "cost": 0,
     "reference": {},
-    "icon": "87"
+    "icon": "87",
+    "ALT_NAME": [
+      "Dark Barrier Plus Plus Plus"
+    ]
   },
   "bondbreaker": {
     "name": "Bond Breaker",
@@ -715,7 +908,11 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 1 Inheritance)"
     },
-    "icon": "89"
+    "icon": "89",
+    "ALT_NAME": [
+      "Avo 10",
+      "Avo +10"
+    ]
   },
   "avoid15": {
     "name": "Avoid +15",
@@ -724,7 +921,11 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 4 Inheritance)"
     },
-    "icon": "90"
+    "icon": "90",
+    "ALT_NAME": [
+      "Avo 15",
+      "Avo +15"
+    ]
   },
   "avoid20": {
     "name": "Avoid +20",
@@ -733,7 +934,11 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 9 Inheritance)"
     },
-    "icon": "91"
+    "icon": "91",
+    "ALT_NAME": [
+      "Avo 20",
+      "Avo +20"
+    ]
   },
   "avoid25": {
     "name": "Avoid +25",
@@ -742,7 +947,11 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 14 Inheritance)"
     },
-    "icon": "92"
+    "icon": "92",
+    "ALT_NAME": [
+      "Avo 25",
+      "Avo +25"
+    ]
   },
   "avoid30": {
     "name": "Avoid +30",
@@ -751,7 +960,11 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 19 Inheritance)"
     },
-    "icon": "93"
+    "icon": "93",
+    "ALT_NAME": [
+      "Avo 30",
+      "Avo +30"
+    ]
   },
   "hit10": {
     "name": "Hit +10",
@@ -805,7 +1018,11 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 1 Inheritance)\nEphraim (Lv. 1 Inheritance)"
     },
-    "icon": "99"
+    "icon": "99",
+    "ALT_NAME": [
+      "Ddg 10",
+      "Ddg +10"
+    ]
   },
   "dodge15": {
     "name": "Dodge +15",
@@ -814,7 +1031,11 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 4 Inheritance)\nEphraim (Lv. 4 Inheritance)"
     },
-    "icon": "100"
+    "icon": "100",
+    "ALT_NAME": [
+      "Ddg 15",
+      "Ddg +15"
+    ]
   },
   "dodge20": {
     "name": "Dodge +20",
@@ -823,7 +1044,11 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 8 Inheritance)\nEphraim (Lv. 8 Inheritance)"
     },
-    "icon": "101"
+    "icon": "101",
+    "ALT_NAME": [
+      "Ddg 20",
+      "Ddg +20"
+    ]
   },
   "dodge25": {
     "name": "Dodge +25",
@@ -832,7 +1057,11 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 14 Inheritance)\nEphraim (Lv. 14 Inheritance)"
     },
-    "icon": "102"
+    "icon": "102",
+    "ALT_NAME": [
+      "Ddg 25",
+      "Ddg +25"
+    ]
   },
   "dodge30": {
     "name": "Dodge +30",
@@ -841,7 +1070,11 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 19 Inheritance)\nEphraim (Lv. 19 Inheritance)"
     },
-    "icon": "103"
+    "icon": "103",
+    "ALT_NAME": [
+      "Ddg 30",
+      "Ddg +30"
+    ]
   },
   "swordagility1": {
     "name": "Sword Agility 1",
@@ -1399,7 +1632,10 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 16 Sync)\nMarth (Lv. 16 Inheritance)"
     },
-    "icon": "165"
+    "icon": "165",
+    "ALT_NAME": [
+      "Perceptive Plus"
+    ]
   },
   "breakdefenses": {
     "name": "Break Defenses",
@@ -1426,7 +1662,10 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 12 Sync)\nMarth (Lv. 12 Inheritance)"
     },
-    "icon": "168"
+    "icon": "168",
+    "ALT_NAME": [
+      "Unyielding Plus"
+    ]
   },
   "unyielding++": {
     "name": "Unyielding++",
@@ -1435,7 +1674,10 @@
     "reference": {
       "Emblem Ring": "Marth (Lv. 18 Sync)\nMarth (Lv. 18 Inheritance)"
     },
-    "icon": "169"
+    "icon": "169",
+    "ALT_NAME": [
+      "Unyielding Plus Plus"
+    ]
   },
   "divinespeed": {
     "name": "Divine Speed",
@@ -1471,7 +1713,10 @@
     "reference": {
       "Emblem Ring": "Sigurd (Lv. 13 Sync)\nSigurd (Lv. 13 Inheritance)"
     },
-    "icon": "173"
+    "icon": "173",
+    "ALT_NAME": [
+      "Canter Plus"
+    ]
   },
   "momentum": {
     "name": "Momentum",
@@ -1489,7 +1734,10 @@
     "reference": {
       "Emblem Ring": "Sigurd (Lv. 17 Sync)\nSigurd (Lv. 17 Inheritance)"
     },
-    "icon": "175"
+    "icon": "175",
+    "ALT_NAME": [
+      "Momentum Plus"
+    ]
   },
   "headlongrush": {
     "name": "Headlong Rush",
@@ -1541,7 +1789,10 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 12 Sync)\nCelica (Lv. 12 Inheritance)"
     },
-    "icon": "180"
+    "icon": "180",
+    "ALT_NAME": [
+      "Holy Stance Plus"
+    ]
   },
   "holystance++": {
     "name": "Holy Stance++",
@@ -1550,7 +1801,10 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 18 Sync)\nCelica (Lv. 18 Inheritance)"
     },
-    "icon": "181"
+    "icon": "181",
+    "ALT_NAME": [
+      "Holy Stance Plus Plus"
+    ]
   },
   "unholystance": {
     "name": "Unholy Stance",
@@ -1575,7 +1829,10 @@
     "reference": {
       "Emblem Ring": "Celica (Lv. 16 Sync)\nCelica (Lv. 16 Inheritance)"
     },
-    "icon": "183"
+    "icon": "183",
+    "ALT_NAME": [
+      "Resonance Plus"
+    ]
   },
   "favoritefood": {
     "name": "Favorite Food",
@@ -1634,7 +1891,10 @@
     "reference": {
       "Emblem Ring": "Micaiah (Lv. 13 Sync)"
     },
-    "icon": "188"
+    "icon": "188",
+    "ALT_NAME": [
+      "Cleric Plus"
+    ]
   },
   "cleric++": {
     "name": "Cleric++",
@@ -1643,7 +1903,10 @@
     "reference": {
       "Emblem Ring": "Micaiah (Lv. 18 Sync)"
     },
-    "icon": "189"
+    "icon": "189",
+    "ALT_NAME": [
+      "Cleric Plus Plus"
+    ]
   },
   "silenceward": {
     "name": "Silence Ward",
@@ -1704,7 +1967,10 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 8 Sync)\nRoy (Lv. 8 Inheritance)"
     },
-    "icon": "195"
+    "icon": "195",
+    "ALT_NAME": [
+      "Hold Out Plus"
+    ]
   },
   "holdout++": {
     "name": "Hold Out++",
@@ -1713,7 +1979,10 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 13 Sync)\nRoy (Lv. 13 Inheritance)"
     },
-    "icon": "196"
+    "icon": "196",
+    "ALT_NAME": [
+      "Hold Out Plus Plus"
+    ]
   },
   "holdout+++": {
     "name": "Hold Out+++",
@@ -1722,7 +1991,10 @@
     "reference": {
       "Emblem Ring": "Roy (Lv. 18 Sync)\nRoy (Lv. 18 Inheritance)"
     },
-    "icon": "197"
+    "icon": "197",
+    "ALT_NAME": [
+      "Hold Out Plus Plus Plus"
+    ]
   },
   "advance": {
     "name": "Advance",
@@ -1774,7 +2046,10 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 7 Sync)\nLeif (Lv. 7 Inheritance)"
     },
-    "icon": "202"
+    "icon": "202",
+    "ALT_NAME": [
+      "Arms Shield Plus"
+    ]
   },
   "armsshield++": {
     "name": "Arms Shield++",
@@ -1783,7 +2058,10 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 16 Sync)\nLeif (Lv. 16 Inheritance)"
     },
-    "icon": "203"
+    "icon": "203",
+    "ALT_NAME": [
+      "Arms Shield Plus Plus"
+    ]
   },
   "vantage": {
     "name": "Vantage",
@@ -1801,7 +2079,10 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 12 Sync)\nLeif (Lv. 12 Inheritance)"
     },
-    "icon": "205"
+    "icon": "205",
+    "ALT_NAME": [
+      "Vantage Plus"
+    ]
   },
   "vantage++": {
     "name": "Vantage++",
@@ -1810,7 +2091,10 @@
     "reference": {
       "Emblem Ring": "Leif (Lv. 18 Sync)\nLeif (Lv. 18 Inheritance)"
     },
-    "icon": "206"
+    "icon": "206",
+    "ALT_NAME": [
+      "Vantage Plus Plus"
+    ]
   },
   "adaptable": {
     "name": "Adaptable",
@@ -1855,7 +2139,10 @@
     "reference": {
       "Emblem Ring": "Lucina (Lv. 18 Sync)\nLucina (Lv. 18 Inheritance)"
     },
-    "icon": "211"
+    "icon": "211",
+    "ALT_NAME": [
+      "Dual Assist Plus"
+    ]
   },
   "dualsupport": {
     "name": "Dual Support",
@@ -1900,7 +2187,10 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 13 Sync)\nLyn (Lv. 13 Inheritance)"
     },
-    "icon": "216"
+    "icon": "216",
+    "ALT_NAME": [
+      "Alacrity Plus"
+    ]
   },
   "alacrity++": {
     "name": "Alacrity++",
@@ -1909,7 +2199,10 @@
     "reference": {
       "Emblem Ring": "Lyn (Lv. 18 Sync)\nLyn (Lv. 18 Inheritance)"
     },
-    "icon": "217"
+    "icon": "217",
+    "ALT_NAME": [
+      "Alacrity Plus Plus"
+    ]
   },
   "speedtaker": {
     "name": "Speedtaker",
@@ -1981,7 +2274,10 @@
     "reference": {
       "Emblem Ring": "Ike (Lv. 18 Sync)\nIke (Lv. 18 Inheritance)"
     },
-    "icon": "225"
+    "icon": "225",
+    "ALT_NAME": [
+      "Resolve Plus"
+    ]
   },
   "laguzfriend": {
     "name": "Laguz Friend",
@@ -2017,7 +2313,10 @@
     "reference": {
       "Emblem Ring": "Byleth (Lv. 18 Sync)\nByleth (Lv. 18 Inheritance)"
     },
-    "icon": "229"
+    "icon": "229",
+    "ALT_NAME": [
+      "Divine Pulse Plus"
+    ]
   },
   "mentorship": {
     "name": "Mentorship",
@@ -2105,7 +2404,10 @@
     "reference": {
       "Emblem Ring": "Corrin (Lv. 18 Sync)\nCorrin (Lv. 18 Inheritance)"
     },
-    "icon": "238"
+    "icon": "238",
+    "ALT_NAME": [
+      "Quality Time Plus"
+    ]
   },
   "dreadfulaura": {
     "name": "Dreadful Aura",
@@ -2175,7 +2477,10 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 13 Sync)\nEirika (Lv. 13 Inheritance)"
     },
-    "icon": "246"
+    "icon": "246",
+    "ALT_NAME": [
+      "Lunar Brace Plus"
+    ]
   },
   "solarbrace+": {
     "name": "Solar Brace+",
@@ -2184,14 +2489,20 @@
     "reference": {
       "Emblem Ring": "Ephraim (Lv. 13 Sync)\nEphraim (Lv. 13 Inheritance)"
     },
-    "icon": "247"
+    "icon": "247",
+    "ALT_NAME": [
+      "Solar Brace Plus"
+    ]
   },
   "eclipsebrace+": {
     "name": "Eclipse Brace+",
     "desc": "If unit initiates combat, unit deals extra damage=30% of foe's Def with physical attacks and recovers HP=50% of damage dealt.",
     "cost": 0,
     "reference": {},
-    "icon": "248"
+    "icon": "248",
+    "ALT_NAME": [
+      "Eclipse Brace Plus"
+    ]
   },
   "gentility": {
     "name": "Gentility",
@@ -2225,7 +2536,10 @@
     "reference": {
       "Emblem Ring": "Eirika (Lv. 18 Sync)\nEirika (Lv. 18 Inheritance)"
     },
-    "icon": "252"
+    "icon": "252",
+    "ALT_NAME": [
+      "Gentility Plus"
+    ]
   },
   "bravery+": {
     "name": "Bravery+",
@@ -2234,14 +2548,20 @@
     "reference": {
       "Emblem Ring": "Ephraim (Lv. 18 Sync)\nEphraim (Lv. 18 Inheritance)"
     },
-    "icon": "253"
+    "icon": "253",
+    "ALT_NAME": [
+      "Bravery Plus"
+    ]
   },
   "blueskies+": {
     "name": "Blue Skies+",
     "desc": "Unit takes 5 less damage and deals +5 damage.",
     "cost": 0,
     "reference": {},
-    "icon": "254"
+    "icon": "254",
+    "ALT_NAME": [
+      "Blue Skies Plus"
+    ]
   },
   "twinstrike": {
     "name": "Twin Strike",
@@ -2286,7 +2606,10 @@
     "reference": {
       "Emblem Ring": "Alear (Lv. 20 Sync)"
     },
-    "icon": "259"
+    "icon": "259",
+    "ALT_NAME": [
+      "Bond Forger Plus"
+    ]
   },
   "boonofelyos": {
     "name": "Boon of Elyos",
@@ -3256,7 +3579,10 @@
     "icon": "362",
     "reference": {
       "Emblem Ring": "Edelgard (Lv. 17 Sync)\nEdelgard (Lv. 17 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Weapon Sync Plus"
+    ]
   },
   "lineage": {
     "name": "Lineage",
@@ -3313,7 +3639,10 @@
     "icon": "365",
     "reference": {
       "Emblem Ring": "Edelgard (Engage)"
-    }
+    },
+    "ALT_NAME": [
+      "Houses Unite Plus"
+    ]
   },
   "lightsphere": {
     "name": "Lightsphere",
@@ -3349,7 +3678,10 @@
     "icon": "369",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 14 Sync)\nTiki (Lv. 14 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Lifesphere Plus"
+    ]
   },
   "lifesphere++": {
     "name": "Lifesphere++",
@@ -3358,7 +3690,10 @@
     "icon": "370",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 19 Sync)\nTiki (Lv. 19 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Lifesphere Plus Plus"
+    ]
   },
   "geosphere": {
     "name": "Geosphere",
@@ -3376,7 +3711,10 @@
     "icon": "372",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 16 Sync)\nTiki (Lv. 16 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Geosphere Plus"
+    ]
   },
   "draconicform": {
     "name": "Draconic Form",
@@ -3403,7 +3741,10 @@
     "icon": "375",
     "reference": {
       "Emblem Ring": "Tiki (Engage)"
-    }
+    },
+    "ALT_NAME": [
+      "Divine Blessing Plus"
+    ]
   },
   "strdex1": {
     "name": "Str/Dex +1",
@@ -3412,7 +3753,11 @@
     "icon": "377",
     "reference": {
       "Emblem Ring": "Edelgard (Lv. 3 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Dexterity 1",
+      "Strength/Dexterity +1"
+    ]
   },
   "strdex2": {
     "name": "Str/Dex +2",
@@ -3421,7 +3766,11 @@
     "icon": "378",
     "reference": {
       "Emblem Ring": "Edelgard (Lv. 7 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Dexterity 2",
+      "Strength/Dexterity +2"
+    ]
   },
   "strdex3": {
     "name": "Str/Dex +3",
@@ -3430,7 +3779,11 @@
     "icon": "379",
     "reference": {
       "Emblem Ring": "Edelgard (Lv. 12 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Dexterity 3",
+      "Strength/Dexterity +3"
+    ]
   },
   "strdex4": {
     "name": "Str/Dex +4",
@@ -3439,7 +3792,11 @@
     "icon": "380",
     "reference": {
       "Emblem Ring": "Edelgard (Lv. 16 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Dexterity 4",
+      "Strength/Dexterity +4"
+    ]
   },
   "strdex5": {
     "name": "Str/Dex +5",
@@ -3448,7 +3805,11 @@
     "icon": "381",
     "reference": {
       "Emblem Ring": "Edelgard (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Dexterity 5",
+      "Strength/Dexterity +5"
+    ]
   },
   "hplck2": {
     "name": "HP/Lck +2",
@@ -3457,7 +3818,11 @@
     "icon": "382",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 2 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "HP/Luck 2",
+      "HP/Luck +2"
+    ]
   },
   "hplck4": {
     "name": "HP/Lck +4",
@@ -3466,7 +3831,11 @@
     "icon": "383",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 7 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "HP/Luck 4",
+      "HP/Luck +4"
+    ]
   },
   "hplck6": {
     "name": "HP/Lck +6",
@@ -3475,7 +3844,11 @@
     "icon": "384",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 12 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "HP/Luck 6",
+      "HP/Luck +6"
+    ]
   },
   "hplck8": {
     "name": "HP/Lck +8",
@@ -3484,7 +3857,11 @@
     "icon": "385",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 15 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "HP/Luck 8",
+      "HP/Luck +8"
+    ]
   },
   "hplck10": {
     "name": "HP/Lck +10",
@@ -3493,7 +3870,11 @@
     "icon": "386",
     "reference": {
       "Emblem Ring": "Tiki (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "HP/Luck 10",
+      "HP/Luck +10"
+    ]
   },
   "bowguard1": {
     "name": "Bow Guard 1",
@@ -3608,7 +3989,10 @@
     "icon": "399",
     "reference": {
       "Emblem Ring": "Hector (Lv. 16 Sync)\nHector (Lv. 16 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Quick Riposte Plus"
+    ]
   },
   "heavyattack": {
     "name": "Heavy Attack",
@@ -3644,7 +4028,10 @@
     "icon": "403",
     "reference": {
       "Emblem Ring": "Hector (Lv. 19 Sync)\nHector (Lv. 19 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Adaptability Plus"
+    ]
   },
   "impenetrable": {
     "name": "Impenetrable",
@@ -3669,7 +4056,11 @@
     "desc": "Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only.\n[Dragon] Prevent one critical hit.\n[Backup] Crit+20.\n[Covert] Avo+30.",
     "cost": 0,
     "icon": "406",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Storm's Eye Plus",
+      "Storms Eye Plus"
+    ]
   },
   "animafocus": {
     "name": "Anima Focus",
@@ -3696,7 +4087,10 @@
     "icon": "409",
     "reference": {
       "Emblem Ring": "Soren (Lv. 18 Sync)\nSoren (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Keen Insight Plus"
+    ]
   },
   "assigndecoy": {
     "name": "Assign Decoy",
@@ -3739,7 +4133,10 @@
     "desc": "Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.\n[Dragon] Sets terrain on fire.\n[Mystical] +10% damage.\n[Qi Adept] 20% chance of breaking target.",
     "cost": 0,
     "icon": "414",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Cataclysm Plus"
+    ]
   },
   "groundswell": {
     "name": "Groundswell",
@@ -3775,7 +4172,10 @@
     "icon": "418",
     "reference": {
       "Emblem Ring": "Camilla (Lv. 18 Sync)\nCamilla (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Decisive Strike Plus"
+    ]
   },
   "soar": {
     "name": "Soar",
@@ -3800,7 +4200,10 @@
     "desc": "Use to deal damage to foes on certain spaces near unit and set those spaces on fire.\n[Dragon] Increases area of effect.\n[Mystical] +20% damage.\n[Qi Adept] Adds Glow to adjacent spaces.",
     "cost": 0,
     "icon": "421",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Dark Inferno Plus"
+    ]
   },
   "strdef1": {
     "name": "Str/Def +1",
@@ -3809,7 +4212,11 @@
     "icon": "422",
     "reference": {
       "Emblem Ring": "Hector (Lv. 2 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Defense 1",
+      "Strength/Defense +1"
+    ]
   },
   "strdef2": {
     "name": "Str/Def +2",
@@ -3818,7 +4225,11 @@
     "icon": "423",
     "reference": {
       "Emblem Ring": "Hector (Lv. 7 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Defense 2",
+      "Strength/Defense +2"
+    ]
   },
   "strdef3": {
     "name": "Str/Def +3",
@@ -3827,7 +4238,11 @@
     "icon": "424",
     "reference": {
       "Emblem Ring": "Hector (Lv. 12 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Defense 3",
+      "Strength/Defense +3"
+    ]
   },
   "strdef4": {
     "name": "Str/Def +4",
@@ -3836,7 +4251,11 @@
     "icon": "425",
     "reference": {
       "Emblem Ring": "Hector (Lv. 14 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Defense 4",
+      "Strength/Defense +4"
+    ]
   },
   "strdef5": {
     "name": "Str/Def +5",
@@ -3845,7 +4264,11 @@
     "icon": "426",
     "reference": {
       "Emblem Ring": "Hector (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Strength/Defense 5",
+      "Strength/Defense +5"
+    ]
   },
   "magres1": {
     "name": "Mag/Res +1",
@@ -3854,7 +4277,11 @@
     "icon": "427",
     "reference": {
       "Emblem Ring": "Soren (Lv. 2 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Resistance 1",
+      "Magic/Resistance +1"
+    ]
   },
   "magres2": {
     "name": "Mag/Res +2",
@@ -3863,7 +4290,11 @@
     "icon": "428",
     "reference": {
       "Emblem Ring": "Soren (Lv. 7 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Resistance 2",
+      "Magic/Resistance +2"
+    ]
   },
   "magres3": {
     "name": "Mag/Res +3",
@@ -3872,7 +4303,11 @@
     "icon": "429",
     "reference": {
       "Emblem Ring": "Soren (Lv. 12 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Resistance 3",
+      "Magic/Resistance +3"
+    ]
   },
   "magres4": {
     "name": "Mag/Res +4",
@@ -3881,7 +4316,11 @@
     "icon": "430",
     "reference": {
       "Emblem Ring": "Soren (Lv. 14 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Resistance 4",
+      "Magic/Resistance +4"
+    ]
   },
   "magres5": {
     "name": "Mag/Res +5",
@@ -3890,7 +4329,11 @@
     "icon": "431",
     "reference": {
       "Emblem Ring": "Soren (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Resistance 5",
+      "Magic/Resistance +5"
+    ]
   },
   "spdres1": {
     "name": "Spd/Res +1",
@@ -3899,7 +4342,11 @@
     "icon": "432",
     "reference": {
       "Emblem Ring": "Camilla (Lv. 1 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Resistance 1",
+      "Speed/Resistance +1"
+    ]
   },
   "spdres2": {
     "name": "Spd/Res +2",
@@ -3908,7 +4355,11 @@
     "icon": "433",
     "reference": {
       "Emblem Ring": "Camilla (Lv. 3 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Resistance 2",
+      "Speed/Resistance +2"
+    ]
   },
   "spdres3": {
     "name": "Spd/Res +3",
@@ -3917,7 +4368,11 @@
     "icon": "434",
     "reference": {
       "Emblem Ring": "Camilla (Lv. 9 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Resistance 3",
+      "Speed/Resistance +3"
+    ]
   },
   "spdres4": {
     "name": "Spd/Res +4",
@@ -3926,7 +4381,11 @@
     "icon": "435",
     "reference": {
       "Emblem Ring": "Camilla (Lv. 14 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Resistance 4",
+      "Speed/Resistance +4"
+    ]
   },
   "spdres5": {
     "name": "Spd/Res +5",
@@ -3935,7 +4394,11 @@
     "icon": "436",
     "reference": {
       "Emblem Ring": "Camilla (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Resistance 5",
+      "Speed/Resistance +5"
+    ]
   },
   "axeguard1": {
     "name": "Axe Guard 1",
@@ -4106,7 +4569,10 @@
     "icon": "455",
     "reference": {
       "Emblem Ring": "Veronica (Lv. 18 Sync)\nVeronica (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Reprisal Plus"
+    ]
   },
   "levelboost": {
     "name": "Level Boost",
@@ -4131,35 +4597,65 @@
     "desc": "If unit initiates combat, freezes foe after combat.",
     "cost": 0,
     "icon": "458",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Book 1: Seal",
+      "Book 1 Seal",
+      "Book 1",
+      "Book I"
+    ]
   },
   "bookiiflame": {
     "name": "Book II: Flame",
     "desc": "If unit initiates combat, freezes foe and sets foe's space on fire after combat.",
     "cost": 0,
     "icon": "459",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Book 2: Flame",
+      "Book 2 Flame",
+      "Book 2",
+      "Book II"
+    ]
   },
   "bookiiideath": {
     "name": "Book III: Death",
     "desc": "If unit initiates combat, deals 10 damage, freezes foe, and sets foe's space on fire after combat.",
     "cost": 0,
     "icon": "460",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Book 3: Death",
+      "Book 3 Death",
+      "Book 3",
+      "Book III"
+    ]
   },
   "bookivdream": {
     "name": "Book IV: Dream",
     "desc": "If unit initiates combat, restores HP equal to damage dealt during combat, then deals 10 damage, freezes foe, and sets foe's space on fire after combat.",
     "cost": 0,
     "icon": "461",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Book 4: Dream",
+      "Book 4 Dream",
+      "Book 4",
+      "Book IV"
+    ]
   },
   "bookvscience": {
     "name": "Book V: Science",
     "desc": "If unit initiates combat, restores HP to self and adjacent allies equal to damage dealt during combat, then deals 10 damage, freezes foe, and sets foe's space on fire after combat.",
     "cost": 0,
     "icon": "462",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Book 5: Science",
+      "Book 5 Science",
+      "Book 5",
+      "Book V"
+    ]
   },
   "contract": {
     "name": "Contract",
@@ -4222,7 +4718,10 @@
     "icon": "469",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 18 Sync)\nChrom (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Rally Spectrum Plus"
+    ]
   },
   "otherhalf": {
     "name": "Other Half",
@@ -4247,7 +4746,10 @@
     "desc": "Use to attack with a magic sword. Magic attack that uses physical attack power. Swords only. Adjacent allies chain attack.\n[Dragon] Deals extra damage = half of Str.\n[Flying] Deals extra damage = Bld.\n[Mystical] Deals extra damage = half of Mag.",
     "cost": 0,
     "icon": "472",
-    "reference": {}
+    "reference": {},
+    "ALT_NAME": [
+      "Giga Levin Sword Plus"
+    ]
   },
   "magdex1": {
     "name": "Mag/Dex +1",
@@ -4256,7 +4758,11 @@
     "icon": "473",
     "reference": {
       "Emblem Ring": "Veronica (Lv. 2 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Dexterity 1",
+      "Magic/Dexterity +1"
+    ]
   },
   "magdex2": {
     "name": "Mag/Dex +2",
@@ -4265,7 +4771,11 @@
     "icon": "474",
     "reference": {
       "Emblem Ring": "Veronica (Lv. 7 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Dexterity 2",
+      "Magic/Dexterity +2"
+    ]
   },
   "magdex3": {
     "name": "Mag/Dex +3",
@@ -4274,7 +4784,11 @@
     "icon": "475",
     "reference": {
       "Emblem Ring": "Veronica (Lv. 12 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Dexterity 3",
+      "Magic/Dexterity +3"
+    ]
   },
   "magdex4": {
     "name": "Mag/Dex +4",
@@ -4283,7 +4797,11 @@
     "icon": "476",
     "reference": {
       "Emblem Ring": "Veronica (Lv. 14 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Dexterity 4",
+      "Magic/Dexterity +4"
+    ]
   },
   "magdex5": {
     "name": "Mag/Dex +5",
@@ -4292,7 +4810,11 @@
     "icon": "477",
     "reference": {
       "Emblem Ring": "Veronica (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Magic/Dexterity 5",
+      "Magic/Dexterity +5"
+    ]
   },
   "spddex1": {
     "name": "Spd/Dex +1",
@@ -4301,7 +4823,11 @@
     "icon": "478",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 2 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Dexterity 1",
+      "Speed/Dexterity +1"
+    ]
   },
   "spddex2": {
     "name": "Spd/Dex +2",
@@ -4310,7 +4836,11 @@
     "icon": "479",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 7 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Dexterity 2",
+      "Speed/Dexterity +2"
+    ]
   },
   "spddex3": {
     "name": "Spd/Dex +3",
@@ -4319,7 +4849,11 @@
     "icon": "480",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 12 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Dexterity 3",
+      "Speed/Dexterity +3"
+    ]
   },
   "spddex4": {
     "name": "Spd/Dex +4",
@@ -4328,7 +4862,11 @@
     "icon": "481",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 14 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Dexterity 4",
+      "Speed/Dexterity +4"
+    ]
   },
   "spddex5": {
     "name": "Spd/Dex +5",
@@ -4337,7 +4875,11 @@
     "icon": "482",
     "reference": {
       "Emblem Ring": "Chrom (Lv. 18 Inheritance)"
-    }
+    },
+    "ALT_NAME": [
+      "Speed/Dexterity 5",
+      "Speed/Dexterity +5"
+    ]
   },
   "knifeguard1": {
     "name": "Knife Guard 1",
