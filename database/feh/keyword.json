@@ -710,6 +710,7 @@
                 "A/S Tenet Hone",
                 "Spd/Res Faith",
                 "D/R Tenet Hone",
+                "D/R Tenet Imbue",
                 "Darkling Guard II"
             ],
             "X": [],
@@ -2302,6 +2303,7 @@
                 "Breath of Life 4",
                 "Fatal Smoke 4",
                 "Uplift Imbue A/S",
+                "D/R Tenet Imbue",
                 "Divine Nectar",
                 "Fell Barrier",
                 "Nectar's Magic",
@@ -4059,7 +4061,8 @@
             "Breath": [
                 "Flamelick Breath",
                 "Purging Breath",
-                "Shadow Breath"
+                "Shadow Breath",
+                "Solitary Breath"
             ],
             "Beast": [
                 "Gautier Stone",
@@ -4851,6 +4854,7 @@
             "A": [],
             "B": [],
             "C": [
+                "D/R Tenet Imbue",
                 "Dream Deliverer+",
                 "Fell Barrier"
             ],
@@ -6869,7 +6873,9 @@
                 "Green_Tome": [],
                 "Colorless_Tome": []
             },
-            "Breath": [],
+            "Breath": [
+                "Solitary Breath"
+            ],
             "Beast": []
         },
         "reference_skill": {
@@ -7943,7 +7949,9 @@
                 "Blessed Bow",
                 "Reject Tyranny"
             ],
-            "B": [],
+            "B": [
+                "Distant Breath"
+            ],
             "C": [
                 "11th Deadlord"
             ],

@@ -8275,7 +8275,8 @@
         "sombron": "3",
         "micaiah9": "3",
         "hodr2": "3",
-        "rodrigue": "3"
+        "rodrigue": "3",
+        "rhea5": "3"
       }
     },
     "refine": {},
@@ -8487,7 +8488,8 @@
         "sombron": "4",
         "micaiah9": "4",
         "hodr2": "4",
-        "rodrigue": "4"
+        "rodrigue": "4",
+        "rhea5": "4"
       }
     },
     "refine": {},
@@ -64906,7 +64908,8 @@
       "Def/Res Oath 3": {
         "alfonse3": "5",
         "caeda6": "4",
-        "ike10": "4"
+        "ike10": "4",
+        "rhea5": "4"
       },
       "Def/Res Oath 2": {},
       "Def/Res Oath 1": {}
@@ -77548,7 +77551,8 @@
         "nagi2": "4",
         "nah2": "4",
         "myrrh4": "4",
-        "morva": "4"
+        "morva": "4",
+        "rhea5": "4"
       },
       "Dragon's Ire 2": {},
       "Dragon's Ire 1": {}
@@ -116959,7 +116963,8 @@
       },
       "Atk/Res Scowl 3": {
         "mkana2": "4",
-        "mgrima": "4"
+        "mgrima": "4",
+        "rhea5": "4"
       },
       "Atk/Res Scowl 2": {},
       "Atk/Res Scowl 1": {}
@@ -163087,7 +163092,8 @@
     ],
     "reference": {
       "A/D/R Slam": {
-        "sombron": "5"
+        "sombron": "5",
+        "rhea5": "5"
       }
     },
     "refine": {},
@@ -168888,5 +168894,171 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_mg517"
+  },
+  "solitarybreath": {
+    "name": "Solitary Breath",
+    "skill": [
+      {
+        "name": "Solitary Breath",
+        "description": "Accelerates Special trigger (cooldown count-1). If foe's Range = 2, calculates damage using the lower of foe's Def or Res.\nAt start of player phase or enemy phase, grants Atk/Spd+6,\u3010Reflex\u3011,\u3010Fringe Bonus\u3011, and \"foe cannot make a follow-up attack\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials), decreases Spd difference necessary for unit to make a follow-up attack by X and increases Spd difference necessary for foe to make a follow-up attack by X (if unit's Def is greater than foe's Def, X = 10 + difference between Def stats \u00d7 2; otherwise, X = 10), and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Breath",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Solitary Breath": {
+        "rhea5": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Solitary Breath",
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "riteofrising": {
+    "name": "Rite of Rising",
+    "skill": [
+      {
+        "name": "Rite of Rising",
+        "description": "When Special triggers, boosts damage by unit's Def.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5 and unit and allies can counterattack regardless of foe's range during combat.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials) and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat. If unit's HP > 1 and foe would reduce unit's HP to 0 during combat, unit survives with 1 HP (once per combat; does not stack with other similar effects; when this effect triggers, other similar effects granted to unit are considered triggered and vice-versa).\nFor certain target allies, if foe initiates combat, and if ally's HP > 1 and foe would reduce ally's HP to 0 during combat, ally survives with 1 HP, and after combat, restores 99 HP to ally (if support partner is on player team, targets any support partner; otherwise, targets ally with the highest Res at start of battle, excluding unit; \"at start of battle\" excludes increases to Res granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.; effect only triggers for player's team once per map; does not stack with other similar effects; when this effect triggers, other similar effects granted to allies are considered triggered and vice-versa).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Glacies"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Rite of Rising": {
+        "rhea5": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Rite of Rising"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "distantbreath": {
+    "name": "Distant Breath",
+    "skill": [
+      {
+        "name": "Distant Breath",
+        "description": "Inflicts Atk/Def/Res-4 on foe, unit deals damage = 20% of the greater of unit's Def or Res (excluding area-of-effect Specials), reduces damage by 20% of the greater of unit's Def or Res (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack, during combat.\nUnit can use the following\u3010Style\u3011when there are no other allies on the player's team with the same\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Distant Breath Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes within 5 spaces of unit and 3 rows or 3 columns centered on unit regardless of unit's range.\nUnit suffers a counterattack if any of the following conditions are met: foe is armored, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nUnit cannot move or attack structures, after-combat movement effects do not occur, unit's area-of-effect Specials cannot be triggered, and remaining movement granted from Canto is treated as 0. Skill effect's Range is treated as 1. Once used, this Style cannot be used for two turns.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Dragon's Ire 3"
+        ],
+        "exclusive": false,
+        "slot": "Passive B",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Breath",
+            "Blue_Breath",
+            "Green_Breath",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Distant Breath": {
+        "rhea5": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2766,
+    "HARD_ALT_NAME": [
+      "Distant Breath"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "drtenetimbue": {
+    "name": "D R Tenet Imbue",
+    "skill": [
+      {
+        "name": "D/R Tenet Imbue",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Def/Res Oath 3"
+        ],
+        "description": "At start of player phase or enemy phase, grants \u3010Bulwark\u3011to unit for 1 turn, and grants Def/Res+6 and\u3010Imbue\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Def/Res = number of allies within 3 rows or 3 columns centered on unit × 2 (max 6), unit deals +5 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ]
+      }
+    ],
+    "reference": {
+      "D/R Tenet Imbue": {
+        "rhea5": "5"
+      }
+    },
+    "icon": 2767,
+    "HARD_ALT_NAME": [
+      "D/R Tenet Imbue"
+    ],
+    "ALT_NAME": [
+      "Defense/Resistance Tenet Imbue",
+      "Def/Res Tenet Imbue"
+    ],
+    "slot": "Passive C",
+    "wpn": false
   }
 }

@@ -114514,12 +114514,12 @@
       "lif3"
     ],
     "prf": {
-      "": "pjalfi",
-      "eff": "pjalfi",
-      "atk": "pjalfi",
-      "spd": "pjalfi",
-      "def": "pjalfi",
-      "res": "pjalfi"
+      "": "pjalfieff",
+      "eff": "pjalfieff",
+      "atk": "pjalfiatk",
+      "spd": "pjalfispd",
+      "def": "pjalfidef",
+      "res": "pjalfires"
     }
   },
   "gustav": {
@@ -123044,12 +123044,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "saintshiptome",
-      "eff": "saintshiptome",
-      "atk": "saintshiptome",
-      "spd": "saintshiptome",
-      "def": "saintshiptome",
-      "res": "saintshiptome"
+      "": "saintshiptomeeff",
+      "eff": "saintshiptomeeff",
+      "atk": "saintshiptomeatk",
+      "spd": "saintshiptomespd",
+      "def": "saintshiptomedef",
+      "res": "saintshiptomeres"
     }
   },
   "zeke": {
@@ -125760,12 +125760,12 @@
       "charlotte2"
     ],
     "prf": {
-      "": "fairfuryaxe",
-      "eff": "fairfuryaxe",
-      "atk": "fairfuryaxe",
-      "spd": "fairfuryaxe",
-      "def": "fairfuryaxe",
-      "res": "fairfuryaxe"
+      "": "fairfuryaxeeff",
+      "eff": "fairfuryaxeeff",
+      "atk": "fairfuryaxeatk",
+      "spd": "fairfuryaxespd",
+      "def": "fairfuryaxedef",
+      "res": "fairfuryaxeres"
     }
   },
   "nyx": {
@@ -129849,12 +129849,12 @@
       "yuri2"
     ],
     "prf": {
-      "": "honorableblade",
-      "eff": "honorableblade",
-      "atk": "honorableblade",
-      "spd": "honorableblade",
-      "def": "honorableblade",
-      "res": "honorableblade"
+      "": "honorablebladeeff",
+      "eff": "honorablebladeeff",
+      "atk": "honorablebladeatk",
+      "spd": "honorablebladespd",
+      "def": "honorablebladedef",
+      "res": "honorablebladeres"
     }
   },
   "constance": {
@@ -131303,7 +131303,8 @@
     "reference": [
       "rhea",
       "rhea3",
-      "rhea4"
+      "rhea4",
+      "rhea5"
     ],
     "prf": {
       "": "witchbreath",
@@ -136247,12 +136248,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "carnageamatsu",
-      "eff": "carnageamatsu",
-      "atk": "carnageamatsu",
-      "spd": "carnageamatsu",
-      "def": "carnageamatsu",
-      "res": "carnageamatsu"
+      "": "carnageamatsueff",
+      "eff": "carnageamatsueff",
+      "atk": "carnageamatsuatk",
+      "spd": "carnageamatsuspd",
+      "def": "carnageamatsudef",
+      "res": "carnageamatsures"
     }
   },
   "lysithea3": {
@@ -146357,7 +146358,8 @@
     "reference": [
       "rhea",
       "rhea2",
-      "rhea4"
+      "rhea4",
+      "rhea5"
     ],
     "prf": {
       "": "ruinousfrost",
@@ -156623,12 +156625,12 @@
       "ninian5"
     ],
     "prf": {
-      "": "faithfulbreath",
-      "eff": "faithfulbreath",
-      "atk": "faithfulbreath",
-      "spd": "faithfulbreath",
-      "def": "faithfulbreath",
-      "res": "faithfulbreath"
+      "": "faithfulbreatheff",
+      "eff": "faithfulbreatheff",
+      "atk": "faithfulbreathatk",
+      "spd": "faithfulbreathspd",
+      "def": "faithfulbreathdef",
+      "res": "faithfulbreathres"
     }
   },
   "duma2": {
@@ -158885,12 +158887,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "riteofsouls",
-      "eff": "riteofsouls",
-      "atk": "riteofsouls",
-      "spd": "riteofsouls",
-      "def": "riteofsouls",
-      "res": "riteofsouls"
+      "": "riteofsoulseff",
+      "eff": "riteofsoulseff",
+      "atk": "riteofsoulsatk",
+      "spd": "riteofsoulsspd",
+      "def": "riteofsoulsdef",
+      "res": "riteofsoulsres"
     }
   },
   "laegjarn5": {
@@ -172325,7 +172327,8 @@
     "reference": [
       "rhea2",
       "rhea3",
-      "rhea4"
+      "rhea4",
+      "rhea5"
     ],
     "prf": {
       "": "revealingbreath",
@@ -219472,7 +219475,8 @@
     "reference": [
       "rhea",
       "rhea2",
-      "rhea3"
+      "rhea3",
+      "rhea5"
     ],
     "prf": {
       "": "devotedbreath",
@@ -258573,6 +258577,191 @@
       "spd": "masterfulaura",
       "def": "masterfulaura",
       "res": "masterfulaura"
+    }
+  },
+  "rhea5": {
+    "name": "Rhea",
+    "title": "The Final Child",
+    "description": "A being who was once the archbishop of the Church of Seiros. Ponders her sentiments for the precious ones she has lost. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Naruse Uroko (\u9cf4\u702c\u3046\u308d\u3053)",
+    "move": "Infantry",
+    "weapon": "Breath",
+    "color": "Blue",
+    "duel": "220",
+    "id": "1410",
+    "type": "legendary",
+    "version": "10.8",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 13,
+      "spd": 8,
+      "def": 10,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 50,
+      "def": 90,
+      "res": 75
+    },
+    "superboon": [
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "res"
+    ],
+    "weapons": {
+      "Fire Breath": "1",
+      "Fire Breath+": "2",
+      "Flametongue": "3",
+      "Solitary Breath": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Rite of Rising": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Res Scowl 1": "2",
+        "Atk/Res Scowl 2": "3",
+        "Atk/Res Scowl 3": "4",
+        "A/D/R Slam": "5"
+      },
+      "B": {
+        "Dragon's Ire 1": "2",
+        "Dragon's Ire 2": "3",
+        "Dragon's Ire 3": "4",
+        "Distant Breath": "5"
+      },
+      "C": {
+        "Def/Res Oath 1": "2",
+        "Def/Res Oath 2": "3",
+        "Def/Res Oath 3": "4",
+        "D/R Tenet Imbue": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Rhea_The_Final_Child_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Rhea_The_Final_Child_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Rhea_The_Final_Child_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/02/Rhea_The_Final_Child_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
+    ],
+    "HARD_ALT_NAME": [
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u4f1d\u627f\u30ec\u30a2",
+    "voice": "Cherami Leigh",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "The people and home I loved dearly... All lost. I can no longer protect them, but I can watch over Askr's future.",
+        "Even if it was for the sake of peace, I still deceived my followers with lies. Can I really be called a Hero?",
+        "You do not strike me as the type of human that would abuse their position, [S].",
+        "As with you and your weapon, I, too, received divine protection\u2014from the goddess. There is meaning in that.",
+        "I feel my mother's presence even here, in the skies of Askr. I wonder if she's watching over me."
+      ],
+      "Visit": [
+        "Our bonds can save us from solitude. They are precious, like the one you have with [F]."
+      ],
+      "Level": [
+        "Mother... Please guide me.",
+        "Let us put an end to this history of blood and conflict...",
+        "You must not give up yet. There is surely cause to remain hopeful."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Rhea. In F\u00f3dlan, I was once the archbishop of the Church of Seiros..."
+      ],
+      "Learn Skill": [
+        "Thank you very much for your concern. I feel as if I've been saved."
+      ],
+      "Confession": [
+        "I wish to meet my mother once more... And my pursuit of that goal has led to much conflict.\nAfter being humbled by tragedy... losing many of my brethren... I lived in isolation.\nIn an attempt to ease my loneliness, I crossed a dangerous line, meddling with things I shouldn't have.\nDeceiving the people with my foolish deeds is something that will never be forgiven.\nHowever, the fact that I escaped death tells me there is still a duty I must fulfill. I believe this to be true.\nOur meeting was brought about by the flow of time...so I will devote what remains of my power to helping Askr."
+      ],
+      "Special": [
+        "Cease this!",
+        "An impasse...",
+        "Such a ruckus!",
+        "You wish to be judged?"
+      ],
+      "Status": [
+        "-",
+        "I am Rhea. I was once the archbishop of the Church of Seiros.",
+        "*chuckle* What a surprise this is. You remind me of my students.",
+        "Legends...about me? Well, the truth is not always what is passed down.",
+        "Sin and retribution will always be in our past. We must look ahead to what lies in front of us.",
+        "Peace never lasts long. This, I know...",
+        "To live for eternity in a world where hope has been crushed, I...",
+        "If you need anything, I will lend a hand."
+      ],
+      "Map Select": [
+        "Are you certain?",
+        "A challenge...",
+        "Of course."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Legendary Rhea",
+    "SEARCH_NAME": "Legendary Rhea",
+    "DISPLAY_NAME": "<:Blue_Breath:1317239355835813939>Legendary Rhea",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "rhea",
+      "rhea2",
+      "rhea3",
+      "rhea4"
+    ],
+    "prf": {
+      "": "solitarybreath",
+      "eff": "solitarybreath",
+      "atk": "solitarybreath",
+      "spd": "solitarybreath",
+      "def": "solitarybreath",
+      "res": "solitarybreath"
+    },
+    "blessing": "Wind",
+    "boost": {
+      "hp": 3,
+      "res": 4
     }
   }
 }

@@ -5529,7 +5529,13 @@
       "CYL Tsubasa",
       "B Tsubasa",
       "Choose Your Legends Tsubasa",
-      "tsubasa2"
+      "tsubasa2",
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
     ],
     "HARD_ALT_NAME": [
       "Base Gwendolyn",
@@ -5811,7 +5817,13 @@
       "CYL Tsubasa",
       "B Tsubasa",
       "Choose Your Legends Tsubasa",
-      "tsubasa2"
+      "tsubasa2",
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
     ],
     "heroes": {
       "fbyleth2": "<:Red_Tome:1317239730714316800>Summer Byleth",
@@ -5835,6 +5847,7 @@
       "rhea2": "<:Green_Breath:1317239551693164595>Halloween Rhea",
       "rhea3": "<:Colorless_Breath:1317239411980767363>Fallen Rhea",
       "rhea4": "<:Colorless_Breath:1317239411980767363>Valentines Rhea",
+      "rhea5": "<:Blue_Breath:1317239355835813939>Legendary Rhea",
       "seiros": "<:Blue_Breath:1317239355835813939>Seiros",
       "tsubasa": "<:Blue_Lance:1317239378208096338>Tsubasa",
       "tsubasa2": "<:Green_Tome:1317239575352971396>Brave Tsubasa"

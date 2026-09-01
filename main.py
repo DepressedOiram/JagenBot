@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-2nd-v0-l5dxa88xtygh1.png?width=1080&crop=smart&auto=webp&s=0e049399291fb6279cefac467d89c508f14076bf")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-31st-v0-zw447w5ktqmh1.png?width=1080&crop=smart&auto=webp&s=426997c6a4d7940a2bec52996985e427173f510b")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-2nd-v0-l5dxa88xtygh1.png?width=1080&crop=smart&auto=webp&s=0e049399291fb6279cefac467d89c508f14076bf")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-31st-v0-zw447w5ktqmh1.png?width=1080&crop=smart&auto=webp&s=426997c6a4d7940a2bec52996985e427173f510b")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-2nd-v0-l5dxa88xtygh1.png?width=1080&crop=smart&auto=webp&s=0e049399291fb6279cefac467d89c508f14076bf")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-31st-v0-zw447w5ktqmh1.png?width=1080&crop=smart&auto=webp&s=426997c6a4d7940a2bec52996985e427173f510b")
     
     await embed.send(ctx)
 
@@ -272,7 +272,7 @@ async def remix(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-2nd-v0-k8h8ygtjxzgh1.png?width=3916&format=png&auto=webp&s=10cfe86059a4d1121b28c1bae0b3f50525869b01")
+    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-heroes-schedule-updated-august-31st-v0-z3q6ww5ktqmh1.png?width=1080&crop=smart&auto=webp&s=cf7fb46cdbd8f92cb0f383f5b0f27f33a5a3077b")
     
     await embed.send(ctx)
 

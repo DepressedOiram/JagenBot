@@ -19015,7 +19015,13 @@
       "Base Lamia",
       "Normal Lamia",
       "Regular Lamia",
-      "lamia"
+      "lamia",
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
     ],
     "HARD_ALT_NAME": [
       "Juno",
@@ -19110,7 +19116,13 @@
       "Base Lamia",
       "Normal Lamia",
       "Regular Lamia",
-      "lamia"
+      "lamia",
+      "The Final Child",
+      "Rhea: The Final Child",
+      "Legendary Rhea",
+      "L Rhea",
+      "Leg Rhea",
+      "rhea5"
     ],
     "heroes": {
       "astrid": "<:Green_Bow:1317239539936268340>Astrid",
@@ -19121,6 +19133,7 @@
       "lamia": "<:Red_Sword:1317239717707911188>Lamia",
       "ninianR": "<:Blue_Breath:1317239355835813939>Ninian (Resplendent)",
       "ogier": "<:Red_Sword:1317239717707911188>Ogier",
+      "rhea5": "<:Blue_Breath:1317239355835813939>Legendary Rhea",
       "ronan": "<:Blue_Bow:1317239347577356328>Ronan",
       "safy": "<:Colorless_Staff:1317239426866483261>Safy",
       "vanessa": "<:Blue_Lance:1317239378208096338>Vanessa",
