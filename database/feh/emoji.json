@@ -504,6 +504,16 @@
     "id": 1355577314758365245,
     "animated": false
   },
+  "shadows": {
+    "name": "shadows",
+    "id": 1546767551588212806,
+    "animated": false
+  },
+  "fe18": {
+    "name": "fe18",
+    "id": 1546767530654171136,
+    "animated": false
+  },
   "Bouquet_AS": {
     "name": "Bouquet_AS",
     "id": 1417685259767648256,
@@ -542,6 +552,11 @@
   "star_seasonalgrail_5": {
     "name": "star_seasonalgrail_5",
     "id": 1454136849214865551,
+    "animated": false
+  },
+  "vignette": {
+    "name": "vignette",
+    "id": 1546767611801632809,
     "animated": false
   }
 }

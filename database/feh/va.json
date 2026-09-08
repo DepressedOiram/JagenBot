@@ -19632,7 +19632,23 @@
       "Arm S Robin F",
       "Arm HS Robin F",
       "robin17",
-      "frobin9"
+      "frobin9",
+      "Resplendent Legendary Female Robin",
+      "Resplendent Legendary Robin Female",
+      "Resplendent Legendary F Robin",
+      "Resplendent Legendary Robin F",
+      "Resp Legendary Female Robin",
+      "Resp Legendary Robin Female",
+      "Resp Legendary F Robin",
+      "Resp Legendary Robin F",
+      "R Legendary Female Robin",
+      "R Legendary Robin Female",
+      "R Legendary F Robin",
+      "R Legendary Robin F",
+      "Legendary Female Robin (Resplendent)",
+      "Legendary Robin Female (Resplendent)",
+      "Legendary F Robin (Resplendent)",
+      "Legendary Robin F (Respledent)"
     ],
     "HARD_ALT_NAME": [
       "sheena",
@@ -20389,13 +20405,30 @@
       "Arm S Robin F",
       "Arm HS Robin F",
       "robin17",
-      "frobin9"
+      "frobin9",
+      "Resplendent Legendary Female Robin",
+      "Resplendent Legendary Robin Female",
+      "Resplendent Legendary F Robin",
+      "Resplendent Legendary Robin F",
+      "Resp Legendary Female Robin",
+      "Resp Legendary Robin Female",
+      "Resp Legendary F Robin",
+      "Resp Legendary Robin F",
+      "R Legendary Female Robin",
+      "R Legendary Robin Female",
+      "R Legendary F Robin",
+      "R Legendary Robin F",
+      "Legendary Female Robin (Resplendent)",
+      "Legendary Robin Female (Resplendent)",
+      "Legendary F Robin (Resplendent)",
+      "Legendary Robin F (Respledent)"
     ],
     "heroes": {
       "frobin": "<:Green_Tome:1317239575352971396>Female Robin",
       "frobinR": "<:Green_Tome:1317239575352971396>Female Robin (Resplendent)",
       "frobin2": "<:Blue_Lance:1317239378208096338>Summer Robin",
       "frobin3": "<:Colorless_Breath:1317239411980767363>Legendary Female Robin",
+      "frobin3R": "<:Colorless_Breath:1317239411980767363>Legendary Female Robin (Resplendent)",
       "frobin4": "<:Green_Breath:1317239551693164595>Halloween Female Robin",
       "frobin5": "<:Colorless_Tome:1317239438602145842>Valentines Robin",
       "frobin6": "<:Colorless_Breath:1317239411980767363>Rearmed Female Robin",
@@ -30046,7 +30079,15 @@
       "Death Anew",
       "Rearmed Gangl\u00f6t",
       "Rearm Gangl\u00f6t",
-      "Arm Gangl\u00f6t"
+      "Arm Gangl\u00f6t",
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
     ],
     "HARD_ALT_NAME": [
       "ganglot",
@@ -30057,10 +30098,19 @@
       "R Gangl\u00f6t",
       "Rangl\u00f6t",
       "Rearm Gangl\u00f6t",
-      "Arm Gangl\u00f6t"
+      "Arm Gangl\u00f6t",
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
     ],
     "heroes": {
-      "ganglot": "<:Green_Axe:1317239517136031897>Rearmed Gangl\u00f6t"
+      "ganglot": "<:Green_Axe:1317239517136031897>Rearmed Gangl\u00f6t",
+      "theodora": "<:Blue_Lance:1317239378208096338>Attuned Theodora"
     },
     "name": "Shara Kirby"
   },
@@ -33378,7 +33428,16 @@
       "New years heanius",
       "Kimono Innes",
       "Kimono James",
-      "Kimono Heanius"
+      "Kimono Heanius",
+      "Alluring Killer",
+      "Dietrich: Alluring Killer",
+      "Vista Dietrich",
+      "V Dietrich",
+      "Vst Dietrich",
+      "Normal Dietrich",
+      "Base Dietrich",
+      "Regular Dietrich",
+      "dietrich"
     ],
     "HARD_ALT_NAME": [
       "innes",
@@ -33465,10 +33524,20 @@
       "New years heanius",
       "Kimono Innes",
       "Kimono James",
-      "Kimono Heanius"
+      "Kimono Heanius",
+      "Alluring Killer",
+      "Dietrich: Alluring Killer",
+      "Vista Dietrich",
+      "V Dietrich",
+      "Vst Dietrich",
+      "Normal Dietrich",
+      "Base Dietrich",
+      "Regular Dietrich",
+      "dietrich"
     ],
     "heroes": {
       "arvis": "<:Red_Tome:1317239730714316800>Arvis",
+      "dietrich": "<:Red_Sword:1317239717707911188>Vista Dietrich",
       "innes": "<:Colorless_Bow:1317239404204654703>Innes",
       "innesR": "<:Colorless_Bow:1317239404204654703>Innes (Resplendent)",
       "innes2": "<:Green_Axe:1317239517136031897>Summer Innes",
@@ -34562,7 +34631,16 @@
       "Summer Fogado",
       "S Fogado",
       "Beach Fogado",
-      "fogado2"
+      "fogado2",
+      "Child of Riberia",
+      "Cai: Child of Riberia",
+      "Entwined Cai",
+      "E Cai",
+      "En Cai",
+      "Normal Cai",
+      "Base Cai",
+      "Regular Cai",
+      "cai"
     ],
     "HARD_ALT_NAME": [
       "ross",
@@ -34593,9 +34671,19 @@
       "Summer Fogado",
       "S Fogado",
       "Beach Fogado",
-      "fogado2"
+      "fogado2",
+      "Child of Riberia",
+      "Cai: Child of Riberia",
+      "Entwined Cai",
+      "E Cai",
+      "En Cai",
+      "Normal Cai",
+      "Base Cai",
+      "Regular Cai",
+      "cai"
     ],
     "heroes": {
+      "cai": "<:Blue_Lance:1317239378208096338>Entwined Cai",
       "fogado": "<:Green_Bow:1317239539936268340>Fogado",
       "fogado2": "<:Colorless_Dagger:1317239418943438869>Summer Fogado",
       "ross": "<:Green_Axe:1317239517136031897>Ross",
@@ -36558,6 +36646,34 @@
       "Normal Boucheron",
       "Regular Boucheron",
       "boucheron"
+    ]
+  },
+  "katianasarkissian": {
+    "heroes": {
+      "leda": "<:Colorless_Bow:1317239404204654703>Vista Leda"
+    },
+    "name": "Katiana Sarkissian",
+    "ALT_NAME": [
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
+    ],
+    "HARD_ALT_NAME": [
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
     ]
   }
 }

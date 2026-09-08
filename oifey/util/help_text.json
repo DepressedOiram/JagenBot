@@ -92,7 +92,8 @@
         "growth": "Applies growth bonuses from Drops/Tome.",
         "untransform": "To use untransformed stasts when equipping items or comparing.",
         "engage": "Apply Engage Effects to a skill.",
-        "aide": "Apply Aide's Essence to a Hero."
+        "aide": "Apply Aide's Essence to a Hero.",
+		"vignette": "Apply Vignette to a Hero."
 	},
 	"exclusive_args": {
 		"fe5": {"class": "Reclasses the unit to another class. Not the same stat changes as promoting!"},

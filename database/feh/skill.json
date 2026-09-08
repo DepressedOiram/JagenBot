@@ -7468,7 +7468,8 @@
         "boucheron": "3",
         "marth9": "3",
         "frobin9": "3",
-        "tsubasa2": "3"
+        "tsubasa2": "3",
+        "cai": "3"
       }
     },
     "refine": {},
@@ -7693,7 +7694,8 @@
         "groa": "4",
         "boucheron": "4",
         "frobin9": "4",
-        "tsubasa2": "4"
+        "tsubasa2": "4",
+        "cai": "4"
       }
     },
     "refine": {},
@@ -7878,7 +7880,8 @@
         "eikthyrnir5": "3",
         "malear5": "3",
         "jade": "3",
-        "sylvain4": "3"
+        "sylvain4": "3",
+        "dietrich": "3"
       }
     },
     "refine": {},
@@ -8105,7 +8108,8 @@
         "eikthyrnir5": "4",
         "malear5": "4",
         "jade": "4",
-        "sylvain4": "4"
+        "sylvain4": "4",
+        "dietrich": "4"
       }
     },
     "refine": {},
@@ -24325,7 +24329,8 @@
         "laegjarn3": "5",
         "quan2": "5",
         "baldr3": "4",
-        "thorr3": "4"
+        "thorr3": "4",
+        "elincia5": "4"
       },
       "Flier Formation 2": {},
       "Flier Formation 1": {}
@@ -51454,7 +51459,8 @@
         "soren6": "4",
         "ivy3": "4",
         "lyon6": "4",
-        "guinivere2": "4"
+        "guinivere2": "4",
+        "veyle": "4"
       },
       "Sabotage Res 2": {},
       "Sabotage Res 1": {}
@@ -85060,7 +85066,8 @@
         "lucina10": "4",
         "sharena6": "4",
         "fbyleth6": "4",
-        "falear5": "4"
+        "falear5": "4",
+        "dietrich": "4"
       },
       "Atk/Spd Ideal 2": {},
       "Atk/Spd Ideal 1": {}
@@ -106532,7 +106539,8 @@
         "nerpuz4": "4",
         "sharena5": "4",
         "lachesis3": "4",
-        "sylvain4": "4"
+        "sylvain4": "4",
+        "cai": "4"
       },
       "Atk/Spd Clash 2": {},
       "Atk/Spd Clash 1": {}
@@ -107508,8 +107516,13 @@
         "mordecai2": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "If a Rally or movement Assist skill is used by unit or targets unit, grants\u3010Atk Liberate\u3011, \u3010Def Liberate\u3011, and \"grants Special cooldown charge +1 per attack during combat (only highest value applied; does not stack)\" to unit, target or targeting ally, and allies within 2 spaces of unit and that ally after movement for 1 turn.\nAfter Canto, if unit used an Assist skill on the current turn, grants another action to unit, and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nGrants Atk/Spd/Def/Res+5 to unit and unit deals +25 damage (excluding area-of-effect Specials) during combat, and restores 10 HP to unit after combat."
+      ],
+      "description": "Grants Def+3. Enables\u3010Canto (\uff12)\u3011.\nWhen Canto triggers, enables unit to use \u3010Smite\u3011on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).\nGrants Atk/Def+6 and Spd/Res+5 to unit, inflicts penalty on foe's Atk/Spd/Def = 20% of unit's Def at start of combat, foe cannot make a follow-up attack, reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, deals +7 damage when Special triggers, and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit."
+    },
+    "icon": 2774,
     "HARD_ALT_NAME": [
       "mordecai2",
       "Mordecai: Gentle Firetender",
@@ -122778,8 +122791,13 @@
         "elincia5": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "For unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, deals +X damage (for unit, X = 25; for allies, X = 10; excluding area-of-effect Specials), and grants Special cooldown count-1 to unit or ally before their first attack during combat.\nReduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials)."
+      ],
+      "description": "Enables\u3010Canto (\uff12)\u3011.\nAccelerates Special trigger (cooldown count-1). Unit attacks twice (even if foe initiates combat, unit attacks twice.)\nGrants Atk/Spd/Def/Res+5 to unit, grants Atk/Spd/Def/Res+X to unit (X = 11 - foe's max Special cooldown count value; min 5; if foe does not have a Special skill, X = 5), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat."
+    },
+    "icon": 2768,
     "HARD_ALT_NAME": [
       "Undaunted Queen",
       "Elincia: Undaunted Queen",
@@ -122799,7 +122817,21 @@
         "stats": {
           "sp": "300"
         },
-        "description": "Allies within 2 spaces of unit can move to any space within 2 spaces of unit. Inflicts Atk/Spd/Def/Res-4 on foes within 4 spaces of unit during combat. At start of turn, if unit is within 2 spaces of an ally, grants \u3010Null Follow-Up\u3011to unit and allies within 2 spaces of unit.\n\u3010Null Follow-Up\u3011\nIf unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.",
+        "description": "Allies within 2 spaces of unit can move to any space within 2 spaces of unit. Inflicts Atk/Spd/Def/Res-4 on foes within 4 spaces of unit during combat. At start of turn, if unit is within 2 spaces of an ally, grants \u3010Null Follow-Up\u3011to unit and allies within 2 spaces of unit.",
+        "slot": "Passive C",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false
+      },
+      {
+        "name": "Heart of Crimea II",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Heart of Crimea"
+        ],
+        "description": "Allies within 2 spaces of unit can move to a space within 2 spaces of unit without being affected by movement-obstruction effects from skills.\nFor foes within 5 rows or 5 columns centered on unit, inflicts Atk/Spd/Def/Res-5 during combat.\nAt start of player phase or enemy phase, grants\u3010Null Follow-Up\u3011and\u3010Truly Incited\u3011 to unit and allies within 2 spaces of unit for 1 turn.\nUnit deals +7 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials). If unit initiates combat and if unit's Spd \u2265 foe's Spd+5 or unit's Res \u2265 foe's Res+5, reduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
         "slot": "Passive C",
         "exclusive": true,
         "restriction_weapon": false,
@@ -122807,13 +122839,16 @@
       }
     ],
     "reference": {
-      "Heart of Crimea": {
+      "Heart of Crimea II": {
         "elincia5": "5"
-      }
+      },
+      "Heart of Crimea": {}
     },
-    "icon": 1992,
+    "icon": 2775,
     "HARD_ALT_NAME": [
-      "Heart of Crimea"
+      "Heart of Crimea II",
+      "Heart of Crimea 2",
+      "Heart of Crimea+"
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
@@ -123724,8 +123759,13 @@
         "veyle": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "Disables foe's skills that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), grants Atk/Spd/Def/Res+10 to unit, and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).\nIf unit or foe is engaged, or if unit's Res > foe's Res, unit attacks twice during combat."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Res+6,\u3010Resonance: Blades\u3011, \u3010Resonance: Shields\u3011, and\u3010Fell Spirit\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+5 to unit, unit makes a guaranteed follow-up attack, unit deals +25 damage (excluding area-of-effect Specials), and neutralizes foe's bonuses to Atk/Res during combat."
+    },
+    "icon": 2769,
     "HARD_ALT_NAME": [
       "Gentle Dragon",
       "Veyle: Gentle Dragon",
@@ -123758,9 +123798,10 @@
       }
     ],
     "reference": {
-      "Fell Protection": {
+      "Fell Protection+": {
         "veyle": "5"
-      }
+      },
+      "Fell Protection": {}
     },
     "icon": 2011,
     "HARD_ALT_NAME": [
@@ -135125,8 +135166,13 @@
         "felix3": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def/Res-7, \u3010Exposure\u3011, and\u3010Discord\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials)."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-2; max cooldown count value cannot be reduced below 1).\nUnit can counterattack regardless of foe's range. Calculates damage using the lower of foe's Def or Res.\nGrants bonus to unit's Atk/Spd/Def/Res = 15% of unit's Spd at start of combat + 5 (min 15), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 New Levin Sword Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 2 spaces away (unit cannot attack adjacent foes).\nDecreases Spd difference necessary for unit to make a follow-up attack by 10 during combat.\nCannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+    },
+    "icon": 2770,
     "HARD_ALT_NAME": [
       "CYL Felix",
       "Felix: Sword Savant",
@@ -135218,8 +135264,13 @@
         "bernadetta4": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "At start of player phase or enemy phase, grants Atk/Spd+6,\u3010Drain Cancel\u3011, and \"neutralizes foe's bonuses during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nReduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Bowrange+ Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 3 spaces away (unit cannot attack foes 2 spaces away).\nDecreases Spd difference necessary for unit to make a follow-up attack by 10 during combat.\nCannot move through spaces within 3 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 2 or foe can counterattack regardless of unit's range. After-combat movement effects do not occur. Skill effect's Range is treated as 2. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+      ],
+      "description": "Enables\u3010Canto (Dist.; Max \uff13, Min \uff11)\u3011. Accelerates Special trigger (cooldown count-1). Effective against flying foes. Unit attacks twice (even if foe initiates combat, unit attacks twice).\nGrants bonus to unit's Atk/Spd/Def/Res = 15% of unit's Spd at start of combat + 5 (min 15), unit deals +30 damage (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials)."
+    },
+    "icon": 2772,
     "HARD_ALT_NAME": [
       "Brave Bernie",
       "CYL Bernie",
@@ -135333,8 +135384,13 @@
         "alfonse5": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "For allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5.\nFor unit and allies within 3 rows or 3 columns centered on unit, restores 40% of unit's or ally's max HP as their combat begins (triggers after effects that deal damage as combat begins; only highest value applied; does not stack), reduces the effect of\u3010Deep Wounds\u3011 by 50%, and unit's or ally's next attack deals damage = 40% of foe's first-attack damage prior to reductions during combat (resets at end of combat; only highest value applied; does not stack).\nReduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials). If unit's Def > foe's Def, triggers\u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 100; otherwise, X = 50)."
+      ],
+      "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nAt start of turn, grants Def/Res+6 and\u3010Gallop\u3011 to unit for 1 turn, and if unit's Special cooldown count is at its maximum value, grants Special cooldown count-1 to unit.\nGrants Def/Res+15 to unit, inflicts Def/Res-15 on foe, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 10% of unit's Def during combat (excluding area-of-effect Specials). When unit's Special triggers, neutralizes foe's \"reduces damage by X%\" effects from foe's non-Special skills (excluding when dealing damage with an area-of-effect Special).\nAfter combat, if Special cooldown count is at its maximum value, grants Special cooldown count-1."
+    },
+    "icon": 2771,
     "HARD_ALT_NAME": [
       "Heir to Openness",
       "B Alfonse",
@@ -135501,8 +135557,13 @@
         "frobin8": "5"
       }
     },
-    "refine": {},
-    "icon": false,
+    "refine": {
+      "special": [
+        "At start of player phase or enemy phase, grants Def/Res+7 to unit and allies within 2 spaces of unit for 1 turn.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5 during combat.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Special cooldown count-2 to unit or ally before unit's or ally's first follow-up attack during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit or ally to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow X%\u3011during combat (X = highest total bonuses among allies on the map (including unit) \u00d7 4; max 100; triggers only when X \u2265 1).\nUnit deals +25 damage (excluding area-of-effect Specials) and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials)."
+      ],
+      "description": "Accelerates Special trigger (cooldown count-1).\nIf a Rally or movement Assist skill is used by unit, grants another action to unit (once per turn; if another effect that grants action to unit has been activated at the same time, this effect is also considered to have been triggered).\nIf a Rally or movement Assist skill is used by unit, if there is no\u3010Divine Vein (Ice)\u3011currently applied by unit or allies, applies\u3010Divine Vein (Ice)\u3011 to spaces 2 spaces away from target after movement for 1 turn (excludes spaces occupied by a foe, destructible terrain other than Divine Vein, and warp spaces in Rival Domains).\nAfter unit acts (if Canto triggers, after Canto) or, if defending in Aether Raids, at the start of enemy phase, if there is no\u3010Divine Vein (Ice)\u3011 currently applied by unit or allies, applies \u3010Divine Vein (Ice)\u3011to spaces 2 spaces away from unit for 1 turn (excludes spaces occupied by a foe, destructible terrain other than Divine Vein, and warp spaces in Rival Domains).\nInflicts Atk/Spd/Def/Res-15 on foe, neutralizes penalties on unit, and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat, and also, when unit's Special triggers, neutralizes foe's \"reduces damage by X%\" effects from foe's non-Special skills (excluding area-of-effect Specials)."
+    },
+    "icon": 2773,
     "HARD_ALT_NAME": [
       "Exalt's Right Hand",
       "Robin: Exalt's Right Hand",
@@ -136892,7 +136953,9 @@
       "Momentum 3": {
         "eliwood6": "4",
         "ninian5": "4",
-        "sigurd6": "4"
+        "sigurd6": "4",
+        "cai": "4",
+        "dietrich": "4"
       },
       "Momentum 4": {
         "sigurd5": "5"
@@ -151487,7 +151550,8 @@
         "thorr3": "5",
         "felix5": "5",
         "lachesis3": "5",
-        "sharena6": "5"
+        "sharena6": "5",
+        "cai": "5"
       }
     },
     "icon": false,
@@ -157739,7 +157803,8 @@
       "Heavenly Soar": {
         "baldr3": "5",
         "mia6": "5",
-        "thorr3": "5"
+        "thorr3": "5",
+        "elincia5": "5"
       }
     },
     "icon": 2595,
@@ -160114,7 +160179,8 @@
       "Swift Specter": {
         "celica8": "5",
         "sharena6": "5",
-        "fbyleth6": "5"
+        "fbyleth6": "5",
+        "dietrich": "5"
       }
     },
     "refine": {},
@@ -162281,7 +162347,8 @@
       "Shatter Slash": {
         "ingrid5": "5",
         "alm6": "5",
-        "sylvain4": "5"
+        "sylvain4": "5",
+        "dietrich": "5"
       }
     },
     "refine": {},
@@ -162779,7 +162846,8 @@
     "reference": {
       "A/S Rival Break": {
         "lachesis3": "5",
-        "sylvain4": "5"
+        "sylvain4": "5",
+        "cai": "5"
       }
     },
     "icon": 2675,
@@ -163238,7 +163306,8 @@
     "reference": {
       "Atk/Res Unrest": {
         "lyon6": "5",
-        "ash4": "5"
+        "ash4": "5",
+        "veyle": "5"
       }
     },
     "refine": {},
@@ -168536,7 +168605,7 @@
         "name": "Yours to Climb",
         "stats": {
           "rng": "1",
-          "sp": "500"
+          "sp": "400"
         },
         "required": [
           "Sing"
@@ -169060,5 +169129,711 @@
     ],
     "slot": "Passive C",
     "wpn": false
+  },
+  "squadacedf": {
+    "name": "Squad Ace DF",
+    "skill": [
+      {
+        "name": "Squad Ace DF 1",
+        "stats": {
+          "sp": "120"
+        },
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+2.",
+        "bonus": {
+          "spd": 2,
+          "def": 2,
+          "res": 2
+        }
+      },
+      {
+        "name": "Squad Ace DF 2",
+        "stats": {
+          "sp": "180"
+        },
+        "required": [
+          "Squad Ace DF 1"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+3.",
+        "bonus": {
+          "spd": 3,
+          "def": 3,
+          "res": 3
+        }
+      },
+      {
+        "name": "Squad Ace DF 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Squad Ace DF 2"
+        ],
+        "slot": "Sacred Seal",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Grants Spd/Def/Res+4.",
+        "bonus": {
+          "spd": 4,
+          "def": 4,
+          "res": 4
+        }
+      }
+    ],
+    "reference": {
+      "Squad Ace DF 1": {},
+      "Squad Ace DF 2": {},
+      "Squad Ace DF 3": {}
+    },
+    "icon": 2210,
+    "HARD_ALT_NAME": [
+      "Squad Ace DF 1",
+      "Squad Ace DF 2",
+      "Squad Ace DF 3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Sacred Seal",
+    "wpn": false
+  },
+  "fellprotection+": {
+    "name": "Fell Protection+",
+    "skill": [
+      {
+        "name": "Fell Protection+",
+        "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +5.\nFor allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, and also, if this unit's Res \u2265 ally's foe's Res+5 at start of combat, reduces damage from attacks by 40% during combat (excluding area-of-effect Specials), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack and before foe's first follow-up attack during combat (cannot exceed the foe's maximum Special cooldown).\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and grants Special cooldown count-1 to unit before unit's first attack during combat. If unit's Res \u2265 foe's Res+5, reduces damage from attacks during combat by 40% (excluding area-of-effect Specials), and also, if foe's attack can trigger foe's Special, foe cannot trigger Specials during combat (excluding area-of-effect Specials).\nRestores 7 HP to unit after combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Fell Protection"
+        ],
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Fell Protection+": {
+        "veyle": "5"
+      },
+      "Fell Protection": {}
+    },
+    "refine": {},
+    "icon": 2776,
+    "HARD_ALT_NAME": [],
+    "ALT_NAME": [
+      "Fell Protection II",
+      "Fell Protection 2",
+      "Fell Protection+"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "ribeiraspear": {
+    "name": "Ribeira Spear",
+    "skill": [
+      {
+        "name": "Ribeira Spear",
+        "description": "Accelerates Special trigger (cooldown count-1).\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5) and grants Special cooldown count-2 to unit or ally before unit's or ally's first follow-up attack during combat, and also, if unit's or ally's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's or ally's follow-up attacks during combat.\nNeutralizes unit's penalties to Atk/Spd, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Underworld Burst Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 3 spaces away (unit cannot attack adjacent foes).\nUnit deals +10 damage during combat (excluding area-of-effect Specials).\nAfter combat, if unit attacked, applies \u3010Divine Vein (Hell)\u3011to foe's space and each space diagonally adjacent to foe's space for 1 turn.\nCannot move through spaces within 3 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1 or foe can counterattack regardless of unit's range.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. Once used, this Style cannot be used for two turns.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ribeira Spear": {
+        "cai": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Ribeira Spear",
+      "Child of Riberia",
+      "Cai: Child of Riberia",
+      "Entwined Cai",
+      "E Cai",
+      "En Cai",
+      "Normal Cai",
+      "Base Cai",
+      "Regular Cai",
+      "cai"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc218"
+  },
+  "azureimpetus": {
+    "name": "Azure Impetus",
+    "skill": [
+      {
+        "name": "Azure Imeptus",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Momentum 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Blue_Lance",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Inflicts Spd/Def/Res-4 on foe, unit deals +X damage (X = number of spaces from start position to end position of whoever initiated combat \u00d7 5; max 20; including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and reduces damage from foe's attacks by 10 (excluding area-of-effect Specials) during combat.\nIf unit initiates combat after moving to a different space, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat (excluding Røkkr area-of-effect Specials); if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (if number of spaces from start position to end position \u2265 3, X = 2; otherwise, X = 1).\nIf unit initiates combat against a blue foe, disables skills of all foes, excluding foe in combat.\nIf unit initiates combat, disables skills of all blue foes, excluding foe in combat during combat."
+      }
+    ],
+    "reference": {
+      "Azure Impetus": {
+        "cai": "5"
+      }
+    },
+    "icon": 2777,
+    "HARD_ALT_NAME": [
+      "Azure Impetus"
+    ],
+    "ALT_NAME": [
+      "Impetus Azure"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "brio": {
+    "name": "Brio",
+    "skill": [
+      {
+        "name": "Brio",
+        "description": "Enables\u3010Leap\u3011and\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAt start of turn, grants \"unit can move 1 extra space\" to unit (that turn only; does not stack).\nAfter start-of-turn skills trigger, if\u3010Stall\u3011 is active on unit, neutralizes the \"unit can move 1 extra space\" effect of this skill.\nAt start of player phase or enemy phase, grants \u3010Truly Incited\u3011,\u3010Atk Liberate\u3011and \u3010Spd Liberate\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 (excluding area-of-effect Specials) during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers\u3010Potent Follow 100%\u3011 during combat.",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Brio": {
+        "cai": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2778,
+    "HARD_ALT_NAME": [
+      "Brio"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "answerer": {
+    "name": "Answerer",
+    "skill": [
+      {
+        "name": "Answerer",
+        "description": "Accelerates Special trigger (cooldown count-2; max cooldown count value cannot be reduced below 1).\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Atk/Spd/Def-7, \u3010Sabotage\u3011,\u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011 on closest foes and foes within 2 spaces of those foes through their next actions.\nAfter combat initiated by unit, inflicts Atk/Spd/Def-7,\u3010Sabotage\u3011,\u3010Spd Shackle\u3011, and\u3010Def Shackle\u3011on foes within 2 spaces of unit through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials) during combat. If decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Answerer": {
+        "dietrich": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Answerer",
+      "Alluring Killer",
+      "Dietrich: Alluring Killer",
+      "Vista Dietrich",
+      "V Dietrich",
+      "Vst Dietrich",
+      "Normal Dietrich",
+      "Base Dietrich",
+      "Regular Dietrich",
+      "dietrich"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw226"
+  },
+  "crimsonimpetus": {
+    "name": "Crimson Impetus",
+    "skill": [
+      {
+        "name": "Crimson Imeptus",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Momentum 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Cavalry",
+            "Flying"
+          ]
+        ],
+        "description": "Inflicts Spd/Def/Res-4 on foe, unit deals +X damage (X = number of spaces from start position to end position of whoever initiated combat \u00d7 5; max 20; including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and reduces damage from foe's attacks by 10 (excluding area-of-effect Specials) during combat.\nIf unit initiates combat after moving to a different space, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat (excluding Røkkr area-of-effect Specials); if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (if number of spaces from start position to end position \u2265 3, X = 2; otherwise, X = 1).\nIf unit initiates combat against a red foe, disables skills of all foes, excluding foe in combat.\nIf unit initiates combat, disables skills of all red foes, excluding foe in combat during combat."
+      }
+    ],
+    "reference": {
+      "Crimson Impetus": {
+        "dietrich": "5"
+      }
+    },
+    "icon": 2779,
+    "HARD_ALT_NAME": [
+      "Crimson Impetus"
+    ],
+    "ALT_NAME": [
+      "Impetus Crimson"
+    ],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "movingshadow": {
+    "name": "Moving Shadow",
+    "skill": [
+      {
+        "name": "Moving Shadow",
+        "description": "Unit can move through foes' spaces.\nUnit can move to a space within 4 spaces of unit (treated as Warp movement).\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, foe suffers +10 damage from attacks (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\nReduces damage from foe's attacks by 7 (excluding area-of-effect Specials) and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\nAfter combat initiated by unit and after subsequent\u3010Cadenza\u3011combat, enables \u3010Cadenza\u3011against any foe within two spaces of unit (up to twice per turn; does not trigger if \u3010Cadenza\u3011is used against foes three or more spaces away from unit).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Moving Shadow": {
+        "dietrich": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2780,
+    "HARD_ALT_NAME": [
+      "Moving Shadow"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "mahadusspear": {
+    "name": "Mahadu s Spear",
+    "skill": [
+      {
+        "name": "Mahadu's Spear",
+        "description": "Accelerates Special trigger (cooldown count-1). Grants HP+7. Unit can counterattack regardless of foe's range.\nFor unit and allies within 3 rows or 3 columns centered on unit, restores 40% of unit's or ally's max HP as their combat begins (triggers after effects that deal damage as combat begins; only highest value applied; does not stack), grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), and reduces the effect of\u3010Deep Wounds\u3011by 50% during combat, and also, if unit's or ally's Def \u2265 foe's Def+5, disables unit's or ally's and foe's skills that change attack priority during combat.\nUnit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials) during combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Earthen Throw Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes within 5 spaces of unit and 3 rows or 3 columns centered on unit regardless of unit's range.\nUnit suffers a counterattack if any of the following conditions are met: foe is armored, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nUnit cannot move or attack structures, after-combat movement effects do not occur, unit's area-of-effect Specials cannot be triggered, and remaining movement granted from Canto is treated as 0. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Mahadu's Spear": {
+        "theodora": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Mahadu's Spear",
+      "Mahadus Spear",
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc219"
+  },
+  "royalresolve": {
+    "name": "Royal Resolve",
+    "skill": [
+      {
+        "name": "Royal Resolve",
+        "description": "When Special triggers, boosts damage by unit's Def.\nAt start of player phase or enemy phase, grants\u3010Drain Cancel\u3011,\u3010Atk Liberate\u3011, and\u3010Def Liberate\u3011to unit and allies within 3 spaces of unit for 1 turn.\nReduces damage from foe's attacks by 40% (excluding area-of-effect Specials) and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.\nIf unit initiates combat, if foe initiates combat and the number of spaces from unit's space to foe's space \u2265 4, or it is unit's first or second combat this turn initiated by foe where the number of spaces from unit's space to foe's space \u2264 3, calculates damage from foe's attacks at 50% during combat (excluding area-of-effect Specials; this calculation stacks with other effects that calculate damage at X% such as Potent Follow).",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Royal Resolve": {
+        "theodora": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Royal Resolve"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "vivace": {
+    "name": "Vivace",
+    "skill": [
+      {
+        "name": "Vivace",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Guard 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Blue_Lance",
+            "Green_Axe"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Reduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials).\nIf unit initiates combat or is within 3 spaces of an ally, inflicts Atk/Def/Res-4 on foe, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit, deals damage = 20% of unit's Def (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Def (excluding area-of-effect Specials), and neutralizes effects that prevent unit's counterattacks during combat."
+      }
+    ],
+    "reference": {
+      "Vivace": {
+        "theodora": "5"
+      }
+    },
+    "icon": 2781,
+    "HARD_ALT_NAME": [
+      "Vivace"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "adtenethone": {
+    "name": "A D Tenet Hone",
+    "skill": [
+      {
+        "name": "A/D Tenet Hone",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Atk/Def Oath 3"
+        ],
+        "description": "At start of player phase or enemy phase, grants \u3010Bulwark\u3011to unit for 1 turn, and grants Atk/Def+6 and \"neutralizes penalties on unit during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants bonus to unit's Atk/Def = number of allies within 3 rows or 3 columns centered on unit \u00d7 2 (max 6), unit deals +5 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\n\u3010Bulwark\u3011\nFoes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).",
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ]
+      }
+    ],
+    "reference": {
+      "A/D Tenet Hone": {
+        "theodora": "5"
+      }
+    },
+    "icon": 2782,
+    "HARD_ALT_NAME": [
+      "A/D Tenet Hone"
+    ],
+    "ALT_NAME": [
+      "Attack/Defense Tenet Hone",
+      "Atk/Def Tenet Hone"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "gonosenecho": {
+    "name": "Go No Sen Echo",
+    "skill": [
+      {
+        "name": "Go No Sen Echo",
+        "stats": {
+          "sp": "0"
+        },
+        "slot": "Passive X",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Red_Breath",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Blue_Breath",
+            "Green_Axe",
+            "Green_Beast",
+            "Green_Breath",
+            "Colorless_Beast",
+            "Colorless_Breath"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If unit initiates combat, foe can counterattack before unit's first attack.\nFoe cannot make a follow-up attack, reduces damage from foe's attacks by -5 (excluding area-of-effect Specials), and if unit's Spd \u2265 30 at start of battle, triggers\u3010Potent Follow X%\u3011 during combat (if unit cannot perform follow-up and attack twice, X = 100; otherwise, X = 50; \"at start of battle\" excludes increases to Spd granted after ally is deployed, such as Legendary Effects, Mythic Effects, Bonus Heroes, Great Talent, etc.)."
+      }
+    ],
+    "reference": {
+      "Go No Sen Echo": {
+        "theodora": "5"
+      }
+    },
+    "icon": 2783,
+    "HARD_ALT_NAME": [
+      "Go No Sen Echo"
+    ],
+    "ALT_NAME": [
+      "Patience Echo"
+    ],
+    "slot": "Passive X",
+    "wpn": false
+  },
+  "enchantingbow": {
+    "name": "Enchanting Bow",
+    "skill": [
+      {
+        "name": "Enchanting Bow",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes.\nFor foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5 on foe, foe cannot counterattack, and foe suffers +10 damage (excluding area-of-effect Specials) during combat.\nGrants Atk/Spd/Def/Res+10 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat. If decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Enchanting Bow": {
+        "leda": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Hunting Bow",
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw151"
+  },
+  "improviso": {
+    "name": "Improviso",
+    "skill": [
+      {
+        "name": "Improviso",
+        "stats": {
+          "rng": "1",
+          "sp": "400"
+        },
+        "required": [
+          "Play"
+        ],
+        "slot": "Assist",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "If target ally has already acted, grants another action to target ally, and if Canto has already been triggered, re-enables Canto.\nIf target ally can take an action, grants \u3010Perform\u3011to target ally for 1 turn.\nGrants\u3010Anathema\u3011and\u3010Creation Pulse\u3011 to unit, target ally, and allies within two spaces of unit and target ally for one turn.\nAfter Canto (including cases where action is ended due to Canto Control), if unit has used Assist skill on the current turn, grants another action to unit, re-enables Canto, and inflicts\u3010Isolation\u3011on unit and unit's Pair Up cohort (if any) through their next action (once per turn; does not trigger while restrictions on use of Style remain due to the effects of Song of Angels Style, excluding immediately after using Song of Angels Style; does not trigger when affected by effects of traps in Aether Raids during Canto).\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Song of Angels Style \u2014\u2014\u2014\u2014\u2014\nIf Assist skill is used and there is only one ally with the highest HP among allies who have already acted in spaces adjacent to unit (excluding target of Assist skill and allies with Sing or Dance), grants another action to that ally, and if Canto has already been triggered, re-enables Canto.\nWhen this Style grants another action to an ally, it cannot be used for two turns.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n(Cannot target an ally with Sing or Dance. This skill treated as Sing or Dance.)"
+      }
+    ],
+    "reference": {
+      "Improviso": {
+        "leda": "5"
+      }
+    },
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Improviso"
+    ],
+    "ALT_NAME": [],
+    "slot": "Assist",
+    "wpn": false
+  },
+  "twofoldpulse": {
+    "name": "Twofold Pulse",
+    "skill": [
+      {
+        "name": "Twofold Pulse",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Time's Pulse 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Grants bonus to unit's Atk/Spd = unit's max Special cooldown count value + 2, unit deals +5 damage (excluding area-of-effect Specials), reduces damage from foe's first attack by 5 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), grants Special cooldown count-1 to unit before unit's first attack, and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat."
+      }
+    ],
+    "reference": {
+      "Twofold Pulse": {
+        "leda": "5"
+      }
+    },
+    "icon": 2784,
+    "HARD_ALT_NAME": [
+      "Twofold Pulse"
+    ],
+    "ALT_NAME": [
+      "Twofold Pulse"
+    ],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "chosenscythe": {
+    "name": "Chosen Scythe",
+    "skill": [
+      {
+        "name": "Chosen Scythe",
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011. Accelerates Special trigger (cooldown count-1).\nIf foe does not use magic or staff, calculates damage using foe's Res (excluding area-of-effect Specials).\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts\u3010Inevitable Death\u3011 and\u3010Panic\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 (excluding area-of-effect Specials) during combat. If foe does not use magic or staff and if unit's HP > 1 and foe would reduce unit's HP to 0, unit survives with 1 HP (once per combat; does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce HP to 0).\nRestores 7 HP to unit after combat.",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Chosen Scythe": {}
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Chosen Scythe"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax200"
   }
 }

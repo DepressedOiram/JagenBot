@@ -56,6 +56,7 @@ function Character:default_options()
         bonus = false,
         support = false,
         aide = false,
+        vignette = false,
     }
 end
 
@@ -95,6 +96,7 @@ function Character:setup()
     
     self.resplendent = self.options.resplendent
     self.aide = self.options.aide
+    self.vignette = self.options.vignette
     self.bonus = self.options.bonus
     
     self.support = self.options.support
@@ -338,6 +340,10 @@ function Character:get_info()
     if self:is_chosen() then
         text = text .. string.format("%s**%s Clash**\n", self:blessing_icon(), self.data.blessing)
     end
+
+    if self:is_vista() then
+        text = text .. string.format("%sVista Hero\n", heroes_pack:get("vignette"))
+    end
     
     -- Check for Duel
     if self.data.duel then
@@ -392,8 +398,19 @@ function Character:get_mod()
         add = add .. string.format("%s+2 ", heroes_pack:get("resplendent", "💠"))
     end
 
-     if self.aide then
+    if self.aide then
         add = add .. string.format("%s+1 ", heroes_pack:get("aide", "💠"))
+    end
+
+    if self.vignette then
+        local id = tonumber(self.data.id)
+
+        -- Heroes released after or during 8.9.0
+        if id <= 1148 then
+            add = add .. string.format("%s+4 ", heroes_pack:get("vignette", "💠"))
+        else
+            add = add .. string.format("%s+2 ", heroes_pack:get("vignette", "💠"))
+        end
     end
     
     if self.bonus then
@@ -479,6 +496,19 @@ function Character:final_base()
     -- Aided Bonus
     if self.aide then
         base = base + 1
+    end
+
+    -- Vignette Bonus
+    if self.vignette then
+        
+        local id = tonumber(self.data.id)
+
+        -- Heroes released after or during 8.9.0
+        if id <= 1148 then
+            base = base + 4
+        else 
+            base = base + 2
+        end
     end
 
     -- Summoner support bonus
@@ -841,6 +871,10 @@ end
 
 function Character:is_chosen()
     return (self.data.type ==  "chosen")
+end
+
+function Character:is_vista()
+    return (self.data.type == "vista")
 end
 
 function Character:has_resplendent()

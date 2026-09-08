@@ -156,7 +156,9 @@
             "Beast": []
         },
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Improviso"
+            ],
             "special": [],
             "A": [
                 "Atk/Spd Hexedge",
@@ -265,13 +267,16 @@
                 ]
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Fiery Fang"
+            ]
         },
         "reference_skill": {
             "assist": [],
             "special": [
                 "Windfire Charm",
-                "Fireflood Charm"
+                "Fireflood Charm",
+                "Royal Resolve"
             ],
             "A": [
                 "Blessed Bow",
@@ -283,7 +288,8 @@
             ],
             "C": [
                 "Atk/Spd Liberate",
-                "Atk/Res Liberate"
+                "Atk/Res Liberate",
+                "Brio"
             ],
             "X": [],
             "S": [],
@@ -500,7 +506,8 @@
                 "Zephyr Breath"
             ],
             "Beast": [
-                "Chiseled Antler"
+                "Chiseled Antler",
+                "Fiery Fang"
             ]
         },
         "reference_skill": {
@@ -514,6 +521,7 @@
                 "Windfire Charm",
                 "Fireflood Charm",
                 "Deluge Charm",
+                "Royal Resolve",
                 "True Emblem"
             ],
             "A": [
@@ -567,6 +575,7 @@
                 "A/D Outcry Seize",
                 "Atk/Spd Liberate",
                 "Atk/Res Liberate",
+                "Brio",
                 "Covetous One",
                 "Truly Yours"
             ],
@@ -709,6 +718,7 @@
                 "Atk/Spd Faith",
                 "A/S Tenet Hone",
                 "Spd/Res Faith",
+                "A/D Tenet Hone",
                 "D/R Tenet Hone",
                 "D/R Tenet Imbue",
                 "Darkling Guard II"
@@ -755,7 +765,9 @@
             ],
             "A": [],
             "B": [],
-            "C": [],
+            "C": [
+                "Moving Shadow"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -993,6 +1005,7 @@
             ],
             "Beast": [
                 "Cute Paper Crane",
+                "Fiery Fang",
                 "Quieting Antler",
                 "World-Tree Tail"
             ]
@@ -1452,7 +1465,9 @@
             "Lance": [],
             "Axe": [],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "The Inexhaustible"
+            ],
             "Dagger": [
                 "Bride of Life"
             ],
@@ -1519,6 +1534,7 @@
             ],
             "Axe": [
                 "Axe of Dusk",
+                "Chosen Scythe",
                 "Gate-Anchor Axe",
                 "Ilian Battleaxe",
                 "Majestic Glitnir",
@@ -1564,6 +1580,7 @@
             "C": [
                 "Brutal Tempest",
                 "Thunder Specter",
+                "Brio",
                 "Entwined Onrush",
                 "Forever Yours",
                 "The Heir to Light"
@@ -1999,7 +2016,9 @@
         "icon": "creationpulse",
         "reference_weapon": false,
         "reference_skill": {
-            "assist": [],
+            "assist": [
+                "Improviso"
+            ],
             "special": [],
             "A": [
                 "Blessed Bow",
@@ -2254,8 +2273,12 @@
                 "Final Sword",
                 "Young Lion Edge"
             ],
-            "Lance": [],
-            "Axe": [],
+            "Lance": [
+                "Mahadu's Spear"
+            ],
+            "Axe": [
+                "Majestic Glitnir"
+            ],
             "Staff": [
                 "Arcane Latona",
                 "Incurable+",
@@ -2339,9 +2362,22 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Fiery Fang"
+            ]
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [
+                "Royal Resolve"
+            ],
+            "A": [],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": [
             "Def Liberate"
@@ -2354,6 +2390,7 @@
         "icon": "defshackle",
         "reference_weapon": {
             "Sword": [
+                "Answerer",
                 "Arena Sword+",
                 "Princesses' Edge"
             ],
@@ -2466,6 +2503,7 @@
         "reference_weapon": {
             "Sword": [
                 "Ice Falchion",
+                "New Levin Sword",
                 "Princesses' Edge",
                 "Venin Edge"
             ],
@@ -2817,6 +2855,37 @@
             "Divine Vein Haze",
             "Haze Tile",
             "Haze Tiles"
+        ]
+    },
+    "divineveinhell": {
+        "name": "Divine Vein (Hell)",
+        "description": "Applies the following effects on space: Acts as difficult terrain for foes (moving over this space costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement). At start of enemy phase, deals 10 damage to foes (will not reduce foe's HP below 1). Inflicts Spd-5 on foes and foes suffer +10 damage (excluding area-of-effect Specials) during combat. (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)",
+        "color": "Colorless",
+        "icon": "divineveinhell",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [
+                "Ribeira Spear"
+            ],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": [
+            "Divine Vein Hell",
+            "Hell Tile",
+            "Hell Tiles"
         ]
     },
     "divineveinice": {
@@ -3248,7 +3317,9 @@
             "Lance": [],
             "Axe": [],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "The Inexhaustible"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
@@ -3263,7 +3334,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Royal Resolve"
+            ],
             "A": [],
             "B": [],
             "C": [
@@ -3507,7 +3580,9 @@
         "color": "Blue",
         "icon": "exposure",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "New Levin Sword"
+            ],
             "Lance": [
                 "Bereft Lance",
                 "Brilliant Brident",
@@ -3680,7 +3755,9 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Obscurit\u00e9"
+                ],
                 "Green_Tome": [
                     "Draconic Bond"
                 ],
@@ -4203,7 +4280,9 @@
             "Lance": [
                 "Holy-War Spear"
             ],
-            "Axe": [],
+            "Axe": [
+                "Majestic Glitnir"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -4926,6 +5005,33 @@
         },
         "HARD_ALT_NAME": []
     },
+    "inevitabledeath": {
+        "name": "Inevitable Death (Status Effect)",
+        "description": "Foes within 5 spaces of unit can move to the nearest spaces that are within foe's range from unit (unless space is impassable terrain; not affected by movement obstruction effects from skills).\nInflicts Atk/Spd/Def/Res-5 on unit and unit suffers +10 damage during combat (excluding area-of-effect Specials).",
+        "color": "Colorless",
+        "icon": "inevitabledeath",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [
+                "Chosen Scythe"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "infantryboots": {
         "name": "Infantry Boots",
         "description": "Grants +1 to movement to all allies for 1 turn.",
@@ -4985,6 +5091,7 @@
                 "Dragon's Dance II",
                 "Dragon's Twirl",
                 "Fate Unchanged...",
+                "Improviso",
                 "To Change Fate!",
                 "To Change Fate! II"
             ],
@@ -5009,6 +5116,27 @@
             "mark": "<:feh_duo:1317239462874578975><:Blue_Tome:1317239386491977749>Young Mark",
             "micaiah8": "<:feh_emblem:1317239481874780181><:Colorless_Tome:1317239438602145842>Emblem Micaiah"
         },
+        "HARD_ALT_NAME": []
+    },
+    "leap": {
+        "name": "Leap",
+        "description": "Unit can move through spaces that are normally impassable by unit and passable by flying units, as long as those spaces are not contiguous.",
+        "color": "Colorless",
+        "icon": false,
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [],
+            "B": [],
+            "C": [
+                "Brio"
+            ],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
         "HARD_ALT_NAME": []
     },
     "magictwinsave": {
@@ -5146,6 +5274,7 @@
                 "Pulse Tempest F",
                 "Assault Rush",
                 "Black Fang Bond",
+                "Brio",
                 "Divine Talon",
                 "Dromi II",
                 "Entwined Onrush",
@@ -5218,7 +5347,8 @@
             ],
             "Bow": [
                 "Bow of Love+",
-                "Bow of Loyalty"
+                "Bow of Loyalty",
+                "The Inexhaustible"
             ],
             "Dagger": [],
             "Tome": {
@@ -5514,6 +5644,9 @@
             "A": [],
             "B": [],
             "C": [
+                "A/S Tenet Hone",
+                "A/D Tenet Hone",
+                "D/R Tenet Hone",
                 "Glittering Anima",
                 "Twinkling Anima"
             ],
@@ -5602,6 +5735,7 @@
                 "Goddess Bearer",
                 "Goddess Bearer II",
                 "Heart of Crimea",
+                "Heart of Crimea II",
                 "Heir to Light",
                 "Order's Restraint+",
                 "Paranoia",
@@ -5750,6 +5884,7 @@
                 "Vengeful Lance"
             ],
             "Axe": [
+                "Chosen Scythe",
                 "Sneering Axe"
             ],
             "Staff": [
@@ -5935,6 +6070,7 @@
         "icon": "penalty",
         "reference_weapon": {
             "Sword": [
+                "Answerer",
                 "Blade of Renais",
                 "Bonded Blades",
                 "Flower of Ease",
@@ -6039,6 +6175,7 @@
         },
         "reference_skill": {
             "assist": [
+                "Improviso",
                 "Maiden's Solace",
                 "Pleasant Night",
                 "Tender Vision"
@@ -6124,6 +6261,7 @@
         "reference_weapon": false,
         "reference_skill": {
             "assist": [
+                "Improviso",
                 "Yours to Climb"
             ],
             "special": [],
@@ -6263,7 +6401,8 @@
             ],
             "Axe": [
                 "Axe of Dusk",
-                "Dawning Light"
+                "Dawning Light",
+                "Majestic Glitnir"
             ],
             "Staff": [],
             "Bow": [
@@ -6277,7 +6416,9 @@
                 ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Exalt's Tactics"
+                ]
             },
             "Breath": [],
             "Beast": [
@@ -6313,7 +6454,9 @@
                 "Justice Enforcer"
             ],
             "C": [],
-            "X": [],
+            "X": [
+                "Go No Sen Echo"
+            ],
             "S": [],
             "captain": [
                 "Decisive"
@@ -6334,6 +6477,7 @@
         "icon": "potentfollow",
         "reference_weapon": {
             "Sword": [
+                "Answerer",
                 "Ascending Blade",
                 "Blade of Renais",
                 "Deluxe BBQ",
@@ -6348,6 +6492,7 @@
             "Axe": [],
             "Staff": [],
             "Bow": [
+                "Enchanting Bow",
                 "Flame of M\u00faspell",
                 "Keen Coyote Bow",
                 "Royal Exalt Bow"
@@ -6403,6 +6548,7 @@
                 "Yngvi Ascendant+"
             ],
             "C": [
+                "Brio",
                 "Budding Flower",
                 "I'll Soar Higher!",
                 "New Way II",
@@ -7178,6 +7324,7 @@
         "icon": "sabotage",
         "reference_weapon": {
             "Sword": [
+                "Answerer",
                 "Deliverer's Brand",
                 "Ice Falchion"
             ],
@@ -7575,7 +7722,24 @@
         "name": "Smite",
         "description": "Range = 1. Pushes target ally 2 spaces away.",
         "color": "Colorless",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": [
+                "Fiery Fang"
+            ]
+        },
         "reference_skill": {
             "assist": [],
             "special": [],
@@ -7633,7 +7797,8 @@
             ],
             "B": [],
             "C": [
-                "Atk/Spd Liberate"
+                "Atk/Spd Liberate",
+                "Brio"
             ],
             "X": [],
             "S": [],
@@ -7651,6 +7816,7 @@
         "icon": "spdshackle",
         "reference_weapon": {
             "Sword": [
+                "Answerer",
                 "Arena Sword+",
                 "Princesses' Edge"
             ],
@@ -7789,6 +7955,7 @@
                 "Oracle's Breath"
             ],
             "Beast": [
+                "Fiery Fang",
                 "Preying Fang"
             ]
         },
@@ -7866,6 +8033,7 @@
             ],
             "C": [
                 "Stall Ploy 3",
+                "Brio",
                 "Dromi II",
                 "Fetters of Dromi",
                 "The True Dromi"
@@ -7886,6 +8054,7 @@
                 "Ancient Ragnell",
                 "Azure Twin Edge",
                 "Hoshido Raijinto",
+                "New Levin Sword",
                 "Sisters' Blade",
                 "Sonic Sword",
                 "Sublime Creator",
@@ -7896,7 +8065,9 @@
                 "Godly Devices",
                 "Guiding Lance",
                 "Holy Gradivus",
-                "Lance of Ruin"
+                "Lance of Ruin",
+                "Mahadu's Spear",
+                "Ribeira Spear"
             ],
             "Axe": [
                 "Bolt Axe",
@@ -7909,6 +8080,7 @@
             "Bow": [
                 "Hunting Bow",
                 "Intrinsic Mulagir",
+                "The Inexhaustible",
                 "Truth Seeker"
             ],
             "Dagger": [
@@ -7940,6 +8112,7 @@
         },
         "reference_skill": {
             "assist": [
+                "Improviso",
                 "Yours to Climb"
             ],
             "special": [
@@ -8333,7 +8506,9 @@
             "A": [],
             "B": [],
             "C": [
-                "Truly Inspired"
+                "Truly Inspired",
+                "Brio",
+                "Heart of Crimea II"
             ],
             "X": [],
             "S": [],

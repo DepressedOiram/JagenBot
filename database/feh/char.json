@@ -44438,15 +44438,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30eb\u30d5\u30ec\u5973",
     "voice": "Lauren Landa",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "kyusokyu (\u4e45\u84bc\u7a79)",
+    "resplendent_voice": "Lauren Landa",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d8/Robin_Fell_Vessel_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Robin_Fell_Vessel_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f1/Robin_Fell_Vessel_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Robin_Fell_Vessel_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Robin_Fell_Vessel_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/45/Robin_Fell_Vessel_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Robin_Fell_Vessel_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Robin_Fell_Vessel_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "ylisse"
     ],
@@ -44503,7 +44508,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I will close the gate.",
+          "Stay back!",
+          "Must kill Askr.",
+          "You are no match!"
+        ],
+        "Status": [
+          "Ah...",
+          "New clothes? Hmph... If this is your way of getting close to me, it is pathetic.",
+          "*startle* If you wish to live, retreat from me at once.",
+          "Perhaps I can utilize the power of Embla, the God of Closure.",
+          "I do understand the desire to keep foolish mortals at a distance.",
+          "Askr is only the beginning. All of humanity shall be no more.",
+          "You really think things like love...bonds...can fulfill me?",
+          "I wonder what you seek from me... I cannot imagine what goes on inside that head of yours."
+        ],
+        "Map Select": [
+          "I see.",
+          "If I must.",
+          "I shall close it."
+        ]
+      }
     },
     "short_name": "Legendary Female Robin",
     "SEARCH_NAME": "Legendary Female Robin",
@@ -155368,12 +155401,12 @@
       "mordecai"
     ],
     "prf": {
-      "": "fieryfang",
-      "eff": "fieryfang",
-      "atk": "fieryfang",
-      "spd": "fieryfang",
-      "def": "fieryfang",
-      "res": "fieryfang"
+      "": "fieryfangeff",
+      "eff": "fieryfangeff",
+      "atk": "fieryfangatk",
+      "spd": "fieryfangspd",
+      "def": "fieryfangdef",
+      "res": "fieryfangres"
     }
   },
   "hilda5": {
@@ -183271,10 +183304,15 @@
         "Dive-Bomb 1": "2",
         "Dive-Bomb 2": "3",
         "Dive-Bomb 3": "4",
-        "Aerial Maneuvers": "5"
+        "Aerial Maneuvers": "5",
+        "Flier Formation 1": "2",
+        "Flier Formation 2": "3",
+        "Flier Formation 3": "4",
+        "Heavenly Soar": "5"
       },
       "C": {
-        "Heart of Crimea": "5"
+        "Heart of Crimea": "5",
+        "Heart of Crimea II": "5"
       },
       "X": {}
     },
@@ -183378,12 +183416,12 @@
       "elincia6"
     ],
     "prf": {
-      "": "absoluteamiti",
-      "eff": "absoluteamiti",
-      "atk": "absoluteamiti",
-      "spd": "absoluteamiti",
-      "def": "absoluteamiti",
-      "res": "absoluteamiti"
+      "": "absoluteamitieff",
+      "eff": "absoluteamitieff",
+      "atk": "absoluteamitiatk",
+      "spd": "absoluteamitispd",
+      "def": "absoluteamitidef",
+      "res": "absoluteamitires"
     },
     "blessing": "Wind",
     "boost": {
@@ -185365,10 +185403,15 @@
         "Atk/Res Tempo 1": "2",
         "Atk/Res Tempo 2": "3",
         "Atk/Res Tempo 3": "4",
-        "Atk/Res Tempo 4": "5"
+        "Atk/Res Tempo 4": "5",
+        "Sabotage Res 1": "2",
+        "Sabotage Res 2": "3",
+        "Sabotage Res 3": "4",
+        "Atk/Res Unrest": "5"
       },
       "C": {
-        "Fell Protection": "5"
+        "Fell Protection": "5",
+        "Fell Protection+": "5"
       },
       "X": {}
     },
@@ -185480,12 +185523,12 @@
       "veyle4"
     ],
     "prf": {
-      "": "obscurite",
-      "eff": "obscurite",
-      "atk": "obscurite",
-      "spd": "obscurite",
-      "def": "obscurite",
-      "res": "obscurite"
+      "": "obscuriteeff",
+      "eff": "obscuriteeff",
+      "atk": "obscuriteatk",
+      "spd": "obscuritespd",
+      "def": "obscuritedef",
+      "res": "obscuriteres"
     },
     "blessing": "Astra",
     "boost": {
@@ -206259,12 +206302,12 @@
       "bernadetta3"
     ],
     "prf": {
-      "": "theinexhaustible",
-      "eff": "theinexhaustible",
-      "atk": "theinexhaustible",
-      "spd": "theinexhaustible",
-      "def": "theinexhaustible",
-      "res": "theinexhaustible"
+      "": "theinexhaustibleeff",
+      "eff": "theinexhaustibleeff",
+      "atk": "theinexhaustibleatk",
+      "spd": "theinexhaustiblespd",
+      "def": "theinexhaustibledef",
+      "res": "theinexhaustibleres"
     }
   },
   "frobin8": {
@@ -206502,12 +206545,12 @@
       "frobin9"
     ],
     "prf": {
-      "": "exaltstactics",
-      "eff": "exaltstactics",
-      "atk": "exaltstactics",
-      "spd": "exaltstactics",
-      "def": "exaltstactics",
-      "res": "exaltstactics"
+      "": "exaltstacticseff",
+      "eff": "exaltstacticseff",
+      "atk": "exaltstacticsatk",
+      "spd": "exaltstacticsspd",
+      "def": "exaltstacticsdef",
+      "res": "exaltstacticsres"
     }
   },
   "alfonse5": {
@@ -206699,12 +206742,12 @@
       "alfonse7"
     ],
     "prf": {
-      "": "majesticglitnir",
-      "eff": "majesticglitnir",
-      "atk": "majesticglitnir",
-      "spd": "majesticglitnir",
-      "def": "majesticglitnir",
-      "res": "majesticglitnir"
+      "": "majesticglitnireff",
+      "eff": "majesticglitnireff",
+      "atk": "majesticglitniratk",
+      "spd": "majesticglitnirspd",
+      "def": "majesticglitnirdef",
+      "res": "majesticglitnirres"
     }
   },
   "felix3": {
@@ -206880,12 +206923,12 @@
       "felix5"
     ],
     "prf": {
-      "": "newlevinsword",
-      "eff": "newlevinsword",
-      "atk": "newlevinsword",
-      "spd": "newlevinsword",
-      "def": "newlevinsword",
-      "res": "newlevinsword"
+      "": "newlevinswordeff",
+      "eff": "newlevinswordeff",
+      "atk": "newlevinswordatk",
+      "spd": "newlevinswordspd",
+      "def": "newlevinsworddef",
+      "res": "newlevinswordres"
     }
   },
   "panette": {
@@ -236150,7 +236193,8 @@
       "elibe"
     ],
     "chibi": [
-      "fe7"
+      "fe7",
+      "shadows"
     ],
     "quotes": {
       "Castle Hall": [
@@ -258762,6 +258806,724 @@
     "boost": {
       "hp": 3,
       "res": 4
+    }
+  },
+  "cai": {
+    "name": "Cai",
+    "title": "Child of Ribeira",
+    "description": "An energetic, earnest boy who loves his family. Wishes for victory in the Heroic Games for the sake of his father. Appears in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "hanada (\u306F\u306A\u3060)",
+    "move": "Cavalry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1411",
+    "type": "entwined",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 9,
+      "spd": 12,
+      "def": 8,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 80,
+      "def": 55,
+      "res": 60
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Ribeira Spear": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Clash 1": "2",
+        "Atk/Spd Clash 2": "3",
+        "Atk/Spd Clash 3": "4",
+        "A/S Rival Break": "5"
+      },
+      "B": {
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Azure Impetus": "5"
+      },
+      "C": {
+        "Brio": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Cai_Child_of_Ribeira_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Cai_Child_of_Ribeira_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Cai_Child_of_Ribeira_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Cai_Child_of_Ribeira_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Child of Riberia",
+      "Cai: Child of Riberia",
+      "Entwined Cai",
+      "E Cai",
+      "En Cai",
+      "Normal Cai",
+      "Base Cai",
+      "Regular Cai",
+      "cai"
+    ],
+    "HARD_ALT_NAME": [
+      "Child of Riberia",
+      "Cai: Child of Riberia",
+      "Entwined Cai",
+      "E Cai",
+      "En Cai",
+      "Normal Cai",
+      "Base Cai",
+      "Regular Cai",
+      "cai"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u3064\u306a\u304c\u308a\u30ab\u30a4",
+    "voice": "Zeno Robinson",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "My mom's jewel buried itself in my hand. I still don't understand it, but I guess that doesn't change anything.",
+        "Growing up, my pop was always training me for combat. It was weird back then, but it's paying off now!",
+        "Do you have orniuses here? They're huge birds that me, Tialla, and Peter used to try to catch.",
+        "Askr is beautiful. Some parts remind me of Ribeira. I'm glad I got to meet you too, Summoner.",
+        "I saw a cute owl, and I wanted to give it some ginji fruit or something, but I didn't have anything with me."
+      ],
+      "Visit": [
+        "Hi there! My name's Cai. I'm kinda nervous, heh, but I've got a greeting from [F]!"
+      ],
+      "Level": [
+        "I'm growing like a weed! And I'm gonna keep getting even stronger!",
+        "Nothing's gonna stop me!",
+        "Aww, is that it?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Cai, from Ribeira village! I'm here to fight a bunch and get strong so I can win the Heroic Games!"
+      ],
+      "Learn Skill": [
+        "Works for me, thanks! I'm feelin' pretty good!"
+      ],
+      "Confession": [
+        "Wow! That was another day of amazing battles! I've never seen fighters as strong as the Heroes.\nDagsion taught me the world's a big place. But Askr, the Heroes... There's so much I never even imagined!\nI feel so lucky to be summoned to Askr. Pop taught me how to fight, but now I'm learning about tactics.\nI've relied on Tialla for that stuff, but I'm learning so much here, I'll be able to pull my weight in the games!\nHmm... Is what I'm learning an unfair advantage in the games? Even if it is, I can't... I can't afford to lose.\nWell, I'm glad to know you've got my back here. Once peace returns in Askr, I hope you'll visit Dagsion!"
+      ],
+      "Special": [
+        "Here goes!",
+        "I'll show you!",
+        "I can't lose.",
+        "I see an opening!"
+      ],
+      "Status": [
+        "-",
+        "Pop's drills are why I'm so good with a spear.",
+        "Wha?! Oh... Ahaha. Good job catching me off guard. I coulda been in real trouble if you were a bad guy!",
+        "I'm gonna enter the Heroic Games and get my wish granted. I can't lose!",
+        "I'm really close with Tialla and Peter. We've been together since we were little.",
+        "I don't remember my mom, but I've always heard she was really pretty.",
+        "*groan* Pop is always disappearing on me outta nowhere...",
+        "Askr sure is pretty! I guess I never knew the world beyond Ribeira village was so big."
+      ],
+      "Map Select": [
+        "Sure thing!",
+        "C'mon, Cai...think!",
+        "Leave it to me!"
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Entwined Cai",
+    "SEARCH_NAME": "Entwined Cai",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Entwined Cai",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "lanceofriberia",
+      "eff": "lanceofriberia",
+      "atk": "lanceofriberia",
+      "spd": "lanceofriberia",
+      "def": "lanceofriberia",
+      "res": "lanceofriberia"
+    },
+    "bouquet": "DR",
+    "boost": {
+      "def": 2,
+      "res": 2
+    }
+  },
+  "dietrich": {
+    "name": "Dietrich",
+    "title": "Alluring Killer",
+    "description": "A swordsman who finds pleasure in fighting to the death. Has a sword called a Hero's Relic. Appears in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "bikku",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1412",
+    "type": "vista",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 10,
+      "spd": 11,
+      "def": 10,
+      "res": 9
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 85,
+      "spd": 90,
+      "def": 75,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "def"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Answerer": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Shatter Slash": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Specter": "5"
+      },
+      "B": {
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Crimson Impetus": "5"
+      },
+      "C": {
+        "Moving Shadow": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Dietrich_Alluring_Killer_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Dietrich_Alluring_Killer_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Dietrich_Alluring_Killer_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Dietrich_Alluring_Killer_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Alluring Killer",
+      "Dietrich: Alluring Killer",
+      "Vista Dietrich",
+      "V Dietrich",
+      "Vst Dietrich",
+      "Normal Dietrich",
+      "Base Dietrich",
+      "Regular Dietrich",
+      "dietrich"
+    ],
+    "HARD_ALT_NAME": [
+      "Alluring Killer",
+      "Dietrich: Alluring Killer",
+      "Vista Dietrich",
+      "V Dietrich",
+      "Vst Dietrich",
+      "Normal Dietrich",
+      "Base Dietrich",
+      "Regular Dietrich",
+      "dietrich"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u98a8\u5149\u30c7\u30a3\u30fc\u30c8\u30ea\u30d2",
+    "voice": "Xander Mobus",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I scent strength about those who have joined the Order of Heroes.",
+        "Shipboard from F\u00f3dlan, I encountered a remarkably powerful, beautiful Demonic Beast. I wish to face it.",
+        "Why do you seek countless Heroes? It cannot be that you, too, desire to pit yourself against the strongest?",
+        "The fell blade Answerer is but one Hero's Relic of House Lamine. There is another, but...my sister holds it.",
+        "My blade cries out to match blood for blood, Summoner. When is the next battle due?"
+      ],
+      "Visit": [
+        "I bear a message. But while I am here...I would face your strongest warrior in combat."
+      ],
+      "Level": [
+        "My blood thunders... Who is next?",
+        "Good.",
+        "An utter waste of time."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Dietrich Gregor Lamine. I see this is neither F\u00f3dlan nor Dagda. Send your strongest warriors to me."
+      ],
+      "Learn Skill": [
+        "Reaching for realms beyond... This will fuel my ascent."
+      ],
+      "Confession": [
+        "Ah, [S].\nI envy you. If I possessed a power like yours...\nI could summon countless opponents to me, to cross blades, to chip away at our very lives, and to achieve joy.\nWhat? You cannot duel the Heroes you summon? A dull restriction.\nSo it seems we may never duel. I had hoped to test the limits of your remarkable strength.\n*sigh* I will not dwell on it. Still, I am satisfied. I can cross blades with strong foes from many realms.\nMy expectations for you are high, Summoner. Dispatch me to the most grueling battles...\nYes, send me to the battlefields where my victory is far from assured."
+      ],
+      "Special": [
+        "Steel yourself!",
+        "Fall.",
+        "Let us duel.",
+        "Hahahahahaha!"
+      ],
+      "Status": [
+        "-",
+        "This blade is known as a Hero's Relic. Its name? Answerer.",
+        "Hm? You caught me. Hmm, well done. That will not happen again.",
+        "Those who stand on the battlefield must kill, or they will fall. It is that simple.",
+        "Oh? Does my face draw your eye? Hmph. Gaze as you like. I care not.",
+        "I wish to taste a different pleasure from those found in F\u00f3dlan or Dagda.",
+        "Askr, where Heroes roam unfettered... What exceptional opponents might I duel here?",
+        "You appear to lack strength...but something hidden within you impels me."
+      ],
+      "Map Select": [
+        "Indeed.",
+        "My blade cries out.",
+        "Onward."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Vista Dietrich",
+    "SEARCH_NAME": "Vista Dietrich",
+    "DISPLAY_NAME": "<:Red_Sword:1317239717707911188>Vista Dietrich",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "answerer",
+      "eff": "answerer",
+      "atk": "answerer",
+      "spd": "answerer",
+      "def": "answerer",
+      "res": "answerer"
+    }
+  },
+  "theodora": {
+    "name": "Theodora",
+    "title": "Mighty Queen",
+    "description": "Dauntless queen of Saramis. Her determination to bear the weight of her country resides in her right arm. Appears in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "Azusa",
+    "move": "Infantry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1413",
+    "type": "attuned",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 23,
+      "atk": 11,
+      "spd": 5,
+      "def": 10,
+      "res": 10
+    },
+    "growth": {
+      "hp": 65,
+      "atk": 90,
+      "spd": 30,
+      "def": 90,
+      "res": 70
+    },
+    "superboon": [
+      "atk",
+      "def",
+      "res"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Mahadu's Spear": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Royal Resolve": "5"
+    },
+    "passive": {
+      "A": {
+        "Rise Above 1": "2",
+        "Rise Above 2": "3",
+        "Rise Above 3": "4",
+        "Rise Above 4": "5"
+      },
+      "B": {
+        "Guard 1": "2",
+        "Guard 2": "3",
+        "Guard 3": "4",
+        "Vivace": "5"
+      },
+      "C": {
+        "Atk/Def Oath 1": "2",
+        "Atk/Def Oath 2": "3",
+        "Atk/Def Oath 3": "4",
+        "A/D Tenet Hone": "5"
+      },
+      "X": {
+        "Go No Sen Echo": "5"
+      }
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Theodora_Mighty_Queen_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Theodora_Mighty_Queen_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Theodora_Mighty_Queen_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Theodora_Mighty_Queen_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
+    ],
+    "HARD_ALT_NAME": [
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u97ff\u5fc3\u30bb\u30aa\u30c9\u30e9",
+    "voice": "Shara Kirby",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Yu Phas was kindhearted and strong. When I was young, I declared I would protect everyone, just as she did.",
+        "I nearly lost my claim to the throne. Then, I received an ancestral blessing and used it to become queen.",
+        "Do you have siblings, Summoner? My younger brother and I were close once. But those days can never return.",
+        "The presence of flying insects in our camp is unacceptable! What if they were found to be poisonous?",
+        "I've long hoped to rebuild the holy site of Ahm Lu, capital of Damascar, restoring the honor of Yu Phas."
+      ],
+      "Visit": [
+        "I am Theodora, queen of Saramis. I come bearing a gift from your friend, [F]."
+      ],
+      "Level": [
+        "Steady growth pays off in the end. Yet, these results will not satisfy me.",
+        "I shall aim for greater heights.",
+        "Such paltry growth is unacceptable."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Theodora, queen of Saramis. Even in this land, I fight for my people and the goddess Yu Phas."
+      ],
+      "Learn Skill": [
+        "Heh. Not bad. I approve."
+      ],
+      "Confession": [
+        "I am searching for someone skilled in the art of landscape painting. Can you suggest an artist among the Heroes?\nSince the written word is prohibited in Saramis, I shall tell my people of the scenery here by way of images.\nPaint it myself? A surprisingly rational thought. And I do, from time to time, practice at creating art.\nHowever, my retainer tends to wince when he sees my efforts. I believe my shortcomings are due to this arm.\nYou will grant my request? Good. Shall we begin our search for the subject of the painting?\nIn truth, I've hoped to spend more time with you. I seek understanding of your leadership skills."
+      ],
+      "Special": [
+        "Behold your downfall!",
+        "Crumble before me!",
+        "An offering for Yu Phas!",
+        "Follow me!"
+      ],
+      "Status": [
+        "-",
+        "I stand firm in my pride as a queen, even in this foreign land.",
+        "I understand your interest in my arm, but you must not touch it.",
+        "We children of Damascar owe a great debt to the goddess Yu Phas.",
+        "The written word is prohibited in Saramis. Your illustrations will be enough to convey our strategy here.",
+        "Even here, I bring honor to my country and its people with every victory.",
+        "I have seen no signs of Bonaventure or Tobias. I assume they are performing reconnaissance?",
+        "I don't intend to follow anyone weaker than me. Prove your wit can exceed my martial prowess."
+      ],
+      "Map Select": [
+        "*grunt*",
+        "Is this the best approach?",
+        "The queen stands ready."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Attuned Theodora",
+    "SEARCH_NAME": "Attuned Theodora",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Attuned Theodora",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "mahadusspear",
+      "eff": "mahadusspear",
+      "atk": "mahadusspear",
+      "spd": "mahadusspear",
+      "def": "mahadusspear",
+      "res": "mahadusspear"
+    }
+  },
+  "leda": {
+    "name": "Leda",
+    "title": "Rise of Caelus",
+    "description": "A beautiful dancer who plays an entrancing tune. Wishes to exact revenge on those who wronged her father and homeland. Appears in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "ekao",
+    "move": "Infantry",
+    "weapon": "Bow",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1414",
+    "type": "vista",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 11,
+      "def": 9,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 65,
+      "res": 55
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Enchanting Bow": "5"
+    },
+    "assist": {
+      "Play": "3",
+      "Improviso": "5"
+    },
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Waning Shot": "5"
+    },
+    "passive": {
+      "A": {
+        "Blade Session 1": "2",
+        "Blade Session 2": "3",
+        "Blade Session 3": "4",
+        "Rhythm Session": "5"
+      },
+      "B": {
+        "Spd Cantrip 1": "2",
+        "Spd Cantrip 2": "3",
+        "Spd Cantrip 3": "4",
+        "Spd/Def Allure": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Twofold Pulse": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Leda_Rose_of_Caelus_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Leda_Rose_of_Caelus_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Leda_Rose_of_Caelus_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Leda_Rose_of_Caelus_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
+    ],
+    "HARD_ALT_NAME": [
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u98a8\u5149\u30ec\u30c0",
+    "voice": "Katiana Sarkissian",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I hate those who destroyed my life. But I hate myself more for not being able to save others the same pain.",
+        "Is there anyone you hate enough to kill? No? Lucky. I've always had one particular person on my list.",
+        "I'm not surprised there are beautiful women among the Heroes. I wonder how many like song and dance?",
+        "The goddess Kalla gave me the title \"Rose of Caelus\" when I was about 13 years old.",
+        "Take care of what matters most. My vihuela and your divine weapon both need regular maintenance."
+      ],
+      "Visit": [
+        "Quite the lovely castle you have here. Before I leave, shall I play you a song, [F]?"
+      ],
+      "Level": [
+        "How do I look? Do I really have you that mesmerized?",
+        "I need to be stronger...so I can kill him.",
+        "It's not enough."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Leilidahna. Call me Leda. Let's get the fighting over with soon. I've got something I need to do."
+      ],
+      "Learn Skill": [
+        "What a good idea. Yeah, I don't mind this at all."
+      ],
+      "Confession": [
+        "I have something I want to talk about. Something...serious. Here, have a look at this list.\nIt's the names of those responsible for the Cydonia Massacre. I'm going to kill them.\nI want you to summon them here. All of them. Once they're here, I'll take my revenge!\nExcept... You can't do that, can you? You don't choose who to summon, and we Heroes can't kill each other.\nI understand all that. I had to ask. The idea wouldn't get out of my head.\nI'm sorry to come in here asking for things like that. Tell you what. Let me make it up to you with a song."
+      ],
+      "Special": [
+        "You want to get hurt?",
+        "I don't have time for this!",
+        "Are you mesmerized?",
+        "You won't win."
+      ],
+      "Status": [
+        "-",
+        "I would happily dance down the road to hell if it meant getting my wish granted.",
+        "*groan* I don't care how attractive you find me\u2014it's rude to touch someone without warning!",
+        "You want to hear a song? Fine. What kind shall I play?",
+        "My vihuela Obsidian is a treasured heirloom of House Cohendia.",
+        "If you want to see me dance, let's head to a tavern. You do have those here, don't you?",
+        "I don't have time to linger. I have someone to kill.",
+        "I don't make friends. But... I wouldn't mind being friends with you."
+      ],
+      "Map Select": [
+        "Yeah.",
+        "The song of battle plays.",
+        "You'll dance to my tune."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Vista Leda",
+    "SEARCH_NAME": "Vista Leda",
+    "DISPLAY_NAME": "<:Colorless_Bow:1317239404204654703>Vista Leda",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "enchantingbow",
+      "eff": "enchantingbow",
+      "atk": "enchantingbow",
+      "spd": "enchantingbow",
+      "def": "enchantingbow",
+      "res": "enchantingbow"
     }
   }
 }

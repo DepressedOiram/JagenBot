@@ -2597,7 +2597,15 @@
       "Khadein Male Beleth",
       "Khadein Beleth Male",
       "Khadein M Beleth",
-      "Khadein Beleth M"
+      "Khadein Beleth M",
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
     ],
     "HARD_ALT_NAME": [
       "petra",
@@ -2671,7 +2679,15 @@
       "Khadein Male Beleth",
       "Khadein Beleth Male",
       "Khadein M Beleth",
-      "Khadein Beleth M"
+      "Khadein Beleth M",
+      "Mighty Queen",
+      "Theodora: Mighty Queen",
+      "Attuned Theodora",
+      "A Theodora",
+      "Normal Theodora",
+      "Base Theodora",
+      "Regular Theodora",
+      "theodora"
     ],
     "heroes": {
       "arete": "<:Red_Tome:1317239730714316800>Arete",
@@ -2679,7 +2695,8 @@
       "dorothea2": "<:Colorless_Dagger:1317239418943438869>Summer Dorothea",
       "lif2": "<:Red_Tome:1317239730714316800>Valentines L\u00edf",
       "nailah3": "<:Red_Beast:1317239666944114688>Hatarian Nailah",
-      "petra": "<:Blue_Dagger:1317239367529529445>Petra"
+      "petra": "<:Blue_Dagger:1317239367529529445>Petra",
+      "theodora": "<:Blue_Lance:1317239378208096338>Attuned Theodora"
     },
     "name": "Azusa"
   },
@@ -5472,7 +5489,16 @@
       "Bridal Ash",
       "Duo Ash",
       "D Ash",
-      "ash4"
+      "ash4",
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
     ],
     "HARD_ALT_NAME": [
       "Normal F Corrin",
@@ -5600,7 +5626,16 @@
       "Bridal Ash",
       "Duo Ash",
       "D Ash",
-      "ash4"
+      "ash4",
+      "Rose of Caelus",
+      "Leda: Rose of Caelus",
+      "Vista Leda",
+      "V Leda",
+      "Vst Leda",
+      "Normal Leda",
+      "Base Leda",
+      "Regular Leda",
+      "leda"
     ],
     "heroes": {
       "ash4": "<:Colorless_Tome:1317239438602145842>Bridal Ash",
@@ -5610,6 +5645,7 @@
       "gullveig4": "<:Colorless_Tome:1317239438602145842>Ninja Gullveig",
       "igrene3": "<:Blue_Bow:1317239347577356328>Nabata Igrene",
       "kagero4": "<:Colorless_Dagger:1317239418943438869>Wind Kagero",
+      "leda": "<:Colorless_Bow:1317239404204654703>Vista Leda",
       "manuela": "<:Red_Sword:1317239717707911188>Winter Manuela",
       "meliai": "<:Green_Beast:1317239527953141870>Mel\u00edai",
       "olwenR": "<:Blue_Tome:1317239386491977749>Olwen (Resplendent)",
@@ -31244,7 +31280,8 @@
   "kyusokyu": {
     "heroes": {
       "flora3": "<:Colorless_Dagger:1317239418943438869>Ice Flora",
-      "noire": "<:Red_Bow:1317239680571543592>Rearmed Noire"
+      "noire": "<:Red_Bow:1317239680571543592>Rearmed Noire",
+      "frobin3R": "<:Colorless_Breath:1317239411980767363>Legendary Female Robin (Resplendent)"
     },
     "name": "kyusokyu (\u4e45\u84bc\u7a79)",
     "ALT_NAME": [
@@ -31266,7 +31303,23 @@
       "Rearmed Noire",
       "Rearm Noire",
       "Arm Noire",
-      "noire"
+      "noire",
+      "Resplendent Legendary Female Robin",
+      "Resplendent Legendary Robin Female",
+      "Resplendent Legendary F Robin",
+      "Resplendent Legendary Robin F",
+      "Resp Legendary Female Robin",
+      "Resp Legendary Robin Female",
+      "Resp Legendary F Robin",
+      "Resp Legendary Robin F",
+      "R Legendary Female Robin",
+      "R Legendary Robin Female",
+      "R Legendary F Robin",
+      "R Legendary Robin F",
+      "Legendary Female Robin (Resplendent)",
+      "Legendary Robin Female (Resplendent)",
+      "Legendary F Robin (Resplendent)",
+      "Legendary Robin F (Respledent)"
     ],
     "HARD_ALT_NAME": [
       "Polar-Perfect",
@@ -31286,7 +31339,23 @@
       "Rearmed Noire",
       "Rearm Noire",
       "Arm Noire",
-      "noire"
+      "noire",
+      "Resplendent Legendary Female Robin",
+      "Resplendent Legendary Robin Female",
+      "Resplendent Legendary F Robin",
+      "Resplendent Legendary Robin F",
+      "Resp Legendary Female Robin",
+      "Resp Legendary Robin Female",
+      "Resp Legendary F Robin",
+      "Resp Legendary Robin F",
+      "R Legendary Female Robin",
+      "R Legendary Robin Female",
+      "R Legendary F Robin",
+      "R Legendary Robin F",
+      "Legendary Female Robin (Resplendent)",
+      "Legendary Robin Female (Resplendent)",
+      "Legendary F Robin (Resplendent)",
+      "Legendary Robin F (Respledent)"
     ]
   },
   "yichuanzihina": {
@@ -32761,6 +32830,7 @@
   "hanada": {
     "heroes": {
       "alfred2": "<:Blue_Lance:1317239378208096338>Winter Alfred",
+      "cai": "<:Blue_Lance:1317239378208096338>Entwined Cai",
       "claude8": "<:Colorless_Bow:1317239404204654703>Young Claude",
       "lucina9": "<:Blue_Lance:1317239378208096338>Ferox Marth",
       "xane3": "<:Blue_Tome:1317239386491977749>Ancient Xane"
@@ -32801,7 +32871,16 @@
       "Y Claude",
       "Baby Claude",
       "Child Claude",
-      "claude8"
+      "claude8",
+      "Child of Riberia",
+      "Cai: Child of Riberia",
+      "Entwined Cai",
+      "E Cai",
+      "En Cai",
+      "Normal Cai",
+      "Base Cai",
+      "Regular Cai",
+      "cai"
     ]
   },
   "fujimitsuya": {
@@ -33147,6 +33226,7 @@
   },
   "bikku": {
     "heroes": {
+      "dietrich": "<:Red_Sword:1317239717707911188>Vista Dietrich",
       "dimitri2R": "<:Blue_Lance:1317239378208096338>Brave Dimitri (Resplendent)"
     },
     "name": "bikku",
@@ -33154,7 +33234,16 @@
       "Resplendent Brave Dimitri",
       "Resp Brave Dimitri",
       "R Brave Dimitri",
-      "Brave Dimitri (Resplendent)"
+      "Brave Dimitri (Resplendent)",
+      "Alluring Killer",
+      "Dietrich: Alluring Killer",
+      "Vista Dietrich",
+      "V Dietrich",
+      "Vst Dietrich",
+      "Normal Dietrich",
+      "Base Dietrich",
+      "Regular Dietrich",
+      "dietrich"
     ]
   },
   "sacanhen": {

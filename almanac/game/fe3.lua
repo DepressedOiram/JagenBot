@@ -35,14 +35,35 @@ local shard_bonus = {
 ---------------------------------------------------
 -- Inventory --
 ---------------------------------------------------
-local inventory = fe2.Character.inventory:use_as_base()
+local inventory = util.math.Inventory:new()
+
 inventory.eff_might = 3
-inventory:get_calc("atk").func = function(data, unit, item)
-if item:is_magic() then
-    return item.stats.mt
-else
-    return unit.stats.atk + item.stats.mt
-end end
+
+local function inventory_atk(data, unit, item)
+    if item:is_magic() then
+        return item.stats.mt
+    else
+        return unit.stats.atk + item.stats.mt
+    end
+end
+
+local function inventory_as(data, unit, item)
+    return unit.stats.spd - item.stats.wt
+end
+
+local function inventory_hit(data, unit, item)
+    if item:is_magic() then
+        return item.stats.hit
+    else
+        return item.stats.hit + (unit.stats.skl * 2)
+    end 
+end
+
+inventory:item_calc("atk", inventory_atk)
+inventory:item_calc("as", inventory_as)
+inventory:item_calc("hit", inventory_hit)
+inventory:item_calc("crit", function(data, unit, item) return item.stats.crit + util.floor((unit.stats.skl + unit.stats.lck) / 2) end)
+
 ---------------------------------------------------
 -- Character --
 ---------------------------------------------------
