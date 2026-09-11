@@ -169570,8 +169570,16 @@
           "**Can only** be used by: ",
           [
             "Red_Sword",
+            "Red_Breath",
+            "Red_Beast",
             "Blue_Lance",
-            "Green_Axe"
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
           ]
         ],
         "restriction_movement": [
