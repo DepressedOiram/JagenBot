@@ -454,7 +454,8 @@
                 "The Inexhaustible",
                 "Wind Parthia",
                 "Whitewind Bow+",
-                "Ylisse Ninja Bow"
+                "Ylisse Ninja Bow",
+                "Zephyr Bow"
             ],
             "Dagger": [
                 "Gainful Dagger+",
@@ -466,6 +467,7 @@
                     "Bouncin' Ball",
                     "Child's Compass",
                     "Rau\u00f0rcrab+",
+                    "Sacred Hope",
                     "Spring Dawning"
                 ],
                 "Blue_Tome": [
@@ -528,6 +530,7 @@
                 "Sly Swift Sparrow",
                 "Sly Sturdy Blow",
                 "Sly Mirror",
+                "Certain Blow",
                 "D Bonus Amp",
                 "Atk/Spd Hexblade",
                 "Spd/Res Hexblade",
@@ -980,6 +983,7 @@
                 "Salvage"
             ],
             "Bow": [
+                "Bow of Sacae",
                 "Rose-Quartz Bow",
                 "Royal Exalt Bow"
             ],
@@ -1025,7 +1029,8 @@
                 "Atk/Res Mastery",
                 "Atk/Spd Airspace",
                 "Atk/Res Airspace",
-                "Blue Skies 4"
+                "Blue Skies 4",
+                "Certain Blow"
             ],
             "B": [
                 "Preempt Amplify",
@@ -1466,6 +1471,7 @@
             "Axe": [],
             "Staff": [],
             "Bow": [
+                "Ornate Bow",
                 "The Inexhaustible"
             ],
             "Dagger": [
@@ -3463,11 +3469,13 @@
                 "Staff of Yngvi"
             ],
             "Bow": [
-                "Rapid-Crier Bow"
+                "Rapid-Crier Bow",
+                "Zephyr Bow"
             ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
+                    "Sacred Hope",
                     "Spring Dawning"
                 ],
                 "Blue_Tome": [
@@ -3594,6 +3602,7 @@
             "Staff": [],
             "Bow": [
                 "Rampart Bow",
+                "Sacaen Hunter",
                 "Skybound Bow"
             ],
             "Dagger": [
@@ -3999,7 +4008,9 @@
             "Staff": [
                 "Sweet Staff"
             ],
-            "Bow": [],
+            "Bow": [
+                "Zephyr Bow"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
@@ -4468,6 +4479,7 @@
             "Axe": [],
             "Staff": [],
             "Bow": [
+                "Sacaen Hunter",
                 "True-Bond Bow"
             ],
             "Dagger": [],
@@ -4733,7 +4745,8 @@
             ],
             "Staff": [],
             "Bow": [
-                "Dusk Rifle"
+                "Dusk Rifle",
+                "Ornate Bow"
             ],
             "Dagger": [],
             "Tome": {
@@ -5116,6 +5129,27 @@
             "mark": "<:feh_duo:1317239462874578975><:Blue_Tome:1317239386491977749>Young Mark",
             "micaiah8": "<:feh_emblem:1317239481874780181><:Colorless_Tome:1317239438602145842>Emblem Micaiah"
         },
+        "HARD_ALT_NAME": []
+    },
+    "lawsofsacae": {
+        "name": "Laws of Sacae",
+        "description": "Grants Atk/Spd/Def/Res+X \u00d7 2 to unit, unit deals +X \u00d7 3 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X \u00d7 3 (excluding area-of-effect Specials) during combat (X = number of allies on the map with the Laws of Sacae effect active, including unit; max 3).\nIf unit initiates combat, inflicts\u3010Share Spoils+\u3011 on target and foes within 2 spaces of target through their next actions after combat.",
+        "color": "Red",
+        "icon": "lawsofsacae",
+        "reference_weapon": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Sacaen Edicts"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
+        "reference_hero": {},
         "HARD_ALT_NAME": []
     },
     "leap": {
@@ -5723,7 +5757,8 @@
                 "Quadruple Hit"
             ],
             "A": [
-                "Prof's Guidance"
+                "Prof's Guidance",
+                "Sacaen Edicts"
             ],
             "B": [
                 "Bushido Tenet"
@@ -6117,7 +6152,8 @@
                 "Rapid-Crier Bow",
                 "Violdrake Bow",
                 "Whitewind Bow+",
-                "Ylisse Ninja Bow"
+                "Ylisse Ninja Bow",
+                "Zephyr Bow"
             ],
             "Dagger": [
                 "Dreamflake",
@@ -6133,6 +6169,7 @@
                     "Fiery Bolganone",
                     "Grimleal Text",
                     "Retainer's Report",
+                    "Sacred Hope",
                     "Spring Dawning"
                 ],
                 "Blue_Tome": [
@@ -6495,7 +6532,9 @@
                 "Enchanting Bow",
                 "Flame of M\u00faspell",
                 "Keen Coyote Bow",
-                "Royal Exalt Bow"
+                "Ornate Bow",
+                "Royal Exalt Bow",
+                "Zephyr Bow"
             ],
             "Dagger": [
                 "Abyssal Blade",
@@ -6537,6 +6576,7 @@
                 "Prof's Guidance",
                 "Proper Knight",
                 "Sacae's Decree",
+                "Sacaen Edicts",
                 "True Genius"
             ],
             "B": [
@@ -7011,7 +7051,9 @@
                 "Silver Spoon"
             ],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "Zephyr Bow"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],
@@ -7160,6 +7202,7 @@
             "leif3":"<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Scion Leif",
             "linde3":"<:feh_harmonized:1317239586929377371><:Red_Tome:1317239730714316800>Khadein Linde",
             "lyn11": "<:feh_harmonized:1317239586929377371><:Colorless_Bow:1317239404204654703>Harmonic Brave Lyn",
+            "lyn12": "<:feh_harmonized:1317239586929377371><:Red_Bow:1317239680571543592>Sacaen Lyn",
             "lysithea3":"<:feh_harmonized:1317239586929377371><:Colorless_Tome:1317239438602145842>Winter Lysithea",
             "marisa3":"<:feh_harmonized:1317239586929377371><:Green_Axe:1317239517136031897>Jehanna Marisa",
             "mia3": "<:feh_harmonized:1317239586929377371><:Colorless_Dagger:1317239418943438869>Summer Mia",
@@ -7340,6 +7383,7 @@
             "Staff": [],
             "Bow": [
                 "Failnaught",
+                "Sacaen Hunter",
                 "Survivalist Bow"
             ],
             "Dagger": [
@@ -7643,6 +7687,7 @@
                 "Sirius Pulse"
             ],
             "A": [
+                "Sacaen Edicts",
                 "Slate Illusion"
             ],
             "B": [
@@ -8078,6 +8123,7 @@
                 "Budding Staff"
             ],
             "Bow": [
+                "Bow of Sacae",
                 "Hunting Bow",
                 "Intrinsic Mulagir",
                 "The Inexhaustible",
@@ -8150,7 +8196,9 @@
             "Bow": [],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Sacred Hope"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": [
@@ -8486,7 +8534,9 @@
                 "Wedding-Bell Axe"
             ],
             "Staff": [],
-            "Bow": [],
+            "Bow": [
+                "Ornate Bow"
+            ],
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [],

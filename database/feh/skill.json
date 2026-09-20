@@ -5822,7 +5822,8 @@
         "caeda4": "5",
         "hinoka4": "5",
         "gatekeeper": "5",
-        "catria5": "5"
+        "catria5": "5",
+        "rebecca3": "5"
       },
       "Harsh Command": {
         "gunter": "3",
@@ -6211,7 +6212,8 @@
         "tharja8": "3",
         "falear5": "3",
         "leif5": "3",
-        "caeda7": "3"
+        "caeda7": "3",
+        "lyn12": "3"
       }
     },
     "refine": {},
@@ -6421,7 +6423,8 @@
         "tharja8": "4",
         "falear5": "4",
         "leif5": "4",
-        "caeda7": "4"
+        "caeda7": "4",
+        "lyn12": "4"
       }
     },
     "refine": {},
@@ -7469,7 +7472,8 @@
         "marth9": "3",
         "frobin9": "3",
         "tsubasa2": "3",
-        "cai": "3"
+        "cai": "3",
+        "shamir4": "3"
       }
     },
     "refine": {},
@@ -7695,7 +7699,8 @@
         "boucheron": "4",
         "frobin9": "4",
         "tsubasa2": "4",
-        "cai": "4"
+        "cai": "4",
+        "shamir4": "4"
       }
     },
     "refine": {},
@@ -7881,7 +7886,8 @@
         "malear5": "3",
         "jade": "3",
         "sylvain4": "3",
-        "dietrich": "3"
+        "dietrich": "3",
+        "takumi7": "3"
       }
     },
     "refine": {},
@@ -8109,7 +8115,8 @@
         "malear5": "4",
         "jade": "4",
         "sylvain4": "4",
-        "dietrich": "4"
+        "dietrich": "4",
+        "takumi7": "4"
       }
     },
     "refine": {},
@@ -10616,7 +10623,9 @@
         "roy3": "5",
         "reinhardt2": "5",
         "camilla4": "5",
-        "reinhardt3": "5"
+        "reinhardt3": "5",
+        "takumi7": "4",
+        "rebecca3": "4"
       },
       "Death Blow 2": {},
       "Death Blow 1": {
@@ -13061,7 +13070,8 @@
         "frederick2": "5",
         "merric3": "2",
         "ashe": "2",
-        "noire3": "3"
+        "noire3": "3",
+        "lyn12": "2"
       }
     },
     "refine": {},
@@ -50506,12 +50516,13 @@
       }
     ],
     "reference": {
+      "Seal Spd/Def 3": {
+        "ashe": "5",
+        "fshez2": "5"
+      },
       "Seal Spd/Def 2": {
-        "Seal Spd/Def 3": {
-          "ashe": "5",
-          "fshez2": "5"
-        },
-        "thea": "5"
+        "thea": "5",
+        "lyn12": "4"
       },
       "Seal Spd/Def 1": {}
     },
@@ -54155,7 +54166,8 @@
     "reference": {
       "AR-O Atk/Spd 3": {
         "naga": "5",
-        "frobin9": "4"
+        "frobin9": "4",
+        "shamir4": "4"
       },
       "AR-O Atk/Spd 2": {},
       "AR-O Atk/Spd 1": {}
@@ -57566,7 +57578,8 @@
         "gotoh": "4",
         "alm6": "4",
         "tharja8": "4",
-        "marth9": "4"
+        "marth9": "4",
+        "takumi7": "4"
       },
       "Time's Pulse 2": {},
       "Time's Pulse 1": {}
@@ -64797,7 +64810,8 @@
         "mia3": "5",
         "tharja5": "4",
         "dew": "5",
-        "eirika10": "4"
+        "eirika10": "4",
+        "rebecca3": "4"
       },
       "Atk/Spd Gap 2": {},
       "Atk/Spd Gap 1": {}
@@ -136682,7 +136696,8 @@
       "Shadow Shift 3": {
         "dorothea5": "4",
         "groa": "4",
-        "sigurd7": "4"
+        "sigurd7": "4",
+        "lyn12": "4"
       },
       "Shadow Shift 4": {
         "reginn3": "5",
@@ -140957,7 +140972,8 @@
       "Speedtaker 2": {},
       "Speedtaker 3": {
         "sharena6": "4",
-        "falear5": "4"
+        "falear5": "4",
+        "shamir4": "4"
       },
       "Speedtaker 4": {
         "lyn9": "5",
@@ -158801,7 +158817,8 @@
     ],
     "reference": {
       "Waning Shot": {
-        "hilda6": "5"
+        "hilda6": "5",
+        "takumi7": "5"
       }
     },
     "refine": {},
@@ -160843,7 +160860,8 @@
     ],
     "reference": {
       "Atk/Spd Liberate": {
-        "eirika10": "5"
+        "eirika10": "5",
+        "rebecca3": "5"
       }
     },
     "refine": {},
@@ -165448,7 +165466,8 @@
     ],
     "reference": {
       "Wind Edge": {
-        "baldr4": "5"
+        "baldr4": "5",
+        "lyn12": "5"
       }
     },
     "icon": false,
@@ -165782,7 +165801,8 @@
     "reference": {
       "A/S Taker Burst": {
         "sharena6": "5",
-        "falear5": "5"
+        "falear5": "5",
+        "shamir4": "5"
       }
     },
     "icon": 2720,
@@ -166846,7 +166866,8 @@
     "reference": {
       "Shadow Shift X": {
         "groa": "5",
-        "sigurd7": "5"
+        "sigurd7": "5",
+        "lyn12": "5"
       }
     },
     "icon": 2739,
@@ -168128,7 +168149,8 @@
     ],
     "reference": {
       "A/S Foresight Nix": {
-        "frobin9": "5"
+        "frobin9": "5",
+        "shamir4": "5"
       }
     },
     "icon": 2753,
@@ -169729,7 +169751,7 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Hunting Bow",
+      "Enchanting Bow",
       "Rose of Caelus",
       "Leda: Rose of Caelus",
       "Vista Leda",
@@ -169843,5 +169865,429 @@
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_ax200"
+  },
+  "bowofsacae": {
+    "name": "Bow of Sacae",
+    "skill": [
+      {
+        "name": "Bow of Sacae",
+        "description": "Enables\u3010Canto (\uff12)\u3011. Accelerates Special trigger (cooldown count-1). Effective against flying foes.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+X (for unit, X = 15; for allies, X = 5), deals +Y damage (excluding area-of-effect Specials; for unit, Y = 25; for allies, Y = 10), and grants Special cooldown count-2 before unit's or ally's first follow-up attack during combat.\nReduces damage from foe's attacks by 15 (excluding area-of-effect Specials) and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat, and restores 7 HP to unit after combat.\nUnit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Astra Storm Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes within 6 spaces of unit and 3 rows or 3 columns centered on unit regardless of unit's range.\nUnit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 2, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.\nUnit cannot move or attack structures, after-combat movement effects do not occur, unit's area-of-effect Specials cannot be triggered, and remaining movement granted from Canto is treated as 0. Skill effect's Range is treated as 2. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Bow of Sacae": {
+        "lyn12": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Bow of Sacae",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw152"
+  },
+  "sacaenedicts": {
+    "name": "Sacaen Edicts",
+    "skill": [
+      {
+        "name": "Sacaen Edicts",
+        "description": "At start of player phase or enemy phase, grants\u3010Laws of Sacae\u3011and\u3010Null Follow-Up\u3011 to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+10 to unit, unit deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and disables skills of all foes excluding foe in combat during combat, and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nIf unit is within 3 spaces of an ally with the \u3010Laws of Sacae\u3011effect active, and unit's HP > 1 and foe would reduce unit's HP to 0, unit survives with 1 HP (once per combat; does not stack with non-Special effects that allow unit to survive with 1 HP if foe's attack would reduce HP to 0).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive A",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Sacaen Edicts": {
+        "lyn12": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2785,
+    "HARD_ALT_NAME": [
+      "Sacaen Edicts"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "dullsuppress": {
+    "name": "Dull Suppress",
+    "skill": [
+      {
+        "name": "Dull Suppress",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Seal Spd/Def 2"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Bow",
+            "Blue_Bow",
+            "Green_Bow",
+            "Colorless_Bow"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "Inflicts Atk/Spd/Def-5 on foes within 3 rows or 3 columns centered on unit during combat.\nInflicts Atk/Spd/Def-4 on foe, neutralizes foe's bonuses, unit deals +15 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "Dull Suppress": {
+        "lyn12": "5"
+      }
+    },
+    "icon": 2786,
+    "HARD_ALT_NAME": [
+      "Dull Suppress"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "zephyrbow": {
+    "name": "Zephyr Bow",
+    "skill": [
+      {
+        "name": "Zephyr Bow",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes. Unit can counterattack regardless of foe's range.\nUnit can move through foes' spaces.\nUnit can move to a space within 4 spaces of unit (treated as Warp movement).\nAt start of player phase or enemy phase, grants \u3010Empathy\u3011,\u3010Reflex\u3011,and \"increases Spd difference necessary for foe to make a follow-up attack by 10 during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials), and also, if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Zephyr Bow": {
+        "takumi7": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Zephyr Bow",
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacaen Takumi",
+      "S Takumi 2",
+      "Sa Takumi",
+      "takumi7"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw155"
+  },
+  "certainblow": {
+    "name": "Certain Blow",
+    "skill": [
+      {
+        "name": "Certain Blow",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Death Blow 3",
+          "Darting Blow 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Bow",
+            "Red_Dagger",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Bow",
+            "Green_Dagger",
+            "Green_Beast",
+            "Colorless_Bow",
+            "Colorless_Dagger",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "Enables\u3010Canto (\uff12)\u3011.\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Atk/Spd/Def-7 on closest foes and foes within 2 spaces of those foes through their next actions.\nIf unit initiates combat or if\u3010Bonus\u3011is active on unit, grants Atk/Spd/Def+10 to unit, unit deals +X damage (excluding area-of-effect Specials; X = 60% of the highest value of total penalties among target and foes within 2 spaces of target), and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+      }
+    ],
+    "reference": {
+      "Certain Blow": {
+        "takumi7": "5"
+      }
+    },
+    "icon": 2787,
+    "HARD_ALT_NAME": [
+      "Certain Blow"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "boldstance": {
+    "name": "Bold Stance",
+    "skill": [
+      {
+        "name": "Bold Stance",
+        "description": "For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, neutralizes foe's bonuses, and increases the Spd difference necessary for foe to make a follow-up attack by 10 during combat.\nIf unit is within 3 spaces of an ally or if there is a support partner with Support Rank of S+ on the map, inflicts Atk/Spd/Def-5 on foe, unit deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Spd (excluding area-of-effect Specials), and grants Special cooldown count-2 to unit before foe's first attack during combat, and also, if unit's Special is ready or triggered before or during this combat, reduces damage from foe's attacks to a maximum of 1 during combat (once per combat; excluding area-of-effect Specials).",
+        "stats": {
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Passive B",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Bold Stance": {
+        "takumi7": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2788,
+    "HARD_ALT_NAME": [
+      "Bold Stance"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "quickennull": {
+    "name": "Quicken Null",
+    "skill": [
+      {
+        "name": "Quicken Null",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Time's Pulse 3"
+        ],
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "At start of turn, at start of enemy phase (except for in Summoner Duels), and after combat, if Special cooldown count is at its maximum value, grants Special cooldown count-1 to unit.\nGrants bonus to unit's Atk/Spd/Def/Res = unit's maximum Special cooldown count value + 2, unit deals +5 damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by 5 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat."
+      }
+    ],
+    "reference": {
+      "Quicken Null": {
+        "takumi7": "5"
+      }
+    },
+    "icon": 2789,
+    "HARD_ALT_NAME": [
+      "Quicken Null"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "ornatebow": {
+    "name": "Ornate Bow",
+    "skill": [
+      {
+        "name": "Ornate Bow",
+        "description": "Enables\u3010Canto (Dist.; Max \uff13, Min \uff11)\u3011. Accelerates Special trigger (cooldown count-1). Effective against beast, cavalry, and flying foes.\nIf foe in combat is a beast, cavalry, or flying foe, foes' Savior effects will not trigger.\nAt start of player phase or enemy phase, grants Atk/Spd+6,\u3010Truly Incited\u3011, and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials), and also, if foe is beast, cavalry, or flying, or if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Ornate Bow": {
+        "rebecca3": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Ornate Bow",
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw153"
+  },
+  "sacaenhunter": {
+    "name": "Sacaen Hunter",
+    "skill": [
+      {
+        "name": "Sacaen Hunter",
+        "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes.\nAt start of turn, and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, \u3010Exposure\u3011, and\u3010Sabotage\u3011on closest foes and foes within 2 spaces of those foes through their next actions.\nIf unit or ally on the map initiates combat and defeats a foe with the\u3010Exposure\u3011 effect active during combat, grants Atk/Spd\u3010Great Talent\u3011+4 to unit and allies on the map after combat.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and disables skills of all foes excluding foe in combat during combat.\n(This skill grants max of\u3010Great Talent\u3011+24 for unit and\u3010Great Talent\u3011+12 for allies.)",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Bow",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sacaen Hunter": {
+        "shamir4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sacaen Hunter",
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_bw154"
+  },
+  "huntersvolley": {
+    "name": "Hunter s Volley",
+    "skill": [
+      {
+        "name": "Hunter's Volley",
+        "description": "When Special triggers, boosts damage by 70% of unit's Atk.\nReduces damage from foe's first attack by 40% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\nIf it is unit's first combat initiated by unit this turn, and if the distance from unit's space to foe's space \u2264 2, unit attacks twice during combat, but if unit can make a follow-up attack, calculates damage from unit's attacks at 80%. (This calculation stacks with other effects that calculate damage at X% such as Potent Follow.)",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Dragon Fang"
+        ],
+        "exclusive": false,
+        "slot": "Special",
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Bow",
+            "Blue_Bow",
+            "Green_Bow",
+            "Colorless_Bow"
+          ]
+        ],
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Hunter's Volley": {
+        "shamir4": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Hunter's Volley",
+      "Hunters Volley"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "sacredhope": {
+    "name": "Sacred Hope",
+    "skill": [
+      {
+        "name": "Sacred Hope",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Atk/Res+6,\u3010Time's Gate\u3011, and\u3010Empathy\u3011 to unit and allies within 2 spaces of unit for 1 turn.\nIf ally initiated combat and\u3010Time's Gate\u3011is active on that ally, grants another action to that ally after combat (if a skill belonging to that ally triggers an effect that grants them another action, such as Galeforce, this effect is treated as not having triggered; if a skill not belonging to that ally triggers an effect that grants that ally another action at the same time as this effect, this effect is also considered to have been triggered; once per turn).\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (including area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials).\nIf unit initiates combat, triggers the following effects depending on unit's equipped Special: if unit has an area-of-effect Special equipped, grants Special cooldown count-X to unit before Special triggers before combat; if unit has a Special that triggers when unit attacks (excluding area-of-effect Specials), grants Special cooldown count-X to unit before unit's first attack during combat (X = the greater value of the number of spaces from start position to end position of unit and the number of turns; max 3).",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Sacred Hope": {}
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Sacred Hope"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg415"
   }
 }

@@ -1342,7 +1342,16 @@
       "Spring Dorothea",
       "Sp Dorothea",
       "Easter Dorothea",
-      "dorothea4"
+      "dorothea4",
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
     ],
     "HARD_ALT_NAME": [
       "karla",
@@ -1454,7 +1463,16 @@
       "Spring Dorothea",
       "Sp Dorothea",
       "Easter Dorothea",
-      "dorothea4"
+      "dorothea4",
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
     ],
     "heroes": {
       "dorothea": "<:Blue_Tome:1317239386491977749>Dorothea",
@@ -1471,7 +1489,8 @@
       "karla3": "<:Green_Axe:1317239517136031897>Spring Karla",
       "shamir": "<:Green_Bow:1317239539936268340>Shamir",
       "shamir2": "<:Green_Axe:1317239517136031897>Ninja Shamir",
-      "shamir3": "<:Blue_Bow:1317239347577356328>Summer Shamir"
+      "shamir3": "<:Blue_Bow:1317239347577356328>Summer Shamir",
+      "shamir4": "<:Blue_Bow:1317239347577356328>Sacaen Shamir"
     },
     "name": "Allegra Clark"
   },
@@ -13210,7 +13229,16 @@
       "Resplendent Rebecca",
       "Resp Rebecca",
       "R Rebecca",
-      "Rebecca (Resplendent)"
+      "Rebecca (Resplendent)",
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
     ],
     "HARD_ALT_NAME": [
       "clarine",
@@ -13268,7 +13296,16 @@
       "Resplendent Rebecca",
       "Resp Rebecca",
       "R Rebecca",
-      "Rebecca (Resplendent)"
+      "Rebecca (Resplendent)",
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
     ],
     "heroes": {
       "clarine": "<:Colorless_Staff:1317239426866483261>Clarine",
@@ -13277,7 +13314,8 @@
       "nowi2": "<:Red_Tome:1317239730714316800>Halloween Nowi",
       "rebecca": "<:Colorless_Bow:1317239404204654703>Rebecca",
       "rebeccaR": "<:Colorless_Bow:1317239404204654703>Rebecca (Resplendent)",
-      "rebecca2": "<:Colorless_Bow:1317239404204654703>Young Rebecca"
+      "rebecca2": "<:Colorless_Bow:1317239404204654703>Young Rebecca",
+      "rebecca3": "<:Green_Bow:1317239539936268340>Sacaen Rebecca"
     },
     "name": "Hunter MacKenzie Austin"
   },
@@ -24109,7 +24147,16 @@
       "V Veyle",
       "Duo Veyle",
       "D Veyle",
-      "veyle4"
+      "veyle4",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
     ],
     "HARD_ALT_NAME": [
       "Gentle Dragon",
@@ -24141,9 +24188,19 @@
       "V Veyle",
       "Duo Veyle",
       "D Veyle",
-      "veyle4"
+      "veyle4",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
     ],
     "heroes": {
+      "lyn12": "<:Red_Bow:1317239680571543592>Sacaen Lyn",
       "veyle": "<:Blue_Tome:1317239386491977749>Veyle",
       "veyle2": "<:Colorless_Tome:1317239438602145842>Fallen Veyle",
       "veyle3": "<:Red_Tome:1317239730714316800>Spring Veyle",
@@ -25083,7 +25140,29 @@
       "Yukata Takumi",
       "HS Takumi",
       "Fes Takumi",
-      "takumi6"
+      "takumi6",
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacae Entwined Takumi",
+      "Sacae E Takumi",
+      "Sacae En Takumi",
+      "Sacaen Takumi",
+      "Sacaen Entwined Takumi",
+      "Sacaen E Takumi",
+      "Sacae En Takumi",
+      "S Takumi 2",
+      "S Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "Sa Takumi",
+      "Sa Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "takumi7"
     ],
     "HARD_ALT_NAME": [
       "takumi",
@@ -25230,7 +25309,29 @@
       "Yukata Takumi",
       "HS Takumi",
       "Fes Takumi",
-      "takumi6"
+      "takumi6",
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacae Entwined Takumi",
+      "Sacae E Takumi",
+      "Sacae En Takumi",
+      "Sacaen Takumi",
+      "Sacaen Entwined Takumi",
+      "Sacaen E Takumi",
+      "Sacae En Takumi",
+      "S Takumi 2",
+      "S Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "Sa Takumi",
+      "Sa Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "takumi7"
     ],
     "heroes": {
       "aelfric": "<:Red_Tome:1317239730714316800>Aelfric",
@@ -25245,7 +25346,8 @@
       "takumi3": "<:Colorless_Bow:1317239404204654703>Fallen Takumi",
       "takumi4": "<:Colorless_Bow:1317239404204654703>Summer Takumi",
       "takumi5": "<:Blue_Tome:1317239386491977749>Valentines Takumi",
-      "takumi6": "<:Colorless_Bow:1317239404204654703>Festival Takumi"
+      "takumi6": "<:Colorless_Bow:1317239404204654703>Festival Takumi",
+      "takumi7": "<:Colorless_Bow:1317239404204654703>Sacaen Entwined Takumi"
     },
     "name": "Michael Sinterniklaas"
   },
@@ -32904,7 +33006,16 @@
       "Resplendent Legendary Lyn",
       "Resp Legendary Lyn",
       "R Legendary Lyn",
-      "Legendary Lyn (Resplendent)"
+      "Legendary Lyn (Resplendent)",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
     ],
     "HARD_ALT_NAME": [
       "Bride of the Plains",
@@ -33332,7 +33443,16 @@
       "Resplendent Legendary Lyn",
       "Resp Legendary Lyn",
       "R Legendary Lyn",
-      "Legendary Lyn (Resplendent)"
+      "Legendary Lyn (Resplendent)",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
     ],
     "heroes": {
       "bramimond": "<:Colorless_Tome:1317239438602145842>Bramimond",
@@ -33352,6 +33472,7 @@
       "lyn9": "<:Green_Bow:1317239539936268340>Emblem Lyn",
       "lyn10": "<:Green_Beast:1317239527953141870>Mythic Lyn",
       "lyn11": "<:Colorless_Bow:1317239404204654703>Harmonic Brave Lyn",
+      "lyn12": "<:Red_Bow:1317239680571543592>Sacaen Lyn",
       "maria": "<:Colorless_Staff:1317239426866483261>Maria",
       "maria2": "<:Green_Axe:1317239517136031897>Spring Maria",
       "maria3": "<:Colorless_Staff:1317239426866483261>Fallen Maria",
@@ -33907,7 +34028,11 @@
       "B Marth 2",
       "S Marth",
       "HS Marth",
-      "marth9"
+      "marth9",
+      "Resplendent Legendary Eliwood",
+      "Resp Legendary Eliwood",
+      "R Legendary Eliwood",
+      "Legendary Eliwood (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Of Beginnings",
@@ -34210,7 +34335,11 @@
       "B Marth 2",
       "S Marth",
       "HS Marth",
-      "marth9"
+      "marth9",
+      "Resplendent Legendary Eliwood",
+      "Resp Legendary Eliwood",
+      "R Legendary Eliwood",
+      "Legendary Eliwood (Resplendent)"
     ],
     "heroes": {
       "alm6": "<:Red_Sword:1317239717707911188>Harmonic Brave Alm",
@@ -34219,6 +34348,7 @@
       "eliwoodR": "<:Red_Sword:1317239717707911188>Eliwood (Resplendent)",
       "eliwood2": "<:Blue_Lance:1317239378208096338>Valentines Eliwood",
       "eliwood3": "<:Red_Sword:1317239717707911188>Legendary Eliwood",
+      "eliwood3R": "<:Red_Sword:1317239717707911188>Legendary Eliwood (Resplendent)",
       "eliwood4": "<:Blue_Lance:1317239378208096338>Brave Eliwood",
       "eliwood4R": "<:Blue_Lance:1317239378208096338>Brave Eliwood (Resplendent)",
       "eliwood5": "<:Red_Sword:1317239717707911188>Young Eliwood",

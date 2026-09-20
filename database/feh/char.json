@@ -1872,7 +1872,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "solkattieff",
@@ -12394,7 +12395,8 @@
       "takumi3",
       "takumi4",
       "takumi5",
-      "takumi6"
+      "takumi6",
+      "takumi7"
     ],
     "prf": {
       "": "fujinyumieff",
@@ -21626,7 +21628,8 @@
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [
-      "rebecca2"
+      "rebecca2",
+      "rebecca3"
     ],
     "prf": {
       "": "rebeccasboweff",
@@ -25788,7 +25791,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "candlelighteff",
@@ -32005,7 +32009,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "mulagireff",
@@ -38288,7 +38293,8 @@
       "takumi3",
       "takumi4",
       "takumi5",
-      "takumi6"
+      "takumi6",
+      "takumi7"
     ],
     "prf": {
       "": "kagamimochispd",
@@ -41448,7 +41454,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "bluegiftspd",
@@ -41797,7 +41804,8 @@
       "takumi2",
       "takumi4",
       "takumi5",
-      "takumi6"
+      "takumi6",
+      "takumi7"
     ],
     "prf": {
       "": "skadieff",
@@ -46840,7 +46848,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "swiftmulagireff",
@@ -50434,7 +50443,8 @@
       "takumi2",
       "takumi3",
       "takumi5",
-      "takumi6"
+      "takumi6",
+      "takumi7"
     ],
     "prf": {
       "": "fishiebowspd",
@@ -73339,15 +73349,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30a8\u30ea\u30a6\u30c3\u30c9",
     "voice": "Yuri Lowenthal",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "azu-taro (azu\u30bf\u30ed\u30a6)",
+    "resplendent_voice": "Yuri Lowenthal",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Eliwood_Blazing_Knight_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Eliwood_Blazing_Knight_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Eliwood_Blazing_Knight_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e8/Eliwood_Blazing_Knight_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Eliwood_Blazing_Knight_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Eliwood_Blazing_Knight_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Eliwood_Blazing_Knight_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Eliwood_Blazing_Knight_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "elibe"
     ],
@@ -73939,7 +73954,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "deepblueboweff",
@@ -106337,7 +106353,8 @@
     "alt": false,
     "reference": [
       "shamir2",
-      "shamir3"
+      "shamir3",
+      "shamir4"
     ],
     "prf": {
       "": "survivalistboweff",
@@ -107397,7 +107414,8 @@
       "lyn8",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "tailwindshurikeneff",
@@ -133858,7 +133876,8 @@
     "alt": true,
     "reference": [
       "shamir",
-      "shamir3"
+      "shamir3",
+      "shamir4"
     ],
     "prf": {
       "": "shurikencleaver",
@@ -154858,7 +154877,8 @@
       "lyn7",
       "lyn9",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "firelightlance",
@@ -167154,7 +167174,8 @@
       "takumi2",
       "takumi3",
       "takumi4",
-      "takumi6"
+      "takumi6",
+      "takumi7"
     ],
     "prf": {
       "": "dawnsweetbox",
@@ -171500,7 +171521,8 @@
     "RANDOM_IGNORE": true,
     "alt": true,
     "reference": [
-      "rebecca"
+      "rebecca",
+      "rebecca3"
     ],
     "prf": {
       "": "gustywarbow",
@@ -176104,7 +176126,8 @@
     "alt": true,
     "reference": [
       "shamir",
-      "shamir2"
+      "shamir2",
+      "shamir4"
     ],
     "prf": {
       "": "partnershipbow",
@@ -181485,7 +181508,7 @@
       ],
       "Special": [
         "**Duo:** Vanish from our sight!",
-        "**Duo:**** We've sealed...your fate!",
+        "**Duo:** We've sealed...your fate!",
         "**Kagero:** Faster than the wind...",
         "**Orochi:** Dance on the breeze!"
       ],
@@ -181970,7 +181993,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "PID_\u98a8\u90e8\u65cf\u30af\u30ed\u30fc\u30c9",
     "voice": "Joe Zieja",
     "resplendent": false,
@@ -206108,7 +206131,8 @@
       "takumi2",
       "takumi3",
       "takumi4",
-      "takumi5"
+      "takumi5",
+      "takumi7"
     ],
     "prf": {
       "": "stallgamebowspd",
@@ -216124,7 +216148,8 @@
       "lyn7",
       "lyn8",
       "lyn10",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "ladysbow",
@@ -236264,7 +236289,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn11"
+      "lyn11",
+      "lyn12"
     ],
     "prf": {
       "": "windsofduality",
@@ -239902,8 +239928,8 @@
         "**Ike:** Many voices called out to us. We're here now...\n**Roy:** We've seen this before\u2014people led astray by desire, their mistakes leading to conflict...\nBut we've also seen people overcome such adversities.\n**Ike:** Right and wrong is a matter of perspective.\nWhat's important is if you can accept something as just. And staying true to your convictions.\n**Roy:** The person who taught me once said, \"A general lacking confidence cannot gain the trust of their subordinates.\"\n**Ike:** It seems you were blessed with a good teacher, Roy.\nLet us forge ahead together, and act with confidence in our convictions."
       ],
       "Special": [
-        "****Duo:**** With one strike!",
-        "****Duo:**** \"We'll end this!\" \"Right!\"",
+        "**Duo:** With one strike!",
+        "**Duo:** \"We'll end this!\" \"Right!\"",
         "**Ike:** You won't escape!",
         "**Roy:** We will win!"
       ],
@@ -240142,8 +240168,8 @@
         "**Lyn:** ...\n**Lucina:** Lyn? Is something wrong?\n**Lyn:** Not really... I was just thinking about my parents...\nMy mother, born to an aristocratic family, eloped with my father, a man of the plains. Then, I was born...\nIt's strange. Even now, I can feel them watching over me...always.\n**Lucina:** I think...I understand what you feel. No matter what world I'm in, my parents are with me in my heart.\nBonds connect the past and future... We may be able to fight together with them thanks to those bonds."
       ],
       "Special": [
-        "****Duo:**** Using our strength!",
-        "****Duo:**** \"Aim!\" \"Shoot!\"",
+        "**Duo:** Using our strength!",
+        "**Duo:** \"Aim!\" \"Shoot!\"",
         "**Lyn:** I never miss!",
         "**Lucina:** We will strike true!"
       ],
@@ -240200,7 +240226,8 @@
       "lyn7",
       "lyn8",
       "lyn9",
-      "lyn10"
+      "lyn10",
+      "lyn12"
     ],
     "prf": {
       "": "intrinsicmulagir",
@@ -259524,6 +259551,785 @@
       "spd": "enchantingbow",
       "def": "enchantingbow",
       "res": "enchantingbow"
+    }
+  },
+  "lyn12": {
+    "name": "Lyn",
+    "title": "Earth and Sky",
+    "description": "Raised by the abundant land and winds of the plains, they remain proud Sacaens amidst different times. They appear in Fire Emblem: The Blazing Blade / The Binding Blade.",
+    "origin": "The Blazing Blade + The Binding Blade",
+    "artist": "Essual (\u30a8\u30b7\u30e5\u30a2\u30eb)",
+    "move": "Cavalry",
+    "weapon": "Bow",
+    "color": "Red",
+    "duel": false,
+    "id": "1415",
+    "type": "duo",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": "Grants\u3010Resonance: Blades\u3011to unit, allies from the same titles as unit, and allies with the Laws of Sacae effect active.\nGrants another action to certain target, and if Canto has already been triggered, re-enables Canto (if there are allies from the same titles as unit or allies with the Laws of Sacae effect active on the map, targets ally with the highest HP among those allies who have already acted; if multiple targets meet the conditions, effect will not trigger).\n\u3010Resonance: Blade\u3011\nGrants Atk/Spd+4 during combat for 1 turn.",
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 11,
+      "def": 8,
+      "res": 4
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 60,
+      "res": 50
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Bow of Sacae": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Wind Edge": "5"
+    },
+    "passive": {
+      "A": {
+        "Sacaen Edicts": "5"
+      },
+      "B": {
+        "Seal Spd 1": "2",
+        "Seal Spd/Def 1": "3",
+        "Seal Spd/Def 2": "4",
+        "Dull Suppress": "5"
+      },
+      "C": {
+        "Shadow Shift 1": "2",
+        "Shadow Shift 2": "3",
+        "Shadow Shift 3": "4",
+        "Shadow Shift X": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Lyn_Earth_and_Sky_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Lyn_Earth_and_Sky_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Lyn_Earth_and_Sky_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Lyn_Earth_and_Sky_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
+    ],
+    "HARD_ALT_NAME": [
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u53cc\u754c\u30ea\u30f32",
+    "voice": "Wendee Lee + Megan Taylor Harvey",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7",
+      "fe6"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Lyn:** Staying in the castle all day is stifling! Let's go for a ride, Sue!",
+        "**Lyn:** I'm from the Lorca tribe and Sue is from the Kutolah\u2014different tribes that share a love of Sacae, our home.",
+        "**Sue:** Sometimes I see a pained look on Sue's face...like sorrow threatens to overwhelm her. I think I understand...",
+        "**Lyn:** How about a ride tomorrow? This castle is nice, but Sue and I prefer a place we can feel the wind blow.",
+        "**Sue:** It gives me comfort to know that here, too, the sky grants us blessings and the earth offers us warmth."
+      ],
+      "Visit": [
+        "**Lyn:** It's nice to see the bonds shared by Heroes, isn't it? We're here on behalf of [F]."
+      ],
+      "Level": [
+        "**Lyn:** We fight on, believing in a better tomorrow! For the sky and earth!",
+        "**Lyn:** The clouds are breaking. Forward, everyone!",
+        "**Sue:** Sometimes good intentions and a valiant effort aren't enough to excuse a failure..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Lyndis of the Lorca tribe. You can just call me Lyn. And this is Sue of the Kutolah. We're both Sacaen."
+      ],
+      "Learn Skill": [
+        "**Sue:** Lyn looks happy... I, too, offer you my gratitude."
+      ],
+      "Confession": [
+        "**Sue:** As the granddaughter of the chieftain of the Kutolah tribe, it was my task to lead everyone to safety... But I...\n**Lyn:** I won't pry into what happened... I'll only ask if you did all you could. Because that is all we are able to do.\nThis grief you're holding onto... Your burden would be lighter if you shared it.\nAfter all, we're both Sacaens, and we share a love for the same sky and the same earth.\nLet us share this as well. Your sorrow is my sorrow. Your anger is my anger.\n**Sue:** Th-thank you, Lyn...\nI can't just forget about what happened...but I can stop dwelling on the past and look toward the future.\n**Lyn:** That's more than enough, Sue.\nNow what do you say we go for a long ride tomorrow? We can bring [S] along too!"
+      ],
+      "Special": [
+        "**Duo:** Winds of the plains!",
+        "**Duo:** Father Sky...Mother Earth.",
+        "**Lyn:** I saw that coming!",
+        "**Sue:** Right...there!"
+      ],
+      "Status": [
+        "-",
+        "\"You're Sacaen, aren't you? I'm happy to meet you.\" \"I feel comfortable with you.\""
+      ],
+      "Map Select": [
+        "Hm...",
+        "The winds guide us.",
+        "I hear their voices..."
+      ],
+      "Conversation": [
+        "**Lyn:** *sigh* Is it all right if we rest here?",
+        "**Sue:** Of course... Lyn, your ability to handle a horse is quite impressive.",
+        "**Lyn:** Thank you. I lived alongside them since I was a child.",
+        "All the people of Sacae do. I would imagine you did as well.",
+        "**Sue:** Yes. Horses are part of our family, our allies, and our friends.",
+        "**Lyn:** I feel that way too! I often spoke to the horses when times were hard.",
+        "**Sue:** When times were hard... Like when?",
+        "**Lyn:** Many occasions. Such as when I had gotten in trouble, or when my training was especially difficult, or...",
+        "when my mother and father died... A lot has happened in my life.",
+        "**Sue:** I feel a great sadness from you...",
+        "**Lyn:** Oh! Don't let me bring you down. I've found ways to move on.",
+        "Besides, after the sadness there was joy too. My past wasn't all difficult.",
+        "**Sue:** I am happy to hear that.",
+        "I plan to tell my horse about meeting you, and all the things we spoke of...",
+        "And about how much I enjoyed this time, and that I was truly happy speaking with you.",
+        "**Lyn:** Hehehe. Surely you exaggerate, but I'm very happy to have met you too.",
+        "Would you like to go for one more ride before we part? I may feel the winds of Sacae if I ride with you!"
+      ],
+      "Duo Skill": [
+        "\"Sacae's\" \"pride!\"",
+        "\"Ready?\" \"I've got it!\""
+      ],
+      "Back Unit Supporting": [
+        "Do your best!",
+        "A good wind blows."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Sacaen Lyn",
+    "SEARCH_NAME": "Sacaen Lyn",
+    "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Red_Bow:1317239680571543592>Sacaen Lyn",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "lyn",
+      "lyn2",
+      "lyn3",
+      "lyn4",
+      "lyn5",
+      "lyn6",
+      "lyn7",
+      "lyn8",
+      "lyn9",
+      "lyn10",
+      "lyn11"
+    ],
+    "prf": {
+      "": "bowofsacae",
+      "eff": "bowofsacae",
+      "atk": "bowofsacae",
+      "spd": "bowofsacae",
+      "def": "bowofsacae",
+      "res": "bowofsacae"
+    }
+  },
+  "takumi7": {
+    "name": "Takumi",
+    "title": "Divine Bow Prince",
+    "description": "A prince of Hoshido who considers himself the wielder of the divine bow, Fujin Yumi. Dons the garb of the Sacaens and realizes a new frontier for himself. Appears in Fire Emblem Fates.",
+    "origin": "Fates",
+    "artist": "Tobi",
+    "move": "Infantry",
+    "weapon": "Bow",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1416",
+    "type": "entwined",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 9,
+      "spd": 9,
+      "def": 13,
+      "res": 7
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 90,
+      "def": 80,
+      "res": 30
+    },
+    "superboon": [
+      "atk",
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Zephyr Bow": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Waning Shot": "5"
+    },
+    "passive": {
+      "A": {
+        "Death Blow 1": "2",
+        "Death Blow 2": "3",
+        "Death Blow 3": "4",
+        "Certain Bow": "5"
+      },
+      "B": {
+        "Bold Stance": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Quicken Null": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Takumi_Divine_Bow_Prince_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Takumi_Divine_Bow_Prince_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Takumi_Divine_Bow_Prince_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Takumi_Divine_Bow_Prince_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacae Entwined Takumi",
+      "Sacae E Takumi",
+      "Sacae En Takumi",
+      "Sacaen Takumi",
+      "Sacaen Entwined Takumi",
+      "Sacaen E Takumi",
+      "Sacae En Takumi",
+      "S Takumi 2",
+      "S Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "Sa Takumi",
+      "Sa Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "takumi7"
+    ],
+    "HARD_ALT_NAME": [
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacae Entwined Takumi",
+      "Sacae E Takumi",
+      "Sacae En Takumi",
+      "Sacaen Takumi",
+      "Sacaen Entwined Takumi",
+      "Sacaen E Takumi",
+      "Sacae En Takumi",
+      "S Takumi 2",
+      "S Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "Sa Takumi",
+      "Sa Entwined Takumi",
+      "S E Takumi",
+      "S En Takumi",
+      "takumi7"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u3064\u306a\u304c\u308a\u30b5\u30ab\u30bf\u30af\u30df",
+    "voice": "Michael Sinterniklaas",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fates"
+    ],
+    "chibi": [
+      "fe14"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Hmm... Wearing different clothes affects how I'm able to read the wind... But I'll make this work.",
+        "Sacaen archers often ride horseback. Hmm... I think having my feet planted firmly when I shoot suits me better.",
+        "If you fall, so does the front line, so be sure you haven't strung yourself too tight, [S].",
+        "If you want to see what the wielder of a divine bow can do, stick close to me in the next battle.",
+        "I think I prefer forests to plains. More blind spots, easier to set traps... That sort of thing."
+      ],
+      "Visit": [
+        "There's no real reason for asking, but just out of curiosity, how do you know [F]?"
+      ],
+      "Level": [
+        "So that's how it works... Did you see that? A perfect technique like that should have a name... Takumi Style!",
+        "I'm coming around to the benefits of this outfit. It's about prioritizing rapid fire from a short bow. Interesting...",
+        "That was better than I was doing in practice, but it's nowhere close to good enough..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Takumi, prince of Hoshido. This Sacaen outfit makes me think Sacae and Hoshido share some similarities."
+      ],
+      "Learn Skill": [
+        "I don't know why it is you have such faith in me, but I want to prove myself worthy of it."
+      ],
+      "Confession": [
+        "Can I talk to you for a moment, Summoner? There's something on my mind I'd like to share.\nMy pride in being a prince of Hoshido will never waver...but fighting in these Sacaen clothes has got me thinking...\nThere are so many worlds out there that I don't know, each with their own unique lifestyles.\nThe nomadic ways of the Sacaens, on the vast plains with their horses... It's given me a new perspective.\nNow I see that everything you do, even when it confuses me at first, turns out to help me somehow.\nInitially I was bothered by the idea of involving you in my business...\nNow though, I enjoy rising to meet your expectations.\nSo please, keep your eyes on me. I want you to see the heights I can reach with my bow!"
+      ],
+      "Special": [
+        "You thought you'd escape?",
+        "I never miss.",
+        "Bull's-eye!",
+        "You're done for!"
+      ],
+      "Status": [
+        "-",
+        "The people of the plains are completely different from Hoshidans, yet... I feel a likeness to them.",
+        "Whoa! Don't get carried away just because it's a festival.",
+        "When it comes to archery, I'm the best.",
+        "This festival bow is pretty nice, huh? I think it suits me.",
+        "Ah, look! A rabbit. Don't you see the ears?",
+        "Maybe I wouldn't have nightmares if I could run around the plains all day before going to sleep.",
+        "Time for a nap on the plains. What do you say?"
+      ],
+      "Map Select": [
+        "That way.",
+        "What next?",
+        "They're in plain sight."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Sacaen Entwined Takumi",
+    "SEARCH_NAME": "Sacaen Entwined Takumi",
+    "DISPLAY_NAME": "<:Colorless_Bow:1317239404204654703>Sacaen Entwined Takumi",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "takumi",
+      "takumi2",
+      "takumi3",
+      "takumi4",
+      "takumi5",
+      "takumi6"
+    ],
+    "prf": {
+      "": "zephyrbow",
+      "eff": "zephyrbow",
+      "atk": "zephyrbow",
+      "spd": "zephyrbow",
+      "def": "zephyrbow",
+      "res": "zephyrbow"
+    },
+    "bouquet": "SD",
+    "boost": {
+      "spd": 2,
+      "def": 2
+    }
+  },
+  "rebecca3": {
+    "name": "Rebecca",
+    "title": "In the Sun's Rays",
+    "description": "Wearing the garb of the Sacaens, who live a nomadic lifestyle, she moves with vigor and experiences the breath of the plains within her. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "\uff2b\uff45\uff27",
+    "move": "Cavalry",
+    "weapon": "Bow",
+    "color": "Green",
+    "duel": false,
+    "id": "1417",
+    "type": false,
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 6,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 35,
+      "res": 70
+    },
+    "superboon": [
+      "spd",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Ornate Bow": "5"
+    },
+    "assist": {
+      "Harsh Command": "3",
+      "Harsh Command+": "5"
+    },
+    "special": {},
+    "passive": {
+      "A": {
+        "Death Blow 1": "1",
+        "Death Blow 2": "2",
+        "Death Blow 3": "4"
+      },
+      "B": {},
+      "C": {
+        "Atk/Spd Gap 1": "2",
+        "Atk/Spd Gap 2": "3",
+        "Atk/Spd Gap 3": "4",
+        "Atk/Spd Liberate": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Rebecca_In_the_Suns_Rays_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/02/Rebecca_In_the_Suns_Rays_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Rebecca_In_the_Suns_Rays_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Rebecca_In_the_Suns_Rays_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
+    ],
+    "HARD_ALT_NAME": [
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
+    ],
+    "gender": "F",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30b5\u30ab\u30ec\u30d9\u30c3\u30ab",
+    "voice": "Hunter Mackenzie Austin",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": [
+      "fe7"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "These clothes are so easy to move around in! I can definitely hunt better like this!",
+        "Sacaens can do archery on horseback, huh? That's pretty tough...",
+        "I'm really good at cooking! Do you want me to make you something?",
+        "This outfit makes me want to go hunting! What would you like? A bird, a deer? The possibilities are endless!",
+        "Am I wearing this right? I better go ask Lady Lyndis, just to be sure..."
+      ],
+      "Visit": [
+        "I'm Rebecca. I'm just here to say hello on behalf of [F]!"
+      ],
+      "Level": [
+        "Is it just me, or am I aiming better than usual? I guess I SHOULD dress for the job I want!",
+        "I won't miss my target! Hehe, funny how such a little change can make a big difference!",
+        "Whoops! I just tripped a little bit. Don't worry, I'm OK!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I-is it really OK for me to dress like Lady Lyndis and the others? I need to make sure I'm showing respect!"
+      ],
+      "Learn Skill": [
+        "Wow, I'm so happy! I feel like I need to return the favor somehow... Oh, I know! What do you like to eat?"
+      ],
+      "Confession": [
+        "Look, Summoner! Don't you think I look much more natural in this outfit than I did before?\nLady Lyndis must get some of her strength from her Sacaen upbringing. Just look at how freely they ride.\nI'd never even thought of leaving my village before I met Lord Eliwood.\nSo on one hand, I've always felt drawn to the Sacaens' strength and the freedom of their nomadic lifestyle.\nBut on the other, how could I ever live like that? I've been stuck in my village ever since my brother ran off.\nIt's already been five whole years... Wait, what if he's blending in with the Sacaens and living among them?\nI'm starting to feel like that might be possible...\nWhat do you think? Oh, just thinking about all the places my brother could be makes me want to go look for him!"
+      ],
+      "Special": [
+        "Taking aim!",
+        "You won't escape me!",
+        "Wind, be my ally...",
+        "I see you..."
+      ],
+      "Status": [
+        "-",
+        "I'm Rebecca. Thanks a ton for inviting me to this fun-filled festival!",
+        "Yikes! Playing around like that's dangerous, you know.",
+        "I'm forever grateful for the land's bounty. It's what keeps us alive and well.",
+        "I'm a decent hunter too. I'm good as anyone with a bow.",
+        "I aim to hit my target every time, but it can be tricky on a horse...",
+        "If only I could target my true love's heart, just like I do with my bow...",
+        "What would you like to eat? Deer, bear? I'll hunt it down for you!"
+      ],
+      "Map Select": [
+        "Like this!",
+        "Hm?",
+        "Spotted!"
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Sacaen Rebecca",
+    "SEARCH_NAME": "Sacaen Rebecca",
+    "DISPLAY_NAME": "<:Green_Bow:1317239539936268340>Sacaen Rebecca",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "rebecca",
+      "rebecca2"
+    ],
+    "prf": {
+      "": "ornatebow",
+      "eff": "ornatebow",
+      "atk": "ornatebow",
+      "spd": "ornatebow",
+      "def": "ornatebow",
+      "res": "ornatebow"
+    }
+  },
+  "shamir4": {
+    "name": "Shamir",
+    "title": "Sniper's Path",
+    "description": "Dressed like someone who lives on the plains of Sacae, she praises the functional attire that adapts to her movements. Appears in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Yamada Kotaro (\u5c71\u7530\u5b5d\u592a\u90ce)",
+    "move": "Infantry",
+    "weapon": "Bow",
+    "color": "Blue",
+    "duel": false,
+    "id": "1418",
+    "type": false,
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 9,
+      "spd": 9,
+      "def": 10,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 90,
+      "def": 50,
+      "res": 60
+    },
+    "superboon": [
+      "atk",
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Iron Bow": "1",
+      "Steel Bow": "2",
+      "Silver Bow": "3",
+      "Sacaen Hunter": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Hunter's Volley": "5"
+    },
+    "passive": {
+      "A": {
+        "AR-O Atk/Spd 1": "2",
+        "AR-O Atk/Spd 2": "3",
+        "AR-O Atk/Spd 3": "4",
+        "A/S Foresight Nix": "5"
+      },
+      "B": {
+        "Speedtaker 1": "2",
+        "Speedtaker 2": "3",
+        "Speedtaker 3": "4",
+        "A/S Taker Burst": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Shamir_Snipers_Path_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Shamir_Snipers_Path_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Shamir_Snipers_Path_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Shamir_Snipers_Path_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
+    ],
+    "HARD_ALT_NAME": [
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30b5\u30ab\u30b7\u30e3\u30df\u30a2",
+    "voice": "Allegra Clark",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "The Sacaens race across grasslands, hunting prey...like a frontline attack. Different from a sniper like me.",
+        "There's a difference between my archery and the archery of the plains, but my task remains the same.",
+        "You're the heart of our forces. I'll shoot down any who approach you, [S].",
+        "I feel unencumbered wearing this. Such free-flowing clothes must be necessary on horseback.",
+        "Don't move! There's a spider on the wall! Moving to eliminate it... with caution..."
+      ],
+      "Visit": [
+        "I stand out too much... What was I even sent here to do? Darn that [F]..."
+      ],
+      "Level": [
+        "This outfit is useful in luring a foe's gaze. That my movements are so perceptible isn't necessarily a flaw.",
+        "Visibility is excellent, and my senses feel sharp. Nothing will interfere with my mission.",
+        "I'm all out of sorts\u2014 No, that's just an excuse."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Shamir Nevrand. This is...quite a striking look. Well, whatever works."
+      ],
+      "Learn Skill": [
+        "Seems you've got a good eye."
+      ],
+      "Confession": [
+        "I was puzzled to find out that wearing this was also part of the job...but I've come to understand.\nIt feels great to wear, and... How do I put this? I can easily feel the wind, which lets me reflect on myself.\nThe nomads never stay in one place for long, always moving around or hunting. It's similar to a mercenary.\nIn that kind of life, you're in touch with nature, feeling the breeze on your skin...\nBrief moments when you can clear your mind may be more important than anyone realizes.\nEspecially for mercenaries like me, who can only find the time to unwind when they seek it.\nI feel thoroughly refreshed talking to you. Now then, what's my next mission, [S]?"
+      ],
+      "Special": [
+        "Don't move.",
+        "Time to liven things up.",
+        "Found our prey!",
+        "You think I'll miss..."
+      ],
+      "Status": [
+        "-",
+        "Hmph. This outfit is good for long walks in dry conditions. Makes perfect sense for the plains.",
+        "*grunt* I told you to cut that out, didn't I?",
+        "The Sacaens are skilled hunters... I'll learn what I can from them.",
+        "I'm no slouch with a bow. Nor a dagger, spear, whatever the weapon.",
+        "This'll be good training for fighting out in the open.",
+        "The breeze is nice, but there are far too many bugs on the plains for me.",
+        "Festivals aren't so bad now and then. Though, perhaps I feel that way because I'm with you."
+      ],
+      "Map Select": [
+        "You sure?",
+        "What now?",
+        "This is where I come in."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Sacaen Shamir",
+    "SEARCH_NAME": "Sacaen Shamir",
+    "DISPLAY_NAME": "<:Blue_Bow:1317239347577356328>Sacaen Shamir",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "shamir",
+      "shamir2",
+      "shamir3"
+    ],
+    "prf": {
+      "": "sacaenhunter",
+      "eff": "sacaenhunter",
+      "atk": "sacaenhunter",
+      "spd": "sacaenhunter",
+      "def": "sacaenhunter",
+      "res": "sacaenhunter"
     }
   }
 }

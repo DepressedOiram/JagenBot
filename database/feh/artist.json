@@ -2708,6 +2708,7 @@
       "claude4": "<:Blue_Dagger:1317239367529529445>Summer Claude",
       "edelgard7": "<:Green_Axe:1317239517136031897>Valentines Edelgard",
       "eirika8": "<:Green_Axe:1317239517136031897>Attuned Eirika",
+      "eliwood3R": "<:Red_Sword:1317239717707911188>Legendary Eliwood (Resplendent)",
       "eliwood5": "<:Red_Sword:1317239717707911188>Young Eliwood",
       "elm2": "<:Green_Beast:1317239527953141870>New Year Elm",
       "ewan": "<:Red_Tome:1317239730714316800>Ewan",
@@ -2841,7 +2842,11 @@
       "Braver Harmonic Celica",
       "Braver Harmonized Celica",
       "Braver Celica",
-      "celica8"
+      "celica8",
+      "Resplendent Legendary Eliwood",
+      "Resp Legendary Eliwood",
+      "R Legendary Eliwood",
+      "Legendary Eliwood (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "royR",
@@ -2987,7 +2992,11 @@
       "Braver Harmonic Celica",
       "Braver Harmonized Celica",
       "Braver Celica",
-      "celica8"
+      "celica8",
+      "Resplendent Legendary Eliwood",
+      "Resp Legendary Eliwood",
+      "R Legendary Eliwood",
+      "Legendary Eliwood (Resplendent)"
     ]
   },
   "bthx": {
@@ -5906,7 +5915,16 @@
       "Rearmed Hinoka",
       "Rearm Hinoka",
       "Arm Hinoka",
-      "hinoka6"
+      "hinoka6",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
     ],
     "HARD_ALT_NAME": [
       "Leg Myrrh",
@@ -6010,7 +6028,16 @@
       "Rearmed Hinoka",
       "Rearm Hinoka",
       "Arm Hinoka",
-      "hinoka6"
+      "hinoka6",
+      "Earth and Sky",
+      "Lyn: Earth and Sky",
+      "Harmonic Lyn 2",
+      "Harmonized Lyn 2",
+      "Sacae Lyn",
+      "Sacaen Lyn",
+      "S Lyn 3",
+      "Sa Lyn",
+      "lyn12"
     ],
     "heroes": {
       "fcorrin8": "<:Colorless_Breath:1317239411980767363>Brave Female Corrin",
@@ -6019,6 +6046,7 @@
       "hinoka6": "<:Blue_Lance:1317239378208096338>Rearmed Hinoka",
       "lumera2": "<:Blue_Breath:1317239355835813939>Mythic Lumera",
       "lyn9": "<:Green_Bow:1317239539936268340>Emblem Lyn",
+      "lyn12": "<:Red_Bow:1317239680571543592>Sacaen Lyn",
       "myrrh4": "<:Blue_Breath:1317239355835813939>Legendary Myrrh",
       "reginn3": "<:Blue_Lance:1317239378208096338>Aided Reginn"
     },
@@ -26132,7 +26160,17 @@
       "Summer Tiki",
       "Summer Young Tiki",
       "Summer Y Tiki",
-      "Summer Chiki"
+      "Summer Chiki",
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacaen Takumi",
+      "S Takumi 2",
+      "Sa Takumi",
+      "takumi7"
     ],
     "HARD_ALT_NAME": [
       "Fallen Morgan Female",
@@ -26532,7 +26570,17 @@
       "Summer Tiki",
       "Summer Young Tiki",
       "Summer Y Tiki",
-      "Summer Chiki"
+      "Summer Chiki",
+      "Divine Bow Prince",
+      "Takumi: Divine Bow Prince",
+      "Entwined Takumi",
+      "E Takumi",
+      "En Takumi",
+      "Sacae Takumi",
+      "Sacaen Takumi",
+      "S Takumi 2",
+      "Sa Takumi",
+      "takumi7"
     ],
     "heroes": {
       "artur": "<:Green_Tome:1317239575352971396>Winter Artur",
@@ -26560,6 +26608,7 @@
       "morgan4": "<:Green_Axe:1317239517136031897>Fallen Female Morgan",
       "takumi2": "<:Colorless_Dagger:1317239418943438869>New Year Takumi",
       "takumi4": "<:Colorless_Bow:1317239404204654703>Summer Takumi",
+      "takumi7": "<:Colorless_Bow:1317239404204654703>Sacaen Entwined Takumi",
       "thea": "<:Blue_Lance:1317239378208096338>Thea",
       "ytiki2": "<:Red_Breath:1317239692189630504>Summer Young Tiki",
       "ylgr2": "<:Green_Axe:1317239517136031897>Summer Ylgr"
@@ -28437,7 +28486,16 @@
       "Braver Harmonic Alm",
       "Braver Harmonized Alm",
       "Braver Alm",
-      "alm6"
+      "alm6",
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
     ],
     "HARD_ALT_NAME": [
       "Base Biraku",
@@ -28742,7 +28800,16 @@
       "Braver Harmonic Alm",
       "Braver Harmonized Alm",
       "Braver Alm",
-      "alm6"
+      "alm6",
+      "Sniper's Path",
+      "Shamir: Sniper's Path",
+      "Snipers Path",
+      "Shamir: Snipers Path",
+      "Sacae Shamir",
+      "Sacaen Shamir",
+      "S Shamir 2",
+      "Sa Shamir",
+      "shamir4"
     ],
     "heroes": {
       "alm6": "<:Red_Sword:1317239717707911188>Harmonic Brave Alm",
@@ -28769,6 +28836,7 @@
       "reinhardt3": "<:Green_Tome:1317239575352971396>Dancer Reinhardt",
       "sanakiR": "<:Red_Tome:1317239730714316800>Sanaki (Resplendent)",
       "sethR": "<:Red_Sword:1317239717707911188>Seth (Resplendent)",
+      "shamir4": "<:Blue_Bow:1317239347577356328>Sacaen Shamir",
       "tanaR": "<:Blue_Lance:1317239378208096338>Tana (Resplendent)",
       "ursula2": "<:Colorless_Dagger:1317239418943438869>Summer Ursula",
       "vyland": "<:Green_Axe:1317239517136031897>Vyland",
@@ -31151,6 +31219,7 @@
     "heroes": {
       "lyn10": "<:Green_Beast:1317239527953141870>Mythic Lyn",
       "lysithea2R": "<:Red_Tome:1317239730714316800>Brave Lysithea (Resplendent)",
+      "rebecca3": "<:Green_Bow:1317239539936268340>Sacaen Rebecca",
       "tharjaR": "<:Red_Tome:1317239730714316800>Tharja (Resplendent)"
     },
     "name": "\uff2b\uff45\uff27",
@@ -31172,7 +31241,16 @@
       "Resplendent Brave Lysithea",
       "Resp Brave Lysithea",
       "R Brave Lysithea",
-      "Brave Lysithea (Resplendent)"
+      "Brave Lysithea (Resplendent)",
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
     ],
     "HARD_ALT_NAME": [
       "Resplendent Tharja",
@@ -31192,7 +31270,16 @@
       "Resplendent Brave Lysithea",
       "Resp Brave Lysithea",
       "R Brave Lysithea",
-      "Brave Lysithea (Resplendent)"
+      "Brave Lysithea (Resplendent)",
+      "In the Sun's Rays",
+      "Rebecca: In the Sun's Rays",
+      "In the Suns Rays",
+      "Rebecca: In the Suns Rays",
+      "Sacae Rebecca",
+      "Sacaen Rebecca",
+      "S Rebecca",
+      "Sa Rebecca",
+      "rebecca3"
     ]
   },
   "kou": {

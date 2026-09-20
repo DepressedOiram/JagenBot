@@ -47693,5 +47693,40 @@
       "atk": 16
     },
     "refine": false
+  },
+  "bowofsacae": {
+    "name": "Bow of Sacae",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "zephyrbow": {
+    "name": "Zephyr Bow",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "ornatebow": {
+    "name": "Ornate Bow",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "sacaenhunter": {
+    "name": "Sacaen Hunter",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "sacredhope": {
+    "name": "Sacred Hope",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
   }
 }
