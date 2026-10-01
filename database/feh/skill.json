@@ -5428,7 +5428,8 @@
         "alm6": "3",
         "groa": "3",
         "chrom10": "3",
-        "sylvain4": "3"
+        "sylvain4": "3",
+        "feshmel": "3"
       }
     },
     "refine": {},
@@ -8947,7 +8948,9 @@
         "hapi2": "3",
         "seidr3": "3",
         "sigurd6": "3",
-        "sigurd7": "3"
+        "sigurd7": "3",
+        "seidr4": "3",
+        "feshmel": "3"
       }
     },
     "refine": {},
@@ -9036,7 +9039,9 @@
         "hapi2": "4",
         "seidr3": "4",
         "sigurd6": "4",
-        "sigurd7": "4"
+        "sigurd7": "4",
+        "seidr4": "4",
+        "feshmel": "4"
       }
     },
     "refine": {},
@@ -10774,7 +10779,8 @@
         "camilla": "5",
         "soleil": "5",
         "ryoma5": "4",
-        "felix5": "4"
+        "felix5": "4",
+        "feshmel": "4"
       },
       "Darting Blow 2": {},
       "Darting Blow 1": {
@@ -12947,7 +12953,8 @@
       "Seal Atk 2": {},
       "Seal Atk 1": {
         "seth": "3",
-        "miranda": "3"
+        "miranda": "3",
+        "seidr4": "2"
       }
     },
     "refine": {},
@@ -20328,7 +20335,8 @@
     "reference": {
       "Seal Atk/Spd 2": {
         "frederick2": "5",
-        "noire3": "5"
+        "noire3": "5",
+        "seidr4": "4"
       },
       "Seal Atk/Spd 1": {}
     },
@@ -57579,7 +57587,8 @@
         "alm6": "4",
         "tharja8": "4",
         "marth9": "4",
-        "takumi7": "4"
+        "takumi7": "4",
+        "feshmel": "4"
       },
       "Time's Pulse 2": {},
       "Time's Pulse 1": {}
@@ -102564,7 +102573,8 @@
         "leo6": "4",
         "micaiah8": "4",
         "seidr3": "4",
-        "azura8": "4"
+        "azura8": "4",
+        "seidr4": "4"
       },
       "Still Water 2": {},
       "Still Water 1": {}
@@ -127207,7 +127217,8 @@
       "Potent 2": {},
       "Potent 3": {
         "larcei3": "4",
-        "lapis3": "4"
+        "lapis3": "4",
+        "feshmel": "4"
       },
       "Potent 4": {
         "marth7": "5",
@@ -130129,7 +130140,8 @@
         "leo6": "5",
         "micaiah8": "5",
         "seidr3": "5",
-        "azura8": "5"
+        "azura8": "5",
+        "seidr4": "5"
       }
     },
     "icon": 2129,
@@ -169306,7 +169318,7 @@
     "name": "Azure Impetus",
     "skill": [
       {
-        "name": "Azure Imeptus",
+        "name": "Azure Impetus",
         "stats": {
           "sp": "400"
         },
@@ -169426,7 +169438,7 @@
     "name": "Crimson Impetus",
     "skill": [
       {
-        "name": "Crimson Imeptus",
+        "name": "Crimson Impetus",
         "stats": {
           "sp": "400"
         },
@@ -170058,7 +170070,8 @@
     ],
     "reference": {
       "Certain Blow": {
-        "takumi7": "5"
+        "takumi7": "5",
+        "feshmel": "5"
       }
     },
     "icon": 2787,
@@ -170124,7 +170137,8 @@
     ],
     "reference": {
       "Quicken Null": {
-        "takumi7": "5"
+        "takumi7": "5",
+        "feshmel": "5"
       }
     },
     "icon": 2789,
@@ -170279,15 +170293,281 @@
       }
     ],
     "reference": {
-      "Sacred Hope": {}
+      "Sacred Hope": {
+        "seidr4": "5"
+      }
     },
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Sacred Hope"
+      "Sacred Hope",
+      "Hope Reborn",
+      "Sei\u00f0r: Hope Reborn",
+      "Mythic Sei\u00f0r 2",
+      "M Sei\u00f0r 2",
+      "sei\u00f0r4",
+      "Seidr: Hope Reborn",
+      "Mythic Seidr 2",
+      "M Seidr 2",
+      "seidr4"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
     "wpn": "wep_mg415"
+  },
+  "dimsmash": {
+    "name": "Dim Smash",
+    "skill": [
+      {
+        "name": "Dim Smash",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Seal Atk/Spd 2",
+          "Seal Def/Res 2"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Bow",
+            "Red_Dagger",
+            "Red_Tome",
+            "Blue_Bow",
+            "Blue_Dagger",
+            "Blue_Tome",
+            "Green_Bow",
+            "Green_Dagger",
+            "Green_Tome",
+            "Colorless_Bow",
+            "Colorless_Dagger",
+            "Colorless_Tome"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If defending in Aether Raids, after combat for unit or allies on the map, destroys foe's Safety Fence (O) structure (triggers even if unit or ally is defeated in combat).\nInflicts Atk/Spd/Def/Res-4 on foe, inflicts penalty on each of those stats = 7 - current penalty on each of those stats (min 0; calculates each stat penalty independently), unit deals +15 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 15 during combat (excluding area-of-effect Specials)."
+      }
+    ],
+    "reference": {
+      "Dim Smash": {
+        "seidr4": "5"
+      }
+    },
+    "icon": 2790,
+    "HARD_ALT_NAME": [
+      "Dim Smash"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "futureshared": {
+    "name": "Future Shared",
+    "skill": [
+      {
+        "name": "Future-Shared",
+        "description": "Enables\u3010Canto (Dist.; Max \uff13, Min \uff11)\u3011.\nDisables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials).\nAt start of player phase or enemy phase, if any foes within 3 rows or 3 columns centered on unit have Res < unit's Res+5, inflicts \u3010Exposure\u3011and\u3010Discord\u3011on those foes through their next actions.\nAfter foes' start-of-turn skills trigger, for the closest foes in cardinal directions of unit, if unit's Res \u2265 foe's Res+X (X = distance from unit to foe \u00d7 3, -5) and\u3010Time's Grip\u3011is not active on foe, or if it is turns 1 through 3 and unit is defending in Aether Raids during Anima season, foe's action ends immediately and inflicts\u3010Time's Grip\u3011and\u3010Gravity\u3011on foe.\nGrants Atk/Spd/Def/Res+5 to unit, unit deals damage = 20% of unit's Res (including area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Passive C",
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "bonus": {}
+      }
+    ],
+    "reference": {
+      "Future-Shared": {
+        "seidr4": "5"
+      }
+    },
+    "refine": {},
+    "icon": 2791,
+    "HARD_ALT_NAME": [
+      "Future-Shared"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "thenameless": {
+    "name": "The Nameless",
+    "skill": [
+      {
+        "name": "The Nameless",
+        "description": "Enables the Re-Act feature in Arena or Aether Raids (the same effect as the Feh Pass's Re-Act feature; twice per map; does not stack; does not trigger when deployed as reinforcement).\nAccelerates Special trigger (cooldown count-1). Unit can move through foes' spaces.\nUnit can move to a space within 2 spaces of any ally that has entered combat during the current turn.\nIf a Rally or movement Assist skill is used by unit and if target ally has already entered combat on the current turn and completed their action, grants another action to that ally. If Canto has already been triggered by target ally, re-enables Canto (once per turn; if another effect that grants action to target ally has been activated at the same time, this effect is also considered to have been triggered).\nAfter Canto, if unit used an Assist skill on the current turn, grants another action to unit and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nAt start of player phase or enemy phase, grants Atk/Spd+6,\u3010Union\u3011, and \"neutralizes foe's bonuses during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Spd/Def/Res+15 to unit, unit deals +25 damage (including area-of-effect Specials), reduces damage from foe's attacks by 15 (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 15 during combat (excluding area-of-effect Specials).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Lance",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "The Nameless": {
+        "feshmel": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "The Nameless",
+      "Pale Raven Herald",
+      "Eshmel: Pale Raven Herald",
+      "Base Female Eshmel",
+      "Normal Female Eshmel",
+      "Regular Female Eshmel",
+      "Base F Eshmel",
+      "Normal F Eshmel",
+      "Regular F Eshmel",
+      "Base Eshmel Female",
+      "Normal Eshmel Female",
+      "Regular Eshmel Female",
+      "Base Eshmel F",
+      "Normal Eshmel F",
+      "Regular Eshmel F",
+      "Base Type B Eshmel",
+      "Normal Type B Eshmel",
+      "Regular Type B Eshmel",
+      "Base B Type Eshmel",
+      "Normal B Type Eshmel",
+      "Regular B Type Eshmel",
+      "Base B Eshmel",
+      "Normal B Eshmel",
+      "Regular B Eshmel",
+      "Base Eshmel Type B",
+      "Normal Eshmel Type B",
+      "Regular Eshmel Type B",
+      "Base Eshmel B Type",
+      "Normal Eshmel B Type",
+      "Regular Eshmel B Type",
+      "Base Eshmel B",
+      "Normal Eshmel B",
+      "Regular Eshmel B",
+      "Legendary Female Eshmel",
+      "L Female Eshmel",
+      "Leg Female Eshmel",
+      "Legendary F Eshmel",
+      "L F Eshmel",
+      "Legendary F Eshmel",
+      "Legendary Eshmel Female",
+      "L Eshmel Female",
+      "Leg Eshmel Female",
+      "Legendary Eshmel F",
+      "L Eshmel F",
+      "Leg Eshmel F",
+      "Legendary Type B Eshmel",
+      "L Type B Eshmel",
+      "Leg Type B Eshmel",
+      "Legendary B Type Eshmel",
+      "L B Type Eshmel",
+      "Leg B Type Eshmel",
+      "Legendary B Eshmel",
+      "L B Eshmel",
+      "Leg B Eshmel",
+      "Legendary Eshmel B Type",
+      "L Eshmel B Type",
+      "Leg Eshmel B Type",
+      "Legendary Eshmel Type B",
+      "L Eshmel Type B",
+      "Leg Eshmel Type B",
+      "Legendary Eshmel B",
+      "L Eshmel B",
+      "Leg Eshmel B",
+      "feshmel"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_lc220"
+  },
+  "nineskystrike": {
+    "name": "Nine Sky Strike",
+    "skill": [
+      {
+        "name": "Nine-Sky Strike",
+        "description": "If unit's Special is ready, before combat this unit initiates, foes in an area near target take damage equal to 1.5 \u00d7 (unit's Atk minus foe's Def or Res).\nReduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials).\nIf unit's Special triggered before this combat or is ready at start of combat, unit's Potent Follow deals damage = 80% of unit's Spd during combat.\nAfter Canto, if unit used Special skill on the current turn, grants another action to unit and re-enables Canto (once per turn; does not trigger when affected by effects of traps in Aether Raids during Canto).\nIf unit's Special is ready, unit can use the following\u3010Style\u3011:\n\u2014\u2014\u2014\u2014\u2014 Nine-Sky Strike Scorching Sun Style \u2014\u2014\u2014\u2014\u2014\nUnit can attack foes 3 spaces away (unit cannot attack adjacent foes).\n\nReduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).\nCannot move through spaces within 3 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1 or foe can counterattack regardless of unit's range.\nAfter-combat movement effects do not occur. Skill effect's Range is treated as 1. This Style can be used only once per turn.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+        "stats": {
+          "cooldown": "4",
+          "sp": "500"
+        },
+        "required": [
+          "Blazing Light"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Nine-Sky Strike": {
+        "feshmel": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Nine-Sky Strike",
+      "Nine Sky Strike"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "puissantsquall": {
+    "name": "Puissant Squall",
+    "skill": [
+      {
+        "name": "Puissant Squall",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Potent 3",
+          "Special Spiral 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Sword",
+            "Red_Beast",
+            "Blue_Lance",
+            "Blue_Beast",
+            "Green_Axe",
+            "Green_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry"
+          ]
+        ],
+        "description": "Inflicts Spd/Def-4 on foe, unit deals damage = 20% of unit's Spd (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Spd during combat (excluding area-of-effect Specials). If unit does not trigger the \"attacks twice\" effect and if decreasing the Spd difference necessary to make a follow-up attack by 10 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers \u3010Potent Follow 100%\u3011during combat.\nAfter unit acts (if Canto triggers, after Canto), grants Special cooldown count-2 to unit."
+      }
+    ],
+    "reference": {
+      "Puissant Squall": {
+        "feshmel": "5"
+      }
+    },
+    "icon": 2792,
+    "HARD_ALT_NAME": [
+      "Puissant Squall"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
   }
 }

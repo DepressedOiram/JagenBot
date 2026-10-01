@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-chosen-heroes-schedule-updated-v0-oe508sgulhph1.png?width=1080&crop=smart&auto=webp&s=fa9a5f9427756d6603150d2acd44d08103880823")
+    embed.attach("image", "https://i.redd.it/f3nn5nsy4nsh1.png")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-chosen-heroes-schedule-updated-v0-oe508sgulhph1.png?width=1080&crop=smart&auto=webp&s=fa9a5f9427756d6603150d2acd44d08103880823")
+    embed.attach("image", "https://i.redd.it/f3nn5nsy4nsh1.png")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-chosen-heroes-schedule-updated-v0-oe508sgulhph1.png?width=1080&crop=smart&auto=webp&s=fa9a5f9427756d6603150d2acd44d08103880823")
+    embed.attach("image", "https://i.redd.it/f3nn5nsy4nsh1.png")
     
     await embed.send(ctx)
 
@@ -264,7 +264,7 @@ async def mythic(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-chosen-heroes-schedule-updated-v0-pp8mech0lhph1.png?width=1080&crop=smart&auto=webp&s=640f3b8578f8d59f3d73322536daee2cba943ab9")
+    embed.attach("image", "https://i.redd.it/tsh6h0ty4nsh1.png")
     
     await embed.send(ctx)
 
@@ -272,7 +272,7 @@ async def remix(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://preview.redd.it/legendary-mythic-emblem-chosen-heroes-schedule-updated-v0-s7aeodh0lhph1.png?width=1080&crop=smart&auto=webp&s=643d70135592ff812bf8b69a3ba82cd33bf8adbd")
+    embed.attach("image", "https://i.redd.it/x93mbzsy4nsh1.png")
     
     await embed.send(ctx)
 

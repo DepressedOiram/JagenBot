@@ -27336,9 +27336,52 @@
     "refine": false
   },
   "lilacjadebreath": {
-    "name": "Lilac-Jade Breath",
+    "name": "Lilac-Jade Breath (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Lilac-Jade Breath"
+  },
+  "lilacjadebreatheff": {
+    "name": "Lilac-Jade Breath (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "lilacjadebreathatk": {
+    "name": "Lilac-Jade Breath (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lilacjadebreathspd": {
+    "name": "Lilac-Jade Breath (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lilacjadebreathdef": {
+    "name": "Lilac-Jade Breath (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lilacjadebreathres": {
+    "name": "Lilac-Jade Breath (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -29077,10 +29120,56 @@
     "refine": false
   },
   "tigerspirit": {
-    "name": "Tiger Spirit",
+    "name": "Tiger Spirit (Unrefined)",
     "bonus": {
       "atk": 14,
       "res": 3
+    },
+    "refine": "Tiger Spirit"
+  },
+  "tigerspiriteff": {
+    "name": "Tiger Spirit (Eff)",
+    "bonus": {
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "tigerspiritatk": {
+    "name": "Tiger Spirit (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15,
+      "res": 3
+    },
+    "refine": false
+  },
+  "tigerspiritspd": {
+    "name": "Tiger Spirit (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2,
+      "res": 3
+    },
+    "refine": false
+  },
+  "tigerspiritdef": {
+    "name": "Tiger Spirit (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3,
+      "res": 3
+    },
+    "refine": false
+  },
+  "tigerspiritres": {
+    "name": "Tiger Spirit (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 6
     },
     "refine": false
   },
@@ -29687,9 +29776,51 @@
     "refine": false
   },
   "demonictome": {
-    "name": "Demonic Tome",
+    "name": "Demonic Tome (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Demonic Tome"
+  },
+  "demonictomeeff": {
+    "name": "Demonic Tome (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "demonictomeatk": {
+    "name": "Demonic Tome (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "demonictomespd": {
+    "name": "Demonic Tome (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "demonictomedef": {
+    "name": "Demonic Tome (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "demonictomeres": {
+    "name": "Demonic Tome (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -29914,9 +30045,52 @@
     "refine": false
   },
   "spendyscimitar": {
-    "name": "Spendy Scimitar",
+    "name": "Spendy Scimitar (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Spendy Scimitar"
+  },
+  "spendyscimitareff": {
+    "name": "Spendy Scimitar (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "spendyscimitaratk": {
+    "name": "Spendy Scimitar (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "spendyscimitarspd": {
+    "name": "Spendy Scimitar (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "spendyscimitardef": {
+    "name": "Spendy Scimitar (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "spendyscimitarres": {
+    "name": "Spendy Scimitar (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -31362,9 +31536,51 @@
     "refine": false
   },
   "argentaura": {
-    "name": "Argent Aura",
+    "name": "Argent Aura (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Argent Aura"
+  },
+  "argentauraeff": {
+    "name": "Argent Aura (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "argentauraatk": {
+    "name": "Argent Aura (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "argentauraspd": {
+    "name": "Argent Aura (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "argentauradef": {
+    "name": "Argent Aura (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "argentaurares": {
+    "name": "Argent Aura (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -46767,6 +46983,294 @@
     },
     "refine": false
   },
+  "chosensword": {
+    "name": "Chosen Sword",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "suttungrsmys": {
+    "name": "Suttungr's Mys. (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Suttungr's Mys."
+  },
+  "suttungrsmysatk": {
+    "name": "Suttungr's Mys. (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "suttungrsmysspd": {
+    "name": "Suttungr's Mys. (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "suttungrsmysdef": {
+    "name": "Suttungr's Mys. (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "suttungrsmysres": {
+    "name": "Suttungr's Mys. (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "watchfulbow": {
+    "name": "Watchful Bow",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "blarsparrow": {
+    "name": "Bl\u00e1rsparrow+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Bl\u00e1rsparrow+"
+  },
+  "blarsparrowatk": {
+    "name": "Bl\u00e1rsparrow+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "blarsparrowspd": {
+    "name": "Bl\u00e1rsparrow+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "blarsparrowdef": {
+    "name": "Bl\u00e1rsparrow+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "blarsparrowres": {
+    "name": "Bl\u00e1rsparrow+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "meleeaxe": {
+    "name": "Melee Axe+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Melee Axe+"
+  },
+  "meleeaxeatk": {
+    "name": "Melee Axe+ (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "meleeaxespd": {
+    "name": "Melee Axe+ (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "meleeaxedef": {
+    "name": "Melee Axe+ (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "meleeaxeres": {
+    "name": "Melee Axe+ (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "bitterwinter": {
+    "name": "Bitter Winter",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "cozycandles": {
+    "name": "Cozy Candles",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "winterstar": {
+    "name": "Winter Star",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "oliphantcalling": {
+    "name": "Oliphant Calling",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "snowfitlance": {
+    "name": "Snow-Fit Lance",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "wintertrinket": {
+    "name": "Winter Trinket+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Winter Trinket+"
+  },
+  "wintertrinketatk": {
+    "name": "Winter Trinket+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "wintertrinketspd": {
+    "name": "Winter Trinket+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "wintertrinketdef": {
+    "name": "Winter Trinket+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "wintertrinketres": {
+    "name": "Winter Trinket+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "blackeagleaxe": {
+    "name": "Black Eagle Axe",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "godlydevices": {
+    "name": "Godly Devices",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "sisterhagiota": {
+    "name": "Sister Hagiota",
+    "bonus": {
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "newyearsfan": {
+    "name": "New Year's Fan",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "horsebow": {
+    "name": "Horse Bow+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Horse Bow+"
+  },
+  "horsebowatk": {
+    "name": "Horse Bow+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "horsebowspd": {
+    "name": "Horse Bow+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "horsebowdef": {
+    "name": "Horse Bow+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "horsebowres": {
+    "name": "Horse Bow+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -47726,6 +48230,13 @@
     "name": "Sacred Hope",
     "bonus": {
       "atk": 14
+    },
+    "refine": false
+  },
+  "thenameless": {
+    "name": "The Nameless",
+    "bonus": {
+      "atk": 16
     },
     "refine": false
   }

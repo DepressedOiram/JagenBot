@@ -161387,7 +161387,8 @@
     "alt": false,
     "reference": [
       "seidr2",
-      "seidr3"
+      "seidr3",
+      "seidr4"
     ],
     "prf": {
       "": "seidr",
@@ -190160,7 +190161,8 @@
     "alt": false,
     "reference": [
       "seidr",
-      "seidr3"
+      "seidr3",
+      "seidr4"
     ],
     "prf": {
       "": "goddesstemari",
@@ -241668,7 +241670,8 @@
     "alt": true,
     "reference": [
       "seidr",
-      "seidr2"
+      "seidr2",
+      "seidr4"
     ],
     "prf": {
       "": "winterstar",
@@ -259815,7 +259818,7 @@
         "Death Blow 1": "2",
         "Death Blow 2": "3",
         "Death Blow 3": "4",
-        "Certain Bow": "5"
+        "Certain Blow": "5"
       },
       "B": {
         "Bold Stance": "5"
@@ -260330,6 +260333,487 @@
       "spd": "sacaenhunter",
       "def": "sacaenhunter",
       "res": "sacaenhunter"
+    }
+  },
+  "seidr4": {
+    "name": "Sei\u00f0r",
+    "title": "Hope Reborn",
+    "description": "Goddess of Vanaheimr who has once again obtained the power of the \u00c1r. Searches for her daughter, who went missing in the future.",
+    "origin": "Heroes",
+    "artist": "sasa (\u4f50\u3005)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Red",
+    "duel": false,
+    "id": "1419",
+    "type": "legendary",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 7,
+      "def": 6,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 55,
+      "def": 35,
+      "res": 90
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Fire": "1",
+      "Elfire": "2",
+      "Bolganone": "3",
+      "Sacred Hope": "5"
+    },
+    "assist": {},
+    "special": {
+      "Rising Light": "3",
+      "Blazing Light": "4"
+    },
+    "passive": {
+      "A": {
+        "Still Water 1": "2",
+        "Still Water 2": "3",
+        "Still Water 3": "4",
+        "Crystalline Water": "5"
+      },
+      "B": {
+        "Seal Atk 1": "2",
+        "Seal Atk/Spd 1": "3",
+        "Seal Atk/Spd 2": "4",
+        "Dim Smash": "5"
+      },
+      "C": {
+        "Future-Shared": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Seidr_Hope_Reborn_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Seidr_Hope_Reborn_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Seidr_Hope_Reborn_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Seidr_Hope_Reborn_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Hope Reborn",
+      "Sei\u00f0r: Hope Reborn",
+      "Mythic Sei\u00f0r 2",
+      "M Sei\u00f0r 2",
+      "sei\u00f0r4",
+      "Seidr: Hope Reborn",
+      "Mythic Seidr 2",
+      "M Seidr 2",
+      "seidr4"
+    ],
+    "HARD_ALT_NAME": [
+      "Hope Reborn",
+      "Sei\u00f0r: Hope Reborn",
+      "Mythic Sei\u00f0r 2",
+      "M Sei\u00f0r 2",
+      "sei\u00f0r4",
+      "Seidr: Hope Reborn",
+      "Mythic Seidr 2",
+      "M Seidr 2",
+      "seidr4"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u30bb\u30a4\u30ba2\u5473\u65b9",
+    "voice": "Valeria Rodriguez",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "With this new power, I will guide even more of the children of Midgard along the path of light.",
+        "I'm...the future ruler of Vanaheimr? I'm aware that we are in need of a new leader, but that seems a bit...",
+        "Shall we walk together to our rooms? I-I know the way, of course, but I thought you could use a companion.",
+        "If you're available, perhaps we could... Oh, um, never mind. Pay me no heed.",
+        "I am of the opinion that children are a blessing. Do you agree?"
+      ],
+      "Visit": [
+        "Wh-where am I? I must return to [F]'s castle..."
+      ],
+      "Level": [
+        "Yes, yes, I did it! O-oh, um, who said that? Certainly not me.",
+        "This is no trouble for a dignified goddess such as myself.",
+        "Not even this new power could help me... Oh, the shame..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Greetings, child of Midgard. I am Sei\u00f0r. I am here to guide you along the path of light in a new form."
+      ],
+      "Learn Skill": [
+        "Thank you very much. Please allow me to humbly accept your generosity."
+      ],
+      "Confession": [
+        "I imagine you were surprised as well, Summoner.\nTo think that Gr\u00f3a and her sister were created from our vow... I can hardly fathom it.\nI have always been of the belief that a goddess must maintain her composure at all times. Yet, even so...\nAs embarrassing as it may be to admit it, I cannot suppress the joy within my heart!\nI must create a peaceful future for my daughters. I would give my own life to make it so."
+      ],
+      "Special": [
+        "For my daughters...",
+        "With this power...",
+        "A guiding light.",
+        "With hope for the future!"
+      ],
+      "Status": [
+        "-",
+        "There is no reason to quail before my new appearance.",
+        "*gasp* One should respect a goddess.",
+        "I cannot believe it! We have two daughters!",
+        "Just seeing Gr\u00f3a healthy and full of joy is enough for me...",
+        "In the future, there is hope... Our daughters.",
+        "I am humbled to have performed the ritual with you not once, but twice...",
+        "I wish for us to set a harmonious example for our daughters..."
+      ],
+      "Map Select": [
+        "Let us go.",
+        "What shall I do?",
+        "I will guide you."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Mythic Sei\u00f0r 2",
+    "SEARCH_NAME": "Mythic Sei\u00f0r 2",
+    "DISPLAY_NAME": "<:Red_Tome:1317239730714316800>Mythic Sei\u00f0r 2",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "seidr",
+      "seidr2",
+      "seidr3"
+    ],
+    "prf": {
+      "": "sacredhope",
+      "eff": "sacredhope",
+      "atk": "sacredhope",
+      "spd": "sacredhope",
+      "def": "sacredhope",
+      "res": "sacredhope"
+    },
+    "blessing": "Anima",
+    "boost": {
+      "hp": 5,
+      "def": 5
+    }
+  },
+  "feshmel": {
+    "name": "Eshmel",
+    "title": "Pale Raven Herald",
+    "description": "An enigmatic person shrouded in pure white. Legends say they appear when the world is plunged into chaos. Appears in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "Akka (\u3042\u3063\u304b)",
+    "move": "Infantry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": "220",
+    "id": "1420",
+    "type": "legendary",
+    "version": "10.9",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 20,
+      "atk": 10,
+      "spd": 10,
+      "def": 10,
+      "res": 9
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 90,
+      "def": 65,
+      "res": 50
+    },
+    "superboon": [
+      "atk",
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "The Nameless": "5" 
+    },
+    "assist": {
+      "Reposition": "3"
+    },
+    "special": {
+      "Rising Light": "3",
+      "Blazing Light": "4",
+      "Nine-Sky Strike": "5"
+    },
+    "passive": {
+      "A": {
+        "Darting Blow 1": "2",
+        "Darting Blow 2": "3",
+        "Darting Blow 3": "4",
+        "Certain Blow": "5"
+      },
+      "B": {
+        "Potent 1": "2",
+        "Potent 2": "3",
+        "Potent 3": "4",
+        "Puissant Squall": "5"
+      },
+      "C": {
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Quicken Null": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Eshmel_Pale_Raven_Herald_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Eshmel_Pale_Raven_Herald_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Eshmel_Pale_Raven_Herald_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f5/Eshmel_Pale_Raven_Herald_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Pale Raven Herald",
+      "Eshmel: Pale Raven Herald",
+      "Base Female Eshmel",
+      "Normal Female Eshmel",
+      "Regular Female Eshmel",
+      "Base F Eshmel",
+      "Normal F Eshmel",
+      "Regular F Eshmel",
+      "Base Eshmel Female",
+      "Normal Eshmel Female",
+      "Regular Eshmel Female",
+      "Base Eshmel F",
+      "Normal Eshmel F",
+      "Regular Eshmel F",
+      "Base Type B Eshmel",
+      "Normal Type B Eshmel",
+      "Regular Type B Eshmel",
+      "Base B Type Eshmel",
+      "Normal B Type Eshmel",
+      "Regular B Type Eshmel",
+      "Base B Eshmel",
+      "Normal B Eshmel",
+      "Regular B Eshmel",
+      "Base Eshmel Type B",
+      "Normal Eshmel Type B",
+      "Regular Eshmel Type B",
+      "Base Eshmel B Type",
+      "Normal Eshmel B Type",
+      "Regular Eshmel B Type",
+      "Base Eshmel B",
+      "Normal Eshmel B",
+      "Regular Eshmel B",
+      "Legendary Female Eshmel",
+      "L Female Eshmel",
+      "Leg Female Eshmel",
+      "Legendary F Eshmel",
+      "L F Eshmel",
+      "Legendary F Eshmel",
+      "Legendary Eshmel Female",
+      "L Eshmel Female",
+      "Leg Eshmel Female",
+      "Legendary Eshmel F",
+      "L Eshmel F",
+      "Leg Eshmel F",
+      "Legendary Type B Eshmel",
+      "L Type B Eshmel",
+      "Leg Type B Eshmel",
+      "Legendary B Type Eshmel",
+      "L B Type Eshmel",
+      "Leg B Type Eshmel",
+      "Legendary B Eshmel",
+      "L B Eshmel",
+      "Leg B Eshmel",
+      "Legendary Eshmel B Type",
+      "L Eshmel B Type",
+      "Leg Eshmel B Type",
+      "Legendary Eshmel Type B",
+      "L Eshmel Type B",
+      "Leg Eshmel Type B",
+      "Legendary Eshmel B",
+      "L Eshmel B",
+      "Leg Eshmel B",
+      "feshmel"
+    ],
+    "HARD_ALT_NAME": [
+      "Pale Raven Herald",
+      "Eshmel: Pale Raven Herald",
+      "Base Female Eshmel",
+      "Normal Female Eshmel",
+      "Regular Female Eshmel",
+      "Base F Eshmel",
+      "Normal F Eshmel",
+      "Regular F Eshmel",
+      "Base Eshmel Female",
+      "Normal Eshmel Female",
+      "Regular Eshmel Female",
+      "Base Eshmel F",
+      "Normal Eshmel F",
+      "Regular Eshmel F",
+      "Base Type B Eshmel",
+      "Normal Type B Eshmel",
+      "Regular Type B Eshmel",
+      "Base B Type Eshmel",
+      "Normal B Type Eshmel",
+      "Regular B Type Eshmel",
+      "Base B Eshmel",
+      "Normal B Eshmel",
+      "Regular B Eshmel",
+      "Base Eshmel Type B",
+      "Normal Eshmel Type B",
+      "Regular Eshmel Type B",
+      "Base Eshmel B Type",
+      "Normal Eshmel B Type",
+      "Regular Eshmel B Type",
+      "Base Eshmel B",
+      "Normal Eshmel B",
+      "Regular Eshmel B",
+      "Legendary Female Eshmel",
+      "L Female Eshmel",
+      "Leg Female Eshmel",
+      "Legendary F Eshmel",
+      "L F Eshmel",
+      "Legendary F Eshmel",
+      "Legendary Eshmel Female",
+      "L Eshmel Female",
+      "Leg Eshmel Female",
+      "Legendary Eshmel F",
+      "L Eshmel F",
+      "Leg Eshmel F",
+      "Legendary Type B Eshmel",
+      "L Type B Eshmel",
+      "Leg Type B Eshmel",
+      "Legendary B Type Eshmel",
+      "L B Type Eshmel",
+      "Leg B Type Eshmel",
+      "Legendary B Eshmel",
+      "L B Eshmel",
+      "Leg B Eshmel",
+      "Legendary Eshmel B Type",
+      "L Eshmel B Type",
+      "Leg Eshmel B Type",
+      "Legendary Eshmel Type B",
+      "L Eshmel Type B",
+      "Leg Eshmel Type B",
+      "Legendary Eshmel B",
+      "L Eshmel B",
+      "Leg Eshmel B",
+      "feshmel"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u4f1d\u627f\u30a4\u30b7\u30e5\u30de\u30fc\u30eb\u5973",
+    "voice": "Virginia Lee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "To gather warriors with true strength, brought here by the flow of causality. That is my role\u2014my purpose.",
+        "My world is on the verge of total ruin. Blue skies are a thing of the past. Here, though, is health and bounty.",
+        "Perhaps it is that our white garb is so similar, but I find I care about your well-being. Do not push too hard.",
+        "Does my spear interest you? It may look like it is barely holding together, but its sharpness is second to none.",
+        "I've spent a lot of time in one spot, watching people come and go. I could use some conversation! Let's talk."
+      ],
+      "Visit": [
+        "Ah, there you are. I sought you out to deliver a message for you from [F]."
+      ],
+      "Level": [
+        "I need greater power to see this through.",
+        "I'm getting more comfortable in this body.",
+        "Hmm...that's a shame."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Eshmel. Causality has guided us to meet in this place. I promise to give my all to save this world."
+      ],
+      "Learn Skill": [
+        "I understand. I look forward to putting this to use. There are many ways to secure our future..."
+      ],
+      "Confession": [
+        "Hello again. Having fought by your side for some time now, I see you as a trusted compatriot.\nTo win this war, you summon Heroes you'd never have crossed paths with, and fight beside them.\nMy mission is much the same as yours, and my foe is just as powerful, the fight as insurmountable.\nI must interfere with the laws of causality to gain the aid of the strongest and save my world.\nThat I could meet someone burdened with such a similar fate is a strange wrinkle in that causality...\nTo this world, you are its Promised One, not I.\nI will do my utmost to fight by your side and bring a brighter light to shine on Askr's future."
+      ],
+      "Special": [
+        "I will blaze a trail!",
+        "For all the lost!",
+        "Shine the light of fate!",
+        "Scatter, darkness!"
+      ],
+      "Status": [
+        "-",
+        "As long as people seek salvation, I will keep fighting.",
+        "Ugh! Why do you prod me? What are you trying to find?",
+        "I want to see Dagda's skies blue again...blue as the ones here in Askr.",
+        "The Order of Heroes has a perch for an owl. Are birds popular here?",
+        "I had thought going clad in white uncommon, but it seems that's not the case here.",
+        "Though you may not be by my side now, Fortuna, I feel your presence.",
+        "You have a certain familiarity to you. Are you like me? No, it is not possible."
+      ],
+      "Map Select": [
+        "Yes.",
+        "No need to worry about me.",
+        "Let my light shine!"
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Legendary Eshmel (Type B)",
+    "SEARCH_NAME": "Legendary Eshmel (Type B)",
+    "DISPLAY_NAME": "<:Blue_Lance:1317239378208096338>Legendary Eshmel (Type B)",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "thenameless",
+      "eff": "thenameless",
+      "atk": "thenameless",
+      "spd": "thenameless",
+      "def": "thenameless",
+      "res": "thenameless"
+    },
+    "blessing": "Water",
+    "boost": {
+      "hp": 3,
+      "atk": 2
     }
   }
 }
