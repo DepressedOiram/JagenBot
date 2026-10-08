@@ -180,6 +180,33 @@
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
+    "arcanestyle": {
+        "name": "Arcane Style",
+        "description": "Change Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. If unit is deployed using Pair Up or is equipped with skills (excluding status effects) that can trigger other Styles, this arcane weapon's Style does not take effect (the Styles of the other skills can still be triggered).",
+        "color": "Colorless",
+        "icon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [
+                "Arcane Lantern"
+            ],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
     "assigndecoy": {
         "name": "Assign Decoy",
         "description": "If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers\u3010Savior\u3011on unit (that turn only; triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
@@ -276,6 +303,7 @@
             "special": [
                 "Windfire Charm",
                 "Fireflood Charm",
+                "Great Aether E",
                 "Royal Resolve"
             ],
             "A": [
@@ -289,7 +317,8 @@
             "C": [
                 "Atk/Spd Liberate",
                 "Atk/Res Liberate",
-                "Brio"
+                "Brio",
+                "Homeland Vow"
             ],
             "X": [],
             "S": [],
@@ -372,7 +401,8 @@
             "assist": [],
             "special": [
                 "Bond Blast",
-                "Covenant Blast"
+                "Covenant Blast",
+                "Dragon Blast II"
             ],
             "A": [],
             "B": [],
@@ -498,6 +528,7 @@
                 ]
             },
             "Breath": [
+                "Arcane Lantern",
                 "Awakening Voice",
                 "Eternal Breath",
                 "Frostfire Breath",
@@ -523,6 +554,7 @@
                 "Windfire Charm",
                 "Fireflood Charm",
                 "Deluge Charm",
+                "Great Aether E",
                 "Royal Resolve",
                 "True Emblem"
             ],
@@ -580,6 +612,7 @@
                 "Atk/Res Liberate",
                 "Brio",
                 "Covetous One",
+                "Homeland Vow",
                 "Truly Yours"
             ],
             "X": [
@@ -687,7 +720,8 @@
                 "Ancient Ragnell",
                 "Chosen Sword",
                 "Fellowship Blade",
-                "Sublime Creator"
+                "Sublime Creator",
+                "Warrior's Sword"
             ],
             "Lance": [],
             "Axe": [
@@ -751,12 +785,16 @@
             "Bow": [],
             "Dagger": [],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Royal Treats"
+                ],
                 "Blue_Tome": [],
                 "Green_Tome": [
                     "Mirage Excalibur"
                 ],
-                "Colorless_Tome": []
+                "Colorless_Tome": [
+                    "Reforged Seer"
+                ]
             },
             "Breath": [],
             "Beast": []
@@ -979,6 +1017,7 @@
             "Staff": [
                 "Staff of the Saint",
                 "Staff of Yngvi",
+                "Sunshade Staff",
                 "Supreme Th\u00f6kk",
                 "Salvage"
             ],
@@ -1486,7 +1525,8 @@
                 ],
                 "Green_Tome": [],
                 "Colorless_Tome": [
-                    "Fell Tome"
+                    "Fell Tome",
+                    "Reforged Seer"
                 ]
             },
             "Breath": [],
@@ -1541,6 +1581,7 @@
             ],
             "Axe": [
                 "Axe of Dusk",
+                "Candy Scythe",
                 "Chosen Scythe",
                 "Gate-Anchor Axe",
                 "Ilian Battleaxe",
@@ -1564,6 +1605,7 @@
             ],
             "Beast": [
                 "Chiseled Antler",
+                "Guardian's Talon",
                 "Horn of the Land"
             ]
         },
@@ -1905,7 +1947,9 @@
             "Sword": [],
             "Lance": [],
             "Axe": [],
-            "Staff": [],
+            "Staff": [
+                "Sunshade Staff"
+            ],
             "Bow": [
                 "Skybound Bow"
             ],
@@ -2183,6 +2227,7 @@
                 "Kaze's Needle",
                 "Kindling Taiko",
                 "Levin Dagger",
+                "Master Dagger",
                 "Miasma Dagger+",
                 "Minty Cane+",
                 "Nabata Kunai",
@@ -2376,6 +2421,7 @@
         "reference_skill": {
             "assist": [],
             "special": [
+                "Great Aether E",
                 "Royal Resolve"
             ],
             "A": [],
@@ -2543,7 +2589,8 @@
                 "Red_Tome": [
                     "Agnea's Arrow",
                     "Dark Faith",
-                    "Grimleal Text"
+                    "Grimleal Text",
+                    "Royal Treats"
                 ],
                 "Blue_Tome": [
                     "Argent Aura",
@@ -2711,6 +2758,7 @@
                 "Colorless_Tome": []
             },
             "Breath": [
+                "Dragon's Fist",
                 "Wintery Arts"
             ],
             "Beast": []
@@ -2927,7 +2975,9 @@
                 "Ice Lock+"
             ],
             "special": [],
-            "A": [],
+            "A": [
+                "Naga the Eternal"
+            ],
             "B": [
                 "Glacial Seal"
             ],
@@ -3294,6 +3344,7 @@
                 ]
             },
             "Breath": [
+                "Dew Dragonstone",
                 "Duskstone",
                 "Vallastone"
             ],
@@ -3305,7 +3356,9 @@
                 "Yours to Climb"
             ],
             "special": [],
-            "A": [],
+            "A": [
+                "Naga the Eternal"
+            ],
             "B": [],
             "C": [],
             "X": [],
@@ -3492,6 +3545,7 @@
                 ]
             },
             "Breath": [
+                "Arcane Lantern",
                 "Lilac-Jade Breath"
             ],
             "Beast": []
@@ -3614,6 +3668,7 @@
                 "Blade of Jehanna",
                 "Covert Duality",
                 "Lark Dagger",
+                "Master Dagger",
                 "Spy's Shuriken"
             ],
             "Tome": {
@@ -3818,7 +3873,9 @@
                 "Colorless_Tome": []
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "Guardian's Talon"
+            ]
         },
         "reference_skill": {
             "assist": [],
@@ -4937,7 +4994,9 @@
                     "Uniting Bouquet"
                 ]
             },
-            "Breath": [],
+            "Breath": [
+                "Dew Dragonstone"
+            ],
             "Beast": [
                 "Entwining Horn",
                 "Preying Fang",
@@ -5291,6 +5350,7 @@
             "special": [
                 "Chivalric Aura",
                 "Crusader's Heir",
+                "Dragon Blast II",
                 "Holy-Knight Aura",
                 "Holy-Knight II"
             ],
@@ -5407,7 +5467,8 @@
             },
             "Breath": [
                 "Ancient Betrayal",
-                "Brutal Breath"
+                "Brutal Breath",
+                "Dragon's Fist"
             ],
             "Beast": [
                 "Entwining Horn",
@@ -5746,7 +5807,8 @@
                     "Hot-Spring Pail"
                 ],
                 "Colorless_Tome": [
-                    "Inner Wellspring"
+                    "Inner Wellspring",
+                    "Reforged Seer"
                 ]
             },
             "Breath": [
@@ -6174,6 +6236,7 @@
                     "Fiery Bolganone",
                     "Grimleal Text",
                     "Retainer's Report",
+                    "Royal Treats",
                     "Sacred Hope",
                     "Spring Dawning"
                 ],
@@ -6209,6 +6272,8 @@
                 ]
             },
             "Breath": [
+                "Arcane Lantern",
+                "Dew Dragonstone",
                 "Everliving Breath",
                 "Faithful Breath",
                 "Lilac-Jade Breath"
@@ -6531,7 +6596,9 @@
                 "\u00c1sj\u00e1 of Askr",
                 "Lance of Frelia"
             ],
-            "Axe": [],
+            "Axe": [
+                "Candy Scythe"
+            ],
             "Staff": [],
             "Bow": [
                 "Enchanting Bow",
@@ -6563,6 +6630,7 @@
             },
             "Breath": [],
             "Beast": [
+                "Guardian's Talon",
                 "Winds of Duality"
             ]
         },
@@ -6572,11 +6640,13 @@
                 "Blazing Lion",
                 "Covenant Blast",
                 "Divine Rumble",
+                "Dragon Blast II",
                 "Sei\u00f0r Cannon",
                 "Sirius Pulse",
                 "True Bane"
             ],
             "A": [
+                "Naga the Eternal",
                 "Peerless Beauty",
                 "Prof's Guidance",
                 "Proper Knight",
@@ -6596,6 +6666,7 @@
             "C": [
                 "Brio",
                 "Budding Flower",
+                "Homeland Vow",
                 "I'll Soar Higher!",
                 "New Way II",
                 "Philanderer"
@@ -6673,14 +6744,14 @@
                     "Spring Hare Egg+"
                 ],
                 "Colorless_Tome": [
+                    "Reforged Seer",
                     "Scrolls of Time"
                 ]
             },
             "Breath": [],
             "Beast": [
                 "Gautier Stone"
-            ],
-            "captain": []
+            ]
         },
         "reference_skill": {
             "assist": [
@@ -6835,7 +6906,8 @@
         "reference_skill": {
             "assist": [],
             "special": [
-                "Aether's Route"
+                "Aether's Route",
+                "Great Aether E"
             ],
             "A": [],
             "B": [],
@@ -7333,7 +7405,8 @@
             "Tome": {
                 "Red_Tome": [
                     "Arcane 12's Writ",
-                    "Fiery Bolganone"
+                    "Fiery Bolganone",
+                    "Royal Treats"
                 ],
                 "Blue_Tome": [
                     "Clever Notations"
@@ -7395,6 +7468,7 @@
             "Dagger": [
                 "Covert Duality",
                 "Hidden Blade",
+                "Master Dagger",
                 "Tangy Sundae"
             ],
             "Tome": {
@@ -7849,7 +7923,8 @@
             "B": [],
             "C": [
                 "Atk/Spd Liberate",
-                "Brio"
+                "Brio",
+                "Homeland Vow"
             ],
             "X": [],
             "S": [],
@@ -7888,7 +7963,8 @@
             ],
             "Tome": {
                 "Red_Tome": [
-                    "Arcane 12's Writ"
+                    "Arcane 12's Writ",
+                    "Royal Treats"
                 ],
                 "Blue_Tome": [
                     "Clever Notations"
@@ -8104,7 +8180,9 @@
             "Sword": [
                 "Ancient Ragnell",
                 "Azure Twin Edge",
+                "Emblem Ragnell",
                 "Hoshido Raijinto",
+                "Isaach's Brand",
                 "New Levin Sword",
                 "Sisters' Blade",
                 "Sonic Sword",
@@ -8188,6 +8266,33 @@
         "reference_hero": {
             "lyn9": "<:feh_emblem:1317239481874780181><:Green_Bow:1317239539936268340>Emblem Lyn"
         },
+        "HARD_ALT_NAME": []
+    },
+    "timedilation": {
+        "name": "Time Dilation",
+        "description": "Grants Atk/Spd/Def/Res+5 to unit and unit deals +10 damage during combat (excluding area-of-effect Specials), and if unit initiated combat, enables【Cadenza】against any foe within X spaces of unit after combat (excluding after\u3010Cadenza\u3011; X = unit's attack range +1; \u3010Cadenza\u3011can only be enabled by this effect once per turn for the entire map).",
+        "color": "Colorless",
+        "icon": "timedilation",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": [
+                    "Reforged Seer"
+                ]
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
+        "reference_hero": {},
         "HARD_ALT_NAME": []
     },
     "timesgate": {
@@ -8629,7 +8734,9 @@
         "color": "Red",
         "icon": "union",
         "reference_weapon": {
-            "Sword": [],
+            "Sword": [
+                "Warrior's Sword"
+            ],
             "Lance": [
                 "The Nameless"
             ],

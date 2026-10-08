@@ -23451,7 +23451,14 @@
       "Harmonic Goldmary",
       "Harmonized GOldmary",
       "Beach Goldmary",
-      "goldmary"
+      "goldmary",
+      "Darling Demon",
+      "Goldmary: Darling Demon",
+      "Halloween Goldmary",
+      "Harvest Goldmary",
+      "H Goldmary 2",
+      "Spooky Goldmary",
+      "goldmary2"
     ],
     "HARD_ALT_NAME": [
       "natasha",
@@ -23489,10 +23496,18 @@
       "Summer Goldmary",
       "S Goldmary",
       "Beach Goldmary",
-      "goldmary"
+      "goldmary",
+      "Darling Demon",
+      "Goldmary: Darling Demon",
+      "Halloween Goldmary",
+      "Harvest Goldmary",
+      "H Goldmary 2",
+      "Spooky Goldmary",
+      "goldmary2"
     ],
     "heroes": {
       "goldmary": "<:Blue_Lance:1317239378208096338>Summer Goldmary",
+      "goldmary2": "<:Green_Axe:1317239517136031897>Halloween Goldmary",
       "louise": "<:Colorless_Bow:1317239404204654703>Louise",
       "louise2": "<:Colorless_Bow:1317239404204654703>Bridal Louise",
       "natasha": "<:Colorless_Staff:1317239426866483261>Natasha"
@@ -27857,7 +27872,11 @@
       "Su Alfonse",
       "S Alfonse 2",
       "Beach Alfonse",
-      "alfonse7"
+      "alfonse7",
+      "Resplendent Legendary Roy",
+      "Resp Legendary Roy",
+      "R Legendary Roy",
+      "Legendary Roy (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "roy",
@@ -28089,7 +28108,11 @@
       "Su Alfonse",
       "S Alfonse 2",
       "Beach Alfonse",
-      "alfonse7"
+      "alfonse7",
+      "Resplendent Legendary Roy",
+      "Resp Legendary Roy",
+      "R Legendary Roy",
+      "Legendary Roy (Resplendent)"
     ],
     "heroes": {
       "alfonse": "<:Red_Sword:1317239717707911188>Alfonse",
@@ -28111,6 +28134,7 @@
       "roy2R": "<:Red_Sword:1317239717707911188>Brave Roy (Resplendent)",
       "roy3": "<:Colorless_Bow:1317239404204654703>Valentines Roy",
       "roy4": "<:Red_Sword:1317239717707911188>Legendary Roy",
+      "roy4R": "<:Red_Sword:1317239717707911188>Legendary Roy (Resplendent)",
       "roy5": "<:Green_Axe:1317239517136031897>Groom Roy",
       "roy6": "<:Red_Sword:1317239717707911188>Emblem Roy"
     },
@@ -35718,7 +35742,8 @@
   },
   "kanashimanuki": {
     "heroes": {
-      "edain": "<:Colorless_Staff:1317239426866483261>Edain"
+      "edain": "<:Colorless_Staff:1317239426866483261>Edain",
+      "shea": "<:Blue_Breath:1317239355835813939>Halloween Rearmed Shea"
     },
     "name": "Kana Shimanuki",
     "ALT_NAME": [
@@ -35737,7 +35762,46 @@
       "aideen1",
       "Aideen: Lady of Yngvi",
       "Normal Aideen",
-      "Base Aideen"
+      "Base Aideen",
+      "Guide to Bounty",
+      "Shea: Guide to Bounty",
+      "Halloween Shea",
+      "Harvest Shea",
+      "H Shea",
+      "Spooky Shea",
+      "Halloween Rearmed Shea",
+      "Harvest Rearmed Shea",
+      "H Rearmed Shea",
+      "Spooky Rearmed Shea",
+      "Halloween Rearm Shea",
+      "Harvest Rearm Shea",
+      "H Rearm Shea",
+      "Spooky Rearm Shea",
+      "Halloween R Shea",
+      "Harvest R Shea",
+      "H R Shea",
+      "Spooky R Shea",
+      "Halloween Arm Shea",
+      "Harvest Arm Shea",
+      "H Arm Shea",
+      "Spooky Arm Shea",
+      "Rearmed Halloween Shea",
+      "Rearmed Harvest Shea",
+      "Rearmed H Shea",
+      "Rearmed Spooky Shea",
+      "Rearm Halloween Shea",
+      "Rearm Harvest Shea",
+      "Rearm H Shea",
+      "Rearm Spooky Shea",
+      "R Halloween Shea",
+      "R Harvest Shea",
+      "R H Shea",
+      "R Spooky Shea",
+      "Arm Halloween Shea",
+      "Arm Harvest Shea",
+      "Arm H Shea",
+      "Arm Spooky Shea",
+      "shea"
     ],
     "HARD_ALT_NAME": [
       "edain",
@@ -35755,7 +35819,46 @@
       "aideen1",
       "Aideen: Lady of Yngvi",
       "Normal Aideen",
-      "Base Aideen"
+      "Base Aideen",
+      "Guide to Bounty",
+      "Shea: Guide to Bounty",
+      "Halloween Shea",
+      "Harvest Shea",
+      "H Shea",
+      "Spooky Shea",
+      "Halloween Rearmed Shea",
+      "Harvest Rearmed Shea",
+      "H Rearmed Shea",
+      "Spooky Rearmed Shea",
+      "Halloween Rearm Shea",
+      "Harvest Rearm Shea",
+      "H Rearm Shea",
+      "Spooky Rearm Shea",
+      "Halloween R Shea",
+      "Harvest R Shea",
+      "H R Shea",
+      "Spooky R Shea",
+      "Halloween Arm Shea",
+      "Harvest Arm Shea",
+      "H Arm Shea",
+      "Spooky Arm Shea",
+      "Rearmed Halloween Shea",
+      "Rearmed Harvest Shea",
+      "Rearmed H Shea",
+      "Rearmed Spooky Shea",
+      "Rearm Halloween Shea",
+      "Rearm Harvest Shea",
+      "Rearm H Shea",
+      "Rearm Spooky Shea",
+      "R Halloween Shea",
+      "R Harvest Shea",
+      "R H Shea",
+      "R Spooky Shea",
+      "Arm Halloween Shea",
+      "Arm Harvest Shea",
+      "Arm H Shea",
+      "Arm Spooky Shea",
+      "shea"
     ]
   },
   "rymckeand": {
@@ -36387,7 +36490,8 @@
   "elsielovelock": {
     "heroes": {
       "heimdallr": "<:Blue_Tome:1317239386491977749>Heimdallr",
-      "heimdallr2": "<:Green_Tome:1317239575352971396>New Year Heimdallr"
+      "heimdallr2": "<:Green_Tome:1317239575352971396>New Year Heimdallr",
+      "kurt": "<:Red_Tome:1317239730714316800>Halloween Kurt"
     },
     "name": "Elsie Lovelock",
     "ALT_NAME": [
@@ -36402,7 +36506,16 @@
       "New Year Heimdallr",
       "NY Heimdallr",
       "Kimono Heimdallr",
-      "heimdallr2"
+      "heimdallr2",
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
     ],
     "HARD_ALT_NAME": [
       "God of Foresight",
@@ -36416,7 +36529,16 @@
       "New Year Heimdallr",
       "NY Heimdallr",
       "Kimono Heimdallr",
-      "heimdallr2"
+      "heimdallr2",
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
     ]
   },
   "miapaige": {
@@ -36959,6 +37081,60 @@
       "L Eshmel B",
       "Leg Eshmel B",
       "feshmel"
+    ]
+  },
+  "brittanylauda": {
+    "heroes": {
+      "kurt": "<:Red_Tome:1317239730714316800>Halloween Kurt"
+    },
+    "name": "Brittany Lauda",
+    "ALT_NAME": [
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
+    ],
+    "HARD_ALT_NAME": [
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
+    ]
+  },
+  "kevinandrewrivera": {
+    "heroes": {
+      "janaff": "<:Colorless_Beast:1317239395534901248>Halloween Janaff"
+    },
+    "name": "Kevin Andrew Rivera",
+    "ALT_NAME": [
+      "Treat or Talon",
+      "Janaff: Treat or Talon",
+      "Halloween Janaff",
+      "Harvest Janaff",
+      "H Janaff",
+      "Spooky Janaff",
+      "janaff"
+    ],
+    "HARD_ALT_NAME": [
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
     ]
   }
 }

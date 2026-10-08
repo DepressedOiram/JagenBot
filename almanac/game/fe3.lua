@@ -53,7 +53,11 @@ end
 
 local function inventory_hit(data, unit, item)
     if item:is_magic() then
-        return item.stats.hit
+        if item.id == "levinsword" then
+            return item.stats.hit + (unit.stats.skl * 2)
+        else
+            return item.stats.hit
+        end
     else
         return item.stats.hit + (unit.stats.skl * 2)
     end 

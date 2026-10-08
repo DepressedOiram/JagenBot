@@ -65601,15 +65601,20 @@
     "pool": "legend",
     "internal_id": "\u4f1d\u627f\u30ed\u30a4",
     "voice": "Ray Chase",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Kasahara",
+    "resplendent_voice": "Ray Chase",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Roy_Blazing_Lion_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Roy_Blazing_Lion_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Roy_Blazing_Lion_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Roy_Blazing_Lion_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bb/Roy_Blazing_Lion_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Roy_Blazing_Lion_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Roy_Blazing_Lion_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Roy_Blazing_Lion_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "elibe"
     ],
@@ -65666,7 +65671,38 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "This will end it!",
+          "The power of Sei\u00f0j\u00e1rn!",
+          "I won't let you go!",
+          "With this power!"
+        ],
+        "Status": [
+          "Oh.",
+          "I must say, this attire is impressive. Thank you for choosing me to wear it.",
+          "Aha! Don't do that. This outfit should be handled with care.",
+          "Sei\u00f0j\u00e1rn, right? It's exciting to see such truly amazing machinery.",
+          "Princess Reginn is so bright and cheery. She makes it fun to just be in her presence.",
+          "I need to further my studies if I'm to keep protecting Pherae and developing it into all it's meant to be.",
+          "I would like to try riding that mechanical horse.",
+          "You will have my continued support and protection."
+        ],
+        "Map Select": [
+          "All right.",
+          "Where to?",
+          "I'll take care of it."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Legendary Roy",
     "SEARCH_NAME": "Legendary Roy",
@@ -141782,7 +141818,8 @@
       "Iron Dagger": "1",
       "Steel Dagger": "2",
       "Armorpin Dagger": "3",
-      "Armorpin Dagger+": "5"
+      "Armorpin Dagger+": "5",
+      "Master Dagger": "5"
     },
     "assist": {
       "Reposition": "3"
@@ -143580,7 +143617,8 @@
       "Iron Sword": "1",
       "Steel Sword": "2",
       "Rein Sword": "3",
-      "Rein Sword+": "5"
+      "Rein Sword+": "5",
+      "Isaach's Brand": "5"
     },
     "assist": {},
     "special": {
@@ -181234,14 +181272,19 @@
     "special": {
       "Night Sky": "3",
       "Glimmer": "4",
-      "Dragon Blast": "5"
+      "Dragon Blast": "5",
+      "Dragon Blast II": "5"
     },
     "passive": {
       "A": {
         "Atk/Spd Finish 1": "2",
         "Atk/Spd Finish 2": "3",
         "Atk/Spd Finish 3": "4",
-        "Atk/Spd Finish 4": "5"
+        "Atk/Spd Finish 4": "5",
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Specter": "5"
       },
       "B": {
         "Null C-Disrupt 1": "2",
@@ -183755,7 +183798,7 @@
     ],
     "gender": "F",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "PID_\u30cf\u30ed\u30df\u30b9\u30c6\u30a3\u30e9",
     "voice": "Dani Chambers",
     "resplendent": false,
@@ -196762,7 +196805,8 @@
     "special": {
       "Daylight": "3",
       "Sol": "4",
-      "Great Aether": "5"
+      "Great Aether": "5",
+      "Great Aether E": "5"
     },
     "passive": {
       "A": {
@@ -196775,7 +196819,11 @@
         "Laguz Friend 1": "2",
         "Laguz Friend 2": "3",
         "Laguz Friend 3": "4",
-        "Laguz Friend 4": "5"
+        "Laguz Friend 4": "5",
+        "Quick Riposte 1": "2",
+        "Quick Riposte 2": "3",
+        "Quick Riposte 3": "4",
+        "Patience": "5"
       },
       "C": {
         "Canto Control 1": "1",
@@ -203042,7 +203090,9 @@
     "DISPLAY_NAME": "<:feh_harmonized:1317239586929377371><:Blue_Lance:1317239378208096338>Summer Goldmary",
     "RANDOM_IGNORE": true,
     "alt": false,
-    "reference": [],
+    "reference": [
+      "goldmary2"
+    ],
     "prf": {
       "": "divapairparasol",
       "eff": "divapairparasol",
@@ -260814,6 +260864,781 @@
     "boost": {
       "hp": 3,
       "atk": 2
+    }
+  },
+  "kurt": {
+    "name": "Kurt",
+    "title": "Light Seekers",
+    "description": "Kurt, prince of Ast, and Rose, princess of Holtz. Hand in hand, they offer their gratitude for the blessings of the land. Appear in Fire Emblem Shadows.",
+    "origin": "Shadows",
+    "artist": "HACCAN",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Red",
+    "duel": "220",
+    "id": "1421",
+    "type": "duo",
+    "version": "10.10",
+    "duo": "Grants another action to unit, and if Canto has already been triggered, re-enables Canto. If unit is equipped with their character-specific weapon skill, re-enables use of that weapon skill's Style if it has already been used. (May be used only if unit has already entered combat during the current turn.)",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 16,
+      "atk": 12,
+      "spd": 10,
+      "def": 3,
+      "res": 14
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 30,
+      "res": 80
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Fire": "1",
+      "Elfire": "2",
+      "Bolganone": "3",
+      "Royal Treats": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Logic": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Ideal 1": "2",
+        "Atk/Spd Ideal 2": "3",
+        "Atk/Spd Ideal 3": "4",
+        "Swift Despair": "5"
+      },
+      "B": {
+        "Sabotage Spd 1": "2",
+        "Sabotage Spd 2": "3",
+        "Sabotage Spd 3": "4",
+        "Spd/Res Unrest": "5"
+      },
+      "C": {
+        "Homeland Vow": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Kurt_Light_Seekers_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Kurt_Light_Seekers_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Kurt_Light_Seekers_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Kurt_Light_Seekers_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
+    ],
+    "HARD_ALT_NAME": [
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6bd4\u7ffc\u30af\u30eb\u30c8",
+    "voice": "Brittany Lauda",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "ast"
+    ],
+    "chibi": [
+      "shadows"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Kurt:** We are able to live thanks to the blessings of the land. We mustn't forget to express our gratitude.",
+        "**Rose:** Prince Kurt, you are my light of hope. You shine so brightly no matter what world you're in!",
+        "**Rose:** I observed the festival from above earlier. The whole place was adorned with pumpkins! It looked so lively!",
+        "**Rose:** That outfit looks wonderful on you, Prince Kurt! But I suppose everything looks good on my prince, hehe.",
+        "**Kurt:** It's rather crowded here, Rose. Be careful not to let go of my hand, OK? I don't want us to get separated."
+      ],
+      "Visit": [
+        "**Rose:** I am Rose, Prince Kurt's betrothed. We are enjoying the harvest festival at [F]'s castle."
+      ],
+      "Level": [
+        "**Kurt:** I will never yield to the temptations of the shadow and allow it to ruin this festival. Not ever!",
+        "**Rose:** Hehe, I'm having so much fun! I feel like I'm walking on air!",
+        "**Kurt:** Eek! Oh... Thank goodness, it's just a pumpkin. I thought something was going to get me..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Kurt, the prince of Ast. We can't be so grateful for the harvest that we forget to have fun. Come on, Rose!"
+      ],
+      "Learn Skill": [
+        "**Kurt:** Thank you for always being such a trustworthy friend. Please, have some candy. It's my treat."
+      ],
+      "Confession": [
+        "**Rose:** Weren't those pumpkins so beautiful? They glowed so warmly, like lanterns.\n**Kurt:** Indeed. The way they shone against the darkness made them look like lights meant to guide people.\nThey light the path and drive away the temptations of the shadow. In my eyes, they are little symbols of hope.\n**Rose:** People find hope in many ways...and you're mine, Prince Kurt.\n**Kurt:** Thank you, Rose. But I can't do anything alone.\nThe only reason I can go on is because I know I have friends I can rely on.\n**Rose:** I'll always be by your side. Let's walk this path together, hand in hand, never straying into the shadow."
+      ],
+      "Special": [
+        "**Duo:** Trick or treat!",
+        "**Duo:** Come on, Rose! OK!",
+        "**Kurt:** You let your guard down.",
+        "**Rose:** Just for you!"
+      ],
+      "Status": [
+        "-",
+        "\"Dressed like this, we're like completely different people.\" \"It'll make it easy to sneak out of the castle!\""
+      ],
+      "Map Select": [
+        "It's so lively.",
+        "Sounds like people are having fun.",
+        "Let's hurry!"
+      ],
+      "Conversation": [
+        "**Rose:** I've returned!",
+        "**Kurt:** Welcome back, Rose. How did the festival look from the sky?",
+        "**Rose:** Aw, so lovely! It was as if I stepped into a picture book.",
+        "**Kurt:** Really?",
+        "**Rose:** Yes. The lights in the pumpkins illuminate the whole area. Ahh, it's like nothing I've ever seen before!",
+        "**Kurt:** I can tell how much you enjoy lively places. Your eyes are all lit up.",
+        "**Rose:** When I see everyone having fun, I can't help but want to join them.",
+        "You know... It's all right if you relax and have a little fun sometimes, Prince Kurt.",
+        "**Kurt:** Uh, that doesn't come naturally to me.",
+        "But...I do wish to learn about these kinds of festivals for the sake of my homeland.",
+        "I must etch this into my memory: Even in darkness, smiles can be kindled through human hands.",
+        "**Rose:** Then you have all the more reason. After all, you can only truly understand a festival by enjoying it.",
+        "**Kurt:** I suppose so. I'm sorry I've been so difficult.",
+        "It's time I familiarize myself with these types of festivities. Maybe I can learn from your adaptability.",
+        "**Rose:** Heehee! That's right. I didn't sneak out of the castle just for the sake of it.",
+        "I did so in preparation for us to go to the festival together, Prince Kurt.",
+        "**Kurt:** Heh. Well, if you're there, I'm sure I'll have fun."
+      ],
+      "Duo Skill": [
+        "\"Shine\" \"a light!\"",
+        "\"Forever...\" \"Together.\""
+      ],
+      "Back Unit Supporting": [
+        "I'll support you.",
+        "I'm beside you."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Halloween Kurt",
+    "SEARCH_NAME": "Halloween Kurt",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Red_Tome:1317239730714316800>Halloween Kurt",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [],
+    "prf": {
+      "": "royaltreats",
+      "eff": "royaltreats",
+      "atk": "royaltreats",
+      "spd": "royaltreats",
+      "def": "royaltreats",
+      "res": "royaltreats"
+    }
+  },
+  "shea": {
+    "name": "Shea",
+    "title": "Guide to Bounty",
+    "description": "Pure-hearted retainer to the light goddess Naga. Devotes her heart to making Askr's harvest festival a success. Appears in Fire Emblem Shadows.",
+    "origin": "Shadows",
+    "artist": "Asao Urata (\u3046\u3089\u305f\u3042\u3055\u304a)",
+    "move": "Flying",
+    "weapon": "Breath",
+    "color": "Blue",
+    "duel": false,
+    "id": "1422",
+    "type": "rearmed",
+    "version": "10.10",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 16,
+      "atk": 10,
+      "spd": 10,
+      "def": 5,
+      "res": 8
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 75,
+      "res": 75
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Fire Breath": "1",
+      "Fire Breath+": "2",
+      "Flametongue": "3",
+      "Arcane Lantern": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Glacies": "4",
+      "Frozen Thorn": "5"
+    },
+    "passive": {
+      "A": {
+        "Naga the Eternal": "5"
+      },
+      "B": {
+        "Guard 1": "2",
+        "Guard 2": "3",
+        "Guard 3": "4",
+        "Riptide Guard": "5"
+      },
+      "C": {
+        "Odd Tempest 1": "2",
+        "Odd Tempest 2": "3",
+        "Odd Tempest 3": "4",
+        "Thunder Specter": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Shea_Guide_to_Bounty_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Shea_Guide_to_Bounty_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Shea_Guide_to_Bounty_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Shea_Guide_to_Bounty_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Guide to Bounty",
+      "Shea: Guide to Bounty",
+      "Halloween Shea",
+      "Harvest Shea",
+      "H Shea",
+      "Spooky Shea",
+      "Halloween Rearmed Shea",
+      "Harvest Rearmed Shea",
+      "H Rearmed Shea",
+      "Spooky Rearmed Shea",
+      "Halloween Rearm Shea",
+      "Harvest Rearm Shea",
+      "H Rearm Shea",
+      "Spooky Rearm Shea",
+      "Halloween R Shea",
+      "Harvest R Shea",
+      "H R Shea",
+      "Spooky R Shea",
+      "Halloween Arm Shea",
+      "Harvest Arm Shea",
+      "H Arm Shea",
+      "Spooky Arm Shea",
+      "Rearmed Halloween Shea",
+      "Rearmed Harvest Shea",
+      "Rearmed H Shea",
+      "Rearmed Spooky Shea",
+      "Rearm Halloween Shea",
+      "Rearm Harvest Shea",
+      "Rearm H Shea",
+      "Rearm Spooky Shea",
+      "R Halloween Shea",
+      "R Harvest Shea",
+      "R H Shea",
+      "R Spooky Shea",
+      "Arm Halloween Shea",
+      "Arm Harvest Shea",
+      "Arm H Shea",
+      "Arm Spooky Shea",
+      "shea"
+    ],
+    "HARD_ALT_NAME": [
+      "Guide to Bounty",
+      "Shea: Guide to Bounty",
+      "Halloween Shea",
+      "Harvest Shea",
+      "H Shea",
+      "Spooky Shea",
+      "Halloween Rearmed Shea",
+      "Harvest Rearmed Shea",
+      "H Rearmed Shea",
+      "Spooky Rearmed Shea",
+      "Halloween Rearm Shea",
+      "Harvest Rearm Shea",
+      "H Rearm Shea",
+      "Spooky Rearm Shea",
+      "Halloween R Shea",
+      "Harvest R Shea",
+      "H R Shea",
+      "Spooky R Shea",
+      "Halloween Arm Shea",
+      "Harvest Arm Shea",
+      "H Arm Shea",
+      "Spooky Arm Shea",
+      "Rearmed Halloween Shea",
+      "Rearmed Harvest Shea",
+      "Rearmed H Shea",
+      "Rearmed Spooky Shea",
+      "Rearm Halloween Shea",
+      "Rearm Harvest Shea",
+      "Rearm H Shea",
+      "Rearm Spooky Shea",
+      "R Halloween Shea",
+      "R Harvest Shea",
+      "R H Shea",
+      "R Spooky Shea",
+      "Arm Halloween Shea",
+      "Arm Harvest Shea",
+      "Arm H Shea",
+      "Arm Spooky Shea",
+      "shea"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u9b54\u5668\u30cf\u30ed\u30b7\u30a2",
+    "voice": "Kana Shimanuki",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "ast"
+    ],
+    "chibi": [
+      "shadows"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I'm happy to help with a festival that makes everyone smile! I wonder if I could bring some candy back for Sai?",
+        "Light goddess Naga is very kind. She would definitely be happy to see a festival as fun as this one.",
+        "Am I imagining things? I feel like the power of the shadow is hiding in those pumpkins with faces...",
+        "How do I look? I've never worn such a nice costume before. It kind of feels like I'm showing off...",
+        "Trick or treat! Wait, I'd feel bad if I played a trick on you. Would it be OK if I said \"treat or treat!\" instead?"
+      ],
+      "Visit": [
+        "I'm Shea, a retainer to Blessed Naga. Please come visit the harvest festival at [F]'s castle!"
+      ],
+      "Level": [
+        "May the light guide everyone to peace and happiness!",
+        "Hehe! You should have seen the looks on their faces when I turned into a dragon!",
+        "I-I'm sorry. I think I broke some of the decorations when I turned into a dragon..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "My name's Shea. I'm a retainer to Blessed Naga. I'll do my best to help with the harvest festival!"
+      ],
+      "Learn Skill": [
+        "Thank you so much! This is going to be the best harvest festival ever!"
+      ],
+      "Confession": [
+        "I heard this harvest festival is held to give thanks for the bounty of the land. Isn't that wonderful?\nIt makes me so sad when people hurt or trick people just to selfishly steal from them.\nBut if we water their lives with love, then we can pick the fruits of their kindness all over the world!\nWhenever I'm worried that the temptation of shadow is getting to me, I'll just remember this festival.\nIf I think of all the moments we shared together, then I'm sure I can find hope again and again!\nYes, this harvest festival has brought smiles to our faces and a warm light to our hearts...\nAs long as we hold on to that light, blessings of the land will always be with us!"
+      ],
+      "Special": [
+        "Trick or treat!",
+        "I'm here for the candy.",
+        "I've been good.",
+        "Let's be grateful."
+      ],
+      "Status": [
+        "-",
+        "I'm Shea. I believe we should cherish a grateful spirit.",
+        "Aaah! Wait, aren't I the one who's supposed to be scaring people?",
+        "I am ever grateful for Naga's protection.",
+        "Doesn't scaring people into giving me candy make me bad?",
+        "I really love sweets... I'm happy to get so many.",
+        "I should bring some candy back to my brother.",
+        "I'm having so much fun at this festival with you."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Um...",
+        "I'll surprise you."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Halloween Rearmed Shea",
+    "SEARCH_NAME": "Halloween Rearmed Shea",
+    "DISPLAY_NAME": "<:Blue_Breath:1317239355835813939>Halloween Rearmed Shea",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [],
+    "prf": {
+      "": "arcanelantern",
+      "eff": "arcanelantern",
+      "atk": "arcanelantern",
+      "spd": "arcanelantern",
+      "def": "arcanelantern",
+      "res": "arcanelantern"
+    }
+  },
+  "goldmary2": {
+    "name": "Goldmary",
+    "title": "Darling Demon",
+    "description": "Knight of Elusia. Princess Hortensia's retainer. Loves to show off her new costume. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "ecu (\u3048\u304F)",
+    "move": "Cavalry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1423",
+    "type": false,
+    "version": "10.10",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 13,
+      "spd": 11,
+      "def": 10,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 85,
+      "def": 90,
+      "res": 30
+    },
+    "superboon": [
+      "def"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Candy Scythe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Emerald Impetus": "5"
+      },
+      "C": {
+        "Hone Atk 1": "2",
+        "Hone Atk 2": "3",
+        "Hone Atk 3": "4",
+        "A/S Outcry Seize": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Goldmary_Darling_Demon_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/Goldmary_Darling_Demon_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Goldmary_Darling_Demon_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Goldmary_Darling_Demon_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Darling Demon",
+      "Goldmary: Darling Demon",
+      "Halloween Goldmary",
+      "Harvest Goldmary",
+      "H Goldmary 2",
+      "Spooky Goldmary",
+      "goldmary2"
+    ],
+    "HARD_ALT_NAME": [
+      "Darling Demon",
+      "Goldmary: Darling Demon",
+      "Halloween Goldmary",
+      "Harvest Goldmary",
+      "H Goldmary 2",
+      "Spooky Goldmary",
+      "goldmary2"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30cf\u30ed\u30b4\u30eb\u30c9\u30de\u30ea\u30fc",
+    "voice": "Maureen Price",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I saw the most beautiful girl at the festival...and I felt a bit down until I realized it was my own reflection.",
+        "Elusia is a cold land with no harvest festivals, but I have attended costume events at my academy.",
+        "Did my dazzling beauty shock your soul from your body? Don't worry\u2014 I'll catch it with my scythe!",
+        "I can sew a costume for you too, Summoner. I'm sorry\u2014it must be hard to keep track of all my talents.",
+        "Devilish beauty like mine AND a devilishly cute costume? I hope I don't overwhelm the festival-goers..."
+      ],
+      "Visit": [
+        "Don't I deserve sweets? I came all this way with harvest-festival greetings from [F]!"
+      ],
+      "Level": [
+        "I've done all this harvesting just for you! Now, let me hear words of praise sweeter than candy...",
+        "The harvest festival is all about celebrating blessings of abundance, isn't it? How fitting...",
+        "Huh? It's too dark for me to see... I can't admire my beautiful face like this..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Congratulations on harvesting the best fruit... I am Goldmary. I'm truly sorry for being so stunning."
+      ],
+      "Learn Skill": [
+        "For me? Oh my... If I become even more beautiful, I might literally be drop-dead gorgeous. Be careful!"
+      ],
+      "Confession": [
+        "Was there anyone in particular you wanted to spend time with at the harvest festival, Summoner?\nNo? Then...do you think we can look around together for a while?\nA pretty devil and a ghost... Who can resist such an adorable pairing?\nOh, am I making you nervous? I can't blame you, but don't forget that I'm not the only cute one here...\nOK, let's go! Drink in my radiant skin and silky hair blowing in the fall breeze to your heart's content...\nNaturally, all eyes are on us. We can load up on all the candy we like...\nLet's stroll through the plaza at least three more times to make sure everyone sees us, all right?"
+      ],
+      "Special": [
+        "Time to harvest!",
+        "I'll trick you.",
+        "I'm just so good at this.",
+        "Don't I deserve sweets?"
+      ],
+      "Status": [
+        "-",
+        "I'm sorry my outfit is so flattering on me... Not to mention my beautiful face.",
+        "Oh! Aha, of course you want to touch me. Look at me.",
+        "Did you say I am an angel of the harvest festival? Hm, speak up now.",
+        "Hortensia and Rosado picked this adorable outfit just for me. Ah, they really know what suits me.",
+        "I packed this lunch from the produce I harvested. Tell me just how much you enjoy it after every single bite.",
+        "Ah, of course all eyes are on me...",
+        "Choosing between the honor of giving me candy or being tricked by me... How blessed you are."
+      ],
+      "Map Select": [
+        "As you please.",
+        "Sorry I'm so dazzling.",
+        "A ripe harvest!"
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Halloween Goldmary",
+    "SEARCH_NAME": "Halloween Goldmary",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Halloween Goldmary",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "goldmary"
+    ],
+    "prf": {
+      "": "candyscythe",
+      "eff": "candyscythe",
+      "atk": "candyscythe",
+      "spd": "candyscythe",
+      "def": "candyscythe",
+      "res": "candyscythe"
+    }
+  },
+  "janaff": {
+    "name": "Janaff",
+    "title": "Treat or Talon",
+    "description": "Right-hand man to King Tibarn of Phoenicis. Keeps his sharp eyes trained on the festivities. Appears in Fire Emblem: Radiant Dawn.",
+    "origin": "Radiant Dawn",
+    "artist": "Kita Senri (\u5317\u5343\u91cc)",
+    "move": "Flying",
+    "weapon": "Beast",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1424",
+    "type": false,
+    "version": "10.10",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 20,
+      "atk": 10,
+      "spd": 10,
+      "def": 12,
+      "res": 5
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 75,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Hatchling (Flier)": "1",
+      "Fledgling (Flier)": "2",
+      "Adult (Flier)": "3",
+      "Guardian's Talon": "5"
+    },
+    "assist": {
+      "Rally Speed": "3",
+      "Rally Up Spd": "4",
+      "Rally Up Spd+": "5"
+    },
+    "special": {},
+    "passive": {
+      "A": {
+        "Atk/Spd Catch 1": "2",
+        "Atk/Spd Catch 2": "3",
+        "Atk/Spd Catch 3": "4",
+        "Trample": "5"
+      },
+      "B": {
+        "Speedtaker 1": "1",
+        "Speedtaker 2": "2",
+        "Speedtaker 3": "4"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Janaff_Treat_or_Talon_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Janaff_Treat_or_Talon_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Janaff_Treat_or_Talon_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Janaff_Treat_or_Talon_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Treat or Talon",
+      "Janaff: Treat or Talon",
+      "Halloween Janaff",
+      "Harvest Janaff",
+      "H Janaff",
+      "Spooky Janaff",
+      "janaff"
+    ],
+    "HARD_ALT_NAME": [
+      "Treat or Talon",
+      "Janaff: Treat or Talon",
+      "Halloween Janaff",
+      "Harvest Janaff",
+      "H Janaff",
+      "Spooky Janaff",
+      "janaff"
+    ],
+    "gender": "M",
+    "rarity": 4,
+    "pool": "seasonal",
+    "internal_id": "PID_\u30cf\u30ed\u30e4\u30ca\u30d5",
+    "voice": "Kevin Andrew Rivera",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "tellius"
+    ],
+    "chibi": [
+      "fe10"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I never thought they'd rope me into the parade. I was hoping to have a drink instead. Do they think I'm a kid?",
+        "My homeland of Phoenicis is bordered by the South Sea. It's a wonderful place to live. And everyone gets along.",
+        "I'm just, um, getting some air. Can't you tell? Even members of the bird tribes like to go for a stroll.",
+        "I might join the parade from the sky. I can carry you with me, Summoner.",
+        "Trick or treat! That was pretty good, don't you think? I might not look it, but I love getting in on the fun."
+      ],
+      "Visit": [
+        "Here you go! I've brought you some candy from [F]."
+      ],
+      "Level": [
+        "I'm going to dish out tricks to those mischievous kids who are always up to no good!",
+        "Trick or Treat! Hahaha, did that surprise you?",
+        "Don't these brutes know that we're just trying to have fun? Bet they don't have many friends!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Janaff. I swear on the honor of the hawk clan, I will protect this harvest festival."
+      ],
+      "Learn Skill": [
+        "I like that look in your eyes. You're a good judge of character, aren't you?"
+      ],
+      "Confession": [
+        "Hey, you got a second? I wanted to take this chance to, uh, talk to you, [S].\nI thought you humans...liked to kill. That's why you make weapons. Why you hunt animals for sport.\nI thought you all liked killing, and that we could never learn to get along. I used to think that way, at least.\nBut not anymore. Some of you try to live nobly. And there're even some beautiful women among you.\nMaybe that's what they mean by the blessings and bounties of nature. It's about viewing things impartially...\nI've started to believe in that feeling. Maybe that's my bounty from this harvest festival. Thanks for the invite!"
+      ],
+      "Special": [
+        "Trick or treat!",
+        "Here, take this!",
+        "Surprised?!",
+        "Face me!"
+      ],
+      "Status": [
+        "-",
+        "Giving thanks to the land for its blessings, huh? Not a bad thought.",
+        "Ugh! I can't believe you got me!",
+        "With my amazing eyes, I'll find many things, including the young ones hiding around here.",
+        "Handing out treats in silly outfits. Aha! What a curious custom.",
+        "Did those beorc just call me a child?! Damn them!",
+        "I think I'll get something nice for Tibarn and Ulki while I'm here. Opportunities like this are few and far between.",
+        "You should place more trust in your elders to help out with things like this. Here, take some candy."
+      ],
+      "Map Select": [
+        "Bet on it!",
+        "Scouting...",
+        "Hope you know, I got this."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Halloween Janaff",
+    "SEARCH_NAME": "Halloween Janaff",
+    "DISPLAY_NAME": "<:Colorless_Beast:1317239395534901248>Halloween Janaff",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [],
+    "prf": {
+      "": "guardianstalon",
+      "eff": "guardianstalon",
+      "atk": "guardianstalon",
+      "spd": "guardianstalon",
+      "def": "guardianstalon",
+      "res": "guardianstalon"
     }
   }
 }

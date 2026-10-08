@@ -504,7 +504,7 @@ function Character:final_base()
         local id = tonumber(self.data.id)
 
         -- Heroes released after or during 8.9.0
-        if id <= 1148 then
+        if id <= 1160 then
             base = base + 4
         else 
             base = base + 2

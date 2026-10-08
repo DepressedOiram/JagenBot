@@ -146,7 +146,7 @@
     },
     "levinsword": {
         "name": "Levin Sword",
-        "desc": "Ignores user's strength. Targets foe's Resistance",
+        "desc": "Ignores user's strength. Targets foe's Resistance. Ignores terrain bonuses.",
         "stats": {
             "wlv": 8,
             "mt": 10,

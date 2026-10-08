@@ -1601,7 +1601,7 @@
       "rank": "D",
       "uses": 10,
       "wt": 5,
-      "rng": "1-[5+(Mag/2)]",
+      "rng": 1,
       "wexp": 1,
       "price": 1000,
       "price per use": 100,

@@ -1819,7 +1819,46 @@
       "Arm Y Ingrid",
       "Arm Baby Ingrid",
       "Arm Child Ingrid",
-      "ingrid5"
+      "ingrid5",
+      "Guide to Bounty",
+      "Shea: Guide to Bounty",
+      "Halloween Shea",
+      "Harvest Shea",
+      "H Shea",
+      "Spooky Shea",
+      "Halloween Rearmed Shea",
+      "Harvest Rearmed Shea",
+      "H Rearmed Shea",
+      "Spooky Rearmed Shea",
+      "Halloween Rearm Shea",
+      "Harvest Rearm Shea",
+      "H Rearm Shea",
+      "Spooky Rearm Shea",
+      "Halloween R Shea",
+      "Harvest R Shea",
+      "H R Shea",
+      "Spooky R Shea",
+      "Halloween Arm Shea",
+      "Harvest Arm Shea",
+      "H Arm Shea",
+      "Spooky Arm Shea",
+      "Rearmed Halloween Shea",
+      "Rearmed Harvest Shea",
+      "Rearmed H Shea",
+      "Rearmed Spooky Shea",
+      "Rearm Halloween Shea",
+      "Rearm Harvest Shea",
+      "Rearm H Shea",
+      "Rearm Spooky Shea",
+      "R Halloween Shea",
+      "R Harvest Shea",
+      "R H Shea",
+      "R Spooky Shea",
+      "Arm Halloween Shea",
+      "Arm Harvest Shea",
+      "Arm H Shea",
+      "Arm Spooky Shea",
+      "shea"
     ],
     "HARD_ALT_NAME": [
       "sophia2",
@@ -1888,11 +1927,51 @@
       "Arm Y Ingrid",
       "Arm Baby Ingrid",
       "Arm Child Ingrid",
-      "ingrid5"
+      "ingrid5",
+      "Guide to Bounty",
+      "Shea: Guide to Bounty",
+      "Halloween Shea",
+      "Harvest Shea",
+      "H Shea",
+      "Spooky Shea",
+      "Halloween Rearmed Shea",
+      "Harvest Rearmed Shea",
+      "H Rearmed Shea",
+      "Spooky Rearmed Shea",
+      "Halloween Rearm Shea",
+      "Harvest Rearm Shea",
+      "H Rearm Shea",
+      "Spooky Rearm Shea",
+      "Halloween R Shea",
+      "Harvest R Shea",
+      "H R Shea",
+      "Spooky R Shea",
+      "Halloween Arm Shea",
+      "Harvest Arm Shea",
+      "H Arm Shea",
+      "Spooky Arm Shea",
+      "Rearmed Halloween Shea",
+      "Rearmed Harvest Shea",
+      "Rearmed H Shea",
+      "Rearmed Spooky Shea",
+      "Rearm Halloween Shea",
+      "Rearm Harvest Shea",
+      "Rearm H Shea",
+      "Rearm Spooky Shea",
+      "R Halloween Shea",
+      "R Harvest Shea",
+      "R H Shea",
+      "R Spooky Shea",
+      "Arm Halloween Shea",
+      "Arm Harvest Shea",
+      "Arm H Shea",
+      "Arm Spooky Shea",
+      "shea"
     ],
     "heroes": {
       "ilyanaR": "<:Blue_Tome:1317239386491977749>Ilyana (Resplendent)",
       "ingrid5": "<:Blue_Lance:1317239378208096338>Young Rearmed Ingrid",
+      "shea": "<:Blue_Breath:1317239355835813939>Halloween Rearmed Shea",
       "sophia2": "<:Blue_Tome:1317239386491977749>Halloween Sophia",
       "tailtiu2": "<:Green_Tome:1317239575352971396>Maid Tailtiu",
       "tine2": "<:Red_Tome:1317239730714316800>Bridal Tine"
@@ -7345,7 +7424,16 @@
       "Kimono Baldr",
       "Duo Baldr",
       "D Baldr",
-      "baldr3"
+      "baldr3",
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
     ],
     "HARD_ALT_NAME": [
       "effie",
@@ -7455,7 +7543,16 @@
       "Kimono Baldr",
       "Duo Baldr",
       "D Baldr",
-      "baldr3"
+      "baldr3",
+      "Light Seekers",
+      "Kurt: Light Seekers",
+      "Halloween Kurt",
+      "Harvest Kurt",
+      "H Kurt",
+      "Spooky Kurt",
+      "Duo Kurt",
+      "D Kurt",
+      "kurt"
     ],
     "heroes": {
       "baldr3": "<:Blue_Lance:1317239378208096338>New Year Baldr",
@@ -7466,6 +7563,7 @@
       "hawkeye": "<:Green_Axe:1317239517136031897>Hawkeye",
       "hinoka": "<:Blue_Lance:1317239378208096338>Hinoka",
       "julia5": "<:Colorless_Tome:1317239438602145842>Bridal Julia",
+      "kurt": "<:Red_Tome:1317239730714316800>Halloween Kurt",
       "lilina6": "<:Green_Tome:1317239575352971396>Rearmed Lilina",
       "micaiah5": "<:Colorless_Tome:1317239438602145842>Legendary Micaiah",
       "nephenee": "<:Blue_Lance:1317239378208096338>Nephenee",
@@ -13031,7 +13129,14 @@
       "Emblem Leif",
       "Engage Leif",
       "E Leif",
-      "leif5"
+      "leif5",
+      "Treat or Talon",
+      "Janaff: Treat or Talon",
+      "Halloween Janaff",
+      "Harvest Janaff",
+      "H Janaff",
+      "Spooky Janaff",
+      "janaff"
     ],
     "HARD_ALT_NAME": [
       "ryoma",
@@ -13406,7 +13511,14 @@
       "Emblem Leif",
       "Engage Leif",
       "E Leif",
-      "leif5"
+      "leif5",
+      "Treat or Talon",
+      "Janaff: Treat or Talon",
+      "Halloween Janaff",
+      "Harvest Janaff",
+      "H Janaff",
+      "Spooky Janaff",
+      "janaff"
     ],
     "heroes": {
       "aelfric": "<:Red_Tome:1317239730714316800>Aelfric",
@@ -13428,6 +13540,7 @@
       "ike2": "<:Green_Axe:1317239517136031897>Brave Ike",
       "ike3": "<:Red_Sword:1317239717707911188>Legendary Ike",
       "ike4": "<:Red_Sword:1317239717707911188>Valentines Ike",
+      "janaff": "<:Colorless_Beast:1317239395534901248>Halloween Janaff",
       "karel": "<:Red_Sword:1317239717707911188>Karel",
       "karla": "<:Red_Sword:1317239717707911188>Karla",
       "karla2": "<:Blue_Lance:1317239378208096338>Hatarian Karla",
@@ -32424,6 +32537,7 @@
   },
   "ecu": {
     "heroes": {
+      "goldmary2": "<:Green_Axe:1317239517136031897>Halloween Goldmary",
       "ivy4": "<:Colorless_Tome:1317239438602145842>Fallen Ivy",
       "leila3": "<:Colorless_Dagger:1317239418943438869>Rearmed Leila",
       "vali2": "<:Red_Tome:1317239730714316800>New Year V\u00e1li"
@@ -32451,7 +32565,14 @@
       "Ivy: Bewitching Ruler",
       "Fallen Ivy",
       "F Ivy",
-      "ivy4"
+      "ivy4",
+      "Darling Demon",
+      "Goldmary: Darling Demon",
+      "Halloween Goldmary",
+      "Harvest Goldmary",
+      "H Goldmary 2",
+      "Spooky Goldmary",
+      "goldmary2"
     ]
   },
   "hayamaeishi": {
@@ -33272,7 +33393,8 @@
   },
   "kasahara": {
     "heroes": {
-      "machyua": "<:Red_Sword:1317239717707911188>Rearmed Machyua"
+      "machyua": "<:Red_Sword:1317239717707911188>Rearmed Machyua",
+      "roy4R": "<:Red_Sword:1317239717707911188>Legendary Roy (Resplendent)"
     },
     "name": "Kasahara",
     "ALT_NAME": [
@@ -33283,7 +33405,11 @@
       "Arm Machyua",
       "Base Machyua",
       "Normal Machyua",
-      "machyua"
+      "machyua",
+      "Resplendent Legendary Roy",
+      "Resp Legendary Roy",
+      "R Legendary Roy",
+      "Legendary Roy (Resplendent)"
     ]
   },
   "nekozakanacamu": {
