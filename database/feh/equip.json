@@ -27329,9 +27329,51 @@
     "refine": false
   },
   "gullinkambiegg": {
-    "name": "Gullinkambi Egg",
+    "name": "Gullinkambi Egg (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Gullinkambi Egg"
+  },
+  "gullinkambieggeff": {
+    "name": "Gullinkambi Egg (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "gullinkambieggatk": {
+    "name": "Gullinkambi Egg (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "gullinkambieggspd": {
+    "name": "Gullinkambi Egg (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "gullinkambieggdef": {
+    "name": "Gullinkambi Egg (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "gullinkambieggres": {
+    "name": "Gullinkambi Egg (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -28951,10 +28993,57 @@
     "refine": false
   },
   "frostbitebreath": {
-    "name": "Frostbite Breath",
+    "name": "Frostbite Breath (Unrefined)",
     "bonus": {
       "atk": 16,
       "spd": 3
+    },
+    "refine": "Frostbite Breath"
+  },
+  "frostbitebreatheff": {
+    "name": "Frostbite Breath (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "frostbitebreathatk": {
+    "name": "Frostbite Breath (Atk)",
+    "bonus": {
+      "atk": 18,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "frostbitebreathspd": {
+    "name": "Frostbite Breath (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "frostbitebreathdef": {
+    "name": "Frostbite Breath (Def)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "frostbiteaxeres": {
+    "name": "Frostbite Breath (Res)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -30221,9 +30310,51 @@
     "refine": false
   },
   "keencoyotebow": {
-    "name": "Keen Coyote Bow",
+    "name": "Keen Coyote Bow (Unrefined)",
     "bonus": {
       "atk": 17
+    },
+    "refine": "Keen Coyote Bow"
+  },
+  "keencoyoteboweff": {
+    "name": "Keen Coyote Bow (Eff)",
+    "bonus": {
+      "atk": 17
+    },
+    "refine": false
+  },
+  "keencoyotebowatk": {
+    "name": "Keen Coyote Bow (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 19
+    },
+    "refine": false
+  },
+  "keencoyotebowspd": {
+    "name": "Keen Coyote Bow (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "keencoyotebowdef": {
+    "name": "Keen Coyote Bow (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "def": 3
+    },
+    "refine": false
+  },
+  "keencoyotebowres": {
+    "name": "Keen Coyote Bow (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 17,
+      "res": 3
     },
     "refine": false
   },
@@ -35479,9 +35610,51 @@
     "refine": false
   },
   "seidr": {
-    "name": "Sei\u00f0r",
+    "name": "Sei\u00f0r (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Sei\u00f0r"
+  },
+  "seidreff": {
+    "name": "Sei\u00f0r (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "seidratk": {
+    "name": "Sei\u00f0r (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "seidrspd": {
+    "name": "Sei\u00f0r (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "seidrdef": {
+    "name": "Sei\u00f0r (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "seidrres": {
+    "name": "Sei\u00f0r (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -35946,9 +36119,52 @@
     "refine": false
   },
   "ravager": {
-    "name": "Ravager",
+    "name": "Ravager (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Ravager"
+  },
+  "ravagereff": {
+    "name": "Ravager (Eff)",
+    "bonus": {
+      "atk": 14,
+      "hp": 3
+    },
+    "refine": false
+  },
+  "ravageratk": {
+    "name": "Ravager (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "ravagerspd": {
+    "name": "Ravager (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "ravagerdef": {
+    "name": "Ravager (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "ravagerres": {
+    "name": "Ravager (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -47446,6 +47662,289 @@
     },
     "refine": false
   },
+  "grapplersaxe": {
+    "name": "Grappler's Axe (Unrefined)",
+    "bonus": {
+      "atk": 11
+    },
+    "refine": "Grappler's Axe"
+  },
+  "grapplersaxeeff": {
+    "name": "Grappler's Axe (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 11
+    },
+    "refine": false
+  },
+  "grapplersaxeatk": {
+    "name": "Grappler's Axe (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "grapplersaxespd": {
+    "name": "Grappler's Axe (Spd)",
+    "bonus": {
+      "atk": 11,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "grapplersaxedef": {
+    "name": "Grappler's Axe (Def)",
+    "bonus": {
+      "atk": 11,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "grapplersaxeres": {
+    "name": "Grappler's Axe (Res)",
+    "bonus": {
+      "atk": 11,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "altruistsaxe": {
+    "name": "Altruist's Axe (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Altruist's Axe"
+  },
+  "altruistsaxeeff": {
+    "name": "Altruist's Axe (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "altruistsaxeatk": {
+    "name": "Altruist's Axe (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "altruistsaxespd": {
+    "name": "Altruist's Axe (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "altruistsaxedef": {
+    "name": "Altruist's Axe (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "altruistsaxeres": {
+    "name": "Altruist's Axe (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "arcanelatona": {
+    "name": "Arcane Latona (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Arcane Latona"
+  },
+  "arcanelatonaatk": {
+    "name": "Arcane Latona (Atk)",
+    "bonus": {
+      "atk": 15,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "arcanelatonaspd": {
+    "name": "Arcane Latona (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "arcanelatonadef": {
+    "name": "Arcane Latona (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "arcanelatonares": {
+    "name": "Arcane Latona (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "unequaledtome": {
+    "name": "Unequaled Tome",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "meleelance": {
+    "name": "Melee Lance+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Melee Lance+"
+  },
+  "meleelanceatk": {
+    "name": "Melee Lance+ (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "meleelancespd": {
+    "name": "Melee Lance+ (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "meleelancedef": {
+    "name": "Melee Lance+ (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "meleelanceres": {
+    "name": "Melee Lance+ (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "purgingbreath": {
+    "name": "Purging Breath",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "hexbladeaxe": {
+    "name": "Hexblade Axe+ (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Hexblade Axe+"
+  },
+  "hexbladeaxeatk": {
+    "name": "Hexblade Axe+ (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hexbladeaxespd": {
+    "name": "Hexblade Axe+ (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hexbladeaxedef": {
+    "name": "Hexblade Axe+ (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hexbladeaxeres": {
+    "name": "Hexblade Axe+ (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "skyboundbow": {
+    "name": "Skybound Bow",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "iliangreatlance": {
+    "name": "Ilian Greatlance",
+    "bonus": {
+      "atk": 16,
+      "res": 3
+    },
+    "refine": false
+  },
+  "ilianlongsword": {
+    "name": "Ilian Longsword",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "ilianbattleaxe": {
+    "name": "Ilian Battleaxe",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "instructorsopus": {
+    "name": "Instructor's Opus",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "buddingstaff": {
+    "name": "Budding Staff",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -48581,6 +49080,21 @@
     "name": "Reforged Seer",
     "bonus": {
       "atk": 14
+    },
+    "refine": false
+  },
+  "cyangradivus": {
+    "name": "Cyan Gradivus",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "deephauteclere": {
+    "name": "Deep Hauteclere",
+    "bonus": {
+      "hp": 7,
+      "atk": 16
     },
     "refine": false
   }

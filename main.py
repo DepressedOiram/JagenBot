@@ -232,7 +232,7 @@ fe7.special["denning"] = denning
 async def calendar(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/fx23bs7v3toh1.jpeg")
+    embed.attach("image", "https://i.redd.it/1cvuudm67ruh1.jpeg")
     
     await embed.send(ctx)
 
@@ -240,7 +240,7 @@ async def calendar(ctx):
 async def legendary(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/f3nn5nsy4nsh1.png")
+    embed.attach("image", "https://i.redd.it/gr4ekn4w31vh1.png")
     
     await embed.send(ctx)
 
@@ -248,7 +248,7 @@ async def legendary(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/f3nn5nsy4nsh1.png")
+    embed.attach("image", "https://i.redd.it/gr4ekn4w31vh1.png")
     
     await embed.send(ctx)
 
@@ -256,7 +256,7 @@ async def mythic(ctx):
 async def mythic(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/f3nn5nsy4nsh1.png")
+    embed.attach("image", "https://i.redd.it/gr4ekn4w31vh1.png")
     
     await embed.send(ctx)
 
@@ -264,7 +264,7 @@ async def mythic(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/tsh6h0ty4nsh1.png")
+    embed.attach("image", "https://i.redd.it/tivf7d2u31vh1.png")
     
     await embed.send(ctx)
 
@@ -272,7 +272,7 @@ async def remix(ctx):
 async def remix(ctx):
     embed = maji.Embed()
     
-    embed.attach("image", "https://i.redd.it/x93mbzsy4nsh1.png")
+    embed.attach("image", "https://i.redd.it/u6xwzc2u31vh1.png")
     
     await embed.send(ctx)
 

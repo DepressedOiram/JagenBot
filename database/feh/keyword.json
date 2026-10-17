@@ -58,6 +58,7 @@
             ],
             "Axe": [
                 "Corsair Cleaver",
+                "Deep Hauteclere",
                 "Flower Hauteclere",
                 "Wedding-Bell Axe"
             ],
@@ -753,9 +754,10 @@
             "B": [],
             "C": [
                 "Atk/Spd Faith",
-                "A/S Tenet Hone",
                 "Spd/Res Faith",
+                "A/S Tenet Hone",
                 "A/D Tenet Hone",
+                "S/D Tenet Hone",
                 "D/R Tenet Hone",
                 "D/R Tenet Imbue",
                 "Darkling Guard II"
@@ -1615,6 +1617,7 @@
                 "Ascendant King"
             ],
             "A": [
+                "Duality Blow",
                 "Blue-Sky Gust",
                 "Divine Specter",
                 "Swift Specter",
@@ -2617,7 +2620,8 @@
                 "Frightful Dream+"
             ],
             "special": [
-                "Immurement"
+                "Immurement",
+                "Light Eternal"
             ],
             "A": [
                 "Proper Knight"
@@ -3375,7 +3379,9 @@
         "icon": "draincancel",
         "reference_weapon": {
             "Sword": [],
-            "Lance": [],
+            "Lance": [
+                "Cyan Gradivus"
+            ],
             "Axe": [],
             "Staff": [],
             "Bow": [
@@ -3913,7 +3919,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Deep Hauteclere"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -5295,6 +5303,7 @@
                 "Chosen Axe",
                 "Comrade's Axe",
                 "Crusher",
+                "Deep Hauteclere",
                 "Ebon B\u00f6lverk",
                 "Majestic Glitnir",
                 "Seafoam Splitter",
@@ -5746,6 +5755,7 @@
             "C": [
                 "A/S Tenet Hone",
                 "A/D Tenet Hone",
+                "S/D Tenet Hone",
                 "D/R Tenet Hone",
                 "Glittering Anima",
                 "Twinkling Anima"
@@ -5947,6 +5957,33 @@
             "S": [],
             "captain": []
         },
+        "reference_hero": {},
+        "HARD_ALT_NAME": []
+    },
+    "nullundefended": {
+        "name": "Null Undefended",
+        "description": "Neutralizes effects of\u3010Undefended\u3011. (Only the Undefended status is neutralized, does not neutralize effects such as \"when unit is in combat, foes' Savior effects will not trigger\".)",
+        "color": "Green",
+        "icon": "nullundefended",
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [
+                "Deep Hauteclere"
+            ],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [],
+            "Beast": []
+        },
+        "reference_skill": false,
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -6411,7 +6448,8 @@
             "B": [
                 "Pegasus Rift",
                 "Wyvern Rift",
-                "Blue-Sky Wyvern"
+                "Blue-Sky Wyvern",
+                "Blue Lion Reign"
             ],
             "C": [
                 "Instruct 4"
@@ -6558,6 +6596,7 @@
                 "Potent Assault",
                 "Potent 4",
                 "Potent Finish",
+                "Blue Lion Reign",
                 "Justice Enforcer"
             ],
             "C": [],
@@ -6656,6 +6695,7 @@
             ],
             "B": [
                 "Puissant Squall",
+                "Black Eagle Reign",
                 "Binding Barrier",
                 "Collapsed Star",
                 "Matchless Wolf",
@@ -6806,7 +6846,9 @@
                 "Divine Rumble"
             ],
             "A": [],
-            "B": [],
+            "B": [
+                "Blue Lion Reign"
+            ],
             "C": [],
             "X": [],
             "S": [],
@@ -7124,7 +7166,9 @@
                 "Final Sword",
                 "Ilian Longsword"
             ],
-            "Lance": [],
+            "Lance": [
+                "Cyan Gradivus"
+            ],
             "Axe": [
                 "Silver Spoon"
             ],
@@ -7516,7 +7560,8 @@
                 "Harrowing Dream"
             ],
             "special": [
-                "Enclosure II"
+                "Enclosure II",
+                "Light Eternal"
             ],
             "A": [
                 "Peerless Beauty",
@@ -8176,6 +8221,7 @@
         "name": "Style",
         "description": "Change Style using the Style button at the bottom of the screen.\nA unit's Style is only active when that unit is taking an action. When unit is equipped with a skill that has a Style, unit will not be able to use skills like Duo Skills or Harmonized Skills. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
         "color": "Colorless",
+        "icon": "style",
         "reference_weapon": {
             "Sword": [
                 "Ancient Ragnell",
@@ -8191,6 +8237,7 @@
             ],
             "Lance": [
                 "Chosen Lance",
+                "Cyan Gradivus",
                 "Godly Devices",
                 "Guiding Lance",
                 "Holy Gradivus",
@@ -8247,6 +8294,7 @@
             ],
             "special": [
                 "Astra Storm",
+                "Light Eternal",
                 "Nine-Sky Strike"
             ],
             "A": [
@@ -8692,7 +8740,9 @@
             "Lance": [
                 "Vengeful Lance"
             ],
-            "Axe": [],
+            "Axe": [
+                "Deep Hauteclere"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -8758,7 +8808,8 @@
             "special": [],
             "A": [],
             "B": [
-                "Spd/Def Union"
+                "Spd/Def Union",
+                "Blue Lion Reign"
             ],
             "C": [],
             "X": [],

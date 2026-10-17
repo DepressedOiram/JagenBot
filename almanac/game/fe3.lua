@@ -63,10 +63,14 @@ local function inventory_hit(data, unit, item)
     end 
 end
 
+local function inventory_crit(data, unit, item)
+    return unit.stats.skl + item.stats.crit
+end
+
 inventory:item_calc("atk", inventory_atk)
 inventory:item_calc("as", inventory_as)
 inventory:item_calc("hit", inventory_hit)
-inventory:item_calc("crit", function(data, unit, item) return item.stats.crit + util.floor((unit.stats.skl + unit.stats.lck) / 2) end)
+inventory:item_calc("crit", inventory_crit)
 
 ---------------------------------------------------
 -- Character --

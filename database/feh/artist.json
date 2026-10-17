@@ -29678,7 +29678,13 @@
       "Regular Jormungandr",
       "Mythic Jormungandr",
       "M Jormungandr",
-      "jormungandr"
+      "jormungandr",
+      "Seer Reborn",
+      "Gullveig: Seer Reborn",
+      "Vista Gullveig",
+      "V Gullveig",
+      "Vst Gullveig",
+      "gullveig5"
     ],
     "HARD_ALT_NAME": [
       "gullveig",
@@ -29865,7 +29871,13 @@
       "Regular Jormungandr",
       "Mythic Jormungandr",
       "M Jormungandr",
-      "jormungandr"
+      "jormungandr",
+      "Seer Reborn",
+      "Gullveig: Seer Reborn",
+      "Vista Gullveig",
+      "V Gullveig",
+      "Vst Gullveig",
+      "gullveig5"
     ],
     "heroes": {
       "caeda2": "<:Blue_Tome:1317239386491977749>Bridal Caeda",
@@ -29875,6 +29887,7 @@
       "gullveig": "<:Colorless_Tome:1317239438602145842>Gullveig",
       "gullveig2": "<:Blue_Tome:1317239386491977749>Brave Gullveig",
       "gullveig3": "<:Red_Tome:1317239730714316800>Summer Gullveig",
+      "gullveig5": "<:Colorless_Tome:1317239438602145842>Vista Gullveig",
       "gunnthra2": "<:Red_Sword:1317239717707911188>New Year Gunnthr\u00e1",
       "heidr": "<:Green_Tome:1317239575352971396>Hei\u00f0r",
       "jormungandr": "<:Colorless_Beast:1317239395534901248>J\u00f6rmungandr",
@@ -30742,7 +30755,11 @@
       "Arm W Reginn",
       "Arm Bride Reginn",
       "Arm Bridal Reginn",
-      "reginn4"
+      "reginn4",
+      "Resplendent Male Kana",
+      "Resp Male Kana",
+      "R Male Kana",
+      "Male Kana (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Aspiring Knight",
@@ -30820,13 +30837,18 @@
       "Arm W Reginn",
       "Arm Bride Reginn",
       "Arm Bridal Reginn",
-      "reginn4"
+      "reginn4",
+      "Resplendent Male Kana",
+      "Resp Male Kana",
+      "R Male Kana",
+      "Male Kana (Resplendent)"
     ],
     "heroes": {
       "dew": "<:Red_Dagger:1317239717707911188>Dew",
       "fee": "<:Red_Sword:1317239717707911188>Fee",
       "hanaR": "<:Red_Sword:1317239717707911188>Hana (Resplendent)",
       "hinokaR": "<:Blue_Lance:1317239378208096338>Hinoka (Resplendent)",
+      "mkanaR": "<:Blue_Breath:1317239355835813939>Male Kana (Resplendent)",
       "reginn4": "<:Green_Axe:1317239517136031897>Bridal Rearmed Reginn",
       "scarlet": "<:Green_Axe:1317239517136031897>Scarlet"
     },
@@ -30902,6 +30924,7 @@
       "mbyleth7": "<:Green_Tome:1317239575352971396>Fallen Male Byleth",
       "claude2R": "<:Colorless_Bow:1317239404204654703>Brave Claude (Resplendent)",
       "diamant3": "<:Green_Axe:1317239517136031897>Legendary Diamant",
+      "dimitri8": "<:Blue_Lance:1317239378208096338>Duo Brave Dimitri",
       "innes4": "<:Colorless_Bow:1317239404204654703>New Year Innes",
       "leo5": "<:Colorless_Tome:1317239438602145842>Festival Leo",
       "yukimura": "<:Colorless_Dagger:1317239418943438869>Yukimura"
@@ -30969,7 +30992,31 @@
       "F M Byleth",
       "F Byleth M",
       "mbyleth7",
-      "byleth12"
+      "byleth12",
+      "Dual Idealists",
+      "Dimitri: Dual Idealists",
+      "Duo Dimitri",
+      "D Dimitri",
+      "Duo CYL Dimitri",
+      "D CYL Dimitri",
+      "CYL Duo Dimitri",
+      "CYL D Dimitri",
+      "Duo Choose Your Legends Dimitri",
+      "D Choose Your Legends Dimitri",
+      "Choose Your Legends Duo Dimitri",
+      "Choose Your Legends D Dimitri",
+      "Duo Brave Dimitri",
+      "D Brave Dimitri",
+      "Brave Duo Dimitri",
+      "Brave D Dimitri",
+      "D B Dimitri",
+      "B D Dimitri",
+      "Duo Braver Dimitri",
+      "D Braver Dimitri",
+      "Braver Duo Dimitri",
+      "Braver D Dimitri",
+      "Braver Dimitri",
+      "dimitri8"
     ],
     "HARD_ALT_NAME": [
       "Puppet Master",
@@ -31033,7 +31080,31 @@
       "F M Byleth",
       "F Byleth M",
       "mbyleth7",
-      "byleth12"
+      "byleth12",
+      "Dual Idealists",
+      "Dimitri: Dual Idealists",
+      "Duo Dimitri",
+      "D Dimitri",
+      "Duo CYL Dimitri",
+      "D CYL Dimitri",
+      "CYL Duo Dimitri",
+      "CYL D Dimitri",
+      "Duo Choose Your Legends Dimitri",
+      "D Choose Your Legends Dimitri",
+      "Choose Your Legends Duo Dimitri",
+      "Choose Your Legends D Dimitri",
+      "Duo Brave Dimitri",
+      "D Brave Dimitri",
+      "Brave Duo Dimitri",
+      "Brave D Dimitri",
+      "D B Dimitri",
+      "B D Dimitri",
+      "Duo Braver Dimitri",
+      "D Braver Dimitri",
+      "Braver Duo Dimitri",
+      "Braver D Dimitri",
+      "Braver Dimitri",
+      "dimitri8"
     ]
   },
   "takubon": {
@@ -33801,6 +33872,39 @@
       "Mythic Seidr 2",
       "M Seidr 2",
       "seidr4"
+    ]
+  },
+  "hitoto": {
+    "heroes": {
+      "edelgard10": "<:Green_Axe:1317239517136031897>Duo Brave Edelgard"
+    },
+    "name": "Hitoto*",
+    "ALT_NAME": [
+      "hitoto*",
+      "Beyond Bounds",
+      "Edelgard: Beyond Bounds",
+      "Duo Edelgard 2",
+      "D Edelgard 2",
+      "Duo CYL Edelgard",
+      "D CYL Edelgard",
+      "CYL Duo Edelgard",
+      "CYL D Edelgard",
+      "Duo Choose Your Legends Edelgard",
+      "D Choose Your Legends Edelgard",
+      "Choose Your Legends Duo Edelgard",
+      "Choose Your Legends D Edelgard",
+      "Duo Brave Edelgard",
+      "D Brave Edelgard",
+      "Brave Duo Edelgard",
+      "Brave D Edelgard",
+      "D B Edelgard",
+      "B D Edelgard",
+      "Duo Braver Edelgard",
+      "D Braver Edelgard",
+      "Braver Duo Edelgard",
+      "Braver D Edelgard",
+      "Braver Edelgard",
+      "edelgard10"
     ]
   }
 }

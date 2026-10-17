@@ -1135,7 +1135,7 @@
     },
     "dracoshield": {
         "name": "Dracoshield",
-        "desc": "Increases Def by 4.",
+        "desc": "Increases Def by 3.",
         "stats": {
             "price": 10000
         },

@@ -46366,15 +46366,20 @@
     "pool": "grail",
     "internal_id": "\u30ab\u30f3\u30ca\u7537",
     "voice": "Sandy Fox",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "Yuko (\u5915\u5b50)",
+    "resplendent_voice": "Sandy Fox",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Kana_Dragon_Spawn_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Kana_Dragon_Spawn_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Kana_Dragon_Spawn_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Kana_Dragon_Spawn_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Kana_Dragon_Spawn_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Kana_Dragon_Spawn_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Kana_Dragon_Spawn_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Kana_Dragon_Spawn_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "fates"
     ],
@@ -46431,7 +46436,35 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Summon": false,
+        "Level": false,
+        "Castle Hall": false,
+        "Visit": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I bring the flame!",
+          "I will win!",
+          "I can do this!",
+          "Getting hotter!"
+        ],
+        "Status": [
+          "-",
+          "What do you think of my new clothes? Pretty nice, huh?",
+          "Ah! Haha! So you wanna play surprise? It's my turn to surprise you!",
+          "Imagine if I could breathe fire in dragon form! How cool would that be?",
+          "Have you seen Mama around? She's gotta see my new outfit!",
+          "People in M\u00faspell are kinda scary.",
+          "I wanna play with Mama some more.",
+          "Give me lots of stuff to do, OK? That way I'll keep getting stronger!"
+        ],
+        "Map Select": [
+          "Sure!",
+          "Now what?",
+          "On my way!"
+        ]
+      }
     },
     "short_name": "Male Kana",
     "SEARCH_NAME": "Male Kana",
@@ -74534,7 +74567,8 @@
       "edelgard6",
       "edelgard7",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "victoriousaxeeff",
@@ -74738,7 +74772,8 @@
       "dimitri4",
       "dimitri5",
       "dimitri6",
-      "dimitri7"
+      "dimitri7",
+      "dimitri8"
     ],
     "prf": {
       "": "noblelanceeff",
@@ -95042,7 +95077,8 @@
       "edelgard6",
       "edelgard7",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "aymreff",
@@ -102210,7 +102246,8 @@
       "dimitri4",
       "dimitri5",
       "dimitri6",
-      "dimitri7"
+      "dimitri7",
+      "dimitri8"
     ],
     "prf": {
       "": "moongradivuseff",
@@ -102624,7 +102661,8 @@
       "edelgard6",
       "edelgard7",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "flowerhauteclereeff",
@@ -107229,7 +107267,8 @@
       "dimitri4",
       "dimitri5",
       "dimitri6",
-      "dimitri7"
+      "dimitri7",
+      "dimitri8"
     ],
     "prf": {
       "": "areadbhareff",
@@ -120461,7 +120500,8 @@
       "dimitri3",
       "dimitri5",
       "dimitri6",
-      "dimitri7"
+      "dimitri7",
+      "dimitri8"
     ],
     "prf": {
       "": "vengefullance",
@@ -120641,7 +120681,8 @@
       "edelgard6",
       "edelgard7",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "twincrestpowereff",
@@ -149428,7 +149469,8 @@
       "edelgard6",
       "edelgard7",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "regalsunshade",
@@ -149608,7 +149650,8 @@
       "dimitri3",
       "dimitri4",
       "dimitri6",
-      "dimitri7"
+      "dimitri7",
+      "dimitri8"
     ],
     "prf": {
       "": "unyieldingoar",
@@ -180808,7 +180851,8 @@
     "reference": [
       "gullveig",
       "gullveig3",
-      "gullveig4"
+      "gullveig4",
+      "gullveig5"
     ],
     "prf": {
       "": "thecyclesturn",
@@ -187677,7 +187721,8 @@
     "reference": [
       "gullveig2",
       "gullveig3",
-      "gullveig4"
+      "gullveig4",
+      "gullveig5"
     ],
     "prf": {
       "": "quietusgullveig",
@@ -189282,7 +189327,8 @@
       "edelgard5",
       "edelgard7",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "blackyulelance",
@@ -189460,7 +189506,8 @@
       "dimitri3",
       "dimitri4",
       "dimitri5",
-      "dimitri7"
+      "dimitri7",
+      "dimitri8"
     ],
     "prf": {
       "": "blueyuleaxe",
@@ -202001,7 +202048,8 @@
     "reference": [
       "gullveig",
       "gullveig2",
-      "gullveig4"
+      "gullveig4",
+      "gullveig5"
     ],
     "prf": {
       "": "goldensunlight",
@@ -219774,7 +219822,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard8",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "eaglesheart",
@@ -219949,7 +219998,8 @@
       "dimitri3",
       "dimitri4",
       "dimitri5",
-      "dimitri6"
+      "dimitri6",
+      "dimitri8"
     ],
     "prf": {
       "": "lionsheart",
@@ -238687,7 +238737,8 @@
     "reference": [
       "gullveig",
       "gullveig2",
-      "gullveig3"
+      "gullveig3",
+      "gullveig5"
     ],
     "prf": {
       "": "scrollsoftime",
@@ -242410,7 +242461,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard7",
-      "edelgard9"
+      "edelgard9",
+      "edelgard10"
     ],
     "prf": {
       "": "blackeagleaxe",
@@ -248848,7 +248900,8 @@
       "edelgard5",
       "edelgard6",
       "edelgard7",
-      "edelgard8"
+      "edelgard8",
+      "edelgard10"
     ],
     "prf": {
       "": "oathdagger",
@@ -261639,6 +261692,651 @@
       "spd": "guardianstalon",
       "def": "guardianstalon",
       "res": "guardianstalon"
+    }
+  },
+  "dimitri8": {
+    "name": "Dimitri",
+    "title": "Dual Idealists",
+    "description": "Dimitri and Claude, rivals with hopes for tomorrow they cannot abandon, standing even amongst mountains of corpses and rivers of blood. Appear in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Dd",
+    "move": "Infantry",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": "225",
+    "id": "1425",
+    "type": "duo",
+    "version": "10.10",
+    "duo": "Grants\u3010Resonance: Blades\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants another action to a certain target, and if Canto has already been triggered, re-enables Canto (if there are allies within 2 spaces of unit who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 11,
+      "spd": 12,
+      "def": 14,
+      "res": 3
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 90,
+      "spd": 85,
+      "def": 80,
+      "res": 35
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Silver Lance": "3",
+      "Cyan Gradivus": "5" 
+    },
+    "assist": {
+      "Rally Attack": "3",
+      "Rally Up Atk": "4",
+      "Rally Up Atk+": "5"
+    },
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Archrival": "5"
+    },
+    "passive": {
+      "A": {
+        "Darting Blow 1": "2",
+        "Darting Blow 2": "3",
+        "Darting Blow 3": "4",
+        "Duality Blow": "5"
+      },
+      "B": {
+        "Blue Lion Reign": "5"
+      },
+      "C": {
+        "Spd/Def Oath 1": "2",
+        "Spd/Def Oath 2": "3",
+        "Spd/Def Oath 3": "4",
+        "S/D Tenet Hone": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Dimitri_Dual_Idealists_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Dimitri_Dual_Idealists_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Dimitri_Dual_Idealists_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ad/Dimitri_Dual_Idealists_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Dual Idealists",
+      "Dimitri: Dual Idealists",
+      "Duo Dimitri",
+      "D Dimitri",
+      "Duo CYL Dimitri",
+      "D CYL Dimitri",
+      "CYL Duo Dimitri",
+      "CYL D Dimitri",
+      "Duo Choose Your Legends Dimitri",
+      "D Choose Your Legends Dimitri",
+      "Choose Your Legends Duo Dimitri",
+      "Choose Your Legends D Dimitri",
+      "Duo Brave Dimitri",
+      "D Brave Dimitri",
+      "Brave Duo Dimitri",
+      "Brave D Dimitri",
+      "D B Dimitri",
+      "B D Dimitri",
+      "Duo Braver Dimitri",
+      "D Braver Dimitri",
+      "Braver Duo Dimitri",
+      "Braver D Dimitri",
+      "Braver Dimitri",
+      "dimitri8"
+    ],
+    "HARD_ALT_NAME": [
+      "Dual Idealists",
+      "Dimitri: Dual Idealists",
+      "Duo Dimitri",
+      "D Dimitri",
+      "Duo CYL Dimitri",
+      "D CYL Dimitri",
+      "CYL Duo Dimitri",
+      "CYL D Dimitri",
+      "Duo Choose Your Legends Dimitri",
+      "D Choose Your Legends Dimitri",
+      "Choose Your Legends Duo Dimitri",
+      "Choose Your Legends D Dimitri",
+      "Duo Brave Dimitri",
+      "D Brave Dimitri",
+      "Brave Duo Dimitri",
+      "Brave D Dimitri",
+      "D B Dimitri",
+      "B D Dimitri",
+      "Duo Braver Dimitri",
+      "D Braver Dimitri",
+      "Braver Duo Dimitri",
+      "Braver D Dimitri",
+      "Braver Dimitri",
+      "dimitri8"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u6bd4\u7ffc\u7dcf\u9078\u6319\u30c7\u30a3\u30df",
+    "voice": "Chris Hackney + Joe Zieja",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Dimitri:** I bear the weight of unforgivable sins. Even so, I will move forward for the sake of the living, one step at a time.",
+        "**Dimitri:** One day I shall enter the gates of hell. Until then, I must endure for those who sacrificed their lives for my sake.",
+        "**Claude:** Dimitri, I really do admire how you want to save everyone. You really are too good for me...",
+        "**Claude:** If the path ahead is lined with thorns, then just put on boots with thicker soles. It's called using your head.",
+        "**Dimitri:** I hear the tolling of the funeral bells. We bear the weight of each and every life marked by those tolls."
+      ],
+      "Visit": [
+        "**Dimitri:** We hope to get along with you, just as you do with your sworn friend, [F]."
+      ],
+      "Level": [
+        "**Dimitri:** Another face to haunt me.",
+        "**Dimitri:** I will not let this battle be in vain.",
+        "**Claude:** I chose the hard path. And I did it knowing the danger lying in wait."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Dimitri, of Faerghus. And this is Claude, of the Leicester Alliance. What is the purpose of us having met?"
+      ],
+      "Learn Skill": [
+        "**Dimitri:** We humbly accept. The prospect of taking on a new challenge is thrilling."
+      ],
+      "Confession": [
+        "**Dimitri:** You haven't changed a bit, Claude. Just how many schemes are you devising behind that flippant facade?\n**Claude:** Come on. Don't look at me like that. I don't have any devious thoughts in this head of mine.\nHey...listen. Who steals your freedom and gives you endless obligations simply because you have a Crest?\nWho forces you and your friends into unwanted marriages and positions of power? And for what purpose?\n**Dimitri:** Do not say anything further, Claude...\nI can no longer afford to accept ideas that would plunge the people into chaos and war.\nCarrying out a revolution that merely cuts away part of the whole will only birth more suffering and discontent...\nYou, too, would face retribution.\n**Claude:** I'm glad you're concerned for my safety, but I'll do things my way.\nI'll search for a new method\u2014one that isn't bound by antiquated concepts, Dimitri Alexandre Blaiddyd.\n**Dimitri:** Very well, Claude von Riegan. You follow your path, and I shall follow mine.\nIf nothing else, at least our feelings toward the people of F\u00f3dlan are one and the same...\nTo open the way to a better future, we must adhere to the paths we have placed our faith in. That is our duty."
+      ],
+      "Special": [
+        "**Duo:** A path we believe in!",
+        "**Duo:** This will finish it!",
+        "**Dimitri:** Disappear!",
+        "**Claude:** Are you ready?"
+      ],
+      "Status": [
+        "-",
+        "\"To think I would choose to partner with you.\" \"That's my line.\""
+      ],
+      "Map Select": [
+        "Now then...",
+        "Let's move.",
+        "It's our turn."
+      ],
+      "Conversation": [
+        "**Claude:** Hey, Dimitri. How am I faring in your world?",
+        "**Dimitri:** I could answer that, but what will you do with the information?",
+        "**Claude:** Nothing, I'm just curious. It seems natural to wonder about the future I have in another world.",
+        "**Dimitri:** Then I ask you, in your world, what became of me?",
+        "**Claude:** You died. Obsessed with revenge, you lost sight of what was important. It was tragic, really.",
+        "**Dimitri:** I see... In contrast, the you from my world fared much better.",
+        "Though he never could achieve his goals, he survived and left F\u00f3dlan.",
+        "**Claude:** Ah. So that was his fate.",
+        "We each come from worlds where we achieved our ambitions. That's true for Edelgard as well.",
+        "In a world where one of us succeeds, the others fail. Perhaps that's how it has to be.",
+        "**Dimitri:** Yes. We seem unable to coexist in harmony.",
+        "**Claude:** I wonder if there is a world where we all live as friends. Even Teach.",
+        "**Dimitri:** I cannot imagine such a thing. Do you think it's even possible?",
+        "**Claude:** I think it might take a miracle.",
+        "**Dimitri:** Do you suppose being summoned to Askr could be the very thing?",
+        "**Claude:** Actually, this just might be the one place we can exist as friends.",
+        "Let's make the most of our time here, then. All of us."
+      ],
+      "Duo Skill": [
+        "\"On my mark!\" \"I'm ready.\"",
+        "\"Keep up.\" \"Easily.\""
+      ],
+      "Back Unit Supporting": [
+        "Don't mess this up.",
+        "I leave it to you."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Duo Brave Dimitri",
+    "SEARCH_NAME": "Duo Brave Dimitri",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Blue_Lance:1317239378208096338>Duo Brave Dimitri",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "dimitri",
+      "dimitri2",
+      "dimitri3",
+      "dimitri4",
+      "dimitri5",
+      "dimitri6",
+      "dimitri7"
+    ],
+    "prf": {
+      "": "cyangradivus",
+      "eff": "cyangradivus",
+      "atk": "cyangradivus",
+      "spd": "cyangradivus",
+      "def": "cyangradivus",
+      "res": "cyangradivus"
+    }
+  },
+  "edelgard10": {
+    "name": "Edelgard",
+    "title": "Beyond Bounds",
+    "description": "Edelgard and Lysithea, each containing two crests, grasp the future in defiance of their cursed fates. Appear in Fire Emblem: Three Houses.",
+    "origin": "Three Houses",
+    "artist": "Hitoto*",
+    "move": "Armored",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": "225",
+    "id": "1426",
+    "type": "duo",
+    "version": "10.10",
+    "duo": "Grants\u3010Resonance: Shields\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants another action to a certain target, and if Canto has already been triggered, re-enables Canto (if there are allies within 2 spaces of unit who have already acted, targets ally with the highest HP among those allies; otherwise, targets unit; if multiple targets meet the conditions, effect will not trigger).",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 28,
+      "atk": 11,
+      "spd": 3,
+      "def": 10,
+      "res": 11
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 90,
+      "spd": 30,
+      "def": 90,
+      "res": 85
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Deep Hauteclere": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Armored Flames": "5"
+    },
+    "passive": {
+      "A": {
+        "Rise Above 1": "2",
+        "Rise Above 2": "3",
+        "Rise Above 3": "4",
+        "Rise Above 4": "5"
+      },
+      "B": {
+        "Black Eagle Reign": "5"
+      },
+      "C": {
+        "A/D Near Save 1": "2",
+        "A/D Near Save 2": "3",
+        "A/D Near Save 3": "4",
+        "A/D Briar P Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/00/Edelgard_Beyond_Bounds_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Edelgard_Beyond_Bounds_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Edelgard_Beyond_Bounds_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Edelgard_Beyond_Bounds_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Beyond Bounds",
+      "Edelgard: Beyond Bounds",
+      "Duo Edelgard 2",
+      "D Edelgard 2",
+      "Duo CYL Edelgard",
+      "D CYL Edelgard",
+      "CYL Duo Edelgard",
+      "CYL D Edelgard",
+      "Duo Choose Your Legends Edelgard",
+      "D Choose Your Legends Edelgard",
+      "Choose Your Legends Duo Edelgard",
+      "Choose Your Legends D Edelgard",
+      "Duo Brave Edelgard",
+      "D Brave Edelgard",
+      "Brave Duo Edelgard",
+      "Brave D Edelgard",
+      "D B Edelgard",
+      "B D Edelgard",
+      "Duo Braver Edelgard",
+      "D Braver Edelgard",
+      "Braver Duo Edelgard",
+      "Braver D Edelgard",
+      "Braver Edelgard",
+      "edelgard10"
+    ],
+    "HARD_ALT_NAME": [
+      "Beyond Bounds",
+      "Edelgard: Beyond Bounds",
+      "Duo Edelgard 2",
+      "D Edelgard 2",
+      "Duo CYL Edelgard",
+      "D CYL Edelgard",
+      "CYL Duo Edelgard",
+      "CYL D Edelgard",
+      "Duo Choose Your Legends Edelgard",
+      "D Choose Your Legends Edelgard",
+      "Choose Your Legends Duo Edelgard",
+      "Choose Your Legends D Edelgard",
+      "Duo Brave Edelgard",
+      "D Brave Edelgard",
+      "Brave Duo Edelgard",
+      "Brave D Edelgard",
+      "D B Edelgard",
+      "B D Edelgard",
+      "Duo Braver Edelgard",
+      "D Braver Edelgard",
+      "Braver Duo Edelgard",
+      "Braver D Edelgard",
+      "Braver Edelgard",
+      "edelgard10"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u6bd4\u7ffc\u7dcf\u9078\u6319\u30a8\u30fc\u30c7\u30eb",
+    "voice": "Tara Platt + Janice Roman Roku",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "fodlan"
+    ],
+    "chibi": [
+      "fodlan"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Edelgard:** Be careful not to overexert yourself, Lysithea. I don't want to lose you.",
+        "**Edelgard:** It is impossible to bear two Crests... unless you've undergone a blood reconstruction surgery.",
+        "**Lysithea:** We are quite alike, Edelgard. We both bear the pressure of two Crests, and our life expectancies are rather...short.",
+        "**Edelgard:** If you like those cakes, why not take some with you for later?",
+        "**Lysithea:** I don't care whether it's Charon or Gloucester, I refuse to let those Crests decide my fate!"
+      ],
+      "Visit": [
+        "**Edelgard:** Do you have any useful data to share? I'm working on my Crest research over at [F]'s castle."
+      ],
+      "Level": [
+        "**Edelgard:** I promise to do all I can to see this goal to fruition. Whatever terrible fate awaits us, we can fight it and prevail!",
+        "**Edelgard:** I am a witness to this cursed world and its history. That is why I must put an end to all of it myself!",
+        "**Lysithea:** *huff* *pant* I'm fine! Really. Just not accustomed to so much manual labor..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Summoning me, Edelgard, alongside Lysithea? This is quite a shock. I simply must hear your motive."
+      ],
+      "Learn Skill": [
+        "**Edelgard:** I am Edelgard von Hresvelg. I swear to achieve what no one else can, and to not yield to anyone until I do."
+      ],
+      "Confession": [
+        "**Edelgard:** I seek to create a world where Crests are no longer valued. In fact, I would prefer to rid the world of them entirely.\nI have already told you the reason for that, haven't I, Lysithea?\n**Lysithea:** \"If we shatter the status quo so that those without Crests are no longer at the mercy of those with them...\"\n\"then the very concept of nobility will vanish.\" That was it, wasn't it?\nTo think you're looking for a way to remove our Crests too... I didn't think anyone else believed in that fantasy.\n**Edelgard:** It is far from a fantasy. It is a plan based on reasoning and logic.\nI plan to expose those monsters' dark secrets as retribution for all of their victims.\nAnd your help is absolutely essential to making that plan a reality.\n**Lysithea:** I would like for you to promise me something, Edelgard.\nPromise me that you will create a world where people like you and me are no longer victimized.\nPromise me that, and I swear I will do everything in my power to help.\n**Edelgard:** I promise you, Lysithea von Ordelia, that I will do all that I can to see this goal to fruition.\nIn return, promise me that you never stop fighting for your life so that we can create a new world together."
+      ],
+      "Special": [
+        "**Duo:** You will not interfere!",
+        "**Duo:** We'll make you disappear!",
+        "**Edelgard:** I believe in this path.",
+        "**Lysithea:** Will you interfere?"
+      ],
+      "Status": [
+        "-",
+        "\"Lysithea, you must be hungry.\" \"I told you not to treat me like a child. Do you...have some food?\""
+      ],
+      "Map Select": [
+        "Excuse me?",
+        "Over there, right?",
+        "Here we go."
+      ],
+      "Conversation": [
+        "**Lysithea:** Edelgard. How do you think the Lysithea in your world is doing?",
+        "**Edelgard:** I...cannot answer that question.",
+        "**Lysithea:** Well, even if you don't tell me, I think I already know.",
+        "**Edelgard:** Don't be so sure. That Lysithea does not carry the weight of a nation, as I do. She must plan for her own future.",
+        "**Lysithea:** Her future? Hm... It's rare for you to speak so optimistically.",
+        "**Edelgard:** I am simply stating an objective truth.",
+        "**Lysithea:** Huh... If that's so, then maybe she's clinging to life for longer than I had believed possible for myself.",
+        "**Edelgard:** You are better off sticking with that kind of thinking. You cannot know how things will end up.",
+        "**Lysithea:** I suppose you're right. Then I choose to believe the Lysithea in your world lives to do everything she wants to.",
+        "She'll take great care of her parents, eat mountains of sweets, and live a long, full life.",
+        "**Edelgard:** You have that many desires? You are rather greedy!",
+        "**Lysithea:** There is no harm in wishing. Is there anything you wish about the Edelgard from my world?",
+        "**Edelgard:** No... I cannot think of another me now.",
+        "**Lysithea:** Sounds like something the Edelgard I know would say. It's because you're like this that... Ah! That was close.",
+        "**Edelgard:** You need not worry. No matter what life she lived, I am confident she remained faithful to her beliefs.",
+        "**Lysithea:** I would like there to be a world in which an Edelgard could live a carefree life.",
+        "**Edelgard:** Such a life would have to align with her beliefs. Hm... I would love to meet an Edelgard like that."
+      ],
+      "Duo Skill": [
+        "\"Finishing this\" \"now!\"",
+        "\"Edelgard!\" \"I'll handle it.\""
+      ],
+      "Back Unit Supporting": [
+        "I know you can do it.",
+        "You would never lose."
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Duo Brave Edelgard",
+    "SEARCH_NAME": "Duo Brave Edelgard",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Green_Axe:1317239517136031897>Duo Brave Edelgard",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "edelgard",
+      "edelgard2",
+      "edelgard3",
+      "edelgard4",
+      "edelgard5",
+      "edelgard6",
+      "edelgard7",
+      "edelgard8",
+      "edelgard9"
+    ],
+    "prf": {
+      "": "deephauteclere",
+      "eff": "deephauteclere",
+      "atk": "deephauteclere",
+      "spd": "deephauteclere",
+      "def": "deephauteclere",
+      "res": "deephauteclere"
+    }
+  },
+  "gullveig5": {
+    "name": "Gullveig",
+    "title": "Seer Reborn",
+    "description": "The Golden Seer having again obtained a physical body via the Aurr. Aids Sei\u00f0r in her search for her daughter.",
+    "origin": "Heroes",
+    "artist": "Yoshiku (\u56db\u3005\u4e5d)",
+    "move": "Cavalry",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1427",
+    "type": "vista",
+    "version": "10.10",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 10,
+      "spd": 10,
+      "def": 9,
+      "res": 4
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 85,
+      "spd": 90,
+      "def": 55,
+      "res": 40
+    },
+    "superboon": [
+      "spd"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Stone": "1",
+      "Elstone": "2",
+      "Atlas": "3",
+      "Reforged Seer": "5"
+    },
+    "assist": {},
+    "special": {
+      "Retribution": "3",
+      "Vengeance": "4",
+      "Light Eternal": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Bond 1": "2",
+        "Atk/Spd Bond 2": "3",
+        "Atk/Spd Bond 3": "4",
+        "Atk/Spd Verse": "5"
+      },
+      "B": {
+        "Magic Gambit 1": "2",
+        "Magic Gambit 2": "3",
+        "Magic Gambit 3": "4",
+        "Demonic Shackle": "5"
+      },
+      "C": {
+        "Shadow Shift 1": "2",
+        "Shadow Shift 2": "3",
+        "Shadow Shift 3": "4",
+        "Shadow Shift X": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Gullveig_Seer_Reborn_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Gullveig_Seer_Reborn_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Gullveig_Seer_Reborn_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2a/Gullveig_Seer_Reborn_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Seer Reborn",
+      "Gullveig: Seer Reborn",
+      "Vista Gullveig",
+      "V Gullveig",
+      "Vst Gullveig",
+      "gullveig5"
+    ],
+    "HARD_ALT_NAME": [
+      "Seer Reborn",
+      "Gullveig: Seer Reborn",
+      "Vista Gullveig",
+      "V Gullveig",
+      "Vst Gullveig",
+      "gullveig5"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u30b0\u30eb\u30f4\u30a7\u30a4\u30b02\u5473\u65b9",
+    "voice": "Alice Himora",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Alv\u00edg... What could she be like? Similar to you, I hope.",
+        "I felt quite comfortable residing within Sei\u00f0r's heart. But that is only natural, since she is me.",
+        "Wait, you've injured your finger. Let me just rewind time for you... There, all better.",
+        "May I caress your cheek? It's so nice being able to touch you again.",
+        "If I were to perform the goddess's vow with you...would a child be born?"
+      ],
+      "Visit": [
+        "I have wanted to see your face... You, friend of [F]."
+      ],
+      "Level": [
+        "An excellent result... This makes me happy.",
+        "I think this is a satisfying result.",
+        "This result is much less than what I expected."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I am Gullveig. I was once called the Golden Seer... But I'd like you to decide my new name."
+      ],
+      "Learn Skill": [
+        "Thank you. Your kindness is a constant, no matter the era."
+      ],
+      "Confession": [
+        "Ah... I'm sorry for bumping into you. Perhaps I'd gotten too close...\nI'm still amazed that I'm able to feel your touch like this now. It's almost like back when I was Kvasir.\nAs Sei\u00f0r, I don't think I was fully honest with myself. But deep down, I wanted to be close like this.\n[S]...\nNo matter the time or the name I was known by, I have always loved you.\nTo think that I could tell you this while gazing into your eyes... There is nothing more I could ask for."
+      ],
+      "Special": [
+        "For a new timeline.",
+        "I will shape the future...",
+        "You will not escape.",
+        "This ends now."
+      ],
+      "Status": [
+        "-",
+        "I am Gullveig, given form anew.",
+        "Hm... If you wish to get close to me, there is no need to sneak.",
+        "Gr\u00f3a is much like me. Alv\u00edg must take after you.",
+        "The snakes are no longer with me, so there is no need to be frightened. May I...come closer?",
+        "Seeing our daughters reminds me of the ritual we performed together.",
+        "Alv\u00edg, our daughter... So this is what hope is...",
+        "Reuniting with you has made me so happy... *sigh* I am sorry, I cannot help myself."
+      ],
+      "Map Select": [
+        "Very well.",
+        "Hm...",
+        "As you wish."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Vista Gullveig",
+    "SEARCH_NAME": "Vista Gullveig",
+    "DISPLAY_NAME": "<:Colorless_Tome:1317239438602145842>Vista Gullveig",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "gullveig",
+      "gullveig2",
+      "gullveig3",
+      "gullveig4"
+    ],
+    "prf": {
+      "": "reforgedseer",
+      "eff": "reforgedseer",
+      "atk": "reforgedseer",
+      "spd": "reforgedseer",
+      "def": "reforgedseer",
+      "res": "reforgedseer"
     }
   }
 }
