@@ -7899,7 +7899,8 @@
         "sylvain4": "3",
         "dietrich": "3",
         "takumi7": "3",
-        "edelgard10": "3"
+        "edelgard10": "3",
+        "hector9": "3"
       }
     },
     "refine": {},
@@ -8129,7 +8130,8 @@
         "sylvain4": "4",
         "dietrich": "4",
         "takumi7": "4",
-        "edelgard10": "4"
+        "edelgard10": "4",
+        "hector9": "4"
       }
     },
     "refine": {},
@@ -29117,7 +29119,8 @@
         "idunn2": "5",
         "kellam": "5",
         "bors": "5",
-        "blackknight3": "4"
+        "blackknight3": "4",
+        "hector9": "4"
       },
       "Vengeful Fighter 2": {},
       "Vengeful Fighter 1": {}
@@ -99081,7 +99084,8 @@
         "blackknight3": "4",
         "eikthyrnir4": "4",
         "skrimir": "4",
-        "hector8": "4"
+        "hector8": "4",
+        "hector9": "4"
       },
       "A/D Far Save 2": {},
       "A/D Far Save 1": {}
@@ -140722,7 +140726,8 @@
       "A/D Briar F Save": {
         "fomortiis2": "5",
         "blackknight3": "5",
-        "hector8": "5"
+        "hector8": "5",
+        "hector9": "5"
       }
     },
     "icon": 2316,
@@ -168954,7 +168959,7 @@
       {
         "name": "Spd/Def Union",
         "stats": {
-          "sp": "300"
+          "sp": "400"
         },
         "required": [
           "Spd Feint 3",
@@ -171614,15 +171619,14 @@
       }
     ],
     "reference": {
-      "Nine-Sky Strike": {
-        "feshmel": "5"
+      "Light Eternal": {
+        "gullveig5": "5"
       }
     },
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Nine-Sky Strike",
-      "Nine Sky Strike"
+      "Light Eternal"
     ],
     "ALT_NAME": [],
     "slot": "Special",
@@ -171669,6 +171673,218 @@
       "A/S Verse"
     ],
     "slot": "Passive A",
+    "wpn": false
+  },
+  "brashaxe": {
+    "name": "Brash Axe",
+    "skill": [
+      {
+        "name": "Brash Axe",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, grants Def/Res+6,\u3010Fringe Bonus\u3011, \"reduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials),\" and \"unit makes a guaranteed follow-up attack during combat\" to unit and allies within 2 spaces of unit for 1 turn.\nAt start of turn, grants Atk/Def/Res \u3010Great Talent\u3011+2 to unit.\nIf unit was attacked by foe during combat, grants Atk/Def/Res\u3010Great Talent\u3011+4 to unit after combat.\nGrants Atk/Def/Res+16 to unit, unit deals +25 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by 15 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), reduces damage from foe's Specials by an additional 15 (including area-of-effect Specials; excluding Røkkr area-of-effect Specials), and grants Special cooldown count-1 to unit before unit's first attack and before unit's first follow-up attack during combat.\n(This skill grants max of\u3010Great Talent\u3011+20.)",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "300"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Axe",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Brash Axe": {
+        "hector9": "5"
+      }
+    },
+    "refine": false,
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Brash Axe",
+      "Of Strength",
+      "Hector: Of Strength",
+      "Emblem Hector",
+      "Engage Hector",
+      "E Hector",
+      "hector9"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_ax203"
+  },
+  "stormseye": {
+    "name": "Storm s Eye",
+    "skill": [
+      {
+        "name": "Storm's Eye",
+        "description": "When Special triggers, boosts damage by unit's Def.\nIf foe initiates combat, unit can counterattack regardless of foe's range and triggers \u3010Potent Follow 100%\u3011during combat.\nFor unit and allies within 3 rows or 3 columns centered on unit, grants Atk/Spd/Def/Res+5, neutralizes penalties, and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit or ally during combat.\nReduces damage from foe's attacks during combat by 40% (excluding area-of-effect Specials).\nIf foe initiates combat and the number of spaces from unit's space to foe's space \u2265 4, or if it is unit's first or second combat this turn initiated by foe where the number of spaces from unit's space to foe's space \u2264 3, reduces damage from foe's follow-up attack to a maximum of 1 during combat.",
+        "stats": {
+          "cooldown": "5",
+          "sp": "500"
+        },
+        "required": [
+          "Ignis"
+        ],
+        "exclusive": true,
+        "slot": "Special",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Storm's Eye": {
+        "hector9": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Storm's Eye",
+      "Storms Eye"
+    ],
+    "ALT_NAME": [],
+    "slot": "Special",
+    "wpn": false
+  },
+  "piercingglare": {
+    "name": "Piercing Glare",
+    "skill": [
+      {
+        "name": "Piercing Glare 1",
+        "stats": {
+          "sp": "60"
+        },
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Spaces diagonally adjacent to unit act as difficult terrain for foes (moving over these spaces costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement; only highest value applied; does not stack).\nGrants Atk/Def/Res+2 to unit during combat."
+      },
+      {
+        "name": "Piercing Glare 2",
+        "stats": {
+          "sp": "120"
+        },
+        "required": [
+          "Piercing Glare 1"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Spaces diagonally adjacent to unit act as difficult terrain for foes (moving over these spaces costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement; only highest value applied; does not stack).\nAt start of enemy phase, grants \u3010Null Undefended\u3011to unit and adjacent allies for 1 turn.\nGrants Atk/Def/Res+5 to unit during combat."
+      },
+      {
+        "name": "Piercing Glare 3",
+        "stats": {
+          "sp": "240"
+        },
+        "required": [
+          "Piercing Glare 2"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Spaces diagonally adjacent to unit act as difficult terrain for foes (moving over these spaces costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement; only highest value applied; does not stack).\nAt start of enemy phase, grants \u3010Null Undefended\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Def/Res+8 to unit during combat."
+      },
+      {
+        "name": "Piercing Glare 4",
+        "stats": {
+          "sp": "300"
+        },
+        "required": [
+          "Piercing Glare 3"
+        ],
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Infantry",
+            "Armored"
+          ]
+        ],
+        "description": "Grants HP+7.\nSpaces diagonally adjacent to unit act as difficult terrain for foes (moving over these spaces costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement; only highest value applied; does not stack).\nAt start of enemy phase, grants \u3010Null Undefended\u3011to unit and allies within 2 spaces of unit for 1 turn.\nGrants Atk/Def/Res+11 to unit, unit deals +7 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and restores 7 HP to unit after combat.",
+        "bonus": {
+          "hp": 7
+        }
+      }
+    ],
+    "reference": {
+      "Piercing Glare 1": {},
+      "Piercing Glare 2": {},
+      "Piercing Glare 3": {},
+      "Piercing Glare 4": {
+        "hector9": "5"
+      }
+    },
+    "icon": 2809,
+    "HARD_ALT_NAME": [
+      "Piercing Glare 1",
+      "Piercing Glare 2",
+      "Piercing Glare 3",
+      "Piercing Glare 4",
+      "Piercing Glare"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "countersavvy": {
+    "name": "Counter Savvy",
+    "skill": [
+      {
+        "name": "Counter Savvy",
+        "stats": {
+          "sp": "400"
+        },
+        "required": [
+          "Vengeful Fighter 3"
+        ],
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "If foe initiates combat or unit's HP \u2265 25% at start of combat, inflicts Atk/Spd/Def/Res-4 on foe, deals damage = 20% of unit's Atk (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Atk (excluding area-of-effect Specials), and neutralizes effects that prevent unit's counterattacks during combat, and also, if unit's attack can trigger unit's Special, grants Special cooldown count-2 to unit before foe's first attack and before foe's first follow-up attack during combat."
+      }
+    ],
+    "reference": {
+      "Iron Fighter": {
+        "jormungandr": "5"
+      }
+    },
+    "icon": 2810,
+    "HARD_ALT_NAME": [
+      "Counter Savvy"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
     "wpn": false
   }
 }

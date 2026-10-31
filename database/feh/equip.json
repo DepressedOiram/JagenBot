@@ -27719,9 +27719,52 @@
     "refine": false
   },
   "lanceoffrelia": {
-    "name": "Lance of Frelia",
+    "name": "Lance of Frelia (Unrefined)",
     "bonus": {
       "atk": 16
+    },
+    "refine": "Lance of Frelia"
+  },
+  "lanceoffreliaeff": {
+    "name": "Lance of Frelia (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "lanceoffreliaatk": {
+    "name": "Lance of Frelia (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lanceoffreliaspd": {
+    "name": "Lance of Frelia (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lanceoffreliadef": {
+    "name": "Lance of Frelia (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "lanceoffreliares": {
+    "name": "Lance of Frelia (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -29755,9 +29798,52 @@
     "refine": false
   },
   "flamelickbreath": {
-    "name": "Flamelick Breath",
+    "name": "Flamelick Breath (Unrefined)",
     "bonus": {
       "atk": 19
+    },
+    "refine": "Flamewick Breath"
+  },
+  "flamelickbreatheff": {
+    "name": "Flamelick Breath (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 19
+    },
+    "refine": false
+  },
+  "flamelickbreathatk": {
+    "name": "Flamelick Breath (Atk)",
+    "bonus": {
+      "atk": 21,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "flamelickbreathspd": {
+    "name": "Flamelick Breath (Spd)",
+    "bonus": {
+      "atk": 19,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "flamelickbreathdef": {
+    "name": "Flamelick Breath (Def)",
+    "bonus": {
+      "atk": 19,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "flamelickbreathres": {
+    "name": "Flamelick Breath (Res)",
+    "bonus": {
+      "atk": 19,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -30830,9 +30916,51 @@
     "refine": false
   },
   "firemanshook": {
-    "name": "Fireman's Hook",
+    "name": "Fireman's Hook (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Fireman's Hook"
+  },
+  "firemanshookeff": {
+    "name": "Fireman's Hook (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "firemanshookatk": {
+    "name": "Fireman's Hook (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "firemanshookspd": {
+    "name": "Fireman's Hook (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "firemanshookdef": {
+    "name": "Fireman's Hook (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "firemanshookres": {
+    "name": "Fireman's Hook (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -36478,9 +36606,52 @@
     "refine": false
   },
   "hornoftheland": {
-    "name": "Horn of the Land",
+    "name": "Horn of the Land (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Horn of the Land"
+  },
+  "hornofthelandeff": {
+    "name": "Horn of the Land (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 14
+    },
+    "refine": false
+  },
+  "hornofthelandatk": {
+    "name": "Horn of the Land (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hornofthelandspd": {
+    "name": "Horn of the Land (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hornofthelanddef": {
+    "name": "Horn of the Land (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hornofthelandres": {
+    "name": "Horn of the Land (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -36738,9 +36909,51 @@
     "refine": false
   },
   "abyssalblade": {
-    "name": "Abyssal Blade",
+    "name": "Abyssal Blade (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "Abyssal Blade"
+  },
+  "abyssalbladeeff": {
+    "name": "Abyssal Blade (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "abyssalbladeatk": {
+    "name": "Abyssal Blade (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "abyssalbladespd": {
+    "name": "Abyssal Blade (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "abyssalbladedef": {
+    "name": "Abyssal Blade (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "abyssalbladeres": {
+    "name": "Abyssal Blade (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
     },
     "refine": false
   },
@@ -47945,6 +48158,196 @@
     },
     "refine": false
   },
+  "catalystaxe": {
+    "name": "Catalyst Axe (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Catalyst Axe"
+  },
+  "catalystaxeeff": {
+    "name": "Catalyst Axe (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "catalystaxeatk": {
+    "name": "Catalyst Axe (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "catalystaxespd": {
+    "name": "Catalyst Axe (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "catalystaxedef": {
+    "name": "Catalyst Axe (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "catalystaxeres": {
+    "name": "Catalyst Axe (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "darkfaith": {
+    "name": "Dark Faith (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Dark Faith"
+  },
+  "darkfaitheff": {
+    "name": "Dark Faith (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "darkfaithatk": {
+    "name": "Dark Faith (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "darkfaithspd": {
+    "name": "Dark Faith (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "darkfaithdef": {
+    "name": "Dark Faith (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "darkfaithres": {
+    "name": "Dark Faith (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "draconicbond": {
+    "name": "Draconic Bond",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "giftoflove": {
+    "name": "Gift of Love",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "sweetstaff": {
+    "name": "Sweet Staff",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "bowoflove": {
+    "name": "Bow of Love+ (Unrefined)",
+    "bonus": {
+      "atk": 12
+    },
+    "refine": "Bow of Love+"
+  },
+  "bowofloveatk": {
+    "name": "Bow of Love+ (Atk)",
+    "bonus": {
+      "atk": 13,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "bowoflovespd": {
+    "name": "Bow of Love+ (Spd)",
+    "bonus": {
+      "atk": 12,
+      "spd": 2,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "bowoflovedef": {
+    "name": "Bow of Love+ (Def)",
+    "bonus": {
+      "atk": 12,
+      "def": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "bowofloveres": {
+    "name": "Bow of Love+ (Res)",
+    "bonus": {
+      "atk": 12,
+      "res": 3,
+      "hp": 2
+    },
+    "refine": false
+  },
+  "sistersblade": {
+    "name": "Sisters' Blade",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "heroicmaltet" : {
+    "name": "Heroic Maltet",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "chosenlance": {
+    "name": "Chosen Lance",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "awakeningvoice": {
+    "name": "Awakening Voice",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
   "petulantlance": {
     "name": "Petulant Lance (Unrefined)",
     "bonus": {
@@ -49094,6 +49497,13 @@
     "name": "Deep Hauteclere",
     "bonus": {
       "hp": 7,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "brashaxe": {
+    "name": "Brash Axe",
+    "bonus": {
       "atk": 16
     },
     "refine": false

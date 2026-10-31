@@ -10255,7 +10255,8 @@
       "hector5",
       "hector6",
       "hector7",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "berserkarmadseff",
@@ -41260,7 +41261,8 @@
       "hector5",
       "hector6",
       "hector7",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "berserkarmadseff",
@@ -50301,7 +50303,8 @@
       "hector5",
       "hector6",
       "hector7",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "thunderarmadseff",
@@ -53131,7 +53134,8 @@
       "hector5",
       "hector6",
       "hector7",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "malteteff",
@@ -80091,7 +80095,8 @@
       "hector4",
       "hector6",
       "hector7",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "conjurercurioseff",
@@ -171424,7 +171429,8 @@
       "hector4",
       "hector5",
       "hector7",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "valiantwaraxe",
@@ -214370,7 +214376,8 @@
       "hector4",
       "hector5",
       "hector6",
-      "hector8"
+      "hector8",
+      "hector9"
     ],
     "prf": {
       "": "fellowshipblade",
@@ -246422,7 +246429,8 @@
       "hector4",
       "hector5",
       "hector6",
-      "hector7"
+      "hector7",
+      "hector9"
     ],
     "prf": {
       "": "heroicmaltet",
@@ -262337,6 +262345,191 @@
       "spd": "reforgedseer",
       "def": "reforgedseer",
       "res": "reforgedseer"
+    }
+  },
+  "hector9": {
+    "name": "Hector",
+    "title": "Of Strength",
+    "description": "One of the Emblems who were summoned to another Elyos. Resides in the Bracelet of the Brash General. Appears in Fire Emblem: The Blazing Blade / Fire Emblem Engage.",
+    "origin": "The Blazing Blade + Engage",
+    "artist": "HAGIYA Kaoru (\u8429\u8c37\u85ab)",
+    "move": "Armored",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1428",
+    "type": "emblem",
+    "version": "10.10",
+    "duo": false,
+    "harmonized": false,
+    "emblem": "When Special triggers, boosts damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nIf foe initiates combat, triggers \u3010Potent Follow X%\u3011during combat (if unit cannot perform follow-up and attack twice, X = 100; otherwise, X = 50).\nIf foe initiates combat and the number of spaces from unit's space to foe's space \u2265 4, or if it is unit's first combat this turn initiated by foe where the number of spaces from unit's space to foe's space \u2264 3, reduces damage from foe's follow-up attack to a maximum of 1 during combat.",
+    "base": {
+      "hp": 27,
+      "atk": 11,
+      "spd": 3,
+      "def": 11,
+      "res": 11
+    },
+    "growth": {
+      "hp": 65,
+      "atk": 90,
+      "spd": 30,
+      "def": 90,
+      "res": 80
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "spd"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Brash Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Storm's Eye": "5"
+    },
+    "passive": {
+      "A": {
+        "Piercing Glare 1": "2",
+        "Piercing Glare 2": "3",
+        "Piercing Glare 3": "4",
+        "Piercing Glare 4": "5"
+      },
+      "B": {
+        "Vengeful Fighter 1": "2",
+        "Vengeful Fighter 2": "3",
+        "Vengeful Fighter 3": "4",
+        "Counter Savvy": "5"
+      },
+      "C": {
+        "A/D Far Save 1": "2",
+        "A/D Far Save 2": "3",
+        "A/D Far Save 3": "4",
+        "A/D Briar F Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/24/Hector_Of_Strength_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Hector_Of_Strength_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Hector_Of_Strength_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/Hector_Of_Strength_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Of Strength",
+      "Hector: Of Strength",
+      "Emblem Hector",
+      "Engage Hector",
+      "E Hector",
+      "hector9"
+    ],
+    "HARD_ALT_NAME": [
+      "Of Strength",
+      "Hector: Of Strength",
+      "Emblem Hector",
+      "Engage Hector",
+      "E Hector",
+      "hector9"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u7d0b\u7ae0\u30d8\u30af\u30c8\u30eb",
+    "voice": "Patrick Seitz",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe",
+      "elyos"
+    ],
+    "chibi": [
+      "fe7",
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "I'd love to tell Lilina how happy I am to see how she's grown...but I don't want to startle her, being like this...",
+        "I fought alongside the Firene royal family many times back in Elyos. But here...those two seem much calmer...",
+        "Emblems hiding in 12 tiny rings\u2014can you believe that? Much too easy to lose, if you ask me!",
+        "Now that I can eat again, Ostian food is all I can think of. But a meal is only as good as those you share it with.",
+        "It is said that those who wield Armads will die in battle... But engage with me and you can use it without fear."
+      ],
+      "Visit": [
+        "Hey there. You look like you know how to handle yourself. You must be one of [F]'s pals."
+      ],
+      "Level": [
+        "How can a death in battle ever befall one with strength such as this?",
+        "I live for the thrill of battle, the chance to grow stronger... Would you expect otherwise of the Emblem of Firene?",
+        "Gah... I guess that style of fighting doesn't suit me much, does it?"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Emblem Hector. Oho, a new stage on which to which to wage glorious battle. Just give me the word."
+      ],
+      "Learn Skill": [
+        "Is this your way of telling me not to hold back? Heh... I really like your style, Summoner."
+      ],
+      "Confession": [
+        "Oho, if it isn't [S]!\nSeeing all of the Heroes and other Emblems here from different worlds... It's really something.\nTo think that Eliwood's son would become an Emblem too... I'd love to spar with him sometime.\nMaybe somewhere out there, my daughter, Lilina, is an Emblem as well. Although, if that were the case...\nAll I want is for her to live a life of peace, far from the battlefield. Heh, I'm a typical selfish parent...\n\"Peace\" talk may sound odd from a war dog like me, but trust that my own fire for battle burns hot as ever!"
+      ],
+      "Special": [
+        "Storm's Eye!",
+        "I shall guide you!",
+        "In good spirits...",
+        "Emblem engage!"
+      ],
+      "Status": [
+        "-",
+        "I've got your backs. Rely on me any time.",
+        "Huh? Since you can't polish my bracelet here, how about you polish my armor?",
+        "I was entrusted to the warring Firene in Elyos. The prince and princess there were both quite valiant.",
+        "I have a lot of respect for my older brother. Even as an Emblem, I don't think I could stand toe to toe with him.",
+        "\"Embolden us, Emblem of Strength!\" That's my invocation. Couldn't hurt to know it.",
+        "Ah, it's nice to see Eliwood in good health. Makes me want to spar with him again...",
+        "You manifested\u2014 No, you summoned me, so I'll make sure nothing happens to you. I shall grasp victory in the savage garden of war's bloody delights."
+      ],
+      "Map Select": [
+        "You've got it!",
+        "Leave it to me.",
+        "Time to bash some skulls!"
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Emblem Hector",
+    "SEARCH_NAME": "Emblem Hector",
+    "DISPLAY_NAME": "<:feh_emblem:1317239481874780181><:Green_Axe:1317239517136031897>Emblem Hector",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "hector",
+      "hector2",
+      "hector3",
+      "hector4",
+      "hector5",
+      "hector6",
+      "hector7",
+      "hector8"
+    ],
+    "prf": {
+      "": "brashaxe",
+      "eff": "brashaxe",
+      "atk": "brashaxe",
+      "spd": "brashaxe",
+      "def": "brashaxe",
+      "res": "brashaxe"
     }
   }
 }

@@ -7663,7 +7663,13 @@
       "Easter Lonzu",
       "Spring Ronkuu",
       "S Ronkuu",
-      "Easter Ronkuu"
+      "Easter Ronkuu",
+      "Of Strength",
+      "Hector: Of Strength",
+      "Emblem Hector",
+      "Engage Hector",
+      "E Hector",
+      "hector9"
     ],
     "HARD_ALT_NAME": [
       "lonquR",
@@ -7799,13 +7805,20 @@
       "Easter Lonzu",
       "Spring Ronkuu",
       "S Ronkuu",
-      "Easter Ronkuu"
+      "Easter Ronkuu",
+      "Of Strength",
+      "Hector: Of Strength",
+      "Emblem Hector",
+      "Engage Hector",
+      "E Hector",
+      "hector9"
     ],
     "heroes": {
       "mbyleth2": "<:Green_Tome:1317239575352971396>Legendary Male Byleth",
       "dwyer": "<:Colorless_Staff:1317239426866483261>Dwyer",
       "galle": "<:Blue_Lance:1317239378208096338>Galle",
       "hector6": "<:Green_Axe:1317239517136031897>Young Hector",
+      "hector9": "<:Green_Axe:1317239517136031897>Emblem Hector",
       "ike2R": "<:Green_Axe:1317239517136031897>Brave Ike (Resplendent)",
       "lonquR": "<:Red_Sword:1317239717707911188>Lon'qu (Resplendent)",
       "lonqu2": "<:Green_Axe:1317239517136031897>Spring Lon'qu",

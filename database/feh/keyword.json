@@ -4200,7 +4200,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Brash Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -4545,7 +4547,9 @@
             "Lance": [
                 "Guiding Lance"
             ],
-            "Axe": [],
+            "Axe": [
+                "Brash Axe"
+            ],
             "Staff": [],
             "Bow": [
                 "Sacaen Hunter",
@@ -4605,7 +4609,9 @@
                 "Oath Tyrfing"
             ],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Brash Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -5983,7 +5989,19 @@
             "Breath": [],
             "Beast": []
         },
-        "reference_skill": false,
+        "reference_skill": {
+            "assist": [],
+            "special": [],
+            "A": [
+                "Piercing Glare 3",
+                "Piercing Glare 4"
+            ],
+            "B": [],
+            "C": [],
+            "X": [],
+            "S": [],
+            "captain": []
+        },
         "reference_hero": {},
         "HARD_ALT_NAME": []
     },
@@ -6682,6 +6700,7 @@
                 "Dragon Blast II",
                 "Sei\u00f0r Cannon",
                 "Sirius Pulse",
+                "Storm's Eye",
                 "True Bane"
             ],
             "A": [
@@ -6717,7 +6736,9 @@
             "S": [],
             "captain": []
         },
-        "reference_hero": {},
+        "reference_hero": {
+            "hector9": "<:feh_emblem:1317239481874780181><:Green_Axe:1317239517136031897>Emblem Hector"
+        },
         "HARD_ALT_NAME": [
             "Potent 100",
             "Potent 100%",
@@ -7063,7 +7084,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Brash Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -8760,7 +8783,10 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Piercing Glare 3",
+                "Piercing Glare 4"
+            ],
             "B": [
                 "Dark Perfume"
             ],
