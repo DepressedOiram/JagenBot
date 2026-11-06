@@ -150,6 +150,7 @@
                 "Colorless_Tome": [
                     "Darkness Tome",
                     "Dour Baton",
+                    "Quietus Gullveig",
                     "Scrolls of Time"
                 ]
             },
@@ -166,6 +167,7 @@
                 "Already Dead",
                 "Final Say",
                 "Long-Dead",
+                "Pure Obsession",
                 "Slate Illusion",
                 "Tunnel Vision"
             ],
@@ -189,7 +191,9 @@
         "reference_weapon": {
             "Sword": [],
             "Lance": [],
-            "Axe": [],
+            "Axe": [
+                "Arcane Nin-Axe"
+            ],
             "Staff": [],
             "Bow": [],
             "Dagger": [],
@@ -285,7 +289,9 @@
             "Axe": [],
             "Staff": [],
             "Bow": [],
-            "Dagger": [],
+            "Dagger": [
+                "Command-Bomb"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [],
@@ -317,6 +323,7 @@
             ],
             "C": [
                 "Atk/Spd Liberate",
+                "Atk/Def Liberate",
                 "Atk/Res Liberate",
                 "Brio",
                 "Homeland Vow"
@@ -397,7 +404,24 @@
         "description": "Grants a status that can trigger certain skill effects to unit for 1 turn.",
         "color": "Colorless",
         "icon": "bonded",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": []
+            },
+            "Breath": [
+                "Silent Power"
+            ],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [],
             "special": [
@@ -405,7 +429,9 @@
                 "Covenant Blast",
                 "Dragon Blast II"
             ],
-            "A": [],
+            "A": [
+                "Pure Obsession"
+            ],
             "B": [],
             "C": [
                 "Philanderer"
@@ -577,11 +603,13 @@
                 "Atk/Spd Prime 4",
                 "Atk/Def Prime 4",
                 "Spd/Def Prime 4",
+                "Atk/Spd Clear",
                 "Atk/Def Clear",
                 "Divine Toxin",
                 "Dragoon Pillar",
                 "Gift of Magic+",
                 "Obsidian Tactics",
+                "Pure Obsession",
                 "Unfledged God"
             ],
             "B": [
@@ -610,6 +638,7 @@
                 "A/S Outcry Seize",
                 "A/D Outcry Seize",
                 "Atk/Spd Liberate",
+                "Atk/Def Liberate",
                 "Atk/Res Liberate",
                 "Brio",
                 "Covetous One",
@@ -790,7 +819,9 @@
                 "Red_Tome": [
                     "Royal Treats"
                 ],
-                "Blue_Tome": [],
+                "Blue_Tome": [
+                    "Full-Bloom Scroll"
+                ],
                 "Green_Tome": [
                     "Mirage Excalibur"
                 ],
@@ -806,7 +837,9 @@
             "special": [
                 "Crusader's Heir"
             ],
-            "A": [],
+            "A": [
+                "Pure Obsession"
+            ],
             "B": [],
             "C": [
                 "Moving Shadow"
@@ -1033,7 +1066,9 @@
                 "Thief's Dagger"
             ],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Alv\u00edg"
+                ],
                 "Blue_Tome": [
                     "Ni\u00f0avellir Lots",
                     "Icy Fimbulvetr"
@@ -1538,7 +1573,8 @@
             "assist": [],
             "special": [],
             "A": [
-                "Heaven's Ethos"
+                "Heaven's Ethos",
+                "Pure Obsession"
             ],
             "B": [
                 "Collapsed Star",
@@ -1579,7 +1615,8 @@
                 "Chosen Lance",
                 "Haulin' Harpoon",
                 "Ilian Greatlance",
-                "Lance of Ruin"
+                "Lance of Ruin",
+                "Learner's Lance"
             ],
             "Axe": [
                 "Axe of Dusk",
@@ -1603,9 +1640,11 @@
                 "Colorless_Tome": []
             },
             "Breath": [
-                "Bound by Ice"
+                "Bound by Ice",
+                "Silent Power"
             ],
             "Beast": [
+                "Brightmare Horn",
                 "Chiseled Antler",
                 "Guardian's Talon",
                 "Horn of the Land"
@@ -1623,7 +1662,8 @@
                 "Swift Specter",
                 "Heaven's Stead N",
                 "Lady Knight",
-                "Proper Knight"
+                "Proper Knight",
+                "Silver Maiden"
             ],
             "B": [
                 "Chaos Torrent",
@@ -1670,7 +1710,9 @@
                 ]
             },
             "Breath": [],
-            "Beast": []
+            "Beast": [
+                "World-Tree Tail"
+            ]
         },
         "reference_skill": false,
         "reference_hero": {},
@@ -2068,7 +2110,26 @@
         "description": "If unit's attack can trigger unit's Special, grants Special cooldown count-X before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2).\n(For 1 turn.)",
         "color": "Red",
         "icon": "creationpulse",
-        "reference_weapon": false,
+        "reference_weapon": {
+            "Sword": [],
+            "Lance": [],
+            "Axe": [],
+            "Staff": [],
+            "Bow": [],
+            "Dagger": [
+                "Command-Bomb"
+            ],
+            "Tome": {
+                "Red_Tome": [],
+                "Blue_Tome": [],
+                "Green_Tome": [],
+                "Colorless_Tome": [
+                    "Quietus Gullveig"
+                ]
+            },
+            "Breath": [],
+            "Beast": []
+        },
         "reference_skill": {
             "assist": [
                 "Improviso"
@@ -2204,6 +2265,7 @@
                 "Caltrop Dagger+",
                 "Candied Dagger",
                 "Clever Dagger+",
+                "Command-Bomb",
                 "Constant Dagger",
                 "Convoy Dagger",
                 "Courtly Fan+",
@@ -2429,7 +2491,9 @@
             ],
             "A": [],
             "B": [],
-            "C": [],
+            "C": [
+                "Atk/Def Liberate"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -3133,7 +3197,9 @@
             ],
             "A": [],
             "B": [],
-            "C": [],
+            "C": [
+                "Mending Heart+"
+            ],
             "X": [],
             "S": [],
             "captain": []
@@ -3221,7 +3287,9 @@
                 "Astral Breath",
                 "Brutal Breath"
             ],
-            "Beast": []
+            "Beast": [
+                "World-Tree Tail"
+            ]
         },
         "reference_skill": {
             "assist": [
@@ -3350,6 +3418,7 @@
             "Breath": [
                 "Dew Dragonstone",
                 "Duskstone",
+                "Silent Power",
                 "Vallastone"
             ],
             "Beast": []
@@ -3396,7 +3465,8 @@
             },
             "Breath": [],
             "Beast": [
-                "Chiseled Antler"
+                "Chiseled Antler",
+                "World-Tree Tail"
             ]
         },
         "reference_skill": {
@@ -3563,6 +3633,7 @@
             ],
             "special": [],
             "A": [
+                "Pure Obsession",
                 "Sacae's Decree"
             ],
             "B": [
@@ -3680,6 +3751,7 @@
             "Tome": {
                 "Red_Tome": [
                     "\u00dej\u00e1lfi",
+                    "Alv\u00edg",
                     "Retainer's Report"
                 ],
                 "Blue_Tome": [
@@ -3717,7 +3789,9 @@
             "assist": [
                 "Fate Unchanged..."
             ],
-            "special": [],
+            "special": [
+                "Time Is Light+"
+            ],
             "A": [
                 "Heaven's Stead",
                 "Heaven's Stead N",
@@ -3751,6 +3825,8 @@
                 "A/R Crux: Ploy",
                 "S/D Crux: Ploy",
                 "S/R Crux: Ploy",
+                "S/D Crux: Con",
+                "S/R Crux: Con",
                 "Truly Inspired",
                 "Black Fang Bond",
                 "Covetous One",
@@ -4199,7 +4275,9 @@
         "icon": "fringebonus",
         "reference_weapon": {
             "Sword": [],
-            "Lance": [],
+            "Lance": [
+                "Hirsute Lance"
+            ],
             "Axe": [
                 "Brash Axe"
             ],
@@ -4295,7 +4373,8 @@
                 "Assured Rebirth+",
                 "Chaos Torrent",
                 "Glacial Seal",
-                "Ice Prince's Seal"
+                "Ice Prince's Seal",
+                "Mounted Push"
             ],
             "C": [],
             "X": [],
@@ -4993,7 +5072,9 @@
             "Sword": [
                 "Final Sword"
             ],
-            "Lance": [],
+            "Lance": [
+                "Hirsute Lance"
+            ],
             "Axe": [],
             "Staff": [
                 "Arcane Latona"
@@ -5498,6 +5579,7 @@
             ],
             "special": [],
             "A": [
+                "Silver Maiden",
                 "Swift Slice II"
             ],
             "B": [
@@ -6104,6 +6186,7 @@
             "B": [
                 "Sudden Panic 3",
                 "According to Plan",
+                "Fight and Flight",
                 "I Remember...",
                 "Mounting Fear",
                 "Prescience II",
@@ -6278,6 +6361,7 @@
                 "Zephyr Bow"
             ],
             "Dagger": [
+                "Command-Bomb",
                 "Dreamflake",
                 "Gainful Dagger+",
                 "Levin Dagger",
@@ -6285,6 +6369,7 @@
             ],
             "Tome": {
                 "Red_Tome": [
+                    "Alv\u00edg",
                     "Aversa's Night",
                     "Banshee \u0398",
                     "Bouncin' Ball",
@@ -6344,7 +6429,8 @@
             ],
             "special": [
                 "Great Sacrifice",
-                "Logic"
+                "Logic",
+                "Time Is Light+"
             ],
             "A": [
                 "Sly Swift Sparrow",
@@ -6358,6 +6444,7 @@
                 "Def/Res Catch 4",
                 "Beyond Reason",
                 "Final Say",
+                "Pure Obsession",
                 "Slate Illusion"
             ],
             "B": [
@@ -6462,10 +6549,13 @@
         "reference_skill": {
             "assist": [],
             "special": [],
-            "A": [],
+            "A": [
+                "Silver Maiden"
+            ],
             "B": [
                 "Pegasus Rift",
                 "Wyvern Rift",
+                "Pegasus Skies",
                 "Blue-Sky Wyvern",
                 "Blue Lion Reign"
             ],
@@ -6609,6 +6699,7 @@
             "B": [
                 "No Risk...",
                 "Patience",
+                "Pegasus Skies",
                 "Blue-Sky Wyvern",
                 "Potent Disarm",
                 "Potent Assault",
@@ -6670,7 +6761,9 @@
                 "Bride of Life"
             ],
             "Tome": {
-                "Red_Tome": [],
+                "Red_Tome": [
+                    "Alv\u00edg"
+                ],
                 "Blue_Tome": [
                     "Gift of Love",
                     "Instructor's Opus",
@@ -6701,6 +6794,7 @@
                 "Sei\u00f0r Cannon",
                 "Sirius Pulse",
                 "Storm's Eye",
+                "Time Is Light+",
                 "True Bane"
             ],
             "A": [
@@ -6727,6 +6821,7 @@
                 "Budding Flower",
                 "Homeland Vow",
                 "I'll Soar Higher!",
+                "Mending Heart+",
                 "New Way II",
                 "Philanderer"
             ],
@@ -7471,6 +7566,7 @@
             "Dagger": [],
             "Tome": {
                 "Red_Tome": [
+                    "Alv\u00edg",
                     "Arcane 12's Writ",
                     "Fiery Bolganone",
                     "Royal Treats"
@@ -7491,7 +7587,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Time Is Light+"
+            ],
             "A": [],
             "B": [
                 "Spd/Res Shackle",
@@ -7604,6 +7702,7 @@
                 "Full Light & Dark",
                 "Holy Soul of Zofia",
                 "I Remember...",
+                "Mounted Push",
                 "Prescience II",
                 "Pure Storm",
                 "Spoil Rotten",
@@ -7839,7 +7938,8 @@
                 "Slate Illusion"
             ],
             "B": [
-                "Festive Report"
+                "Festive Report",
+                "Fight and Flight"
             ],
             "C": [],
             "X": [],
@@ -7963,7 +8063,9 @@
             "Axe": [],
             "Staff": [],
             "Bow": [],
-            "Dagger": [],
+            "Dagger": [
+                "Command-Bomb"
+            ],
             "Tome": {
                 "Red_Tome": [],
                 "Blue_Tome": [],
@@ -8031,6 +8133,7 @@
             ],
             "Tome": {
                 "Red_Tome": [
+                    "Alv\u00edg",
                     "Arcane 12's Writ",
                     "Royal Treats"
                 ],
@@ -8050,7 +8153,9 @@
         },
         "reference_skill": {
             "assist": [],
-            "special": [],
+            "special": [
+                "Time Is Light+"
+            ],
             "A": [],
             "B": [
                 "Spd/Res Shackle",
@@ -8147,7 +8252,8 @@
             },
             "Breath": [
                 "Awakening Voice",
-                "Oracle's Breath"
+                "Oracle's Breath",
+                "Silent Power"
             ],
             "Beast": [
                 "Fiery Fang",
@@ -8304,7 +8410,8 @@
                 ]
             },
             "Breath": [
-                "Fell Surge"
+                "Fell Surge",
+                "Silent Power"
             ],
             "Beast": [
                 "Gautier Stone"
@@ -8385,6 +8492,7 @@
                 "Blue_Tome": [],
                 "Green_Tome": [],
                 "Colorless_Tome": [
+                    "Quietus Gullveig",
                     "Scrolls of Time"
                 ]
             },
@@ -8397,7 +8505,8 @@
             ],
             "special": [
                 "Future and Past",
-                "Light Is Time"
+                "Light Is Time",
+                "Time Is Light+"
             ],
             "A": [],
             "B": [
@@ -8737,7 +8846,9 @@
                 "Quadruple Hit",
                 "Sei\u00f0r Cannon"
             ],
-            "A": [],
+            "A": [
+                "Silver Maiden"
+            ],
             "B": [],
             "C": [
                 "Truly Inspired",

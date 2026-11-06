@@ -7382,7 +7382,28 @@
       "Ronan: Villager of Iz",
       "Villager of Iz",
       "Base Ronan",
-      "Normal Ronan"
+      "Normal Ronan",
+      "Lone Ninja",
+      "Io: Lone Ninja",
+      "Ninja Io",
+      "N Io",
+      "Ninja Rearmed Io",
+      "N Rearmed Io",
+      "Rearmed Ninja Io",
+      "Rearmed N Io",
+      "Ninja Rearm Io",
+      "N Rearm Io",
+      "Rearm Ninja Io",
+      "Rearm N Io",
+      "Ninja R Io",
+      "N R Io",
+      "R Ninja Io",
+      "R N Io",
+      "Ninja Arm Io",
+      "N Arm Io",
+      "Arm Ninja Io",
+      "Arm N Io",
+      "io"
     ],
     "HARD_ALT_NAME": [
       "ronan",
@@ -7390,9 +7411,31 @@
       "ronan1",
       "Villager of Iz",
       "Base Ronan",
-      "Normal Ronan"
+      "Normal Ronan",
+      "Lone Ninja",
+      "Io: Lone Ninja",
+      "Ninja Io",
+      "N Io",
+      "Ninja Rearmed Io",
+      "N Rearmed Io",
+      "Rearmed Ninja Io",
+      "Rearmed N Io",
+      "Ninja Rearm Io",
+      "N Rearm Io",
+      "Rearm Ninja Io",
+      "Rearm N Io",
+      "Ninja R Io",
+      "N R Io",
+      "R Ninja Io",
+      "R N Io",
+      "Ninja Arm Io",
+      "N Arm Io",
+      "Arm Ninja Io",
+      "Arm N Io",
+      "io"
     ],
     "heroes": {
+      "io": "<:Green_Axe:1317239517136031897>Ninja Rearmed Io",
       "ronan": "<:Blue_Bow:1317239347577356328>Ronan"
     },
     "name": "Clifford Chapin"
@@ -16682,7 +16725,24 @@
       "Harmonic Plumeria",
       "Harmonized Plumeria",
       "H Plumeria",
-      "plumeria4"
+      "plumeria4",
+      "Covert Command",
+      "Anna: Covert Command",
+      "Ninja Anna",
+      "N Anna",
+      "Aided Ninja Alear",
+      "A Ninja Alear",
+      "Aide Ninja Alear",
+      "Aided N Anna",
+      "A N Anna",
+      "Aide N Anna",
+      "Ninja Aided Anna",
+      "Ninja A Anna",
+      "Ninja Aide Anna",
+      "N Aided Anna",
+      "N A Anna",
+      "N Aide Anna",
+      "anna6"
     ],
     "HARD_ALT_NAME": [
       "anna",
@@ -16786,13 +16846,31 @@
       "Harmonic Plumeria",
       "Harmonized Plumeria",
       "H Plumeria",
-      "plumeria4"
+      "plumeria4",
+      "Covert Command",
+      "Anna: Covert Command",
+      "Ninja Anna",
+      "N Anna",
+      "Aided Ninja Alear",
+      "A Ninja Alear",
+      "Aide Ninja Alear",
+      "Aided N Anna",
+      "A N Anna",
+      "Aide N Anna",
+      "Ninja Aided Anna",
+      "Ninja A Anna",
+      "Ninja Aide Anna",
+      "N Aided Anna",
+      "N A Anna",
+      "N Aide Anna",
+      "anna6"
     ],
     "heroes": {
       "anna": "<:Green_Axe:1317239517136031897>Anna",
       "anna2": "<:Red_Bow:1317239680571543592>New Year Anna",
       "anna3": "<:Blue_Lance:1317239378208096338>Merchant Anna",
       "anna4": "<:Green_Bow:1317239539936268340>Bridal Anna",
+      "anna6": "<:Colorless_Dagger:1317239418943438869>Ninja Aided Anna",
       "hana": "<:Red_Sword:1317239717707911188>Hana",
       "hanaR": "<:Red_Sword:1317239717707911188>Hana (Resplendent)",
       "hana2": "<:Green_Axe:1317239517136031897>Ninja Hana",
@@ -18480,7 +18558,11 @@
       "Resplendent Legendary Alm",
       "Resp Legendary Alm",
       "R Legendary Alm",
-      "Legendary Alm (Resplendent)"
+      "Legendary Alm (Resplendent)",
+      "Resplendent Brave Gatekeeper",
+      "Resp Brave Gatekeeper",
+      "R Brave Gatekeeper",
+      "Brave Gatekeeper (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "asbel",
@@ -18546,7 +18628,11 @@
       "Resplendent Legendary Alm",
       "Resp Legendary Alm",
       "R Legendary Alm",
-      "Legendary Alm (Resplendent)"
+      "Legendary Alm (Resplendent)",
+      "Resplendent Brave Gatekeeper",
+      "Resp Brave Gatekeeper",
+      "R Brave Gatekeeper",
+      "Brave Gatekeeper (Resplendent)"
     ],
     "heroes": {
       "alm2R": "<:Colorless_Bow:1317239404204654703>Legendary Alm (Resplendent)",
@@ -18554,6 +18640,7 @@
       "alm5": "<:Colorless_Bow:1317239404204654703>Attuned Alm",
       "alm6": "<:Red_Sword:1317239717707911188>Harmonic Brave Alm",
       "asbel": "<:Green_Tome:1317239575352971396>Asbel",
+      "gatekeeperR": "<:Green_Tome:1317239575352971396>Brave Gatekeeper (Resplendent)",
       "gatekeeper2": "<:Colorless_Tome:1317239438602145842>Winter Gatekeeper",
       "soren6": "<:Blue_Tome:1317239386491977749>Rearmed Soren"
     },
@@ -28410,7 +28497,12 @@
       "Ivy: Bewitching Ruler",
       "Fallen Ivy",
       "F Ivy",
-      "ivy4"
+      "ivy4",
+      "Icy Insight",
+      "Ivy: Icy Insight",
+      "Ninja Ivy",
+      "N Ivy",
+      "ivy5"
     ],
     "HARD_ALT_NAME": [
       "ivy2",
@@ -28455,7 +28547,12 @@
       "Ivy: Bewitching Ruler",
       "Fallen Ivy",
       "F Ivy",
-      "ivy4"
+      "ivy4",
+      "Icy Insight",
+      "Ivy: Icy Insight",
+      "Ninja Ivy",
+      "N Ivy",
+      "ivy5"
     ],
     "heroes": {
       "farina": "<:Blue_Lance:1317239378208096338>Farina",
@@ -28463,6 +28560,7 @@
       "ivy2": "<:Green_Tome:1317239575352971396>Summer Ivy",
       "ivy3": "<:Red_Tome:1317239730714316800>Winter Ivy",
       "ivy4": "<:Colorless_Tome:1317239438602145842>Fallen Ivy",
+      "ivy5": "<:Blue_Tome:1317239386491977749>Ninja Ivy",
       "jill": "<:Green_Axe:1317239517136031897>Jill"
     },
     "name": "Reba Buhr"
@@ -37316,6 +37414,7 @@
   },
   "brittanylauda": {
     "heroes": {
+      "alexandra": "<:Red_Sword:1317239717707911188>Ninja Alexandra",
       "kurt": "<:Red_Tome:1317239730714316800>Halloween Kurt"
     },
     "name": "Brittany Lauda",
@@ -37328,7 +37427,16 @@
       "Spooky Kurt",
       "Duo Kurt",
       "D Kurt",
-      "kurt"
+      "kurt",
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
     ],
     "HARD_ALT_NAME": [
       "Light Seekers",
@@ -37339,7 +37447,16 @@
       "Spooky Kurt",
       "Duo Kurt",
       "D Kurt",
-      "kurt"
+      "kurt",
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
     ]
   },
   "kevinandrewrivera": {
@@ -37357,15 +37474,41 @@
       "janaff"
     ],
     "HARD_ALT_NAME": [
-      "Light Seekers",
-      "Kurt: Light Seekers",
-      "Halloween Kurt",
-      "Harvest Kurt",
-      "H Kurt",
-      "Spooky Kurt",
-      "Duo Kurt",
-      "D Kurt",
-      "kurt"
+      "Treat or Talon",
+      "Janaff: Treat or Talon",
+      "Halloween Janaff",
+      "Harvest Janaff",
+      "H Janaff",
+      "Spooky Janaff",
+      "janaff"
+    ]
+  },
+  "natalierose": {
+    "heroes": {
+      "alexandra": "<:Red_Sword:1317239717707911188>Ninja Alexandra"
+    },
+    "name": "Natalie Rose",
+    "ALT_NAME": [
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
+    ],
+    "HARD_ALT_NAME": [
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
     ]
   }
 }

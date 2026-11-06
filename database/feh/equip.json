@@ -29098,10 +29098,57 @@
     "refine": false
   },
   "brightmarehorn": {
-    "name": "Brightmare Horn",
+    "name": "Brightmare Horn (Unrefined)",
     "bonus": {
       "atk": 14,
       "spd": 3
+    },
+    "refine": "Brightmare Horn"
+  },
+  "brightmarehorneff": {
+    "name": "Brightmare Horn (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 14,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "brightmarehornatk": {
+    "name": "Brightmare Horn (Atk)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brightmarehornspd": {
+    "name": "Brightmare Horn (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brightmarehorndef": {
+    "name": "Brightmare Horn (Def)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "brightmarehornres": {
+    "name": "Brightmare Horn (Res)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -33282,10 +33329,57 @@
     "refine": false
   },
   "silentpower": {
-    "name": "Silent Power",
+    "name": "Silent Power (Unrefined)",
     "bonus": {
       "atk": 16,
       "spd": 3
+    },
+    "refine": "Silent Power"
+  },
+  "silentpowereff": {
+    "name": "Silent Power (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "silentpoweratk": {
+    "name": "Silent Power (Atk)",
+    "bonus": {
+      "atk": 18,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "silentpowerspd": {
+    "name": "Silent Power (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 6,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "silentpowerdef": {
+    "name": "Silent Power (Def)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "silentpowerres": {
+    "name": "Silent Power (Res)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -41064,8 +41158,52 @@
     "refine": false
   },
   "quietusgullveig": {
-    "name": "Quietus Gullveig",
-    "bonus": {},
+    "name": "Quietus Gullveig (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Quietus Gullveig"
+  },
+  "quietusgullveigeff": {
+    "name": "Quietus Gullveig (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "quietusgullveigatk": {
+    "name": "Quietus Gullveig (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "quietusgullveigspd": {
+    "name": "Quietus Gullveig (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "quietusgullveigdef": {
+    "name": "Quietus Gullveig (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "quietusgullveigres": {
+    "name": "Quietus Gullveig (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
     "refine": false
   },
   "incipitkvasir": {
@@ -41110,9 +41248,52 @@
   },
   "LEXICON": false,
   "worldtreetail": {
-    "name": "World-Tree Tail",
+    "name": "World-Tree Tail (Unrefined)",
     "bonus": {
       "atk": 14
+    },
+    "refine": "World-Tree Tail"
+  },
+  "worldtreetaileff": {
+    "name": "World-Tree Tail (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 14
+    },
+    "refine": false
+  },
+  "worldtreetailatk": {
+    "name": "World-Tree Tail (Atk)",
+    "bonus": {
+      "atk": 16,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "worldtreetailspd": {
+    "name": "World-Tree Tail (Spd)",
+    "bonus": {
+      "atk": 14,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "worldtreetaildef": {
+    "name": "World-Tree Tail (Def)",
+    "bonus": {
+      "atk": 14,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "worldtreetailres": {
+    "name": "World-Tree Tail (Res)",
+    "bonus": {
+      "atk": 14,
+      "res": 4,
+      "hp": 5
     },
     "refine": false
   },
@@ -49505,6 +49686,218 @@
     "name": "Brash Axe",
     "bonus": {
       "atk": 16
+    },
+    "refine": false
+  },
+  "stormdoctrine": {
+    "name": "Storm Doctrine (Unrefined)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": "Storm Doctrine"
+  },
+  "stormdoctrineeff": {
+    "name": "Storm Doctrine (Eff)",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "stormdoctrineatk": {
+    "name": "Storm Doctrine (Atk)",
+    "bonus": {
+      "hp": 2,
+      "atk": 15
+    },
+    "refine": false
+  },
+  "stormdoctrinespd": {
+    "name": "Storm Doctrine (Spd)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "spd": 2
+    },
+    "refine": false
+  },
+  "stormdoctrinedef": {
+    "name": "Storm Doctrine (Def)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "def": 3
+    },
+    "refine": false
+  },
+  "stormdoctrineres": {
+    "name": "Storm Doctrine (Res)",
+    "bonus": {
+      "hp": 2,
+      "atk": 14,
+      "res": 3
+    },
+    "refine": false
+  },
+  "learnerslance": {
+    "name": "Learner's Lance (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Learner's Lance"
+  },
+  "learnerslanceeff": {
+    "name": "Learner's Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "learnerslanceatk": {
+    "name": "Learner's Lance (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "learnerslancespd": {
+    "name": "Learner's Lance (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "learnerslancedef": {
+    "name": "Learner's Lance (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "learnerslanceres": {
+    "name": "Learner's Lance (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hirsutelance": {
+    "name": "Hirsute Lance (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Hirsute Lance"
+  },
+  "hirsutelanceeff": {
+    "name": "Hirsute Lance (Eff)",
+    "bonus": {
+      "hp": 3,
+      "atk": 16
+    },
+    "refine": false
+  },
+  "hirsutelanceatk": {
+    "name": "Hirsute Lance (Atk)",
+    "bonus": {
+      "atk": 18,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hirsutelancespd": {
+    "name": "Hirsute Lance (Spd)",
+    "bonus": {
+      "atk": 16,
+      "spd": 3,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hirsutelancedef": {
+    "name": "Hirsute Lance (Def)",
+    "bonus": {
+      "atk": 16,
+      "def": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "hirsutelanceres": {
+    "name": "Hirsute Lance (Res)",
+    "bonus": {
+      "atk": 16,
+      "res": 4,
+      "hp": 5
+    },
+    "refine": false
+  },
+  "wingedhilt": {
+    "name": "Winged Hilt",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": false
+  },
+  "arcaneninaxe": {
+    "name": "Arcane Nin-Axe (Unrefined)",
+    "bonus": {
+      "atk": 16
+    },
+    "refine": "Arcane Nin-Axe"
+  },
+  "arcaneninaxeatk": {
+    "name": "Arcane Nin-Axe (Atk)",
+    "bonus": {
+      "hp": 5,
+      "atk": 18
+    },
+    "refine": false
+  },
+  "arcaneninaxespd": {
+    "name": "Arcane Nin-Axe (Spd)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "spd": 3
+    },
+    "refine": false
+  },
+  "arcaneninaxedef": {
+    "name": "Arcane Nin-Axe (Def)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "def": 4
+    },
+    "refine": false
+  },
+  "arcaneninaxeres": {
+    "name": "Arcane Nin-Axe (Res)",
+    "bonus": {
+      "hp": 5,
+      "atk": 16,
+      "res": 4
+    },
+    "refine": false
+  },
+  "commandbomb": {
+    "name": "Command-Bomb",
+    "bonus": {
+      "atk": 14
+    },
+    "refine": false
+  },
+  "fullbloomscroll": {
+    "name": "Full-Bloom Scroll",
+    "bonus": {
+      "atk": 14
     },
     "refine": false
   }

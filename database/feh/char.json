@@ -152,7 +152,8 @@
       "anna2",
       "anna3",
       "anna4",
-      "anna5"
+      "anna5",
+      "anna6"
     ],
     "prf": {
       "": "noatuneff",
@@ -87068,7 +87069,9 @@
     "reference": [
       "anna",
       "anna3",
-      "anna4"
+      "anna4",
+      "anna5",
+      "anna6"
     ],
     "prf": {
       "": "fortunebowspd",
@@ -97381,7 +97384,8 @@
       "anna2",
       "anna3",
       "anna4",
-      "anna5"
+      "anna5",
+      "anna6"
     ],
     "prf": {
       "": "apotheosisspeareff",
@@ -125229,12 +125233,12 @@
       "freyja3"
     ],
     "prf": {
-      "": "brightmarehorn",
-      "eff": "brightmarehorn",
-      "atk": "brightmarehorn",
-      "spd": "brightmarehorn",
-      "def": "brightmarehorn",
-      "res": "brightmarehorn"
+      "": "brightmarehorneff",
+      "eff": "brightmarehorneff",
+      "atk": "brightmarehornatk",
+      "spd": "brightmarehornspd",
+      "def": "brightmarehorndef",
+      "res": "brightmarehornres"
     }
   },
   "ogma2": {
@@ -127704,15 +127708,20 @@
     "pool": "special",
     "internal_id": "\u7dcf\u9078\u6319\u9580\u756a",
     "voice": "Kyle McCarley",
-    "resplendent": false,
-    "resplendent_voice": false,
+    "resplendent": "motsutsu / Trys Inc.",
+    "resplendent_voice": "Kylen Deporter",
     "images": {
       "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Gatekeeper_Nothing_to_Report_Face.webp/revision/latest/",
       "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Gatekeeper_Nothing_to_Report_BtlFace.webp/revision/latest/",
       "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Gatekeeper_Nothing_to_Report_BtlFace_C.webp/revision/latest/",
       "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Gatekeeper_Nothing_to_Report_BtlFace_D.webp/revision/latest/"
     },
-    "resplendent_images": false,
+    "resplendent_images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Gatekeeper_Nothing_to_Report_Resplendent_Face.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Gatekeeper_Nothing_to_Report_Resplendent_BtlFace.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Gatekeeper_Nothing_to_Report_Resplendent_BtlFace_C.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Gatekeeper_Nothing_to_Report_Resplendent_BtlFace_D.webp/revision/latest/"
+    },
     "RANDOM_POOL": [
       "fodlan"
     ],
@@ -127771,13 +127780,46 @@
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
-      "resplendent": false
+      "resplendent": {
+        "Castle Hall": false,
+        "Visit": false,
+        "Level": false,
+        "Summon": false,
+        "Learn Skill": false,
+        "Confession": false,
+        "Special": [
+          "I'll open the gate!",
+          "You're dubious!",
+          "You won't get past!",
+          "I'll fend you off!"
+        ],
+        "Status": [
+          "-",
+          "Like my new outfit? I guess I have you to thank.",
+          "Whoa! Is this a test? So...did I pass?",
+          "It's an honor to be dressed the same as everyone else!",
+          "The castle in Askr is huge. Defending it is quite the challenge.",
+          "The people here are so full of personality. I could never grow tired of keeping watch over them.",
+          "Askr's gates may be open, but still, no one suspicious gets past me!",
+          "Not to worry, the Order of Heroes is perfectly protected today."
+        ],
+        "Map Select": [
+          "Acknowledged.",
+          "Who goes there?",
+          "Reporting."
+        ],
+        "Conversation": false,
+        "Duo Skill": false,
+        "Back Unit Supporting": false
+      }
     },
     "short_name": "Brave Gatekeeper",
     "SEARCH_NAME": "Brave Gatekeeper",
     "DISPLAY_NAME": "<:Green_Tome:1317239575352971396>Brave Gatekeeper",
     "alt": true,
-    "reference": [],
+    "reference": [
+      "gatekeeper2"
+    ],
     "prf": {
       "": "charginghorneff",
       "eff": "charginghorneff",
@@ -143828,7 +143870,8 @@
       "Iron Lance": "1",
       "Steel Lance": "2",
       "Allied Lance": "3",
-      "Allied Lance+": "5"
+      "Allied Lance+": "5",
+      "Learner's Lance": "5"
     },
     "assist": {},
     "special": {
@@ -143941,12 +143984,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "alliedlancespd",
-      "eff": "alliedlancespd",
-      "atk": "alliedlanceatk",
-      "spd": "alliedlancespd",
-      "def": "alliedlancedef",
-      "res": "alliedlanceres"
+      "": "learnerslanceeff",
+      "eff": "learnerslanceeff",
+      "atk": "learnerslanceatk",
+      "spd": "learnerslancespd",
+      "def": "learnerslancedef",
+      "res": "learnerslanceres"
     }
   },
   "salem": {
@@ -145643,7 +145686,8 @@
       "Wind": "1",
       "Elwind": "2",
       "Gronnvulture": "3",
-      "Gronnvulture+": "5"
+      "Gronnvulture+": "5",
+      "Storm Doctrine": "5"
     },
     "assist": {},
     "special": {
@@ -145792,12 +145836,12 @@
       "arthur"
     ],
     "prf": {
-      "": "gronnvulturespd",
-      "eff": "gronnvulturespd",
-      "atk": "gronnvultureatk",
-      "spd": "gronnvulturespd",
-      "def": "gronnvulturedef",
-      "res": "gronnvultureres"
+      "": "stormdoctrineeff",
+      "eff": "stormdoctrineeff",
+      "atk": "stormdoctrineatk",
+      "spd": "stormdoctrinespd",
+      "def": "stormdoctrinedef",
+      "res": "stormdoctrineres"
     }
   },
   "scathach": {
@@ -146664,12 +146708,12 @@
       "lilith"
     ],
     "prf": {
-      "": "silentpower",
-      "eff": "silentpower",
-      "atk": "silentpower",
-      "spd": "silentpower",
-      "def": "silentpower",
-      "res": "silentpower"
+      "": "silentpowereff",
+      "eff": "silentpowereff",
+      "atk": "silentpoweratk",
+      "spd": "silentpowerspd",
+      "def": "silentpowerdef",
+      "res": "silentpowerres"
     }
   },
   "gustav2": {
@@ -158735,7 +158779,8 @@
       "Iron Lance": "1",
       "Steel Lance": "2",
       "Defier's Lance": "3",
-      "Defier's Lance+": "5"
+      "Defier's Lance+": "5",
+      "Hirsute Lance": "5"
     },
     "assist": {},
     "special": {
@@ -158847,12 +158892,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "defierslancedef",
-      "eff": "defierslancedef",
-      "atk": "defierslanceatk",
-      "spd": "defierslancespd",
-      "def": "defierslancedef",
-      "res": "defierslanceres"
+      "": "hirsutelanceeff",
+      "eff": "hirsutelanceeff",
+      "atk": "hirsutelanceatk",
+      "spd": "hirsutelancespd",
+      "def": "hirsutelancedef",
+      "res": "hirsutelanceres"
     }
   },
   "arval": {
@@ -174158,7 +174203,9 @@
     "reference": [
       "anna",
       "anna2",
-      "anna3"
+      "anna3",
+      "anna5",
+      "anna6"
     ],
     "prf": {
       "": "heartbrokerbow",
@@ -177652,7 +177699,8 @@
     "reference": [
       "ivy",
       "ivy3",
-      "ivy4"
+      "ivy4",
+      "ivy5"
     ],
     "prf": {
       "": "divinedraught",
@@ -183742,7 +183790,7 @@
       "anna2",
       "anna3",
       "anna4",
-      "anna5"
+      "anna6"
     ],
     "prf": {
       "": "paydaypouch",
@@ -185954,7 +186002,7 @@
     ],
     "gender": "M",
     "rarity": 5,
-    "pool": "seasonal",
+    "pool": "seasonalgrail",
     "internal_id": "PID_\u5fcd\u8005\u30bc\u30eb\u30ae\u30a6\u30b9",
     "voice": "Robert Clotworthy",
     "resplendent": false,
@@ -187610,7 +187658,8 @@
     "special": {
       "Retribution": "3",
       "Vengeance": "4",
-      "Time Is Light": "5"
+      "Time Is Light": "5",
+      "Time Is Light+": "5"
     },
     "passive": {
       "A": {
@@ -187629,7 +187678,11 @@
         "Res Smoke 1": "2",
         "Res Smoke 2": "3",
         "Res Smoke 3": "4",
-        "Def/Res Smoke 3": "5"
+        "Def/Res Smoke 3": "5",
+        "Atk/Spd Gap 1": "2",
+        "Atk/Spd Gap 2": "3",
+        "Atk/Spd Gap 3": "4",
+        "Atk/Spd Liberate": "5"
       },
       "X": {}
     },
@@ -187731,12 +187784,12 @@
       "gullveig5"
     ],
     "prf": {
-      "": "quietusgullveig",
-      "eff": "quietusgullveig",
-      "atk": "quietusgullveig",
-      "spd": "quietusgullveig",
-      "def": "quietusgullveig",
-      "res": "quietusgullveig"
+      "": "quietusgullveigeff",
+      "eff": "quietusgullveigeff",
+      "atk": "quietusgullveigatk",
+      "spd": "quietusgullveigspd",
+      "def": "quietusgullveigdef",
+      "res": "quietusgullveigres"
     },
     "blessing": "Anima",
     "boost": {
@@ -187984,10 +188037,15 @@
         "Beast Agility 1": "2",
         "Beast Agility 2": "3",
         "Beast Agility 3": "4",
-        "Beast Agility 4": "5"
+        "Beast Agility 4": "5",
+        "Momentum 1": "2",
+        "Momentum 2": "3",
+        "Momentum 3": "4",
+        "Azure Impetus": "5"
       },
       "C": {
-        "Mending Heart": "5"
+        "Mending Heart": "5",
+        "Mending Heart+": "5"
       },
       "X": {}
     },
@@ -188097,12 +188155,12 @@
     "alt": false,
     "reference": [],
     "prf": {
-      "": "worldtreetail",
-      "eff": "worldtreetail",
-      "atk": "worldtreetail",
-      "spd": "worldtreetail",
-      "def": "worldtreetail",
-      "res": "worldtreetail"
+      "": "worldtreetaileff",
+      "eff": "worldtreetaileff",
+      "atk": "worldtreetailatk",
+      "spd": "worldtreetailspd",
+      "def": "worldtreetaildef",
+      "res": "worldtreetailres"
     },
     "blessing": "Astra",
     "boost": {
@@ -194165,7 +194223,8 @@
     "reference": [
       "ivy2",
       "ivy3",
-      "ivy4"
+      "ivy4",
+      "ivy5"
     ],
     "prf": {
       "": "iceboundtome",
@@ -241583,7 +241642,8 @@
     "reference": [
       "ivy",
       "ivy2",
-      "ivy4"
+      "ivy4",
+      "ivy5"
     ],
     "prf": {
       "": "cozycandles",
@@ -251469,7 +251529,8 @@
     "reference": [
       "ivy",
       "ivy2",
-      "ivy3"
+      "ivy3",
+      "ivy5"
     ],
     "prf": {
       "": "felltome",
@@ -261351,12 +261412,12 @@
     "alt": true,
     "reference": [],
     "prf": {
-      "": "arcanelantern",
-      "eff": "arcanelantern",
-      "atk": "arcanelantern",
-      "spd": "arcanelantern",
-      "def": "arcanelantern",
-      "res": "arcanelantern"
+      "": "arcanelanternspd",
+      "eff": "arcanelanternspd",
+      "atk": "arcanelanternatk",
+      "spd": "arcanelanternspd",
+      "def": "arcanelanterndef",
+      "res": "arcanelanternres"
     }
   },
   "goldmary2": {
@@ -262530,6 +262591,776 @@
       "spd": "brashaxe",
       "def": "brashaxe",
       "res": "brashaxe"
+    }
+  },
+  "alexandra": {
+    "name": "Alexandra",
+    "title": "Sterling/Silver",
+    "description": "Two wing soldiers, one of the Silver Knights of Tellus, and another who strives to set a shining example; they soar as ninja. Appear in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "GomashioPonzu (\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162)",
+    "move": "Flying",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": "225",
+    "id": "1429",
+    "type": "duo",
+    "version": "10.11",
+    "duo": "Grants Special cooldown count-4 to unit, grants another action to unit, and if Canto has already been triggered, re-enables Canto.",
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 16,
+      "atk": 11,
+      "spd": 11,
+      "def": 5,
+      "res": 14
+    },
+    "growth": {
+      "hp": 45,
+      "atk": 80,
+      "spd": 90,
+      "def": 50,
+      "res": 75
+    },
+    "superboon": [
+      "hp",
+      "spd"
+    ],
+    "superbane": [
+      "def",
+      "res"
+    ],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Silver Sword": "3",
+      "Winged Hilt": "5" 
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Wind Edge": "5"
+    },
+    "passive": {
+      "A": {
+        "Silver Maiden": "5"
+      },
+      "B": {
+        "Flow Feather 1": "2",
+        "Flow Feather 2": "3",
+        "Flow Feather 3": "4",
+        "Pegasus Skies": "5"
+      },
+      "C": {
+        "Spd/Def Rein 1": "2",
+        "Spd/Def Rein 2": "3",
+        "Spd/Def Rein 3": "4",
+        "S/D Crux: Con": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Alexandra_SterlingSilver_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Alexandra_SterlingSilver_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Alexandra_SterlingSilver_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Alexandra_SterlingSilver_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
+    ],
+    "HARD_ALT_NAME": [
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u6bd4\u7ffc\u30a2\u30ec\u30ad\u30b5\u30f3\u30c9\u30e9",
+    "voice": "Natalie Rose + Brittany Lauda",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "**Alexandra:** Hoshidan pegasi are so docile and obedient. They make my beloved steed seem so...free-spirited.",
+        "**Catania:** A ninja risks their very life for their master. Likewise, I seek not glory, but a lord worthy of my service.",
+        "**Alexandra:** If I had been a skilled spy as a youth, would I have been able to foil my uncle's schemes sooner?",
+        "**Catania:** Might you consider training with us? I would be more than happy to instruct you in my sterling shuriken technique.",
+        "**Alexandra:** The ninja techniques I've learned thus far should aid me in forming new tactics once I return to the Knights."
+      ],
+      "Visit": [
+        "**Alexandra:** Catania and I are here to present a small token of appreciation, courtesy of [F]."
+      ],
+      "Level": [
+        "**Alexandra:** An inexperienced ninja though I may be, I would be delighted if my skills proved to be of use to everyone!",
+        "**Catania:** To be a sterling ninja is to hone one's blade with quiet confidence.",
+        "**Alexandra:** I-I'm sorry... It seems I devoted myself a bit too wholeheartedly to the idea of stealth."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "We are Alexandra and Catania, hailing from the land of Dagda. Rest assured, we shall fulfill our secret ninja duties."
+      ],
+      "Learn Skill": [
+        "**Alexandra:** Thank you very much! Wait, how would a ninja thank their benefactor? \"I am much obliged,\" perhaps?"
+      ],
+      "Confession": [
+        "**Alexandra:** The ninja festival is certainly a delight, isn't it? You know, Catania, I wanted to say...\nI very genuinely appreciate how you're always looking out for me.\n**Catania:** My, what sudden sincerity. But I am the one who must be grateful. In you, I enjoy a brilliant, reliable companion.\n**Alexandra:** At first, I was disheartened to find myself in an unknown land, wearing unfamiliar attire, learning new tactics...\nBut the way you conduct yourself, your spirited approach, the way you refuse to be intimidated by anything...\nI almost feel as though my partner Bucephalus is by my side again. That's been a true comfort to me.\n**Catania:** Oh, Alexandra...\nHold a moment... \"Spirited\"? Bucephalus... Are you suggesting that I remind you of your pegasus?!\n**Alexandra:** Oh, uh... Never mind that! What matters is that you're a real source of strength for me!"
+      ],
+      "Special": [
+        "**Duo:** Let us commence!",
+        "**Duo:** Give us...your life!",
+        "**Alexandra:** Silver justice!",
+        "**Catania:** Sterling ninja!"
+      ],
+      "Status": [
+        "-",
+        "\"I'm kind of nervous. Why is a pegasus knight like me at a ninja festival?\" \"Someone of sterling skill such as yours should be unfazed by any situation!\""
+      ],
+      "Map Select": [
+        "Acknowledged.",
+        "Sterling Silver Slash!",
+        "Oh, a secret order?"
+      ],
+      "Conversation": [
+        "**Alexandra:** This ninja outfit feels...odd. What do you think, Catania? Do I look strange dressed this way?",
+        "**Catania:** No, not at all! If anything, our outfits complement one another. Embrace your confidence, and find happiness!",
+        "**Alexandra:** Thank you for that. It makes me feel better.",
+        "**Catania:** I am also adjusting. Even someone with my sterling skills must practice to master new ninja techniques.",
+        "Back home, I always wanted to show off my abilities in battle. Alas, a ninja is supposed to remain concealed.",
+        "**Alexandra:** I wish Bucephalus could have joined me here. He's my pegasus, and I'm feeling a bit lonely without him.",
+        "**Catania:** The pegasus you are astride is from Hoshido. You have one of your own where you are from?",
+        "**Alexandra:** Yes! He'll be cranky I left so quickly, so I'm going to take him a treat of some ration balls.",
+        "**Catania:** Uh, wh-what...are ration balls?",
+        "**Alexandra:** They're a compact ball of rice and seeds, favored by ninja. Apparently, they keep you full for half a day.",
+        "Bucephalus loves to eat. I'm hoping a new treat will make up for my being gone.",
+        "**Catania:** Half a day? Those could be useful if your food budget were stretched too thin...",
+        "**Alexandra:** Catania? Is something wrong?",
+        "**Catania:** Oh! I was thinking such rations would be useful in wartime. As you know, I am still searching for a lord to serve.",
+        "Since I do not belong to a knightly order as you do, I sometimes deal with supply shortages.",
+        "**Alexandra:** What a noble idea, stretching limited assets for maximum usefulness.",
+        "Oh, Catania! I hope you'll share all of your sterling habits with me during this festival!"
+      ],
+      "Duo Skill": [
+        "\"See the fruits...\" \"Of our training!\"",
+        "\"Fly high...\" \"On victory's winds!\""
+      ],
+      "Back Unit Supporting": [
+        "Now we shine!",
+        "Take it away, Alexandra!"
+      ],
+      "resplendent": {}
+    },
+    "short_name": "Ninja Alexandra",
+    "SEARCH_NAME": "Ninja Alexandra",
+    "DISPLAY_NAME": "<:feh_duo:1317239462874578975><:Red_Sword:1317239717707911188>Ninja Alexandra",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "wingedhilt",
+      "eff": "wingedhilt",
+      "atk": "wingedhilt",
+      "spd": "wingedhilt",
+      "def": "wingedhilt",
+      "res": "wingedhilt"
+    }
+  },
+  "io": {
+    "name": "Io",
+    "title": "Lone Ninja",
+    "description": "A mercenary who was once a knight of Arago. Fights hard while seeking the ninja's path. Appears in Fire Emblem: Fortune's Weave.",
+    "origin": "Fortune's Weave",
+    "artist": "Makimura Shunsuke (\u30DE\u30AD\u30E0\u30E9\u30B7\u30E5\u30F3\u30B9\u30B1)",
+    "move": "Cavalry",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1430",
+    "type": "rearmed",
+    "version": "10.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 11,
+      "spd": 12,
+      "def": 11,
+      "res": 3
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 80,
+      "def": 85,
+      "res": 30
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "res"
+    ],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Arcane Nin-Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Shatter Slash": "5"
+    },
+    "passive": {
+      "A": {
+        "Blue Skies 1": "2",
+        "Blue Skies 2": "3",
+        "Blue Skies 3": "4",
+        "Divine Specter": "5"
+      },
+      "B": {
+        "Mounted Push": "5"
+      },
+      "C": {
+        "Atk/Def Gap 1": "2",
+        "Atk/Def Gap 2": "3",
+        "Atk/Def Gap 3": "4",
+        "Atk/Def Liberate": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Io_Lone_Ninja_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Io_Lone_Ninja_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Io_Lone_Ninja_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Io_Lone_Ninja_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Lone Ninja",
+      "Io: Lone Ninja",
+      "Ninja Io",
+      "N Io",
+      "Ninja Rearmed Io",
+      "N Rearmed Io",
+      "Rearmed Ninja Io",
+      "Rearmed N Io",
+      "Ninja Rearm Io",
+      "N Rearm Io",
+      "Rearm Ninja Io",
+      "Rearm N Io",
+      "Ninja R Io",
+      "N R Io",
+      "R Ninja Io",
+      "R N Io",
+      "Ninja Arm Io",
+      "N Arm Io",
+      "Arm Ninja Io",
+      "Arm N Io",
+      "io"
+    ],
+    "HARD_ALT_NAME": [
+      "Lone Ninja",
+      "Io: Lone Ninja",
+      "Ninja Io",
+      "N Io",
+      "Ninja Rearmed Io",
+      "N Rearmed Io",
+      "Rearmed Ninja Io",
+      "Rearmed N Io",
+      "Ninja Rearm Io",
+      "N Rearm Io",
+      "Rearm Ninja Io",
+      "Rearm N Io",
+      "Ninja R Io",
+      "N R Io",
+      "R Ninja Io",
+      "R N Io",
+      "Ninja Arm Io",
+      "N Arm Io",
+      "Arm Ninja Io",
+      "Arm N Io",
+      "io"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u9b54\u5668\u5fcd\u8005\u30a4\u30aa",
+    "voice": "Clifford Chapin",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "dagda"
+    ],
+    "chibi": [
+      "fe18"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "A true ninja moves unseen for the sake of a lord they trust... I hope to find such a lord one day.",
+        "I might have uncovered the corruption in Arago sooner had I been skilled in intelligence gathering from the start...",
+        "I hear ninja diets consist mostly of rice and fish, in the Hoshidan style. I've... never much cared for fish, however.",
+        "I want to bring back a gift for my beloved steed, Rocinan... Do you know of any ninja tools a horse might like?",
+        "In Dagda, I strove to become a knight of virtue. Maybe now I should set my sights on becoming the perfect ninja."
+      ],
+      "Visit": [
+        "I'm Io. I've brought a scroll for you, from [F]."
+      ],
+      "Level": [
+        "I've drawn closer to becoming the perfect ninja. I'm proud of that.",
+        "Ninja techniques are coming naturally to me. I'm more effective now.",
+        "Perhaps I haven't properly come to grips with these ninja tools just yet..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Io, reporting for duty. Now that I wear a ninja's garb, I will devote myself to missions in the shadows."
+      ],
+      "Learn Skill": [
+        "Thank you for your support. I can approach my task with a greater intensity now."
+      ],
+      "Confession": [
+        "You displayed remarkable leadership again today, [S].\nI'm impressed by how you respect each Hero's will\u2014not treating them as mere pieces on a game board.\nWere you in Dagda with a cause worth fighting for, one of peace... I would have gladly rallied behind you.\nBut your duty lies here, leading countless Heroes into battle. Our paths were never meant to converge.\nIt's a cruel irony... What I sought eluded me for so long, only for us to meet at a fleeting festival like this.\nAt the very least, while I remain a ninja... No, while I remain in this world, permit me to call you lord.\nI've become adept at covert missions, so while other Heroes bask in glory, I'll work in the shadows as your ninja."
+      ],
+      "Special": [
+        "I'll break through!",
+        "Nothing personal.",
+        "Let's keep this quiet.",
+        "Ninja perfection."
+      ],
+      "Status": [
+        "-",
+        "I should ask someone skilled with a similar weapon how to use it best.",
+        "Huh?! Oh, it's you. I thought it was a fly.",
+        "This gear is different from what I'm used to, but the headband is nice.",
+        "Rocinan got left behind, but I do intend to take a gift back to him.",
+        "A ninja strikes from the shadow at their lord's command. I wish to find a lord worthy of such devotion.",
+        "If it brings safety and happiness to the people, there is no mission I will refuse.",
+        "You think I need a ninja catchphrase? Perhaps something like \"Ninja Axe Surprise!\" maybe? No... I'll think of something."
+      ],
+      "Map Select": [
+        "Understood.",
+        "I will comply.",
+        "Let's clean up."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ninja Rearmed Io",
+    "SEARCH_NAME": "Ninja Rearmed Io",
+    "DISPLAY_NAME": "<:Green_Axe:1317239517136031897>Ninja Rearmed Io",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "arcaneninaxedef",
+      "eff": "arcaneninaxedef",
+      "atk": "arcaneninaxeatk",
+      "spd": "arcaneninaxespd",
+      "def": "arcaneninaxedef",
+      "res": "arcaneninaxeres"
+    }
+  },
+  "anna6": {
+    "name": "Anna",
+    "title": "Covert Command",
+    "description": "Commander of Askr's Order of Heroes. What gave her the idea to train ninja, none can say.",
+    "origin": "Heroes",
+    "artist": "Chiko (\u30c1\u30fc\u30b3)",
+    "move": "Infantry",
+    "weapon": "Dagger",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1431",
+    "type": "aided",
+    "version": "10.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 17,
+      "atk": 11,
+      "spd": 10,
+      "def": 8,
+      "res": 10
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 90,
+      "def": 30,
+      "res": 90
+    },
+    "superboon": [
+      "spd",
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Iron Dagger": "1",
+      "Steel Dagger": "2",
+      "Silver Dagger": "3",
+      "Command-Bomb": "5"
+    },
+    "assist": {},
+    "special": {
+      "Night Sky": "3",
+      "Astra": "4",
+      "Comet": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Prime 1": "2",
+        "Atk/Spd Prime 2": "3",
+        "Atk/Spd Prime 3": "4",
+        "Atk/Spd Clear": "5"
+      },
+      "B": {
+        "Fight and Flight": "5"
+      },
+      "C": {
+        "Lookout 1": "2",
+        "Lookout 2": "3",
+        "Lookout 3": "4",
+        "Active Lookout": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Anna_Covert_Command_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Anna_Covert_Command_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Anna_Covert_Command_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Anna_Covert_Command_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Covert Command",
+      "Anna: Covert Command",
+      "Ninja Anna",
+      "N Anna",
+      "Aided Ninja Alear",
+      "A Ninja Alear",
+      "Aide Ninja Alear",
+      "Aided N Anna",
+      "A N Anna",
+      "Aide N Anna",
+      "Ninja Aided Anna",
+      "Ninja A Anna",
+      "Ninja Aide Anna",
+      "N Aided Anna",
+      "N A Anna",
+      "N Aide Anna",
+      "anna6"
+    ],
+    "HARD_ALT_NAME": [
+      "Covert Command",
+      "Anna: Covert Command",
+      "Ninja Anna",
+      "N Anna",
+      "Aided Ninja Alear",
+      "A Ninja Alear",
+      "Aide Ninja Alear",
+      "Aided N Anna",
+      "A N Anna",
+      "Aide N Anna",
+      "Ninja Aided Anna",
+      "Ninja A Anna",
+      "Ninja Aide Anna",
+      "N Aided Anna",
+      "N A Anna",
+      "N Aide Anna",
+      "anna6"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u304a\u4f9b\u5fcd\u8005\u30a2\u30f3\u30ca",
+    "voice": "Karen Strassman",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": [
+      "heroes"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "Ninja techniques are perfect for stealthy situations. I feel like they will make the Order even more efficient!",
+        "Working for the Order is always my top priority! Don't look at me like that! It is!",
+        "Information gathering is important! Blending in and buying dango is also legitimate intelligence work, OK?",
+        "Hiding in the shadows while saying \"sneaky sneak\" is a lot of fun... I think I'm hooked. C'mon, try to hide too!",
+        "I hear there are ninja dogs! Do you want to become a ninja owl, Feh?"
+      ],
+      "Visit": [
+        "I've come to deliver a letter from a friend. Hand it over, Feh!"
+      ],
+      "Level": [
+        "This is an assassination technique used by ninja in Askr since ancient times! Sneaky sneak!",
+        "Feh, don't forget to pick up all the weapons everyone left on the ground!",
+        "Things just aren't going my way... I think it's time for me to disappear for now!"
+      ],
+      "Introduction": false,
+      "Summon": [
+        "I'm Anna, commander of the Order of Heroes! I want everyone to turn into ninja for some stealth training!"
+      ],
+      "Learn Skill": [
+        "I've just come up with a new ninjutsu! Maybe I'll try it out on you... Sneaky sneak!"
+      ],
+      "Confession": [
+        "Good job with your training, [S]!\nHow do I look as a ninja? Pretty authentic, right? Being a ninja isn't just a game, after all.\nInfiltrating and disrupting the enemy... This is the age of information warfare.\nWe must embrace ninja techniques like concealing ourselves in ceilings or throwing Feh as a distraction!\nPlus, I think this ninja thing can be big business!\nWe can hold a ninja training course that includes lodging, costume rentals, and...\nOh, if I can leave this in the hands of competent trainees, it would be perfectly profitable!\nUh, w-well, if our enemies heard about this business, they would think I'm only ever counting money...\nB-but in fact, the ninja class is just a cover for m-my true goal of bolstering the Order without them noticing!\nHuh? Our allies will get fed up with me before that? S-such is the fate of a shadow-lurking ninja!\nThat's all for today...time to vanish!"
+      ],
+      "Special": [
+        "Appraising pounce!",
+        "Come on, Feh!",
+        "All expenses paid!",
+        "I'll take that!"
+      ],
+      "Status": [
+        "-",
+        "Hello there. Your commander has arrived! And with Feh by my side.",
+        "*grunt* That's it! As Commander, I am depriving you of snacks.",
+        "It's a great surprise that I get to partake in this festival, and with Feh too.",
+        "Don't fly off too far, OK, Feh?",
+        "Ninja, huh... Eh, I'll figure it out!",
+        "Hm... I bet I can utilize these covert tactics to turn a sneaky profit.",
+        "While I'm participating in clandestine operations, maybe I'll look into your secrets... *chuckle* Just kidding!"
+      ],
+      "Map Select": [
+        "That's my summoner.",
+        "That way?",
+        "Sneaky sneak."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ninja Aided Anna",
+    "SEARCH_NAME": "Ninja Aided Anna",
+    "DISPLAY_NAME": "<:Colorless_Dagger:1317239418943438869>Ninja Aided Anna",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "anna",
+      "anna2",
+      "anna3",
+      "anna4",
+      "anna5"
+    ],
+    "prf": {
+      "": "commandbomb",
+      "eff": "commandbomb",
+      "atk": "commandbomb",
+      "spd": "commandbomb",
+      "def": "commandbomb",
+      "res": "commandbomb"
+    }
+  },
+  "ivy5": {
+    "name": "Ivy",
+    "title": "Icy Insight",
+    "description": "Crown princess of Elusia. Adores her stylish new outfit and devotes all her strength to her shadowy mission. Appears in Fire Emblem Engage.",
+    "origin": "Engage",
+    "artist": "Mai Okuma (\u5927\u718a\u307e\u3044)",
+    "move": "Flying",
+    "weapon": "Tome",
+    "color": "Blue",
+    "duel": false,
+    "id": "1432",
+    "type": false,
+    "version": "10.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 15,
+      "atk": 10,
+      "spd": 12,
+      "def": 3,
+      "res": 13
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 80,
+      "def": 25,
+      "res": 80
+    },
+    "superboon": [
+      "atk",
+      "def"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Thunder": "1",
+      "Elthunder": "2",
+      "Thoron": "3",
+      "Full-Bloom Scroll": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4",
+      "Logic": "5"
+    },
+    "passive": {
+      "A": {
+        "Pure Obsession": "5"
+      },
+      "B": {
+        "Spd/Res Snag 1": "2",
+        "Spd/Res Snag 2": "3",
+        "Spd/Res Snag 3": "4",
+        "S/R Detect Aerial": "5"
+      },
+      "C": {
+        "Spd/Res Rein 1": "2",
+        "Spd/Res Rein 2": "3",
+        "Spd/Res Rein 3": "4",
+        "S/R Crux: Con": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Ivy_Icy_Insight_Face.webp/revision/latest/",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Ivy_Icy_Insight_BtlFace_D.webp/revision/latest/",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Ivy_Icy_Insight_BtlFace_C.webp/revision/latest/",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Ivy_Icy_Insight_BtlFace.webp/revision/latest/"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Icy Insight",
+      "Ivy: Icy Insight",
+      "Ninja Ivy",
+      "N Ivy",
+      "ivy5"
+    ],
+    "HARD_ALT_NAME": [
+      "Icy Insight",
+      "Ivy: Icy Insight",
+      "Ninja Ivy",
+      "N Ivy",
+      "ivy5"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "seasonal",
+    "internal_id": "PID_\u5fcd\u8005\u30a2\u30a4\u30d3\u30fc",
+    "voice": "Reba Buhr",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elyos"
+    ],
+    "chibi": [
+      "fe17"
+    ],
+    "quotes": {
+      "Castle Hall": [
+        "This Hoshido-style garb is pleasant. It would suit the Divine Dragon...but the ninja work should be left to others.",
+        "Outfits like this would fit Kagetsu best, and shinobi work would suit Zelkov... but I must fulfill the role I was given.",
+        "You detected me? I'd expect no less from a commander of ninja. Could I approach even as you sleep? Hmm...",
+        "Does my headpiece intrigue you? It can also function as a shuriken if needed. Just one of my many tools...",
+        "I'm not naturally comfortable in the spotlight. But ninja operate in the shadows as a rule. It suits me."
+      ],
+      "Visit": [
+        "\"Ninja boom-boom.\" There, I said it. I am here to deliver a secret message from 【Friend】."
+      ],
+      "Level": [
+        "I must be blushing with delight... Not at all befitting of a shinobi. I need to learn a technique for disappearing.",
+        "I am pleased with this result, but I cannot express it outwardly. Ninja must keep their emotions hidden.",
+        "If I was detected, then this result is only natural..."
+      ],
+      "Introduction": false,
+      "Summon": [
+        "Ivy, at your service. I am not currently acting as a crown princess, but as a shinobi. Is there a mission for me?"
+      ],
+      "Learn Skill": [
+        "I have learned a new ninja technique. In true shinobi style, I should hone it somewhere in the shadows."
+      ],
+      "Confession": [
+        "Oh, my... I was lost in thought for a moment and forgot to hide my presence, [S].\nThis is quite a joyous festival, but something just occurred to me. What if I learned these ninja skills earlier?\nWhen my father became enthralled with the Fell Dragon, I simply sat and hoped he'd regain his senses one day.\nI should have gathered information, investigated his movements and those of the Four Hounds...\nI should have taken action. Even if that would have meant living in hiding.\nSummoner, please do not hesitate to rely on me if you are in trouble. You only need to say the word.\nIf your power alone is not enough, remember all those around you who are eager to offer support.\nAs a Hero and as a shinobi... Allow me to be your strength."
+      ],
+      "Special": [
+        "Are you a villain?",
+        "I'm sorry about this.",
+        "I shall take your life.",
+        "Ninja engage!"
+      ],
+      "Status": [
+        "-",
+        "This outfit is unlike the heavy dresses I am accustomed to. I find it quite easy to move around in.",
+        "Oh! Me? You detected me?",
+        "I don't mind lurking in the dark, so long as there are no ghosts about.",
+        "Do mind your distance. I have many sharp weapons hidden in this outfit.",
+        "It seems Lyn has also dressed as a ninja. I bet such a thing would surprise my father.",
+        "If it is the Divine Dragon's will, then I shall undertake any mission, no matter how dishonorable.",
+        "I had entrusted all covert missions to my retainers. However, I do see the appeal of performing such operations with my own hands."
+      ],
+      "Map Select": [
+        "Understood.",
+        "Chilling Ninja...",
+        "As a shadow..."
+      ],
+      "Special Map Select": false,
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ninja Ivy",
+    "SEARCH_NAME": "Ninja Ivy",
+    "DISPLAY_NAME": "<:Blue_Tome:1317239386491977749>Ninja Ivy",
+    "RANDOM_IGNORE": true,
+    "alt": true,
+    "reference": [
+      "ivy",
+      "ivy2",
+      "ivy3",
+      "ivy4"
+    ],
+    "prf": {
+      "": "fullbloomscroll",
+      "eff": "fullbloomscroll",
+      "atk": "fullbloomscroll",
+      "spd": "fullbloomscroll",
+      "def": "fullbloomscroll",
+      "res": "fullbloomscroll"
     }
   }
 }

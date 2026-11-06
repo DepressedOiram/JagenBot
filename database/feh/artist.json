@@ -3507,7 +3507,24 @@
       "Resplendent Laevatein",
       "Resp Laevatein",
       "R Laevatein",
-      "Laevatein (Resplendent)"
+      "Laevatein (Resplendent)",
+      "Covert Command",
+      "Anna: Covert Command",
+      "Ninja Anna",
+      "N Anna",
+      "Aided Ninja Alear",
+      "A Ninja Alear",
+      "Aide Ninja Alear",
+      "Aided N Anna",
+      "A N Anna",
+      "Aide N Anna",
+      "Ninja Aided Anna",
+      "Ninja A Anna",
+      "Ninja Aide Anna",
+      "N Aided Anna",
+      "N A Anna",
+      "N Aide Anna",
+      "anna6"
     ],
     "HARD_ALT_NAME": [
       "Legend Reflet",
@@ -3748,9 +3765,27 @@
       "Resplendent Laevatein",
       "Resp Laevatein",
       "R Laevatein",
-      "Laevatein (Resplendent)"
+      "Laevatein (Resplendent)",
+      "Covert Command",
+      "Anna: Covert Command",
+      "Ninja Anna",
+      "N Anna",
+      "Aided Ninja Alear",
+      "A Ninja Alear",
+      "Aide Ninja Alear",
+      "Aided N Anna",
+      "A N Anna",
+      "Aide N Anna",
+      "Ninja Aided Anna",
+      "Ninja A Anna",
+      "Ninja Aide Anna",
+      "N Aided Anna",
+      "N A Anna",
+      "N Aide Anna",
+      "anna6"
     ],
     "heroes": {
+      "anna6": "<:Colorless_Dagger:1317239418943438869>Ninja Aided Anna",
       "galzus": "<:Red_Sword:1317239717707911188>Galzus",
       "hinoka2": "<:Colorless_Bow:1317239404204654703>Bow Hinoka",
       "ishtar2": "<:Red_Tome:1317239730714316800>Dancer Ishtar",
@@ -16202,7 +16237,12 @@
       "H B Micaiah",
       "B H Micaiah",
       "Braver Micaiah",
-      "micaiah9"
+      "micaiah9",
+      "Icy Insight",
+      "Ivy: Icy Insight",
+      "Ninja Ivy",
+      "N Ivy",
+      "ivy5"
     ],
     "HARD_ALT_NAME": [
       "Arm Reflet F",
@@ -16348,11 +16388,17 @@
       "H B Micaiah",
       "B H Micaiah",
       "Braver Micaiah",
-      "micaiah9"
+      "micaiah9",
+      "Icy Insight",
+      "Ivy: Icy Insight",
+      "Ninja Ivy",
+      "N Ivy",
+      "ivy5"
     ],
     "heroes": {
       "caeda6": "<:Blue_Lance:1317239378208096338>Attuned Caeda",
       "camilla9": "<:Green_Tome:1317239575352971396>Legendary Camilla",
+      "ivy5": "<:Blue_Tome:1317239386491977749>Ninja Ivy",
       "mia6": "<:Red_Sword:1317239717707911188>Ilia Mia",
       "micaiah9": "<:Green_Tome:1317239575352971396>Harmonic Brave Micaiah",
       "nerpuz4": "<:Red_Beast:1317239666944114688>Halloween Ner\u00feuz",
@@ -19050,7 +19096,11 @@
       "Resplendent Legendary Ryoma",
       "Resp Legendary Ryoma",
       "R Legendary Ryoma",
-      "Legendary Ryoma (Resplendent)"
+      "Legendary Ryoma (Resplendent)",
+      "Resplendent Brave Gatekeeper",
+      "Resp Brave Gatekeeper",
+      "R Brave Gatekeeper",
+      "Brave Gatekeeper (Resplendent)"
     ],
     "HARD_ALT_NAME": [
       "Petrine",
@@ -19170,11 +19220,16 @@
       "Resplendent Legendary Ryoma",
       "Resp Legendary Ryoma",
       "R Legendary Ryoma",
-      "Legendary Ryoma (Resplendent)"
+      "Legendary Ryoma (Resplendent)",
+      "Resplendent Brave Gatekeeper",
+      "Resp Brave Gatekeeper",
+      "R Brave Gatekeeper",
+      "Brave Gatekeeper (Resplendent)"
     ],
     "heroes": {
       "arion": "<:Blue_Lance:1317239378208096338>Arion",
       "eliwoodR": "<:Red_Sword:1317239717707911188>Eliwood (Resplendent)",
+      "gatekeeperR": "<:Green_Tome:1317239575352971396>Brave Gatekeeper (Resplendent)",
       "geese": "<:Blue_Lance:1317239378208096338>Pirate Geese",
       "heath2": "<:Colorless_Bow:1317239404204654703>Ninja Heath",
       "hector4R": "<:Blue_Lance:1317239378208096338>Brave Hector (Resplendent)",
@@ -31356,6 +31411,7 @@
   },
   "gomashioponzu": {
     "heroes": {
+      "alexandra": "<:Red_Sword:1317239717707911188>Ninja Alexandra",
       "camillaR": "<:Green_Axe:1317239517136031897>Camilla (Resplendent)",
       "hilda6": "<:Colorless_Bow:1317239404204654703>Ilia Fodlan Hilda",
       "palla5": "<:Green_Axe:1317239517136031897>Summer Palla"
@@ -31407,7 +31463,16 @@
       "3H H Hilda",
       "hilda6",
       "fhilda5",
-      "3hhilda5"
+      "3hhilda5",
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
     ],
     "HARD_ALT_NAME": [
       "\u3054\u307e\u3057\u304a\u30dd\u30f3\u9162",
@@ -31455,7 +31520,16 @@
       "3H H Hilda",
       "hilda6",
       "fhilda5",
-      "3hhilda5"
+      "3hhilda5",
+      "Sterling/Silver",
+      "Alexandra: Sterling/Silver",
+      "Ninja Alexandra",
+      "N Alexandra",
+      "Duo Alexandra",
+      "D Alexandra",
+      "Sterling Silver",
+      "Alexandra: Sterling Silver",
+      "alexandra"
     ]
   },
   "yoshio": {
@@ -32863,7 +32937,8 @@
     "heroes": {
       "ayra3": "<:Red_Sword:1317239717707911188>Legendary Ayra",
       "edelgard3R": "<:Green_Axe:1317239517136031897>Brave Edelgard (Resplendent)", 
-      "finn2": "<:Red_Sword:1317239717707911188>Butler Finn"
+      "finn2": "<:Red_Sword:1317239717707911188>Butler Finn",
+      "io": "<:Green_Axe:1317239517136031897>Ninja Rearmed Io"
     },
     "name": "Makimura Shunsuke (\u30DE\u30AD\u30E0\u30E9\u30B7\u30E5\u30F3\u30B9\u30B1)",
     "ALT_NAME": [
@@ -32884,7 +32959,28 @@
       "Resplendent Brave Edelgard",
       "Resp Brave Edelgard",
       "R Brave Edelgard",
-      "Brave Edelgard (Resplendent)"
+      "Brave Edelgard (Resplendent)",
+      "Lone Ninja",
+      "Io: Lone Ninja",
+      "Ninja Io",
+      "N Io",
+      "Ninja Rearmed Io",
+      "N Rearmed Io",
+      "Rearmed Ninja Io",
+      "Rearmed N Io",
+      "Ninja Rearm Io",
+      "N Rearm Io",
+      "Rearm Ninja Io",
+      "Rearm N Io",
+      "Ninja R Io",
+      "N R Io",
+      "R Ninja Io",
+      "R N Io",
+      "Ninja Arm Io",
+      "N Arm Io",
+      "Arm Ninja Io",
+      "Arm N Io",
+      "io"
     ]
   },
   "nanafuji": {

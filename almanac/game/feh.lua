@@ -293,6 +293,8 @@ function Character:get_info()
     local text = string.format("%s%s %s %s\n", self:movement_icon(), self.data.move, self.data.color, self.data.weapon)
     
     text = text .. string.format("%sMax Flowers: %s\n", self:flower_icon(), self:flower_limit())
+
+    text = text .. string.format("%sMax Vignettes: %s\n", heroes_pack:get("vignette"), self:vignette_limit())
     
     -- Check for resplendent
     if self:has_resplendent() then
@@ -405,8 +407,8 @@ function Character:get_mod()
     if self.vignette then
         local id = tonumber(self.data.id)
 
-        -- Heroes released after or during 8.9.0
-        if id <= 1148 then
+        -- Heroes released after or during 8.11.0
+        if id <= 1173 then
             add = add .. string.format("%s+4 ", heroes_pack:get("vignette", "💠"))
         else
             add = add .. string.format("%s+2 ", heroes_pack:get("vignette", "💠"))
@@ -503,8 +505,8 @@ function Character:final_base()
         
         local id = tonumber(self.data.id)
 
-        -- Heroes released after or during 8.9.0
-        if id <= 1160 then
+        -- Heroes released after or during 8.11.0
+        if id <= 1173 then
             base = base + 4
         else 
             base = base + 2
@@ -740,6 +742,18 @@ function Character:flower_limit()
     end
     
     return flower
+end
+
+function Character:vignette_limit()
+    local id = tonumber(self.data.id)
+    local vignette = 1
+
+    -- Heroes released after or during 8.11.0
+    if id <= 1173 then
+        vignette = vignette + 1
+    end
+
+    return vignette
 end
 ---------------------
 function Character:fancy_short()
